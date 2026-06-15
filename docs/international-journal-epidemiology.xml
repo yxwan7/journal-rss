@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Epi]International Journal of Epidemiology</title>
+    <link>https://academic.oup.com/ije</link>
+    <description>Latest journal articles for International Journal of Epidemiology</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jun 2026 16:49:35 +0000</lastBuildDate>
+
+    <item>
+      <title>From risk to structure: reframing health inequities as population phenomena</title>
+      <link>https://doi.org/10.1093/ije/dyag053</link>
+      <guid isPermaLink="false">10.1093/ije/dyag053</guid>
+
+      <dc:creator>María José Monsalves</dc:creator>
+      <dc:creator>Franco Mascayano</dc:creator>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: María José Monsalves, Franco Mascayano
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag053</description>
+    </item>
+    <item>
+      <title>Covariates as Random Effects (CaRE): An approach to modeling high-dimensional confounding and effect heterogeneity.</title>
+      <link>https://doi.org/10.1093/ije/dyag073</link>
+      <guid isPermaLink="false">10.1093/ije/dyag073</guid>
+
+      <dc:creator>Soohyeon Ko</dc:creator>
+      <dc:creator>George Leckie</dc:creator>
+      <dc:creator>Clare Evans</dc:creator>
+      <dc:creator>Rockli Kim</dc:creator>
+      <dc:creator>S V Subramanian</dc:creator>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Soohyeon Ko, George Leckie, Clare Evans, Rockli Kim, S V Subramanian
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag073
+
+Abstract: Abstract Conventional single-level regression models estimate exposure–outcome associations by including covariates as main effects to account for potential confounding, but they rest on the additivity assumption—that each covariate contributes independently, without interactions. This assumption may yield misspecified models and misleading estimates of conditional associations and obscure variation across subgroups, particularly in high-dimensional settings with complex confounding structures. To address these challenges, we present a Covariates as Random Effects (CaRE) approach that treats combinations of covariates as strata, allowing for a parsimonious representation of both main effects and interactions. In this approach, stratum-level random intercepts provide a flexible alternative to strictly additive specifications by representing interactions between covariates through stratification and partial pooling, especially in settings with high-dimensional covariates. In addition, random slopes can be incorporated to explore how the exposure–outcome association varies across strata. To illustrate this approach, we use data from a sample of older adults in India, examining the association between years of education and cognitive function. We compare conventional single-level models with multilevel specifications and show that the multilevel approach yields similar average associations while offering a more compact representation of complex covariate structures and highlighting variability across strata. This approach illustrates how multilevel regression can serve as an alternative for covariate adjustment and the assessment of effect heterogeneity in epidemiologic research.</description>
+    </item>
+    <item>
+      <title>Acute-phase reactants as predictors of chronic kidney disease incidence in Africans: the population-based prospective RODAM cohort study</title>
+      <link>https://doi.org/10.1093/ije/dyag057</link>
+      <guid isPermaLink="false">10.1093/ije/dyag057</guid>
+
+      <dc:creator>Muhulo M Mungamba</dc:creator>
+      <dc:creator>Felix P Chilunga</dc:creator>
+      <dc:creator>Eva L Van Der Linden</dc:creator>
+      <dc:creator>Erik Buene</dc:creator>
+      <dc:creator>Charles F Hayfron-Benjamin</dc:creator>
+      <dc:creator>Karlijn A C Meeks</dc:creator>
+      <dc:creator>Samuel N Darko</dc:creator>
+      <dc:creator>Ellis Owusu-Dabo</dc:creator>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Muhulo M Mungamba, Felix P Chilunga, Eva L Van Der Linden, Erik Buene, Charles F Hayfron-Benjamin, Karlijn A C Meeks, Samuel N Darko, Ellis Owusu-Dabo, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag057
+
+Abstract: Abstract Background Chronic kidney disease (CKD) and chronic inflammation are highly prevalent in African populations, yet their relationship remains understudied. We examined the association between acute-phase reactants (C-reactive protein and ferritin) as markers of acute and chronic inflammation and the incidence of CKD 6 years later in a prospective Ghanaian population-based cohort. Methods Data from the prospective Research on Obesity and Diabetes among African Migrants (RODAM-Pros) cohort were analysed and included participants living in rural and urban Ghana and Ghanaian migrants in the Netherlands. Acute-phase reactants were assessed between 2012 and 2015, while CKD incidence was assessed between 2019 and 2021 by using the race-free Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) 2021 equation. Robust Poisson regression models adjusted for potential confounders were used to assess associations. We explored interactions with age, sex, education, and geographical location, and stratified C-reactive protein (CRP) analyses by using established clinical cutoffs. The role of ferritin as an iron-storage marker was also evaluated. Results Among 1435 participants, the baseline CRP was not associated with CKD incidence at follow-up [adjusted incidence rate ratio (aIRR) 1.02; 95% confidence interval (CI): 0.84–1.15]. Higher ferritin levels were associated with increased CKD risk (aIRR 3.53; 95% CI: 2.42–5.01) and albuminuria (aIRR 4.22; 95% CI: 2.87–6.10), but not with reduced estimated glomerular filtration rate (aIRR 0.99; 95% CI: 0.92–1.05). No effect modification was observed by age, sex, education, or geographical location. We found no evidence that iron overload or deficiency contributed to the ferritin–CKD relationship. Conclusion Elevated ferritin levels, but not CRP levels, were associated with future CKD risk in Ghanaians. Multi-population prospective studies with repeated ferritin measurements are needed to better understand the links between ferritin, iron status, and CKD in African populations.</description>
+    </item>
+    <item>
+      <title>Estimating and discovering heterogeneous treatment effects using machine learning in epidemiological studies: a practical guide</title>
+      <link>https://doi.org/10.1093/ije/dyag092</link>
+      <guid isPermaLink="false">10.1093/ije/dyag092</guid>
+
+      <dc:creator>Toshiaki Komura</dc:creator>
+      <dc:creator>Falco J Bargagli-Stoffi</dc:creator>
+      <dc:creator>Onyebuchi A Arah</dc:creator>
+      <dc:creator>Kosuke Inoue</dc:creator>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Toshiaki Komura, Falco J Bargagli-Stoffi, Onyebuchi A Arah, Kosuke Inoue
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag092
+
+Abstract: Abstract Machine learning-based heterogeneous treatment effect (HTE) estimation and discovery have recently received substantial attention in the healthcare literature. In particular, meta-learner frameworks and causal forests have been widely used in estimating the conditional average treatment effect (CATE). Such advances in HTE estimation and discovery have allowed researchers to assess HTE patterns in their data. Here, we provide a comprehensive and practical guide as well as statistical codes for researchers to implement these models effectively. Specifically, we provide an overview of core motivations for HTE analysis. Then, we describe a methodological overview of popular machine learning algorithms for CATE estimation and how to calibrate their model fit. After demonstrating an application example using a national sample of US older adults, we discuss some critical and practical considerations of HTE analysis with highly granular CATE. Finally, we discuss the assessment of HTE, including the scale and reference point, as well as the interpretation of CATE. Overall, this paper aims to equip researchers with both the conceptual understanding and practical tools necessary to apply machine learning-based HTE analysis in epidemiological research, including both randomized controlled trials and observational studies.</description>
+    </item>
+    <item>
+      <title>Estimates of vaccine effectiveness against measles and mumps: 14 years follow-up of a large cohort in Wales, UK</title>
+      <link>https://doi.org/10.1093/ije/dyag083</link>
+      <guid isPermaLink="false">10.1093/ije/dyag083</guid>
+
+      <dc:creator>Malorie Perry</dc:creator>
+      <dc:creator>Michael B Gravenor</dc:creator>
+      <dc:creator>Simon Cottrell</dc:creator>
+      <dc:creator>Catherine Moore</dc:creator>
+      <dc:creator>Lucy J Griffiths</dc:creator>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Malorie Perry, Michael B Gravenor, Simon Cottrell, Catherine Moore, Lucy J Griffiths
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag083
+
+Abstract: Abstract Background Uptake of the measles–mumps–rubella vaccine in Wales is high. However, sporadic measles cases still occur and there are large mumps outbreaks every few years. In this study, the long-term vaccine effectiveness (VE) of vaccines containing measles and mumps is assessed. Methods A retrospective cohort of 822 116 individuals aged 1–30 years were followed up between 1 January 2007 and 31 December 2020. Welsh Demographic Service data were linked to vaccination status from the national vaccination register and primary care records. Outcomes were identified by linking to laboratory confirmations (measles and mumps) and notifications (mumps) data. Complications were sourced from hospital admissions and primary care data. Extended Cox regression was used to calculate hazard ratios. Results The adjusted VE (aVE) against confirmed measles after two doses remained high after 15 years 99.7% [95% confidence interval (CI) 99.2–99.9]. The aVE for confirmed mumps was lower, with decline over time: 93.6% (95% CI 90.2–95.8) in the first 5 years after vaccination with dose two and 49.9% (95% CI 34.4–61.8) after ≥15 years. A third dose of mumps vaccine temporarily increases protection (87.6%, 95% CI 71.7–94.6). The aVE estimates for mumps were lower when based on clinical suspicion. The VE was high against complications for both infections. Conclusion The high, sustained VE for measles strengthens evidence that elimination remains possible and the high VE against mumps complications is encouraging. Evidence for the waning of mumps immunity may be important when deciding to implement a third dose in outbreak settings. With the increased use of data linkage, studies should be conducted to corroborate these findings.</description>
+    </item>
+    <item>
+      <title>Reductions in malaria cases after deployment of dual-active ingredient insecticide-treated nets in Ghana—a Bayesian interrupted time series analysis</title>
+      <link>https://doi.org/10.1093/ije/dyag067</link>
+      <guid isPermaLink="false">10.1093/ije/dyag067</guid>
+
+      <dc:creator>Samuel Kweku Oppong</dc:creator>
+      <dc:creator>Otubea Owusu-Akrofi</dc:creator>
+      <dc:creator>Christian Atta-Obeng</dc:creator>
+      <dc:creator>Sylvester Coleman</dc:creator>
+      <dc:creator>Punam Amratia</dc:creator>
+      <dc:creator>Tasmin L Symons</dc:creator>
+      <dc:creator>Kefyalew Addis Alene</dc:creator>
+      <dc:creator>Nana Yaw Peprah</dc:creator>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Samuel Kweku Oppong, Otubea Owusu-Akrofi, Christian Atta-Obeng, Sylvester Coleman, Punam Amratia, Tasmin L Symons, Kefyalew Addis Alene, Nana Yaw Peprah, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag067
+
+Abstract: Abstract Background Insecticide-treated nets (ITNs) represent a key tool in reducing human vector contact for malaria control. However, increasing insecticide resistance of malaria vectors threatens the effectiveness of pyrethroid-only nets in reducing malaria risk. Next-generation nets, such as those with dual-active ingredients, have been recommended for use in areas with high malaria burden and confirmed pyrethroid resistance. Here, we assessed the impact of the distribution of Interceptor® G2 (IG2) ITNs on malaria cases in the Western North Region of Ghana distributed in 2021. Methods We analysed monthly numbers of confirmed malaria cases reported by health facilities in the Western North Region from 2018 to 2023. To control for possible confounding effects of climate, monthly mean values of modelled vector habitat suitability and temperature suitability were included. Bayesian Poisson regression time series models were developed to assess the immediate and sustained impact of IG2 ITNs on malaria case trends measured as odds ratio (OR) with their corresponding credible intervals (CrI). Results Malaria cases reduced by 30% (OR, 0.696; CrI, 0.623–0.778) immediately after the distribution of IG2 ITNs in the Western North Region. This effect was sustained at 6 months up to 30 months post-intervention, where cases reduced by 26% (OR, 0.739; CrI, 0.653–0.837) and 40% (OR, 0.594; CrI, 0.492–0.718), respectively. The intervention was also strongly associated with reductions in malaria cases in seven of the nine districts in the region, after controlling for climatic factors. Conclusion This study demonstrates the effectiveness of dual-active Interceptor® G2 ITNs in the Western North Region, an area with confirmed pyrethroid resistance. The findings support the scale-up of next-generation nets by National Malaria Programs and highlight the need for further research to explore the utility of these nets in other high-burden malaria areas with region-specific insecticide resistance profiles.</description>
+    </item>
+    <item>
+      <title>Comorbidity of asthma and attention deficit hyperactivity disorder in childhood: causal, shared early-life risk factors, or shared genetic liability?</title>
+      <link>https://doi.org/10.1093/ije/dyag074</link>
+      <guid isPermaLink="false">10.1093/ije/dyag074</guid>
+
+      <dc:creator>Mohammad Talaei</dc:creator>
+      <dc:creator>Panagiota Pagoni</dc:creator>
+      <dc:creator>Evie Stergiakouli</dc:creator>
+      <dc:creator>Seif O Shaheen</dc:creator>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mohammad Talaei, Panagiota Pagoni, Evie Stergiakouli, Seif O Shaheen
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag074
+
+Abstract: Abstract Background The positive association between childhood asthma and attention deficit hyperactivity disorder (ADHD) has not been adequately explained. We aimed to investigate whether it is causal or whether shared genetics and/or shared early-life risk factors explain the link. Methods We used a two-sample Mendelian randomization (MR) to test whether there is a causal relationship between asthma and ADHD. In the Avon Longitudinal Study of Parents and Children (ALSPAC), we defined doctor-diagnosed asthma, its endotypes according to atopy determined by skin-prick tests, and the risk of ADHD by using the Strengths and Difficulties Questionnaire, all at 7 years of age. We explored whether the asthma–ADHD association was attenuated when controlling for an extensive number of early-life risk factors (N = 7165). Child polygenic risk scores (PRSs) for asthma and ADHD were calculated by using published genome-wide association studies across seven P-value thresholds (&amp;amp;lt;5 × 10−8 to &amp;amp;lt;.5) (N = 5425–5503). Results We found little evidence of a causal effect between asthma and ADHD in both directions. In ALSPAC, asthma [odds ratio (OR) 1.35, 95% confidence interval (CI) 1.10 − 1.65], particularly non-atopic asthma (OR 1.51, 95% CI 1.09 − 2.08), was associated with ADHD in crude models, while atopic asthma was not (OR 1.00, 95% CI 0.69 − 1.45). These associations were largely attenuated after adjusting for 15 shared early-life risk factors (OR 1.14, 95% CI 0.92 − 1.41 for asthma and OR 1.24, 95% CI 0.88 − 1.74 for non-atopic asthma). There was little evidence of association between asthma PRSs and ADHD at any P-value threshold. We found evidence of an association between ADHD PRSs and asthma and non-atopic asthma at most thresholds; the strongest association was at P &amp;amp;lt; 5 × 10−3 (OR 1.12, 95% CI 1.04 − 1.22, P = .004) for asthma and at P &amp;amp;lt; 5 × 10−2 (OR 1.18, 95% CI 1.04 − 1.34, P = .01) for non-atopic asthma. Conclusion The association between asthma and ADHD in childhood is unlikely to be causal and is largely explained by shared early-life risk factors, with some evidence for a shared genetic background.</description>
+    </item>
+    <item>
+      <title>A critique of the cited evidence linking the relationship between vaccines and autism on the United States CDC webpage</title>
+      <link>https://doi.org/10.1093/ije/dyag090</link>
+      <guid isPermaLink="false">10.1093/ije/dyag090</guid>
+
+      <dc:creator>Gabriel Chun Yin Sung</dc:creator>
+      <dc:creator>Shiu Lun Au Yeung</dc:creator>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gabriel Chun Yin Sung, Shiu Lun Au Yeung
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag090</description>
+    </item>
+    <item>
+      <title>Area-level socioeconomic deprivation and suicide by household income: a nationwide cohort study 2015–23</title>
+      <link>https://doi.org/10.1093/ije/dyag070</link>
+      <guid isPermaLink="false">10.1093/ije/dyag070</guid>
+
+      <dc:creator>Yoshikazu Komura</dc:creator>
+      <dc:creator>Kosuke Inoue</dc:creator>
+      <dc:creator>Rory C O’Connor</dc:creator>
+      <dc:creator>Naoki Kondo</dc:creator>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yoshikazu Komura, Kosuke Inoue, Rory C O’Connor, Naoki Kondo
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag070
+
+Abstract: Abstract Background Although area-level socioeconomic deprivation is a potential target for suicide prevention, it remains unclear whether its impact varies by individual socioeconomic status. We investigated whether the association between area-level socioeconomic deprivation and suicide differs by household income. Methods This nationwide cohort study included working-age individuals (18–74 years) covered by the Japan Health Insurance Association from April 2015 to March 2023. Area-level socioeconomic deprivation was assessed at the municipality level by using the Area Deprivation Index in Japan. The incidence rate ratio (IRR) of suicide by area-level socioeconomic deprivation was estimated according to household-income levels. The IRR was adjusted for age, sex, enrollment year, family structure, histories of physical diseases and psychiatric disorders, urbanicity, and local medical resources. Probabilistic bias analysis was applied to provide a bias-adjusted estimate with its uncertainty. Results Among 39 432 793 individuals (57.9% men; mean age 42.9 years), 6508 died by suicide. Area-level socioeconomic deprivation was associated with higher suicide risk, independently of covariates [IRR = 1.11, 95% confidence interval (CI) 1.05–1.17]. This association was found in both the high-household-income group (IRR = 1.12, 95% CI 1.05–1.20) and the low-household-income group (IRR = 1.10, 95% CI 1.02–1.18), with no evidence of heterogeneity. Probabilistic bias analysis supported these findings. Conclusion People in deprived areas experienced higher suicide risk, without heterogeneity by household income. Limitations include potential outcome misclassification, as approximately one-third of cause-of-death data were missing. Addressing area-level socioeconomic deprivation may prevent suicide, regardless of individual socioeconomic status.</description>
+    </item>
+    <item>
+      <title>Low-dose radiation exposure and risk of self-reported cataract in Fukushima nuclear emergency workers</title>
+      <link>https://doi.org/10.1093/ije/dyag063</link>
+      <guid isPermaLink="false">10.1093/ije/dyag063</guid>
+
+      <dc:creator>Huan Hu</dc:creator>
+      <dc:creator>Natsuko Hatsusaka</dc:creator>
+      <dc:creator>Mark P Little</dc:creator>
+      <dc:creator>Osamu Kurihara</dc:creator>
+      <dc:creator>Eunjoo Kim</dc:creator>
+      <dc:creator>Hiroshi Sasaki</dc:creator>
+      <dc:creator>Tetsuya Mizoue</dc:creator>
+      <dc:creator>Toshiteru Okubo</dc:creator>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Huan Hu, Natsuko Hatsusaka, Mark P Little, Osamu Kurihara, Eunjoo Kim, Hiroshi Sasaki, Tetsuya Mizoue, Toshiteru Okubo
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag063
+
+Abstract: Abstract Background Cataract is a well-established radiogenic condition and recent evidence suggests an increased risk even at radiation doses of &amp;amp;lt;100 mGy. Following the 2011 Fukushima Daiichi Nuclear Power Plant accident, ∼20 000 workers participated in emergency operations. This study aimed to investigate the association between cumulative low-dose occupational radiation exposure and the risk of cataract among workers enrolled in the Epidemiological Study of Health Effects in Fukushima Nuclear Emergency Workers. Methods Data from 5773 nuclear emergency workers participating in the cohort were analysed. The cumulative lifetime occupational radiation dose was estimated by combining pre-2011 individual dose records from a nationwide nuclear radiation worker dose registry with radiation doses received during the 2011 emergency-work period. Self-reported, physician-diagnosed cataract was identified through baseline and first follow-up questionnaires. A Cox proportional hazards model was applied to estimate hazard ratios (HRs) with 95% confidence intervals (CIs) for incident cataract, with adjustments for major covariates. Results More than 90% of the participants had cumulative occupational radiation exposure of &amp;amp;lt;100 mSv, including doses received both prior to the accident and during the emergency period (March–November 2011). During 52 921 person-years of follow-up from 2012 to 2024 (mean, 9.2 years), 310 participants reported new-onset cataract. The risk of cataract increased with lifetime occupational exposure up to November 2011, with an HR of 1.03 per 10-mSv increase (95% CI, 1.02, 1.05). This association persisted after excluding participants with doses of ≥100 mSv. For exposure during the emergency period (March–November 2011), the HR was 1.06 per 10-mSv increase (95% CI, 1.03, 1.09). When the cumulative lifetime occupational radiation dose was recalculated by using 2-year and 5-year lag periods before diagnosis or censoring, the HRs per 10-mSv increase were 1.03 (95% CI, 1.01, 1.04) and 1.01 (95% CI, 0.99, 1.04), respectively. Conclusion This study suggests an excess risk of cataract at doses of &amp;amp;lt;100 mSv and adds to the evidence base suggesting an association between low-dose occupational radiation exposure and cataract risk.</description>
+    </item>
+    <item>
+      <title>Mortality in relation to smoke exposure 9 years after the Hazelwood coal mine fire</title>
+      <link>https://doi.org/10.1093/ije/dyag071</link>
+      <guid isPermaLink="false">10.1093/ije/dyag071</guid>
+
+      <dc:creator>Karen Walker-Bone</dc:creator>
+      <dc:creator>Caroline X Gao</dc:creator>
+      <dc:creator>Catherine L Smith</dc:creator>
+      <dc:creator>Tingting Ye</dc:creator>
+      <dc:creator>David Brown</dc:creator>
+      <dc:creator>Natasha Kinsman</dc:creator>
+      <dc:creator>Jillian F Ikin</dc:creator>
+      <dc:creator>Matthew Carroll</dc:creator>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Karen Walker-Bone, Caroline X Gao, Catherine L Smith, Tingting Ye, David Brown, Natasha Kinsman, Jillian F Ikin, Matthew Carroll, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag071
+
+Abstract: Abstract Background In 2014, a coal mine fire in rural Australia shrouded nearby towns in smoke for several weeks. In response to community concerns and a lack of available evidence, the Victorian Department of Health commissioned a long-term health study. This article evaluates smoke effects on mortality 9 years after the fire. Methods In 2016–17, 2872 individuals living near the mine during the fire were recruited into a cohort study and consented to linkage of their data. Time-location diaries were blended with estimates of hourly fire-related fine particulate matter ≤2.5 µm (PM2.5) to generate individual exposure measures. Mortality data were obtained up to mid-2023 by linkage with the National Death Index. Cardiac, cancer, and respiratory-related deaths were identifiable up to December 2021 and predicted thereafter to mid-2023. All-cause mortality effects were evaluated with Cox proportional-hazards models and cause-specific mortality with a competing risk survival model. Results Nine years post-fire, 318 (11%) of the sample had died. All-cause mortality was not associated with PM2.5 exposure. There was no detectable effect on cancer deaths. However, a 10 µg/m3 increase in daily mean exposure to fire-related PM2.5 was associated with an 18% (95% CI: 2%–37%) higher risk of cardiac mortality, while PM2.5 exacerbated risk of respiratory mortality from tobacco use. Conclusion Fire-related PM2.5 increased cardiac mortality and smoking effects on respiratory mortality years after the event. These findings concord with a growing body of evidence on the deadly risks of wildfire smoke. Protecting communities and individuals from smoke during and after large fire events should be a public health priority.</description>
+    </item>
+    <item>
+      <title>Socioeconomic inequalities in life expectancy within and between native-born and foreign-born populations: a comparative study of 10 European countries</title>
+      <link>https://doi.org/10.1093/ije/dyag045</link>
+      <guid isPermaLink="false">10.1093/ije/dyag045</guid>
+
+      <dc:creator>Su Yeon Jang</dc:creator>
+      <dc:creator>Frank J van Lenthe</dc:creator>
+      <dc:creator>Mikko Myrskylä</dc:creator>
+      <dc:creator>Anna Oksuzyan</dc:creator>
+      <dc:creator>Silvia Loi</dc:creator>
+      <dc:creator>Matthias Bopp</dc:creator>
+      <dc:creator>Henrik Brønnum-Hansen</dc:creator>
+      <dc:creator>Patrick Deboosere</dc:creator>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Su Yeon Jang, Frank J van Lenthe, Mikko Myrskylä, Anna Oksuzyan, Silvia Loi, Matthias Bopp, Henrik Brønnum-Hansen, Patrick Deboosere, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag045
+
+Abstract: Abstract Background Foreign-born residents in high-income countries often outlive the native-born population, but it remains unclear how this advantage varies across countries and socioeconomic groups. We aimed to assess socioeconomic inequalities in the life expectancy advantage of foreign-born populations across 10 European countries. Methods Using national population registers and census, we collected data on mortality by country of birth and educational attainment in 10 European countries from 2010 to 2019. Based on these data, we estimated partial life expectancy between ages 35 and 80 years for native-born and foreign-born populations in each country, both overall and by education. We then decomposed the overall gap between native- and foreign-born populations into differences in education-specific mortality and the educational composition of the population. Results Foreign-born populations had higher partial life expectancies than native-born populations in all countries except Sweden and Estonia, especially among individuals with low-level education. Decomposition analyses revealed that the overall longevity advantage of foreign-born populations was largely attributable to their lower mortality in less-educated groups. However, in most countries—except Estonia, Lithuania, and Spain—the overrepresentation of less-educated individuals among the foreign-born partially cancelled out these advantages. Conclusions The longevity advantages among foreign-born populations in European countries may reflect socioeconomic barriers that concentrate relatively healthy, resource-rich immigrants into lower socioeconomic groups. Improving how societies recognize and use the skills and resources of foreign-born populations can help reduce these barriers, benefiting their longevity outcomes and contributing to more inclusive societies.</description>
+    </item>
+    <item>
+      <title>Development and validation of an epidemiological risk score for early detection of pancreatic cancer in high-risk individuals within the IMAGene project</title>
+      <link>https://doi.org/10.1093/ije/dyag064</link>
+      <guid isPermaLink="false">10.1093/ije/dyag064</guid>
+
+      <dc:creator>Lois Riobó-Mayo</dc:creator>
+      <dc:creator>Lluis Salvador</dc:creator>
+      <dc:creator>Alex Teulé</dc:creator>
+      <dc:creator>Elisabet Guinó</dc:creator>
+      <dc:creator>Laura Layos</dc:creator>
+      <dc:creator>Serena Oliveri</dc:creator>
+      <dc:creator>Clizia Cincidda</dc:creator>
+      <dc:creator>Giulia Ongaro</dc:creator>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Lois Riobó-Mayo, Lluis Salvador, Alex Teulé, Elisabet Guinó, Laura Layos, Serena Oliveri, Clizia Cincidda, Giulia Ongaro, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag064
+
+Abstract: Abstract Background Early detection is critical in pancreatic ductal adenocarcinoma (PDAC)—one of the most lethal malignancies due to its typically late diagnosis. Methods In this study, we aimed to validate an epidemiological risk score (ERS) designed to identify individuals at increased risk of developing PDAC prior to the use of imaging or other diagnostic procedures. The ERS was constructed through a meta-analysis of 24 well-established epidemiological risk factors. We applied this score to a prospective cohort of 178 high-risk individuals with a family history of PDAC within the IMAGene project (ClinicalTrials.gov registration code: NCT06334458). To evaluate the predictive value of the ERS, all participants underwent whole-body or abdominal magnetic resonance imaging (MRI) and the findings were classified according to the Oncologically Relevant Findings Reporting and Data System criteria to identify and categorize lesions based on their malignant potential. External validation was conducted by using a subset of the UK Biobank (UKB) cohort (≈300 000 individuals), among whom 1648 were diagnosed with PDAC. Results Higher ERS values were associated with the presence of potentially malignant lesions on MRI. Both pancreatic and extra-pancreatic malignant lesions were more frequent among individuals with higher ERS scores (P = .01 and P = .02 respectively) compared with controls. External validation in PDAC cases within the UKB cohort confirmed these associations. Conclusion Our findings support the integration of the ERS as a feasible, low-cost tool for PDAC risk stratification, with the potential to facilitate earlier detection and improve clinical outcomes.</description>
+    </item>
+    <item>
+      <title>Age-specific mortality patterns across influenza pandemics: evidence from all-cause mortality data across multiple populations</title>
+      <link>https://doi.org/10.1093/ije/dyag061</link>
+      <guid isPermaLink="false">10.1093/ije/dyag061</guid>
+
+      <dc:creator>Lauren E Steele</dc:creator>
+      <dc:creator>Andrea M Tilstra</dc:creator>
+      <dc:creator>Kirsty R Short</dc:creator>
+      <dc:creator>Svenn-Erik Mamelund</dc:creator>
+      <dc:creator>Elizabeth Wrigley-Field</dc:creator>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Lauren E Steele, Andrea M Tilstra, Kirsty R Short, Svenn-Erik Mamelund, Elizabeth Wrigley-Field
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag061
+
+Abstract: Abstract Background Understanding age-specific mortality patterns across historic influenza pandemics is crucial for future pandemic preparedness. Prior research shows that, while the 1918 pandemic caused unprecedented mortality in younger adults, subsequent pandemics in 1957, 1968, and 2009 displayed varying mortality patterns, with elevated risks in some younger populations and elderly populations. However, cross-national comparative analyses of these patterns using harmonized all-cause mortality data remain lacking but are critical for informing public health strategies. Methods We analysed age-specific all-cause absolute and percentage excess mortality patterns across 48 populations during the 1918, 1957, 1968, and 2009 influenza pandemics by using data from the Human Mortality Database. Results While the 1918 pandemic consistently showed a peak in positive absolute excess mortality at younger ages (5–39 years), age-specific mortality patterns in 1918 also varied substantially across the populations, particularly at older and early-childhood ages; subsequent pandemics lacked this peak and revealed varied mortality patterns across the age groups, including inconsistent excess mortality rates among the elderly. The percentage of excess mortality also differed by country and pandemic, highlighting the complexity of age-based mortality risks. Conclusion This work demonstrates that reports of increased severity among young people as a universal feature of all historical influenza pandemics may have been exaggerated, influenced by the exceptional mortality among the young during the 1918 pandemic.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: Cheeloo Lifespan Electronic-health reseArch Data-library (Cheeloo LEAD)</title>
+      <link>https://doi.org/10.1093/ije/dyag091</link>
+      <guid isPermaLink="false">10.1093/ije/dyag091</guid>
+
+      <dc:creator>Shuaijie Zhang</dc:creator>
+      <dc:creator>Weiwei Chi</dc:creator>
+      <dc:creator>Qing Wang</dc:creator>
+      <dc:creator>Lei Li</dc:creator>
+      <dc:creator>Yongchao Wang</dc:creator>
+      <dc:creator>Qi Zhang</dc:creator>
+      <dc:creator>Hongkai Li</dc:creator>
+      <dc:creator>Xifeng Hu</dc:creator>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shuaijie Zhang, Weiwei Chi, Qing Wang, Lei Li, Yongchao Wang, Qi Zhang, Hongkai Li, Xifeng Hu, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag091</description>
+    </item>
+    <item>
+      <title>A cohort study of forced vital capacity, airway obstruction, and survival in the multinational Burden of Obstructive Lung Disease study</title>
+      <link>https://doi.org/10.1093/ije/dyag093</link>
+      <guid isPermaLink="false">10.1093/ije/dyag093</guid>
+
+      <dc:creator>Peter G J Burney</dc:creator>
+      <dc:creator>Emmanouil Bagkeris</dc:creator>
+      <dc:creator>James Potts</dc:creator>
+      <dc:creator>Rune Nielsen</dc:creator>
+      <dc:creator>Graham Devereux</dc:creator>
+      <dc:creator>Karima El Rhazi</dc:creator>
+      <dc:creator>Althea Aquart-Stewart</dc:creator>
+      <dc:creator>Asaad A Nafees</dc:creator>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Peter G J Burney, Emmanouil Bagkeris, James Potts, Rune Nielsen, Graham Devereux, Karima El Rhazi, Althea Aquart-Stewart, Asaad A Nafees, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag093
+
+Abstract: Abstract Background In the USA, higher forced vital capacity (FVC) is linked with longer survival, and FVC is associated with survival independently of ethnicity. The implications for the low FVC values in parts of Asia and Africa are unknown. Methods We used data from 16 sites of the multinational Burden of Obstructive Lung Disease (BOLD) study that completed follow-up of participants between 2019 and 2021 and reported at least five deaths between baseline and follow-up. We assessed the association of mortality with FVC and Forced Expiratory Volume in 1 second (FEV1)/FVC ratio within each site using Cox proportional hazards models. These models were adjusted for age, smoking, height, and weight. Effect estimates from all sites were combined using meta-analysis. Systematic regional differences were investigated. Results Of 9927 study participants with follow-up data, 1120 (11.3%) had died [mean follow-up = 8.7 years, standard deviation (SD) = 3.3 years]. Baseline post-bronchodilator FVC and FEV1/FVC were inversely associated with mortality. When both FVC and FEV1/FVC were mutually adjusted for each other, the decreased mortality rates were more pronounced for each SD higher FVC at baseline [44% (95% confidence interval (CI): 25%, 58%) for men and 28% (95% CI: 11%, 41%) for women] than for FEV1/FVC at baseline [14% (95% CI: 8%, 20%) for men and 7% (95% CI: −10%, 21%) for women]. The probability of true regional differences was low. Conclusions People with a higher FVC adjusted for age, sex, and height have a longer survival. Regional adjustments to lung function standards are inappropriate when assessing prognosis.</description>
+    </item>
+    <item>
+      <title>Overcoming research challenges in sub-Saharan Africa: insights from the PREECARDIA study</title>
+      <link>https://doi.org/10.1093/ije/dyag058</link>
+      <guid isPermaLink="false">10.1093/ije/dyag058</guid>
+
+      <dc:creator>Ruben Turé</dc:creator>
+      <dc:creator>Albertino Damasceno</dc:creator>
+      <dc:creator>Amabélia Rodrigues</dc:creator>
+      <dc:creator>Nuno Lunet</dc:creator>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ruben Turé, Albertino Damasceno, Amabélia Rodrigues, Nuno Lunet
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag058</description>
+    </item>
+    <item>
+      <title>Collapsibility in case-control studies</title>
+      <link>https://doi.org/10.1093/ije/dyag085</link>
+      <guid isPermaLink="false">10.1093/ije/dyag085</guid>
+
+      <dc:creator>Neil Pearce</dc:creator>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Neil Pearce
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag085
+
+Abstract: Abstract It is well-established that the odds ratio (OR) is non-collapsible and that adjustment of the OR for a risk factor can produce a change in the main effect estimate even when there is no confounding. In contrast, the risk ratio (RR) is collapsible, whereas the rate ratio is non-collapsible, but usually to a lesser extent than is the case with ORs. However, almost all discussions of non-collapsibility have been conducted in the context of effect measures in cohort studies. In this paper, I consider non-collapsibility in case-control studies where the OR inherits the collapsibility or non-collapsibility of the ratio effect measure that the study was designed to estimate. This is most clearly illustrated in the situation of a closed cohort with a fixed follow-up time. In this situation, choosing controls by cumulative incidence sampling estimates the OR in the corresponding cohort study, and therefore the resulting case-control OR is non-collapsible. Choosing controls by case-cohort sampling estimates the cohort study RR, and the resulting case-control OR is collapsible. Choosing controls by density sampling (perhaps the most common approach) estimates the cohort study rate ratio, and the resulting case-control OR is non-collapsible, but to a lesser extent than for cumulative incidence sampling. Moreover, if the disease under study is rare (in the cohort study), all three methods produce case-control ORs that are approximately collapsible.</description>
+    </item>
+    <item>
+      <title>From siege to spillover: how Gaza’s health crisis threatens global infection spread</title>
+      <link>https://doi.org/10.1093/ije/dyag072</link>
+      <guid isPermaLink="false">10.1093/ije/dyag072</guid>
+
+      <dc:creator>Muna Abed Alah</dc:creator>
+      <dc:creator>Peter Valentine Coyle</dc:creator>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Muna Abed Alah, Peter Valentine Coyle
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag072</description>
+    </item>
+    <item>
+      <title>Nationwide trends in overall and abdominal obesity among Korean adults, 2007–2022: an age-period-cohort analysis</title>
+      <link>https://doi.org/10.1093/ije/dyag068</link>
+      <guid isPermaLink="false">10.1093/ije/dyag068</guid>
+
+      <dc:creator>Dabin Jeong</dc:creator>
+      <dc:creator>Garam Jo</dc:creator>
+      <dc:creator>Rockli Kim</dc:creator>
+      <dc:creator>S V Subramanian</dc:creator>
+      <dc:creator>Min-Jeong Shin</dc:creator>
+      <dc:creator>Hannah Oh</dc:creator>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dabin Jeong, Garam Jo, Rockli Kim, S V Subramanian, Min-Jeong Shin, Hannah Oh
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag068
+
+Abstract: Abstract Background Overall and abdominal obesity are associated with increased risks of various chronic diseases. A comprehensive understanding of nationwide trends and contributing factors is necessary to reduce obesity burdens. Methods We conducted hierarchical age-period-cohort analyses using cross-classified random-effects models on measured body mass index (BMI) and waist circumference (WC) data from a nationally representative sample of 86 806 Korean adults aged 19–79 years in the Korea National Health and Nutrition Examination Survey 2007–2022. Results In 2007–2022, there were overall increasing trends in age-standardized mean BMI and WC and prevalence of overall and abdominal obesity. When stratified by sex, the age-standardized mean BMI and WC increased among men (BMI: from 24.1 to 25.2 kg/m2; WC: from 84.6 to 88.6 cm), whereas only small changes were observed among women (BMI: from 23.1 to 23.2 kg/m2; WC: from 78.8 to 77.9 cm). Mean BMI and WC increased with age through middle adulthood in men and late adulthood in women. After controlling for age and period effects, mean BMI and WC were lowest among the birth cohorts of the late 1950s and 1970s and increased in more recent birth cohorts. Among men, mean BMI and WC were higher in higher socioeconomic subgroups (higher income, higher education, urban areas), but, among women, mean BMI and WC were higher in lower socioeconomic subgroups. Conclusions To reduce obesity-related disease burdens in Korea, tailored interventions are needed to target the most vulnerable populations, such as younger generations, men of higher socioeconomic subgroups, and women of lower socioeconomic subgroups.</description>
+    </item>
+    <item>
+      <title>Structured tools for assessing quality and risk of bias in Mendelian randomization studies: an updated systematic review</title>
+      <link>https://doi.org/10.1093/ije/dyag052</link>
+      <guid isPermaLink="false">10.1093/ije/dyag052</guid>
+
+      <dc:creator>Jinyue Yu</dc:creator>
+      <dc:creator>Mengxuan Zou</dc:creator>
+      <dc:creator>Francesca Spiga</dc:creator>
+      <dc:creator>Sarah Dawson</dc:creator>
+      <dc:creator>George Davey Smith</dc:creator>
+      <dc:creator>Julian P T Higgins</dc:creator>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jinyue Yu, Mengxuan Zou, Francesca Spiga, Sarah Dawson, George Davey Smith, Julian P T Higgins
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag052
+
+Abstract: Abstract Background The growing use of Mendelian randomization (MR) has heightened the need for rigorous quality and bias assessment tools. A previous systematic review included studies published up to July 2021 identified 14 structured instruments for conducting, evaluating, and reporting MR studies. However, methodological developments have accelerated in the years since. Methods We updated the previous systematic review to include tools published between July 2021 and January 2025, applying the same search strategy and eligibility criteria. Two reviewers independently screened articles, extracted data, and mapped tool content to bias domains. Results We identified 15 additional articles, bringing the total to 29 tools. Of these 29, 19 provided structured evaluation tools. Twelve of the 19 evaluation tools were newly added in the present review, which addressed broader methodological domains beyond core instrumental variable assumptions, including genetic instrument selection, population stratification, sensitivity analyses, and dataset considerations. However, substantial variation in bias domains, structure, and scoring methods across tools persists. Key gaps remain in the assessment of linkage disequilibrium, missing data, and dynastic effects. Conclusions While the number of structured tools has increased in recent years, the lack of standardization across tools makes it difficult to compare across systematic reviews of MR studies. Developing more complete and standardized evaluation frameworks and properly testing these tools in practice are important next steps to improve the overall quality of MR research.</description>
+    </item>
+    <item>
+      <title>Professor Tord Envold Kjellström (1943–2025)</title>
+      <link>https://doi.org/10.1093/ije/dyag084</link>
+      <guid isPermaLink="false">10.1093/ije/dyag084</guid>
+
+      <dc:creator>Ruth Bonita</dc:creator>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ruth Bonita
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag084</description>
+    </item>
+    <item>
+      <title>Cohort Profile Update: The Swiss Childhood Cancer Survivor Cohort</title>
+      <link>https://doi.org/10.1093/ije/dyag089</link>
+      <guid isPermaLink="false">10.1093/ije/dyag089</guid>
+
+      <dc:creator>Grit Sommer</dc:creator>
+      <dc:creator>Christina Schindera</dc:creator>
+      <dc:creator>Carina Nigg</dc:creator>
+      <dc:creator>Nicolas Waespe</dc:creator>
+      <dc:creator>Nicolas X Von Der Weid</dc:creator>
+      <dc:creator>Fabiën N Belle</dc:creator>
+      <dc:creator>Claudia E Kuehni</dc:creator>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Grit Sommer, Christina Schindera, Carina Nigg, Nicolas Waespe, Nicolas X Von Der Weid, Fabiën N Belle, Claudia E Kuehni
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag089</description>
+    </item>
+    <item>
+      <title>Loneliness and health-related quality of life by chronic disease: a nationally representative survey</title>
+      <link>https://doi.org/10.1093/ije/dyag051</link>
+      <guid isPermaLink="false">10.1093/ije/dyag051</guid>
+
+      <dc:creator>Jihye Heo</dc:creator>
+      <dc:creator>Hyeonjin Cho</dc:creator>
+      <dc:creator>Jiseon Lee</dc:creator>
+      <dc:creator>Yeonjung Lim</dc:creator>
+      <dc:creator>Mangyeong Lee</dc:creator>
+      <dc:creator>Taeyoun Jo</dc:creator>
+      <dc:creator>Danbee Kang</dc:creator>
+      <dc:creator>Juhee Cho</dc:creator>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jihye Heo, Hyeonjin Cho, Jiseon Lee, Yeonjung Lim, Mangyeong Lee, Taeyoun Jo, Danbee Kang, Juhee Cho
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag051
+
+Abstract: Abstract Background Patients with chronic diseases may be vulnerable to loneliness, but previous studies are inconsistent. Furthermore, the impact of loneliness may differ depending on the type of chronic disease. However, previous studies have focused on single diseases. Thus, this study aims to evaluate the prevalence and impact on health-related quality of life (HRQoL) of different chronic diseases. Methods This is a cross-sectional study. We included from the Korean general population, participants with cardiovascular, musculoskeletal, respiratory, endocrine/metabolic, ear/eye, urologic/reproductive, gastrointestinal, mental, and cerebrovascular diseases, and cancer. Loneliness was assessed by using the third revised version of the UCLA Loneliness Scale. HRQoL was assessed by using the Patient-Reported Outcomes Measurement Information System Global Health v1.2. Results A total of 2699 participants were enrolled, of whom 1755 (65.0%) had at least one chronic disease. Participants with chronic conditions (27.5%) were more likely to experience high levels of loneliness than healthy individuals (22.1%). The highest levels of loneliness were found in mental disorders (57.4%), followed by cerebrovascular (36.7%) and ear/eye (35.8%) diseases. High levels of loneliness were associated with poor psychological health (prevalence ratio [PR] 3.55, 95% confidence interval [CI] 3.05, 4.13) and physical health (PR 1.73, 95% CI 1.55, 1.93). In participants with cancer, the PR for poor psychological health was 5.89 (95% CI 3.32, 10.46), but this estimate is imprecise and should be interpreted cautiously due to the small subgroup (n = 87). Conclusion Participants with chronic conditions had higher loneliness than the general population, especially those with mental, cerebrovascular, and ear/eye diseases. Loneliness not only affects psychological health, but also has a significant impact on physical health.</description>
+    </item>
+    <item>
+      <title>Duration of vaccine-induced immunity following MMR2 vaccination in a measles and rubella-eliminated country</title>
+      <link>https://doi.org/10.1093/ije/dyag076</link>
+      <guid isPermaLink="false">10.1093/ije/dyag076</guid>
+
+      <dc:creator>June Young Chun</dc:creator>
+      <dc:creator>Ah-Ra Kim</dc:creator>
+      <dc:creator>Hwichang Jeong</dc:creator>
+      <dc:creator>You-Jin Kim</dc:creator>
+      <dc:creator>Hae Ji Kang</dc:creator>
+      <dc:creator>Hye-Sook Jeong</dc:creator>
+      <dc:creator>Gi-Eun Rhie</dc:creator>
+      <dc:creator>Youngmee Jee</dc:creator>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: June Young Chun, Ah-Ra Kim, Hwichang Jeong, You-Jin Kim, Hae Ji Kang, Hye-Sook Jeong, Gi-Eun Rhie, Youngmee Jee, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag076
+
+Abstract: Abstract Background The measles, mumps, and rubella (MMR) vaccine is generally considered to provide lifelong immunity against measles and rubella. However, occasional measles outbreaks in countries with high vaccine coverage have raised concerns about waning immunity. In this study, we aimed to estimate the duration of vaccine-induced immunity following MMR2 vaccination in settings where measles and rubella have been eliminated. Methods Using 2019 national serosurvey data, this study estimated antibody waning (decay) rates for each antigen after MMR2 vaccination, with age as a proxy for time since vaccination. In South Korea, MMR2 coverage has exceeded 95% from the 1995 birth cohort, and no significant measles or rubella outbreaks have occurred since 2001, allowing for homogeneous cohorts. Additionally, the time required for the geometric mean titers of each antibody to reach the seronegative cutoff levels was calculated. Results The average antibody decay rates for MMR were 8.71%, 12.02%, and 5.48% per year, respectively, after MMR2 vaccination. The duration of vaccine-induced immunity was estimated to be 19 years for measles, 9.71 years for mumps, and 31.57 years for rubella when equivocal results were considered negative. If equivocal results were considered positive, the duration would be 27.32 years for measles, 15.25 years for mumps, and 39.77 years for rubella. Conclusion Here, we found that individuals who have not experienced natural infection exhibited age-dependent waning of vaccine-induced immunity. While vaccination remains the most effective way to prevent disease, continued vigilance is necessary even in countries with high vaccine coverage.</description>
+    </item>
+    <item>
+      <title>Exploring genetic confounding of the associations between screen time and depressive symptoms in adolescence and early adulthood</title>
+      <link>https://doi.org/10.1093/ije/dyag079</link>
+      <guid isPermaLink="false">10.1093/ije/dyag079</guid>
+
+      <dc:creator>Jiayao Xu</dc:creator>
+      <dc:creator>Jessie Baldwin</dc:creator>
+      <dc:creator>Amanda M Hughes</dc:creator>
+      <dc:creator>Annie Herbert</dc:creator>
+      <dc:creator>Hannah J Jones</dc:creator>
+      <dc:creator>Marcus R Munafo</dc:creator>
+      <dc:creator>Laura D Howe</dc:creator>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jiayao Xu, Jessie Baldwin, Amanda M Hughes, Annie Herbert, Hannah J Jones, Marcus R Munafo, Laura D Howe
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag079
+
+Abstract: Abstract Background Digital devices have become a major aspect of children’s lives. Associations between screen time and mental health have been observed, but the causality remains unclear. This study aimed to investigate the associations between screen time and later depressive symptoms, and to test the robustness of these associations when accounting for genetic confounding. Methods This study used data from the Avon Longitudinal Study of Parents and Children—a prospective cohort of children born between 1991 and 1992 in the UK. Different forms of screen time and depressive symptoms at ages 16, 22, and 26 years were assessed through self-completion questionnaires. The average daily screen time was calculated. Depressive symptoms were measured by using the Short Mood and Feelings Questionnaire (SMFQ). Polygenic scores (PGSs) for depression were calculated. Linear regression models were used to examine the associations between standardized screen time at ages 16, 22, and 26 years, and standardized depressive symptoms at age 26 years, adjusting for sociodemographic confounders and PGSs. Genetic sensitivity analysis (Gsens) was used to test for genetic confounding in these associations. Results A total of 3003 participants were included in the analysis. Some, but not all, forms of screen time were associated with higher SMFQ scores, e.g. time spent using a phone, tablet, or e-book at age 22 years [β: 0.10, 95% confidence interval (CI) 0.07, 0.14 for weekdays; β: 0.08, 95% CI 0.04, 0.11 for weekends] and television time at age 26 years (β: 0.10, 95% CI 0.06, 0.14 for weekdays; β: 0.09, 95% CI 0.06, 0.13 for weekends). These associations persisted after adjustment for sociodemographic confounders and PGSs, but were attenuated in the Gsens (β = 0.03, 95% CI −0.01, 0.07 for the association with time spent using a phone, tablet, or e-book at age 22 years on weekends; β = 0.06, 95% CI 0.01, 0.10 for television time at age 26 years on weekends). Conclusion For some measures of screen time, there were no associations with depressive symptoms. Where associations were seen, they were attenuated in the Gsens, implying that genetic confounding is present in the relationship between screen time and depressive symptoms in adolescents and young adults.</description>
+    </item>
+    <item>
+      <title>Dental-amalgam exposure and the risk and progression of multiple sclerosis</title>
+      <link>https://doi.org/10.1093/ije/dyag059</link>
+      <guid isPermaLink="false">10.1093/ije/dyag059</guid>
+
+      <dc:creator>Jie Guo</dc:creator>
+      <dc:creator>Tomas Olsson</dc:creator>
+      <dc:creator>Lars Alfredsson</dc:creator>
+      <dc:creator>Anna Karin Hedström</dc:creator>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jie Guo, Tomas Olsson, Lars Alfredsson, Anna Karin Hedström
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag059
+
+Abstract: Abstract Background Concerns about the neurotoxic potential of dental amalgam in multiple sclerosis (MS) persists but its impact on disease risk and progression remains unclear. Methods We used data from a Swedish population-based case–control study (2386 cases, 4849 controls) to investigate the association between dental amalgam exposure and MS risk. Odds ratios (ORs) with 95% confidence intervals (CIs) were estimated by using logistic regression and interaction with smoking was evaluated. Relapsing-onset MS cases born between 1965 and 1985 (n = 1191) were followed longitudinally by using clinical data from the Swedish MS registry. The time to confirmed disability worsening (CDW) and Expanded Disability Status Scale (EDSS) 3 and 4 were assessed by using Cox regression; EDSS trajectories were analysed by using linear mixed-effects models. Results Amalgam exposure was associated with increased MS risk in a dose-dependent manner (OR for trend 1.14, 95% CI 1.08–1.20). A significant interaction with smoking was observed (attributable proportion due to interaction 0.25, 95% CI 0.10–0.40). In the longitudinal cohort, those with at least six fillings had increased risk of CDW [hazard ratio (HR) 1.35, 95% CI 1.07–1.71] and progression to EDSS 3 (HR 1.48, 95% CI 1.07–2.05) and EDSS 4 (1.68, 95% CI 1.01–2.83). Associations were stronger among current smokers, those diagnosed after age 40 years, and individuals on low-efficacy therapies. The EDSS trajectories also showed faster progression in the high-exposure group (P = .044). Conclusion Dental amalgam exposure may be associated with both increased risk of MS and faster disability progression. Findings support a potential synergistic effect with smoking and raise the hypothesis that mercury may contribute to MS-related neurodegeneration.</description>
+    </item>
+    <item>
+      <title>Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study</title>
+      <link>https://doi.org/10.1093/ije/dyag040</link>
+      <guid isPermaLink="false">10.1093/ije/dyag040</guid>
+
+      <dc:creator>Susu Wang</dc:creator>
+      <dc:creator>Jingyu Chen</dc:creator>
+      <dc:creator>Xin Liang</dc:creator>
+      <dc:creator>Kailong He</dc:creator>
+      <dc:creator>Kang Cai</dc:creator>
+      <dc:creator>Junxia Liu</dc:creator>
+      <dc:creator>Fei Li</dc:creator>
+      <dc:creator>Chong-Huai Yan</dc:creator>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Susu Wang, Jingyu Chen, Xin Liang, Kailong He, Kang Cai, Junxia Liu, Fei Li, Chong-Huai Yan, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag040
+
+Abstract: Abstract Background Even low-level prenatal lead exposure may adversely affect fetal development, yet its impact on neonatal birth outcomes and potential sex-specific effects remain unclear in general populations. We aimed to assess the associations between low-level prenatal lead exposure and neonatal anthropometric outcomes, and to investigate sex-specific susceptibility. Methods We utilized data from a prospective birth cohort established in Wujiang District, Jiangsu Province, China, including 2020 mother–infant pairs. Cord blood lead levels were measured at delivery by using graphite furnace atomic absorption spectrometry. Neonatal birthweight, length, and head circumference were recorded. Multiple linear regression models were used to assess associations between log-transformed lead concentrations and birth outcomes, with stratification by infant sex. Dose–response relationships were examined by using restricted cubic splines (RCSs) and threshold effects were tested via piecewise linear regression. Results The median cord blood lead concentration was 32.10 μg/L [95% confidence interval (CI): 31.40, 32.82 μg/L]. Higher cord blood lead concentrations were significantly associated with reduced head circumference (adjusted β = −0.314 cm per 1-unit increase in log10 Pb; 95% CI: −0.502, −0.126; P = .001) but not with birthweight or length. Sex-stratified analysis revealed that this association was significant in males (adjusted β = –0.461 cm per 1-unit increase in log10 Pb; 95% CI: –0.735, –0.188; P = .001) but not in females. RCS models demonstrated a nonlinear relationship, with a threshold at ∼40 μg/L, above which the head circumference declined more steeply. This threshold effect persisted in males. Conclusion Prenatal exposure to lead is associated with reduced neonatal head circumference, with evidence of sex-specific vulnerability and threshold effects. These findings underscore the need for stringent environmental monitoring and suggest that head circumference may serve as a sensitive biomarker of early lead toxicity, even at low exposure levels.</description>
+    </item>
+    <item>
+      <title>A tutorial on conducting sample size and power calculations for detecting treatment effect heterogeneity in cluster randomized trials with linear mixed models</title>
+      <link>https://doi.org/10.1093/ije/dyag069</link>
+      <guid isPermaLink="false">10.1093/ije/dyag069</guid>
+
+      <dc:creator>Mary Ryan Baumann</dc:creator>
+      <dc:creator>Monica Taljaard</dc:creator>
+      <dc:creator>Patrick J Heagerty</dc:creator>
+      <dc:creator>Michael O Harhay</dc:creator>
+      <dc:creator>Guangyu Tong</dc:creator>
+      <dc:creator>Rui Wang</dc:creator>
+      <dc:creator>Fan Li</dc:creator>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mary Ryan Baumann, Monica Taljaard, Patrick J Heagerty, Michael O Harhay, Guangyu Tong, Rui Wang, Fan Li
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag069
+
+Abstract: Abstract Cluster-randomized trials (CRTs) are a well-established class of designs for evaluating community-based interventions. An essential task in planning these trials is determining the number of clusters and cluster sizes needed to achieve sufficient statistical power for detecting a clinically relevant effect size. While methods for evaluating the average treatment effect (ATE) for the entire study population are well-established, sample size methods for testing heterogeneity of treatment effects (HTEs), i.e. treatment–covariate interaction or difference in subpopulation-specific treatment effects, in CRTs have only recently been developed. For pre-specified analyses of HTEs in CRTs, effect-modifying covariates should, ideally, be accompanied by sample size or power calculations to ensure the trial has adequate power for the planned analyses. Power analysis for testing HTEs is more complex than for ATEs due to the additional design parameters that must be specified. Power and sample size formulas for testing HTEs via linear mixed-effects models have been separately derived for different cluster-randomized designs, including single and multi-period parallel designs, crossover designs, and stepped-wedge designs, and for continuous and binary outcomes. This tutorial provides a consolidated reference guide for these methods and enhances their accessibility through an online R Shiny Calculator. We further discuss key considerations for conducting sample size and power calculations to test pre-specified HTE hypotheses in CRTs, highlighting the importance of specifying advanced estimates of intracluster correlation coefficients for both outcomes and covariates and their implications for power. The sample size methodology and calculator functionality are demonstrated through a real CRT example.</description>
+    </item>
+    <item>
+      <title>Residential proximity to oil and gas development and risk of gestational diabetes mellitus</title>
+      <link>https://doi.org/10.1093/ije/dyag081</link>
+      <guid isPermaLink="false">10.1093/ije/dyag081</guid>
+
+      <dc:creator>Martha R Koenig</dc:creator>
+      <dc:creator>Kaylin A Vrkljan</dc:creator>
+      <dc:creator>Fintan A Mooney</dc:creator>
+      <dc:creator>Erin J Campbell</dc:creator>
+      <dc:creator>Nicole C Deziel</dc:creator>
+      <dc:creator>Elizabeth E Hatch</dc:creator>
+      <dc:creator>Amelia K Wesselink</dc:creator>
+      <dc:creator>Lauren A Wise</dc:creator>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Martha R Koenig, Kaylin A Vrkljan, Fintan A Mooney, Erin J Campbell, Nicole C Deziel, Elizabeth E Hatch, Amelia K Wesselink, Lauren A Wise, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag081
+
+Abstract: Abstract Background Oil and gas development—a highly prevalent industry in North America—is often located near residential communities. This industry produces a complex mixture of pollutants that may impact human health. Despite well-documented associations between residential proximity to oil and gas development and adverse birth outcomes, no study has examined gestational diabetes mellitus (hereafter, gestational diabetes)—a condition with long-term consequences for maternal–infant health. Methods We examined associations between residential proximity to active oil and gas development during pregnancy and gestational diabetes risk by using data from Pregnancy Study Online (PRESTO)—an internet-based preconception cohort study in the USA and Canada. We developed residential proximity measures for active oil and gas development at the estimated date of conception, including distance to the nearest site. For participants whose pregnancy progressed for ≥28 weeks of gestation, we evaluated diagnoses of gestational diabetes via self-administered questionnaires and birth records. We implemented log-binomial regression to estimate risk ratios (RRs) and 95% confidence intervals (CIs), adjusting for covariates, including stratification by pre-pregnancy body mass index (BMI) (&amp;amp;lt;25.0, 25.0–29.9, ≥30.0 kg/m2) and parity (nulliparous, parous). Results Among 6285 participants, 8.6% of participants reported gestational diabetes. Residence within 5 km of active oil and gas development was not appreciably associated with gestational diabetes (RR: 1.07, 95% CI: 0.81, 1.40) compared with residence ≥20 km away. Associations did not vary by pre-pregnancy BMI or parity. Conclusion We found no consistent evidence of an association between residential proximity to active oil and gas development at conception and the risk of gestational diabetes.</description>
+    </item>
+    <item>
+      <title>The impact of arsenic exposure on DNA methylation in humans: building an epigenetic biomarker of exposure across three independent cohorts</title>
+      <link>https://doi.org/10.1093/ije/dyag056</link>
+      <guid isPermaLink="false">10.1093/ije/dyag056</guid>
+
+      <dc:creator>James L Li</dc:creator>
+      <dc:creator>Niyati Jain</dc:creator>
+      <dc:creator>Lizeth I Tamayo</dc:creator>
+      <dc:creator>Lin Tong</dc:creator>
+      <dc:creator>Kathryn Demanelis</dc:creator>
+      <dc:creator>Farzana Jasmine</dc:creator>
+      <dc:creator>Muhammad G Kibriya</dc:creator>
+      <dc:creator>Lin S Chen</dc:creator>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: James L Li, Niyati Jain, Lizeth I Tamayo, Lin Tong, Kathryn Demanelis, Farzana Jasmine, Muhammad G Kibriya, Lin S Chen, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag056
+
+Abstract: Abstract Background Inorganic arsenic (As) is a carcinogen and &amp;amp;gt;200 million people worldwide are exposed to As through drinking water. Long-term As exposure increases the risk of chronic diseases including cancer and cardiovascular disease. While prior work has identified several genomic regions where DNA methylation (DNAm) is associated with As exposure, our knowledge remains limited. Methods We first evaluated the association of As exposure (measured in urine and drinking water) with DNAm (measured genome-wide in blood cells at &amp;amp;gt;720 000 cytosine-phosphate-guanine (CpG) sites) among 1186 Bangladeshi adults from the Health Effects of Arsenic Longitudinal Study—a population with a wide range of As exposure levels. We then utilized elastic net regression to build a DNAm-based biomarker of As exposure. Results We identified 1177 CpGs associated with urinary As (false discovery rate &amp;amp;lt; 0.05) and further demonstrated that these associations are likely causal by using genetic determinants of As metabolism as instrumental variables. Arsenic-associated CpGs showed strong enrichment for genomic context and CpG sets related to disease states previously linked to As exposure. We developed a 255-CpG DNAm-based biomarker of As exposure that was highly predictive of urinary As levels (r2 = 0.46) and arsenical skin-lesion status (area under the receiver-operating characteristic curve = 0.69)—a common sign of As toxicity. This biomarker was also highly associated with measured urinary As levels in an independent Bangladeshi cohort (P = 1.3 × 10−19) and further validated in the Strong Heart Study (P = 6.7 × 10−6), in which the DNAm-predicted As was also associated with overall mortality (P = 4.6 × 10−4). Conclusion We demonstrate the utility of a DNAm-based biomarker of As exposure that can predict the risk of toxicity and present guidelines for developing epigenetic biomarkers to track environmental chemical exposures.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile Update: The Dutch National Intensive Care Evaluation (NICE) registry</title>
+      <link>https://doi.org/10.1093/ije/dyag088</link>
+      <guid isPermaLink="false">10.1093/ije/dyag088</guid>
+
+      <dc:creator>Ferishta Bakhshi-Raiez</dc:creator>
+      <dc:creator>Marie-José Roos-Blom</dc:creator>
+      <dc:creator>Dave A Dongelmans</dc:creator>
+      <dc:creator>Mark van den Boogaard</dc:creator>
+      <dc:creator>Bas C T van Bussel</dc:creator>
+      <dc:creator>Dylan W de Lange</dc:creator>
+      <dc:creator>Rob J Bosman</dc:creator>
+      <dc:creator>Roy van den Berg</dc:creator>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ferishta Bakhshi-Raiez, Marie-José Roos-Blom, Dave A Dongelmans, Mark van den Boogaard, Bas C T van Bussel, Dylan W de Lange, Rob J Bosman, Roy van den Berg, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag088</description>
+    </item>
+    <item>
+      <title>Response to Comment on ‘Evaluating potential associations between prior maternal yellow fever vaccination and protection against infant adverse outcomes following Zika virus antenatal exposure’</title>
+      <link>https://doi.org/10.1093/ije/dyag055</link>
+      <guid isPermaLink="false">10.1093/ije/dyag055</guid>
+
+      <dc:creator>Everton Falcão de Oliveira</dc:creator>
+      <dc:creator>Cláudia Du Bocage Santos-Pinto</dc:creator>
+      <dc:creator>Fabio Antonio Venancio</dc:creator>
+      <dc:creator>Maria Eulina Quilião</dc:creator>
+      <dc:creator>Sanny Cerqueira de Oliveira Gabeira</dc:creator>
+      <dc:creator>Amanda Torrentes de Carvalho</dc:creator>
+      <dc:creator>Silvia Helena dos Santos Leite</dc:creator>
+      <dc:creator>Sheila Maria Barbosa de Lima</dc:creator>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Everton Falcão de Oliveira, Cláudia Du Bocage Santos-Pinto, Fabio Antonio Venancio, Maria Eulina Quilião, Sanny Cerqueira de Oliveira Gabeira, Amanda Torrentes de Carvalho, Silvia Helena dos Santos Leite, Sheila Maria Barbosa de Lima, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag055</description>
+    </item>
+    <item>
+      <title>Reply to: Why can’t epidemiology be automated (yet)? Perhaps it shouldn’t</title>
+      <link>https://doi.org/10.1093/ije/dyag066</link>
+      <guid isPermaLink="false">10.1093/ije/dyag066</guid>
+
+      <dc:creator>David Bann</dc:creator>
+      <dc:creator>Ed Lowther</dc:creator>
+      <dc:creator>Liam Wright</dc:creator>
+      <dc:creator>Yevgeniya Kovalchuk</dc:creator>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: David Bann, Ed Lowther, Liam Wright, Yevgeniya Kovalchuk
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag066</description>
+    </item>
+    <item>
+      <title>Associations of ambient temperature exposure with embryonic and early fetal development</title>
+      <link>https://doi.org/10.1093/ije/dyag060</link>
+      <guid isPermaLink="false">10.1093/ije/dyag060</guid>
+
+      <dc:creator>Esmée Essers</dc:creator>
+      <dc:creator>Jasmin M de Groot</dc:creator>
+      <dc:creator>Naomi Graafland</dc:creator>
+      <dc:creator>Romy Gonçalves</dc:creator>
+      <dc:creator>Carmen Iñiguez</dc:creator>
+      <dc:creator>Sami Petricola</dc:creator>
+      <dc:creator>Vincent Jaddoe</dc:creator>
+      <dc:creator>Hanan El Marroun</dc:creator>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Esmée Essers, Jasmin M de Groot, Naomi Graafland, Romy Gonçalves, Carmen Iñiguez, Sami Petricola, Vincent Jaddoe, Hanan El Marroun, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag060
+
+Abstract: Abstract Background Exposure to heat and cold are associated with adverse birth outcomes, but whether ambient temperature affects embryonic and early fetal development remains unclear. We aimed to examine the association between ambient temperature exposure during early pregnancy and crown–rump length (CRL). Methods Data from the Generation R Next Study (2017–2021) were analysed, with findings replicated in the Generation R Study (2002–2006), both population-based cohorts based in Rotterdam, The Netherlands. Weekly mean temperatures were modeled from the last menstrual period onward at a spatial resolution of 100 × 100 m by using the UrbClim™ model. The CRL was measured via 2D ultrasound at approximately 8, 10, and 12 weeks’ gestation in pregnancies with regular menstrual cycles. Distributed lag nonlinear models were applied. Results In Generation R Next (N = 1378; mean maternal age 31.9 years), higher temperatures during the first 9 weeks were associated with a smaller CRL at 12 weeks {e.g. −7.2 mm [95% confidence interval (CI) −12.0, −2.3] at 19.2 vs 9.0°C during weeks 1–6}. Colder exposures during the first 11 weeks were also associated with a smaller CRL [−7.6 mm (95% CI −11.9, −3.3) at 3.6 vs 9.0°C during weeks 1–11]. No associations were observed for CRL at 8 or 10 weeks. Similar associations with cold, but not heat, were observed in the replication cohort (N = 1520). Conclusion Moderate cold and heat exposure during early pregnancy may affect fetal development as early as the first trimester. These findings indicate that early gestational development may be sensitive to ambient temperature and, as environmental conditions shift, may have potential clinical implications for birth outcomes and long-term health.</description>
+    </item>
+    <item>
+      <title>On contributions made by methodological research to applied epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag086</link>
+      <guid isPermaLink="false">10.1093/ije/dyag086</guid>
+
+      <dc:creator>Bronner P Gonçalves</dc:creator>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bronner P Gonçalves
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag086</description>
+    </item>
+    <item>
+      <title>Is morbidity expanding? An epidemiological framework for understanding morbidity expansion and multimorbidity</title>
+      <link>https://doi.org/10.1093/ije/dyag037</link>
+      <guid isPermaLink="false">10.1093/ije/dyag037</guid>
+
+      <dc:creator>Tony Blakely</dc:creator>
+      <dc:creator>Wondmagegn Demsiss</dc:creator>
+      <dc:creator>Daniel Ramsay</dc:creator>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tony Blakely, Wondmagegn Demsiss, Daniel Ramsay
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag037</description>
+    </item>
+    <item>
+      <title>Estimating causal effects of C-reactive protein on disease and health outcomes using multivariable Mendelian randomization adjusting for heritable confounding</title>
+      <link>https://doi.org/10.1093/ije/dyag049</link>
+      <guid isPermaLink="false">10.1093/ije/dyag049</guid>
+
+      <dc:creator>Ruoyao Shi</dc:creator>
+      <dc:creator>Jean Morrison</dc:creator>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ruoyao Shi, Jean Morrison
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag049
+
+Abstract: Abstract Background C-reactive protein (CRP) is a marker of inflammation associated with autoimmune, cardiovascular, and neuropsychiatric disorders. However, it remains unclear whether CRP causally affects these traits or if observed associations result from reverse causation or confounding. Mendelian randomization (MR) uses genetic variants as instrumental variables to estimate causal effects and avoid the biases present in observational studies. Prior MR studies have suggested causal effects of CRP on several traits, including low-density lipoprotein (LDL) cholesterol, schizophrenia (SCZ), and knee osteoarthritis (OA). However, MR may produce biased results if traits that confound the exposure and outcome are heritable, resulting in horizontal pleiotropy. This is a major concern for studies of CRP, because CRP levels may increase in response to inflammation caused by a wide range of heritable conditions. Methods Multivariable Mendelian randomization (MVMR) can be used to eliminate bias from heritable confounding when genome-wide association study (GWAS) summary data are available for confounders. In this study, we used MVMR to estimate the causal effects of CRP on 16 outcomes with prior evidence of a causal or associational link to CRP. We used a novel computational pipeline to identify a broad set of potential heritable confounders between CRP and each outcome trait from studies in the Medical Research Council Integrative Epidemiology Unit (MRC-IEU) OpenGWAS database. We compared MVMR results with computationally selected confounders to univariable MR results and MVMR adjusting only for body mass index. Results Univariable MR suggests evidence of potential causal effects of CRP on coronary artery disease, high-density lipoprotein (HDL) cholesterol, LDL cholesterol, triglycerides, type 2 diabetes, glycated hemoglobin (HbA1c), rheumatoid arthritis (RA), SCZ and OA at the nominal P &amp;amp;lt; .05 significance level. However, after adjusting for computationally selected heritable confounders, only effects on HDL cholesterol (negative), HbA1c (positive), RA (risk increasing), and SCZ (risk decreasing) remain nominally significant. Using confounder-adjusted MVMR additionally reveals evidence of a protective effect of CRP on bipolar disorder not observed in the univariable analysis. Conclusion These results suggest that univariable MR analyses of CRP may be biased by high levels of heritable confounding, though CRP may indeed play a causal role in development of some diseases, potentially mediated by its role in innate immunity. These results also highlight the potential for automatic confounder selection to improve the robustness of MR analyses.</description>
+    </item>
+    <item>
+      <title>Early-life exposure to ambient temperature and polycystic ovary syndrome: a nationwide cohort study</title>
+      <link>https://doi.org/10.1093/ije/dyag082</link>
+      <guid isPermaLink="false">10.1093/ije/dyag082</guid>
+
+      <dc:creator>Boya Zhang</dc:creator>
+      <dc:creator>Makiko Mitsunami</dc:creator>
+      <dc:creator>Elizabeth Peebles</dc:creator>
+      <dc:creator>Brent A Coull</dc:creator>
+      <dc:creator>Tamarra James-Todd</dc:creator>
+      <dc:creator>Jorge E Chavarro</dc:creator>
+      <dc:creator>Jaime E Hart</dc:creator>
+      <dc:creator>Francine Laden</dc:creator>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Boya Zhang, Makiko Mitsunami, Elizabeth Peebles, Brent A Coull, Tamarra James-Todd, Jorge E Chavarro, Jaime E Hart, Francine Laden, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag082
+
+Abstract: Abstract Background Early-life temperature exposure, especially during oogenesis, may impact ovarian function later in life. However, the effect of ambient temperature during sensitive developmental windows on ovulation disorders remains unknown. Methods We investigate the associations of early-life ambient temperature exposure with incident polycystic ovary syndrome (PCOS) in the Growing Up Today Study II, a United States (US) nationwide prospective cohort. We included females born after 1989 with available outcome and exposure data during the preconception (N = 3265), gestation (N = 3265), and childhood period (N = 3521). Monthly average residential mean temperatures were estimated using the PRISM Climate Group data. We considered exposure windows included preconception (3 months prior to conception), gestational (from conception month to birth), individual trimesters, and childhood (from birth to 1 year before age at menarche). PCOS was identified by self-reported clinical diagnosis. We estimated adjusted hazard ratios (HRs) and 95% confidence intervals (CIs) for PCOS per interquartile range (IQR) increase of mean temperature using Cox models. Results We identified 234 (7.2%) PCOS cases over the 14.3 ± 4.2 years from age at menarche to 2021. Higher ambient temperatures during the preconception (HR 1.38 per 13.4°C, 95% CI, 0.84–2.27), gestation (HR 1.08 per 6.4°C, 95% CI, 0.74–1.60), and childhood (HR 1.20 per 4.1°C, 95% CI, 0.91–1.59) periods were suggestively associated with higher risk of PCOS. In gestation period, only the first-trimester temperature was associated with higher risks of PCOS (HR 1.75 per 14.4°C, 95% CI, 1.06–2.87). Conclusion Intervention to mitigate heat exposure during pregnancy, especially in the first trimester, may help reduce the risk of PCOS in offspring. Further research is needed to confirm these associations.</description>
+    </item>
+    <item>
+      <title>Mortality and cancer incidence in a large cohort of lead-exposed workers</title>
+      <link>https://doi.org/10.1093/ije/dyag048</link>
+      <guid isPermaLink="false">10.1093/ije/dyag048</guid>
+
+      <dc:creator>Kyle Steenland</dc:creator>
+      <dc:creator>Youran Tan</dc:creator>
+      <dc:creator>Kaitlin Kelly-Reif</dc:creator>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kyle Steenland, Youran Tan, Kaitlin Kelly-Reif
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag048
+
+Abstract: Abstract Introduction Inorganic lead is a common occupational exposure and a probable carcinogen (International Agency for Research on Cancer, group 2A). Here, we analyse mortality and cancer incidence in a large cohort of US workers with measured blood lead levels. Methods We updated the mortality follow-up for a cohort of 58 000 male lead-exposed workers and followed a subset of 36 000 for cancer incidence, both through 2021. The highest recorded blood lead was used as the exposure metric in internal exposure–response analyses via Cox regression. Time at risk began at the first blood lead test. Results The median birth year was 1959 and the average year of the first blood test was 1998. The mean highest blood lead was 26 µg/dL. There were 8832 deaths. The mortality results showed strong positive associations between blood lead and lung cancer, pancreatic cancer, heart disease, chronic obstructive pulmonary disease, and chronic renal disease. There were 6125 incident cancers. The lung cancer incidence showed a marked positive trend with higher lead levels; the liver cancer incidence also had a significant positive trend. Thyroid and prostate cancer showed marked negative trends. Conclusion High blood lead levels were associated with several causes of mortality and cancer incidence, most markedly lung cancer. While lung cancer trends might be related to smoking, there is no a priori reason why workers with higher blood lead would have smoked more and, in a subset of 200 workers with smoking data, there was no such evidence. The lung cancer rate ratios in the order of 2.0–2.5 are also very unlikely to be explained by smoking differences.</description>
+    </item>
+    <item>
+      <title>Correction to: What makes a study design quasi-experimental? The case of difference-in-differences</title>
+      <link>https://doi.org/10.1093/ije/dyag062</link>
+      <guid isPermaLink="false">10.1093/ije/dyag062</guid>
+
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag062</description>
+    </item>
+    <item>
+      <title>Comment on “Evaluating potential associations between prior maternal yellow fever vaccination and protection against infant adverse outcomes following Zika virus antenatal exposure”</title>
+      <link>https://doi.org/10.1093/ije/dyag054</link>
+      <guid isPermaLink="false">10.1093/ije/dyag054</guid>
+
+      <dc:creator>Jun-Gu Lin</dc:creator>
+      <dc:creator>Gang Tian</dc:creator>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jun-Gu Lin, Gang Tian
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag054</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
+      <link>https://doi.org/10.1093/ije/dyag078</link>
+      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
+
+      <dc:creator>Andrea D Olmstead</dc:creator>
+      <dc:creator>Kayla McLean</dc:creator>
+      <dc:creator>Imelda S Wong</dc:creator>
+      <dc:creator>Xibiao Ye</dc:creator>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
+    </item>
+    <item>
+      <title>Cohort Profile Update: The 1982 Pelotas (Brazil) Birth Cohort follow-up at 40 years</title>
+      <link>https://doi.org/10.1093/ije/dyag075</link>
+      <guid isPermaLink="false">10.1093/ije/dyag075</guid>
+
+      <dc:creator>Bernardo L Horta</dc:creator>
+      <dc:creator>Fernando P Hartwig</dc:creator>
+      <dc:creator>Mariane da S. Dias</dc:creator>
+      <dc:creator>Riceli R Oliveira</dc:creator>
+      <dc:creator>Natália P Lima</dc:creator>
+      <dc:creator>Janaina V dos S. Motta</dc:creator>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bernardo L Horta, Fernando P Hartwig, Mariane da S. Dias, Riceli R Oliveira, Natália P Lima, Janaina V dos S. Motta
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag075</description>
+    </item>
+    <item>
+      <title>Why can’t epidemiology be automated (yet)? Perhaps it shouldn’t be</title>
+      <link>https://doi.org/10.1093/ije/dyag065</link>
+      <guid isPermaLink="false">10.1093/ije/dyag065</guid>
+
+      <dc:creator>Roemer J Janse</dc:creator>
+      <dc:creator>Amber Meulenbeld</dc:creator>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Roemer J Janse, Amber Meulenbeld
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag065</description>
+    </item>
+    <item>
+      <title>Building on strength, expanding horizons</title>
+      <link>https://doi.org/10.1093/ije/dyag096</link>
+      <guid isPermaLink="false">10.1093/ije/dyag096</guid>
+
+      <dc:creator>Marco A Peres</dc:creator>
+      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag096</description>
+    </item>
+    <item>
+      <title>Reproducibility and associated regression dilution bias of accelerometer-derived physical activity and sleep in UK Biobank</title>
+      <link>https://doi.org/10.1093/ije/dyag014</link>
+      <guid isPermaLink="false">10.1093/ije/dyag014</guid>
+
+      <dc:creator>Charilaos Zisou</dc:creator>
+      <dc:creator>Catherine Calvin</dc:creator>
+      <dc:creator>Hannah Taylor</dc:creator>
+      <dc:creator>Ben Lacey</dc:creator>
+      <dc:creator>Imen Hammami</dc:creator>
+      <dc:creator>Rosemary Walmsley</dc:creator>
+      <dc:creator>Tessa Strain</dc:creator>
+      <dc:creator>Katrien Wijndaele</dc:creator>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Charilaos Zisou, Catherine Calvin, Hannah Taylor, Ben Lacey, Imen Hammami, Rosemary Walmsley, Tessa Strain, Katrien Wijndaele, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag014
+
+Abstract: Abstract Background Previous studies on the reproducibility of 7-day accelerometer measurements have been limited by small sample sizes and short follow-up periods. We aimed to assess the long-term reproducibility of accelerometer-derived physical activity and sleep, and to illustrate the impact of regression dilution bias on the association between daily step count and coronary heart disease (CHD) in UK Biobank. Methods We analysed data from 3138 UK Biobank participants in the main accelerometry sub-study with up to four repeat accelerometer measurements after 3–4 years. Nine physical activity and sleep phenotypes were extracted to capture different movement behaviours. Reproducibility was assessed by using intraclass correlation coefficients (ICCs). The impact on disease associations was illustrated by considering daily step count and incident CHD using Cox regression (87 038 participants; 3879 CHD events), before and after correction for regression dilution. Results Among the 3138 participants, 51% were women and the mean (SD) age was 63.1 (9.4) years. Reproducibility was good for overall activity, with an ICC (95% confidence interval) of 0.75 (0.74–0.76), and moderate for other phenotypes, with ICCs ranging from 0.58 (0.56–0.59) for sleep efficiency to 0.69 (0.68–0.70) for sedentary behaviour. In our example, the inverse association between daily step count and CHD showed a 20% lower risk of CHD per usual 4000 steps after correcting for regression dilution compared with 13% before correction. Conclusion Accelerometer measurements are moderately reproducible and comparable to measures such as blood pressure. Correction for regression dilution bias is crucial to quantify associations of usual physical activity and sleep with disease risk.</description>
+    </item>
+    <item>
+      <title>The effect of SARS-CoV-2 testing on healthcare-seeking behaviour at primary care level</title>
+      <link>https://doi.org/10.1093/ije/dyag031</link>
+      <guid isPermaLink="false">10.1093/ije/dyag031</guid>
+
+      <dc:creator>Cheyenne C E van Hagen</dc:creator>
+      <dc:creator>Eric R A Vos</dc:creator>
+      <dc:creator>Charlotte Lanièce Delaunay</dc:creator>
+      <dc:creator>Hester E de Melker</dc:creator>
+      <dc:creator>Esther Kissling</dc:creator>
+      <dc:creator>Mirjam J Knol</dc:creator>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cheyenne C E van Hagen, Eric R A Vos, Charlotte Lanièce Delaunay, Hester E de Melker, Esther Kissling, Mirjam J Knol
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag031
+
+Abstract: Abstract Background Diagnostic self-testing for SARS-CoV-2 may lead to selection bias in test-negative case–control designs (TND) for COVID-19 vaccine effectiveness (VE) at the primary care level. We investigated whether SARS-CoV-2 self-testing among those with acute respiratory infection (ARI) after the acute pandemic phase was associated with primary care healthcare seeking in the general Dutch population. Methods We pooled questionnaire data from three study rounds (June 2022, November 2022, and April 2023) of the nationwide PIENTER Corona cohort study. Among 3152 participants aged ≥18 years, we selected the first self-reported ARI episode with cough, sore throat, dyspnoea, and/or coryza since March 2022. We performed log-binomial regression analyses adjusted for age, sex, education, and comorbidities to assess the associations between COVID-19 vaccination, SARS-CoV-2 self-testing, and general practitioner (GP) consultation, and between GP consultation and the prior self-test result. Results Vaccinated (vs. unvaccinated) participants with an ARI episode more often self-tested [adjusted risk ratio (RR) 1.13, 95% confidence interval (CI) 1.04–1.27]. Vaccination (RR 0.78, 95% CI 0.48–1.44) and the self-test result overall (RR 0.86, 95% CI 0.69–1.08) were both not associated with GP consultation. However, with point estimates in opposite directions, vaccinated individuals seemed less likely (RR 0.86, 95% CI 0.68–1.08) and unvaccinated seemed more likely (RR 1.57, 95% CI 0.36–6.28) to consult a GP after a positive self-test. Conclusion Findings from this Dutch-population-based cohort suggest that GP consultations between March 2022 and May 2023 may have differed by self-test result and vaccination status, indicating that selection bias in the TND COVID-19 VE estimates from testing before GP consultation could be a valid concern. More research in various settings is needed.</description>
+    </item>
+    <item>
+      <title>Health impacts of a short-lived, small-scale wildfire in South Korea</title>
+      <link>https://doi.org/10.1093/ije/dyag017</link>
+      <guid isPermaLink="false">10.1093/ije/dyag017</guid>
+
+      <dc:creator>Changwoo Han</dc:creator>
+      <dc:creator>Jaiyong Kim</dc:creator>
+      <dc:creator>Hoyeon Jang</dc:creator>
+      <dc:creator>Yeseul Yun</dc:creator>
+      <dc:creator>Tarik Benmarhnia</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Changwoo Han, Jaiyong Kim, Hoyeon Jang, Yeseul Yun, Tarik Benmarhnia
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag017
+
+Abstract: Abstract Background A wildfire occurred in the Gyeongpo district of Gangneung city, South Korea, on 11 April 2023, lasting for 8 h and burning 300 acres. While previous studies have examined the health effects of major wildfires, research on short-lasting, small-scale wildfires remains scarce. By capitalizing on the timing of the wildfire as a natural experiment, we investigated the health effects of the Gangneung wildfire on residents living near the wildfire site. Methods The wildfire-exposed and control districts were determined based on satellite images of land damage. The weekly number of district-level cause-specific hospital visits was extracted from the National Health Insurance Database. The number of hospital visits for residents living in the exposed district was compared with that in 20 control districts by using the Generalized Synthetic Control Method. The excess number of visits attributable to the wildfire was estimated for periods of 0–3 and 0–7 weeks following the wildfire. Results Over 8 weeks following the wildfire, excess respiratory disease hospital visits {308.7 cases [95% confidence interval (CI): 119.7, 603.6]} were observed in residents of the exposed district, including cases of upper respiratory infections, influenza and pneumonia, and chronic lower respiratory diseases. Cardiovascular disease visits [83.3 cases (95% CI: 32.4, 136.0)] of the exposed district, notably for hypertensive disorders and ischemic heart diseases, increased for ≤4 weeks post-wildfire. Conclusion Excess respiratory and cardiovascular disease-related hospital visits were observed among residents living near the wildfire site. Even a small-scale wildfire may have health impacts on residents for &amp;amp;gt;2 months.</description>
+    </item>
+    <item>
+      <title>Tracking the perinatal health benefits of cleaner transportation</title>
+      <link>https://doi.org/10.1093/ije/dyag033</link>
+      <guid isPermaLink="false">10.1093/ije/dyag033</guid>
+
+      <dc:creator>Ugochinyere Vivian Ukah</dc:creator>
+      <dc:creator>Jill Baumgartner</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ugochinyere Vivian Ukah, Jill Baumgartner
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag033</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: The Japan COVID-19 and Society Internet Survey (JACSIS)</title>
+      <link>https://doi.org/10.1093/ije/dyag025</link>
+      <guid isPermaLink="false">10.1093/ije/dyag025</guid>
+
+      <dc:creator>Hidehiro Someko</dc:creator>
+      <dc:creator>Keisuke Anan</dc:creator>
+      <dc:creator>Takahiro Tabuchi</dc:creator>
+      <dc:creator>Takashi Yoshioka</dc:creator>
+      <dc:creator>Ryo Okubo</dc:creator>
+      <dc:creator>Yuki Furuse</dc:creator>
+      <dc:creator>Kota Katanoda</dc:creator>
+      <dc:creator>Takeo Fujiwara</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hidehiro Someko, Keisuke Anan, Takahiro Tabuchi, Takashi Yoshioka, Ryo Okubo, Yuki Furuse, Kota Katanoda, Takeo Fujiwara, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag025</description>
+    </item>
+    <item>
+      <title>What makes a study design quasi-experimental? The case of difference-in-differences</title>
+      <link>https://doi.org/10.1093/ije/dyag043</link>
+      <guid isPermaLink="false">10.1093/ije/dyag043</guid>
+
+      <dc:creator>Audrey Renson</dc:creator>
+      <dc:creator>Daniel Westreich</dc:creator>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Audrey Renson, Daniel Westreich
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag043</description>
+    </item>
+    <item>
+      <title>Cohort Profile Update: HUNT4 70+</title>
+      <link>https://doi.org/10.1093/ije/dyag011</link>
+      <guid isPermaLink="false">10.1093/ije/dyag011</guid>
+
+      <dc:creator>Håvard K Skjellegrind</dc:creator>
+      <dc:creator>Pernille Thingstad</dc:creator>
+      <dc:creator>Linda Gjøra</dc:creator>
+      <dc:creator>Marit Kolberg</dc:creator>
+      <dc:creator>Grete Kjelvik</dc:creator>
+      <dc:creator>Linda Ernstsen</dc:creator>
+      <dc:creator>Tone N Fagerhaug</dc:creator>
+      <dc:creator>Arnulf Langhammer</dc:creator>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Håvard K Skjellegrind, Pernille Thingstad, Linda Gjøra, Marit Kolberg, Grete Kjelvik, Linda Ernstsen, Tone N Fagerhaug, Arnulf Langhammer, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag011</description>
+    </item>
+    <item>
+      <title>Attributable fraction and interaction of tobacco smoking and alcohol drinking on the risk of head and neck cancer: a pooled analysis of 11 prospective cohort studies in Japan</title>
+      <link>https://doi.org/10.1093/ije/dyag036</link>
+      <guid isPermaLink="false">10.1093/ije/dyag036</guid>
+
+      <dc:creator>Hiroshi Tsuge</dc:creator>
+      <dc:creator>Isao Oze</dc:creator>
+      <dc:creator>Hidemi Ito</dc:creator>
+      <dc:creator>Daisuke Kawakita</dc:creator>
+      <dc:creator>Hiroto Narimatsu</dc:creator>
+      <dc:creator>Yuriko N Koyanagi</dc:creator>
+      <dc:creator>Tomoka Mori</dc:creator>
+      <dc:creator>Keiko Wada</dc:creator>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hiroshi Tsuge, Isao Oze, Hidemi Ito, Daisuke Kawakita, Hiroto Narimatsu, Yuriko N Koyanagi, Tomoka Mori, Keiko Wada, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag036
+
+Abstract: Abstract Background Tobacco smoking and alcohol drinking are major risk factors for head and neck cancer (HNC), but their interaction effects have not been investigated in the Japanese population. Methods We conducted a pooled analysis using data from 11 prospective cohorts in Japan, covering a total of 434 431 participants with 5 969 082 person-years of follow-up. Cox proportional hazards model analyses were performed separately in each cohort. Interactions and population-attributable fractions (PAFs) were estimated through meta-analyses. Results During follow-up, 1835 incidents of HNC were newly identified. Both smoking and drinking habits significantly increased HNC risk. Subsite analysis showed that smoking increased risk in several subsites, while drinking was associated with hypopharyngeal cancer only. The multiplicative interaction was 1.55 [95% confidence interval (CI): 1.12–2.14] and the additive interaction (relative excess risk due to interaction) was 0.87 (95% CI: 0.42–1.36). Among men, PAFs were 0.414 for smoking and 0.336 for drinking, while the combined PAF was 0.469. Subsite-specific analysis showed larger PAFs of smoking in the nasopharynx and larynx, and larger PAFs of drinking in the oral cavity and hypopharynx. Conclusion Tobacco smoking and alcohol drinking interact to increase the risk of HNC in the Japanese population. The attributable fraction of each factor differs by subsite. These findings may aid the development of future preventive strategies for HNC.</description>
+    </item>
+    <item>
+      <title>Demographic and biosocial determinants of beneficial trends in older adult cognition in the USA and England: the role of cohort succession</title>
+      <link>https://doi.org/10.1093/ije/dyag026</link>
+      <guid isPermaLink="false">10.1093/ije/dyag026</guid>
+
+      <dc:creator>Cayley Ryan-Claytor</dc:creator>
+      <dc:creator>Liying Luo</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cayley Ryan-Claytor, Liying Luo
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag026
+
+Abstract: Abstract Background Concerns about the consequences of rapid population aging in the USA and England often neglect the key demographic processes of cohort succession and its influence on population health. In this study, we quantify the extent to which trends between 2004 and 2018 in older US and English adults’ cognition functioning are related to population composition changes in three areas: (i) age distribution, (ii) socioeconomic factors, and (iii) chronic disease prevalence. Methods Using data from the USA-based Health and Retirement Study (n = 17 305 person-years) and the English Longitudinal Study of Aging (n = 7557 person-years), we apply the Kitagawa–Oaxaca–Blinder two-fold decomposition to estimate the contributions of changes in each country’s population composition to changes in overall cognitive functioning between 2004 and 2018. Results For both men and women, improvements in cognitive functioning were largely driven by cohort succession increasing the average educational attainment of the two populations. Increases in the proportions of the youngest old adults counteracted the negative contributions of increased proportions of the oldest adults. However, increases in the prevalence of psychological conditions (for US men, US women, and English women) and the prevalence of diabetes and divorce (for US women) emerge as specific risk factors that are detrimental to continued gains in cognitive functioning. Conclusion Population aging may not necessarily portend an increasing burden of cognitive diseases when cohorts bring different socioeconomic and health protective and risk factors with them into older adulthood.</description>
+    </item>
+    <item>
+      <title>Clarifying the ‘set to zero’ approach for time-varying prenatal exposures</title>
+      <link>https://doi.org/10.1093/ije/dyag047</link>
+      <guid isPermaLink="false">10.1093/ije/dyag047</guid>
+
+      <dc:creator>Selin Girgin</dc:creator>
+      <dc:creator>Offer Erez</dc:creator>
+      <dc:creator>Daniel Nevo</dc:creator>
+      <dc:creator>Iaroslav Youssim</dc:creator>
+      <dc:creator>Itai Kloog</dc:creator>
+      <dc:creator>Raanan Raz</dc:creator>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Selin Girgin, Offer Erez, Daniel Nevo, Iaroslav Youssim, Itai Kloog, Raanan Raz
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag047</description>
+    </item>
+    <item>
+      <title>Reconsidering the graphical representation of propensity scores in causal diagrams</title>
+      <link>https://doi.org/10.1093/ije/dyag012</link>
+      <guid isPermaLink="false">10.1093/ije/dyag012</guid>
+
+      <dc:creator>Yongnam Kim</dc:creator>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yongnam Kim
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag012</description>
+    </item>
+    <item>
+      <title>Supplemental Nutrition Assistance Program use and cognitive performance in middle-aged and older adults</title>
+      <link>https://doi.org/10.1093/ije/dyag021</link>
+      <guid isPermaLink="false">10.1093/ije/dyag021</guid>
+
+      <dc:creator>Matthew C Lohman</dc:creator>
+      <dc:creator>Eric Mishio Bawa</dc:creator>
+      <dc:creator>Jingkai Wei</dc:creator>
+      <dc:creator>Anwar T Merchant</dc:creator>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Matthew C Lohman, Eric Mishio Bawa, Jingkai Wei, Anwar T Merchant
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag021
+
+Abstract: Abstract Background Inconsistent findings regarding health outcomes associated with Supplemental Nutrition Assistance Program (SNAP) use may be influenced by common biases in observational studies. We used negative control methods to evaluate the association between SNAP and cognition while adjusting for unmeasured bias. Methods This observational study analysed data from six waves (2008–18) of the Health and Retirement Study—a biennial cohort survey of US adults aged ≥51 years. The analytic sample included 11 942 community-dwelling participants without dementia. SNAP use and household income were self-reported. Global cognitive function (0–27) was assessed via telephone interview. Group differences in cognitive performance were estimated by using three approaches: multiple linear regression, negative control outcome (NCO), and double negative controls (DNCs). Results Linear regression models indicated that SNAP users had lower cognitive scores post-SNAP use, with the deficit increasing from –1.48 [95% confidence interval (CI): –1.77, –1.18] in 2010 to –1.84 (95% CI: –2.24, –1.44) in 2018. On the contrary, both the NCO and DNC adjustment results indicated minimal associations between SNAP use and subsequent cognitive performance. NCO estimates ranged from 0.16 (95% CI: –0.23, 0.55) in 2010 to –0.04 (95% CI: –0.57, 0.50) in 2018. DNC estimates ranged from 0.22 (95% CI: –0.40, 0.84) in 2010 to –0.17 (95% CI: –1.06, 0.73). Sensitivity analyses produced similar results. Conclusion After common biases were accounted for by using negative controls, SNAP use had little association with cognitive performance. Valid estimates of potential health benefits or harms associated with SNAP may better inform policies and individual decision-making.</description>
+    </item>
+    <item>
+      <title>Identification of the causal odds ratio in test negative designs</title>
+      <link>https://doi.org/10.1093/ije/dyag038</link>
+      <guid isPermaLink="false">10.1093/ije/dyag038</guid>
+
+      <dc:creator>Ian Shrier</dc:creator>
+      <dc:creator>Steven D Stovitz</dc:creator>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ian Shrier, Steven D Stovitz
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag038</description>
+    </item>
+    <item>
+      <title>Software Application Profile: McBias: a user-friendly R package and RShiny application for modeling bias in observational studies</title>
+      <link>https://doi.org/10.1093/ije/dyag004</link>
+      <guid isPermaLink="false">10.1093/ije/dyag004</guid>
+
+      <dc:creator>Ash Breidenbach</dc:creator>
+      <dc:creator>Freida Blostein</dc:creator>
+      <dc:creator>Alex Petty</dc:creator>
+      <dc:creator>Allison M Lake</dc:creator>
+      <dc:creator>Melinda Aldrich</dc:creator>
+      <dc:creator>Eric R Gamazon</dc:creator>
+      <dc:creator>Ran Tao</dc:creator>
+      <dc:creator>Jennifer Below</dc:creator>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ash Breidenbach, Freida Blostein, Alex Petty, Allison M Lake, Melinda Aldrich, Eric R Gamazon, Ran Tao, Jennifer Below, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag004</description>
+    </item>
+    <item>
+      <title>Correction to: Association between cumulative pack-year smoking exposure and sarcopenia: a KoGES cohort stud</title>
+      <link>https://doi.org/10.1093/ije/dyag024</link>
+      <guid isPermaLink="false">10.1093/ije/dyag024</guid>
+
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag024</description>
+    </item>
+    <item>
+      <title>New-onset diabetes following SARS-CoV-2 infection in the Omicron era: a matched cohort study</title>
+      <link>https://doi.org/10.1093/ije/dyag009</link>
+      <guid isPermaLink="false">10.1093/ije/dyag009</guid>
+
+      <dc:creator>Jiahui Qian</dc:creator>
+      <dc:creator>Sandrine Stepien</dc:creator>
+      <dc:creator>Allen Cheng</dc:creator>
+      <dc:creator>Jonathan E Shaw</dc:creator>
+      <dc:creator>Kristine Macartney</dc:creator>
+      <dc:creator>Stacey L Rowe</dc:creator>
+      <dc:creator>Kelly Thompson</dc:creator>
+      <dc:creator>Gregory J Dore</dc:creator>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jiahui Qian, Sandrine Stepien, Allen Cheng, Jonathan E Shaw, Kristine Macartney, Stacey L Rowe, Kelly Thompson, Gregory J Dore, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag009
+
+Abstract: Abstract Background Earlier studies have suggested that SARS-CoV-2 infection increases the risk of subsequently developing diabetes. However, reports are more limited and inconsistent for infection with the Omicron variant and how COVID-19 vaccination may alter the risks. Methods A population-based, matched cohort study was conducted by using linked registry data. Individuals aged ≥16 years diagnosed with COVID-19 between 15 December 2021 and 31 December 2022 were matched to those without COVID-19 by age, sex, and COVID-19 vaccine recency. Cause-specific Cox models were used to estimate the association between COVID-19 and the initiation of diabetes treatment, adjusting for relevant demographic, healthcare-utilization, and health-related factors. Negative control outcomes were assessed. Results Among 5 736 501 matched pairs with and without COVID-19, followed for a median of 200 days, 45 816 initiated diabetes treatment. Compared with those without COVID-19, individuals with COVID-19 had a 14% higher risk of subsequently initiating diabetes treatment [adjusted hazard ratio (aHR) 1.14; 95% confidence interval (CI) 1.12; 1.17]. The risk was higher for those who had received up to two COVID-19 vaccine doses compared with those who had received a booster within the last 90 days (aHR 1.22; 95% CI 1.18, 1.25 vs aHR 1.08; 95% CI 1.04, 1.12). Similar associations were observed between COVID-19 and negative control outcomes while the incidence patterns differed. Conclusion While we observed a small increased risk of diabetes following SARS-CoV-2 infection during the Omicron-dominant period, the true causal effect could be small or even null given the potential unmeasured confounding and detection bias. Future research on post-acute COVID-19 outcomes should consider including negative control outcomes to better detect potential biases.</description>
+    </item>
+    <item>
+      <title>Clarifying the “set to zero” approach in prenatal exposure to ambient temperature and preterm birth</title>
+      <link>https://doi.org/10.1093/ije/dyag046</link>
+      <guid isPermaLink="false">10.1093/ije/dyag046</guid>
+
+      <dc:creator>Shuhei Terada</dc:creator>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shuhei Terada
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag046</description>
+    </item>
+    <item>
+      <title>Non-communicable diseases among adolescent and young adult females in sub-Saharan Africa</title>
+      <link>https://doi.org/10.1093/ije/dyag022</link>
+      <guid isPermaLink="false">10.1093/ije/dyag022</guid>
+
+      <dc:creator>Yang Guo</dc:creator>
+      <dc:creator>Aklilu Azazh</dc:creator>
+      <dc:creator>Claude Eric Bodounrin Kouchica</dc:creator>
+      <dc:creator>Shen Gao</dc:creator>
+      <dc:creator>Xueyu Han</dc:creator>
+      <dc:creator>Jie Chang</dc:creator>
+      <dc:creator>Peixin Yu</dc:creator>
+      <dc:creator>Yanbin Fan</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yang Guo, Aklilu Azazh, Claude Eric Bodounrin Kouchica, Shen Gao, Xueyu Han, Jie Chang, Peixin Yu, Yanbin Fan, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag022
+
+Abstract: Abstract Background The burden of non-communicable diseases (NCDs) in adolescent and young adult females in sub-Saharan Africa (SSA) has not been comprehensively studied. To address this gap, we analysed data from the Global Burden of Diseases (GBD) 2021, focusing on death due to NCDs in females aged 10–24 years in SSA. Methods We extracted data from GBD 2021 on NCD deaths in females aged 10–24 years in SSA from 2000 to 2021. We presented the numbers and death rates of NCDs, and the proportion of NCDs in all-cause deaths was calculated. Pearson’s correlation was applied to explore the NCD burden on the socioeconomic development and health system. Additionally, we projected the NCD burden until 2050 by applying mixed-effects models. Results In 2021, 52 083.13 (42 018.18∼61 630.88) NCD deaths, at a mortality rate of 27.59 (22.26∼32.64) per 100 000 population, emerged, accounting for 21.13% (17.57%∼24.22%) of the total deaths. Neoplasms, cardiovascular diseases, digestive diseases, neurological disorders, and diabetes and kidney diseases were the top five leading causes of deaths. Inverse associations were observed between the NCD death rates and indicators of the socioeconomic and health system (P &amp;amp;lt; .001). An increasing trend was observed of the NCD death numbers and the contributing proportions since 2000, and it was predicted to continue increasing through to 2050, with the highest increasing trend in neoplasms. Conclusion The rising disease burden of NCDs for adolescent and young adult females in SSA has attracted attention. Targeted interventions and strengthened health systems should be prioritized to address the concerning NCD burden in adolescent girls in SSA.</description>
+    </item>
+    <item>
+      <title>Cohort Profile: Our Future—the longitudinal study of young people in England born in 1998–99</title>
+      <link>https://doi.org/10.1093/ije/dyag041</link>
+      <guid isPermaLink="false">10.1093/ije/dyag041</guid>
+
+      <dc:creator>Megan Arnot</dc:creator>
+      <dc:creator>Ellen Ridley</dc:creator>
+      <dc:creator>Ruth Roberts</dc:creator>
+      <dc:creator>Russell M Viner</dc:creator>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Megan Arnot, Ellen Ridley, Ruth Roberts, Russell M Viner
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag041</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: Linking nationwide health and social registries in Estonia (BIG-HEART)</title>
+      <link>https://doi.org/10.1093/ije/dyag027</link>
+      <guid isPermaLink="false">10.1093/ije/dyag027</guid>
+
+      <dc:creator>Laura Lõo</dc:creator>
+      <dc:creator>Nikita Umov</dc:creator>
+      <dc:creator>Marek Oja</dc:creator>
+      <dc:creator>Sulev Reisberg</dc:creator>
+      <dc:creator>Anneli Uusküla</dc:creator>
+      <dc:creator>Raivo Kolde</dc:creator>
+      <dc:creator>Taavi Tillmann</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Laura Lõo, Nikita Umov, Marek Oja, Sulev Reisberg, Anneli Uusküla, Raivo Kolde, Taavi Tillmann
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag027</description>
+    </item>
+    <item>
+      <title>Utilizing offspring genotype-by-proxy Mendelian randomization to investigate the causal effect of offspring perinatal traits on maternal health</title>
+      <link>https://doi.org/10.1093/ije/dyag030</link>
+      <guid isPermaLink="false">10.1093/ije/dyag030</guid>
+
+      <dc:creator>Alesha A Hatton</dc:creator>
+      <dc:creator>Caroline Brito Nunes</dc:creator>
+      <dc:creator>Deborah A Lawlor</dc:creator>
+      <dc:creator>David M Evans</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alesha A Hatton, Caroline Brito Nunes, Deborah A Lawlor, David M Evans
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag030
+
+Abstract: Abstract Background During the perinatal period, the fetus can exert profound effects on processes that alter pre- and postnatal maternal physiology. It is possible to investigate the causal effect of offspring perinatal exposures on their mother’s health using Mendelian randomization (MR). However, analyses need to be adjusted for maternal genotype to avoid confounding. Such analyses are difficult to perform at scale because of the paucity of cohorts across the world with large numbers of genotyped maternal–offspring dyads and parent–offspring trios. Methods We introduce the “offspring genotype-by-proxy” MR framework which can be employed in the absence of offspring genetic information to complement existing approaches in the triangulation of causal inference. The basic idea is to use paternal genotypes to proxy the direct effect of their offspring’s genotype on their offspring’s own exposures. Results We compare our framework to other MR designs and investigate the consequences of model misspecification and spousal misclassification on statistical power, consistency, and bias. In addition, we discuss the key MR assumptions that prevent these approaches from being appropriate for investigating the effect of many offspring postnatal and later life exposures on maternal health. Conclusion Given the increasing availability of datasets such as the UK Biobank that (incidentally) include tens of thousands of genome-wide genotyped spousal pairs and large population biobanks with linked health record data for first-degree relatives, the offspring genotype-by-proxy MR approach could augment causal analyses of offspring perinatal exposures on their mother’s outcomes as implementation is not restricted to datasets with mother–offspring genotype information.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: Prostate cancer data from Clinical Practice Research Datalink linked hospital records, mortality data and cancer registry standardized to the Observational Medical Outcomes Partnership common data model (CPRD-PCa-OMOP)</title>
+      <link>https://doi.org/10.1093/ije/dyag016</link>
+      <guid isPermaLink="false">10.1093/ije/dyag016</guid>
+
+      <dc:creator>Eng Hooi Tan</dc:creator>
+      <dc:creator>Danielle Newby</dc:creator>
+      <dc:creator>Daniel Prieto-Alhambra</dc:creator>
+      <dc:creator>Mandickel Kamtengeni</dc:creator>
+      <dc:creator>Antonella Delmestri</dc:creator>
+      <dc:creator>James N’Dow</dc:creator>
+      <dc:creator>Emma Jane Smith</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Eng Hooi Tan, Danielle Newby, Daniel Prieto-Alhambra, Mandickel Kamtengeni, Antonella Delmestri, James N’Dow, Emma Jane Smith, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag016</description>
+    </item>
+    <item>
+      <title>Unveiling heat vulnerability of older adults: an assessment of emergency hospital admissions in Switzerland</title>
+      <link>https://doi.org/10.1093/ije/dyag044</link>
+      <guid isPermaLink="false">10.1093/ije/dyag044</guid>
+
+      <dc:creator>Sujung Lee</dc:creator>
+      <dc:creator>Ana Maria Vicedo-Cabrera</dc:creator>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sujung Lee, Ana Maria Vicedo-Cabrera
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag044
+
+Abstract: Abstract Background Older adults are highly vulnerable to heat, yet how individual characteristics modulate its effects remains unclear. We assessed heat-related emergency hospital admission (EHA) risk across subpopulations of older adults receiving home care services in Switzerland (2019–2022). Methods We analysed patient-level EHA data linked to daily maximum temperature by MedStat regions of residence. We employed a case time series design with quasi-Poisson regression and distributed lag non-linear models to examine heat-related EHA risk, stratifying by individual characteristics, including sociodemographic factors, pre-existing health conditions, primary diagnosis, and levels of dependency and social interaction. Results The overall heat-related EHA risk was 1.12 (95% confidence interval (CI): 1.04–1.20) (at 99th percentile vs minimum temperature percentile risk). Males (1.16; 1.04–1.29) generally showed higher heat-related EHA risk than females (1.09; 0.98–1.20), except among those aged ≥85 years (females 1.16; 1.00–1.34 vs males 1.06; 0.90–1.26). Regarding functional capacity, females requiring assistance with daily tasks had an increased heat-related EHA risk, whereas males showed the opposite trend, with higher risk among those who were independent. Sex-specific analyses revealed that anxiety and dementia/Alzheimer’s disease were risk factors for females, whereas cancer, chronic obstructive pulmonary disease, and coronary heart disease were risk factors for males. Joint stratification by pre-existing health conditions and primary diagnosis showed that individuals with pre-existing cancer had higher risks of admission for circulatory, genitourinary, infectious, and endocrine/metabolic causes during heat exposure. Conclusion Our results show that older individuals are not equally vulnerable to heat, underscoring the need for targeted public health interventions to protect high-risk older adults.</description>
+    </item>
+    <item>
+      <title>Cohort Profile Update: The Harmonised Cognitive Assessment Protocol sub-study of the Northern Ireland Cohort for the Longitudinal Study of Ageing (NICOLA-HCAP)</title>
+      <link>https://doi.org/10.1093/ije/dyag029</link>
+      <guid isPermaLink="false">10.1093/ije/dyag029</guid>
+
+      <dc:creator>Calum Marr</dc:creator>
+      <dc:creator>Leeanne O’Hara</dc:creator>
+      <dc:creator>Nicola A Ward</dc:creator>
+      <dc:creator>Stanley Simoes</dc:creator>
+      <dc:creator>Michael McAlinden</dc:creator>
+      <dc:creator>Charlotte Sterling</dc:creator>
+      <dc:creator>Claire Potter</dc:creator>
+      <dc:creator>David R Weir</dc:creator>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Calum Marr, Leeanne O’Hara, Nicola A Ward, Stanley Simoes, Michael McAlinden, Charlotte Sterling, Claire Potter, David R Weir, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag029</description>
+    </item>
+    <item>
+      <title>The climate crisis is a health crisis and epidemiologists are vital for driving mitigation efforts</title>
+      <link>https://doi.org/10.1093/ije/dyag023</link>
+      <guid isPermaLink="false">10.1093/ije/dyag023</guid>
+
+      <dc:creator>Wael K Al-Delaimy</dc:creator>
+      <dc:creator>Katy J L Bell</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wael K Al-Delaimy, Katy J L Bell
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag023</description>
+    </item>
+    <item>
+      <title>Cohort Profile: Generation Victoria (GenV)</title>
+      <link>https://doi.org/10.1093/ije/dyag028</link>
+      <guid isPermaLink="false">10.1093/ije/dyag028</guid>
+
+      <dc:creator>Elizabeth K Hughes</dc:creator>
+      <dc:creator>William Siero</dc:creator>
+      <dc:creator>Alisha Gülenç</dc:creator>
+      <dc:creator>Anna Fedyukova</dc:creator>
+      <dc:creator>Susan A Clifford</dc:creator>
+      <dc:creator>Tony Frugier</dc:creator>
+      <dc:creator>Jatender Mohal</dc:creator>
+      <dc:creator>Naomi Schwarz</dc:creator>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elizabeth K Hughes, William Siero, Alisha Gülenç, Anna Fedyukova, Susan A Clifford, Tony Frugier, Jatender Mohal, Naomi Schwarz, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag028</description>
+    </item>
+    <item>
+      <title>Imprecision in tuberculosis infection outcomes: implications for non-inferiority vaccine trials</title>
+      <link>https://doi.org/10.1093/ije/dyag034</link>
+      <guid isPermaLink="false">10.1093/ije/dyag034</guid>
+
+      <dc:creator>Daniel J Grint</dc:creator>
+      <dc:creator>Richard G White</dc:creator>
+      <dc:creator>Gavin Churchyard</dc:creator>
+      <dc:creator>Andrew Fiore-Gartland</dc:creator>
+      <dc:creator>Molebogeng Rangaka</dc:creator>
+      <dc:creator>Alberto L Garcia-Basteiro</dc:creator>
+      <dc:creator>Frank Cobelens</dc:creator>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Daniel J Grint, Richard G White, Gavin Churchyard, Andrew Fiore-Gartland, Molebogeng Rangaka, Alberto L Garcia-Basteiro, Frank Cobelens
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag034
+
+Abstract: Abstract Background Randomized trials comparing new vaccines against tuberculosis for use in neonates and infants, for whom Bacille Calmette–Guérin vaccination is established practice, are using tuberculosis infection as the primary endpoint in a non-inferiority design. Markers of tuberculosis infection have imperfect sensitivity and specificity. Flaws in the non-inferiority trial design typically bias towards non-inferiority, which may result in falsely declaring non-inferiority. Methods We conducted a statistical simulation study to assess the impact of imperfect markers of tuberculosis infection on the interpretation of tuberculosis vaccine trials testing a non-inferiority hypothesis of an infection primary outcome in a two-arm randomized comparison. Data were generated in three 2-year cumulative risk of tuberculosis infection scenarios (2%, 5%, and 8%). The specificity of tests of tuberculosis infection was assumed to range from 100% to 85%, while the sensitivity was assumed to range from 100% to 64%. Log-binomial regression was used to estimate the relative risk of tuberculosis infection. Results With 100% sensitivity and specificity, type I error and power were both approximately equal to the expected values (2.5% and 80%, respectively) in all three cumulative tuberculosis risk scenarios. With modest deviations from perfect sensitivity and specificity (95% for both), the risk of falsely declaring non-inferiority was 96.8%, 53.2%, and 27.8% in the 2%, 5%, and 8% cumulative tuberculosis risk infection scenarios, respectively. Discussion Tuberculosis vaccine non-inferiority trials using an infection primary outcome must be designed and interpreted accounting for the specificity of the tools used to measure infection, otherwise they risk declaring non-inferiority by default.</description>
+    </item>
+    <item>
+      <title>Paternal snus use in puberty and increased risk for asthma and allergies in offspring: a RHINE/RHINESSA two-generation study</title>
+      <link>https://doi.org/10.1093/ije/dyag035</link>
+      <guid isPermaLink="false">10.1093/ije/dyag035</guid>
+
+      <dc:creator>Juan Pablo López-Cervantes</dc:creator>
+      <dc:creator>Randi J Bertelsen</dc:creator>
+      <dc:creator>Vivi Schlünssen</dc:creator>
+      <dc:creator>Mathias Holm</dc:creator>
+      <dc:creator>Andrei Malinovschi</dc:creator>
+      <dc:creator>Lars Modig</dc:creator>
+      <dc:creator>Anna Oudin</dc:creator>
+      <dc:creator>Francisco Javier Callejas-González</dc:creator>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Juan Pablo López-Cervantes, Randi J Bertelsen, Vivi Schlünssen, Mathias Holm, Andrei Malinovschi, Lars Modig, Anna Oudin, Francisco Javier Callejas-González, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag035
+
+Abstract: Abstract Background Evidence suggests that a father’s smoking in puberty may adversely impact respiratory health in offspring, possibly through epigenetic changes in germ cells. This study investigates whether snus use starting in or after puberty influences respiratory health in future offspring. Methods We analysed Swedish data from RHINE (Respiratory Health in Northern Europe) parents and RHINESSA (Respiratory Health in Northern Europe, Spain and Australia) offspring by using mixed-effect logistic regression to assess the links between paternal snus initiation around puberty and offspring asthma, chronic bronchitis, rhinitis, and eczema, adjusting for paternal and offspring smoking. Results We identified 1090 offspring–father pairs. The offspring’s median age was 29 years (17–51) and 55% were women. The maternal line (n = 1421) was not analysed, as &amp;amp;lt;1% of mothers used snus in puberty. The offspring of fathers starting snus use in puberty (n = 89) had a higher risk of current allergic asthma [odds ratio (OR) 1.42; 95% confidence interval (CI) 1.02–1.97], at least three asthma symptoms with allergy (OR 1.13; 95% CI 1.10–1.21), chronic bronchitis (OR 2.17; 95% CI 1.04–4.54), and eczema (OR 1.45; 95% CI 1.27–1.65). Fathers’ snus use starting after puberty (n = 252) showed no consistent associations with offspring outcomes. The effect estimates were consistent after excluding offspring using snus in puberty. Conclusion Paternal snus use starting in puberty was associated with a higher risk of asthma and other respiratory and allergic symptoms in offspring. These findings support the hypothesis that exposures in puberty may impact future generations’ respiratory health, possibly through epigenetic changes. This highlights the need for research on exposures during this period and actions to prevent habits that could negatively impact future offspring’s health.</description>
+    </item>
+    <item>
+      <title>Quantifying within-household tuberculosis transmission: a systematic review and prospective cohort study</title>
+      <link>https://doi.org/10.1093/ije/dyag042</link>
+      <guid isPermaLink="false">10.1093/ije/dyag042</guid>
+
+      <dc:creator>Chuan-Chin Huang</dc:creator>
+      <dc:creator>Alicia E Madden</dc:creator>
+      <dc:creator>Mercedes C Becerra</dc:creator>
+      <dc:creator>Roger Calderon</dc:creator>
+      <dc:creator>Alexander L Chu</dc:creator>
+      <dc:creator>Carmen Contreras</dc:creator>
+      <dc:creator>Judith Jimenez</dc:creator>
+      <dc:creator>Leonid Lecca</dc:creator>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chuan-Chin Huang, Alicia E Madden, Mercedes C Becerra, Roger Calderon, Alexander L Chu, Carmen Contreras, Judith Jimenez, Leonid Lecca, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag042
+
+Abstract: Abstract Background Household-based studies are commonly used to investigate tuberculosis (TB) transmission and evaluate preventive interventions. These studies typically assume that household contacts (HHCs) who develop TB disease were infected by the identified index patient. However, community-acquired infections may challenge this assumption, potentially biasing findings. Here, we evaluated the proportion of genetically linked index–HHC pairs and examined whether this proportion varied based on the TB burden in the community. Methods We conducted a prospective cohort study in Lima, Peru, enrolling microbiologically confirmed pulmonary TB index patients and their HHCs who were followed for 1 year. Mycobacterium tuberculosis (Mtb) isolates from culture-positive index patients and HHCs underwent whole-genome sequencing (WGS). We defined index–HHC patient pairs as resulting from within-household transmission when the genetic distance between their Mtb isolates was ≤12 single nucleotide polymorphisms. To contextualize our findings, we conducted a systematic review of Mtb genotyping studies that used spoligotyping, restriction fragment length polymorphisms , mycobacterial interspersed repetitive units–variable number tandem repeats, or WGS to assess within-household TB infection transmission among index–HHC patient pairs. Results In our Lima study, among 175 index–HHC patient pairs, 109 (62%) were classified as within-household transmission. The systematic review identified 22 qualifying studies from settings with TB burdens ranging from 6.7 to 845 cases per 100 000 person-years. Studies in settings with TB incidence of ≤250 per 100 000 person-years consistently reported linkage proportions of ≥61%, whereas high-burden settings exhibited greater variability. Conclusions Our findings suggest that, among individuals exposed to TB at home, within-household transmission predominates in moderate- or low-TB-burden settings. However, its relative contribution in high-incidence settings remains unclear.</description>
+    </item>
+    <item>
+      <title>Cohort Profile: SARS-CoV-2 Immunity and Reinfection EvaluatioN (SIREN)</title>
+      <link>https://doi.org/10.1093/ije/dyag032</link>
+      <guid isPermaLink="false">10.1093/ije/dyag032</guid>
+
+      <dc:creator>Sarah Foulkes</dc:creator>
+      <dc:creator>Katie Munro</dc:creator>
+      <dc:creator>Jameel Khawam</dc:creator>
+      <dc:creator>Sophie Russell</dc:creator>
+      <dc:creator>Angela Dunne</dc:creator>
+      <dc:creator>Kevin Wilson</dc:creator>
+      <dc:creator>Diane Corrigan</dc:creator>
+      <dc:creator>Elen de Lacy</dc:creator>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sarah Foulkes, Katie Munro, Jameel Khawam, Sophie Russell, Angela Dunne, Kevin Wilson, Diane Corrigan, Elen de Lacy, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag032</description>
+    </item>
+    <item>
+      <title>Realistic presentation of estimated propensity score in the causal directed acyclic graph—response to Kim</title>
+      <link>https://doi.org/10.1093/ije/dyag013</link>
+      <guid isPermaLink="false">10.1093/ije/dyag013</guid>
+
+      <dc:creator>Mohammad Ali Mansournia</dc:creator>
+      <dc:creator>Maryam Nazemipour</dc:creator>
+      <dc:creator>Mahyar Etminan</dc:creator>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mohammad Ali Mansournia, Maryam Nazemipour, Mahyar Etminan
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag013</description>
+    </item>
+    <item>
+      <title>The impact of an organized screening program on gastric cancer incidence: a quasi-experimental study</title>
+      <link>https://doi.org/10.1093/ije/dyag018</link>
+      <guid isPermaLink="false">10.1093/ije/dyag018</guid>
+
+      <dc:creator>Dianqin Sun</dc:creator>
+      <dc:creator>Duco T Mülder</dc:creator>
+      <dc:creator>Kyu-Won Jung</dc:creator>
+      <dc:creator>Jin Young Park</dc:creator>
+      <dc:creator>Mina Suh</dc:creator>
+      <dc:creator>Yige Li</dc:creator>
+      <dc:creator>Daan Nieboer</dc:creator>
+      <dc:creator>Chisato Hamashima</dc:creator>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dianqin Sun, Duco T Mülder, Kyu-Won Jung, Jin Young Park, Mina Suh, Yige Li, Daan Nieboer, Chisato Hamashima, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag018
+
+Abstract: Abstract Background Evidence of gastric cancer (GC) screening’s impact on GC incidence remains limited. In 2002, South Korea started a nationwide GC screening program. This study uses a quasi-experimental design to evaluate the effect of the program on GC incidence in Seoul. Methods Using a flexible synthetic control method (SCM), we estimated the impact of GC screening on age-standardized GC incidence in Seoul. Annual age-specific GC incidence data were obtained from the Seoul Cancer Registry and Cancer Incidence in Five Continents Plus database. Post-intervention trends in GC incidence between Seoul and the synthetic control were compared to estimate average rate ratios (RRs) with 95% confidence intervals (CIs). Several sensitivity and alternative analyses were performed, including a modified age-period-cohort (APC) analysis. Results The screening program was associated with a higher GC incidence in Seoul compared to the synthetic control, with an average post-intervention RR of 1.11 (95% CI: 0.99–1.24). After 2002, the start of the screening program, there was a noticeable increase in the post-intervention differences between Seoul and the synthetic control, which peaked in 2011 (RR 1.26), and then began to fall. The results were robust across sensitivity analyses and alternative analyses. The modified APC analysis indicated that after initially expanding and then diminishing, the effect eventually reversed, resulting in a reduction in incidence. Conclusions These findings suggest that healthcare sectors should anticipate an immediate increase in care demands following GC screening implementation. While a subsequent reduction in GC incidence is expected, the potential preventive impact remains inconclusive.</description>
+    </item>
+    <item>
+      <title>Estimation of healthy worker survivor bias among middle-aged populations in Korea</title>
+      <link>https://doi.org/10.1093/ije/dyag015</link>
+      <guid isPermaLink="false">10.1093/ije/dyag015</guid>
+
+      <dc:creator>Byungyoon Yun</dc:creator>
+      <dc:creator>Beom Kyung Kim</dc:creator>
+      <dc:creator>Sung-In Jang</dc:creator>
+      <dc:creator>Laura S Rozek</dc:creator>
+      <dc:creator>Heejin Kimm</dc:creator>
+      <dc:creator>Juyeon Oh</dc:creator>
+      <dc:creator>Jin-Ha Yoon</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Byungyoon Yun, Beom Kyung Kim, Sung-In Jang, Laura S Rozek, Heejin Kimm, Juyeon Oh, Jin-Ha Yoon
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag015
+
+Abstract: Abstract Background Healthy worker survivor bias (HWSB) skews health outcome studies by favouring healthier employed individuals. While advanced statistical methods exist, their application in Korea has been limited due to insufficient occupational and mortality data. This study quantifies HWSB due to employment status changes (HWSB–ES) using Korea’s National Health Insurance Service (NHIS) database. Methods This retrospective cohort study analysed NHIS data to assess HWSB–ES in individuals aged 30–59 years who maintained consistent insurance types from 2008 to 2010. The primary outcome, all-cause mortality, was tracked until December 2022. Insurance type determined employment status, with industry details collected for employees. Landmark analysis (origin: 2011; current: 2012–21) estimated HWSB–ES by assessing mortality risk attenuation in fixed and dynamic cohorts, stratified by age, sex, and landmark periods (1–10 years for short-term; 1–7 years for long-term). Results After exclusions, 18 192 989 participants were included (median age: 44 years; 49.05% male). HWSB–ES was more pronounced in female, dynamic cohorts, and longer landmark periods. Importantly, the effect of HWSB–ES intensified with age but showed a smaller long-term attenuation compared to the short-term effect. Short-term HWSB–ES attenuated mortality risk by 25%–30% in male and 36%–39% in female. Long-term attenuation was lower, at 7%–15% in male and 12%–18% in female. Conclusions The quantified HWSB–ES results provide critical national-level estimates for adjustment, especially in female and older cohorts, to prevent the underestimation of adverse health effects in occupational research.</description>
+    </item>
+    <item>
+      <title>Identification of the causal odds ratio in test-negative-design studies of COVID-19 vaccine effectiveness</title>
+      <link>https://doi.org/10.1093/ije/dyag039</link>
+      <guid isPermaLink="false">10.1093/ije/dyag039</guid>
+
+      <dc:creator>Charlotte Lanièce Delaunay</dc:creator>
+      <dc:creator>Baltazar Nunes</dc:creator>
+      <dc:creator>Susana Monge</dc:creator>
+      <dc:creator>Marit de Lange</dc:creator>
+      <dc:creator>Gergő Túri</dc:creator>
+      <dc:creator>Ausenda Machado</dc:creator>
+      <dc:creator>Neus Latorre-Margalef</dc:creator>
+      <dc:creator>Ivan Mlinarić</dc:creator>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Charlotte Lanièce Delaunay, Baltazar Nunes, Susana Monge, Marit de Lange, Gergő Túri, Ausenda Machado, Neus Latorre-Margalef, Ivan Mlinarić, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag039</description>
+    </item>
+    <item>
+      <title>Cohort profile: Zhejiang Healthy Aging Cohort Study (ZHACS)</title>
+      <link>https://doi.org/10.1093/ije/dyag050</link>
+      <guid isPermaLink="false">10.1093/ije/dyag050</guid>
+
+      <dc:creator>Xue Gu</dc:creator>
+      <dc:creator>Chen Wu</dc:creator>
+      <dc:creator>Tao Zhang</dc:creator>
+      <dc:creator>Le Xu</dc:creator>
+      <dc:creator>Fudong Li</dc:creator>
+      <dc:creator>Yujia Zhai</dc:creator>
+      <dc:creator>Xinyi Wang</dc:creator>
+      <dc:creator>Mengna Wu</dc:creator>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xue Gu, Chen Wu, Tao Zhang, Le Xu, Fudong Li, Yujia Zhai, Xinyi Wang, Mengna Wu, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag050</description>
+    </item>
+    <item>
+      <title>Lead exposure as a contributor to the Black–White racial disparity in blood pressure: evidence from NHANES 1988–1994 and 2017–2020</title>
+      <link>https://doi.org/10.1093/ije/dyag020</link>
+      <guid isPermaLink="false">10.1093/ije/dyag020</guid>
+
+      <dc:creator>Mia Q Zhu</dc:creator>
+      <dc:creator>Hannah Van Wyk</dc:creator>
+      <dc:creator>Sung Kyun Park</dc:creator>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mia Q Zhu, Hannah Van Wyk, Sung Kyun Park
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag020
+
+Abstract: Abstract Background In the USA, racial disparities in blood pressure have persisted, with Black people experiencing a greater risk of hypertension compared with White people. While disparities in lead exposure may be related to some of this disparity, little is known about the mediating role of lead in racial disparities in blood pressure. Methods We used national-level, cross-sectional data of non-institutionalized US adults aged ≥20 years from the National Health and Nutrition Examination Survey (NHANES): NHANES-III (1988–1994) (n = 10 570) and NHANES 2017–2020 (n = 4536). We examined the extent to which racial disparities in blood pressure were mediated by disparities in blood lead levels between these two NHANES cycles by using causal mediation analysis. We estimated natural direct and indirect effects, and considered potential interaction between race and blood lead levels by using four-way decomposition. Results In NHANES-III, the Black participants would have a 5.74-mmHg (95% confidence interval: 4.94, 6.54) higher mean systolic blood pressure compared with White participants if all adjusted covariates were held equal to that of the White population; 10% of this disparity was mediated by differences in blood lead levels between Black and White participants. Similar trends were observed for hypertension. In NHANES 2017–2020, similar overall trends were observed. However, the proportion of racial disparities mediated by differences in blood lead levels between Black and White individuals reduced from 10% to 5%. Conclusion These findings suggest that racial differences in lead exposure may be related to racial disparities in blood pressure, but the mediating role of blood lead levels has decreased since the 1980s.</description>
+    </item>
+    <item>
+      <title>Kidney cancer and occupational agricultural exposures in the AGRIculture and CANcer cohort</title>
+      <link>https://doi.org/10.1093/ije/dyag001</link>
+      <guid isPermaLink="false">10.1093/ije/dyag001</guid>
+
+      <dc:creator>Carine Nassar</dc:creator>
+      <dc:creator>Mathilde Boulanger</dc:creator>
+      <dc:creator>Isabelle Baldi</dc:creator>
+      <dc:creator>Séverine Tual</dc:creator>
+      <dc:creator>Simona Bara</dc:creator>
+      <dc:creator>Pierre Lebailly</dc:creator>
+      <dc:creator>Bénédicte Clin</dc:creator>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Carine Nassar, Mathilde Boulanger, Isabelle Baldi, Séverine Tual, Simona Bara, Pierre Lebailly, Bénédicte Clin, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag001
+
+Abstract: Abstract Introduction The relationship between kidney cancer and occupational exposures, especially agricultural, has been understudied. This study aimed to assess the risk of kidney cancer with a wide range of agricultural activities and tasks. Methods Participants from the French AGRIculture and CANcer cohort (≈180 000) were included. Incident kidney cancers (n = 654) were identified through cancer registries from 2005–2007 until 31 December 2017. Occupational exposures and potential confounders were identified by using enrollment questionnaires covering 5 livestock types, 13 crops, and related tasks. Cox models with age as the timescale were applied separately for men and women, using non-exposed farmers as the reference to account for genetic and agricultural exposure differences, along with exposure–response and sensitivity analyses. Results In men, positive associations were found between kidney cancer risk and working with rapeseed [hazard ratio (HR) = 1.26 (0.95–1.68)] and sunflowers [HR = 1.23 (0.89–1.68)], and tasks related to other crops such as corn, wheat/barley, beet, and tobacco. In women, an increased risk was noted for winegrowers [HR = 1.56 (1.12–2.18)]. Pesticide use (on fields and/or seeds) was associated, for both sexes, with these crops, showing exposure–response relationships with crop area and work duration. Conversely, some inverse associations were observed for livestock breeding, notably cattle in men and poultry in women. Conclusion We reported positive associations between kidney cancer risk and specific field crops, tobacco, and vineyards, with gender differences in pesticide-related tasks. Further studies are needed to understand these differences and identify substances linked to kidney cancer.</description>
+    </item>
+    <item>
+      <title>Susceptible windows of long-term childhood exposure to air pollution on adult self-reported bronchitic symptoms</title>
+      <link>https://doi.org/10.1093/ije/dyaf205</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf205</guid>
+
+      <dc:creator>Futu Chen</dc:creator>
+      <dc:creator>Zhongzheng Niu</dc:creator>
+      <dc:creator>Sahra Mohazzab-Hosseinian</dc:creator>
+      <dc:creator>Steve Howland</dc:creator>
+      <dc:creator>Frederick Lurmann</dc:creator>
+      <dc:creator>Nathan R Pavlovic</dc:creator>
+      <dc:creator>W James Gauderman</dc:creator>
+      <dc:creator>Rob Mcconnell</dc:creator>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Futu Chen, Zhongzheng Niu, Sahra Mohazzab-Hosseinian, Steve Howland, Frederick Lurmann, Nathan R Pavlovic, W James Gauderman, Rob Mcconnell, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf205
+
+Abstract: Abstract Background Childhood exposure to air pollution has long-term effects on adult bronchitic symptoms, but the age windows of susceptibility are understudied. Methods We included 1444 participants from the Southern California Children’s Health Study, who were recruited at ages ∼9–10 years in 1992–1993 or 1995–1996 or ages ∼5–7 years in 2002–2003, followed until high-school graduation, and re-contacted again in adulthood (mean age = 33 years) to collect self-reported bronchitic symptoms. Yearly average nitrogen dioxide (NO2), 8-h maximum ground-level ozone (O3), and particulate matter of ≤10 µm in diameter (PM10) were estimated by using inverse-distance squared spatial interpolation to participants’ residential history from conception to age 16 years. Log Poisson Distributed Lag Models were fitted to identify susceptible windows of childhood exposure to air pollution on adult bronchitic symptoms adjusted for childhood and adult confounders. We explored sex-specific susceptible windows. Results We identified ages 1–2 years as a susceptible window in which NO2 exposure was associated with a higher risk of adult bronchitic symptoms, with the largest associations observed at age 1 year (risk ratio per 10 ppb = 1.12; 95% confidence interval: 1.01, 1.25). We observed both positive (ages 12–15 years) and inverse (ages 8–11 years) associations with O3 exposure. Suggestive evidence of increased risk at ages 3–4 years was observed for PM10. There was no evidence of sex differences. Conclusion Early childhood might be a particularly susceptible window of exposure to NO2 (ages 1–2 years) and possibly for PM10 (ages 3–4 years) for increased risk of adult bronchitic symptoms, while early adolescence (ages 12–15 years) might be a susceptible window for O3 exposure.</description>
+    </item>
+    <item>
+      <title>On ‘the joint impact of greenspace and air pollution on mortality’: methodological proposals</title>
+      <link>https://doi.org/10.1093/ije/dyaf224</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf224</guid>
+
+      <dc:creator>Quan Zhang</dc:creator>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Quan Zhang
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf224</description>
+    </item>
+    <item>
+      <title>Multimorbidity trends in Catalonia, 2010–21: a population-based cohort study</title>
+      <link>https://doi.org/10.1093/ije/dyaf218</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf218</guid>
+
+      <dc:creator>Iñaki Permanyer</dc:creator>
+      <dc:creator>Jordi Gumà</dc:creator>
+      <dc:creator>Sergi Trias-Llimós</dc:creator>
+      <dc:creator>Aïda Solé-Auró</dc:creator>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Iñaki Permanyer, Jordi Gumà, Sergi Trias-Llimós, Aïda Solé-Auró
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf218
+
+Abstract: Abstract Background With rising longevity, multimorbidity is an increasingly important challenge for healthcare systems. We describe trends in the prevalence and incidence of multimorbidity across socioeconomic groups in Catalonia. Methods We use a random sample of 1 551 126 individuals (22% of the Catalan population, for whom we have the complete primary care health records) and follow them from 2010 until 2021. We document the age- and sex-specific prevalence and incidence of multimorbidity stratifying by income groups and birth cohorts. Logistic regression models are used to estimate the association between multimorbidity and mortality. Results Between 2010 and 2021, the prevalence of multimorbidity, higher among women, has increased for both sexes and all cohorts in our analysis. Importantly, each cohort attains the same ages, with higher multimorbidity prevalence than their predecessors had 10 years ago. Older generations are mostly affected by degenerative diseases, while younger age groups are more affected by mental health problems. Incidence tends to be higher among the older cohorts across all adult ages. We observe a strong socioeconomic gradient, with lower-income individuals experiencing worse multimorbidity prevalence and incidence. Such a gradient is persistent and becomes more pronounced at the end of the study period. Across all age groups, individuals experiencing multimorbidity have a higher risk of dying than those who do not. Conclusion The documented increases in multimorbidity alongside its socioeconomic gradients suggest that preventive strategies are urgently needed to defer or prevent its onset and slow its progression—especially among younger generations.</description>
+    </item>
+    <item>
+      <title>Spatial inequities in COVID-19 vaccination coverage across Kenya: a geospatial analysis of structural determinants and Development Index patterns</title>
+      <link>https://doi.org/10.1093/ije/dyaf208</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf208</guid>
+
+      <dc:creator>Larry Niño</dc:creator>
+      <dc:creator>Agnes Kiragga</dc:creator>
+      <dc:creator>F Dewolfe Miller</dc:creator>
+      <dc:creator>Samuel M Mwalili</dc:creator>
+      <dc:creator>Godfrey Musuka</dc:creator>
+      <dc:creator>Diego F Cuadros</dc:creator>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Larry Niño, Agnes Kiragga, F Dewolfe Miller, Samuel M Mwalili, Godfrey Musuka, Diego F Cuadros
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf208
+
+Abstract: Abstract Background By mid-2024, &amp;amp;gt;13 billion COVID-19 vaccine doses had been administered globally, with totals continuing to rise into 2025, yet persistent inequities remain in low- and middle-income countries (LMICs). We examined spatial determinants of COVID-19 vaccination uptake (proportion of eligible persons vaccinated) in Kenya by using the most recent nationally representative survey, the Kenya Demographic and Health Survey 2022. Our central contribution is the detection of seven spatially concentrated vulnerability clusters, complemented by using a Development Index (DI) and equity auditing to guide targeted action. Methods We integrated socioeconomic, healthcare, environmental, and demographic measures at the Demographic and Health Survey cluster level; quantified spatial dependence (Moran’s I; spatial lag models); identified socio-geographic clusters (K-means); estimated variable importance (random forest); and synthesized a DI. Equity was assessed by using the Erreygers Concentration Index (ECI) along two axes: wealth-based (poorest→richest) and immunization-linked (lowest→highest routine child immunization coverage). Results Our results reveal stark geographic disparities: vaccination rates range from 5.93% in Garissa to 46.02% in Nyeri, with urban clusters achieving significantly higher uptake. Key predictors include bank access (financial inclusion), household crowding, and environmental factors (nitrogen dioxide levels, precipitation). The DI correlated positively with uptake and the ECI indicated modest immunization-linked inequality and more pronounced wealth-related inequality. Conclusion This study underscores the need for targeted interventions, including mobile vaccination units, financial inclusion programs (e.g. M-Pesa subsidies), and the integration of COVID-19 vaccines into routine immunization programs. As Kenya and many LMICs integrate COVID-19 vaccination into routine immunization, our spatial approach, combining DI, cluster detection, and equity metrics, provides an operational toolkit to prioritize underserved areas, inform the placement of service points/mobile teams, and monitor equity as programs transition from campaigns to routine delivery.</description>
+    </item>
+    <item>
+      <title>Response to: Incidence of stroke in Switzerland</title>
+      <link>https://doi.org/10.1093/ije/dyag003</link>
+      <guid isPermaLink="false">10.1093/ije/dyag003</guid>
+
+      <dc:creator>Martin Hänsel</dc:creator>
+      <dc:creator>Emanuel Mauch</dc:creator>
+      <dc:creator>Charlotte Micheloud</dc:creator>
+      <dc:creator>Andreas R Luft</dc:creator>
+      <dc:creator>Krassen Nedeltchev</dc:creator>
+      <dc:creator>Marcel Arnold</dc:creator>
+      <dc:creator>Susanne Wegener</dc:creator>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Martin Hänsel, Emanuel Mauch, Charlotte Micheloud, Andreas R Luft, Krassen Nedeltchev, Marcel Arnold, Susanne Wegener
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag003</description>
+    </item>
+    <item>
+      <title>Spatio-temporal trends in pleural mesothelioma mortality in Italy: a 40-year analysis by calendar period and birth cohort</title>
+      <link>https://doi.org/10.1093/ije/dyaf227</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf227</guid>
+
+      <dc:creator>Allegra Sartore</dc:creator>
+      <dc:creator>Giorgia Stoppa</dc:creator>
+      <dc:creator>Giada Minelli</dc:creator>
+      <dc:creator>Lucia Fazzo</dc:creator>
+      <dc:creator>Valerio Manno</dc:creator>
+      <dc:creator>Carolina Mensi</dc:creator>
+      <dc:creator>Alessandro Marinaccio</dc:creator>
+      <dc:creator>Annibale Biggeri</dc:creator>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Allegra Sartore, Giorgia Stoppa, Giada Minelli, Lucia Fazzo, Valerio Manno, Carolina Mensi, Alessandro Marinaccio, Annibale Biggeri, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf227
+
+Abstract: Abstract Background Italy, among the leading asbestos producers and users until the national ban in 1992, continues to register a high burden of asbestos-related diseases, mainly due to their long latency and delays in remediation. This study investigates the spatio-temporal evolution of pleural mesothelioma (PM) mortality over the past 40 years. Materials and methods Malignant pleural tumours and PM deaths (1980–2020) were extracted from the national death registry, adjusted for misclassification of pleural tumours, and analysed by region and birth cohort (1905–1984). The analyses by calendar period and cohort, stratified by sex assigned at birth, were followed by a space-cohort Bayesian Hierarchical Model with structured random effects for time (cohorts up to 1960–1969) and space (administrative regions). Results In Italy, from 1980 to 2020, 35 134 people died from PM (24 380 males and 10 754 females). A mortality decrease was observed in males after 2010–14 and in females after 2000–4. Mortality steadily declined in both males and females across cohorts after 1935–44. The space–time analysis enabled the clear identification of the Italian regions most affected by PM. Conclusion Italy’s trend mirrors those of other Western countries that have banned asbestos, with the highest risks for birth cohorts in working age before the ban. The results reveal distinct spatio-temporal patterns, with the northern regions exhibiting the highest rates. The Italian experience with asbestos-related diseases detection could help other countries to assess the impact of asbestos, raise awareness, and promote a global ban on asbestos.</description>
+    </item>
+    <item>
+      <title>Impact of intermittent preventive treatment of malaria in pregnancy with sulfadoxine–pyrimethamine on sexually transmitted and reproductive tract infections: results from a randomized trial in Uganda</title>
+      <link>https://doi.org/10.1093/ije/dyag005</link>
+      <guid isPermaLink="false">10.1093/ije/dyag005</guid>
+
+      <dc:creator>Harriet Adrama</dc:creator>
+      <dc:creator>Erin J Dela Cruz</dc:creator>
+      <dc:creator>Nida Ozarslan</dc:creator>
+      <dc:creator>Abel Kakuru</dc:creator>
+      <dc:creator>Bakar Odongo</dc:creator>
+      <dc:creator>Stephanie L Gaw</dc:creator>
+      <dc:creator>Jade Benjamin-Chung</dc:creator>
+      <dc:creator>Jimmy Kizza</dc:creator>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Harriet Adrama, Erin J Dela Cruz, Nida Ozarslan, Abel Kakuru, Bakar Odongo, Stephanie L Gaw, Jade Benjamin-Chung, Jimmy Kizza, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag005
+
+Abstract: Abstract Background In sub-Saharan Africa, sexually transmitted and reproductive tract infections (STIs/RTIs) are important but underdiagnosed risk factors for adverse pregnancy outcomes. Sulfadoxine–pyrimethamine (SP), used for the intermittent preventive treatment of malaria in pregnancy (IPTp), may reduce the STI/RTI burden due to its antimicrobial activity. We assessed the impact of IPTp regimens on STI/RTI prevalence and evaluated associations between STIs/RTIs and adverse birth outcomes. Methods We conducted a secondary analysis of a randomized–controlled trial comparing monthly IPTp with SP, dihydroartemisinin–piperaquine (DP), or DP+SP among pregnant women in Uganda. Vaginal swabs collected at or near delivery were tested for Chlamydia trachomatis, Neisseria gonorrhoeae, Trichomonas vaginalis, and Group B Streptococcus (GBS) by using GeneXpert; bacterial vaginosis was assessed by using Nugent scoring. Log-binomial regression was used to compare STI/RTI prevalence between IPTp arms; IPTp-DP served as the reference arm. Multivariable Poisson regression with robust standard errors was used to evaluate associations between infections and preterm delivery, term low birthweight (LBW), overall LBW, and small-for-gestational age. Results Among the 2265 participants assessed, the IPTp-SP arm had an 80% [95% confidence interval (CI): 67%–88%] lower prevalence of C. trachomatis (2.5% vs 12.4%) and a 35% (95% CI: 1%–57%) lower prevalence of GBS (7.7% vs 11.7%) at delivery compared with the IPTp-DP arm. Chlamydia trachomatis was associated with increased preterm delivery [prevalence ratio (PR) = 1.86, 95% CI: 1.07–3.25] and GBS was associated with increased term LBW (PR = 2.08, 95% CI: 1.06–4.08). Conclusion Monthly IPTp-SP may reduce the risk of adverse birth outcomes through its activity against C. trachomatis and GBS, highlighting its potential non-malarial benefits.</description>
+    </item>
+    <item>
+      <title>Higher sun exposure is associated with a reduced risk of primary biliary cholangitis</title>
+      <link>https://doi.org/10.1093/ije/dyaf216</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf216</guid>
+
+      <dc:creator>Janine French</dc:creator>
+      <dc:creator>Paul J Gow</dc:creator>
+      <dc:creator>Steve Simpson-Yap</dc:creator>
+      <dc:creator>Justin Ng</dc:creator>
+      <dc:creator>Kate Collins</dc:creator>
+      <dc:creator>Lachlan Sycamnias</dc:creator>
+      <dc:creator>Peter Angus</dc:creator>
+      <dc:creator>Ingrid van der Mei</dc:creator>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Janine French, Paul J Gow, Steve Simpson-Yap, Justin Ng, Kate Collins, Lachlan Sycamnias, Peter Angus, Ingrid van der Mei
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf216
+
+Abstract: Abstract Background Primary biliary cholangitis (PBC) is a chronic cholestatic disease with few identified environmental risk factors. There is both a large geographical variation and a latitudinal gradient of prevalence, which point towards an environmental factor being involved in disease pathogenesis. This study examined whether there was a relationship between lifetime sun exposure, ultraviolet (UV) load and the risk of developing PBC. Methods A case–control study of 200 prevalent cases and 200 age- and sex-matched controls was performed. Participants completed a lifetime calendar prior to the study interview and two validated time-in-sun questionnaires during the study interview. Satellite data were used to estimate the average daily UV load according to the latitude and longitude of the location of residence. Skin phenotype was assessed by using spectrophotometry, which estimated the cutaneous melanin density. Results Increasing time in the sun and life calendar-derived UV load were consistently associated with lower odds of being a case, robust to adjustment for birthplace, education, smoking, and estimated cutaneous melanin density. The relationship was stronger for summer sun than for winter sun and was present for higher cumulative UV loads at ages 6–25 years [odds ratio (OR) 0.35, 95% confidence interval (CI): 0.19, 0.66] and 6–35 years (OR 0.4, 95% CI: 0.21, 0.76). Conclusion We have demonstrated for the first time that higher sun exposure and UV load, particularly in summer, were consistently associated with a reduced risk of developing PBC.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: Ungdata—National Norwegian Youth Surveys</title>
+      <link>https://doi.org/10.1093/ije/dyag007</link>
+      <guid isPermaLink="false">10.1093/ije/dyag007</guid>
+
+      <dc:creator>Sigurd Eid Jacobsen</dc:creator>
+      <dc:creator>Anders Bakken</dc:creator>
+      <dc:creator>Ryan Tamayo Europa</dc:creator>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sigurd Eid Jacobsen, Anders Bakken, Ryan Tamayo Europa
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag007</description>
+    </item>
+    <item>
+      <title>Towards an African-led model for strengthening capacity in medical statistics and epidemiology in sub-Saharan Africa: an equitable partnership approach</title>
+      <link>https://doi.org/10.1093/ije/dyag006</link>
+      <guid isPermaLink="false">10.1093/ije/dyag006</guid>
+
+      <dc:creator>Miriam Abdulla</dc:creator>
+      <dc:creator>Nuredin Mohammed</dc:creator>
+      <dc:creator>Tobias Chirwa</dc:creator>
+      <dc:creator>Andrew Abaasa</dc:creator>
+      <dc:creator>Sian Floyd</dc:creator>
+      <dc:creator>Emily L Webb</dc:creator>
+      <dc:creator>Philip Ayieko</dc:creator>
+      <dc:creator>Victoria Simms</dc:creator>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Miriam Abdulla, Nuredin Mohammed, Tobias Chirwa, Andrew Abaasa, Sian Floyd, Emily L Webb, Philip Ayieko, Victoria Simms, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag006</description>
+    </item>
+    <item>
+      <title>Human genetics suggests differing causal pathways from HMGCR inhibition to coronary artery disease and type 2 diabetes</title>
+      <link>https://doi.org/10.1093/ije/dyaf223</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf223</guid>
+
+      <dc:creator>Seongwon Hwang</dc:creator>
+      <dc:creator>Ville Karhunen</dc:creator>
+      <dc:creator>Ashish Patel</dc:creator>
+      <dc:creator>Sam M Lockhart</dc:creator>
+      <dc:creator>Paul Carter</dc:creator>
+      <dc:creator>John C Whittaker</dc:creator>
+      <dc:creator>Stephen Burgess</dc:creator>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Seongwon Hwang, Ville Karhunen, Ashish Patel, Sam M Lockhart, Paul Carter, John C Whittaker, Stephen Burgess
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf223
+
+Abstract: Abstract Background Statins lower low-density lipoprotein cholesterol (LDL-C) and reduce the risk of coronary artery disease (CAD). However, they also increase the risk of type 2 diabetes (T2D). Methods We consider genetic variants in the region of the HMGCR gene, which encodes the target of statins, and their associations with downstream consequences of statins. We use various statistical methods to identify causal pathways influencing CAD and T2D, and investigate whether these are the same or different for the two diseases. Results Colocalization analyses indicate that LDL-C and body mass index (BMI) have distinct genetic predictors in this gene region, suggesting that they do not lie on the same causal pathway. Multivariable Mendelian randomization analyses restricted to variants in the HMGCR gene region revealed LDL-C and BMI as causal risk factors for CAD, and BMI as a causal risk factor for T2D, but not LDL-C. A Bayesian model averaging method prioritized BMI as the most likely causal risk factor for T2D, and LDL-C as the second most likely causal risk factor for CAD (behind ubiquinone). Colocalization analyses provided consistent evidence of LDL-C colocalizing with CAD, and BMI colocalizing with T2D; evidence was inconsistent for colocalization of LDL-C with T2D, and BMI with CAD. Conclusions Our analyses suggest cardiovascular and metabolic consequences of statin usage are on different causal pathways, and hence could be influenced separately by targeted interventions. More broadly, our analysis workflow offers potential insights to identify pathway-specific causal risk factors that could provide possible repositioning or refinement opportunities for existing drug targets.</description>
+    </item>
+    <item>
+      <title>Estimating excess mortality during the COVID-19 pandemic in Aotearoa New Zealand: addendum</title>
+      <link>https://doi.org/10.1093/ije/dyag008</link>
+      <guid isPermaLink="false">10.1093/ije/dyag008</guid>
+
+      <dc:creator>Michael J Plank</dc:creator>
+      <dc:creator>Pubudu Senanayake</dc:creator>
+      <dc:creator>Richard Lyon</dc:creator>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michael J Plank, Pubudu Senanayake, Richard Lyon
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag008</description>
+    </item>
+    <item>
+      <title>Incidence of stroke in Switzerland</title>
+      <link>https://doi.org/10.1093/ije/dyag002</link>
+      <guid isPermaLink="false">10.1093/ije/dyag002</guid>
+
+      <dc:creator>Elisabeth Dirren</dc:creator>
+      <dc:creator>Emmanuel Carrera</dc:creator>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elisabeth Dirren, Emmanuel Carrera
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag002</description>
+    </item>
+    <item>
+      <title>Response to: On “The joint impact of greenspace and air pollution on mortality”: methodological proposals</title>
+      <link>https://doi.org/10.1093/ije/dyaf225</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf225</guid>
+
+      <dc:creator>Matti Koivuranta</dc:creator>
+      <dc:creator>Marko Korhonen</dc:creator>
+      <dc:creator>Ina Rissanen</dc:creator>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Matti Koivuranta, Marko Korhonen, Ina Rissanen
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf225</description>
+    </item>
+    <item>
+      <title>Impact of evolving fertility policies on maternal and neonatal outcomes in southeastern China: a 10-year population-based cohort study</title>
+      <link>https://doi.org/10.1093/ije/dyaf222</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf222</guid>
+
+      <dc:creator>Yiquan Xiong</dc:creator>
+      <dc:creator>Peng Zhao</dc:creator>
+      <dc:creator>Chunrong Liu</dc:creator>
+      <dc:creator>Lehana Thabane</dc:creator>
+      <dc:creator>Mingyu Liao</dc:creator>
+      <dc:creator>Jin Guo</dc:creator>
+      <dc:creator>Wanqiang Wei</dc:creator>
+      <dc:creator>Jingwen Chen</dc:creator>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yiquan Xiong, Peng Zhao, Chunrong Liu, Lehana Thabane, Mingyu Liao, Jin Guo, Wanqiang Wei, Jingwen Chen, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf222
+
+Abstract: Abstract Background After over three decades of the one-child policy (OCP), China introduced the partial two-child policy (PTCP) in 2013 and the universal two-child policy (UTCP) in 2015. However, their potential impacts on maternal and neonatal health remain unclear. This study aimed to examine temporal changes in maternal characteristics and neonatal outcomes across different policy periods. Methods We used data from a population-based pregnancy registry in Ximen, China. Maternal characteristics and neonatal outcomes were compared across the three periods: OCP (2012–2014), PTCP (2014–2016), and UTCP (2016–2021). Joinpoint regression and interrupted time series (ITS) model were applied to evaluate temporal trends and quantify the effect of policy implementation on trends over time. Results Among 491 895 pregnancies, the proportion of advanced maternal age and multiparity rose significantly after policy shifts. Maternal obesity, hypertensive disorders of pregnancy, and gestational diabetes showed steady increases. Monthly births peaked in 2016, then declined below the pre-PTCP baseline level by 2020. Compared to OCP, the prevalence of birth defects (BDs) increased by 62% during PTCP and 204% during UTCP. Preterm birth and low Apgar scores also rose. ITS indicated a significant post-UTCP acceleration in BDs (β3 = 2.57), largely driven by circulatory system BDs, with maternal age acting as a partial mediator. Conclusion China’s TCP implementation was associated with notable shifts in maternal risk profiles and increased adverse neonatal outcomes, underscoring the need for continuous maternal-child health monitoring during fertility policy transitions.</description>
+    </item>
+    <item>
+      <title>Cohort profile update: The 1993 Pelotas (Brazil) Birth Cohort follow-up at 30 years</title>
+      <link>https://doi.org/10.1093/ije/dyaf211</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf211</guid>
+
+      <dc:creator>Helen Gonçalves</dc:creator>
+      <dc:creator>Bruna Gonçalves-Silva</dc:creator>
+      <dc:creator>Isabel O de Oliveira</dc:creator>
+      <dc:creator>Adriana Kramer Fiala Machado</dc:creator>
+      <dc:creator>Thaynã Ramos Flores</dc:creator>
+      <dc:creator>Ana M B Menezes</dc:creator>
+      <dc:creator>Fernando C Wehrmeister</dc:creator>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Helen Gonçalves, Bruna Gonçalves-Silva, Isabel O de Oliveira, Adriana Kramer Fiala Machado, Thaynã Ramos Flores, Ana M B Menezes, Fernando C Wehrmeister
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf211</description>
+    </item>
+    <item>
+      <title>Exposure measurement error in air-pollution epidemiology and its determinants: results from the MELONS study</title>
+      <link>https://doi.org/10.1093/ije/dyaf214</link>
+      <guid isPermaLink="false">10.1093/ije/dyaf214</guid>
+
+      <dc:creator>Dimitris Evangelopoulos</dc:creator>
+      <dc:creator>Dylan Wood</dc:creator>
+      <dc:creator>Ben Barratt</dc:creator>
+      <dc:creator>Hanbin Zhang</dc:creator>
+      <dc:creator>Audrey de Nazelle</dc:creator>
+      <dc:creator>Sean Beevers</dc:creator>
+      <dc:creator>Barbara K Butland</dc:creator>
+      <dc:creator>Evangelia Samoli</dc:creator>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dimitris Evangelopoulos, Dylan Wood, Ben Barratt, Hanbin Zhang, Audrey de Nazelle, Sean Beevers, Barbara K Butland, Evangelia Samoli, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf214
+
+Abstract: Abstract Introduction In air-pollution epidemiology, measured or modelled surrogate exposure estimates, prone to measurement error (ME), are used to investigate the health effects of exposure to pollution of outdoor origin, potentially leading to biased effect estimates. We predicted the annual personal exposure from outdoor sources by using personal measurements, compared it with concentrations from surrogate metrics, and quantified the ME magnitude, type, and determinants. Methods We used measurements from four panel studies in London, UK, and predicted personal exposures to fine particulate matter (PM2.5), nitrogen dioxide (NO2), ozone (O3), and black carbon (BC). We compared those with surrogate exposures, including measurements from fixed-site monitors, modelled ambient concentrations, or hybrid methods accounting for people’s mobility. We estimated the exposure ME magnitude, correlations, and variance ratios between surrogate measures and personal exposure, and the percentages of classical/Berkson-type errors. Individual- and area-level characteristics, such as age, sex, socio-economic status, and time spent outdoors, were assessed as potential error determinants. Results Predicted annual personal exposures to PM2.5, NO2, O3, and BC from outdoor sources were overestimated by surrogate metrics, with mean differences of up to 10.1, 40.0, 61.7, and 2.6 μg/m3, respectively. The variance ratios and Pearson correlation coefficients between surrogate and predicted personal exposures ranged from 0.03 to 165.02 and –0.24 to 0.25. Time–activity adjustment reduced errors substantially. Berkson-type errors dominated the ME for PM2.5 and BC (43%–81% and 26%–98%, respectively), whilst classical errors characterized gases (&amp;amp;gt;94% for both NO2 and O3). Time spent outdoors, house type, and deprivation were associated with exposure error. Conclusion The use of surrogate exposures to investigate the health effects of long-term exposure to air pollution from outdoor sources may bias the epidemiological estimates due to ME. Information about the error structures and their determinants can be used for correction and the identification of the true exposure–response functions.</description>
+    </item>
+  </channel>
+</rss>

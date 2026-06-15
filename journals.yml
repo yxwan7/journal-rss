@@ -9,3 +9,99 @@
   issn: 0036-8075
   slug: science
   homepage: https://www.science.org/journal/science
+
+- name: Demography
+  field: Demo
+  issn: 1533-7790
+  slug: demography
+  homepage: https://read.dukeupress.edu/demography
+
+- name: Population Studies
+  field: Demo
+  issn: 1477-4747
+  slug: population-studies
+  homepage: https://www.tandfonline.com/journals/rpst20
+
+- name: Population and Development Review
+  field: Demo
+  issn: 1728-4457
+  slug: population-development-review
+  homepage: https://onlinelibrary.wiley.com/journal/17284457
+
+- name: Demographic Research
+  field: Demo
+  issn: 1435-9871
+  slug: demographic-research
+  homepage: https://www.demographic-research.org/
+
+- name: European Journal of Population
+  field: Demo
+  issn: 1572-9885
+  slug: european-journal-population
+  homepage: https://link.springer.com/journal/10680
+
+- name: SSM - Population Health
+  field: PopHealth
+  issn: 2352-8273
+  slug: ssm-population-health
+  homepage: https://www.sciencedirect.com/journal/ssm-population-health
+
+- name: Social Science & Medicine
+  field: SocMed
+  issn: 0277-9536
+  slug: social-science-medicine
+  homepage: https://www.sciencedirect.com/journal/social-science-and-medicine
+
+- name: International Journal of Epidemiology
+  field: Epi
+  issn: 1464-3685
+  slug: international-journal-epidemiology
+  homepage: https://academic.oup.com/ije
+
+- name: American Journal of Epidemiology
+  field: Epi
+  issn: 1476-6256
+  slug: american-journal-epidemiology
+  homepage: https://academic.oup.com/aje
+
+- name: The Lancet Public Health
+  field: PubHealth
+  issn: 2468-2667
+  slug: lancet-public-health
+  homepage: https://www.thelancet.com/journals/lanpub/home
+
+- name: The Lancet Global Health
+  field: GlobalHealth
+  issn: 2214-109X
+  slug: lancet-global-health
+  homepage: https://www.thelancet.com/journals/langlo/home
+
+- name: Population Health Metrics
+  field: PopHealth
+  issn: 1478-7954
+  slug: population-health-metrics
+  homepage: https://pophealthmetrics.biomedcentral.com/
+
+- name: Journal of Epidemiology and Community Health
+  field: SocEpi
+  issn: 1470-2738
+  slug: jech
+  homepage: https://jech.bmj.com/
+
+- name: American Journal of Public Health
+  field: PubHealth
+  issn: 1541-0048
+  slug: american-journal-public-health
+  homepage: https://ajph.aphapublications.org/
+
+- name: Health Affairs
+  field: HealthPolicy
+  issn: 1544-5208
+  slug: health-affairs
+  homepage: https://www.healthaffairs.org/journal/hlthaff
+
+- name: Studies in Family Planning
+  field: SRH
+  issn: 1728-4465
+  slug: studies-family-planning
+  homepage: https://onlinelibrary.wiley.com/journal/17284465
