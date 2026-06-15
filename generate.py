@@ -10,7 +10,7 @@ import yaml
 
 
 OUTPUT_DIR = "docs"
-ROWS_PER_JOURNAL = 30
+ROWS_PER_JOURNAL = 100
 CROSSREF_MAILTO = os.environ.get("CROSSREF_MAILTO", "").strip()
 
 
@@ -64,6 +64,20 @@ def get_title(item):
     return "Untitled"
 
 
+def get_first(value):
+    if isinstance(value, list):
+        return safe_text(value[0]) if value else ""
+    return safe_text(value)
+
+
+def get_feed_title(journal):
+    field = journal.get("field", "").strip()
+    name = journal["name"]
+    if field:
+        return f"[{field}]{name}"
+    return name
+
+
 def get_author_names(item, max_authors=8):
     authors = item.get("author") or []
     names = []
@@ -103,8 +117,31 @@ def get_abstract(item):
     return abstract
 
 
+def get_bibliographic_details(item):
+    details = []
+    journal_name = get_first(item.get("container-title"))
+    volume = safe_text(item.get("volume"))
+    issue = safe_text(item.get("issue"))
+    pages = safe_text(item.get("page"))
+    article_number = safe_text(item.get("article-number"))
+
+    if journal_name:
+        details.append(f"Journal: {journal_name}")
+    if volume:
+        details.append(f"Volume: {volume}")
+    if issue:
+        details.append(f"Issue: {issue}")
+    if pages:
+        details.append(f"Pages: {pages}")
+    elif article_number:
+        details.append(f"Article number: {article_number}")
+
+    return "; ".join(details)
+
+
 def build_rss(journal, items):
     journal_name = journal["name"]
+    feed_title = get_feed_title(journal)
     homepage = journal.get("homepage", "")
     now = datetime.now(timezone.utc)
 
@@ -117,6 +154,7 @@ def build_rss(journal, items):
         author_names = get_author_names(item)
         authors = get_authors(item)
         abstract = get_abstract(item)
+        bibliographic_details = get_bibliographic_details(item)
         pub_dt = crossref_date_to_datetime(item)
         dc_creators = "".join(
             f"\n      <dc:creator>{escape(author)}</dc:creator>"
@@ -126,8 +164,10 @@ def build_rss(journal, items):
         description_parts = []
         if authors:
             description_parts.append(f"Authors: {authors}")
+        if bibliographic_details:
+            description_parts.append(bibliographic_details)
         if abstract:
-            description_parts.append(abstract)
+            description_parts.append(f"Abstract: {abstract}")
 
         description = "\n\n".join(description_parts)
 
@@ -144,7 +184,7 @@ def build_rss(journal, items):
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{escape(journal_name)} Latest Articles</title>
+    <title>{escape(feed_title)}</title>
     <link>{escape(homepage)}</link>
     <description>Latest journal articles for {escape(journal_name)}</description>
     <language>en</language>
@@ -186,7 +226,7 @@ def write_index(journals):
 
     for journal in journals:
         slug = normalize_slug(journal["slug"])
-        name = journal["name"]
+        name = get_feed_title(journal)
         links.append(f'<li><a href="{slug}.xml">{escape(name)}</a></li>')
 
     html = f"""<!doctype html>
