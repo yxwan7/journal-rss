@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Science Latest Articles</title>
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 15:56:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:22:20 +0000</lastBuildDate>
 
     <item>
       <title>Satellite maps of sinking coastlines face scrutiny</title>
       <link>https://doi.org/10.1126/science.aej5924</link>
       <guid isPermaLink="false">10.1126/science.aej5924</guid>
+
+      <dc:creator>Paul Voosen</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Paul Voosen
 
@@ -20,6 +22,12 @@ Radar studies produce contradictory results, raising questions about efforts to 
       <title>Fast cell wall softening causes Venus flytrap closure</title>
       <link>https://doi.org/10.1126/science.aed5051</link>
       <guid isPermaLink="false">10.1126/science.aed5051</guid>
+
+      <dc:creator>Jeongeun Ryu</dc:creator>
+      <dc:creator>Mathieu Colombani</dc:creator>
+      <dc:creator>Corentin Mollier</dc:creator>
+      <dc:creator>Joël Marthelot</dc:creator>
+      <dc:creator>Yoël Forterre</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Jeongeun Ryu, Mathieu Colombani, Corentin Mollier, Joël Marthelot, Yoël Forterre
 
@@ -29,6 +37,8 @@ Plants can move rapidly without muscles, as seen in the Venus flytrap’s snappi
       <title>Laser-boosted microscopy opens view of elusive proteins</title>
       <link>https://doi.org/10.1126/science.aej5921</link>
       <guid isPermaLink="false">10.1126/science.aej5921</guid>
+
+      <dc:creator>Elie Dolgin</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Elie Dolgin
 
@@ -38,6 +48,15 @@ Enhanced cryo–electron microscopes reveal new drug targets and sharpen views i
       <title>Assessing the net climate benefits of improved grazing intensity in global rangelands</title>
       <link>https://doi.org/10.1126/science.adz4320</link>
       <guid isPermaLink="false">10.1126/science.adz4320</guid>
+
+      <dc:creator>Robert S. Powell</dc:creator>
+      <dc:creator>Steven J. Davis</dc:creator>
+      <dc:creator>David G. Encarnation</dc:creator>
+      <dc:creator>Johannes Piipponen</dc:creator>
+      <dc:creator>Jinfeng Chang</dc:creator>
+      <dc:creator>Courtney M. Currier</dc:creator>
+      <dc:creator>Karl-Heinz Erb</dc:creator>
+      <dc:creator>Samuel Eze</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Robert S. Powell, Steven J. Davis, David G. Encarnation, Johannes Piipponen, Jinfeng Chang, Courtney M. Currier, Karl-Heinz Erb, Samuel Eze, et al.
 
@@ -47,6 +66,15 @@ Improved rangeland grazing could mitigate climate change through carbon dioxide 
       <title>Compound climate events threaten tropical semi-enclosed marine ecosystems</title>
       <link>https://doi.org/10.1126/science.adv0367</link>
       <guid isPermaLink="false">10.1126/science.adv0367</guid>
+
+      <dc:creator>Éva E. Plagányi</dc:creator>
+      <dc:creator>Laura K. Blamey</dc:creator>
+      <dc:creator>Rob Kenyon</dc:creator>
+      <dc:creator>Stephanie Brodie</dc:creator>
+      <dc:creator>Roy Aijun Deng</dc:creator>
+      <dc:creator>Denham Parker</dc:creator>
+      <dc:creator>Richard D. Pillans</dc:creator>
+      <dc:creator>Nicole E. Murphy</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Éva E. Plagányi, Laura K. Blamey, Rob Kenyon, Stephanie Brodie, Roy Aijun Deng, Denham Parker, Richard D. Pillans, Nicole E. Murphy, et al.
 
@@ -56,6 +84,8 @@ Anthropogenic ocean warming affects ecosystem functioning but is not necessarily
       <title>Protein name confusion led to antibody mix-up</title>
       <link>https://doi.org/10.1126/science.aej5919</link>
       <guid isPermaLink="false">10.1126/science.aej5919</guid>
+
+      <dc:creator>Mitch Leslie</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Mitch Leslie
 
@@ -65,6 +95,9 @@ Cancer and cell-aging studies may have relied on antibodies to incorrect molecul
       <title>Ecological risks of orbital solar reflectors</title>
       <link>https://doi.org/10.1126/science.aeh6580</link>
       <guid isPermaLink="false">10.1126/science.aeh6580</guid>
+
+      <dc:creator>Jiangwei Zhu</dc:creator>
+      <dc:creator>Li Fu</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Jiangwei Zhu, Li Fu</description>
     </item>
@@ -72,6 +105,15 @@ Cancer and cell-aging studies may have relied on antibodies to incorrect molecul
       <title>A global map for introgressed structural variation and selection in humans</title>
       <link>https://doi.org/10.1126/science.adz7518</link>
       <guid isPermaLink="false">10.1126/science.adz7518</guid>
+
+      <dc:creator>PingHsun Hsieh</dc:creator>
+      <dc:creator>Natthapon Soisangwan</dc:creator>
+      <dc:creator>David S. Gordon</dc:creator>
+      <dc:creator>Athef Javidh</dc:creator>
+      <dc:creator>William T. Harvey</dc:creator>
+      <dc:creator>David Porubsky</dc:creator>
+      <dc:creator>Kendra Hoekzema</dc:creator>
+      <dc:creator>Carl Baker</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: PingHsun Hsieh, Natthapon Soisangwan, David S. Gordon, Athef Javidh, William T. Harvey, David Porubsky, Kendra Hoekzema, Carl Baker, et al.
 
@@ -81,6 +123,15 @@ Genetic introgression from Neanderthals and Denisovans shaped modern human genom
       <title>In Science Journals</title>
       <link>https://doi.org/10.1126/science.aej5477</link>
       <guid isPermaLink="false">10.1126/science.aej5477</guid>
+
+      <dc:creator>Bianca Lopez</dc:creator>
+      <dc:creator>Sacha Vignieri</dc:creator>
+      <dc:creator>Keith T. Smith</dc:creator>
+      <dc:creator>Marc S. Lavine</dc:creator>
+      <dc:creator>Leoma Bere</dc:creator>
+      <dc:creator>Yury Suleymanov</dc:creator>
+      <dc:creator>Susannah G. Tringe</dc:creator>
+      <dc:creator>Jesse Smith</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Bianca Lopez, Sacha Vignieri, Keith T. Smith, Marc S. Lavine, Leoma Bere, Yury Suleymanov, Susannah G. Tringe, Jesse Smith, et al.
 
@@ -90,6 +141,15 @@ Highlights from the Science family of journals</description>
       <title>A 481-meter-high landslide-tsunami in a cruise ship–frequented Alaska fjord</title>
       <link>https://doi.org/10.1126/science.aec3187</link>
       <guid isPermaLink="false">10.1126/science.aec3187</guid>
+
+      <dc:creator>Dan H. Shugar</dc:creator>
+      <dc:creator>Katherine R. Barnhart</dc:creator>
+      <dc:creator>Mira Berdahl</dc:creator>
+      <dc:creator>Jacqueline Caplan-Auerbach</dc:creator>
+      <dc:creator>Göran Ekström</dc:creator>
+      <dc:creator>Aram Fathian</dc:creator>
+      <dc:creator>Marten Geertsema</dc:creator>
+      <dc:creator>Stephen P. Hicks</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Dan H. Shugar, Katherine R. Barnhart, Mira Berdahl, Jacqueline Caplan-Auerbach, Göran Ekström, Aram Fathian, Marten Geertsema, Stephen P. Hicks, et al.
 
@@ -141,6 +201,15 @@ Early in the morning of 10 August 2025, a &amp;gt;64 × 10 6 –cubic meter land
                     , Tor Books, 2026, 240 pp.</title>
       <link>https://doi.org/10.1126/science.aei7768</link>
       <guid isPermaLink="false">10.1126/science.aei7768</guid>
+
+      <dc:creator>Anna Farro Henderson</dc:creator>
+      <dc:creator>Bridget Alex</dc:creator>
+      <dc:creator>Bradley Allf</dc:creator>
+      <dc:creator>Bing Lin</dc:creator>
+      <dc:creator>Adela Wu</dc:creator>
+      <dc:creator>Priya Dames</dc:creator>
+      <dc:creator>Lucy Tu</dc:creator>
+      <dc:creator>Kasra Zarei</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Anna Farro Henderson, Bridget Alex, Bradley Allf, Bing Lin, Adela Wu, Priya Dames, Lucy Tu, Kasra Zarei, et al.</description>
     </item>
@@ -148,6 +217,9 @@ Early in the morning of 10 August 2025, a &amp;gt;64 × 10 6 –cubic meter land
       <title>The air pollution benefits of low-severity fire</title>
       <link>https://doi.org/10.1126/science.aea2490</link>
       <guid isPermaLink="false">10.1126/science.aea2490</guid>
+
+      <dc:creator>Iván Higuera-Mendieta</dc:creator>
+      <dc:creator>Marshall Burke</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Iván Higuera-Mendieta, Marshall Burke
 
@@ -157,6 +229,8 @@ Wildfires are reversing decades of air quality improvements across much of the U
       <title>NIH scientists charged with smuggling viruses into U.S.</title>
       <link>https://doi.org/10.1126/science.aej5923</link>
       <guid isPermaLink="false">10.1126/science.aej5923</guid>
+
+      <dc:creator>Jon Cohen</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Jon Cohen
 
@@ -166,6 +240,8 @@ Inactivated monkeypox virus samples may have been used for routine diagnostics</
       <title>Lessons from my mother</title>
       <link>https://doi.org/10.1126/science.aej5479</link>
       <guid isPermaLink="false">10.1126/science.aej5479</guid>
+
+      <dc:creator>Houda Khaled</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Houda Khaled</description>
     </item>
@@ -173,6 +249,8 @@ Inactivated monkeypox virus samples may have been used for routine diagnostics</
       <title>In (qualified) defense of the research project grant</title>
       <link>https://doi.org/10.1126/science.aej2947</link>
       <guid isPermaLink="false">10.1126/science.aej2947</guid>
+
+      <dc:creator>Pierre Azoulay</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Pierre Azoulay
 
@@ -182,6 +260,15 @@ In a debate that has been building for years, a growing coalition of reformers h
       <title>Chemically induced skin tumors arise from long-lived stem cells of the upper hair follicle</title>
       <link>https://doi.org/10.1126/science.adv8291</link>
       <guid isPermaLink="false">10.1126/science.adv8291</guid>
+
+      <dc:creator>Eve Kandyba</dc:creator>
+      <dc:creator>Arnaud Jabouille</dc:creator>
+      <dc:creator>Ferriol Calvet</dc:creator>
+      <dc:creator>Yun Rose Li</dc:creator>
+      <dc:creator>Andrea Curtabbi</dc:creator>
+      <dc:creator>Diana Cristea</dc:creator>
+      <dc:creator>Joyce Shin</dc:creator>
+      <dc:creator>Reyno Delrosario</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Eve Kandyba, Arnaud Jabouille, Ferriol Calvet, Yun Rose Li, Andrea Curtabbi, Diana Cristea, Joyce Shin, Reyno Delrosario, et al.
 
@@ -191,6 +278,9 @@ The identification of the cancer cell of origin is a fundamental question in can
       <title>The placental metabolic clock</title>
       <link>https://doi.org/10.1126/science.aei4119</link>
       <guid isPermaLink="false">10.1126/science.aei4119</guid>
+
+      <dc:creator>Kiyoshi Yoshioka</dc:creator>
+      <dc:creator>Shin-ichiro Imai</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Kiyoshi Yoshioka, Shin-ichiro Imai
 
@@ -200,6 +290,12 @@ NAD + depletion triggers a countdown to birth in mice</description>
       <title>Super-earths and mini-neptunes follow different orbital period–eccentricity relations</title>
       <link>https://doi.org/10.1126/science.adu3916</link>
       <guid isPermaLink="false">10.1126/science.adu3916</guid>
+
+      <dc:creator>Ke-Ting Shin</dc:creator>
+      <dc:creator>Dong-Sheng An</dc:creator>
+      <dc:creator>Ji-Wei Xie</dc:creator>
+      <dc:creator>Ji-Lin Zhou</dc:creator>
+      <dc:creator>Fei Dai</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Ke-Ting Shin, Dong-Sheng An, Ji-Wei Xie, Ji-Lin Zhou, Fei Dai
 
@@ -209,6 +305,8 @@ Many exoplanets have been observed with radius sizes between that of Earth and t
       <title>Exceeding nature’s biological speed limits</title>
       <link>https://doi.org/10.1126/science.aei3453</link>
       <guid isPermaLink="false">10.1126/science.aei3453</guid>
+
+      <dc:creator>Jacques Dumais</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Jacques Dumais
 
@@ -218,6 +316,8 @@ Rapid cell wall relaxation initiates the snap of the Venus flytrap</description>
       <title>Divergent trajectories of the nitrogen cycle</title>
       <link>https://doi.org/10.1126/science.aei3391</link>
       <guid isPermaLink="false">10.1126/science.aei3391</guid>
+
+      <dc:creator>Martyn Futter</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Martyn Futter
 
@@ -227,47 +327,79 @@ Water isotope measurements are used to model surface water nitrogen flows on a c
       <title>Editorial Expression of Concern</title>
       <link>https://doi.org/10.1126/science.aej2383</link>
       <guid isPermaLink="false">10.1126/science.aej2383</guid>
+
+      <dc:creator>H. Holden Thorp</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: H. Holden Thorp</description>
-    </item>
-    <item>
-      <title>Science sleuth finds rare acclaim in China</title>
-      <link>https://doi.org/10.1126/science.aej5918</link>
-      <guid isPermaLink="false">10.1126/science.aej5918</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dennis Normile
-
-Geng Hongwei’s investigations into prominent Chinese scientists have triggered unusually swift responses</description>
     </item>
     <item>
       <title>Mechanoelectrical metamaterials for broad-range, high-sensitivity pressure sensing</title>
       <link>https://doi.org/10.1126/science.aeb3456</link>
       <guid isPermaLink="false">10.1126/science.aeb3456</guid>
+
+      <dc:creator>Feifan Yang</dc:creator>
+      <dc:creator>Haoming Yang</dc:creator>
+      <dc:creator>Guangzu Zhang</dc:creator>
+      <dc:creator>Shiyi Xu</dc:creator>
+      <dc:creator>Lin Zhu</dc:creator>
+      <dc:creator>Xuetian Gong</dc:creator>
+      <dc:creator>Lulu Liu</dc:creator>
+      <dc:creator>Fangyuan Luo</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Feifan Yang, Haoming Yang, Guangzu Zhang, Shiyi Xu, Lin Zhu, Xuetian Gong, Lulu Liu, Fangyuan Luo, et al.
 
 Mechanical metamaterials exploit precise control of unit-cell geometry and their macroscopic organization to realize unusual properties. Expanding the capabilities of mechanical metamaterials to incorporate additional functionality remains a challenge. We describe 3D-printed metamaterials embedded with molecular ferroelectrics for use as self-powered pressure sensors. Our gradient lattice design allows for adaptive reconfiguration and controlled deformation-mode transitions, yielding a synergy of low modulus and high load-bearing capacity alongside a monotonic mechanical load–electrical signal response. Furthermore, we implement a modulus gradient in the metamaterials to enhance sensitivity in low-loading regions and extend the detection range across six orders of magnitude. With a combination of high sensitivity and broad detection range, the dual-gradient metamaterials overcome the limitations imposed by the inverse relationships in existing sensors.</description>
     </item>
     <item>
+      <title>Science sleuth finds rare acclaim in China</title>
+      <link>https://doi.org/10.1126/science.aej5918</link>
+      <guid isPermaLink="false">10.1126/science.aej5918</guid>
+
+      <dc:creator>Dennis Normile</dc:creator>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dennis Normile
+
+Geng Hongwei’s investigations into prominent Chinese scientists have triggered unusually swift responses</description>
+    </item>
+    <item>
+      <title>Safeguard heritage in the Bolivian Amazon</title>
+      <link>https://doi.org/10.1126/science.aeh9864</link>
+      <guid isPermaLink="false">10.1126/science.aeh9864</guid>
+
+      <dc:creator>Carla Jaimes Betancourt</dc:creator>
+      <dc:creator>Maria Luz Endere</dc:creator>
+      <dc:creator>Geraldine Fernandez</dc:creator>
+      <dc:creator>Nahir Cantar</dc:creator>
+      <dc:creator>Zulema Lehm</dc:creator>
+      <dc:creator>Rob Wallace</dc:creator>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Carla Jaimes Betancourt, Maria Luz Endere, Geraldine Fernandez, Nahir Cantar, Zulema Lehm, Rob Wallace</description>
+    </item>
+    <item>
       <title>Childhood environments shape the brain</title>
       <link>https://doi.org/10.1126/science.aei3393</link>
       <guid isPermaLink="false">10.1126/science.aei3393</guid>
+
+      <dc:creator>Lucinda M. Sisk</dc:creator>
+      <dc:creator>Theodore D. Satterthwaite</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Lucinda M. Sisk, Theodore D. Satterthwaite
 
 Socioeconomic factors top the list of influences on children’s brain structure and function</description>
     </item>
     <item>
-      <title>Safeguard heritage in the Bolivian Amazon</title>
-      <link>https://doi.org/10.1126/science.aeh9864</link>
-      <guid isPermaLink="false">10.1126/science.aeh9864</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Carla Jaimes Betancourt, Maria Luz Endere, Geraldine Fernandez, Nahir Cantar, Zulema Lehm, Rob Wallace</description>
-    </item>
-    <item>
       <title>Global density and biomass of arbuscular mycorrhizal fungal networks</title>
       <link>https://doi.org/10.1126/science.adu4373</link>
       <guid isPermaLink="false">10.1126/science.adu4373</guid>
+
+      <dc:creator>Justin D. Stewart</dc:creator>
+      <dc:creator>Corentin Bisot</dc:creator>
+      <dc:creator>Rachael I. M. Cargill</dc:creator>
+      <dc:creator>Michael E. Van Nuland</dc:creator>
+      <dc:creator>Heidi-Jayne Hawkins</dc:creator>
+      <dc:creator>Loreto Oyarte Galvez</dc:creator>
+      <dc:creator>Malin Klein</dc:creator>
+      <dc:creator>Marije van Son</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Justin D. Stewart, Corentin Bisot, Rachael I. M. Cargill, Michael E. Van Nuland, Heidi-Jayne Hawkins, Loreto Oyarte Galvez, Malin Klein, Marije van Son, et al.
 
@@ -277,6 +409,15 @@ Arbuscular mycorrhizal fungi form symbioses with ~70% of plant species, building
       <title>Unveiling the complexity of post-Roman polity formation in Pannonia using ancient DNA</title>
       <link>https://doi.org/10.1126/science.aec2634</link>
       <guid isPermaLink="false">10.1126/science.aec2634</guid>
+
+      <dc:creator>Yijie Tian</dc:creator>
+      <dc:creator>István Koncz</dc:creator>
+      <dc:creator>Norbert Faragó</dc:creator>
+      <dc:creator>Corina Knipper</dc:creator>
+      <dc:creator>Ronny Friedrich</dc:creator>
+      <dc:creator>Deven N. Vyas</dc:creator>
+      <dc:creator>Levente Samu</dc:creator>
+      <dc:creator>Olga Spekker</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Yijie Tian, István Koncz, Norbert Faragó, Corina Knipper, Ronny Friedrich, Deven N. Vyas, Levente Samu, Olga Spekker, et al.
 
@@ -286,6 +427,15 @@ The transformation of the Roman world [fourth to ninth centuries common era (CE)
       <title>An all-optical signal processor enabling terabit-per-second real-time equalization</title>
       <link>https://doi.org/10.1126/science.ady5344</link>
       <guid isPermaLink="false">10.1126/science.ady5344</guid>
+
+      <dc:creator>Benshan Wang</dc:creator>
+      <dc:creator>Qiarong Xiao</dc:creator>
+      <dc:creator>Tengji Xu</dc:creator>
+      <dc:creator>Li Fan</dc:creator>
+      <dc:creator>Shaojie Liu</dc:creator>
+      <dc:creator>Qiuqiang Kong</dc:creator>
+      <dc:creator>Jianji Dong</dc:creator>
+      <dc:creator>Junwen Zhang</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Benshan Wang, Qiarong Xiao, Tengji Xu, Li Fan, Shaojie Liu, Qiuqiang Kong, Jianji Dong, Junwen Zhang, et al.
 
@@ -295,6 +445,15 @@ Large-scale artificial intelligence training demands ultralow-latency, energy-ef
       <title>Patterns of brain-wide associations reflect socioeconomics</title>
       <link>https://doi.org/10.1126/science.aee6213</link>
       <guid isPermaLink="false">10.1126/science.aee6213</guid>
+
+      <dc:creator>Scott Marek</dc:creator>
+      <dc:creator>Meghan Rose Donohue</dc:creator>
+      <dc:creator>Nicole R. Karcher</dc:creator>
+      <dc:creator>Caroline P. Hoyniak</dc:creator>
+      <dc:creator>Roselyne J. Chauvin</dc:creator>
+      <dc:creator>Ashley C. Meyer</dc:creator>
+      <dc:creator>John Miller</dc:creator>
+      <dc:creator>Andrew N. Van</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Scott Marek, Meghan Rose Donohue, Nicole R. Karcher, Caroline P. Hoyniak, Roselyne J. Chauvin, Ashley C. Meyer, John Miller, Andrew N. Van, et al.
 
@@ -304,6 +463,12 @@ Previous brain-wide association studies (BWAS) have linked specific environmenta
       <title>Divergent evolution of nitrogen cycling along gradients of landscape water velocities</title>
       <link>https://doi.org/10.1126/science.aed0399</link>
       <guid isPermaLink="false">10.1126/science.aed0399</guid>
+
+      <dc:creator>Songjun Wu</dc:creator>
+      <dc:creator>Chris Soulsby</dc:creator>
+      <dc:creator>Yi Zheng</dc:creator>
+      <dc:creator>Andreas Musolff</dc:creator>
+      <dc:creator>Doerthe Tetzlaff</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Songjun Wu, Chris Soulsby, Yi Zheng, Andreas Musolff, Doerthe Tetzlaff
 

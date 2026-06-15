@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Nature Latest Articles</title>
     <link>https://www.nature.com/nature/</link>
     <description>Latest journal articles for Nature</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 15:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:22:17 +0000</lastBuildDate>
 
     <item>
       <title>Bones of Iron Age skeleton were whittled into tools</title>
       <link>https://doi.org/10.1038/d41586-026-01833-w</link>
       <guid isPermaLink="false">10.1038/d41586-026-01833-w</guid>
+
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description></description>
     </item>
@@ -18,6 +19,8 @@
       <title>How AI is revealing the secret lives of animals from hummingbirds to pumas</title>
       <link>https://doi.org/10.1038/d41586-026-01887-w</link>
       <guid isPermaLink="false">10.1038/d41586-026-01887-w</guid>
+
+      <dc:creator>Ryan Huling</dc:creator>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Ryan Huling</description>
     </item>
@@ -25,13 +28,26 @@
       <title>Why people should work together to shape the economy</title>
       <link>https://doi.org/10.1038/d41586-026-01889-8</link>
       <guid isPermaLink="false">10.1038/d41586-026-01889-8</guid>
+
+      <dc:creator>Clara Mattei</dc:creator>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Clara Mattei</description>
+    </item>
+    <item>
+      <title>At-home brain implant gives man with motor neuron disease his daily life back</title>
+      <link>https://doi.org/10.1038/d41586-026-01863-4</link>
+      <guid isPermaLink="false">10.1038/d41586-026-01863-4</guid>
+
+      <dc:creator>Miryam Naddaf</dc:creator>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Miryam Naddaf</description>
     </item>
     <item>
       <title>Sperm quality improves in people taking potent obesity drugs</title>
       <link>https://doi.org/10.1038/d41586-026-01867-0</link>
       <guid isPermaLink="false">10.1038/d41586-026-01867-0</guid>
+
+      <dc:creator>Mariana Lenharo</dc:creator>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Mariana Lenharo</description>
     </item>
@@ -39,6 +55,8 @@
       <title>In the field — and sometimes in the lab — the simplest tool is best</title>
       <link>https://doi.org/10.1038/d41586-026-01885-y</link>
       <guid isPermaLink="false">10.1038/d41586-026-01885-y</guid>
+
+      <dc:creator>Amanda Heidt</dc:creator>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Amanda Heidt</description>
     </item>
@@ -46,6 +64,15 @@
       <title>Nanocrystal-tailored recombination for all-perovskite tandem solar modules</title>
       <link>https://doi.org/10.1038/s41586-026-10768-1</link>
       <guid isPermaLink="false">10.1038/s41586-026-10768-1</guid>
+
+      <dc:creator>Ke Xiao</dc:creator>
+      <dc:creator>Hongfei Sun</dc:creator>
+      <dc:creator>Xinke Kong</dc:creator>
+      <dc:creator>Han Gao</dc:creator>
+      <dc:creator>Jing Lou</dc:creator>
+      <dc:creator>Xingze Chen</dc:creator>
+      <dc:creator>Zimo Hu</dc:creator>
+      <dc:creator>Dongdong Xu</dc:creator>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Ke Xiao, Hongfei Sun, Xinke Kong, Han Gao, Jing Lou, Xingze Chen, Zimo Hu, Dongdong Xu, et al.</description>
     </item>
@@ -53,6 +80,7 @@
       <title>Huge study hints at risks of switching from tobacco cigarettes to vapes</title>
       <link>https://doi.org/10.1038/d41586-026-01834-9</link>
       <guid isPermaLink="false">10.1038/d41586-026-01834-9</guid>
+
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <description></description>
     </item>
@@ -60,6 +88,8 @@
       <title>I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology</title>
       <link>https://doi.org/10.1038/d41586-026-01876-z</link>
       <guid isPermaLink="false">10.1038/d41586-026-01876-z</guid>
+
+      <dc:creator>Paolo Benanti</dc:creator>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Paolo Benanti</description>
     </item>
@@ -67,6 +97,8 @@
       <title>An innovative technology boosts image quality for protein structures</title>
       <link>https://doi.org/10.1038/d41586-026-01858-1</link>
       <guid isPermaLink="false">10.1038/d41586-026-01858-1</guid>
+
+      <dc:creator>Michael Eisenstein</dc:creator>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Michael Eisenstein</description>
     </item>
@@ -74,6 +106,8 @@
       <title>Humans outperform AI at this highly rigorous mathematics test</title>
       <link>https://doi.org/10.1038/d41586-026-01888-9</link>
       <guid isPermaLink="false">10.1038/d41586-026-01888-9</guid>
+
+      <dc:creator>Davide Castelvecchi</dc:creator>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Davide Castelvecchi</description>
     </item>
@@ -81,6 +115,9 @@
       <title>Briefing Chat: The epic journey of Stonehenge’s central stone</title>
       <link>https://doi.org/10.1038/d41586-026-01912-y</link>
       <guid isPermaLink="false">10.1038/d41586-026-01912-y</guid>
+
+      <dc:creator>Benjamin Thompson</dc:creator>
+      <dc:creator>Nick Petrić Howe</dc:creator>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Benjamin Thompson, Nick Petrić Howe</description>
     </item>
@@ -88,6 +125,8 @@
       <title>‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics</title>
       <link>https://doi.org/10.1038/d41586-026-01902-0</link>
       <guid isPermaLink="false">10.1038/d41586-026-01902-0</guid>
+
+      <dc:creator>Xiaoying You</dc:creator>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Xiaoying You</description>
     </item>
@@ -95,6 +134,8 @@
       <title>Why we seek to fly: Books in brief</title>
       <link>https://doi.org/10.1038/d41586-026-01911-z</link>
       <guid isPermaLink="false">10.1038/d41586-026-01911-z</guid>
+
+      <dc:creator>Andrew Robinson</dc:creator>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Andrew Robinson</description>
     </item>
@@ -102,6 +143,8 @@
       <title>Tool flags suspicious journals before researchers submit papers</title>
       <link>https://doi.org/10.1038/d41586-026-01707-1</link>
       <guid isPermaLink="false">10.1038/d41586-026-01707-1</guid>
+
+      <dc:creator>Mohana Basu</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Mohana Basu</description>
     </item>
@@ -109,6 +152,8 @@
       <title>Whale graveyard discovered 7km under the sea</title>
       <link>https://doi.org/10.1038/d41586-026-01886-x</link>
       <guid isPermaLink="false">10.1038/d41586-026-01886-x</guid>
+
+      <dc:creator>Shamini Bundell</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Shamini Bundell</description>
     </item>
@@ -116,6 +161,8 @@
       <title>My diverse academic background is affecting my PhD studies — what do I do?</title>
       <link>https://doi.org/10.1038/d41586-026-01129-z</link>
       <guid isPermaLink="false">10.1038/d41586-026-01129-z</guid>
+
+      <dc:creator>Xiaoying You</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Xiaoying You</description>
     </item>
@@ -123,6 +170,8 @@
       <title>This World Cup could be the most high-tech yet — the innovations to watch for</title>
       <link>https://doi.org/10.1038/d41586-026-01866-1</link>
       <guid isPermaLink="false">10.1038/d41586-026-01866-1</guid>
+
+      <dc:creator>Mariana Lenharo</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Mariana Lenharo</description>
     </item>
@@ -130,6 +179,8 @@
       <title>World Cup: science must tackle footballers’ mental and physical health</title>
       <link>https://doi.org/10.1038/d41586-026-01865-2</link>
       <guid isPermaLink="false">10.1038/d41586-026-01865-2</guid>
+
+      <dc:creator>David Adam</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: David Adam</description>
     </item>
@@ -137,6 +188,15 @@
       <title>Author Correction: Plasticity and language in the anaesthetized human hippocampus</title>
       <link>https://doi.org/10.1038/s41586-026-10784-1</link>
       <guid isPermaLink="false">10.1038/s41586-026-10784-1</guid>
+
+      <dc:creator>Kalman A. Katlowitz</dc:creator>
+      <dc:creator>Eric R. Cole</dc:creator>
+      <dc:creator>Elizabeth A. Mickiewicz</dc:creator>
+      <dc:creator>Shraddha Shah</dc:creator>
+      <dc:creator>Melissa Franch</dc:creator>
+      <dc:creator>Joshua A. Adkinson</dc:creator>
+      <dc:creator>James L. Belanger</dc:creator>
+      <dc:creator>Raissa K. Mathura</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Kalman A. Katlowitz, Eric R. Cole, Elizabeth A. Mickiewicz, Shraddha Shah, Melissa Franch, Joshua A. Adkinson, James L. Belanger, Raissa K. Mathura, et al.</description>
     </item>
@@ -144,6 +204,8 @@
       <title>Revealed: how Venus flytraps snap shut with astonishing speed</title>
       <link>https://doi.org/10.1038/d41586-026-01857-2</link>
       <guid isPermaLink="false">10.1038/d41586-026-01857-2</guid>
+
+      <dc:creator>Lauren Wolf</dc:creator>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Lauren Wolf</description>
     </item>
@@ -151,6 +213,15 @@
       <title>A thalamus–brainstem attractor network drives history-biased decisions</title>
       <link>https://doi.org/10.1038/s41586-026-10623-3</link>
       <guid isPermaLink="false">10.1038/s41586-026-10623-3</guid>
+
+      <dc:creator>Shan Zhao</dc:creator>
+      <dc:creator>Heying Shan</dc:creator>
+      <dc:creator>Xiao Liu</dc:creator>
+      <dc:creator>Yu Qian</dc:creator>
+      <dc:creator>Jingyao Huang</dc:creator>
+      <dc:creator>Yi-Ran Liu</dc:creator>
+      <dc:creator>Zhenfei Jiao</dc:creator>
+      <dc:creator>Lichen Ye</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Shan Zhao, Heying Shan, Xiao Liu, Yu Qian, Jingyao Huang, Yi-Ran Liu, Zhenfei Jiao, Lichen Ye, et al.</description>
     </item>
@@ -158,6 +229,15 @@
       <title>In situ nanocrystal confinement for efficient blue perovskite LEDs</title>
       <link>https://doi.org/10.1038/s41586-026-10596-3</link>
       <guid isPermaLink="false">10.1038/s41586-026-10596-3</guid>
+
+      <dc:creator>Shaocheng Liu</dc:creator>
+      <dc:creator>Mike Pols</dc:creator>
+      <dc:creator>Zhongyang Zhang</dc:creator>
+      <dc:creator>Xudan Huang</dc:creator>
+      <dc:creator>Zijian Huang</dc:creator>
+      <dc:creator>Ying Han</dc:creator>
+      <dc:creator>Zhenyu Guo</dc:creator>
+      <dc:creator>Liang Li</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Shaocheng Liu, Mike Pols, Zhongyang Zhang, Xudan Huang, Zijian Huang, Ying Han, Zhenyu Guo, Liang Li, et al.</description>
     </item>
@@ -165,6 +245,9 @@
       <title>Mitochondria tethered to the nucleus secure its energy supply</title>
       <link>https://doi.org/10.1038/d41586-026-01587-5</link>
       <guid isPermaLink="false">10.1038/d41586-026-01587-5</guid>
+
+      <dc:creator>Philippa Clarke</dc:creator>
+      <dc:creator>Sophie Trefely</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Philippa Clarke, Sophie Trefely</description>
     </item>
@@ -172,6 +255,9 @@
       <title>Hybrid refinery process turns plant material into industrially important chemical</title>
       <link>https://doi.org/10.1038/d41586-026-01586-6</link>
       <guid isPermaLink="false">10.1038/d41586-026-01586-6</guid>
+
+      <dc:creator>Micaela Chacón</dc:creator>
+      <dc:creator>Neil Dixon</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Micaela Chacón, Neil Dixon</description>
     </item>
@@ -179,6 +265,9 @@
       <title>Deep learning four decades of human migration</title>
       <link>https://doi.org/10.1038/s41586-026-10611-7</link>
       <guid isPermaLink="false">10.1038/s41586-026-10611-7</guid>
+
+      <dc:creator>Thomas Gaskin</dc:creator>
+      <dc:creator>Guy J. Abel</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Thomas Gaskin, Guy J. Abel
 
@@ -188,6 +277,7 @@ Abstract Human migration is a fundamental driver of global demographic change, s
       <title>‘Hidden hero’ peptides guard crops against sudden cold</title>
       <link>https://doi.org/10.1038/d41586-026-01754-8</link>
       <guid isPermaLink="false">10.1038/d41586-026-01754-8</guid>
+
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description></description>
     </item>
@@ -195,6 +285,11 @@ Abstract Human migration is a fundamental driver of global demographic change, s
       <title>Gene ancestries reveal diverse microbial associations during eukaryogenesis</title>
       <link>https://doi.org/10.1038/s41586-026-10639-9</link>
       <guid isPermaLink="false">10.1038/s41586-026-10639-9</guid>
+
+      <dc:creator>Moisès Bernabeu</dc:creator>
+      <dc:creator>Saioa Manzano-Morales</dc:creator>
+      <dc:creator>Marina Marcet-Houben</dc:creator>
+      <dc:creator>Toni Gabaldón</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Moisès Bernabeu, Saioa Manzano-Morales, Marina Marcet-Houben, Toni Gabaldón
 
@@ -204,6 +299,15 @@ Abstract The origin of eukaryotes remains a central enigma in biology 1 . Contin
       <title>Mitochondria directly interact with the nuclear pore complex</title>
       <link>https://doi.org/10.1038/s41586-026-10588-3</link>
       <guid isPermaLink="false">10.1038/s41586-026-10588-3</guid>
+
+      <dc:creator>Ivan Menendez-Montes</dc:creator>
+      <dc:creator>Consuelo Marin-Vicente</dc:creator>
+      <dc:creator>Shibani Mukherjee</dc:creator>
+      <dc:creator>Mahmoud Salama Ahmed</dc:creator>
+      <dc:creator>Manuel Jose Gomez</dc:creator>
+      <dc:creator>Chukwuemeka George Anene-Nzelu</dc:creator>
+      <dc:creator>Chang Jie Mick Lee</dc:creator>
+      <dc:creator>Svenja Koslowski</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Ivan Menendez-Montes, Consuelo Marin-Vicente, Shibani Mukherjee, Mahmoud Salama Ahmed, Manuel Jose Gomez, Chukwuemeka George Anene-Nzelu, Chang Jie Mick Lee, Svenja Koslowski, et al.</description>
     </item>
@@ -211,15 +315,10 @@ Abstract The origin of eukaryotes remains a central enigma in biology 1 . Contin
       <title>Doubting Thomas</title>
       <link>https://doi.org/10.1038/d41586-026-01718-y</link>
       <guid isPermaLink="false">10.1038/d41586-026-01718-y</guid>
+
+      <dc:creator>Paul Renault</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Paul Renault</description>
-    </item>
-    <item>
-      <title>Rocks falling from melting icebergs host deep-sea oases of biodiversity</title>
-      <link>https://doi.org/10.1038/d41586-026-01835-8</link>
-      <guid isPermaLink="false">10.1038/d41586-026-01835-8</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alexandra Witze</description>
     </item>
   </channel>
 </rss>

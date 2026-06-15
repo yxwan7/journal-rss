@@ -64,7 +64,7 @@ def get_title(item):
     return "Untitled"
 
 
-def get_authors(item, max_authors=8):
+def get_author_names(item, max_authors=8):
     authors = item.get("author") or []
     names = []
 
@@ -75,7 +75,12 @@ def get_authors(item, max_authors=8):
         if name:
             names.append(name)
 
-    if len(authors) > max_authors:
+    return names
+
+
+def get_authors(item, max_authors=8):
+    names = get_author_names(item, max_authors=max_authors)
+    if len(item.get("author") or []) > max_authors:
         names.append("et al.")
 
     return ", ".join(names)
@@ -109,9 +114,14 @@ def build_rss(journal, items):
         title = get_title(item)
         link = get_doi_link(item)
         doi = item.get("DOI", link)
+        author_names = get_author_names(item)
         authors = get_authors(item)
         abstract = get_abstract(item)
         pub_dt = crossref_date_to_datetime(item)
+        dc_creators = "".join(
+            f"\n      <dc:creator>{escape(author)}</dc:creator>"
+            for author in author_names
+        )
 
         description_parts = []
         if authors:
@@ -126,12 +136,13 @@ def build_rss(journal, items):
       <title>{escape(title)}</title>
       <link>{escape(link)}</link>
       <guid isPermaLink="false">{escape(doi)}</guid>
+{dc_creators}
       <pubDate>{format_datetime(pub_dt)}</pubDate>
       <description>{escape(description)}</description>
     </item>""")
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>{escape(journal_name)} Latest Articles</title>
     <link>{escape(homepage)}</link>
