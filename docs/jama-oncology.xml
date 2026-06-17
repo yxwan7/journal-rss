@@ -5,7 +5,7 @@
     <link>https://jamanetwork.com/journals/jamaoncology</link>
     <description>Latest journal articles for JAMA Oncology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:19:58 +0000</lastBuildDate>
 
     <item>
       <title>Notice of Retraction: Lei Z. Rethinking End Points in Modern Oncology Trials—Beyond the
@@ -587,6 +587,17 @@ Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 497
 Abstract: Importance Pancreatic ductal adenocarcinoma (PDAC) is a leading cause of cancer deaths in the US. Although early detection improves survival, the rarity of the disease has rendered population screening a difficult approach. Objective To develop and validate a parsimonious, interpretable, and generalizable model predicting incident PDAC—termed PRIME (PDAC Risk Model for Earlier Detection)—using routinely available electronic health record (EHR) data. Design, Setting, and Participants This cohort study used the Optum Labs Data Warehouse, a longitudinal, deidentified US EHR and claims database. Adults 40 years or older with an outpatient clinical encounter between 2016 and 2018 were included. Participants from 23 health systems (n = 4 859 833) comprised the training cohort; 31 additional systems (n = 5 619 091) served as validation. International validation was conducted in the UK Biobank (n = 498 754). Data analysis occurred July 2025 to January 2026. Exposures Demographics, diagnosis codes, and routinely measured laboratory values were evaluated. Elastic-net regularization with 10-fold cross-validation selected the predictor set. Main Outcomes and Measures Incident PDAC was identified by International Classification of Diseases, Ninth and Tenth Revisions (ICD-9/10) codes. Model performance was assessed using time-dependent area under the curve (AUC) and calibration metrics. Results Overall, the study included more than 11 million adults (2.1% Asian individuals, 8.4% Black individuals, 4.3% Hispanic/Latino individuals, 82.7% White individuals, and 2.4% other race/ethnicity by EHR reporting). In the training cohort (mean [SD] age, 60.4 [11] years), 14 405 individuals were diagnosed with PDAC (incidence 55 per 100 000 person-years) over a mean (SD) of 5.4 (2.5) years; in the validation cohort, 11 693 individuals were diagnosed with PDAC (54 per 100 000 person-years) over a mean (SD) of 3.9 (2.5) years. PRIME retained 19 predictors including history of pancreatitis, gastrointestinal disorders, prior cancers, type 2 diabetes, elevated aspartate aminotransferase levels, smoking, non–type-O blood, and male sex. Discrimination was strong at the 36-month time horizon (AUC = 0.75 in both the training and validation cohorts) with good calibration. In the validation cohort, patients in the top 1% of predicted risk had substantially higher PDAC risk (HR, 7.63; 95% CI, 6.85-8.49) compared with average-risk patients. In the UK Biobank, PRIME achieved a 36-month AUC of 0.71 with good calibration. Conclusions and Relevance In this validation cohort study, PRIME was a transparent EHR-based model that effectively stratified PDAC risk across diverse US health systems and generalized internationally. Prospective studies should evaluate for EHR-guided PDAC case-finding and integration with blood-based early-detection assays.</description>
     </item>
     <item>
+      <title>The Vocabulary of Survival</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.0203</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.0203</guid>
+
+      <dc:creator>Zhaohui Su</dc:creator>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zhaohui Su
+
+Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 534</description>
+    </item>
+    <item>
       <title>Implementing Cancer Medicines on the WHO Model Lists of Essential Medicines Into National Systems</title>
       <link>https://doi.org/10.1001/jamaoncol.2025.6339</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2025.6339</guid>
@@ -599,17 +610,6 @@ Abstract: Importance Pancreatic ductal adenocarcinoma (PDAC) is a leading cause 
 Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 443
 
 Abstract: This Viewpoint discusses national systems implementation of cancer medicines included in the WHO Model Lists of Essential Medicines.</description>
-    </item>
-    <item>
-      <title>The Vocabulary of Survival</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0203</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0203</guid>
-
-      <dc:creator>Zhaohui Su</dc:creator>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zhaohui Su
-
-Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 534</description>
     </item>
     <item>
       <title>JAMA Oncology</title>
@@ -660,6 +660,19 @@ Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 488
 Abstract: Importance The BRIGHT-2 interim analysis demonstrated the efficacy of bireociclib plus fulvestrant in hormone receptor (HR)–positive, human epidermal growth factor receptor 2 ( ERBB2 ; previously HER2 )–negative advanced breast cancer (ABC) after endocrine therapy progression. This final analysis includes an additional 11-month follow-up. Objective To evaluate the efficacy and safety of bireociclib plus fulvestrant in HR-positive, ERBB2 -negative ABC. Design, Setting, and Participants This double-blind, placebo-controlled phase 3 randomized clinical trial was conducted at 64 hospitals in China between December 8, 2021, and October 24, 2022. Patients were enrolled and randomly assigned in a 2:1 to receive bireociclib plus fulvestrant or placebo plus fulvestrant. Data were analyzed from April 2024 to December 2025. Interventions Patients received bireociclib, 360 mg, or placebo orally every 12 hours in combination with fulvestrant, 500 mg, intramuscularly (days 1 and 15 of cycle 1, then day 1 of each 28-day cycle). Main Outcomes and Measures The primary end point was investigator-assessed progression-free survival (PFS). Secondary end points included overall survival, objective response rate, duration of response, and safety. Results Of 305 included patients, the mean (SD) age was 54.1 (10.2) years, and the median (IQR) follow-up at data cutoff was 19 (18.5-19.6) months. Patients were randomized to bireociclib plus fulvestrant (n = 204) or placebo plus fulvestrant (n = 101); 275 (90.2%) had measurable disease and 268 (87.9%) had received prior systemic chemotherapy. Bireociclib plus fulvestrant significantly prolonged PFS vs placebo (median PFS, 14.7 months [95% CI, 11.1-20.2] vs 7.3 months [95% CI, 5.5-11.0]; hazard ratio, 0.54; 95% CI, 0.40-0.74; P &amp;amp;amp;lt; .001). The objective response rate was higher (45.6% [95% CI, 38.6-52.7] vs 14.9% [95% CI, 8.6-23.3]) in the bireociclib group, with a prolonged median duration compared with placebo (not reached [95% CI, 11.1 to not reached] vs 13.1 months [95% CI, 10.2 to not reached]). Safety was consistent with the interim findings and the profiles of known cyclin-dependent kinase 4/6 inhibitors. Subgroup analyses across multiple patient characteristics (menopausal status, metastatic sites, prior treatment, disease-free interval, ESR1 / PIK3CA / TP53 alterations and others) showed consistent PFS improvements with bireociclib vs placebo. Patients with early-onset diarrhea appeared to derive more benefit from bireociclib (hazard ratio, 0.49; 95% CI, 0.36-0.68). Conclusions and Relevance The final analysis of the BRIGHT-2 randomized clinical trial confirms improved PFS with the addition of bireociclib to fulvestrant, with manageable safety as a treatment option for patients with HR-positive, ERBB2 -negative ABC with progression after prior endocrine therapy. Trial Registration ClinicalTrials.gov Identifier: NCT05077449</description>
     </item>
     <item>
+      <title>Possible Biases May Have Limited Study on Ultraprocessed Food Intake</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.0380</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.0380</guid>
+
+      <dc:creator>Mayada Aljehani</dc:creator>
+      <dc:creator>Dylan DePuy</dc:creator>
+      <dc:creator>Albert Y. Lin</dc:creator>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mayada Aljehani, Dylan DePuy, Albert Y. Lin
+
+Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 530</description>
+    </item>
+    <item>
       <title>Extensive Oral Ulcerations After Stem Cell Transplant</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.0199</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2026.0199</guid>
@@ -673,19 +686,6 @@ Abstract: Importance The BRIGHT-2 interim analysis demonstrated the efficacy of 
 Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 523
 
 Abstract: A 69-year-old male patient presented with worsening new-onset oral ulcerations and pain. He had myelodysplastic syndrome and underwent an allogeneic hematopoietic stem cell transplant 18 months prior. What is your diagnosis?</description>
-    </item>
-    <item>
-      <title>Possible Biases May Have Limited Study on Ultraprocessed Food Intake</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0380</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0380</guid>
-
-      <dc:creator>Mayada Aljehani</dc:creator>
-      <dc:creator>Dylan DePuy</dc:creator>
-      <dc:creator>Albert Y. Lin</dc:creator>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mayada Aljehani, Dylan DePuy, Albert Y. Lin
-
-Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 530</description>
     </item>
     <item>
       <title>Upadacitinib for Immune Checkpoint Inhibitor–Related Dermatitis</title>
@@ -1299,6 +1299,18 @@ Journal: JAMA Oncology
 Abstract: This Viewpoint examines the underutilization of glucagon-like peptide-1 receptor agonists and bariatric surgery in survivors of cancer.</description>
     </item>
     <item>
+      <title>Challenges in Interpreting MELATORCH Trial Outcomes</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.0655</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.0655</guid>
+
+      <dc:creator>Koichiro Yuji</dc:creator>
+      <dc:creator>Wakako Yuji</dc:creator>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Koichiro Yuji, Wakako Yuji
+
+Journal: JAMA Oncology</description>
+    </item>
+    <item>
       <title>Outcomes and Treatments of Patients With Non–Small Cell Lung Cancer Who Received Pembrolizumab</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.0669</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2026.0669</guid>
@@ -1317,18 +1329,6 @@ Abstract: This Viewpoint examines the underutilization of glucagon-like peptide-
 Journal: JAMA Oncology
 
 Abstract: Importance Two years of immunotherapy is the standard treatment for most patients with advanced non–small cell lung cancer. However, little is known about postimmunotherapy therapeutic strategies. Objective To describe subsequent treatments and outcomes after pembrolizumab discontinuation following 2 years of therapy. Design, Setting, and Participants This nationwide, population-based, retrospective cohort study used administrative health data from the French National Health Insurance database from patients who received a diagnosis of incident lung cancer between January 1, 2015, and December 31, 2022, who received pembrolizumab for 22 to 26 months and survived at least 29 months (landmark). The data cutoff was October 31, 2024. Data were analyzed in October 2025. Exposure Treatment with pembrolizumab for 22 to 26 months, followed by observation of subsequent therapeutic management after discontinuation. Main Outcomes and Measures Overall survival (OS) was defined as the time between landmark and death of any cause. Time to next treatment or death was defined as the time between the last pembrolizumab infusion and new treatment or death. Results Among 41 498 patients who received frontline pembrolizumab for advanced disease, 5293 were alive at the landmark time and completed 2 years of treatment, and 1555 discontinued pembrolizumab at 2 years. The population of interest for this study included 1480 patients with at least 6 months of follow-up; the median (range) age was 63.0 (32.0-90.0) years, 537 (36.3%) were female, 943 (63.7%) were male, and 616 (41.6%) had received pembrolizumab monotherapy. After a median follow-up of 16 months (95% CI, 15.2-16.8) after the landmark, the OS rate at 48 months was 76.9% (95% CI, 72.7%-81.3%), and the time to next treatment or death rate at 48 months after pembrolizumab discontinuation was 49.9% (95% CI, 45.3%-55.0%). Overall, 387 patients (26.1%) received subsequent therapy. The first treatments after pembrolizumab discontinuation were chemotherapy (200 [51.7%]), radiotherapy (183 [47.3%]), and immunotherapy (4 [1.0%]). Considering all subsequent treatment lines, 19 patients (0.1%) received an immunotherapy rechallenge. Twelve months after initiation of the new treatment, the OS rates were 87.0% (95% CI, 81.6%-92.7%) for radiotherapy, 69.9% (95% CI, 61.1%-80.0%) for chemotherapy, and 61.4% (95% CI, 41.3%-91.4%) for immunotherapy. Conclusions This cohort study found that, among long-term cancer survivors with advanced non–small cell lung cancer who were treated with pembrolizumab, survival outcomes were high and immunotherapy rechallenge was uncommon.</description>
-    </item>
-    <item>
-      <title>Challenges in Interpreting MELATORCH Trial Outcomes</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0655</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0655</guid>
-
-      <dc:creator>Koichiro Yuji</dc:creator>
-      <dc:creator>Wakako Yuji</dc:creator>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Koichiro Yuji, Wakako Yuji
-
-Journal: JAMA Oncology</description>
     </item>
     <item>
       <title>Prospective Genomic Profiling of Consecutive Meningiomas</title>
