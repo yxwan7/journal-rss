@@ -5,16 +5,8 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 10:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:58:44 +0000</lastBuildDate>
 
-    <item>
-      <title>Medical innovation in LMICs: can India lead the way?</title>
-      <link>https://doi.org/10.1038/s41591-026-04499-z</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04499-z</guid>
-
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
-    </item>
     <item>
       <title>Why large-scale randomized trials of live-attenuated shingles vaccination for dementia prevention are urgently needed</title>
       <link>https://doi.org/10.1038/s41591-026-04474-8</link>
@@ -95,34 +87,6 @@ Journal: Nature Medicine
 Abstract: Abstract Parkinson’s disease leads to a spectrum of locomotor deficits that vary in severity with the nature of daily activities and the fluctuating physiology of patients. Many of these deficits remain inadequately addressed by existing deep brain stimulation therapies that rely on activity-agnostic parameters optimized for cardinal motor symptoms. By contrast, therapies embedding activity-specific parameters have the potential to better address the entire range of symptoms. Here we expose physiological principles that enable real-time decoding of ongoing locomotor activities across motor fluctuations from the neural dynamics of the subthalamic nucleus. This decoding steered activity-dependent adaptations of deep brain stimulation therapies that improved locomotor deficits while preserving efficacy for cardinal motor symptoms across activities of daily living. Our activity-dependent framework provides a blueprint for next-generation neuromodulation therapies that continuously select parameters optimized to the behavioral context and fluctuating physiology of each patient. ClinicalTrials.gov registration NCT06791902 .</description>
     </item>
     <item>
-      <title>Blood signatures of cell type-specific aging forecast disease risk and resilience</title>
-      <link>https://doi.org/10.1038/s41591-026-04447-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04447-x</guid>
-
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Plasma proteomic signatures of cellular aging predict human disease</title>
-      <link>https://doi.org/10.1038/s41591-026-04446-y</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04446-y</guid>
-
-      <dc:creator>Daisy Yi Ding</dc:creator>
-      <dc:creator>Veronica Augustina Bot</dc:creator>
-      <dc:creator>Kenneth L. Chen</dc:creator>
-      <dc:creator>James W. Groves</dc:creator>
-      <dc:creator>Róbert Pálovics</dc:creator>
-      <dc:creator>Daisuke Masuda</dc:creator>
-      <dc:creator>Amelia Farinas</dc:creator>
-      <dc:creator>Hamilton Se-Hwee Oh</dc:creator>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Daisy Yi Ding, Veronica Augustina Bot, Kenneth L. Chen, James W. Groves, Róbert Pálovics, Daisuke Masuda, Amelia Farinas, Hamilton Se-Hwee Oh, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Aging is asynchronous across cells and organs. Here we tested whether plasma proteomics can be used to analyze cell type-specific aging. From analyses of over 7,000 plasma proteins measured in 60,542 individuals, we developed machine learning models to estimate the biological age of over 40 cell types spanning neuronal, immune, glial, endocrine, epithelial and musculoskeletal origins. We observed that 20–25% of individuals exhibited accelerated aging in a single cell type and 1–3% in 10 or more cell types. Cellular aging signatures were associated with disease status and predicted incident disease and mortality over 15 years of follow-up. Individuals with the APOE4 genotype showed older astrocytes but younger macrophages compared to APOE3 carriers, whereas the APOE2 genotype had inverse associations. Moreover, extreme astrocyte aging tripled the risk of incident Alzheimer’s Disease in individuals with two APOE4 alleles, while youthful astrocytes reduced risk. Individuals with extremely aged compared to youthful skeletal myocytes exhibited a 12.7-fold higher risk of developing amyotrophic lateral sclerosis. In individuals who smoked, extreme respiratory epithelial cell aging was associated with a 58% higher lung cancer risk compared to smoking alone. Specific cellular vulnerabilities and cumulative cellular aging burden influenced survival, with youthful immune and neuronal cell types conferring protective effects. Finally, we developed a polycellular aging risk score that stratified mortality risk across cohorts and proteomics platforms. These findings establish a framework for quantifying human physiology at cellular resolution, revealing heterogeneous aging trajectories and their impact on disease susceptibility and resilience.</description>
-    </item>
-    <item>
       <title>Long-term independent use of an intracortical brain–computer interface for speech and cursor control</title>
       <link>https://doi.org/10.1038/s41591-026-04414-6</link>
       <guid isPermaLink="false">10.1038/s41591-026-04414-6</guid>
@@ -161,14 +125,6 @@ Abstract: Abstract Brain–computer interfaces (BCIs) can provide naturalistic c
 Journal: Nature Medicine
 
 Abstract: Abstract A randomized crossover study of five patients with Parkinson’s disease (PD) demonstrates that gait-synchronized adaptive deep brain stimulation is feasible and safe, and reduces falls compared with continuous stimulation. Gait dysfunction in PD is a major source of disability and is often insufficiently treated by continuous deep brain stimulation (cDBS). Although adaptive DBS (aDBS) has shown efficacy for other motor symptoms using β-based, state-driven neural signals, gait is a dynamic, cyclical behavior that may require temporally precise modulation. Here we evaluated a behavior-contingent aDBS approach that synchronizes stimulation to gait phase. We reported a single-center, blinded, randomized, crossover study evaluating the feasibility of identifying patient-specific biomarkers to drive aDBS. The primary outcome was feasibility of successful identification of gait-phase biomarkers to implement aDBS. Five participants with PD undergoing pallidal DBS and subdural electrode paddle implantation were enrolled. We successfully identified personalized gait-phase biomarkers from cortical or pallidal field potentials in all five patients and embedded them into a bidirectional neurostimulator. During acute in-clinic testing, aDBS improved step variability and step symmetry versus cDBS. Three participants subsequently completed a double-blinded, multi-day crossover phase. In this setting, aDBS maintained general motor symptom control, reduced falls and yielded patient-specific gait improvements. No adverse events occurred and aDBS was well tolerated. These findings establish the feasibility of biomarker-driven, movement-synchronized neuromodulation and support the development of a larger randomized trial to determine clinical efficacy. ClinicalTrial.gov registration: NCT04675398 .</description>
-    </item>
-    <item>
-      <title>The Hong Kong Genome Project is a flagship initiative for precision medicine in Chinese populations</title>
-      <link>https://doi.org/10.1038/s41591-026-04421-7</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04421-7</guid>
-
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
     </item>
     <item>
       <title>General-purpose large language models outperform specialized clinical AI tools on medical benchmarks</title>
@@ -225,14 +181,6 @@ Abstract: Abstract Anhedonia is a core and disabling symptom of mood disorders w
       <description>Authors: Andrew Nsawotebba, Isaac Ssewanyana, Alisen Ayitewala, Misaki Wayengera, Stephen Kanyerezi, Jonathan Kabazzi, Valeria Nakintu, Aloysious Ssemaganda, et al.
 
 Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Microglia at a key inflection point in Alzheimer’s disease</title>
-      <link>https://doi.org/10.1038/s41591-026-04409-3</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04409-3</guid>
-
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
     </item>
     <item>
       <title>Brain Health for Economic Resilience: a data-driven framework for the brain-positive economic transition</title>
@@ -357,26 +305,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>Effects of SGLT2 inhibition on incident heart failure in carriers of cardiomyopathy-associated genetic variants</title>
-      <link>https://doi.org/10.1038/s41591-026-04439-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04439-x</guid>
-
-      <dc:creator>Nicholas A. Marston</dc:creator>
-      <dc:creator>Shinwan Kany</dc:creator>
-      <dc:creator>Giorgio E. M. Melloni</dc:creator>
-      <dc:creator>Sean J. Jurgens</dc:creator>
-      <dc:creator>Frederick K. Kamanu</dc:creator>
-      <dc:creator>Yi-Pin Lai</dc:creator>
-      <dc:creator>Joel T. Rämö</dc:creator>
-      <dc:creator>Itamar Raz</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nicholas A. Marston, Shinwan Kany, Giorgio E. M. Melloni, Sean J. Jurgens, Frederick K. Kamanu, Yi-Pin Lai, Joel T. Rämö, Itamar Raz, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Although the beneficial effects of sodium–glucose cotransporter 2 (SGLT2) inhibition in heart failure (HF) have been well established, it is unknown whether SGLT2 inhibition confers benefit in carriers of rare variants in cardiomyopathy-associated genes. Here we evaluated whole-exome sequencing data from the randomized DECLARE-TIMI 58 trial, in which adults with type 2 diabetes and increased cardiovascular risk were randomized to dapagliflozin or placebo treatment. Pathogenic or likely pathogenic variants (P/LP) in high-confidence cardiomyopathy genes were identified, and treatment effects on hospitalization for HF (HHF) were compared between carriers of such variants and noncarriers. Among 12,685 patients for whom sequence data were obtained, 121 carried a cardiomyopathy variant (76 dilated cardiomyopathy, 25 hypertrophic cardiomyopathy and 25 arrhythmogenic cardiomyopathy). Over a median follow-up of 4.2 years, dapagliflozin lowered the risk of HHF more strongly in carriers (hazard ratio 0.18, 95% confidence interval 0.04–0.86) than in noncarriers (hazard ratio 0.70, 95% confidence interval 0.57–0.86; P interaction 0.03). Absolute risk reduction was 13.0% in carriers and 1.0% in noncarriers ( P interaction 0.03). Most carriers (82%) had no prior HF, and in carriers without prior HF, treatment with dapagliflozin reduced the absolute risk of HHF by 12.8%, compared with a reduction of 0.6% in noncarriers ( P interaction 0.01). The findings from this cohort of older and high-risk patients raise the possibility that SGLT2 inhibitor treatment should be started early to prevent HF in individuals who carry P/LP cardiomyopathy variants. These results need to be confirmed in a prospective, dedicated trial of preventive HF treatments in carriers of P/LP cardiomyopathy-associated variants.</description>
-    </item>
-    <item>
       <title>Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial</title>
       <link>https://doi.org/10.1038/s41591-026-04479-3</link>
       <guid isPermaLink="false">10.1038/s41591-026-04479-3</guid>
@@ -428,24 +356,6 @@ Abstract: Abstract Aleniglipron is an oral, small-molecule glucagon-like peptide
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04441-3</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04441-3</guid>
-
-      <dc:creator>Tao Zheng</dc:creator>
-      <dc:creator>Ge Gao</dc:creator>
-      <dc:creator>Chenbo Xu</dc:creator>
-      <dc:creator>Ruifeng Li</dc:creator>
-      <dc:creator>Jinrui Shao</dc:creator>
-      <dc:creator>Xiaoke Wang</dc:creator>
-      <dc:creator>Xiu Han</dc:creator>
-      <dc:creator>Juanli Li</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tao Zheng, Ge Gao, Chenbo Xu, Ruifeng Li, Jinrui Shao, Xiaoke Wang, Xiu Han, Juanli Li, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial</title>
       <link>https://doi.org/10.1038/s41591-026-04435-1</link>
       <guid isPermaLink="false">10.1038/s41591-026-04435-1</guid>
@@ -460,64 +370,6 @@ Journal: Nature Medicine</description>
       <dc:creator>Amy Boos</dc:creator>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Roberto M. de Freitas, Shovan Bhatia, Erynn Sorensen, Nikhil Verma, Erick Carranza, Scott Ensel, Luigi Borda, Amy Boos, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04422-6</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04422-6</guid>
-
-      <dc:creator>A. Jess Williams</dc:creator>
-      <dc:creator>C. Aubrey Rhodes</dc:creator>
-      <dc:creator>Seonaid Cleare</dc:creator>
-      <dc:creator>Rohan Borschmann</dc:creator>
-      <dc:creator>James J. Gross</dc:creator>
-      <dc:creator>Kate Petrova</dc:creator>
-      <dc:creator>Lauren Posada</dc:creator>
-      <dc:creator>Christopher R. Tench</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: A. Jess Williams, C. Aubrey Rhodes, Seonaid Cleare, Rohan Borschmann, James J. Gross, Kate Petrova, Lauren Posada, Christopher R. Tench, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract LGBTQ+ youth commonly have unmet mental health needs and are at elevated risk for self-harm, yet many face persistent institutional barriers to accessing support. One impactful way to reduce risk and promote wellbeing is by supporting emotion regulation; that is, the process by which individuals can influence which emotions they feel, when they feel them and how they experience or express these emotions. This universal, modifiable process is widely considered a key transdiagnostic target for mental ill-health prevention and intervention efforts. We conducted a randomized controlled trial using Purrble, a socially assistive robot designed to provide in-the-moment emotion regulation support through intuitive tactile interaction. Between 12 January and 1 September 2024, 153 LGBTQ+ youth with self-harm ideation were randomized 1:1 to receive Purrble and safety planning (Purrble + SP) or safety planning alone (SP-Only), stratified by gender identity (50.3% transgender/gender diverse). Data were collected over 13 weeks, with data collection closing on 22 October 2024. The primary outcome was perceived emotion regulation difficulties at follow-up, adjusted for baseline, gender identity and age. Participants allocated to the Purrble intervention reported fewer emotion regulation difficulties at follow-up than those allocated to safety planning alone (adjusted mean difference: –3.04; 95% confidence interval (CI): −4.92 to −1.16; P = 0.002; partial η 2 = 0.07). For secondary outcomes, participants in the Purrble intervention also reported significantly lower symptoms of anxiety and depression, but no significant main effect was observed for self-harm. No serious Purrble-related adverse events were observed. Purrble may offer a scalable intervention to complement existing therapeutic approaches to support LGBTQ+ youth to enhance their emotion regulation. ClinicalTrials.gov: NCT06025942 .</description>
-    </item>
-    <item>
-      <title>Human microglial transitions at the Aβ–tau inflection point associate with divergent pathways to dementia and resilience</title>
-      <link>https://doi.org/10.1038/s41591-026-04393-8</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04393-8</guid>
-
-      <dc:creator>Ashley Lu</dc:creator>
-      <dc:creator>Wei-Ting Chen</dc:creator>
-      <dc:creator>Maria Dalby</dc:creator>
-      <dc:creator>Diego Sainz Garcia</dc:creator>
-      <dc:creator>Marisa Vanheusden</dc:creator>
-      <dc:creator>Luuk E. de Vries</dc:creator>
-      <dc:creator>Veerle van Lieshout</dc:creator>
-      <dc:creator>Araks Martirosyan</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ashley Lu, Wei-Ting Chen, Maria Dalby, Diego Sainz Garcia, Marisa Vanheusden, Luuk E. de Vries, Veerle van Lieshout, Araks Martirosyan, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Alzheimer’s disease (AD) is not an inevitable outcome of pathology but a dynamic process shaped by how brain cells respond to amyloid-β (Aβ) and tau. To disentangle these responses, we combined spatial transcriptomics and single-nucleus RNA sequencing of the superior frontal cortex from octogenarians living with or without dementia and from cognitively intact centenarians with comparable Aβ accumulation. We identified six distinct tissue domains representing a spatial pathological continuum of AD, with a key inflection point marked by a shift from Aβ-associated inflammatory changes to tau-associated cellular programs. This transition was accompanied by a change in microglial states, from early inflammatory to late antigen-presenting phenotypes, termed early and late plaque-induced gene (PIG) programs. Resilient individuals showed distinct pathological patterns: octogenarians without dementia lacked late PIGs, whereas centenarians showed late PIG activation that was uncoupled from tau accumulation. Together, these findings highlight divergent resilience-associated mechanisms in human aging and position microglial state transitions at the Aβ−tau interface as candidate points of resilience with potential therapeutic relevance.</description>
-    </item>
-    <item>
-      <title>Assessing quality of childbirth care provided by skilled health personnel in Exemplar countries</title>
-      <link>https://doi.org/10.1038/s41591-026-04381-y</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04381-y</guid>
-
-      <dc:creator>Laith Hussain-Alkhateeb</dc:creator>
-      <dc:creator>Yao He</dc:creator>
-      <dc:creator>Prakash Bahadur Amatya</dc:creator>
-      <dc:creator>Saly Amos Diatta</dc:creator>
-      <dc:creator>Sameer Dixit</dc:creator>
-      <dc:creator>Moctar Gningue</dc:creator>
-      <dc:creator>Gloria Ikilezi</dc:creator>
-      <dc:creator>Bibek Kumar Lal</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Laith Hussain-Alkhateeb, Yao He, Prakash Bahadur Amatya, Saly Amos Diatta, Sameer Dixit, Moctar Gningue, Gloria Ikilezi, Bibek Kumar Lal, et al.
 
 Journal: Nature Medicine</description>
     </item>
@@ -566,19 +418,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>Translating ‘food is medicine’ from concept to reality</title>
-      <link>https://doi.org/10.1038/s41591-026-04420-8</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04420-8</guid>
-
-      <dc:creator>Juliet Cushing</dc:creator>
-      <dc:creator>Wendelin Slusser</dc:creator>
-      <dc:creator>Tannaz Moin</dc:creator>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Juliet Cushing, Wendelin Slusser, Tannaz Moin
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial</title>
       <link>https://doi.org/10.1038/s41591-026-04442-2</link>
       <guid isPermaLink="false">10.1038/s41591-026-04442-2</guid>
@@ -593,24 +432,6 @@ Journal: Nature Medicine</description>
       <dc:creator>Graham J. Britton</dc:creator>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Lukas Bethlehem, Lorenza Bartu, Gina Marke, Phyu Mar, Sari Feldman, Joseph Eggers, Constantin Ruprecht, Graham J. Britton, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Medically tailored meals receipt and healthcare utilization and costs in Massachusetts’ Medicaid demonstration</title>
-      <link>https://doi.org/10.1038/s41591-026-04407-5</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04407-5</guid>
-
-      <dc:creator>Kurt Hager</dc:creator>
-      <dc:creator>Matthew Alcusky</dc:creator>
-      <dc:creator>Fang Fang Zhang</dc:creator>
-      <dc:creator>Gary Sing</dc:creator>
-      <dc:creator>Arlene Ash</dc:creator>
-      <dc:creator>Eric Mick</dc:creator>
-      <dc:creator>Jean Terranova</dc:creator>
-      <dc:creator>Erin DiBacco</dc:creator>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kurt Hager, Matthew Alcusky, Fang Fang Zhang, Gary Sing, Arlene Ash, Eric Mick, Jean Terranova, Erin DiBacco, et al.
 
 Journal: Nature Medicine</description>
     </item>
@@ -635,6 +456,27 @@ Journal: Nature Medicine
 Abstract: Abstract Seizure-related homolog 6 (SEZ6) is expressed in small cell lung cancer (SCLC) and neuroendocrine neoplasms. In an open label, phase 1 trial, ABBV-706, an antibody−drug conjugate with a SEZ6-directed antibody linked to topoisomerase-1 inhibitor (Top1i), was administered intravenously every 3 weeks (Q3W) to 288 patients with advanced solid tumors; 240 received monotherapy, including 124 with relapsed/refractory (R/R) SCLC. Primary objectives of dose escalation (part 1, advanced solid tumors), dose optimization and expansion (part 2, R/R SCLC only) and dose expansion (part 4, central nervous system tumors and high-grade neuroendocrine neoplasms only) were to evaluate the safety, tolerability, pharmacokinetics (PK), immunogenicity and antitumor activity of ABBV-706 monotherapy and, from parts 1 and 2, to determine the recommended phase 2 dose (RP2D) of ABBV-706 in R/R SCLC. In the monotherapy cohort ( N = 240), the most common treatment-related adverse events (TRAEs) at any grade were anemia (61%) and fatigue (38%). Grade 3 or higher TRAEs occurred in 61% of patients and were dose dependent (39% at 1.8 mg kg −1 and 70% at 2.5 mg kg −1 ). In the R/R SCLC monotherapy cohort ( n = 124), any-grade and grade 3 or higher TRAEs occurred in 93% and 61% of patients, respectively. ABBV-706 demonstrated promising preliminary efficacy in patients with R/R SCLC, with an objective response rate (ORR) of 52% (65/124). In patients with R/R SCLC receiving monotherapy in dose optimization and expansion part 2, ORR was similar between 1.8 mg kg −1 and 2.5 mg kg −1 doses (56% (23/41) and 59% (23/39), respectively), with a duration of response that was highest at the 1.8 mg kg −1 dose and with most patients achieving rapid and durable tumor reduction. Although exploratory, long-term efficacy measures were an important consideration in the RP2D determination, and in R/R SCLC monotherapy, overall survival (OS) was highest at the 1.8 mg kg −1 dose, with a median OS of 12.4 months. Based on the totality of available data, including, but not limited to, safety, preliminary efficacy measures and PK, 1.8 mg kg −1 Q3W was confirmed as the optimal RP2D for patients with R/R SCLC. ClinicalTrials.gov: NCT05599984 .</description>
     </item>
     <item>
+      <title>Translating ‘food is medicine’ from concept to reality</title>
+      <link>https://doi.org/10.1038/s41591-026-04420-8</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04420-8</guid>
+
+      <dc:creator>Juliet Cushing</dc:creator>
+      <dc:creator>Wendelin Slusser</dc:creator>
+      <dc:creator>Tannaz Moin</dc:creator>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Juliet Cushing, Wendelin Slusser, Tannaz Moin
+
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1975-1976</description>
+    </item>
+    <item>
+      <title>Medical innovation in LMICs: can India lead the way?</title>
+      <link>https://doi.org/10.1038/s41591-026-04499-z</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04499-z</guid>
+
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1939-1939</description>
+    </item>
+    <item>
       <title>Incretin therapies, nutrition and food insecurity in the UK</title>
       <link>https://doi.org/10.1038/s41591-026-04426-2</link>
       <guid isPermaLink="false">10.1038/s41591-026-04426-2</guid>
@@ -646,6 +488,24 @@ Abstract: Abstract Seizure-related homolog 6 (SEZ6) is expressed in small cell l
       <description>Authors: Marie Spreckley, Cara F. Ruggiero, Adrian Brown
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04441-3</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04441-3</guid>
+
+      <dc:creator>Tao Zheng</dc:creator>
+      <dc:creator>Ge Gao</dc:creator>
+      <dc:creator>Chenbo Xu</dc:creator>
+      <dc:creator>Ruifeng Li</dc:creator>
+      <dc:creator>Jinrui Shao</dc:creator>
+      <dc:creator>Xiaoke Wang</dc:creator>
+      <dc:creator>Xiu Han</dc:creator>
+      <dc:creator>Juanli Li</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tao Zheng, Ge Gao, Chenbo Xu, Ruifeng Li, Jinrui Shao, Xiaoke Wang, Xiu Han, Juanli Li, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2137-2146</description>
     </item>
     <item>
       <title>Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial</title>
@@ -663,7 +523,61 @@ Journal: Nature Medicine</description>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Bernhard Gentner, Marica Eoli, Francesca Farina, Matteo Barcella, Alessia Capotondo, Stefania Mazzoleni, Valentina Brambilla, Antonio Francavilla, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2216-2226</description>
+    </item>
+    <item>
+      <title>The Hong Kong Genome Project is a flagship initiative for precision medicine in Chinese populations</title>
+      <link>https://doi.org/10.1038/s41591-026-04421-7</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04421-7</guid>
+
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1995-1996</description>
+    </item>
+    <item>
+      <title>Assessing quality of childbirth care provided by skilled health personnel in Exemplar countries</title>
+      <link>https://doi.org/10.1038/s41591-026-04381-y</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04381-y</guid>
+
+      <dc:creator>Laith Hussain-Alkhateeb</dc:creator>
+      <dc:creator>Yao He</dc:creator>
+      <dc:creator>Prakash Bahadur Amatya</dc:creator>
+      <dc:creator>Saly Amos Diatta</dc:creator>
+      <dc:creator>Sameer Dixit</dc:creator>
+      <dc:creator>Moctar Gningue</dc:creator>
+      <dc:creator>Gloria Ikilezi</dc:creator>
+      <dc:creator>Bibek Kumar Lal</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Laith Hussain-Alkhateeb, Yao He, Prakash Bahadur Amatya, Saly Amos Diatta, Sameer Dixit, Moctar Gningue, Gloria Ikilezi, Bibek Kumar Lal, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2164-2172</description>
+    </item>
+    <item>
+      <title>Blood signatures of cell type-specific aging forecast disease risk and resilience</title>
+      <link>https://doi.org/10.1038/s41591-026-04447-x</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04447-x</guid>
+
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1985-1986</description>
+    </item>
+    <item>
+      <title>Plasma proteomic signatures of cellular aging predict human disease</title>
+      <link>https://doi.org/10.1038/s41591-026-04446-y</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04446-y</guid>
+
+      <dc:creator>Daisy Yi Ding</dc:creator>
+      <dc:creator>Veronica Augustina Bot</dc:creator>
+      <dc:creator>Kenneth L. Chen</dc:creator>
+      <dc:creator>James W. Groves</dc:creator>
+      <dc:creator>Róbert Pálovics</dc:creator>
+      <dc:creator>Daisuke Masuda</dc:creator>
+      <dc:creator>Amelia Farinas</dc:creator>
+      <dc:creator>Hamilton Se-Hwee Oh</dc:creator>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Daisy Yi Ding, Veronica Augustina Bot, Kenneth L. Chen, James W. Groves, Róbert Pálovics, Daisuke Masuda, Amelia Farinas, Hamilton Se-Hwee Oh, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2060-2072
+
+Abstract: Abstract Aging is asynchronous across cells and organs. Here we tested whether plasma proteomics can be used to analyze cell type-specific aging. From analyses of over 7,000 plasma proteins measured in 60,542 individuals, we developed machine learning models to estimate the biological age of over 40 cell types spanning neuronal, immune, glial, endocrine, epithelial and musculoskeletal origins. We observed that 20–25% of individuals exhibited accelerated aging in a single cell type and 1–3% in 10 or more cell types. Cellular aging signatures were associated with disease status and predicted incident disease and mortality over 15 years of follow-up. Individuals with the APOE4 genotype showed older astrocytes but younger macrophages compared to APOE3 carriers, whereas the APOE2 genotype had inverse associations. Moreover, extreme astrocyte aging tripled the risk of incident Alzheimer’s Disease in individuals with two APOE4 alleles, while youthful astrocytes reduced risk. Individuals with extremely aged compared to youthful skeletal myocytes exhibited a 12.7-fold higher risk of developing amyotrophic lateral sclerosis. In individuals who smoked, extreme respiratory epithelial cell aging was associated with a 58% higher lung cancer risk compared to smoking alone. Specific cellular vulnerabilities and cumulative cellular aging burden influenced survival, with youthful immune and neuronal cell types conferring protective effects. Finally, we developed a polycellular aging risk score that stratified mortality risk across cohorts and proteomics platforms. These findings establish a framework for quantifying human physiology at cellular resolution, revealing heterogeneous aging trajectories and their impact on disease susceptibility and resilience.</description>
     </item>
     <item>
       <title>Manageable toxicity is not a label — it is an oxymoron</title>
@@ -675,6 +589,26 @@ Journal: Nature Medicine</description>
       <description>Authors: Laura Book
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04422-6</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04422-6</guid>
+
+      <dc:creator>A. Jess Williams</dc:creator>
+      <dc:creator>C. Aubrey Rhodes</dc:creator>
+      <dc:creator>Seonaid Cleare</dc:creator>
+      <dc:creator>Rohan Borschmann</dc:creator>
+      <dc:creator>James J. Gross</dc:creator>
+      <dc:creator>Kate Petrova</dc:creator>
+      <dc:creator>Lauren Posada</dc:creator>
+      <dc:creator>Christopher R. Tench</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: A. Jess Williams, C. Aubrey Rhodes, Seonaid Cleare, Rohan Borschmann, James J. Gross, Kate Petrova, Lauren Posada, Christopher R. Tench, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2267-2276
+
+Abstract: Abstract LGBTQ+ youth commonly have unmet mental health needs and are at elevated risk for self-harm, yet many face persistent institutional barriers to accessing support. One impactful way to reduce risk and promote wellbeing is by supporting emotion regulation; that is, the process by which individuals can influence which emotions they feel, when they feel them and how they experience or express these emotions. This universal, modifiable process is widely considered a key transdiagnostic target for mental ill-health prevention and intervention efforts. We conducted a randomized controlled trial using Purrble, a socially assistive robot designed to provide in-the-moment emotion regulation support through intuitive tactile interaction. Between 12 January and 1 September 2024, 153 LGBTQ+ youth with self-harm ideation were randomized 1:1 to receive Purrble and safety planning (Purrble + SP) or safety planning alone (SP-Only), stratified by gender identity (50.3% transgender/gender diverse). Data were collected over 13 weeks, with data collection closing on 22 October 2024. The primary outcome was perceived emotion regulation difficulties at follow-up, adjusted for baseline, gender identity and age. Participants allocated to the Purrble intervention reported fewer emotion regulation difficulties at follow-up than those allocated to safety planning alone (adjusted mean difference: –3.04; 95% confidence interval (CI): −4.92 to −1.16; P = 0.002; partial η 2 = 0.07). For secondary outcomes, participants in the Purrble intervention also reported significantly lower symptoms of anxiety and depression, but no significant main effect was observed for self-harm. No serious Purrble-related adverse events were observed. Purrble may offer a scalable intervention to complement existing therapeutic approaches to support LGBTQ+ youth to enhance their emotion regulation. ClinicalTrials.gov: NCT06025942 .</description>
     </item>
     <item>
       <title>Savolitinib in MET-amplified gastric or gastroesophageal junction adenocarcinoma: a phase 2 trial</title>
@@ -693,6 +627,72 @@ Journal: Nature Medicine</description>
       <description>Authors: Zhi Peng, Tianshu Liu, Hua Wang, Jufeng Wang, Hongli Liu, Feng Ye, Enxiao Li, Jun Zhang, et al.
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Microglia at a key inflection point in Alzheimer’s disease</title>
+      <link>https://doi.org/10.1038/s41591-026-04409-3</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04409-3</guid>
+
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1983-1984</description>
+    </item>
+    <item>
+      <title>Effects of SGLT2 inhibition on incident heart failure in carriers of cardiomyopathy-associated genetic variants</title>
+      <link>https://doi.org/10.1038/s41591-026-04439-x</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04439-x</guid>
+
+      <dc:creator>Nicholas A. Marston</dc:creator>
+      <dc:creator>Shinwan Kany</dc:creator>
+      <dc:creator>Giorgio E. M. Melloni</dc:creator>
+      <dc:creator>Sean J. Jurgens</dc:creator>
+      <dc:creator>Frederick K. Kamanu</dc:creator>
+      <dc:creator>Yi-Pin Lai</dc:creator>
+      <dc:creator>Joel T. Rämö</dc:creator>
+      <dc:creator>Itamar Raz</dc:creator>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Nicholas A. Marston, Shinwan Kany, Giorgio E. M. Melloni, Sean J. Jurgens, Frederick K. Kamanu, Yi-Pin Lai, Joel T. Rämö, Itamar Raz, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2288-2293
+
+Abstract: Abstract Although the beneficial effects of sodium–glucose cotransporter 2 (SGLT2) inhibition in heart failure (HF) have been well established, it is unknown whether SGLT2 inhibition confers benefit in carriers of rare variants in cardiomyopathy-associated genes. Here we evaluated whole-exome sequencing data from the randomized DECLARE-TIMI 58 trial, in which adults with type 2 diabetes and increased cardiovascular risk were randomized to dapagliflozin or placebo treatment. Pathogenic or likely pathogenic variants (P/LP) in high-confidence cardiomyopathy genes were identified, and treatment effects on hospitalization for HF (HHF) were compared between carriers of such variants and noncarriers. Among 12,685 patients for whom sequence data were obtained, 121 carried a cardiomyopathy variant (76 dilated cardiomyopathy, 25 hypertrophic cardiomyopathy and 25 arrhythmogenic cardiomyopathy). Over a median follow-up of 4.2 years, dapagliflozin lowered the risk of HHF more strongly in carriers (hazard ratio 0.18, 95% confidence interval 0.04–0.86) than in noncarriers (hazard ratio 0.70, 95% confidence interval 0.57–0.86; P interaction 0.03). Absolute risk reduction was 13.0% in carriers and 1.0% in noncarriers ( P interaction 0.03). Most carriers (82%) had no prior HF, and in carriers without prior HF, treatment with dapagliflozin reduced the absolute risk of HHF by 12.8%, compared with a reduction of 0.6% in noncarriers ( P interaction 0.01). The findings from this cohort of older and high-risk patients raise the possibility that SGLT2 inhibitor treatment should be started early to prevent HF in individuals who carry P/LP cardiomyopathy variants. These results need to be confirmed in a prospective, dedicated trial of preventive HF treatments in carriers of P/LP cardiomyopathy-associated variants.</description>
+    </item>
+    <item>
+      <title>Medically tailored meals receipt and healthcare utilization and costs in Massachusetts’ Medicaid demonstration</title>
+      <link>https://doi.org/10.1038/s41591-026-04407-5</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04407-5</guid>
+
+      <dc:creator>Kurt Hager</dc:creator>
+      <dc:creator>Matthew Alcusky</dc:creator>
+      <dc:creator>Fang Fang Zhang</dc:creator>
+      <dc:creator>Gary Sing</dc:creator>
+      <dc:creator>Arlene Ash</dc:creator>
+      <dc:creator>Eric Mick</dc:creator>
+      <dc:creator>Jean Terranova</dc:creator>
+      <dc:creator>Erin DiBacco</dc:creator>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kurt Hager, Matthew Alcusky, Fang Fang Zhang, Gary Sing, Arlene Ash, Eric Mick, Jean Terranova, Erin DiBacco, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2147-2154</description>
+    </item>
+    <item>
+      <title>Human microglial transitions at the Aβ–tau inflection point associate with divergent pathways to dementia and resilience</title>
+      <link>https://doi.org/10.1038/s41591-026-04393-8</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04393-8</guid>
+
+      <dc:creator>Ashley Lu</dc:creator>
+      <dc:creator>Wei-Ting Chen</dc:creator>
+      <dc:creator>Maria Dalby</dc:creator>
+      <dc:creator>Diego Sainz Garcia</dc:creator>
+      <dc:creator>Marisa Vanheusden</dc:creator>
+      <dc:creator>Luuk E. de Vries</dc:creator>
+      <dc:creator>Veerle van Lieshout</dc:creator>
+      <dc:creator>Araks Martirosyan</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ashley Lu, Wei-Ting Chen, Maria Dalby, Diego Sainz Garcia, Marisa Vanheusden, Luuk E. de Vries, Veerle van Lieshout, Araks Martirosyan, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2047-2059
+
+Abstract: Abstract Alzheimer’s disease (AD) is not an inevitable outcome of pathology but a dynamic process shaped by how brain cells respond to amyloid-β (Aβ) and tau. To disentangle these responses, we combined spatial transcriptomics and single-nucleus RNA sequencing of the superior frontal cortex from octogenarians living with or without dementia and from cognitively intact centenarians with comparable Aβ accumulation. We identified six distinct tissue domains representing a spatial pathological continuum of AD, with a key inflection point marked by a shift from Aβ-associated inflammatory changes to tau-associated cellular programs. This transition was accompanied by a change in microglial states, from early inflammatory to late antigen-presenting phenotypes, termed early and late plaque-induced gene (PIG) programs. Resilient individuals showed distinct pathological patterns: octogenarians without dementia lacked late PIGs, whereas centenarians showed late PIG activation that was uncoupled from tau accumulation. Together, these findings highlight divergent resilience-associated mechanisms in human aging and position microglial state transitions at the Aβ−tau interface as candidate points of resilience with potential therapeutic relevance.</description>
     </item>
     <item>
       <title>Downplaying toxicities in cancer drug trials is not acceptable</title>
@@ -729,7 +729,7 @@ Journal: Nature Medicine</description>
       <guid isPermaLink="false">10.1038/s41591-026-04451-1</guid>
 
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1991-1992</description>
     </item>
     <item>
       <title>From donor lungs to digital twins</title>
@@ -773,7 +773,7 @@ Journal: Nature Medicine</description>
       <guid isPermaLink="false">10.1038/s41591-026-04458-8</guid>
 
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1987-1988</description>
     </item>
     <item>
       <title>What Utah’s clinical AI sandbox reveals about independent oversight</title>
@@ -819,7 +819,7 @@ Journal: Nature Medicine</description>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Priscilla Merriam, James J. Morrow, Emanuele Mazzola, Nicole L. Solimini, Prafulla C. Gokhale, Ping Chi, Alice P. Chen, Mark Agulnik, et al.
 
-Journal: Nature Medicine
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2191-2200
 
 Abstract: Abstract While most gastrointestinal stromal tumors are driven by oncogenic mutations in KIT or PDGFRA , 10–15% exhibit functional loss of the succinate dehydrogenase (SDH) complex and genome-wide DNA hypermethylation. Excess methylation in SDH-deficient gastrointestinal stromal tumors disrupts genomic insulators, inducing aberrant expression of oncogenic ligands FGF3 , FGF4 , and activating an autocrine signaling loop mediated through FGFR1. We conducted a phase 2 trial of pan-fibroblast growth factor receptor inhibitor rogaratinib in patients with sarcoma and report here on the cohort of patients with advanced SDH-deficient GIST. The primary objective was to estimate objective response rate. Secondary objectives were to estimate progression-free survival (PFS) and assess safety and tolerability. Exploratory objectives were to evaluate serial measurements of FGF3 and FGF4 and fibroblast growth factor receptors in serial biopsies, to perform whole-exome sequencing in serial biopsies and to explore rogaratinib exposure with pharmacodynamic effects. Twenty-four patients received rogaratinib and ten experienced partial responses for an objective response rate of 41.7%. Median PFS was 31.0 months (95% confidence interval 20.2–not reached), and 1-year PFS was 77.4% (95% confidence interval 61.7–97.1). Toxicities were manageable and included hyperphosphatemia, fatigue and diarrhea. Elevations in phosphorous were seen across the cohort, consistent with target engagement of FGFR1. Whole-exome and next-generation sequencing revealed alterations in the SDH subunit coding genes ( SDHx ) as expected. This trial illustrates a successful demonstration of targeted cancer therapy predicated on an epigenetic mechanism of oncogene activation. Clinicaltrials.gov identifier: NCT04595747 .</description>
     </item>
@@ -838,7 +838,7 @@ Abstract: Abstract While most gastrointestinal stromal tumors are driven by onco
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Helena Teede, Rachel Morman, Anuja Dokras, Mahnaz Bahri Khomami, Terhi Piltonen, Robert Norman, Elisabet Stener-Victorin
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1956-1957</description>
     </item>
     <item>
       <title>AI-induced never-skilling in medical education</title>
@@ -856,7 +856,7 @@ Journal: Nature Medicine</description>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Yuhe Ke, Liyuan Jin, Jasmine Chiat Ling Ong, Arun J. Thirunavukarasu, Josip Car, Carol Y. Cheung, Yih Chung Tham, Daniel Shu Wei Ting, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1997-2006</description>
     </item>
     <item>
       <title>Semaglutide versus placebo in individuals with poor weight loss after bariatric surgery: a double-blinded, randomized, placebo-controlled trial</title>
@@ -899,7 +899,7 @@ Journal: Nature Medicine</description>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Nelli Westercamp, John E. Gimnig
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1981-1982</description>
     </item>
     <item>
       <title>Resetting autoimmune disease with CAR cell therapies</title>
@@ -911,7 +911,7 @@ Journal: Nature Medicine</description>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Georg Schett, Huji Xu
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2007-2016</description>
     </item>
     <item>
       <title>Pathogenic germline variations and cancer risks in pediatric patients referred for genetic testing</title>
@@ -929,7 +929,7 @@ Journal: Nature Medicine</description>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Huijun Wang, Xinran Dong, Feifan Xiao, Gen Li, Yulan Lu, Mengyuan Qiao, Bingbing Wu, Qi Ni, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2238-2244</description>
     </item>
     <item>
       <title>An AI framework for multi-disease detection via retinal imaging</title>
@@ -973,7 +973,7 @@ Journal: Nature Medicine</description>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Ivan Martinez-Valbuena, Maziar Emamikhah, Diana A. Olszewska, Sandrina K. Weber, Susana Schnell, Seyed-Mohammad Fereshtehnejad, Nikolai Gil D. Reyes, Mario Sousa, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2073-2082</description>
     </item>
     <item>
       <title>Bridging the gap in TB case detection</title>
@@ -995,7 +995,7 @@ Journal: Nature Medicine</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Ali T. Taher
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1958-1958</description>
     </item>
     <item>
       <title>What Galen’s dissections reveal about tacit learning in modern medical education</title>
@@ -1045,7 +1045,7 @@ Journal: Nature Medicine</description>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Dingge Ying, Ching-Lung Cheung, Chun-Kwan O, Wai Kei Jacky Lam, Shiu Lun Au Yeung, Chak Sing Lau, Ho Ming Luk, Christopher Kai Shun Leung, et al.
 
-Journal: Nature Medicine
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2277-2287
 
 Abstract: Abstract The Hong Kong Genome Project (HKGP) aims to build a foundational resource for precision medicine in the Chinese population through large-scale genome sequencing and integrated analyses. Here we report findings from over 20,000 HKGP participants across two cohorts: a rare disease cohort including 2,227 patients with suspected genetic diseases and a population cohort including 18,261 participants undergoing genomic screening for medically actionable findings. The rare disease cohort achieved a diagnostic rate of 25%. When benchmarked against panels designed for European ancestries, the analysis revealed that 3.7% of the individuals in the population cohort had pathogenic or likely pathogenic variants associated with dominant disorders. While 48% of individuals were found to carry recessive disorder genes in the gene list based upon European ancestries, our analysis revealed that 38 additional clinically important genes would have been overlooked in the Chinese population. Pharmacogenomic analysis demonstrated that nearly all participants harbored at least one actionable phenotype, potentially informing nearly one million annual prescriptions in Hong Kong. The ongoing HKGP establishes a curated Hong Kong Chinese reference for clinically relevant genetic variation and serves as a blueprint for the implementation of precision medicine in underrepresented populations.</description>
     </item>
@@ -1065,7 +1065,7 @@ Abstract: Abstract The Hong Kong Genome Project (HKGP) aims to build a foundatio
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: John D. Arena, William Stewart, Andrea L. C. Schneider, John L. Robinson, Rebecca P. Donahue, David J. Irwin, David A. Wolk, Edward B. Lee, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2037-2046</description>
     </item>
     <item>
       <title>Abatacept versus hydroxychloroquine for prevention of rheumatoid arthritis in individuals with palindromic rheumatism: a randomized open-label trial</title>
@@ -1103,7 +1103,7 @@ Abstract: Abstract A substantial proportion of individuals with palindromic rheu
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Sarah Mount, Emanuel E. Canfora, Johan W. Jocken, Alexander Umanets, Gabby Hul, Miranda Coenjaerds, Paula Aldaz Laquidain, Michiel E. Adriaens, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2107-2116</description>
     </item>
     <item>
       <title>Framework for the pharmacological treatment of obesity and its complications from the European Association for the Study of Obesity (EASO): 2026 update</title>
@@ -1121,7 +1121,7 @@ Journal: Nature Medicine</description>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Andreea Ciudin, Jennifer L. Baker, Andrej Belančić, Luca Busetto, Dror Dicker, Ľubomíra Fábryová, Gema Frühbeck, Gijs H. Goossens, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1962-1966</description>
     </item>
     <item>
       <title>Orforglipron for maintenance of body weight reduction: the double-blind, randomized phase 3b ATTAIN-MAINTAIN trial</title>
@@ -1152,7 +1152,7 @@ Abstract: Abstract Incretins have improved the management of obesity and its rel
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Jasia Mahdi
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1979-1980</description>
     </item>
     <item>
       <title>Data-Driven Decision Support in Obesity Management Commission: enabling more equitable and personalized obesity care</title>
@@ -1167,7 +1167,7 @@ Journal: Nature Medicine</description>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Paul W. Franks, Sara G. I. Suliman, Nicholas J. Timpson, Claudia Langenberg, Carel W. le Roux
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1959-1961</description>
     </item>
     <item>
       <title>A new treatment for preterm pre-eclampsia could benefit mother and child</title>
@@ -1179,7 +1179,7 @@ Journal: Nature Medicine</description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Meryam Sugulle, Anne Cathrine Staff
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1977-1978</description>
     </item>
     <item>
       <title>The microRNA inhibitor CDR132L in patients with reduced left ventricular ejection fraction after myocardial infarction: a randomized phase 2 trial</title>
@@ -1225,7 +1225,7 @@ Journal: Nature Medicine</description>
       <guid isPermaLink="false">10.1038/s41591-026-04403-9</guid>
 
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1993-1994</description>
     </item>
     <item>
       <title>Author Correction: Benralizumab versus placebo for hypereosinophilic syndrome: a randomized, placebo-controlled phase 3 trial</title>
@@ -1243,7 +1243,7 @@ Journal: Nature Medicine</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Princess U. Ogbogu, Florence Roufosse, Praveen Akuthota, Piotr Kuna, Matthieu Groh, Andreas Reiter, Akira Yokota, Salman H. Siddiqui, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2319-2319</description>
     </item>
     <item>
       <title>Multinational validation of the PREVENT and SCORE2 cardiovascular risk equations across 6.4 million individuals</title>
@@ -1471,7 +1471,7 @@ Journal: Nature Medicine; Volume: 32; Issue: 5; Pages: 1592-1593</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <description>Authors: Carrie Arnold
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1940-1941</description>
     </item>
     <item>
       <title>A data-driven risk stratification framework for clinical obesity</title>
@@ -1479,7 +1479,7 @@ Journal: Nature Medicine</description>
       <guid isPermaLink="false">10.1038/s41591-026-04370-1</guid>
 
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1989-1990</description>
     </item>
     <item>
       <title>Data-driven prioritization of high-risk individuals for weight loss interventions</title>
@@ -1497,7 +1497,7 @@ Journal: Nature Medicine</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <description>Authors: Kamil Demircan, Julia Carrasco-Zanini, Alice Williamson, Carl Beuchel, Linsey Jackson, Werner Römisch-Margl, Aleksander L. Hansen, Sarah Finer, et al.
 
-Journal: Nature Medicine
+Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2117-2127
 
 Abstract: Abstract New obesity medications have demonstrated efficacy in trials, but their real-world deployment is partly limited by the absence of approaches that identify individuals for treatment based on risks for obesity-related complications. Here we present a risk prediction model to guide prioritization of high-risk individuals. In a population-based sample of ~200,000 individuals with a body mass index (BMI) exceeding 27 kg m − 2 , our machine learning framework identified the 20 most informative features, from among thousands tested, that predict future onset of 18 complications of obesity, providing information beyond BMI. An integrated model (OBSCORE) successfully stratified individuals into risk groups based on incidence over 10 years: for example, 5.7%, 1.8%, 0.9%, 0.4% and 0.1% for cardiovascular mortality. We demonstrate generalizability of the model in independent populations of European and non-European ancestry and, in SURMOUNT-1 trial participants, show that weight loss was similar across baseline OBSCORE risk groups and that predicted risks decreased following treatment with tirzepatide. In summary, OBSCORE provides a framework for prioritizing high-risk individuals with overweight or obesity based on their risk of obesity-related complications, complementing BMI-based frameworks.</description>
     </item>
