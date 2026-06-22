@@ -5,8 +5,28 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 10:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:27:52 +0000</lastBuildDate>
 
+    <item>
+      <title>A measurement comparability study to support instrument harmonization in the Canadian longitudinal study on aging</title>
+      <link>https://doi.org/10.1093/aje/kwag137</link>
+      <guid isPermaLink="false">10.1093/aje/kwag137</guid>
+
+      <dc:creator>Talha Rafiq</dc:creator>
+      <dc:creator>Lauren E Griffith</dc:creator>
+      <dc:creator>Parminder Raina</dc:creator>
+      <dc:creator>Christina Wolfson</dc:creator>
+      <dc:creator>Susan A Kirkland</dc:creator>
+      <dc:creator>Cynthia Balion</dc:creator>
+      <dc:creator>Andrew P Costa</dc:creator>
+      <dc:creator>Varun Chaudhary</dc:creator>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Talha Rafiq, Lauren E Griffith, Parminder Raina, Christina Wolfson, Susan A Kirkland, Cynthia Balion, Andrew P Costa, Varun Chaudhary, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag137
+
+Abstract: Abstract Longitudinal studies are essential for understanding health trajectories, but necessary upgrades to measurement instruments over time may compromise data comparability. The Canadian Longitudinal Study on Aging conducted a measurement comparability study to quantify systematic differences between instruments and derive conversion equations to correct for any differences. Overall, 50 participants aged ≥ 45 years (52% females) underwent repeated assessments with old and new instruments including the blood pressure monitor, electrocardiogram (ECG), carotid ultrasound, spirometer, audiometer, tonometer, and dynamometer. Linear mixed-effects models were used to identify systematic differences. Cohen’s d was used to assess standardized mean difference, Bland–Altman plots evaluated agreement between instruments, and repeatability was assessed within instruments. Mixed-effects models showed no clinically meaningful difference across instruments, except for systolic blood pressure (SBP), which was on average 5.19 mmHg (95% CI, 2.64, 7.74) higher using the new instrument. Cohen’s d demonstrated moderate systematic differences for several measures. Repeatability estimates showed good-to-excellent reliability for most measures; however, certain ECG and tonometer parameters showed moderate or poor precision. The results support the utility of conversion equations to account for systematic differences between instruments. The difference in SBP warrants the implementation of a conversion equation, whereas it is unclear for measures with moderate differences.</description>
+    </item>
     <item>
       <title>Attending an Historically Black College or University and all-cause mortality in US Black adults</title>
       <link>https://doi.org/10.1093/aje/kwag141</link>
@@ -1741,26 +1761,6 @@ Abstract: Abstract Extreme Risk Protection Orders (ERPOs) are state laws intende
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1739-1748
 
 Abstract: Abstract Primary care providers may consider referring patients with cognitive impairment to clinicians specializing in memory care. We evaluated whether referrals are associated with quality-of-care and diagnostic outcomes, comparing estimates based on traditional and instrumental variable (IV) analyses. Analyses included individuals diagnosed with memory loss, mild cognitive impairment, or Alzheimer’s disease and related dementias in a single healthcare system after 2005. Electronic health records were used to define referral to specialists and primary care provider preference (instrument) for referring. We modeled traditional and IV associations between referral to care and 14 patient-centered outcomes over 5 years of follow-up using adjusted Aalen additive hazards models. Overall, 1019 (15%) older adults were referred at diagnosis. Preference strongly predicted actual referral (F-statistic = 637). Referral was observationally associated with increased cumulative hazard of receiving a more specific cognitive diagnosis (hazard difference at year 5: 0.09 [95% CI, 0.04-0.15]) and depression (0.09 [95% CI, 0.01-0.18]). Using IV, referral was significantly associated with decreased hazard of International Classification of Diseases-defined weight loss (–0.35 [95% CI, –0.60 to –0.09]); other estimates were imprecise and consistent with possible benefits or harms. Given barriers in accessing specialty care, it is critical to further investigate how specialty care affects outcomes of individuals with living with cognitive impairment.</description>
-    </item>
-    <item>
-      <title>Social determinants of health across the lifecourse and chronic disease risk: available data and seminal findings from the Atherosclerosis Risk in Communities (ARIC) Study</title>
-      <link>https://doi.org/10.1093/aje/kwag045</link>
-      <guid isPermaLink="false">10.1093/aje/kwag045</guid>
-
-      <dc:creator>Anna M Kucharska-Newton</dc:creator>
-      <dc:creator>Ganga S Bey</dc:creator>
-      <dc:creator>Pamela L Lutsey</dc:creator>
-      <dc:creator>Jeremy R Van’t Hof</dc:creator>
-      <dc:creator>Qian Xiao</dc:creator>
-      <dc:creator>Anna Prizment</dc:creator>
-      <dc:creator>Elizabeth Selvin</dc:creator>
-      <dc:creator>Priya Palta</dc:creator>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Anna M Kucharska-Newton, Ganga S Bey, Pamela L Lutsey, Jeremy R Van’t Hof, Qian Xiao, Anna Prizment, Elizabeth Selvin, Priya Palta, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag045
-
-Abstract: Abstract This review article provides a summary of findings on the social determinants of chronic disease prevalence, incidence, and mortality from the Atherosclerosis Risk in Communities (ARIC) Study, a community surveillance of coronary heart disease conducted in 4 geographically distinct US communities from 1987 through 2014 and an ongoing longitudinal cohort of 15 792 men and women recruited from those communities. The ARIC Community Surveillance Study documented the contribution of poor neighborhood socioeconomic status to trends in heart disease and to disparities in associated medical care. Data from members of the ARIC Study cohort provide evidence on the importance of neighborhood- and individual-level social determinants to the prevalence of cardiovascular risk factors and to the burden of cardiovascular disease and mortality, dementia, and kidney disease. Findings from the unique ARIC Lifecourse Socioeconomic Study conducted within the ARIC cohort underscore the importance of socioeconomic exposures across the lifecourse to the prevention of chronic disease. The rich ARIC data on neighborhood deprivation, environmental exposures, physical and built environments, and racial and economic segregation provide a foundation for innovative methodological approaches that integrate demographic, socioeconomic, behavioral, and clinical risk factors—enabling researchers to identify optimal targets for effective chronic disease prevention.</description>
     </item>
   </channel>
 </rss>
