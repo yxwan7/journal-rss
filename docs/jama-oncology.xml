@@ -5,7 +5,7 @@
     <link>https://jamanetwork.com/journals/jamaoncology</link>
     <description>Latest journal articles for JAMA Oncology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 10:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:55:29 +0000</lastBuildDate>
 
     <item>
       <title>Survival in the SONIA Trial—Reply</title>
@@ -1211,6 +1211,17 @@ Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 497
 Abstract: Importance Pancreatic ductal adenocarcinoma (PDAC) is a leading cause of cancer deaths in the US. Although early detection improves survival, the rarity of the disease has rendered population screening a difficult approach. Objective To develop and validate a parsimonious, interpretable, and generalizable model predicting incident PDAC—termed PRIME (PDAC Risk Model for Earlier Detection)—using routinely available electronic health record (EHR) data. Design, Setting, and Participants This cohort study used the Optum Labs Data Warehouse, a longitudinal, deidentified US EHR and claims database. Adults 40 years or older with an outpatient clinical encounter between 2016 and 2018 were included. Participants from 23 health systems (n = 4 859 833) comprised the training cohort; 31 additional systems (n = 5 619 091) served as validation. International validation was conducted in the UK Biobank (n = 498 754). Data analysis occurred July 2025 to January 2026. Exposures Demographics, diagnosis codes, and routinely measured laboratory values were evaluated. Elastic-net regularization with 10-fold cross-validation selected the predictor set. Main Outcomes and Measures Incident PDAC was identified by International Classification of Diseases, Ninth and Tenth Revisions (ICD-9/10) codes. Model performance was assessed using time-dependent area under the curve (AUC) and calibration metrics. Results Overall, the study included more than 11 million adults (2.1% Asian individuals, 8.4% Black individuals, 4.3% Hispanic/Latino individuals, 82.7% White individuals, and 2.4% other race/ethnicity by EHR reporting). In the training cohort (mean [SD] age, 60.4 [11] years), 14 405 individuals were diagnosed with PDAC (incidence 55 per 100 000 person-years) over a mean (SD) of 5.4 (2.5) years; in the validation cohort, 11 693 individuals were diagnosed with PDAC (54 per 100 000 person-years) over a mean (SD) of 3.9 (2.5) years. PRIME retained 19 predictors including history of pancreatitis, gastrointestinal disorders, prior cancers, type 2 diabetes, elevated aspartate aminotransferase levels, smoking, non–type-O blood, and male sex. Discrimination was strong at the 36-month time horizon (AUC = 0.75 in both the training and validation cohorts) with good calibration. In the validation cohort, patients in the top 1% of predicted risk had substantially higher PDAC risk (HR, 7.63; 95% CI, 6.85-8.49) compared with average-risk patients. In the UK Biobank, PRIME achieved a 36-month AUC of 0.71 with good calibration. Conclusions and Relevance In this validation cohort study, PRIME was a transparent EHR-based model that effectively stratified PDAC risk across diverse US health systems and generalized internationally. Prospective studies should evaluate for EHR-guided PDAC case-finding and integration with blood-based early-detection assays.</description>
     </item>
     <item>
+      <title>The Vocabulary of Survival</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.0203</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.0203</guid>
+
+      <dc:creator>Zhaohui Su</dc:creator>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zhaohui Su
+
+Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 534</description>
+    </item>
+    <item>
       <title>Implementing Cancer Medicines on the WHO Model Lists of Essential Medicines Into National Systems</title>
       <link>https://doi.org/10.1001/jamaoncol.2025.6339</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2025.6339</guid>
@@ -1223,17 +1234,6 @@ Abstract: Importance Pancreatic ductal adenocarcinoma (PDAC) is a leading cause 
 Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 443
 
 Abstract: This Viewpoint discusses national systems implementation of cancer medicines included in the WHO Model Lists of Essential Medicines.</description>
-    </item>
-    <item>
-      <title>The Vocabulary of Survival</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0203</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0203</guid>
-
-      <dc:creator>Zhaohui Su</dc:creator>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zhaohui Su
-
-Journal: JAMA Oncology; Volume: 12; Issue: 5; Pages: 534</description>
     </item>
     <item>
       <title>JAMA Oncology</title>

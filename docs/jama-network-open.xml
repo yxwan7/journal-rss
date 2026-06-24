@@ -5,8 +5,168 @@
     <link>https://jamanetwork.com/journals/jamanetworkopen</link>
     <description>Latest journal articles for JAMA Network Open</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 10:06:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:54:32 +0000</lastBuildDate>
 
+    <item>
+      <title>Development and Implementation of an AI System for Generating Clinical Urine Drug Test Sign-Outs</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.19816</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.19816</guid>
+
+      <dc:creator>Nathan Laha</dc:creator>
+      <dc:creator>Michael Keebaugh</dc:creator>
+      <dc:creator>Hsuan-Chieh Liao</dc:creator>
+      <dc:creator>Bright Amankwaa</dc:creator>
+      <dc:creator>Olumuyiwa Adesoye</dc:creator>
+      <dc:creator>Abed Pablo</dc:creator>
+      <dc:creator>William S. Phipps</dc:creator>
+      <dc:creator>Andrew N. Hoofnagle</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Nathan Laha, Michael Keebaugh, Hsuan-Chieh Liao, Bright Amankwaa, Olumuyiwa Adesoye, Abed Pablo, William S. Phipps, Andrew N. Hoofnagle, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2619816
+
+Abstract: Importance Modern natural language processing tools have potential to improve clinical workflows, but few have been successfully deployed in practice. Objective To describe the development, deployment, and evaluation of an artificial intelligence (AI) language tool for generating preliminary sign-outs to support a urine drug testing service. Design, Setting, and Participants In this prognostic study, large language models (LLMs) were used to extract substance use patterns from clinical urine drug test interpretations at a single medical center between January 1, 2014, and February 29, 2024. An AI model using these data was trained to predict substance use from qualitative and quantitative urine testing results. Predicted substance use patterns were used to create preliminary clinical sign-out statements, which were then integrated into an existing clinical workflow. Main Outcomes and Measures Predeployment and postdeployment user studies were performed to evaluate model performance and user experience within the workflow. Statistical differences between event rates were calculated using χ 2 tests, and between means using t tests. Differences between human and LLM labelers were calculated using the McNemar test. Results A total of 83 553 urine tests from 26 459 patients (12 413 male [46.9%]; mean [SD] age, 47.5 [16.7] years) were analyzed. LLM-based extraction of substance-use patterns was 99.9% accurate (13 509 of 13 520 tests), outperforming human labeling. Substance use prediction was similarly accurate, with area under the receiver operating curve greater than 0.99 for 23 of 26 substances. Workflow integration of the AI tool reduced clinical sign-out times by 28.5 seconds per case (23% efficiency gain), and by 65 seconds per case (51% efficiency gain) when integrated alongside a second, non-AI workflow improvement. Conclusions and Relevance In this prognostic study, AI-based interpretation of urine drug testing was fast and accurate, providing notable efficiency gains to the clinical service. These findings suggest that natural language processing tool integration can provide substantial clinical benefit, without compromising quality of care.</description>
+    </item>
+    <item>
+      <title>Why the Test-Negative Design Is Used for Routine Vaccine Monitoring</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.25157</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.25157</guid>
+
+      <dc:creator>Natalie Dean</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Natalie Dean
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2625157</description>
+    </item>
+    <item>
+      <title>Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.25152</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.25152</guid>
+
+      <dc:creator>Ryan E. Wiegand</dc:creator>
+      <dc:creator>Sean Chickery</dc:creator>
+      <dc:creator>Duck-Hye Yang</dc:creator>
+      <dc:creator>Sarah W. Ball</dc:creator>
+      <dc:creator>Malini B. DeSilva</dc:creator>
+      <dc:creator>Kristin Dascomb</dc:creator>
+      <dc:creator>Stephanie A. Irving</dc:creator>
+      <dc:creator>Karthik Natarajan</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ryan E. Wiegand, Sean Chickery, Duck-Hye Yang, Sarah W. Ball, Malini B. DeSilva, Kristin Dascomb, Stephanie A. Irving, Karthik Natarajan, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2625152
+
+Abstract: Importance The 2025-2026 COVID-19 vaccine, targeting JN.1 and JN.1-derived sublineages, became available in the US in September 2025. Objective To assess the estimated interim effectiveness of 2025-2026 COVID-19 vaccines against medically attended COVID-19 among immunocompetent adults aged 18 years or older in the US. Design, Setting, and Participants This case-control study used a test-negative design to investigate patient encounters captured in the Virtual SARS-CoV-2, Influenza, and Other Respiratory Viruses Network, an electronic medical record–based network of health care systems (253 emergency departments/urgent cares [ED/UCs] and 179 hospitals in 7 states) from September 3, 2025, to December 31, 2025. Patient encounters with COVID-19–like illness and a molecular or antigen SARS-CoV-2 test 10 days before to 3 days after the encounter date were included. Exposure 2025-2026 COVID-19 vaccination regardless of prior COVID-19 vaccination. Main Outcomes and Measures The main outcomes were COVID-19–associated ED/UC encounters and COVID-19–associated hospitalizations. Cases were defined as encounters with a positive molecular or antigen SARS-CoV-2 test and controls as encounters with a negative molecular SARS-CoV-2 test. The odds of 2025-2026 COVID-19 vaccination among cases and controls, adjusting for confounders, were compared and used to estimate vaccine effectiveness (VE) as (1 − adjusted odds ratio) × 100%. Results In 85 725 ED/UC encounters among adults aged 18 years and older (51 841 [60%] aged 18-64 years; 51 775 female [60%]), 206 of 3941 cases (5%) and 9453 of 81 784 controls (12%) received a 2025-2026 COVID-19 vaccination. Estimated VE against COVID-19–associated ED/UC encounters was 50% (95% CI, 42%-57%; median [IQR] time since 2025-2026 COVID-19 vaccine dose receipt, 47 [27-69] days). In 26 073 hospitalizations with a COVID-19–like illness (17 530 [67%] aged ≥65 years; 13 985 female [54%]), 60 of 1022 cases (6%) received a 2025-2026 COVID-19 vaccination compared with 3080 of 25 051 controls (12%). Estimated VE against COVID-19–associated hospitalization was 55% (95% CI, 41%-66%; median [IQR] time since 2025-2026 COVID-19 vaccine dose receipt, 46 [26-68] days). Among patients aged 65 years or older, estimated VE against ED/UC encounters was 48% (95% CI, 37%-56%; median [IQR] time since dose receipt, 48 [27-69] days; 33 884 encounters) and against hospitalization was 53% (95% CI, 37%-65%; median [IQR] time since dose receipt, 46 [26-69] days; 17 530 hospitalizations). Conclusions and Relevance In this study, receipt of 2025-2026 COVID-19 vaccination was associated with additional protection beyond existing immunity in adults against medically attended COVID-19, including ED/UC encounters and hospitalizations, compared with no receipt of a 2025-2026 vaccine dose. These findings suggest that adults can reduce their likelihood of severe COVID-19–associated outcomes by obtaining a 2025-2026 COVID-19 vaccination.</description>
+    </item>
+    <item>
+      <title>Environmental Menu Labels and Food Selection Among US Adults</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.19650</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.19650</guid>
+
+      <dc:creator>Alexandria E. Reimold</dc:creator>
+      <dc:creator>Julia A. Wolfson</dc:creator>
+      <dc:creator>Brittany Lemmon</dc:creator>
+      <dc:creator>Aviva A. Musicus</dc:creator>
+      <dc:creator>Brent F. Kim</dc:creator>
+      <dc:creator>Nina M. Carr</dc:creator>
+      <dc:creator>Raychel Santo</dc:creator>
+      <dc:creator>Clara Cho</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alexandria E. Reimold, Julia A. Wolfson, Brittany Lemmon, Aviva A. Musicus, Brent F. Kim, Nina M. Carr, Raychel Santo, Clara Cho, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2619650
+
+Abstract: Importance Food systems account for approximately one-third of global greenhouse gas emissions (GHGE), and many foods with high GHGE pose risks to human health. Environmental impact (eg, climate) labels on restaurant menus may promote lower GHGE and higher nutritional quality food choices. Objective To compare the efficacy of climate labels on the GHGE and nutritional quality of food choices. Design, Setting, and Participants This online randomized clinical trial was conducted using a menu based on a US fast food chain between December 2024 and February 2025. Participants included US adults aged 18 years or older. Analyses were conducted between February and April 2025. Intervention Participants were randomized to 1 of 6 label conditions: (1) control, (2) environmental cost (GHGE represented as a monetary cost), (3) climate grade (GHGE represented as a grade [eg, A to F, with A representing the lowest GHGE]), (4) climate grade plus scale (GHGE represented as a grade accompanied by a scale showing all possible grades), (5) high climate impact on items with high GHGE, and (6) warning high climate impact on items with high GHGE. Participants ordered from a fast food menu displaying their assigned label next to applicable items. Main Outcomes and Measures Primary outcomes include the selection of an item with high climate impact and GHGE of menu orders. Secondary outcomes include Nutrient Profile Index (NPI) score and nutrients of menu orders and participant perceptions. Results This study included 10 342 participants (mean [SD] age: 46.4 [16.9] years; 53% women). Participants in the climate grade (825 of 1721 [48%]; P = .02), climate grade plus scale (787 of 1719 [46%]; P &amp;amp;amp;lt; .001), high climate impact (777 of 1724 [45%]; P &amp;amp;amp;lt; .001), and warning high climate impact (817 of 1725 [47%]; P = .01) conditions were significantly less likely to select an item with a high climate impact than those in the control condition (920 of 1728 [53%]). Participants in the climate grade plus scale (mean GHGE, 16.3 [95% CI, 15.5-17.2] kg CO 2 equivalent, adjusted P &amp;amp;amp;lt; .001) and high climate impact (mean GHGE, 16.9 [95% CI, 16.0-17.8] kg CO 2 equivalent, adjusted P = .04) conditions selected items with lower GHGE than those in the control condition (mean GHGE, 18.8 [95% CI, 17.9-19.6] kg CO 2 equivalent). NPI scores did not differ among label conditions, but participants in the climate grade plus scale condition selected items with less saturated fat than those in the control condition (11.8 g vs 12.6 g; adjusted P = .04). Although there were no significant differences between the environmental cost and control labels for primary or secondary nutrition outcomes, when viewing labels in isolation, participants perceived the environmental cost label as the most discouraging of selecting high climate impact items (mean score, 3.0 [95% CI, 2.9-3.1]; P &amp;amp;amp;lt; .001). Conclusions and Relevance This randomized clinical trial’s findings suggest that using climate labels on restaurant menus, particularly climate grade plus scale designs, may decrease climate impact and improve nutrition of restaurant orders. Future research is needed on environmental cost label designs and climate label use in real restaurant settings. Trial Registration ClinicalTrials.gov Identifier: NCT06651060</description>
+    </item>
+    <item>
+      <title>Neighborhood Disinvestment and Racial Disparities in Early Hypertension Onset Among Women</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.19845</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.19845</guid>
+
+      <dc:creator>Elleni M. Hailu</dc:creator>
+      <dc:creator>Alexis N. Reeves</dc:creator>
+      <dc:creator>Tara McAlexander</dc:creator>
+      <dc:creator>Suzanne Judd</dc:creator>
+      <dc:creator>Michelle C. Odden</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elleni M. Hailu, Alexis N. Reeves, Tara McAlexander, Suzanne Judd, Michelle C. Odden
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2619845
+
+Abstract: Importance Although Black women are known to have higher hypertension rates than White women, longitudinal investigations of racial disparities in early hypertension onset and the role of neighborhood factors in shaping these differences are severely limited. Objective To quantify racial disparities in early hypertension onset among women and examine the degree to which these disparities vary across levels of neighborhood socioeconomic disinvestment. Design, Setting, and Participants This study used data from women participating in the Reasons for Geographic and Racial Differences in Stroke (REGARDS) study, a national longitudinal cohort study. Participants were recruited between 2003 and 2007. Data analyses were carried out from January to August 2025. Exposures Self-reported race and ethnicity and level of neighborhood (ie, census-tract) socioeconomic disinvestment (low, moderate, or high), determined using a summary score of 6 socioeconomic indicators from US Census Bureau data. Main Outcomes and Measures The primary outcome was age of hypertension onset, which was based on age at self-reported physician diagnosis or measured high blood pressure (≥140 mm/Hg systolic or ≥90 mm/Hg diastolic). Weibull accelerated failure time models with age as the time scale were used to estimate racial differences in age of hypertension onset, accounting for left, interval, and right censoring. Estimates were adjusted for individual-level sociodemographic characteristics and health-related factors. Models evaluating disparities across neighborhood disinvestment additionally accounted for neighborhood clustering and rurality. Results There were 15 313 women included in the study (mean [SD] age at baseline, 64 [9.5] years), of which 7079 (46.2%) self-identified as Black and 8234 (53.8%) self-identified as White. Black women acquired hypertension a median of 9.6 (95% CI, 9.0 to 10.2) years earlier than White women, independent of sociodemographic factors. Inequities persisted across levels of neighborhood disinvestment. In neighborhoods with low disinvestment Black women had hypertension a median of 9.2 (8.2 to 10.3) years earlier than White women. Within highly disinvested neighborhoods, hypertension occurred a median of 8.0 (95% CI, 6.9 to 9.1) years earlier in Black than White women. Conclusions and Relevance In this cohort study, earlier hypertension onset experienced by Black compared with White women persisted regardless of neighborhood context, even after controlling for a wide range of covariates.</description>
+    </item>
+    <item>
+      <title>Reporting of Rurality, Deprivation, and Socioeconomic Characteristics in Cancer Clinical Trials</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.19836</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.19836</guid>
+
+      <dc:creator>Joseph M. Unger</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Joseph M. Unger
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2619836
+
+Abstract: Importance The composition of clinical trial populations influences the interpretation and generalizability of cancer trial results. The extent to which geographic and socioeconomic characteristics are reported in primary cancer clinical trial publications is unknown. Objective To evaluate the frequency and temporal trends in reporting of geographic, socioeconomic, and demographic characteristics in primary publications of US-based randomized cancer clinical trials. Design, Setting, and Participants This systematic review included US-based randomized phase II or III cancer treatment trials published in high-impact peer-reviewed journals from 2020 to 2025. Using prespecified search strategies and eligibility criteria, primary trial reports were identified. Data were abstracted on reporting of rurality, area-level deprivation, insurance status, income, education, age, sex, race, and ethnicity. Main Outcomes and Measures Overall prevalence and temporal trends in reporting of geographic, socioeconomic, and demographic characteristics. Results Among 6681 reviewed trials, 441 met inclusion criteria. Reporting of age and sex was nearly universal. Reporting of race and ethnicity was common, with 365 trials (82.8%) reporting more than 1 category. The most frequently reported race variables were White (356 [80.7%]), Asian (330 [74.8%]), and Black (320 [72.6%]); Hispanic ethnicity was reported in 140 trials (31.8%). Reporting of any race or ethnicity increased from 62.3% (38 of 62) in 2020 to 93.9% (77 of 82) in 2025. In contrast, no trials reported rurality, income, or area deprivation; 2 reported education, and 1 reported insurance. Conclusions In this systematic review of 441 US-based randomized cancer clinical trials, geographic and socioeconomic characteristics were rarely reported despite increasing attention to social determinants of health. Limited reporting of these characteristics may constrain assessment of trial generalizability and interpretation across diverse populations and care settings.</description>
+    </item>
+    <item>
+      <title>Maternal Cardiovascular Health During Pregnancy and Offspring Developmental Delay</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.18804</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.18804</guid>
+
+      <dc:creator>Hisashi Ohseto</dc:creator>
+      <dc:creator>Mami Ishikuro</dc:creator>
+      <dc:creator>Geng Chen</dc:creator>
+      <dc:creator>Ippei Takahashi</dc:creator>
+      <dc:creator>Genki Shinoda</dc:creator>
+      <dc:creator>Aoi Noda</dc:creator>
+      <dc:creator>Keiko Murakami</dc:creator>
+      <dc:creator>Masatsugu Orui</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hisashi Ohseto, Mami Ishikuro, Geng Chen, Ippei Takahashi, Genki Shinoda, Aoi Noda, Keiko Murakami, Masatsugu Orui, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2618804
+
+Abstract: Importance Developmental delay affects daily living, social functioning, and mental health. Maternal cardiovascular health (CVH) during pregnancy may indicate an adverse intrauterine environment, but its association with developmental delay is unclear. Objective To examine the association between maternal CVH during pregnancy and developmental delay in offspring at 4 years of age. Design, Setting, and Participants This cohort study enrolled patients between July 19, 2013, and March 31, 2017, with 5 years of follow-up, at obstetric hospitals and clinics in Miyagi Prefecture, Japan. Participants included eligible mother and offspring pairs enrolled in the Tohoku Medical Megabank Project Birth and Three-Generation Cohort Study. Offspring were followed up until age 4 years. Data analyses were conducted from November 12, 2024, to March 24, 2026. Exposure Maternal CVH during pregnancy, which was assessed using Life’s Essential 8 metrics (diet, physical activity, nicotine exposure, sleep health, body mass index, blood lipids, blood glucose, and blood pressure). Each metric was scored on a scale of 0 (least favorable) to 100 (most favorable), and these scores were used to categorize mothers as having high (80-100), moderate (50-79), or low (0-49) CVH. Main Outcomes and Measures Developmental delay at age 4 years, which was evaluated by the mother using the validated Japanese version of Ages and Stages Questionnaire, Third Edition. This instrument has 5 domains: communication, gross motor, fine motor, problem solving, and personal-social skills. Domain-specific delay was defined as 2 or more SDs below the mean score, and developmental delay in total was defined as delay in 1 or more of the 5 domains. Results Among 19 160 eligible mother and offspring pairs, 8238 (43.0%) were analyzed. Offspring were assessed at a mean (SD) age of 4.1 (0.2) years and included 4299 males (52.2%). Among mothers with high, moderate, and low CVH, 154 (8.8%), 763 (12.1%), and 33 (16.8%), respectively, had offspring with developmental delay in total. Compared with high CVH, moderate (risk ratio [RR], 1.30; 95% CI, 1.09-1.54) and low (RR, 1.62; 95% CI, 1.11-2.36) CVH during pregnancy were associated with developmental delay in total. Low CVH was associated with higher prevalence of developmental delay across all 5 domains, with personal-social domain having the largest effect size (RR, 2.23; 95% CI, 1.23-4.07; P for trend = .002) and communication domain having the smallest effect size (RR, 1.40; 95% CI, 0.69-2.85; P for trend = .03). Conclusions and Relevance In this cohort study of mother and offspring pairs in Japan, better maternal CVH during pregnancy was associated with a lower risk of offspring developmental delay at age 4 years.</description>
+    </item>
+    <item>
+      <title>Palliative Care Coaching for Family Caregivers of Patients With Advanced Cancer</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.19807</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.19807</guid>
+
+      <dc:creator>J. Nicholas Odom</dc:creator>
+      <dc:creator>Andres Azuero</dc:creator>
+      <dc:creator>Richard A. Taylor</dc:creator>
+      <dc:creator>Jennifer Young Pierce</dc:creator>
+      <dc:creator>Chelsea L. McGowen</dc:creator>
+      <dc:creator>Maria Pisu</dc:creator>
+      <dc:creator>Gabrielle Rocque</dc:creator>
+      <dc:creator>Rhiannon D. Reed</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: J. Nicholas Odom, Andres Azuero, Richard A. Taylor, Jennifer Young Pierce, Chelsea L. McGowen, Maria Pisu, Gabrielle Rocque, Rhiannon D. Reed, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2619807
+
+Abstract: Importance African American and rural-dwelling family caregivers of persons with newly diagnosed advanced cancer perform critical, time-intensive tasks and historically have had limited resources to support their role. Objective To determine the effect of a lay coach–led, early palliative care telehealth intervention (Educate, Nurture, Advise, Before Life Ends [ENABLE] Cornerstone) for African American and rural-dwelling family caregivers of patients with advanced cancer on caregiver and patient outcomes at 24 weeks. Design, Setting, and Participants This single-blind randomized clinical trial was conducted from January 2020 to May 2025 at outpatient oncology clinics at 2 large cancer centers in the Southeastern US. Participants were African American and rural-dwelling family caregivers aged 21 years or older self-identifying as an unpaid close friend or family member who is involved with the day-to-day medical care of a patient with advanced cancer. Intervention The intervention included 6 weekly, 20- to 60-minute psychosocial telephonic sessions facilitated by a trained lay coach plus monthly follow-up. Usual care consisted of mailed pamphlets outlining resources for families at each of the cancer centers. Main Outcomes and Measures The primary outcome was caregiver distress (anxiety and depressive symptoms as measured by the Hospital Anxiety and Depression Scale [HADS]) at 24 weeks. Secondary outcomes were caregiver and patient quality of life (QOL; measured with the Patient-Reported Outcomes Measurement Information System Global Health Short Form), caregiver burden (Montgomery-Borgatta Caregiver Burden Scale), and patient distress (HADS). Outcomes were assessed using baseline-constrained linear mixed-effects models. Results A total of 222 family caregivers (mean [SD] age, 55.5 [14.7] years; 169 [76.1%] female; 114 [51.4%] African American; 101 White [45.5%]; 7 other race [3.2%]) and 165 patients (mean [SD] age, 60.7 [12.2] years; 98 [59.4%] female; 79 African American [47.9%]; 84 White [50.9%]; 2 other race [1.2%]) were randomized. At week 24, no relevant between-group differences were observed in caregiver HADS anxiety (mean [SE] baseline-adjusted difference, 0.23 [0.44]; Cohen d = 0.05; 95% CI, −0.14 to 0.24; P = .60) or HADS depressive symptom scores (mean [SE] baseline-adjusted difference, 0.04 [0.41]; Cohen d = 0.01; 95% CI, −0.19 to 0.21; P = .91). For all other outcomes, 24-week differences were of small magnitude and not statistically significant. Exploratory sensitivity analyses of caregivers distressed at baseline indicated improvements in caregiver anxiety (mean [SE] baseline-adjusted difference, −1.21 [0.53]; Cohen d = −0.38; 95% CI, −0.70 to −0.05) and patient mental health QOL (mean [SE] baseline-adjusted difference, 3.00 [1.37]; Cohen d = 0.45; 95% CI, 0.04 to 0.86), but no statistically significant differences in caregiver burden (mean [SE] baseline-adjusted difference, −1.15 [0.69]; Cohen d = −0.32; 95% CI, −0.71 to 0.06) and patient depression (mean [SE] baseline-adjusted difference, −1.30 [0.71]; Cohen d = −0.37; 95% CI, −0.77 to 0.03). Conclusions This randomized clinical trial of a telehealth intervention for African American and rural-dwelling caregivers of patients with advanced cancer found no differences in caregiver and patient outcomes at 24 weeks. However, an exploratory sensitivity analysis indicated potential improvements in caregiver anxiety and patient mental health QOL. Trial Registration ClinicalTrials.gov Identifier: NCT04318886</description>
+    </item>
+    <item>
+      <title>Adjunctive Psychosocial Interventions and Opioid Abstinence Among Patients Receiving Buprenorphine</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.19826</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.19826</guid>
+
+      <dc:creator>Michelle R. Lent</dc:creator>
+      <dc:creator>Emily E. Hurstak</dc:creator>
+      <dc:creator>Kevin G. Lynch</dc:creator>
+      <dc:creator>Emily Loscalzo</dc:creator>
+      <dc:creator>Kimberly Mazur</dc:creator>
+      <dc:creator>Helen L. Lugo</dc:creator>
+      <dc:creator>Karen L. Dugosh</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michelle R. Lent, Emily E. Hurstak, Kevin G. Lynch, Emily Loscalzo, Kimberly Mazur, Helen L. Lugo, Karen L. Dugosh
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2619826
+
+Abstract: Importance Adjunctive psychosocial treatments are recommended for many using medications for opioid use disorder (MOUD), but it is unclear which approaches can best enhance treatment outcomes. Objectives To evaluate the comparative effectiveness of 2 psychosocial treatments, peer recovery support (PRS) and cognitive-behavioral therapy (CBT), on opioid abstinence when used as adjunctive therapies to office-based buprenorphine treatment in adults with opioid use disorder (OUD). Design, Setting, and Participants This randomized clinical trial included US adults diagnosed with OUD referred for care at 5 federally qualified health centers with office-based addiction treatment programs by their clinicians from 2020 to 2024. Participants were followed up for 1 year postenrollment. Analyses were conducted September through November 2025. Interventions Participants were randomized to 1 of 4 conditions: MOUD treatment as usual, MOUD plus 12 weeks of CBT, MOUD plus 12 weeks of PRS, or MOUD plus 12 weeks of CBT and PRS. The CBT intervention consisted of 12 individual, manualized sessions over 12 weeks focused on goal setting, functional analysis, cognitive restructuring, skill building, and relapse prevention. The PRS intervention required at least once-weekly contact for 12 weeks and focused on shared lived experience, goal setting, and navigation assistance to meet immediate needs. In the CBT plus PRS condition, participants were assigned to 12 weeks of concurrent CBT and PRS. Main Outcome and Measure The primary outcome was urinalysis-confirmed opioid abstinence at 3, 6, 9, and 12 months. Results A total of 340 participants were included (mean [SD] age, 42.3 [10.9] years; 100 female [29.4%]). Neither CBT (odds ratio [OR], 1.16; 95% CI, 0.63-2.13), PRS (OR, 0.87; 95% CI, 0.48-1.59), nor their interaction (OR, 0.99; 95% CI, 0.30-3.27) was associated with urinalysis-confirmed opioid use. Conclusions and Relevance In this randomized clinical trial, CBT and PRS had no effect on rates of opioid abstinence in the year following the initiation of MOUD. Trial Registration ClinicalTrials.gov Identifier: NCT04257214</description>
+    </item>
     <item>
       <title>Hybrid Hospital at Home and Physical Activity for Adults Admitted to the Hospital With Acute Illness</title>
       <link>https://doi.org/10.1001/jamanetworkopen.2026.18812</link>
@@ -558,23 +718,6 @@ Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2617279</description>
 Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2618665</description>
     </item>
     <item>
-      <title>Access to Specialty Cancer Care and Plan Disenrollment Among Medicare Beneficiaries</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.18677</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.18677</guid>
-
-      <dc:creator>Emma M. Achola-Kothari</dc:creator>
-      <dc:creator>Stacie B. Dusetzina</dc:creator>
-      <dc:creator>John A. Graves</dc:creator>
-      <dc:creator>David G. Stevenson</dc:creator>
-      <dc:creator>Laura M. Keohane</dc:creator>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Emma M. Achola-Kothari, Stacie B. Dusetzina, John A. Graves, David G. Stevenson, Laura M. Keohane
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2618677
-
-Abstract: Importance Beneficiaries diagnosed with cancer and enrolled in Medicare Advantage (MA) may face barriers to care due to MA plan network design. Given sizeable growth in MA enrollment, it is important to evaluate how well these plans serve patients with high health care needs. Objective To examine the association between MA network breadth and changes in coverage among beneficiaries with new cancer diagnoses. Design, Setting, and Participants This cohort used data from the 2019 to 2020 Surveillance, Epidemiology, and End Results (SEER)–Medicare and 2019 Ideon networks to examine MA plan network inclusion of American College of Surgeons Commission on Cancer–accredited facilities and National Cancer Institute–designated cancer centers. Beneficiaries enrolled in MA who were newly diagnosed with cancer in 2019 were included. Data were analyzed from October 2024 through September 2025. Exposure The explanatory variable of interest was network breadth for these hospitals, measured as a continuous variable. Characteristics of patients in narrow networks (those with fewer than 25% of facilities in the network geographic service area that were in network) and nonnarrow networks were compared. Main Outcomes and Measures The main outcome was any plan switch between diagnosis and January 2020, along with the kind of switch (MA to traditional Medicare or new MA plan). Multivariable logistic regression models stratified by plan type (ie, beneficiaries in employer-sponsored and retiree MA plans, plans with premiums, and plans without premiums) were used given potential differences in plan choices for these beneficiary groups. Mean marginal effects were calculated, and coefficients were scaled by 10 percentage points. Results Among 24 444 MA beneficiaries, 13 216 individuals had plans with narrow networks (mean [SD] age, 72.2 [7.7] years; 6465 male [48.9%]; 2503 Black [18.9%], 1963 Hispanic [14.9%], and 7563 White [57.2%]) and 11 228 individuals had plans with nonnarrow networks (mean [SD] age, 73.4 [7.7] years; 5638 male [50.2%]; 1613 Black [14.4%], 1346 Hispanic [12.0%], and 7405 White [66.0%]); those in narrow networks were younger and more likely to be Black. A 10–percentage point increase in network breadth was associated with a 4.5–percentage point (95% CI, 5.5 to 3.5 percentage points; P &amp;amp;amp;lt; .001) decrease in the probability of switching to traditional Medicare or a new MA plan for beneficiaries enrolled in a nonemployer plan that charged premiums. It was not associated with enrollment changes among those in employer or retiree plans. Conclusions and Relevance In this study, increased network breadth was not associated with decreased Medicare plan switching for enrollees in employer plans. This finding suggests that employer subsidization of coverage may outweigh concerns about network breadth for patients newly diagnosed with cancer.</description>
-    </item>
-    <item>
       <title>Policy and Payment Factors Influencing Adoption of Low-Barrier Buprenorphine Treatment</title>
       <link>https://doi.org/10.1001/jamanetworkopen.2026.18878</link>
       <guid isPermaLink="false">10.1001/jamanetworkopen.2026.18878</guid>
@@ -592,6 +735,23 @@ Abstract: Importance Beneficiaries diagnosed with cancer and enrolled in Medicar
 Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2618878
 
 Abstract: Importance Treatment of opioid use disorder (OUD) with buprenorphine reduces overdose and all-cause mortality, yet access and retention remain limited. Much of the literature describing barriers to buprenorphine access and retention has focused on practitioner-level or patient-level barriers, but less is known about how potential policy and payment levers may influence prescribing behaviors and treatment practices from the practitioner perspective. Objective To explore perspectives among OUD treatment program clinicians and staff about how broader policy and payment structures influence adoption of buprenorphine treatment and low-barrier care practices that promote access and retention. Design, Setting, and Participants In this qualitative study, semistructured interviews were conducted from December 2022 to July 2023. Participants included clinicians and staff from a range of outpatient treatment programs providing buprenorphine in Philadelphia, Pennsylvania. Main Outcomes and Measures Interviews examined prescribing practices and the influence of policy, payment structures, and regulatory requirements on clinical care. Transcripts were analyzed using thematic content analysis. Results A total of 28 practitioners and staff (13 men [46%]; 11 [39%] aged 41-50 years), including medical clinicians, therapists, and other administrative staff, were interviewed. Participants included 17 physicians (61%), 7 therapists (25%), 1 advanced practice practitioner (4%), 1 administrator (4%), and 2 other staff (8%). Twenty-four participants (86%) had at least 5 years of experience treating OUD, and all clinicians had obtained a DATA-2000 waiver, also called an X-waiver, to prescribe buprenorphine. Participants viewed the X-waiver as a symbolic barrier, but identified policy factors like insurance coverage, reimbursement rates, payer policies, and licensure requirements as key variables influencing clinical practice. Clinics relied on supplemental funding to sustain care for uninsured patients. Participants reported that payer-imposed requirements, such as prior authorizations and rigid attendance-based reimbursement, undermined timely access and individualized care and that regulatory frameworks often conflicted with harm reduction principles and created staffing and documentation burdens. Conclusions and Relevance This qualitative study of clinicians and staff in buprenorphine treatment programs found that broader policy and payment reforms could help support low-barrier buprenorphine treatment. Enhancing reimbursement, reducing administrative burdens, and aligning licensure and payer policies with evidence-based practices may improve access and retention. These findings offer actionable insights for policymakers, payers, and health systems seeking to address persistent gaps in OUD treatment.</description>
+    </item>
+    <item>
+      <title>Access to Specialty Cancer Care and Plan Disenrollment Among Medicare Beneficiaries</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.18677</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.18677</guid>
+
+      <dc:creator>Emma M. Achola-Kothari</dc:creator>
+      <dc:creator>Stacie B. Dusetzina</dc:creator>
+      <dc:creator>John A. Graves</dc:creator>
+      <dc:creator>David G. Stevenson</dc:creator>
+      <dc:creator>Laura M. Keohane</dc:creator>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Emma M. Achola-Kothari, Stacie B. Dusetzina, John A. Graves, David G. Stevenson, Laura M. Keohane
+
+Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2618677
+
+Abstract: Importance Beneficiaries diagnosed with cancer and enrolled in Medicare Advantage (MA) may face barriers to care due to MA plan network design. Given sizeable growth in MA enrollment, it is important to evaluate how well these plans serve patients with high health care needs. Objective To examine the association between MA network breadth and changes in coverage among beneficiaries with new cancer diagnoses. Design, Setting, and Participants This cohort used data from the 2019 to 2020 Surveillance, Epidemiology, and End Results (SEER)–Medicare and 2019 Ideon networks to examine MA plan network inclusion of American College of Surgeons Commission on Cancer–accredited facilities and National Cancer Institute–designated cancer centers. Beneficiaries enrolled in MA who were newly diagnosed with cancer in 2019 were included. Data were analyzed from October 2024 through September 2025. Exposure The explanatory variable of interest was network breadth for these hospitals, measured as a continuous variable. Characteristics of patients in narrow networks (those with fewer than 25% of facilities in the network geographic service area that were in network) and nonnarrow networks were compared. Main Outcomes and Measures The main outcome was any plan switch between diagnosis and January 2020, along with the kind of switch (MA to traditional Medicare or new MA plan). Multivariable logistic regression models stratified by plan type (ie, beneficiaries in employer-sponsored and retiree MA plans, plans with premiums, and plans without premiums) were used given potential differences in plan choices for these beneficiary groups. Mean marginal effects were calculated, and coefficients were scaled by 10 percentage points. Results Among 24 444 MA beneficiaries, 13 216 individuals had plans with narrow networks (mean [SD] age, 72.2 [7.7] years; 6465 male [48.9%]; 2503 Black [18.9%], 1963 Hispanic [14.9%], and 7563 White [57.2%]) and 11 228 individuals had plans with nonnarrow networks (mean [SD] age, 73.4 [7.7] years; 5638 male [50.2%]; 1613 Black [14.4%], 1346 Hispanic [12.0%], and 7405 White [66.0%]); those in narrow networks were younger and more likely to be Black. A 10–percentage point increase in network breadth was associated with a 4.5–percentage point (95% CI, 5.5 to 3.5 percentage points; P &amp;amp;amp;lt; .001) decrease in the probability of switching to traditional Medicare or a new MA plan for beneficiaries enrolled in a nonemployer plan that charged premiums. It was not associated with enrollment changes among those in employer or retiree plans. Conclusions and Relevance In this study, increased network breadth was not associated with decreased Medicare plan switching for enrollees in employer plans. This finding suggests that employer subsidization of coverage may outweigh concerns about network breadth for patients newly diagnosed with cancer.</description>
     </item>
     <item>
       <title>Group Interpersonal Psychotherapy for Depression in Perinatal Adolescents in Kenya</title>
@@ -1580,170 +1740,6 @@ Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2617220</description>
 Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2617740
 
 Abstract: Importance Automated text messaging systems are crucial for health care communication, but text message software is often programmed to recognize only a limited range of responses, such as requests to stop messaging. However, patients may send replies that go beyond these expected responses. Systems may disregard or misclassify such replies, leading to accidental opt-outs or unaddressed needs. Identifying unexpected patient responses to automated messages might identify areas for improvement in communication systems. Objective To develop a framework representing the range of patient responses to automated text messages and to identify considerations for improving health system communication design. Design, Setting, and Participants This qualitative study examines all patient responses to automated text messages from January 1, 2022, to December 31, 2023, at Kaiser Permanente Colorado, an integrated health system serving more than 500 000 patients. Data were analyzed from January to November 2024. Main Outcomes and Measures Patient response themes and domains were identified through inductive qualitative content analysis and interpretive system-level considerations informed by identified response patterns. The focus was on the diversity and implications of patient replies rather than their prevalence. Results Among 28 456 patients who responded to 38 395 automated text messages (16 268 female [57.2%]; 11 692 [41.1%] aged 65 years or older), 743 unique responses were analyzed. Sixteen message types were identified that extended beyond the system’s recognized commands, grouped into 8 overarching domains: opt-out or opt-in requests, appointment management, requests for help or information, communication preferences, corrections of inaccurate data, comments on usefulness and usability, expressions of frustration, and uninterpretable responses. Replies reflected expectations for bidirectional communication, highlighted errors in patient information, or pointed to usability barriers. These communications underscored limitations of exclusively automated processing and revealed opportunities to make communication systems more responsive. Conclusions and Relevance In this qualitative study of patient responses to automated text messages, patients used these systems as an opportunity for bidirectional communication, revealing needs that extend beyond current system capabilities. Addressing these responses could reduce communication errors, improve appointment management, and strengthen trust in health care communication.</description>
-    </item>
-    <item>
-      <title>Frontier Language Models and Optical Character Recognition Preprocessing Against Invisible Text Injection in AI Peer Review</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.17356</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.17356</guid>
-
-      <dc:creator>Philip Jarrett</dc:creator>
-      <dc:creator>Peter Yun</dc:creator>
-      <dc:creator>Andrew Jamieson</dc:creator>
-      <dc:creator>Deborah Diercks</dc:creator>
-      <dc:creator>D. Mark Courtney</dc:creator>
-      <dc:creator>Dazhe Cao</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Philip Jarrett, Peter Yun, Andrew Jamieson, Deborah Diercks, D. Mark Courtney, Dazhe Cao
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2617356
-
-Abstract: This study assesses the integration of frontier large language models including tools such as optical character recognition (OCR) into the scientific peer review process to detect invisible text injection in an article under review.</description>
-    </item>
-    <item>
-      <title>Influenza Vaccination Trends Among Children and Adolescents, 2017-2023</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.17332</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.17332</guid>
-
-      <dc:creator>Madhura S. Rane</dc:creator>
-      <dc:creator>Geetha Gopalan</dc:creator>
-      <dc:creator>Joseph Nahmias</dc:creator>
-      <dc:creator>Michael L. Rinke</dc:creator>
-      <dc:creator>Chloe A. Teasdale</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Madhura S. Rane, Geetha Gopalan, Joseph Nahmias, Michael L. Rinke, Chloe A. Teasdale
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2617332
-
-Abstract: This cohort study examines trends in influenza vaccination coverage for children and adolescents in the Bronx, New York, from 2017 to 2023.</description>
-    </item>
-    <item>
-      <title>Cost-Effectiveness of Anticoagulation Treatment for Subclinical Device-Detected Atrial Fibrillation</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.17213</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.17213</guid>
-
-      <dc:creator>Aleksi K. Winstén</dc:creator>
-      <dc:creator>Ville Langén</dc:creator>
-      <dc:creator>K.E. Juhani Airaksinen</dc:creator>
-      <dc:creator>Konsta Teppo</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Aleksi K. Winstén, Ville Langén, K.E. Juhani Airaksinen, Konsta Teppo
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2617213
-
-Abstract: Importance Anticoagulation for stroke prevention in subclinical, device-detected atrial fibrillation (AF) remains an area of clinical equipoise, and its cost-effectiveness is unknown. Objective To evaluate the cost-effectiveness of direct oral anticoagulant (DOAC) therapy in patients with device-detected AF. Design, Setting, and Participants This economic evaluation was a cost-effectiveness analysis using a Markov model comparing initiation of DOAC therapy vs no anticoagulation over a 10-year time horizon. Base-case analyses modeled 10 000 patients per strategy with device-detected subclinical AF, with baseline characteristics and risks of stroke, bleeding, and mortality reflecting those observed in randomized clinical trials. The evaluation was conducted from the health system perspective, with treatment and event costs derived from Nordic health care data. The modeling was conducted on March 10, 2026. Exposure The associations of DOAC therapy with the risk and severity of clinical events were incorporated into the analysis, based on a meta-analysis of trials evaluating DOAC therapy in subclinical AF. Probabilistic sensitivity analysis also considered the 95% CIs in the reported treatment effect sizes. Main Outcomes and Measures Incremental quality-adjusted life-years (QALYs), costs, and the incremental cost-effectiveness ratio (ICER; cost difference per QALY gained) from a health system perspective, with 3% annual discounting of both costs and QALYs. Cost-effectiveness was assessed using a €50 000 per QALY willingness-to-pay threshold. Results The mean age of the 20 000-person simulated cohort was 77 years. In the base case analysis, DOAC therapy was associated with an additional 0.016 QALYs and an incremental cost of €1676 per patient, resulting in an ICER of €105 293 per QALY. In probabilistic sensitivity analysis, DOAC therapy was cost-effective in 35% of simulations and dominated in 38%, with a mean QALY gain of 0.016 per patient, a mean incremental cost of €2883 per patient, and a mean ICER of €176 772. Probabilistic sensitivity analyses by CHA 2 DS 2 -VASc (congestive heart failure; hypertension; age ≥75 years; diabetes; prior stroke, transient ischemic attack, or thromboembolism; vascular disease; age 65-74 years; and sex category) score showed probabilities of cost-effectiveness of 31%, 41%, and 52% for patients with scores less than 4, of 4, and greater than 4, respectively. Conclusions and Relevance This economic evaluation found that routinely initiating DOAC therapy in all patients with device-detected subclinical AF is unlikely to be cost-effective. Whether treatment is cost-effective in patients with very high CHA 2 DS 2 -VASc scores is uncertain.</description>
-    </item>
-    <item>
-      <title>Subfecundity, Infertility Treatment, and Child Neurodevelopment</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.17324</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.17324</guid>
-
-      <dc:creator>Linda G. Kahn</dc:creator>
-      <dc:creator>Alison E. Hipwell</dc:creator>
-      <dc:creator>Joseph B. Stanford</dc:creator>
-      <dc:creator>Noya Galai</dc:creator>
-      <dc:creator>Haozuo Zhao</dc:creator>
-      <dc:creator>Akram N. Alshawabkeh</dc:creator>
-      <dc:creator>Judy L. Aschner</dc:creator>
-      <dc:creator>Emily S. Barrett</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Linda G. Kahn, Alison E. Hipwell, Joseph B. Stanford, Noya Galai, Haozuo Zhao, Akram N. Alshawabkeh, Judy L. Aschner, Emily S. Barrett, et al.
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2617324
-
-Abstract: Importance Increasing numbers of children are conceived using infertility treatment; concerns remain about potential effects on child neurodevelopment. Objective To evaluate whether infertility treatment is associated with child neurodevelopment and whether such an association may be attributable to underlying subfecundity. Design, Setting, and Participants This cohort study was conducted among mother-child dyads in the National Institutes of Health Environmental Influences on Child Health Outcomes Cohort, with infants conceived between 1998 and 2022. Associations of subfecundity and infertility treatment with neurodevelopmental outcomes were assessed among children ages 2 to 10 years. Data were analyzed from May 14, 2025, to March 31, 2026. Exposure Subfecundity was defined as prior consultation for, treatment of, or diagnosis of infertility for either partner; at least 2 prior miscarriages; or ever having had unprotected heterosexual intercourse for 12 months without conceiving. Infertility treatment was categorized as in vitro fertilization (IVF) or non-IVF treatment. Main Outcomes and Measures Harmonized caregiver responses to the Strengths and Difficulties Questionnaire and the Child Behavior Checklist yielded continuous raw scores for externalizing and internalizing problems. The total raw Social Responsiveness Scale (SRS) score quantified autism-like symptoms. Caregivers reported physician diagnosis of autism spectrum disorder (ASD) and attention deficit/hyperactivity disorder (ADHD). Results Among 15 382 mother-infant dyads, there were 14 191 unique maternal participants (mean [SD] age at delivery, 30.9 [5.33] years; 8780 parous participants [57.1%]). ASD and ADHD were diagnosed in 876 offspring (7.6%) and 819 offspring (7.1%), respectively. In generalized linear models, subfecundity was associated with higher externalizing problem and SRS scores among all pregnancies (externalizing problems: b = 0.47 [95% CI, 0.14-0.81]; SRS score: b = 1.08 [95% CI, 0.01-2.14]) and when restricted to natural conceptions (externalizing problems: b = 0.45 [95% CI, 0.07-0.83]; SRS score: b = 1.12 [95% CI, −0.09 to 2.34]). Offspring of parents with subfecundity had higher odds of ASD (overall: odds ratio [OR], 1.27 [95% CI, 1.03-1.57]; natural conceptions: OR, 1.31 [95% CI, 1.04-1.64]). Children conceived via non-IVF treatment had higher odds of ADHD compared with those conceived via natural conception with subfecundity (OR, 1.77 [95% CI, 1.16-2.68]) or without subfecundity (OR, 1.54 [95% CI, 1.05-2.25]). There were no significant associations for IVF treatment. Conclusions and Relevance In this large US cohort study, subfecundity was associated with elevated scores for caregiver-reported symptoms of behavioral problems and higher odds of ASD diagnosis, independent of infertility treatment. Non-IVF treatment was associated with ADHD, warranting further research into specific indications for treatment that may increase risk of offspring neurodevelopmental problems.</description>
-    </item>
-    <item>
-      <title>Public Acceptance of Emergency Research Without Prior Consent in Stroke</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.17347</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.17347</guid>
-
-      <dc:creator>Masaru Suzuki</dc:creator>
-      <dc:creator>Mayumi Fukuda-Doi</dc:creator>
-      <dc:creator>Haruko Yamamoto</dc:creator>
-      <dc:creator>Manabu Minami</dc:creator>
-      <dc:creator>Akiko Ishigami</dc:creator>
-      <dc:creator>Kanae Hirase</dc:creator>
-      <dc:creator>Etsuko Arita</dc:creator>
-      <dc:creator>Takuya Watanabe</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Masaru Suzuki, Mayumi Fukuda-Doi, Haruko Yamamoto, Manabu Minami, Akiko Ishigami, Kanae Hirase, Etsuko Arita, Takuya Watanabe, et al.
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2617347
-
-Abstract: Importance When prospective informed consent is not feasible in time-sensitive emergencies, such as hyperacute ischemic stroke, international ethics guidance recognizes that enrollment without prior consent may be permissible. Little is known about public acceptance of emergency research without prospective consent (ERWPC) in countries lacking established pathways. Objectives To estimate public acceptance of ERWPC for hyperacute ischemic stroke, to identify factors associated with ERWPC acceptance, and to compare these factors with those associated with willingness to participate in a standard stroke randomized clinical trial (RCT) requiring prospective informed consent. Design, Setting, and Participants This survey study was conducted in 2024 using hypothetical hyperacute stroke RCT scenarios. A commercial opt-in panel recruited adults aged 20 to 79 years residing in Japan, with equal allocation across age-by-sex strata. Participants completed survey components, including 8 conjoint scenarios with varying effectiveness, adverse event risk, and consent modality, and rated their willingness to join a standard RCT. Main Outcomes and Measures The primary outcome was ERWPC acceptance, defined as selecting willing or rather willing to participate in at least 1 scenario in a hypothetical trial without prospective consent. The secondary outcome was willingness to participate in a standard RCT. Additional measures included conjoint utilities, value domain scores, decision style, and factors associated with both primary and secondary outcomes using multivariable logistic regression. Results Among 1000 respondents (mean [SD] age, 50.1 [15.6] years; 500 females [50.0%]), 605 (60.5%) accepted ERWPC in at least 1 scenario, whereas 334 (33.4%) were willing to join a standard RCT. Among those unwilling to join the standard RCT (n = 666), 295 (44.3%) accepted ERWPC. ERWPC acceptance was associated with clinical trial awareness (adjusted odds ratio [AOR], 1.64; 95% CI, 1.34-2.00; P &amp;amp;amp;lt; .001), prior research participation (AOR, 2.98; 95% CI, 1.23-7.24; P = .02), preference for higher effectiveness (AOR, 1.88; 95% CI, 1.17-3.04; P = .01), tolerance for nonstandard consent (AOR, 0.43; 95% CI, 0.31-0.60; P &amp;amp;amp;lt; .001), and lower likelihood of consistent chooser status (AOR, 0.22; 95% CI, 0.16-0.33; P &amp;amp;amp;lt; .001). In contrast, willingness to join a standard RCT was associated with arrhythmia (AOR, 2.15; 95% CI, 1.04-4.48; P = .04) and dyslipidemia (AOR, 1.79; 95% CI, 1.02-3.16; P = .04), awareness of clinical trials (AOR, 2.10; 95% CI, 1.69-2.61; P &amp;amp;amp;lt; .001), and effectiveness utility (AOR, 1.49; 95% CI, 1.01-2.14; P = .046) but not informed consent utility. Conclusions and Relevance In this survey study, ERWPC acceptance was substantial and associated with benefit-risk considerations and research familiarity. Differences in factors associated with ERWPC acceptance and standard RCT willingness suggest that emergency research responses cannot be attributed to general attitudes toward RCT participation.</description>
-    </item>
-    <item>
-      <title>Restarting Medications After Deprescribing in Adults Discharged From Hospital to Skilled Nursing</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.17264</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.17264</guid>
-
-      <dc:creator>Thomas J. Reese</dc:creator>
-      <dc:creator>Sandra F. Simmons</dc:creator>
-      <dc:creator>Eduard E. Vasilevskis</dc:creator>
-      <dc:creator>Emily K. Hollingsworth</dc:creator>
-      <dc:creator>Matthew S. Shotwell</dc:creator>
-      <dc:creator>Amanda S. Mixon</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Thomas J. Reese, Sandra F. Simmons, Eduard E. Vasilevskis, Emily K. Hollingsworth, Matthew S. Shotwell, Amanda S. Mixon
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2617264
-
-Abstract: Importance Deprescribing interventions safely reduce polypharmacy in hospitalized older adults, but the durability of medication reductions and factors associated with medication restart are poorly understood. Objective To characterize medication restart patterns after hospital-initiated deprescribing, identify factors associated with restart, and examine associations between restart and acute health care utilization. Design, Setting, and Participants This cohort study analyzed data from 2 randomized trials: Best Possible Medication History, Evaluate, Deprescribing Recommendations, and Synthesis trial (conducted March 2016 to October 2020 at Vanderbilt University Medical Center and 22 affiliated postacute care facilities) and Veterans Affairs—Drug Reduction in Older Patients trial (conducted October 2019 to March 2023 at VA Tennessee Valley Healthcare System). Participants were aged 50 years or older, taking 5 or more prehospital medications, and discharged to a skilled nursing facility (SNF) for postacute care; analyses included all participants with 1 or more deprescribed medication. Data were analyzed from September 2024 to December 2025. Exposures Trial interventions included comprehensive medication history, identification of deprescribing opportunities, participant or surrogate interview to assess agreement, and collaboration with clinicians. Patients in the control group received a comprehensive medication history followed by usual care, which included routine deprescribing by their practitioners. Main Outcomes and Measures Medication restart (reinitiation or return to previous or higher dose) was determined from discharge documentation and structured patient or surrogate interviews at SNF discharge, 7 and 90 days after SNF discharge. The following were assessed: restart frequency, timing, and medication class; factors associated with restart; and associations between restart and emergency department visits and hospital readmissions. Results Among 598 participants, the median (IQR) age was 74.0 (67.2-82.0) years, 354 (59.2%) were male, and 417 (69.7%) restarted 1 or more deprescribed medication. Of 8734 total deprescribed medications, 1385 (15.9%) were restarted across 1461 restart episodes; 330 (22.6%) occurred during the SNF stay, 423 (29.0%) between SNF discharge and 7-day follow-up, and 708 (48.5%) between 7- and 90-day follow-ups. Overall, approximately 84% of deprescribed medications remained discontinued at 90 days. Restart rates were similar between intervention and usual care groups. Higher health literacy and longer intervention duration were associated with lower restart risk, whereas higher baseline medications, more prescribers, and use of 1 to 2 (vs ≥3) pharmacies were associated with a higher risk. Restart during the SNF stay was associated with higher 90-day hospital readmission. Conclusions and Relevance In this cohort study, approximately 1 in 6 deprescribed medications were restarted within 90 days, with nearly half occurring soon after SNF discharge. Patient factors and markers of care fragmentation were associated with restart, suggesting that enhancing transitional care and postdischarge support may improve the durability of hospital-initiated deprescribing.</description>
-    </item>
-    <item>
-      <title>Large Language Model Chatbot Conversations vs Public Health Materials and Parental HPV Vaccination Intentions</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.16822</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.16822</guid>
-
-      <dc:creator>Neil K. R. Sehgal</dc:creator>
-      <dc:creator>Sunny Rai</dc:creator>
-      <dc:creator>Manuel Tonneau</dc:creator>
-      <dc:creator>Anish K. Agarwal</dc:creator>
-      <dc:creator>Joseph Cappella</dc:creator>
-      <dc:creator>Melanie L. Kornides</dc:creator>
-      <dc:creator>Lyle Ungar</dc:creator>
-      <dc:creator>Alison Buttenheim</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Neil K. R. Sehgal, Sunny Rai, Manuel Tonneau, Anish K. Agarwal, Joseph Cappella, Melanie L. Kornides, Lyle Ungar, Alison Buttenheim, et al.
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2616822
-
-Abstract: Importance Health care systems are increasingly considering large language model (LLM)–based chatbots for vaccine communication, but evidence that they improve durable, behaviorally relevant outcomes beyond existing health materials is limited. Objectives To examine whether brief, multiturn interactions with an LLM chatbot increase parental intention to vaccinate children against human papillomavirus (HPV) compared with no intervention and government public health materials and to assess whether any effects persist. Design, Setting, and Participants This randomized clinical trial was conducted online among individuals in the US, Canada, and the UK from March 3 to May 25, 2025, with follow-up at 15 and 45 days. Eligible participants were parents 18 years or older with at least 1 HPV vaccine–eligible child (aged 11-17 years in the US and Canada and 12-17 years in the UK) who had not received HPV vaccination or whose vaccination status was unknown. Interventions Participants were randomized to (1) no-message control, (2) government public health materials matched to country (minimum 3-minute exposure), or (3) a 3-minute interaction with an LLM chatbot (OpenAI’s GPT-4o) prompted to encourage HPV vaccination using a default response style or a shorter conversational style. Main Outcomes and Measures The primary outcome was self-reported likelihood of vaccinating the child against HPV within 12 months (0- to 100-point scale, with 0 indicating extremely unlikely and 100 indicating extremely likely) measured immediately after intervention. Prespecified follow-ups included vaccination intent and self-reported vaccination at 15 and 45 days. Results A total of 1297 participants (mean [SD] age, 42.84 [6.93] years; 935 [72.1%] female) were randomized. Compared with no intervention, public health materials increased immediate vaccination intent (Cohen d = 0.53; 95% CI, 0.36-0.70), as did the default chatbot ( d = 0.48; 95% CI, 0.30-0.65) and conversational chatbot ( d = 0.33; 95% CI, 0.17-0.49). At 45 days, neither chatbot increased intent relative to controls, whereas public health materials maintained modest effects. No intervention increased self-reported vaccination uptake. Conclusions and Relevance The findings of this randomized clinical trial suggest that well-designed public health messaging may match or exceed the impact of short chatbot conversations for HPV vaccine promotion. Trial Registration ClinicalTrials.gov Identifier: NCT07132125</description>
-    </item>
-    <item>
-      <title>Case Definitions and Data Sources for NNCSS Parkinson Disease Surveillance</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.13928</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.13928</guid>
-
-      <dc:creator>Christine D. Esper</dc:creator>
-      <dc:creator>Kelly N. Hogan</dc:creator>
-      <dc:creator>Purni Abeysekara</dc:creator>
-      <dc:creator>Kasey Nichole Smith</dc:creator>
-      <dc:creator>Tenbroeck G. Smith</dc:creator>
-      <dc:creator>Shawna L. Mercer</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Christine D. Esper, Kelly N. Hogan, Purni Abeysekara, Kasey Nichole Smith, Tenbroeck G. Smith, Shawna L. Mercer
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2613928
-
-Abstract: Importance The National Neurological Conditions Surveillance System (NNCSS) is congressionally mandated to track the epidemiology of neurological conditions in the United States. Parkinson disease (PD) was selected as an initial condition, but methods for conducting PD surveillance are limited. Objective To review evidence for, evaluate the performance of, and select data source types and case definitions for national PD surveillance. Evidence Review Medline, Embase, PsycInfo, CINAHL, and Scopus were searched from January 1980 through November 2023; expert-identified and bibliographically mined references were included. Articles were screened and reviewed for eligibility from April 2020 to May 2024. Eligible articles included case definitions to produce population-based estimates and used data sources appropriate for population-level analyses. Study quality was assessed using Methodological Evaluation of Observational Research and Quality Assessment of Diagnostic Accuracy Studies–2. Case definitions and data source types were evaluated using key attributes of public health surveillance systems (hereafter key attributes). Findings A total of 156 articles, published between 2001 and 2023, were included. These articles largely used administrative data (140 [90%]), especially claims (102 [65%]). The 163 included case definitions varied substantially and were allocated into 6 groups along a spectrum according to likely inclusion and/or exclusion of other parkinsonisms (OP) and resulting misclassification bias. At one end, “PD probable” definitions (15 of 163 [9%]) removed most OP, maximizing specificity but likely missing some PD cases with limited or conflicting claims evidence. Alternatively, “PD possible” definitions (11 of 163 [7%]) captured PD cases with limited or conflicting evidence, maximizing sensitivity but likely including some OP. Case definitions’ performance on key attributes varied widely. Claims performed best on key attributes. Conclusions and Relevance In this systematic review of PD case definitions for national surveillance, no single definition provided a precise estimate due to potential diagnostic uncertainty in PD’s early stages and International Classification of Disease ( ICD ) coding limitations that preclude definitively distinguishing PD from OP in population-based data sources. The best-performing PD probable and PD possible case definitions were selected to use to establish an estimate range. The probable definition provides high diagnostic certainty of PD. The possible definition avoids missing PD cases with limited or conflicting evidence. This work demonstrated NNCSS’s methods for selecting and reappraising case definitions and data source types, providing a foundation for NNCSS’s PD surveillance and expansion to other neurological conditions.</description>
-    </item>
-    <item>
-      <title>Surgical Decision Making Among Black Adults With Carpal Tunnel Syndrome</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.16833</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.16833</guid>
-
-      <dc:creator>Amore Jackson</dc:creator>
-      <dc:creator>Bryce Gantt</dc:creator>
-      <dc:creator>Noelle T. Thompson</dc:creator>
-      <dc:creator>Mary E. Byrnes</dc:creator>
-      <dc:creator>Rachel C. Hooper</dc:creator>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Amore Jackson, Bryce Gantt, Noelle T. Thompson, Mary E. Byrnes, Rachel C. Hooper
-
-Journal: JAMA Network Open; Volume: 9; Issue: 6; Pages: e2616833
-
-Abstract: Importance Black patients in the US face persistent disparities in surgical care, including underuse and delayed access. Little is known about how Black individuals weigh clinical symptoms against broader social, cultural, and economic factors when considering elective surgery, such as for carpal tunnel syndrome (CTS). Objective To explore the lived experiences and priorities associated with surgical decision-making among Black adults with CTS. Design, Setting, and Participants In this qualitative study, semistructured one-on-one interviews were performed with 28 Black individuals with CTS recruited from an outpatient hand surgery clinic in the Midwestern US and via a patient clinical research registry. Participants were asked to discuss the impact of hand dysfunction and how their experiences influenced surgical decision making. Interviews were conducted between October 1, 2023, and March 31, 2024, using a videoconference platform. Transcripts were coded and analyzed using inductive and deductive thematic analysis. Exposure Presentation with CTS at an outpatient hand surgery clinic. Main Outcomes and Measures The primary outcome was the identification of key factors and lived experiences associated with patients’ decisions to pursue, delay, or decline surgery for CTS. Results Among the 28 participants, 23 (82.1%) were women and 16 (57.1%) were younger than 50 years (mean [SD] age, 47.3 [14.8] years). Participants reported on their embodied threshold where increased symptom severity and loss of hand function prompted surgical consideration. To many participants, autonomy was relational, and all valued collaborative, respectful communication from clinicians. Participants reported that cultural and social influences mattered. In particular, community narratives and clinician racial concordance were associated with trust and surgical decision-making. Participants shared how economic insecurity undercut their autonomy and how their financial instability contributed to surgical delays, despite recognition of need. These experiences cumulatively informed and shaped how patients with CTS decided to undergo surgery or continue nonoperative management. Conclusions and Relevance In this qualitative study, surgical decisions among Black patients with CTS were associated with a complex interplay of physical, social, cultural, and financial factors. Culturally tailored shared decision-making that respects patient autonomy, acknowledges financial constraints, and integrates community perspectives may reduce disparities and improve surgical engagement.</description>
     </item>
   </channel>
 </rss>
