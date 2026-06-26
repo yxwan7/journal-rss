@@ -5,8 +5,45 @@
     <link>https://www.nature.com/nataging/</link>
     <description>Latest journal articles for Nature Aging</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 09:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:56:33 +0000</lastBuildDate>
 
+    <item>
+      <title>Network-driven discovery of repurposable drugs targeting hallmarks of aging</title>
+      <link>https://doi.org/10.1038/s43587-026-01161-8</link>
+      <guid isPermaLink="false">10.1038/s43587-026-01161-8</guid>
+
+      <dc:creator>Bnaya Gross</dc:creator>
+      <dc:creator>Joseph Ehlert</dc:creator>
+      <dc:creator>Vadim N. Gladyshev</dc:creator>
+      <dc:creator>Joseph Loscalzo</dc:creator>
+      <dc:creator>Albert-László Barabási</dc:creator>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bnaya Gross, Joseph Ehlert, Vadim N. Gladyshev, Joseph Loscalzo, Albert-László Barabási
+
+Journal: Nature Aging
+
+Abstract: Abstract Despite the thousands of genes implicated in age-related phenotypes, effective interventions for aging remain elusive, due to the multifactorial nature of longevity and the interconnectedness of molecular components involved. Here we introduce a network medicine framework to map 2,358 longevity-associated genes onto the human interactome to identify drug-repurposing candidates capable of modulating specific hallmarks of aging. We find that genes associated with each hallmark form a connected subgraph, or hallmark module, allowing us to measure the network proximity of 6,442 compounds to each hallmark. We then introduce a transcription-based metric, pAGE, which evaluates whether drug-induced expression shifts reinforce or counteract known age-related expression changes within each hallmark module. By integrating network proximity and pAGE, we identify drug-repurposing candidates targeting specific hallmarks and provide a falsifiable framework to leverage genomic discoveries for accelerating drug repurposing in longevity. Our findings are interpretable, revealing molecular mechanisms through which drugs modulate hallmarks.</description>
+    </item>
+    <item>
+      <title>Meta-analysis of DNA methylation aging signatures in 17 human tissues</title>
+      <link>https://doi.org/10.1038/s43587-026-01164-5</link>
+      <guid isPermaLink="false">10.1038/s43587-026-01164-5</guid>
+
+      <dc:creator>Macsue Jacques</dc:creator>
+      <dc:creator>Kirsten Seale</dc:creator>
+      <dc:creator>Sarah Voisin</dc:creator>
+      <dc:creator>Anna Lysenko</dc:creator>
+      <dc:creator>Robin Grolaux</dc:creator>
+      <dc:creator>Bernadette Jones-Freeman</dc:creator>
+      <dc:creator>Severine Lamon</dc:creator>
+      <dc:creator>Mandhri Abeysooriya</dc:creator>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Macsue Jacques, Kirsten Seale, Sarah Voisin, Anna Lysenko, Robin Grolaux, Bernadette Jones-Freeman, Severine Lamon, Mandhri Abeysooriya, et al.
+
+Journal: Nature Aging
+
+Abstract: Abstract Epigenetic changes, in particular DNA methylation, accumulate with age across different tissues, but whether these changes follow consistent patterns across different organs remains poorly understood. Here we show, through a meta-analysis of more than 15,000 human methylation profiles spanning 17 tissues, that aging produces both conserved and tissue-specific epigenetic signatures. We identify systemic shifts in methylation levels, increases in methylation variability, and growing molecular disorder across tissues. Network analysis revealed tightly connected gene clusters that are not modified by beneficial interventions, alongside a more modifiable cluster linked to NAD + metabolism, supporting NAD + as a potential therapeutic target in aging. A gene encoding a cell-adhesion protein, PCDHGA1, emerged as a conserved hub across tissues, implicating cell-to-cell communication pathways in aging across multiple organs. Our methylation atlas therefore provides a resource for dissecting the molecular basis of human aging and for identifying potential biomarkers and translational therapies.</description>
+    </item>
     <item>
       <title>Circulating metabolites at the crossroads of lifestyle and brain health</title>
       <link>https://doi.org/10.1038/s43587-026-01119-w</link>
@@ -290,7 +327,9 @@ Journal: Nature Aging; Volume: 6; Issue: 6; Pages: 1267-1280</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Samantha E. Iiams, Nathan J. Skinner, Mary Wight-Carter, Victoria A. Acosta-Rodríguez, Carla B. Green, Joseph S. Takahashi
 
-Journal: Nature Aging; Volume: 6; Issue: 6; Pages: 1227-1243</description>
+Journal: Nature Aging; Volume: 6; Issue: 6; Pages: 1227-1243
+
+Abstract: Abstract Time-restricted feeding (TRF) aligned with an organism’s circadian rhythm has been shown to improve health, but its long-term effects on healthspan and lifespan in mammals, especially under standard dietary conditions that do not promote obesity, remain unclear. Here, we examined the impact of 12-h and 8-h nightly TRF windows in 264 male and 264 female C57BL/6 J mice fed regular chow. TRF improved multiple health measures, including behavioral rhythmicity, body weight and composition, frailty, and disease onset. These effects were most pronounced in the 8-h TRF group, which exhibited voluntary caloric restriction in addition to time restriction. A composite Healthspan Index revealed that TRF extended healthspan in both sexes, though the benefits were more prolonged in female mice relative to their total lifespan. Median lifespan was significantly extended in male mice under 8-h TRF by 12%, whereas female mice showed no significant lifespan extension. These results demonstrate sex-specific effects of TRF on mammalian aging.</description>
     </item>
     <item>
       <title>Questions of the future in aging and longevity research at the GIMM Festival</title>
@@ -1535,25 +1574,6 @@ Journal: Nature Aging; Volume: 6; Issue: 2; Pages: 303-315</description>
       <description>Authors: George Niotis, Ermioni S. Arvanitaki, Emmanouil Theodorakis, Adrian Schmalen, Thomas Juretschke, Orestis Argyros, Konstantinos C. Tsolis, George Bertsias, et al.
 
 Journal: Nature Aging; Volume: 6; Issue: 2; Pages: 393-413</description>
-    </item>
-    <item>
-      <title>GLP-1 receptor agonism counteracts omics aging in mice</title>
-      <link>https://doi.org/10.1038/s43587-025-01063-1</link>
-      <guid isPermaLink="false">10.1038/s43587-025-01063-1</guid>
-
-      <dc:creator>Anna Kriebs</dc:creator>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Anna Kriebs
-
-Journal: Nature Aging; Volume: 6; Issue: 1; Pages: 27-28</description>
-    </item>
-    <item>
-      <title>Pore-forming venoms as a senolytic strategy</title>
-      <link>https://doi.org/10.1038/s43587-026-01070-w</link>
-      <guid isPermaLink="false">10.1038/s43587-026-01070-w</guid>
-
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Aging; Volume: 6; Issue: 2; Pages: 301-302</description>
     </item>
   </channel>
 </rss>

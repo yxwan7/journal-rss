@@ -5,8 +5,25 @@
     <link>https://jech.bmj.com/</link>
     <description>Latest journal articles for Journal of Epidemiology and Community Health</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 09:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:54:29 +0000</lastBuildDate>
 
+    <item>
+      <title>Guide to recent advances in difference-in-differences methodology for population health studies</title>
+      <link>https://doi.org/10.1136/jech-2025-225449</link>
+      <guid isPermaLink="false">10.1136/jech-2025-225449</guid>
+
+      <dc:creator>Matt Sutton</dc:creator>
+      <dc:creator>Igor Francetic</dc:creator>
+      <dc:creator>Stephen O’Neill</dc:creator>
+      <dc:creator>Samuel Hugh-Jones</dc:creator>
+      <dc:creator>Luke Munford</dc:creator>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Matt Sutton, Igor Francetic, Stephen O’Neill, Samuel Hugh-Jones, Luke Munford
+
+Journal: Journal of Epidemiology and Community Health; Pages: jech-2025-225449
+
+Abstract: Background Difference-in-differences is a method commonly used in population health research. It is based on assumptions that are well-known and well-understood in the classic textbook example of two groups (exposed and unexposed) and two periods (before and after). However, several papers have emerged recently highlighting further complications, for instance, when there are multiple groups and/or multiple periods and/or variation in timing of exposure across groups. Many ways to adjust the classic difference-in-differences methodology have been proposed. Methods We explain the challenges for difference-in-differences methodology in real-world settings. We summarise alternative methods that have been proposed to deal with deviations from the classic difference-in-differences situation and set out some considerations for choosing between estimators. Results The straightforward reasoning of the difference-in-differences method cannot be assumed when the effects of an exposure vary between groups and/or vary over time. These so-called ‘heterogeneous treatment effects’ require explicit consideration because typical ways to estimate difference-in-differences make implicit assumptions about how to create a summary measure of impact from multiple comparisons. We explain how proposed alternative methods deal with the aggregation of these heterogeneous treatment effects. Conclusions Real-world applications of the difference-in-differences method typically require the analyst to allow the effects of an exposure to vary across treatment groups and over time. Summary assessment of impact requires an explicit weighting of heterogeneous impacts. The preferred approach to difference-in-differences depends on how exposure is assigned and the availability of data on exposed and unexposed groups before and after exposure begins.</description>
+    </item>
     <item>
       <title>From early to fewer first births: ADHD and family formation among young adults</title>
       <link>https://doi.org/10.1136/jech-2026-225863</link>
@@ -1611,21 +1628,6 @@ Abstract: Background Adverse childhood experiences (ACEs) are traumatic events t
 Journal: Journal of Epidemiology and Community Health; Volume: 80; Issue: 3; Pages: 137-141
 
 Abstract: Background The COVID-19 pandemic reversed a decade of progress in reducing child food insufficiency in the United States. Congress implemented a universal 15% increase in Supplemental Nutrition Assistance Program (SNAP) benefits from January 2021 through September 2021 to address rising child food hardship. Methods We conducted a difference-in-differences analysis using US Census Bureau data to evaluate the impact of this temporary expansion on child food insufficiency. We compared 9776 SNAP participating households with 18 961 eligible non-participating households, examining changes before and during the benefit expansion period while accounting for demographic and economic characteristics. Results The expansion was associated with a 20% reduction in the odds of child food insufficiency among SNAP participants compared with eligible non-participants (OR = 0.80; 95% CI = 0.66 to 0.97). Hispanic-American households experienced a 39% reduction (OR = 0.61; 95% CI = 0.47 to 0.80), and households with six or more members showed a 33% reduction (OR = 0.67; 95% CI = 0.45 to 1.02). Conclusions The 15% SNAP benefit expansion in 2021 effectively reduced child food insufficiency during the pandemic, with particularly strong protective effects among Hispanic-American and large households. These findings support a universal food benefit expansion improving child health needs during a national health and economic crisis.</description>
-    </item>
-    <item>
-      <title>Intersectional inequalities in advanced stage diagnosis of colorectal cancer in England: a cross-sectional study of National Cancer Registry data from 2013 to 2019</title>
-      <link>https://doi.org/10.1136/jech-2025-223740</link>
-      <guid isPermaLink="false">10.1136/jech-2025-223740</guid>
-
-      <dc:creator>Claire Welsh</dc:creator>
-      <dc:creator>Andrew Bell</dc:creator>
-      <dc:creator>Natalie C Bennett</dc:creator>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Claire Welsh, Andrew Bell, Natalie C Bennett
-
-Journal: Journal of Epidemiology and Community Health; Volume: 80; Issue: 3; Pages: 167-173
-
-Abstract: Background Inequalities in colorectal cancer (CRC) staging and outcomes exist across numerous sociodemographic axes. Early-stage CRC diagnosis is important for treatment success and survival. In this study, we investigate inequalities in CRC staging using registry data for 186 713 first-time CRC cancer diagnoses from 2013 to 2019 in England. Methods We employ the novel Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) approach to National Cancer Registry data. We investigate inequalities in CRC staging (early vs advanced stage) via a logistic MAIHDA. We examine a range of intersectional inequalities in CRC staging, across different age, ethnicity, gender and area-level deprivation groups. Results Just over half of the staged cancers in the sample were diagnosed at advanced stage (62%). Results demonstrate notable inequalities in the risk of advanced CRC staging, with a gap of 17 percentage points between the strata with the lowest and highest predicted probability of advanced stage CRC diagnosis. These inequalities exist between age groups, ethnicity and deprivation level, with no evidence of gender-related inequalities when other variables are controlled. However, unexpectedly, we find these inequalities to be almost entirely additive in nature. Conclusions These results suggest substantial inequalities in advanced stage CRC diagnosis exist, but that these are driven largely by universal processes of inequality, rather than disadvantages associated with single intersectional strata beyond an additive layering of disadvantage. Policy tools to encourage prompt screening engagement and symptom awareness campaigns in pre-screening age groups may benefit from considering the groups most disadvantaged by that additive layering.</description>
     </item>
   </channel>
 </rss>
