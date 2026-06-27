@@ -5,8 +5,41 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:53:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:50:41 +0000</lastBuildDate>
 
+    <item>
+      <title>RE: advancing observational research on arts and health: theory-informed approaches using the RADIANCE framework</title>
+      <link>https://doi.org/10.1093/aje/kwag149</link>
+      <guid isPermaLink="false">10.1093/aje/kwag149</guid>
+
+      <dc:creator>Julia Peters</dc:creator>
+      <dc:creator>Colleen A Reynolds</dc:creator>
+      <dc:creator>Joost Oude Groeniger</dc:creator>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Julia Peters, Colleen A Reynolds, Joost Oude Groeniger
+
+Journal: American Journal of Epidemiology; Article number: kwag149</description>
+    </item>
+    <item>
+      <title>Maternal Cesarean Section and Offspring ASD or ADHD Risk: A Nurses’ Health Study II Analysis</title>
+      <link>https://doi.org/10.1093/aje/kwag150</link>
+      <guid isPermaLink="false">10.1093/aje/kwag150</guid>
+
+      <dc:creator>Jingyuan Xiao</dc:creator>
+      <dc:creator>Hayon Michelle Choi</dc:creator>
+      <dc:creator>Gyeyoon Yim</dc:creator>
+      <dc:creator>Tormod Rogne</dc:creator>
+      <dc:creator>Andrew T DeWan</dc:creator>
+      <dc:creator>Jorge E Chavarro</dc:creator>
+      <dc:creator>Marc G Weisskopf</dc:creator>
+      <dc:creator>Zeyan Liew</dc:creator>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jingyuan Xiao, Hayon Michelle Choi, Gyeyoon Yim, Tormod Rogne, Andrew T DeWan, Jorge E Chavarro, Marc G Weisskopf, Zeyan Liew
+
+Journal: American Journal of Epidemiology; Article number: kwag150
+
+Abstract: Abstract Epidemiological evidence on whether cesarean delivery influences offspring neurodevelopment remains inconsistent. We evaluated the associations between maternal cesarean delivery and childhood autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD) in the Nurses’ Health Study II cohort. We included 29 352 mothers and their children in the ASD analysis and 27 704 in the ADHD analysis. We used generalized estimating equations to estimate the odds ratio (OR) and 95% confidence interval (CI) for the child outcomes according to the mode of delivery. We evaluated confounding effects from maternal demographic and reproductive factors, chronic health and pregnancy complications, previous cesarean delivery, and lifestyle factors. We examined current cesarean delivery in combination with the history of mode of delivery, and we performed a sibling comparison analysis to evaluate the influence of uncontrolled confounding. Despite some suggestions in crude analyses, there was no association between birth by cesarean delivery and child ASD (OR = 1.02, 95%CI 0.81-1.29) nor ADHD (OR = 1.06, 95% CI 0.95-1.18) in fully adjusted models. Analyses considering maternal history of cesarean deliveries or comparing the siblings did not change the main findings. Our study does not support the hypothesis that birth by cesarean delivery increases the risk of ASD or ADHD.</description>
+    </item>
     <item>
       <title>Immigration and epigenetic age acceleration in the health and retirement study: differences Between Hispanics and Non-Hispanics</title>
       <link>https://doi.org/10.1093/aje/kwag145</link>
@@ -1725,39 +1758,6 @@ Abstract: Abstract Estimating treatment effects across disease risk scores (DRSs
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1659-1665
 
 Abstract: Abstract Although retrospective chart-review studies are typically performed using a waiver of written informed consent, many institutional review boards (IRB) do not approve such waivers for chart-review studies using prospective enrollment, which could introduce selection bias in participant characteristics and outcomes, thereby impairing representativeness and validity. We aim to determine this bias in a chart-review prostate cancer (PCa) study using prospective enrollment. Using an IRB-approved chart-review protocol with a waiver of written informed consent for prospective enrollment, we identified 2202 patients scheduled for initial prostate biopsy from 2007 to 2021 at Durham Veterans Affairs Healthcare System. These patients were simultaneously approached for enrollment into a separate minimal-risk prospective observational study protocol requiring blood collection and written consent. One thousand two hundred thirty-eight subjects provided written consent to the blood collection protocol; 964 did not. Patients who provided written consent differed in several key characteristics, including younger age, but had a similar racial distribution. Importantly, participants providing written consent had a significantly lower risk of PCa (multivariable OR = 0.41; 95% CI, 0.31-0.54; P &amp;amp;lt; .001). As such, patients who provided written consent had younger age, similar race, and lower PCa risk and therefore might not accurately represent the full eligible population. To minimize selection bias, a waiver of written consent should be allowed for chart-review studies using prospective enrollment.</description>
-    </item>
-    <item>
-      <title>Use of the test-negative design to estimate the protective effect of a scalar immune measure: a simulation analysis</title>
-      <link>https://doi.org/10.1093/aje/kwag036</link>
-      <guid isPermaLink="false">10.1093/aje/kwag036</guid>
-
-      <dc:creator>Ziyuan Zhang</dc:creator>
-      <dc:creator>Christopher B Boyer</dc:creator>
-      <dc:creator>Marc Lipsitch</dc:creator>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ziyuan Zhang, Christopher B Boyer, Marc Lipsitch
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 5; Pages: 1388-1396
-
-Abstract: Abstract Exposure-proximal antibody levels, or scalar correlates of protection (COPs), are increasingly used to assess infection risk following vaccination or prior infection. A version of the test-negative design (TND), adapted from vaccine effectiveness studies, has been proposed to estimate this relationship, but its validity for continuous immune measures under realistic epidemic conditions remains unclear. We used individual-based transmission models incorporating waning and boosting immunity and simulated two scenarios: one with homogenous baseline risk and another with a high-risk group. Infection risk was modeled as a function of COP, both linearly and nonlinearly. Test-negative design samples were drawn from single or multiple days and analyzed using logistic regression and generalized additive models (GAMs). Model validity, defined as the ability to recover the true COP-infection incidence rate ratio relationship, was evaluated using mean absolute error. Transformed logistic regression recovered the true relationship when the correct functional form was known, including in the presence of confounding. When the parametric model was misspecified, GAMs outperformed logistic regression, particularly with large sample sizes and broad COP coverage. Because the true functional form is often unknown, flexible semiparametric approaches may be preferred in well-powered TND studies with antibody measurements.</description>
-    </item>
-    <item>
-      <title>Methodological considerations for investigating the impact of abortion restrictions on outcomes using aggregate panel data</title>
-      <link>https://doi.org/10.1093/aje/kwag032</link>
-      <guid isPermaLink="false">10.1093/aje/kwag032</guid>
-
-      <dc:creator>Alison Gemmill</dc:creator>
-      <dc:creator>Alexander Franks</dc:creator>
-      <dc:creator>Avi Feller</dc:creator>
-      <dc:creator>Elizabeth A Stuart</dc:creator>
-      <dc:creator>Eli Ben-Michael</dc:creator>
-      <dc:creator>Suzanne O Bell</dc:creator>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alison Gemmill, Alexander Franks, Avi Feller, Elizabeth A Stuart, Eli Ben-Michael, Suzanne O Bell
-
-Journal: American Journal of Epidemiology; Article number: kwag032
-
-Abstract: Abstract Dramatic changes in the US abortion policy landscape have led to growing interest in studying the health and social impacts of abortion bans. Many studies of population-level impacts necessarily rely on panel designs using aggregate state-level data to strengthen causal inference, yet such analyses risk pitfalls if they apply generic evaluation frameworks that overlook the complexity of the US abortion context and relevant outcomes. This commentary provides practical guidance for researchers engaged in panel studies of abortion policy, as well as for peer reviewers who may be less familiar with the methodological and substantive considerations in this area. Drawing from recent work, we highlight abortion-specific challenges that require attention, including time-varying confounding and violation of parallel trends, COVID-era disruptions, data suppression, spillover effects, and subgroup heterogeneity. We further recommend assessing sensitivity to including Texas, given its earlier implementation of abortion restrictions and potential outsized influence on results. Ultimately, we emphasize that rigorous evaluation of abortion policies requires thoughtful study design, context-specific considerations, and collaboration between methodologists and subject-matter experts.</description>
     </item>
   </channel>
 </rss>

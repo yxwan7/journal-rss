@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:50:38 +0000</lastBuildDate>
 
     <item>
       <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
@@ -252,26 +252,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Abstract: Abstract Background In 2014, a coal mine fire in rural Australia shrouded nearby towns in smoke for several weeks. In response to community concerns and a lack of available evidence, the Victorian Department of Health commissioned a long-term health study. This article evaluates smoke effects on mortality 9 years after the fire. Methods In 2016–17, 2872 individuals living near the mine during the fire were recruited into a cohort study and consented to linkage of their data. Time-location diaries were blended with estimates of hourly fire-related fine particulate matter ≤2.5 µm (PM2.5) to generate individual exposure measures. Mortality data were obtained up to mid-2023 by linkage with the National Death Index. Cardiac, cancer, and respiratory-related deaths were identifiable up to December 2021 and predicted thereafter to mid-2023. All-cause mortality effects were evaluated with Cox proportional-hazards models and cause-specific mortality with a competing risk survival model. Results Nine years post-fire, 318 (11%) of the sample had died. All-cause mortality was not associated with PM2.5 exposure. There was no detectable effect on cancer deaths. However, a 10 µg/m3 increase in daily mean exposure to fire-related PM2.5 was associated with an 18% (95% CI: 2%–37%) higher risk of cardiac mortality, while PM2.5 exacerbated risk of respiratory mortality from tobacco use. Conclusion Fire-related PM2.5 increased cardiac mortality and smoking effects on respiratory mortality years after the event. These findings concord with a growing body of evidence on the deadly risks of wildfire smoke. Protecting communities and individuals from smoke during and after large fire events should be a public health priority.</description>
     </item>
     <item>
-      <title>Socioeconomic inequalities in life expectancy within and between native-born and foreign-born populations: a comparative study of 10 European countries</title>
-      <link>https://doi.org/10.1093/ije/dyag045</link>
-      <guid isPermaLink="false">10.1093/ije/dyag045</guid>
-
-      <dc:creator>Su Yeon Jang</dc:creator>
-      <dc:creator>Frank J van Lenthe</dc:creator>
-      <dc:creator>Mikko Myrskylä</dc:creator>
-      <dc:creator>Anna Oksuzyan</dc:creator>
-      <dc:creator>Silvia Loi</dc:creator>
-      <dc:creator>Matthias Bopp</dc:creator>
-      <dc:creator>Henrik Brønnum-Hansen</dc:creator>
-      <dc:creator>Patrick Deboosere</dc:creator>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Su Yeon Jang, Frank J van Lenthe, Mikko Myrskylä, Anna Oksuzyan, Silvia Loi, Matthias Bopp, Henrik Brønnum-Hansen, Patrick Deboosere, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag045
-
-Abstract: Abstract Background Foreign-born residents in high-income countries often outlive the native-born population, but it remains unclear how this advantage varies across countries and socioeconomic groups. We aimed to assess socioeconomic inequalities in the life expectancy advantage of foreign-born populations across 10 European countries. Methods Using national population registers and census, we collected data on mortality by country of birth and educational attainment in 10 European countries from 2010 to 2019. Based on these data, we estimated partial life expectancy between ages 35 and 80 years for native-born and foreign-born populations in each country, both overall and by education. We then decomposed the overall gap between native- and foreign-born populations into differences in education-specific mortality and the educational composition of the population. Results Foreign-born populations had higher partial life expectancies than native-born populations in all countries except Sweden and Estonia, especially among individuals with low-level education. Decomposition analyses revealed that the overall longevity advantage of foreign-born populations was largely attributable to their lower mortality in less-educated groups. However, in most countries—except Estonia, Lithuania, and Spain—the overrepresentation of less-educated individuals among the foreign-born partially cancelled out these advantages. Conclusions The longevity advantages among foreign-born populations in European countries may reflect socioeconomic barriers that concentrate relatively healthy, resource-rich immigrants into lower socioeconomic groups. Improving how societies recognize and use the skills and resources of foreign-born populations can help reduce these barriers, benefiting their longevity outcomes and contributing to more inclusive societies.</description>
-    </item>
-    <item>
       <title>Data Resource Profile: Cheeloo Lifespan Electronic-health reseArch Data-library (Cheeloo LEAD)</title>
       <link>https://doi.org/10.1093/ije/dyag091</link>
       <guid isPermaLink="false">10.1093/ije/dyag091</guid>
@@ -325,6 +305,26 @@ Abstract: Abstract Background Early detection is critical in pancreatic ductal a
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag061
 
 Abstract: Abstract Background Understanding age-specific mortality patterns across historic influenza pandemics is crucial for future pandemic preparedness. Prior research shows that, while the 1918 pandemic caused unprecedented mortality in younger adults, subsequent pandemics in 1957, 1968, and 2009 displayed varying mortality patterns, with elevated risks in some younger populations and elderly populations. However, cross-national comparative analyses of these patterns using harmonized all-cause mortality data remain lacking but are critical for informing public health strategies. Methods We analysed age-specific all-cause absolute and percentage excess mortality patterns across 48 populations during the 1918, 1957, 1968, and 2009 influenza pandemics by using data from the Human Mortality Database. Results While the 1918 pandemic consistently showed a peak in positive absolute excess mortality at younger ages (5–39 years), age-specific mortality patterns in 1918 also varied substantially across the populations, particularly at older and early-childhood ages; subsequent pandemics lacked this peak and revealed varied mortality patterns across the age groups, including inconsistent excess mortality rates among the elderly. The percentage of excess mortality also differed by country and pandemic, highlighting the complexity of age-based mortality risks. Conclusion This work demonstrates that reports of increased severity among young people as a universal feature of all historical influenza pandemics may have been exaggerated, influenced by the exceptional mortality among the young during the 1918 pandemic.</description>
+    </item>
+    <item>
+      <title>Socioeconomic inequalities in life expectancy within and between native-born and foreign-born populations: a comparative study of 10 European countries</title>
+      <link>https://doi.org/10.1093/ije/dyag045</link>
+      <guid isPermaLink="false">10.1093/ije/dyag045</guid>
+
+      <dc:creator>Su Yeon Jang</dc:creator>
+      <dc:creator>Frank J van Lenthe</dc:creator>
+      <dc:creator>Mikko Myrskylä</dc:creator>
+      <dc:creator>Anna Oksuzyan</dc:creator>
+      <dc:creator>Silvia Loi</dc:creator>
+      <dc:creator>Matthias Bopp</dc:creator>
+      <dc:creator>Henrik Brønnum-Hansen</dc:creator>
+      <dc:creator>Patrick Deboosere</dc:creator>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Su Yeon Jang, Frank J van Lenthe, Mikko Myrskylä, Anna Oksuzyan, Silvia Loi, Matthias Bopp, Henrik Brønnum-Hansen, Patrick Deboosere, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag045
+
+Abstract: Abstract Background Foreign-born residents in high-income countries often outlive the native-born population, but it remains unclear how this advantage varies across countries and socioeconomic groups. We aimed to assess socioeconomic inequalities in the life expectancy advantage of foreign-born populations across 10 European countries. Methods Using national population registers and census, we collected data on mortality by country of birth and educational attainment in 10 European countries from 2010 to 2019. Based on these data, we estimated partial life expectancy between ages 35 and 80 years for native-born and foreign-born populations in each country, both overall and by education. We then decomposed the overall gap between native- and foreign-born populations into differences in education-specific mortality and the educational composition of the population. Results Foreign-born populations had higher partial life expectancies than native-born populations in all countries except Sweden and Estonia, especially among individuals with low-level education. Decomposition analyses revealed that the overall longevity advantage of foreign-born populations was largely attributable to their lower mortality in less-educated groups. However, in most countries—except Estonia, Lithuania, and Spain—the overrepresentation of less-educated individuals among the foreign-born partially cancelled out these advantages. Conclusions The longevity advantages among foreign-born populations in European countries may reflect socioeconomic barriers that concentrate relatively healthy, resource-rich immigrants into lower socioeconomic groups. Improving how societies recognize and use the skills and resources of foreign-born populations can help reduce these barriers, benefiting their longevity outcomes and contributing to more inclusive societies.</description>
     </item>
     <item>
       <title>A cohort study of forced vital capacity, airway obstruction, and survival in the multinational Burden of Obstructive Lung Disease study</title>
@@ -809,18 +809,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
     </item>
     <item>
-      <title>Why can’t epidemiology be automated (yet)? Perhaps it shouldn’t be</title>
-      <link>https://doi.org/10.1093/ije/dyag065</link>
-      <guid isPermaLink="false">10.1093/ije/dyag065</guid>
-
-      <dc:creator>Roemer J Janse</dc:creator>
-      <dc:creator>Amber Meulenbeld</dc:creator>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Roemer J Janse, Amber Meulenbeld
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag065</description>
-    </item>
-    <item>
       <title>Building on strength, expanding horizons</title>
       <link>https://doi.org/10.1093/ije/dyag096</link>
       <guid isPermaLink="false">10.1093/ije/dyag096</guid>
@@ -831,6 +819,18 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
       <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag096</description>
+    </item>
+    <item>
+      <title>Why can’t epidemiology be automated (yet)? Perhaps it shouldn’t be</title>
+      <link>https://doi.org/10.1093/ije/dyag065</link>
+      <guid isPermaLink="false">10.1093/ije/dyag065</guid>
+
+      <dc:creator>Roemer J Janse</dc:creator>
+      <dc:creator>Amber Meulenbeld</dc:creator>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Roemer J Janse, Amber Meulenbeld
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag065</description>
     </item>
     <item>
       <title>Reproducibility and associated regression dilution bias of accelerometer-derived physical activity and sleep in UK Biobank</title>
@@ -1387,6 +1387,21 @@ Abstract: Abstract Background Healthy worker survivor bias (HWSB) skews health o
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag039</description>
     </item>
     <item>
+      <title>Lead exposure as a contributor to the Black–White racial disparity in blood pressure: evidence from NHANES 1988–1994 and 2017–2020</title>
+      <link>https://doi.org/10.1093/ije/dyag020</link>
+      <guid isPermaLink="false">10.1093/ije/dyag020</guid>
+
+      <dc:creator>Mia Q Zhu</dc:creator>
+      <dc:creator>Hannah Van Wyk</dc:creator>
+      <dc:creator>Sung Kyun Park</dc:creator>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mia Q Zhu, Hannah Van Wyk, Sung Kyun Park
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag020
+
+Abstract: Abstract Background In the USA, racial disparities in blood pressure have persisted, with Black people experiencing a greater risk of hypertension compared with White people. While disparities in lead exposure may be related to some of this disparity, little is known about the mediating role of lead in racial disparities in blood pressure. Methods We used national-level, cross-sectional data of non-institutionalized US adults aged ≥20 years from the National Health and Nutrition Examination Survey (NHANES): NHANES-III (1988–1994) (n = 10 570) and NHANES 2017–2020 (n = 4536). We examined the extent to which racial disparities in blood pressure were mediated by disparities in blood lead levels between these two NHANES cycles by using causal mediation analysis. We estimated natural direct and indirect effects, and considered potential interaction between race and blood lead levels by using four-way decomposition. Results In NHANES-III, the Black participants would have a 5.74-mmHg (95% confidence interval: 4.94, 6.54) higher mean systolic blood pressure compared with White participants if all adjusted covariates were held equal to that of the White population; 10% of this disparity was mediated by differences in blood lead levels between Black and White participants. Similar trends were observed for hypertension. In NHANES 2017–2020, similar overall trends were observed. However, the proportion of racial disparities mediated by differences in blood lead levels between Black and White individuals reduced from 10% to 5%. Conclusion These findings suggest that racial differences in lead exposure may be related to racial disparities in blood pressure, but the mediating role of blood lead levels has decreased since the 1980s.</description>
+    </item>
+    <item>
       <title>Cohort profile: Zhejiang Healthy Aging Cohort Study (ZHACS)</title>
       <link>https://doi.org/10.1093/ije/dyag050</link>
       <guid isPermaLink="false">10.1093/ije/dyag050</guid>
@@ -1403,21 +1418,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article nu
       <description>Authors: Xue Gu, Chen Wu, Tao Zhang, Le Xu, Fudong Li, Yujia Zhai, Xinyi Wang, Mengna Wu, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag050</description>
-    </item>
-    <item>
-      <title>Lead exposure as a contributor to the Black–White racial disparity in blood pressure: evidence from NHANES 1988–1994 and 2017–2020</title>
-      <link>https://doi.org/10.1093/ije/dyag020</link>
-      <guid isPermaLink="false">10.1093/ije/dyag020</guid>
-
-      <dc:creator>Mia Q Zhu</dc:creator>
-      <dc:creator>Hannah Van Wyk</dc:creator>
-      <dc:creator>Sung Kyun Park</dc:creator>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mia Q Zhu, Hannah Van Wyk, Sung Kyun Park
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag020
-
-Abstract: Abstract Background In the USA, racial disparities in blood pressure have persisted, with Black people experiencing a greater risk of hypertension compared with White people. While disparities in lead exposure may be related to some of this disparity, little is known about the mediating role of lead in racial disparities in blood pressure. Methods We used national-level, cross-sectional data of non-institutionalized US adults aged ≥20 years from the National Health and Nutrition Examination Survey (NHANES): NHANES-III (1988–1994) (n = 10 570) and NHANES 2017–2020 (n = 4536). We examined the extent to which racial disparities in blood pressure were mediated by disparities in blood lead levels between these two NHANES cycles by using causal mediation analysis. We estimated natural direct and indirect effects, and considered potential interaction between race and blood lead levels by using four-way decomposition. Results In NHANES-III, the Black participants would have a 5.74-mmHg (95% confidence interval: 4.94, 6.54) higher mean systolic blood pressure compared with White participants if all adjusted covariates were held equal to that of the White population; 10% of this disparity was mediated by differences in blood lead levels between Black and White participants. Similar trends were observed for hypertension. In NHANES 2017–2020, similar overall trends were observed. However, the proportion of racial disparities mediated by differences in blood lead levels between Black and White individuals reduced from 10% to 5%. Conclusion These findings suggest that racial differences in lead exposure may be related to racial disparities in blood pressure, but the mediating role of blood lead levels has decreased since the 1980s.</description>
     </item>
     <item>
       <title>Kidney cancer and occupational agricultural exposures in the AGRIculture and CANcer cohort</title>
@@ -1594,24 +1594,6 @@ Abstract: Abstract Background Primary biliary cholangitis (PBC) is a chronic cho
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag007</description>
     </item>
     <item>
-      <title>Towards an African-led model for strengthening capacity in medical statistics and epidemiology in sub-Saharan Africa: an equitable partnership approach</title>
-      <link>https://doi.org/10.1093/ije/dyag006</link>
-      <guid isPermaLink="false">10.1093/ije/dyag006</guid>
-
-      <dc:creator>Miriam Abdulla</dc:creator>
-      <dc:creator>Nuredin Mohammed</dc:creator>
-      <dc:creator>Tobias Chirwa</dc:creator>
-      <dc:creator>Andrew Abaasa</dc:creator>
-      <dc:creator>Sian Floyd</dc:creator>
-      <dc:creator>Emily L Webb</dc:creator>
-      <dc:creator>Philip Ayieko</dc:creator>
-      <dc:creator>Victoria Simms</dc:creator>
-      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Miriam Abdulla, Nuredin Mohammed, Tobias Chirwa, Andrew Abaasa, Sian Floyd, Emily L Webb, Philip Ayieko, Victoria Simms, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag006</description>
-    </item>
-    <item>
       <title>Human genetics suggests differing causal pathways from HMGCR inhibition to coronary artery disease and type 2 diabetes</title>
       <link>https://doi.org/10.1093/ije/dyaf223</link>
       <guid isPermaLink="false">10.1093/ije/dyaf223</guid>
@@ -1629,6 +1611,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf223
 
 Abstract: Abstract Background Statins lower low-density lipoprotein cholesterol (LDL-C) and reduce the risk of coronary artery disease (CAD). However, they also increase the risk of type 2 diabetes (T2D). Methods We consider genetic variants in the region of the HMGCR gene, which encodes the target of statins, and their associations with downstream consequences of statins. We use various statistical methods to identify causal pathways influencing CAD and T2D, and investigate whether these are the same or different for the two diseases. Results Colocalization analyses indicate that LDL-C and body mass index (BMI) have distinct genetic predictors in this gene region, suggesting that they do not lie on the same causal pathway. Multivariable Mendelian randomization analyses restricted to variants in the HMGCR gene region revealed LDL-C and BMI as causal risk factors for CAD, and BMI as a causal risk factor for T2D, but not LDL-C. A Bayesian model averaging method prioritized BMI as the most likely causal risk factor for T2D, and LDL-C as the second most likely causal risk factor for CAD (behind ubiquinone). Colocalization analyses provided consistent evidence of LDL-C colocalizing with CAD, and BMI colocalizing with T2D; evidence was inconsistent for colocalization of LDL-C with T2D, and BMI with CAD. Conclusions Our analyses suggest cardiovascular and metabolic consequences of statin usage are on different causal pathways, and hence could be influenced separately by targeted interventions. More broadly, our analysis workflow offers potential insights to identify pathway-specific causal risk factors that could provide possible repositioning or refinement opportunities for existing drug targets.</description>
+    </item>
+    <item>
+      <title>Towards an African-led model for strengthening capacity in medical statistics and epidemiology in sub-Saharan Africa: an equitable partnership approach</title>
+      <link>https://doi.org/10.1093/ije/dyag006</link>
+      <guid isPermaLink="false">10.1093/ije/dyag006</guid>
+
+      <dc:creator>Miriam Abdulla</dc:creator>
+      <dc:creator>Nuredin Mohammed</dc:creator>
+      <dc:creator>Tobias Chirwa</dc:creator>
+      <dc:creator>Andrew Abaasa</dc:creator>
+      <dc:creator>Sian Floyd</dc:creator>
+      <dc:creator>Emily L Webb</dc:creator>
+      <dc:creator>Philip Ayieko</dc:creator>
+      <dc:creator>Victoria Simms</dc:creator>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Miriam Abdulla, Nuredin Mohammed, Tobias Chirwa, Andrew Abaasa, Sian Floyd, Emily L Webb, Philip Ayieko, Victoria Simms, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag006</description>
     </item>
     <item>
       <title>Estimating excess mortality during the COVID-19 pandemic in Aotearoa New Zealand: addendum</title>
