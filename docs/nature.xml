@@ -5,7 +5,7 @@
     <link>https://www.nature.com/nature/</link>
     <description>Latest journal articles for Nature</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 08:49:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:32:57 +0000</lastBuildDate>
 
     <item>
       <title>Inside the new political screening that’s stalling NIH grants</title>
@@ -339,6 +339,28 @@ Journal: Nature</description>
       <description>Journal: Nature</description>
     </item>
     <item>
+      <title>Genomic insights into the population dynamics and demise of Neanderthals</title>
+      <link>https://doi.org/10.1038/d41586-026-01704-4</link>
+      <guid isPermaLink="false">10.1038/d41586-026-01704-4</guid>
+
+      <dc:creator>Carles Lalueza-Fox</dc:creator>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Carles Lalueza-Fox
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Antibiotic cocktail made by soil bacteria can kill superbugs</title>
+      <link>https://doi.org/10.1038/d41586-026-01990-y</link>
+      <guid isPermaLink="false">10.1038/d41586-026-01990-y</guid>
+
+      <dc:creator>Mohana Basu</dc:creator>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mohana Basu
+
+Journal: Nature</description>
+    </item>
+    <item>
       <title>Detection of anisotropic cosmic structures on a gigaparsec scale</title>
       <link>https://doi.org/10.1038/s41586-026-10702-5</link>
       <guid isPermaLink="false">10.1038/s41586-026-10702-5</guid>
@@ -382,28 +404,6 @@ Journal: Nature</description>
       <dc:creator>Jun Sun</dc:creator>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Mintao Xue, Suzhi Li, Jing Wang, Jinyang Li, Xiangdong Ding, En Ma, Jun Sun
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Antibiotic cocktail made by soil bacteria can kill superbugs</title>
-      <link>https://doi.org/10.1038/d41586-026-01990-y</link>
-      <guid isPermaLink="false">10.1038/d41586-026-01990-y</guid>
-
-      <dc:creator>Mohana Basu</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mohana Basu
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Genomic insights into the population dynamics and demise of Neanderthals</title>
-      <link>https://doi.org/10.1038/d41586-026-01704-4</link>
-      <guid isPermaLink="false">10.1038/d41586-026-01704-4</guid>
-
-      <dc:creator>Carles Lalueza-Fox</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Carles Lalueza-Fox
 
 Journal: Nature</description>
     </item>
@@ -552,24 +552,6 @@ Journal: Nature
 Abstract: Abstract Medical artificial intelligence (AI) models hold the promise to improve global access to high-quality diagnostics 1 . However, the training data underlying these models often contain sensitive patient information that may be exposed through privacy attacks 2–7 . Previous research has primarily quantified the success of these attacks in aggregate, across all records in a dataset. Thus, the privacy risk faced by individual patients, who often contribute multiple similar records to a training dataset, is poorly understood. Here we present one of the first patient-level privacy audits of AI models for medical diagnostic applications. We focus on membership inference attacks 2–4 (MIAs), which seek to determine whether the data of a given individual were used to train a model. Across a diverse range of medical datasets, we show that MIAs can achieve near-perfect success rates for individual patients, even when the aggregate performance does not substantially deviate from random guessing. We further find that the number of patients with high attack success increases substantially with model capacity, and that underrepresented groups—stratified by disease status, self-reported race, insurance, sex or imaging protocol—face disproportionately high attack success. Together, our findings show that aggregate privacy metrics can severely underestimate individual privacy risk. Whether the disparate risk profiles we observe extend to attacks beyond MIAs remains an open question, motivating the further development of risk assessment and mitigation techniques that cater to all data-contributing patients.</description>
     </item>
     <item>
-      <title>Chiral laser gyroscopes breaking the lock-in limit</title>
-      <link>https://doi.org/10.1038/s41586-026-10684-4</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10684-4</guid>
-
-      <dc:creator>Yuan-Hao Mao</dc:creator>
-      <dc:creator>Ji-Peng Xu</dc:creator>
-      <dc:creator>Hong-Teng Ji</dc:creator>
-      <dc:creator>Li-Tian Yang</dc:creator>
-      <dc:creator>Zhong-Qi Tan</dc:creator>
-      <dc:creator>Yu-Chuan Quan</dc:creator>
-      <dc:creator>Tao Pu</dc:creator>
-      <dc:creator>Wei Shao</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yuan-Hao Mao, Ji-Peng Xu, Hong-Teng Ji, Li-Tian Yang, Zhong-Qi Tan, Yu-Chuan Quan, Tao Pu, Wei Shao, et al.
-
-Journal: Nature; Volume: 654; Issue: 8120; Pages: 926-931</description>
-    </item>
-    <item>
       <title>Role of methanesulfonic acid in atmospheric particle nucleation and growth</title>
       <link>https://doi.org/10.1038/s41586-026-10810-2</link>
       <guid isPermaLink="false">10.1038/s41586-026-10810-2</guid>
@@ -586,6 +568,24 @@ Journal: Nature; Volume: 654; Issue: 8120; Pages: 926-931</description>
       <description>Authors: Rima Baalbaki, Jiali Shen, Mario Simon, Hannah Klebach, Samuel Ruhl, Jenna DeVivo, Mingyi Wang, Wiebke Scholz, et al.
 
 Journal: Nature</description>
+    </item>
+    <item>
+      <title>Chiral laser gyroscopes breaking the lock-in limit</title>
+      <link>https://doi.org/10.1038/s41586-026-10684-4</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10684-4</guid>
+
+      <dc:creator>Yuan-Hao Mao</dc:creator>
+      <dc:creator>Ji-Peng Xu</dc:creator>
+      <dc:creator>Hong-Teng Ji</dc:creator>
+      <dc:creator>Li-Tian Yang</dc:creator>
+      <dc:creator>Zhong-Qi Tan</dc:creator>
+      <dc:creator>Yu-Chuan Quan</dc:creator>
+      <dc:creator>Tao Pu</dc:creator>
+      <dc:creator>Wei Shao</dc:creator>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yuan-Hao Mao, Ji-Peng Xu, Hong-Teng Ji, Li-Tian Yang, Zhong-Qi Tan, Yu-Chuan Quan, Tao Pu, Wei Shao, et al.
+
+Journal: Nature; Volume: 654; Issue: 8120; Pages: 926-931</description>
     </item>
     <item>
       <title>A hidden predictor of sudden cardiac death uncovered by deep learning</title>
