@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 11:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:01:37 +0000</lastBuildDate>
 
     <item>
       <title>A native sulfur deposit in Gale crater, Mars</title>
@@ -770,6 +770,23 @@ Journal: Science; Volume: 392; Issue: 6804; Pages: 1238-1239
 Abstract: Comparative analysis of seed biomechanics reveals principles that can guide soft robot technology</description>
     </item>
     <item>
+      <title>Protein-templated synthesis of dinucleotide repeat DNA by an antiphage reverse transcriptase</title>
+      <link>https://doi.org/10.1126/science.aed1656</link>
+      <guid isPermaLink="false">10.1126/science.aed1656</guid>
+
+      <dc:creator>Pujuan Deng</dc:creator>
+      <dc:creator>Hyunbin Lee</dc:creator>
+      <dc:creator>Carlo Armijo</dc:creator>
+      <dc:creator>Haoqing Wang</dc:creator>
+      <dc:creator>Alex Gao</dc:creator>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Pujuan Deng, Hyunbin Lee, Carlo Armijo, Haoqing Wang, Alex Gao
+
+Journal: Science; Volume: 392; Issue: 6804; Pages: 1274-1281
+
+Abstract: Defense-associated reverse transcriptases (DRTs) are widespread bacterial antiphage systems that use unconventional mechanisms of polynucleotide synthesis. We show that DRT3, which comprises two distinct RTs (Drt3a and Drt3b) and a noncoding RNA (ncRNA), synthesizes alternating poly(GT/AC) double-stranded DNA. Cryo–electron microscopy structures at 2.6-angstrom resolution reveal a D3-symmetric 6:6:6 complex of Drt3a, Drt3b, and ncRNA. Drt3a produces the poly(GT) strand using a conserved ACACAC template within the ncRNA. Notably, Drt3b synthesizes a complementary, protein-primed poly(AC) strand in the complete absence of a nucleic acid template, using conserved active site residues specific to Drt3b to enforce precise base alternation. These findings expand the functional landscape of nucleic acid polymerases, revealing a protein-templated mechanism for sequence-specific DNA synthesis.</description>
+    </item>
+    <item>
       <title>Big Ebola outbreak puts research spotlight on little-known virus</title>
       <link>https://doi.org/10.1126/science.aej7944</link>
       <guid isPermaLink="false">10.1126/science.aej7944</guid>
@@ -801,23 +818,6 @@ Abstract: The Bundibugyo virus only emerged twice before. Now, scientists see a 
 Journal: Science; Volume: 392; Issue: 6804; Pages: 1252-1254
 
 Abstract: Highlights from the Science family of journals</description>
-    </item>
-    <item>
-      <title>Protein-templated synthesis of dinucleotide repeat DNA by an antiphage reverse transcriptase</title>
-      <link>https://doi.org/10.1126/science.aed1656</link>
-      <guid isPermaLink="false">10.1126/science.aed1656</guid>
-
-      <dc:creator>Pujuan Deng</dc:creator>
-      <dc:creator>Hyunbin Lee</dc:creator>
-      <dc:creator>Carlo Armijo</dc:creator>
-      <dc:creator>Haoqing Wang</dc:creator>
-      <dc:creator>Alex Gao</dc:creator>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Pujuan Deng, Hyunbin Lee, Carlo Armijo, Haoqing Wang, Alex Gao
-
-Journal: Science; Volume: 392; Issue: 6804; Pages: 1274-1281
-
-Abstract: Defense-associated reverse transcriptases (DRTs) are widespread bacterial antiphage systems that use unconventional mechanisms of polynucleotide synthesis. We show that DRT3, which comprises two distinct RTs (Drt3a and Drt3b) and a noncoding RNA (ncRNA), synthesizes alternating poly(GT/AC) double-stranded DNA. Cryo–electron microscopy structures at 2.6-angstrom resolution reveal a D3-symmetric 6:6:6 complex of Drt3a, Drt3b, and ncRNA. Drt3a produces the poly(GT) strand using a conserved ACACAC template within the ncRNA. Notably, Drt3b synthesizes a complementary, protein-primed poly(AC) strand in the complete absence of a nucleic acid template, using conserved active site residues specific to Drt3b to enforce precise base alternation. These findings expand the functional landscape of nucleic acid polymerases, revealing a protein-templated mechanism for sequence-specific DNA synthesis.</description>
     </item>
     <item>
       <title>Direct development of stem tetrapods across the fin-to-limb transition</title>

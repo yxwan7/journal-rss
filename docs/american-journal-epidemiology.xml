@@ -5,8 +5,16 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 11:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:03:19 +0000</lastBuildDate>
 
+    <item>
+      <title>Correction to: Developing a novel algorithm to identify incident and prevalent dementia in Medicare claims—the ARIC Study</title>
+      <link>https://doi.org/10.1093/aje/kwag142</link>
+      <guid isPermaLink="false">10.1093/aje/kwag142</guid>
+
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Article number: kwag142</description>
+    </item>
     <item>
       <title>RE: advancing observational research on arts and health: theory-informed approaches using the RADIANCE framework</title>
       <link>https://doi.org/10.1093/aje/kwag149</link>
@@ -323,7 +331,7 @@ Journal: American Journal of Epidemiology; Article number: kwag131
 Abstract: Abstract The relationship between exposure to perfluoroalkyl substances (PFAS) and birthweight remains unclear. Pooling data across multiple cohorts can increase power, leading to more representative populations and exposure distributions, but confounding by cohort can be a major source of bias. To understand this potential bias, we assessed the relationship between exposure to five PFAS and birthweight utilizing data from 5480 mother-infant dyads across 17 Environmental influences on Child Health Outcomes (ECHO) Cohort sites. The relationship was assessed in several ways: covariate-adjusted models without cohort adjustment as well as adjustment via fixed and random effects. Findings from analysis with cohort adjustment resulted in significantly inverse relationships for four of the five PFAS considered. Adjustment via fixed and random effects produced similar findings. Failure to adjust for cohort resulted in bias of varying direction and magnitude depending on the PFAS considered. Results were supported in simulated data. In this study, we saw evidence of confounding bias by cohort even after adjustment for covariates, while adjustment by both fixed and random effects for cohort resulted in comparable results.</description>
     </item>
     <item>
-      <title>PEPRVision: a visualization framework for Pharmacoepidemiology research</title>
+      <title>PEPRVision: a visualization framework for pharmacoepidemiology research</title>
       <link>https://doi.org/10.1093/aje/kwag121</link>
       <guid isPermaLink="false">10.1093/aje/kwag121</guid>
 
@@ -340,7 +348,7 @@ Abstract: Abstract The relationship between exposure to perfluoroalkyl substance
 
 Journal: American Journal of Epidemiology; Article number: kwag121
 
-Abstract: Abstract Medical chart review is commonly used in epidemiologic research to evaluate health outcomes, refine measurement algorithms, and identify potential study biases. In pharmacoepidemiologic research, administrative claims and other structured healthcare databases provide longitudinal detail suitable for similar purposes but are typically presented in tabular formats that are cumbersome to interpret. This study introduces PEPRVision, a visualization framework that transforms structured longitudinal healthcare data into intuitive graphics to support patient profile review in pharmacoepidemiology research. PEPRVision was developed based on principles of preattentive visual processing, leveraging visual attributes such as color, spatial position, shape, and length to facilitate rapid pattern recognition. We demonstrated PEPRVision using US administrative claims data through four case studies: (1) evaluating a claims-based algorithm for measurement of congenital hearing loss, (2) enhancing study design decisions by identifying reverse causation in a drug safety study, (3) assessing the face validity of signals of potential teratogenicity detected through data mining for triage for advancement to causal inference studies, and (4) identifying mechanisms of inappropriate prenatal exposure to teratogenic medications to inform improvement of risk mitigation strategies. As a complement to population-based causal inference studies, PEPRVision facilitates review of patient-level variation, enhancing the validity and clinical relevance of pharmacoepidemiologic research.</description>
+Abstract: Abstract Medical chart review is commonly used in epidemiologic research to evaluate health outcomes, refine measurement algorithms, and identify potential study biases. In pharmacoepidemiology research, administrative claims and other structured healthcare databases provide longitudinal detail suitable for similar purposes but are typically presented in tabular formats that are cumbersome to interpret. This study introduces PEPRVision, a visualization framework that transforms structured longitudinal healthcare data into intuitive graphics to support patient-profile review in pharmacoepidemiology research. PEPRVision was developed based on principles of preattentive visual processing, leveraging visual attributes such as color, spatial position, shape, and length to facilitate rapid pattern recognition. We demonstrated PEPRVision using United States administrative claims data through 4 case studies: (1) evaluating a claims-based algorithm for measuring congenital hearing loss, (2) enhancing study design decisions by identifying reverse causation in a drug-safety study, (3) assessing the face validity of signals of potential teratogenicity detected through data mining for triage for advancement to causal inference studies, and (4) identifying mechanisms of inappropriate prenatal exposure to teratogenic medications to inform improvements in risk-mitigation strategies. As a complement to population-based causal inference studies, PEPRVision facilitates review of patient-level variation, enhancing the validity and clinical relevance of pharmacoepidemiology research.</description>
     </item>
     <item>
       <title>Streetview greenspace types and dementia risk in older adults: The Multi-Ethnic Study of Atherosclerosis</title>
@@ -431,7 +439,7 @@ Journal: American Journal of Epidemiology; Article number: kwag120
 Abstract: Abstract Random-effects meta-analysis typically assumes a normal distribution for the underlying effects of the studies. However, under certain conditions, this assumption may not be the most appropriate. Simulation studies comparing several alternative random-effects models have found small differences in bias but larger differences in coverage probabilities and precision. To investigate the impact of using different meta-analysis models, we used a meta-analysis of 58 cohort studies comparing the cognitive functioning between preterm- and term-born children. We compared the results between seven different random-effects models based on: asymmetric distributions, mixtures of distributions and Dirichlet process (DP) prior. Sensitivity analysis using variations of the seven main models was also performed. While estimates for mean treatment effect were similar across models, the between-study variance estimates were identical. Asymmetric distribution models indicated studies with extreme effects and a left-shifted random-effects distribution while mixture models were less informative. DP models revealed clusters of studies with similar characteristics, suggesting that the observed heterogeneity may be partially explained by certain methodological and clinical characteristics of the studies. Overall, our study highlights that applying various meta-analysis models might not affect materially the summary estimates but may provide better insights into the underlying effects’ distribution and the explanation of between-study variance.</description>
     </item>
     <item>
-      <title>Association of cultural racism with breast cancer survival among United States adults, 2018-2020</title>
+      <title>Association of cultural racism with breast cancer survival among US adults, 2018-2020</title>
       <link>https://doi.org/10.1093/aje/kwag126</link>
       <guid isPermaLink="false">10.1093/aje/kwag126</guid>
 
@@ -447,7 +455,7 @@ Abstract: Abstract Random-effects meta-analysis typically assumes a normal distr
 
 Journal: American Journal of Epidemiology; Article number: kwag126
 
-Abstract: Abstract There are marked racial/ethnic disparities in breast cancer mortality. Cultural racism, expressed through societal norms, stereotypes, and implicit biases, may contribute. We utilized a previously validated state-level multidimensional latent measure, the cultural racism factor (CRF). Using data from the Surveillance, Epidemiology, and End Results (SEER) Program (2018-2020), we evaluated associations between CRF and risk of death using Cox proportional hazards models with state as random effect. We examined time-varying effects and conducted race and ethnicity-stratified analyses. Among 225 991 patients, 63% were Non-Hispanic (NH) White, 12% NH Black, and 16% Hispanic. In the overall cohort, patients in higher CRF states experienced 8% higher risk of death per unit increase in CRF after adjusting for covariates (aHR = 1.08; 95% CI: 1.05–1.11). Time-varying models revealed strongest effects early in follow-up (baseline HR = 1.30; 95% CI: 1.08–1.57), with attenuation over time (interaction HR = 0.99; 95% CI: 0.99–1.00). NH Black women exhibited a pattern suggestive of early elevated mortality risk that attenuated over follow-up (baseline HR = 1.14; 95% CI: 0.96, 1.35; interaction HR = 0.99; 95% CI, 0.97-1.00). In conclusion, cultural racism is associated with breast cancer survival at the population level, with time-dependent effects strongest early in follow-up.</description>
+Abstract: Abstract There are marked racial/ethnic disparities in breast cancer mortality. Cultural racism, expressed through societal norms, stereotypes, and implicit biases, may contribute. We utilized a previously validated state-level multidomain latent measure, the cultural racism factor (CRF). Using data from the Surveillance, Epidemiology, and End Results Program (2018-2020), we evaluated associations between CRF and risk of death using Cox proportional hazards (PH) model with state as random effect. We examined time-varying effects and conducted race- and ethnicity-stratified analyses. Among 225 991 patients, 63% were non-Hispanic (NH) White, 12% were NH Black, and 16% were Hispanic. In the overall cohort, patients in higher CRF states experienced 8% higher risk of death per unit increase in CRF after adjusting for covariates (aHR = 1.08; 95% CI, 1.05-1.11). Time-varying models revealed strongest effects early in follow-up (baseline HR = 1.30; 95% CI, 1.08-1.57), with attenuation over time (interaction HR = 0.99; 95% CI, 0.99-1.00). NH Black women exhibited a pattern suggestive of early elevated mortality risk that attenuated over follow-up (baseline HR = 1.14; 95% CI, 0.96-1.35; interaction HR = 0.99; 95% CI, 0.97-1.00). In conclusion, cultural racism is associated with breast cancer survival at the population level, with the strongest time-dependent effects observed early in follow-up.</description>
     </item>
     <item>
       <title>Possible selection bias in Mendelian randomization studies: effect of body mass index on breast cancer as an example</title>
@@ -1738,26 +1746,6 @@ Abstract: Abstract Psychological stress can cause diminished immune response to 
 Journal: American Journal of Epidemiology; Article number: kwag050
 
 Abstract: Abstract Estimating treatment effects across disease risk scores (DRSs) is a common approach for assessing treatment effect heterogeneity in randomized trials. When external models are unavailable, the optimal approach for internally fitting the DRS model remains uncertain. This simulation study compares 3 internal derivation approaches, evaluating bias of estimated treatment effects within DRS-defined strata. We simulated trials under varying treatment effects (odds ratios [OR] of 1, 0.8, and 0.5) and treatment–covariate interactions. We fit DRS models on (1) a controls-only method, (2) the full sample ignoring treatment assignment, and (3) a random split-sample method of 50% of the controls, who were removed from the second stage of analysis. Additional simulations varied outcome incidence, sample size, randomization ratio, and the true DRS C-statistic. Bias decreased with the split-sample method (overall percent bias [OPB] 7.7% for OR = 0.8 with interactions) compared to the controls-only (OPB = 15.6%) and full-sample methods (OPB = 22.1%). Bias decreased more with the split-sample method than with controls-only and full-sample methods with larger sample sizes, higher outcome incidence, greater treated-to-control ratios, and larger C-statistics. These findings suggest split-sample methods may be the preferred approach to estimate treatment effect heterogeneity by the DRS in trials with sufficient data to support stable prediction modeling.</description>
-    </item>
-    <item>
-      <title>Requirement for written informed consent and selection bias in a chart-review prostate cancer study</title>
-      <link>https://doi.org/10.1093/aje/kwag043</link>
-      <guid isPermaLink="false">10.1093/aje/kwag043</guid>
-
-      <dc:creator>Renning Zheng</dc:creator>
-      <dc:creator>Sanjay K Das</dc:creator>
-      <dc:creator>Trung Duong Tran</dc:creator>
-      <dc:creator>Nadine A Friedrich</dc:creator>
-      <dc:creator>Stirling M Cummings</dc:creator>
-      <dc:creator>Anakaren Gonzalez</dc:creator>
-      <dc:creator>Amanda M De Hoedt</dc:creator>
-      <dc:creator>Haleigh Bellerose</dc:creator>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Renning Zheng, Sanjay K Das, Trung Duong Tran, Nadine A Friedrich, Stirling M Cummings, Anakaren Gonzalez, Amanda M De Hoedt, Haleigh Bellerose, et al.
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1659-1665
-
-Abstract: Abstract Although retrospective chart-review studies are typically performed using a waiver of written informed consent, many institutional review boards (IRB) do not approve such waivers for chart-review studies using prospective enrollment, which could introduce selection bias in participant characteristics and outcomes, thereby impairing representativeness and validity. We aim to determine this bias in a chart-review prostate cancer (PCa) study using prospective enrollment. Using an IRB-approved chart-review protocol with a waiver of written informed consent for prospective enrollment, we identified 2202 patients scheduled for initial prostate biopsy from 2007 to 2021 at Durham Veterans Affairs Healthcare System. These patients were simultaneously approached for enrollment into a separate minimal-risk prospective observational study protocol requiring blood collection and written consent. One thousand two hundred thirty-eight subjects provided written consent to the blood collection protocol; 964 did not. Patients who provided written consent differed in several key characteristics, including younger age, but had a similar racial distribution. Importantly, participants providing written consent had a significantly lower risk of PCa (multivariable OR = 0.41; 95% CI, 0.31-0.54; P &amp;amp;lt; .001). As such, patients who provided written consent had younger age, similar race, and lower PCa risk and therefore might not accurately represent the full eligible population. To minimize selection bias, a waiver of written consent should be allowed for chart-review studies using prospective enrollment.</description>
     </item>
   </channel>
 </rss>
