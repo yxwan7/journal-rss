@@ -5,7 +5,7 @@
     <link>https://www.nature.com/nathumbehav/</link>
     <description>Latest journal articles for Nature Human Behaviour</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:23:36 +0000</lastBuildDate>
 
     <item>
       <title>Prevalence and severity of mental health problems in early-career researchers: a systematic review and meta-analysis</title>
@@ -62,6 +62,18 @@ Journal: Nature Human Behaviour</description>
       <dc:creator>Charles J. Gomez</dc:creator>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Charles J. Gomez
+
+Journal: Nature Human Behaviour</description>
+    </item>
+    <item>
+      <title>Political polarization in low- and middle-income countries</title>
+      <link>https://doi.org/10.1038/s41562-026-02507-3</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02507-3</guid>
+
+      <dc:creator>Horacio Larreguy</dc:creator>
+      <dc:creator>Ernesto Tiburcio</dc:creator>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Horacio Larreguy, Ernesto Tiburcio
 
 Journal: Nature Human Behaviour</description>
     </item>
@@ -576,12 +588,39 @@ Journal: Nature Human Behaviour</description>
 Journal: Nature Human Behaviour</description>
     </item>
     <item>
+      <title>Human gloss perception reproduced by tiny neural networks</title>
+      <link>https://doi.org/10.1038/s41562-026-02445-0</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02445-0</guid>
+
+      <dc:creator>Takuma Morimoto</dc:creator>
+      <dc:creator>Arash Akbarinia</dc:creator>
+      <dc:creator>Katherine R. Storrs</dc:creator>
+      <dc:creator>Jacob R. Cheeseman</dc:creator>
+      <dc:creator>Hannah E. Smithson</dc:creator>
+      <dc:creator>Karl R. Gegenfurtner</dc:creator>
+      <dc:creator>Roland W. Fleming</dc:creator>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Takuma Morimoto, Arash Akbarinia, Katherine R. Storrs, Jacob R. Cheeseman, Hannah E. Smithson, Karl R. Gegenfurtner, Roland W. Fleming
+
+Journal: Nature Human Behaviour
+
+Abstract: Abstract A key goal of visual neuroscience is to explain how our brains infer object properties such as colour, curvature or gloss. Here we used machine learning to identify computations underlying human gloss judgements—traditionally considered a challenging inference. We rendered thousands of objects with varied shapes using a Ward reflectance model across lighting and viewpoints, then obtained gloss ratings for each image. Observers’ judgements were consistent with one another, yet systematically deviated from reality. We compared these ratings with neural networks trained either to estimate physical reflectance (‘ground-truth networks’) or to reproduce human judgements (‘human-like networks’). While estimating physical reflectance required deep networks, shallow networks accurately replicated human judgements. Remarkably, even a single-filter network could predict human judgements better than the best ground-truth network and generalized to known gloss illusions. These results suggest that gloss perception relies on simple general-purpose computations, and demonstrate the power of interpretable ‘tiny‘ networks in understanding cognition.</description>
+    </item>
+    <item>
       <title>Children reach consensus using flexible imitation and emergent roles in networks</title>
       <link>https://doi.org/10.1038/s41562-026-02450-3</link>
       <guid isPermaLink="false">10.1038/s41562-026-02450-3</guid>
 
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 6; Pages: 1024-1025</description>
+    </item>
+    <item>
+      <title>The hidden cost of acute task switching as revealed in routine surgical practice</title>
+      <link>https://doi.org/10.1038/s41562-026-02458-9</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02458-9</guid>
+
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 6; Pages: 1022-1023</description>
     </item>
     <item>
       <title>Government policy documents across 185 countries largely cite Global North sources</title>
@@ -705,6 +744,17 @@ Journal: Nature Human Behaviour; Volume: 10; Issue: 6; Pages: 1060-1067</descrip
 Journal: Nature Human Behaviour; Volume: 10; Issue: 6; Pages: 1019-1021</description>
     </item>
     <item>
+      <title>How to design effective scientific figures</title>
+      <link>https://doi.org/10.1038/s41562-026-02466-9</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02466-9</guid>
+
+      <dc:creator>Ryosuke Fujii</dc:creator>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ryosuke Fujii
+
+Journal: Nature Human Behaviour; Volume: 10; Issue: 5; Pages: 825-827</description>
+    </item>
+    <item>
       <title>Causal evidence of task-switching costs in organ transplantation</title>
       <link>https://doi.org/10.1038/s41562-026-02459-8</link>
       <guid isPermaLink="false">10.1038/s41562-026-02459-8</guid>
@@ -815,6 +865,24 @@ Abstract: Abstract A central objective in human neuroimaging is to understand th
 Journal: Nature Human Behaviour; Volume: 10; Issue: 6; Pages: 1109-1121
 
 Abstract: Abstract Social influences, including group dynamics, social norms and peer support, are assumed to influence physical activity (PA). A previous systematic review and meta-analysis found that ‘true groups’ (that is, those applying group dynamics principles) had advantages over individual PA interventions. Given technological advances and virtual platforms, we updated previous findings. Systematic searches of electronic databases were completed on 19 March 2024. A meta-analysis of 71 studies (523 effect sizes) compared individual and group-based PA interventions across behavioural, functional (for example, strength and flexibility), psychosocial (for example, quality of life and loneliness) and health outcomes (for example, VO 2 max). Using a three-level random effects model, group-based conditions showed a small but non-significant advantage for PA ( n = 22,042; g = 0.086, 95% CI (−0.061, 0.233), P = 0.249), psychosocial outcomes ( n = 18,223; g = 0.292, 95% CI (−0.171, 0.755), P = 0.214) and health outcomes ( n = 31,607; g = 0.125, 95% CI (−0.023, 0.272), P = 0.096). For functional outcomes, a significant advantage for group-based interventions emerged after outlier removal ( n = 14,429; g = 0.164, 95% CI (0.032, 0.297), P = 0.015). Moderation analysis indicated that different group types produced comparable effects, except that ‘true groups’ were associated with a larger effect size for health outcomes. Both individual and group-based approaches (in-person or online) may be effective. Future research should explore mechanisms that enhance their impact across populations and settings. This review was prospectively registered with PROSPERO (CRD42021271452).</description>
+    </item>
+    <item>
+      <title>How deceptive online networks reached millions in the US 2020 elections</title>
+      <link>https://doi.org/10.1038/s41562-026-02435-2</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02435-2</guid>
+
+      <dc:creator>Ruth E. Appel</dc:creator>
+      <dc:creator>Young Mie Kim</dc:creator>
+      <dc:creator>Jennifer Pan</dc:creator>
+      <dc:creator>Yiqing Xu</dc:creator>
+      <dc:creator>Ben Nimmo</dc:creator>
+      <dc:creator>Daniel Robert Thomas</dc:creator>
+      <dc:creator>Hunt Allcott</dc:creator>
+      <dc:creator>Pablo Barberá</dc:creator>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ruth E. Appel, Young Mie Kim, Jennifer Pan, Yiqing Xu, Ben Nimmo, Daniel Robert Thomas, Hunt Allcott, Pablo Barberá, et al.
+
+Journal: Nature Human Behaviour; Volume: 10; Issue: 6; Pages: 1068-1082</description>
     </item>
     <item>
       <title>Shifting from brain ageing to brain longevity</title>
@@ -1116,6 +1184,24 @@ Journal: Nature Human Behaviour; Volume: 10; Issue: 5; Pages: 906-922</descripti
 Journal: Nature Human Behaviour; Volume: 10; Issue: 2; Pages: 212-214</description>
     </item>
     <item>
+      <title>Digital mental health needs a purpose-driven approach</title>
+      <link>https://doi.org/10.1038/s41562-025-02380-6</link>
+      <guid isPermaLink="false">10.1038/s41562-025-02380-6</guid>
+
+      <dc:creator>Mowafa Househ</dc:creator>
+      <dc:creator>Hurmat Ali Shah</dc:creator>
+      <dc:creator>Zain Ul Abideen Tariq</dc:creator>
+      <dc:creator>Diana Alsayed Hassan</dc:creator>
+      <dc:creator>Mohamed Khalifa</dc:creator>
+      <dc:creator>Jens Schneider</dc:creator>
+      <dc:creator>Mounir Hamdi</dc:creator>
+      <dc:creator>Alaa Abd-Alrazaq</dc:creator>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mowafa Househ, Hurmat Ali Shah, Zain Ul Abideen Tariq, Diana Alsayed Hassan, Mohamed Khalifa, Jens Schneider, Mounir Hamdi, Alaa Abd-Alrazaq, et al.
+
+Journal: Nature Human Behaviour; Volume: 10; Issue: 2; Pages: 227-238</description>
+    </item>
+    <item>
       <title>How to research ethically with online data</title>
       <link>https://doi.org/10.1038/s41562-026-02408-5</link>
       <guid isPermaLink="false">10.1038/s41562-026-02408-5</guid>
@@ -1185,6 +1271,18 @@ Journal: Nature Human Behaviour; Volume: 10; Issue: 4; Pages: 669-680</descripti
 Journal: Nature Human Behaviour; Volume: 10; Issue: 3; Pages: 439-439</description>
     </item>
     <item>
+      <title>Six reasons to study emotional support from conversational artificial intelligence</title>
+      <link>https://doi.org/10.1038/s41562-026-02412-9</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02412-9</guid>
+
+      <dc:creator>Melissa M. Karnaze</dc:creator>
+      <dc:creator>Cinnamon S. Bloss</dc:creator>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Melissa M. Karnaze, Cinnamon S. Bloss
+
+Journal: Nature Human Behaviour; Volume: 10; Issue: 4; Pages: 635-638</description>
+    </item>
+    <item>
       <title>The role of context in continuity and segmentation</title>
       <link>https://doi.org/10.1038/s41562-026-02403-w</link>
       <guid isPermaLink="false">10.1038/s41562-026-02403-w</guid>
@@ -1213,6 +1311,36 @@ Journal: Nature Human Behaviour; Volume: 10; Issue: 5; Pages: 988-1005</descript
 Journal: Nature Human Behaviour; Volume: 10; Issue: 2; Pages: 417-433
 
 Abstract: Abstract To discern speech or appreciate music, the human auditory system detects how pitch changes over time (pitch motion). Here, using psychophysics, computational modelling, functional neuroimaging and analysis of recorded speech, we ask whether humans can detect pitch motion using computations analogous to those used by the visual system. We adapted stimuli from studies of vision to create novel auditory correlated noise stimuli that elicited robust pitch motion percepts. In psychophysical experiments, we discovered that humans can judge pitch direction from spectrotemporal intensity correlations. Robust sensitivity to negative spectrotemporal correlations is a direct analogue of illusory ‘reverse-phi’ motion in vision, constituting a new auditory illusion. Functional MRI measurements in auditory cortex supported the hypothesis that human auditory processing may employ pitch direction opponency. Linking lab findings to real-world perception, we analysed recordings of English and Mandarin speech and found that pitch direction was signalled by both positive and negative spectrotemporal correlations, suggesting that sensitivity to both types confers ecological benefits. This work reveals how motion detection algorithms sensitive to local correlations are deployed by the central nervous system across disparate modalities (vision and audition) and dimensions (space and frequency).</description>
+    </item>
+    <item>
+      <title>Caprine dairy exploitation on the Iranian Plateau from the seventh millennium BC</title>
+      <link>https://doi.org/10.1038/s41562-025-02396-y</link>
+      <guid isPermaLink="false">10.1038/s41562-025-02396-y</guid>
+
+      <dc:creator>Emmanuelle Casanova</dc:creator>
+      <dc:creator>Hossein Davoudi</dc:creator>
+      <dc:creator>Antoine Zazzo</dc:creator>
+      <dc:creator>Séverine Zirah</dc:creator>
+      <dc:creator>Jérémy Jacob</dc:creator>
+      <dc:creator>Christine Hatté</dc:creator>
+      <dc:creator>Audrey Boco-Simon</dc:creator>
+      <dc:creator>François Thil</dc:creator>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Emmanuelle Casanova, Hossein Davoudi, Antoine Zazzo, Séverine Zirah, Jérémy Jacob, Christine Hatté, Audrey Boco-Simon, François Thil, et al.
+
+Journal: Nature Human Behaviour; Volume: 10; Issue: 5; Pages: 849-859</description>
+    </item>
+    <item>
+      <title>Language barriers and the speed of international knowledge diffusion</title>
+      <link>https://doi.org/10.1038/s41562-025-02367-3</link>
+      <guid isPermaLink="false">10.1038/s41562-025-02367-3</guid>
+
+      <dc:creator>Kyle Higham</dc:creator>
+      <dc:creator>Sadao Nagaoka</dc:creator>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kyle Higham, Sadao Nagaoka
+
+Journal: Nature Human Behaviour; Volume: 10; Issue: 5; Pages: 860-872</description>
     </item>
     <item>
       <title>Hybrid neural–cognitive models reveal how memory shapes human reward learning</title>
@@ -1290,133 +1418,6 @@ Abstract: Abstract There are increasing calls for economic assistance in the for
       <description>Authors: Anatolia Batruch, Nicolas Sommet, Frédérique Autin
 
 Journal: Nature Human Behaviour; Volume: 10; Issue: 3; Pages: 632-632</description>
-    </item>
-    <item>
-      <title>Political action is now crucial for US scientists</title>
-      <link>https://doi.org/10.1038/s41562-026-02406-7</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02406-7</guid>
-
-      <dc:creator>Tatiane Russo-Tait</dc:creator>
-      <dc:creator>Summer Blanco</dc:creator>
-      <dc:creator>Eduardo Bonilla-Silva</dc:creator>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tatiane Russo-Tait, Summer Blanco, Eduardo Bonilla-Silva
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 3; Pages: 435-436</description>
-    </item>
-    <item>
-      <title>The tension between big team science and colonial power dynamics</title>
-      <link>https://doi.org/10.1038/s41562-026-02404-9</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02404-9</guid>
-
-      <dc:creator>Fanli Jia</dc:creator>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fanli Jia
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 3; Pages: 440-442</description>
-    </item>
-    <item>
-      <title>Why single-item measures of wellbeing are best</title>
-      <link>https://doi.org/10.1038/s41562-026-02401-y</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02401-y</guid>
-
-      <dc:creator>John F. Helliwell</dc:creator>
-      <dc:creator>Richard Layard</dc:creator>
-      <dc:creator>Jeffrey D. Sachs</dc:creator>
-      <dc:creator>Jan-Emmanuel De Neve</dc:creator>
-      <dc:creator>Lara B. Aknin</dc:creator>
-      <dc:creator>Shun Wang</dc:creator>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Authors: John F. Helliwell, Richard Layard, Jeffrey D. Sachs, Jan-Emmanuel De Neve, Lara B. Aknin, Shun Wang
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 3; Pages: 437-438</description>
-    </item>
-    <item>
-      <title>Assessing personality using zero-shot generative AI scoring of brief open-ended text</title>
-      <link>https://doi.org/10.1038/s41562-025-02389-x</link>
-      <guid isPermaLink="false">10.1038/s41562-025-02389-x</guid>
-
-      <dc:creator>Aidan G. C. Wright</dc:creator>
-      <dc:creator>Whitney R. Ringwald</dc:creator>
-      <dc:creator>Colin E. Vize</dc:creator>
-      <dc:creator>Johannes C. Eichstaedt</dc:creator>
-      <dc:creator>Mike Angstadt</dc:creator>
-      <dc:creator>Aman Taxali</dc:creator>
-      <dc:creator>Chandra Sripada</dc:creator>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Aidan G. C. Wright, Whitney R. Ringwald, Colin E. Vize, Johannes C. Eichstaedt, Mike Angstadt, Aman Taxali, Chandra Sripada
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 3; Pages: 541-555</description>
-    </item>
-    <item>
-      <title>Climate change adaptation must consider older people</title>
-      <link>https://doi.org/10.1038/s41562-026-02402-x</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02402-x</guid>
-
-      <dc:creator>Liming Yao</dc:creator>
-      <dc:creator>Shiqi Tan</dc:creator>
-      <dc:creator>Chengwei Lv</dc:creator>
-      <dc:creator>Nan Wang</dc:creator>
-      <dc:creator>Yoshikuni Yoshida</dc:creator>
-      <dc:creator>Yin Long</dc:creator>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Liming Yao, Shiqi Tan, Chengwei Lv, Nan Wang, Yoshikuni Yoshida, Yin Long
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 3; Pages: 443-446</description>
-    </item>
-    <item>
-      <title>What I learned applying for tenure-track positions</title>
-      <link>https://doi.org/10.1038/s41562-025-02398-w</link>
-      <guid isPermaLink="false">10.1038/s41562-025-02398-w</guid>
-
-      <dc:creator>I-An Su</dc:creator>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: I-An Su
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 2; Pages: 208-208</description>
-    </item>
-    <item>
-      <title>Convergent transcriptomic and connectomic controllers of information integration and its anaesthetic breakdown across mammalian brains</title>
-      <link>https://doi.org/10.1038/s41562-025-02381-5</link>
-      <guid isPermaLink="false">10.1038/s41562-025-02381-5</guid>
-
-      <dc:creator>Andrea I. Luppi</dc:creator>
-      <dc:creator>Lynn Uhrig</dc:creator>
-      <dc:creator>Jordy Tasserie</dc:creator>
-      <dc:creator>Pedro A. M. Mediano</dc:creator>
-      <dc:creator>Fernando E. Rosas</dc:creator>
-      <dc:creator>S. Parker Singleton</dc:creator>
-      <dc:creator>Daniel Gutierrez-Barragan</dc:creator>
-      <dc:creator>Silvia Gini</dc:creator>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrea I. Luppi, Lynn Uhrig, Jordy Tasserie, Pedro A. M. Mediano, Fernando E. Rosas, S. Parker Singleton, Daniel Gutierrez-Barragan, Silvia Gini, et al.
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 4; Pages: 777-802
-
-Abstract: Abstract The mammalian brain orchestrates the processing and integration of information to guide behaviour. Here, to characterize mammalian information-processing architecture, we combine functional neuroimaging and anaesthesia in humans, macaques, marmosets and mice. We show that breakdown of information integration is a convergent effect of diverse anaesthetics across mammalian species. As the system disintegrates, brain dynamics become more difficult to control. Both effects are reversed upon re-awakening induced by thalamic deep-brain stimulation in the macaque. Regional breakdown of integrated information coincides with the species-specific spatial topography of PVALB/Pvalb gene expression. To provide mechanistic insight beyond correlation, we develop computational models for humans, macaques and mice that integrate species-specific connectivity and transcriptomic gradients, demonstrating their respective roles for controlling brain dynamics and information integration. We reveal evolutionarily conserved controllers of information integration in the mammalian brain.</description>
-    </item>
-    <item>
-      <title>Priming of non-constituents reveals linguistic structure beyond grammar</title>
-      <link>https://doi.org/10.1038/s41562-025-02388-y</link>
-      <guid isPermaLink="false">10.1038/s41562-025-02388-y</guid>
-
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 3; Pages: 457-458</description>
-    </item>
-    <item>
-      <title>Neural activations and representations during episodic versus semantic memory retrieval</title>
-      <link>https://doi.org/10.1038/s41562-025-02390-4</link>
-      <guid isPermaLink="false">10.1038/s41562-025-02390-4</guid>
-
-      <dc:creator>Roni Tibon</dc:creator>
-      <dc:creator>Andrea Greve</dc:creator>
-      <dc:creator>Gina Humphreys</dc:creator>
-      <dc:creator>Jörn Alexander Quent</dc:creator>
-      <dc:creator>Richard Henson</dc:creator>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Roni Tibon, Andrea Greve, Gina Humphreys, Jörn Alexander Quent, Richard Henson
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 4; Pages: 803-821</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,75 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:23:22 +0000</lastBuildDate>
 
+    <item>
+      <title>Multi-antigen-targeting T cells in pediatric central nervous system tumors: a phase 1 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04449-9</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04449-9</guid>
+
+      <dc:creator>Stephanie Gomez</dc:creator>
+      <dc:creator>Rachel A. DiCioccio</dc:creator>
+      <dc:creator>Ashley E. Geiger</dc:creator>
+      <dc:creator>Melanie L. Grant</dc:creator>
+      <dc:creator>Emily Reynolds</dc:creator>
+      <dc:creator>Anushree Datar</dc:creator>
+      <dc:creator>Chase D. McCann</dc:creator>
+      <dc:creator>Jay Tanna</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Stephanie Gomez, Rachel A. DiCioccio, Ashley E. Geiger, Melanie L. Grant, Emily Reynolds, Anushree Datar, Chase D. McCann, Jay Tanna, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Author Correction: Digital AVATAR therapy for distressing voices in psychosis: the phase 2/3 AVATAR2 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04540-1</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04540-1</guid>
+
+      <dc:creator>Philippa A. Garety</dc:creator>
+      <dc:creator>Clementine J. Edwards</dc:creator>
+      <dc:creator>Hassan Jafari</dc:creator>
+      <dc:creator>Richard Emsley</dc:creator>
+      <dc:creator>Mark Huckvale</dc:creator>
+      <dc:creator>Mar Rus-Calafell</dc:creator>
+      <dc:creator>Miriam Fornells-Ambrojo</dc:creator>
+      <dc:creator>Andrew Gumley</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Philippa A. Garety, Clementine J. Edwards, Hassan Jafari, Richard Emsley, Mark Huckvale, Mar Rus-Calafell, Miriam Fornells-Ambrojo, Andrew Gumley, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Clinical decision support in hematological malignancies using a case-grounded AI agent</title>
+      <link>https://doi.org/10.1038/s41591-026-04494-4</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04494-4</guid>
+
+      <dc:creator>Julian Zoller</dc:creator>
+      <dc:creator>Michael Kalz</dc:creator>
+      <dc:creator>Xuewei Wu</dc:creator>
+      <dc:creator>Sven Cuntz</dc:creator>
+      <dc:creator>Linus Kruk</dc:creator>
+      <dc:creator>Niklas Kehl</dc:creator>
+      <dc:creator>Julius J. Michel</dc:creator>
+      <dc:creator>Cornelius Funk</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Julian Zoller, Michael Kalz, Xuewei Wu, Sven Cuntz, Linus Kruk, Niklas Kehl, Julius J. Michel, Cornelius Funk, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time conditions on commodity hardware with a median latency of 39 s rather than the hours typically required for manual molecular board workflows. In a simulated practice study, agent-assisted resident physicians achieved near-senior concordance and partially outperformed senior physicians in their subspecialty. External validation on 555 independent cases from a second academic center yielded 81.8% concordance across 47 entities, and a prospective 1-month silent trial on 64 consecutive, unselected cases achieved 82.8% concordance. Hallucinations occurred in 2 of 664 evaluated cases (0.3%). Together these data provide evidence that locally deployable, case-grounded large language model agents can deliver auditable clinical decision support across hematological malignancies, with concordance maintained across institutions and under real-time conditions on commodity hardware.</description>
+    </item>
+    <item>
+      <title>Agents AMIE and MIRA advance medical AI capabilities</title>
+      <link>https://doi.org/10.1038/d41591-026-00034-2</link>
+      <guid isPermaLink="false">10.1038/d41591-026-00034-2</guid>
+
+      <dc:creator>Karen O’Leary</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Karen O’Leary
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>Delivering the benefits of genomic data reanalysis for diagnosis equitably and at scale</title>
       <link>https://doi.org/10.1038/s41591-026-04516-1</link>
@@ -176,26 +243,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine
 
 Abstract: Abstract Patients with estrogen receptor-positive (ER + ), HER2-negative, early breast cancer (BC) have low pathologic complete response (pCR) rates following neoadjuvant chemotherapy. Immune checkpoint inhibitors (ICIs) provide limited benefit in programmed death-ligand 1 (PD-L1)-negative tumors, characterized by an immune-cold tumor microenvironment. Here we hypothesized that immune-modulating stereotactic body radiation therapy (iSBRT; 3 × 8 Gy) could enhance response through tumor microenvironment reprogramming, and that CD73 blockade could further improve efficacy. We conducted a phase 2, randomized, multicenter trial (Neo-CheckRay) in 147 female patients with high-risk, ER + HER2 − early BC. Patients received neoadjuvant chemotherapy plus iSBRT alone (No_ICI), with anti-PD-L1 durvalumab (Single_ICI) or with durvalumab plus anti-CD73 oleclumab (Double_ICI). In the intention-to-treat population, the primary endpoint, residual cancer burden 0/1 rate, was 35.4% with No_ICI, 45.1% with Single_ICI and 47.9% with Double_ICI, without statistically significant differences. pCR rates were 16.7%, 29.4% and 33.3%, respectively ( P = 0.059). In the per-protocol population (MammaPrint High Risk, n = 131), pCR rates were 16.3%, 32.6% and 35.6%, respectively ( P = 0.040). Among PD-L1-negative tumors ( n = 91), pCR rates were 3.4%, 28.1% and 30.0%, respectively. No new safety signals were observed. Baseline transcriptomic analysis showed low immune signature expression in PD-L1-negative tumors. Paired baseline and on-treatment biopsies obtained 1 week after iSBRT demonstrated tumor microenvironment reprogramming toward an inflamed phenotype in the iSBRT + anti-PD-L1 arms. These findings suggest that iSBRT + anti-PD-L1 may convert immune-cold ER + HER2 − BC into more inflamed tumors and improve response, particularly in PD-L1-negative disease. ClinicalTrials.gov registration: NCT03875573 .</description>
-    </item>
-    <item>
-      <title>Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04471-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04471-x</guid>
-
-      <dc:creator>Marc S. Raab</dc:creator>
-      <dc:creator>Niels Weinhold</dc:creator>
-      <dc:creator>K. Martin Kortüm</dc:creator>
-      <dc:creator>Jan Krönke</dc:creator>
-      <dc:creator>Roland Fenk</dc:creator>
-      <dc:creator>Katja Weisel</dc:creator>
-      <dc:creator>Lilli Podola</dc:creator>
-      <dc:creator>Uta Bertsch</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marc S. Raab, Niels Weinhold, K. Martin Kortüm, Jan Krönke, Roland Fenk, Katja Weisel, Lilli Podola, Uta Bertsch, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Advancements in frontline therapies have substantially improved outcomes in newly diagnosed multiple myeloma (NDMM); however, many patients will not achieve deep responses and will relapse. Teclistamab, a BCMA×CD3 bispecific antibody, in combination with daratumumab, has demonstrated strong efficacy in relapsed/refractory multiple myeloma versus standard of care as early as first relapse. This ongoing phase 2 GMMG-HD10/DSMM-XX (MajesTEC-5) study evaluates teclistamab-based regimens in transplant-eligible NDMM. In this prespecified pooled analysis of three cohorts, 49 patients received teclistamab/daratumumab/lenalidomide (Tec-DR; arms A and A1) or Tec-DR with bortezomib (Tec-DVR; arm B). Primary endpoints were incidence and severity of adverse events (AEs) and serious AEs; secondary endpoints included overall response rate (ORR), minimal residual disease (MRD) negativity and MRD-negative complete response (CR). The current analysis spans the induction and autologous stem cell transplantation phases until the premaintenance timepoint. Grade 3 or 4 treatment-emergent AEs (TEAEs) occurred in 91.8% (45/49); most were hematologic (lymphopenia (59.2%; 29/49), neutropenia (59.2%; 29/49) and leukopenia (18.4%; 9/49)). No grade 5 TEAEs were reported. Serious AEs occurred in 55.1% (27/49); pyrexia (12.2% (6/49)) was most common. Any-grade and grade 3 or 4 infections occurred in 81.6% (40/49) and 36.7% (18/49), respectively, the most common grade 3 or 4 infections being COVID-19 and pneumonia (6.1% (3/49) each). Cytokine release syndrome occurred in 67.3% (33/49); all were grade 1 or 2, all resolved and none led to discontinuation of any study treatment. No treatment-related immune effector cell-associated neurotoxicity syndrome (ICANS) events occurred. Across arms, the MRD-negative CR rate was 91.8% (45/49) by the premaintenance timepoint; the MRD negativity rate was 100% in evaluable samples at postinduction cycle 3 (1 × 10 −5 (46/46)), cycle 6 (1 × 10 −5 (46/46) and 1 × 10 −6 (46/46)) and premaintenance (1 × 10 −5 (40/40)); the ORR was 100% (49/49). Total median stem cell yield was 8.1 × 10 6 per kg. Data support the feasibility of Tec-D(V)R induction in transplant-eligible NDMM, with a consistent safety profile compared with individual regimen components and notable early MRD negativity rates. ClinicalTrials.gov identifier: NCT05695508 .</description>
     </item>
     <item>
       <title>HPV vaccination linked to dramatic reduction in cervical cancer deaths</title>
@@ -382,14 +429,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>General-purpose chatbots outperform clinical AI tools on physicians’ real-world questions</title>
-      <link>https://doi.org/10.1038/s41591-026-04457-9</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04457-9</guid>
-
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>CAR T cells take on precancers</title>
       <link>https://doi.org/10.1038/s41591-026-04473-9</link>
       <guid isPermaLink="false">10.1038/s41591-026-04473-9</guid>
@@ -528,24 +567,6 @@ Journal: Nature Medicine
 Abstract: Abstract Anhedonia is a core and disabling symptom of mood disorders with limited treatment options. We evaluated the efficacy and safety of the dopamine agonist pramipexole in patients with mood disorders characterized by clinically significant anhedonia. In this single-center, randomized, double-blind, placebo-controlled trial, adults with major depressive disorder, dysthymia or bipolar depression and elevated Snaith−Hamilton Pleasure Scale (SHAPS) scores were assigned (1:1) to flexible dose, once-daily oral pramipexole as add-on treatment or placebo for 9 weeks. The primary outcome was change in SHAPS score from baseline to week 9. Analyses were conducted in the modified intention-to-treat population. Eighty-five participants were randomized, and 82 were included in the analysis. The primary outcome was met: pramipexole was associated with a greater reduction in SHAPS scores compared to placebo (mean difference: −4.04, 95% confidence interval: −6.89 to −1.18, P = 0.006, Hedges’ g = 0.62). Exploratory analyses indicated that pramipexole was associated with increased light physical activity and relative preservation of reward-related ventral striatal activation. Improvements in anhedonia were sustained during a 6-month open-label extension. Pramipexole was generally well tolerated compared to placebo. Pramipexole significantly improved anhedonia and showed a favorable safety profile, supporting its potential as an augmentation strategy in mood disorders. ClinicalTrials.gov identifiers: NCT05355337 and NCT05825235 .</description>
     </item>
     <item>
-      <title>Clinical Profile and Genomic Characterization of the 2026 Bundibugyo Virus Index Case in Uganda</title>
-      <link>https://doi.org/10.1038/s41591-026-04510-7</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04510-7</guid>
-
-      <dc:creator>Andrew Nsawotebba</dc:creator>
-      <dc:creator>Isaac Ssewanyana</dc:creator>
-      <dc:creator>Alisen Ayitewala</dc:creator>
-      <dc:creator>Misaki Wayengera</dc:creator>
-      <dc:creator>Stephen Kanyerezi</dc:creator>
-      <dc:creator>Jonathan Kabazzi</dc:creator>
-      <dc:creator>Valeria Nakintu</dc:creator>
-      <dc:creator>Aloysious Ssemaganda</dc:creator>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrew Nsawotebba, Isaac Ssewanyana, Alisen Ayitewala, Misaki Wayengera, Stephen Kanyerezi, Jonathan Kabazzi, Valeria Nakintu, Aloysious Ssemaganda, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>Brain Health for Economic Resilience: a data-driven framework for the brain-positive economic transition</title>
       <link>https://doi.org/10.1038/s41591-026-04444-0</link>
       <guid isPermaLink="false">10.1038/s41591-026-04444-0</guid>
@@ -575,24 +596,6 @@ Journal: Nature Medicine</description>
       <dc:creator>Haiyan Zhou</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Mengyue Niu, Jifeng Guo, Yuchao Yang, Qian Xu, Cheng Cheng, Hao Li, Ningdi Luo, Haiyan Zhou, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Adjuvanted inactivated rabies virus-vectored Lassa virus vaccine in healthy adults: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04429-z</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04429-z</guid>
-
-      <dc:creator>Justin R. Ortiz</dc:creator>
-      <dc:creator>Drishya Kurup</dc:creator>
-      <dc:creator>Adam C. Kaufman</dc:creator>
-      <dc:creator>Sabrine Ben Hamed</dc:creator>
-      <dc:creator>Allison M. LaRocco</dc:creator>
-      <dc:creator>Kirsten E. Lyke</dc:creator>
-      <dc:creator>Sarah M. Litts</dc:creator>
-      <dc:creator>Shrimati Datta</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Justin R. Ortiz, Drishya Kurup, Adam C. Kaufman, Sabrine Ben Hamed, Allison M. LaRocco, Kirsten E. Lyke, Sarah M. Litts, Shrimati Datta, et al.
 
 Journal: Nature Medicine</description>
     </item>
@@ -686,26 +689,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine
 
 Abstract: Abstract Survodutide is a glucagon receptor/glucagon-like peptide-1 receptor dual agonist under investigation for treating obesity and related diseases. The SYNCHRONIZE-MASLD phase 3, randomized, double-blind, placebo-controlled trial included 216 adults (131 female and 85 male) with obesity (defined as a body mass index ≥30 kg m − 2 or ≥27 kg m − 2 with at least one obesity complication) and at-risk metabolic dysfunction-associated steatotic liver disease (MASLD), defined by MASLD with evidence of liver inflammation and/or fibrosis by noninvasive tests (NITs) or biopsy-confirmed metabolic dysfunction-associated steatohepatitis (MASH). Participants were randomized (2:1) and treated with once-weekly subcutaneous injections of survodutide 6.0 mg ( n = 146) or placebo ( n = 70). The co-primary endpoints, ≥30% reduction in magnetic resonance imaging-proton density fat fraction (MRI-PDFF)-assessed liver fat content (LFC) and percentage change in body weight (both baseline to week 48), were met. In total, 84.2% of survodutide-treated patients versus 24.3% of placebo-treated patients had ≥30% reduction in LFC using the efficacy estimand ( P &amp;lt; 0.0001; treatment regimen estimand: 68.5% versus 28.6%, respectively; P &amp;lt; 0.0001). Mean percentage change in body weight was −12.2% with survodutide and −1.0% with placebo using the efficacy estimand ( P &amp;lt; 0.0001; treatment regimen estimand: −8.7% versus −1.4%, respectively; P &amp;lt; 0.0001). The most frequently reported adverse events with survodutide were gastrointestinal, commonly occurring during dose escalation, and were generally of mild-to-moderate severity. In adults with obesity and at-risk MASLD, survodutide treatment was statistically and clinically superior to placebo for reductions in MRI-PDFF-assessed LFC and body weight. Limitations included short trial duration (48 weeks) and limited global reach (participants recruited in the United States and Spain).</description>
-    </item>
-    <item>
-      <title>Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04476-6</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04476-6</guid>
-
-      <dc:creator>Julio Rosenstock</dc:creator>
-      <dc:creator>Ildiko Lingvay</dc:creator>
-      <dc:creator>Donna Ryan</dc:creator>
-      <dc:creator>Ania M. Jastreboff</dc:creator>
-      <dc:creator>Robert Kushner</dc:creator>
-      <dc:creator>Andres Acosta</dc:creator>
-      <dc:creator>Thomas C. Blevins</dc:creator>
-      <dc:creator>Melissa Choi</dc:creator>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Julio Rosenstock, Ildiko Lingvay, Donna Ryan, Ania M. Jastreboff, Robert Kushner, Andres Acosta, Thomas C. Blevins, Melissa Choi, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Aleniglipron is an oral, small-molecule glucagon-like peptide-1 receptor agonist (GLP1-RA) in development for obesity treatment. The ACCESS phase 2b placebo-controlled, double-blind study randomized 230 adults (mean BMI 39.5 kg m −2 , 54% female) with obesity or overweight to examine the effects of once-daily aleniglipron escalated every 4 weeks to 45, 90 or 120 mg. At week 36, the trial met its primary endpoint with a placebo-adjusted LS mean (95% confidence interval) body-weight change from baseline of −8.2% (−11.1 to −5.3%), −9.8% (−12.5 to −7.2%) and −11.3% (−13.9 to −8.6%) for the aleniglipron 45-, 90- and 120-mg arms, respectively ( P &amp;lt; 0.0001, all doses versus placebo), with no apparent weight-loss plateau at the end of the double-blind period. Continued weight loss was observed at the interim analysis (median treatment duration of 20 weeks) of the ongoing open-label extension. Gastrointestinal events were generally mild to moderate and decreased in frequency over time, with little to no recurrence of vomiting after reintroduction following permitted dose interruptions. Treatment-related discontinuations were 10.4% across aleniglipron arms, with no events of drug-induced liver injury. Clinically relevant weight reductions of up to 11.3% with a tolerability profile consistent with the GLP-1RA class support further development of aleniglipron for obesity treatment. ClinicalTrials.gov registration: NCT06693843 .</description>
     </item>
     <item>
       <title>Taming the inflamed heart</title>
@@ -915,14 +898,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2216-2226</description>
 Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2164-2172</description>
     </item>
     <item>
-      <title>Blood signatures of cell type-specific aging forecast disease risk and resilience</title>
-      <link>https://doi.org/10.1038/s41591-026-04447-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04447-x</guid>
-
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1985-1986</description>
-    </item>
-    <item>
       <title>Plasma proteomic signatures of cellular aging predict human disease</title>
       <link>https://doi.org/10.1038/s41591-026-04446-y</link>
       <guid isPermaLink="false">10.1038/s41591-026-04446-y</guid>
@@ -941,6 +916,14 @@ Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2164-2172</description>
 Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2060-2072
 
 Abstract: Abstract Aging is asynchronous across cells and organs. Here we tested whether plasma proteomics can be used to analyze cell type-specific aging. From analyses of over 7,000 plasma proteins measured in 60,542 individuals, we developed machine learning models to estimate the biological age of over 40 cell types spanning neuronal, immune, glial, endocrine, epithelial and musculoskeletal origins. We observed that 20–25% of individuals exhibited accelerated aging in a single cell type and 1–3% in 10 or more cell types. Cellular aging signatures were associated with disease status and predicted incident disease and mortality over 15 years of follow-up. Individuals with the APOE4 genotype showed older astrocytes but younger macrophages compared to APOE3 carriers, whereas the APOE2 genotype had inverse associations. Moreover, extreme astrocyte aging tripled the risk of incident Alzheimer’s Disease in individuals with two APOE4 alleles, while youthful astrocytes reduced risk. Individuals with extremely aged compared to youthful skeletal myocytes exhibited a 12.7-fold higher risk of developing amyotrophic lateral sclerosis. In individuals who smoked, extreme respiratory epithelial cell aging was associated with a 58% higher lung cancer risk compared to smoking alone. Specific cellular vulnerabilities and cumulative cellular aging burden influenced survival, with youthful immune and neuronal cell types conferring protective effects. Finally, we developed a polycellular aging risk score that stratified mortality risk across cohorts and proteomics platforms. These findings establish a framework for quantifying human physiology at cellular resolution, revealing heterogeneous aging trajectories and their impact on disease susceptibility and resilience.</description>
+    </item>
+    <item>
+      <title>Blood signatures of cell type-specific aging forecast disease risk and resilience</title>
+      <link>https://doi.org/10.1038/s41591-026-04447-x</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04447-x</guid>
+
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1985-1986</description>
     </item>
     <item>
       <title>Manageable toxicity is not a label — it is an oxymoron</title>
@@ -1065,24 +1048,6 @@ Abstract: Abstract Alzheimer’s disease (AD) is not an inevitable outcome of pa
       <dc:creator>Bishal Gyawali</dc:creator>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Bishal Gyawali
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04455-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04455-x</guid>
-
-      <dc:creator>Martin Wermke</dc:creator>
-      <dc:creator>Sebastian Ochsenreither</dc:creator>
-      <dc:creator>Dirk Jaeger</dc:creator>
-      <dc:creator>Heiko Becker</dc:creator>
-      <dc:creator>Annalen Bleckmann</dc:creator>
-      <dc:creator>Farastuk Bozorgmehr</dc:creator>
-      <dc:creator>Manik Chatterjee</dc:creator>
-      <dc:creator>Stefanie Groepper</dc:creator>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Martin Wermke, Sebastian Ochsenreither, Dirk Jaeger, Heiko Becker, Annalen Bleckmann, Farastuk Bozorgmehr, Manik Chatterjee, Stefanie Groepper, et al.
 
 Journal: Nature Medicine</description>
     </item>
@@ -1321,24 +1286,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2238-2244</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>A multimodal biomarker strategy to enhance diagnostic precision in neurodegenerative parkinsonism</title>
-      <link>https://doi.org/10.1038/s41591-026-04398-3</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04398-3</guid>
-
-      <dc:creator>Ivan Martinez-Valbuena</dc:creator>
-      <dc:creator>Maziar Emamikhah</dc:creator>
-      <dc:creator>Diana A. Olszewska</dc:creator>
-      <dc:creator>Sandrina K. Weber</dc:creator>
-      <dc:creator>Susana Schnell</dc:creator>
-      <dc:creator>Seyed-Mohammad Fereshtehnejad</dc:creator>
-      <dc:creator>Nikolai Gil D. Reyes</dc:creator>
-      <dc:creator>Mario Sousa</dc:creator>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ivan Martinez-Valbuena, Maziar Emamikhah, Diana A. Olszewska, Sandrina K. Weber, Susana Schnell, Seyed-Mohammad Fereshtehnejad, Nikolai Gil D. Reyes, Mario Sousa, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2073-2082</description>
-    </item>
-    <item>
       <title>Bridging the gap in TB case detection</title>
       <link>https://doi.org/10.1038/d41591-026-00026-2</link>
       <guid isPermaLink="false">10.1038/d41591-026-00026-2</guid>
@@ -1485,102 +1432,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2107-2116</description>
       <description>Authors: Andreea Ciudin, Jennifer L. Baker, Andrej Belančić, Luca Busetto, Dror Dicker, Ľubomíra Fábryová, Gema Frühbeck, Gijs H. Goossens, et al.
 
 Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1962-1966</description>
-    </item>
-    <item>
-      <title>Orforglipron for maintenance of body weight reduction: the double-blind, randomized phase 3b ATTAIN-MAINTAIN trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04386-7</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04386-7</guid>
-
-      <dc:creator>Louis J. Aronne</dc:creator>
-      <dc:creator>Deborah B. Horn</dc:creator>
-      <dc:creator>Carel W. le Roux</dc:creator>
-      <dc:creator>Ariana M. Chao</dc:creator>
-      <dc:creator>Wayne Ho</dc:creator>
-      <dc:creator>Bruno Halpern</dc:creator>
-      <dc:creator>Ryan Griffin</dc:creator>
-      <dc:creator>Cathy Xie</dc:creator>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Louis J. Aronne, Deborah B. Horn, Carel W. le Roux, Ariana M. Chao, Wayne Ho, Bruno Halpern, Ryan Griffin, Cathy Xie, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Incretins have improved the management of obesity and its related complications, but maintaining these health benefits requires ongoing administration, which can be challenging. Orforglipron, a once-daily oral nonpeptide glucagon-like peptide-1 (GLP-1) receptor agonist, has demonstrated weight loss efficacy, improvements in cardiometabolic risk factors, and safety generally similar to injectable GLP-1 receptor agonists. Here this double-blind, placebo-controlled trial randomized participants previously treated with tirzepatide (cohort 1: N = 205) or semaglutide (cohort 2: N = 171) during the SURMOUNT-5 study to orforglipron once daily or placebo. Cohort 1 participants who achieved body weight plateau maintained a model-based estimate (MBE) of 74.7% (s.e.m. 4.05) of body weight reduction with orforglipron compared with an MBE of 49.2% (s.e.m. 3.92) with placebo, resulting in an estimated treatment difference of MBE 25.5% (95% confidence interval 14.5 to 36.5); P &amp;lt; 0.001; treatment-regimen estimand) at week 52. Cohort 2 participants who achieved body weight plateau maintained an MBE of 79.3% (s.e.m. 4.42) of body weight reduction with orforglipron compared with an MBE of 37.6% (s.e.m. 7.46) with placebo, resulting in an estimated treatment difference of MBE 41.7 (95% confidence interval 24.4 to 59.0); P &amp;lt; 0.001; treatment-regimen estimand) at week 52. All key secondary endpoints were met. The most common adverse events were gastrointestinal effects, which were mostly mild to moderate in severity. These data demonstrate orforglipron’s potential as a globally scalable option for minimizing weight changes after injectable therapy. Trial limitations include the absence of a comparator arm involving continued use of injectable obesity-management medications and the trial’s 1-year duration. ClinicalTrials.gov registration: NCT06584916 .</description>
-    </item>
-    <item>
-      <title>Harnessing the power of biomarkers for diffuse intrinsic pontine gliomas</title>
-      <link>https://doi.org/10.1038/s41591-026-04399-2</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04399-2</guid>
-
-      <dc:creator>Jasia Mahdi</dc:creator>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jasia Mahdi
-
-Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1979-1980</description>
-    </item>
-    <item>
-      <title>Data-Driven Decision Support in Obesity Management Commission: enabling more equitable and personalized obesity care</title>
-      <link>https://doi.org/10.1038/s41591-026-04363-0</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04363-0</guid>
-
-      <dc:creator>Paul W. Franks</dc:creator>
-      <dc:creator>Sara G. I. Suliman</dc:creator>
-      <dc:creator>Nicholas J. Timpson</dc:creator>
-      <dc:creator>Claudia Langenberg</dc:creator>
-      <dc:creator>Carel W. le Roux</dc:creator>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Paul W. Franks, Sara G. I. Suliman, Nicholas J. Timpson, Claudia Langenberg, Carel W. le Roux
-
-Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1959-1961</description>
-    </item>
-    <item>
-      <title>A new treatment for preterm pre-eclampsia could benefit mother and child</title>
-      <link>https://doi.org/10.1038/s41591-026-04400-y</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04400-y</guid>
-
-      <dc:creator>Meryam Sugulle</dc:creator>
-      <dc:creator>Anne Cathrine Staff</dc:creator>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Meryam Sugulle, Anne Cathrine Staff
-
-Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1977-1978</description>
-    </item>
-    <item>
-      <title>The microRNA inhibitor CDR132L in patients with reduced left ventricular ejection fraction after myocardial infarction: a randomized phase 2 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04408-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04408-4</guid>
-
-      <dc:creator>Johann Bauersachs</dc:creator>
-      <dc:creator>Scott D. Solomon</dc:creator>
-      <dc:creator>Stefan D. Anker</dc:creator>
-      <dc:creator>Isabel Antorrena-Miranda</dc:creator>
-      <dc:creator>Rudolf A. de Boer</dc:creator>
-      <dc:creator>Gerasimos Filippatos</dc:creator>
-      <dc:creator>Tim Friede</dc:creator>
-      <dc:creator>Wilfried Hauke</dc:creator>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Johann Bauersachs, Scott D. Solomon, Stefan D. Anker, Isabel Antorrena-Miranda, Rudolf A. de Boer, Gerasimos Filippatos, Tim Friede, Wilfried Hauke, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract MicroRNA-132 (miR-132) is a central regulator of adverse cardiac remodeling. Here we evaluated CDR132L, a synthetic antisense oligonucleotide miR-132 inhibitor, in a multinational, randomized, double-blind, placebo-controlled phase 2 trial (HF-REVERT) in patients with recent myocardial infarction (MI) and left ventricular (LV) systolic dysfunction. Within 3–14 days after MI, 294 patients were randomized to receive CDR132L 5 mg kg −1 , CDR132L 10 mg kg −1 or placebo as three intravenous doses at 4-week intervals plus guideline-directed therapy. In total, 280 patients (245 men and 35 women) who received at least one dose of the study drug were included in the modified intention-to-treat population. CDR132L was well tolerated, with no hepatic, renal, hematologic or cardiac toxicity signals. The primary endpoint—the percentage change in LV end-systolic volume index at 6 months—improved in all groups but did not differ significantly between the CDR132L groups (5 mg kg −1 and 10 mg kg −1 ) and the placebo group. Secondary endpoints, including LV ejection fraction, global longitudinal strain and N-terminal pro B-type natriuretic peptide, were also not significantly different between the CDR132L and placebo groups. Prespecified exploratory analyses suggested potential benefits of CDR132L treatment in patients with advanced adverse remodeling at baseline, supporting further evaluation of CDR132L, including in chronic heart failure conditions. ClinicalTrials.gov: NCT05350969 .</description>
-    </item>
-    <item>
-      <title>Low-dose digoxin in patients with heart failure with reduced or mildly reduced ejection fraction: a randomized controlled trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04406-6</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04406-6</guid>
-
-      <dc:creator>D. J. van Veldhuisen</dc:creator>
-      <dc:creator>M. Rienstra</dc:creator>
-      <dc:creator>A. Mosterd</dc:creator>
-      <dc:creator>M. Alings</dc:creator>
-      <dc:creator>A. A. Voors</dc:creator>
-      <dc:creator>K. Damman</dc:creator>
-      <dc:creator>A. D. I. van Asselt</dc:creator>
-      <dc:creator>M. L. Bouvy</dc:creator>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: D. J. van Veldhuisen, M. Rienstra, A. Mosterd, M. Alings, A. A. Voors, K. Damman, A. D. I. van Asselt, M. L. Bouvy, et al.
-
-Journal: Nature Medicine</description>
     </item>
   </channel>
 </rss>

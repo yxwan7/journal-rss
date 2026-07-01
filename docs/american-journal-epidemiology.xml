@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:17:59 +0000</lastBuildDate>
 
     <item>
       <title>Correction to: Developing a novel algorithm to identify incident and prevalent dementia in Medicare claims—the ARIC Study</title>
@@ -236,7 +236,7 @@ Journal: American Journal of Epidemiology; Article number: kwag135
 Abstract: Abstract Background: Depression has been associated with magnetic resonance imaging (MRI) measures of larger white matter hyperintensity (WMH) volumes and smaller cerebral grey matter volumes (GMV) in predominantly White samples. Recent findings suggest that some race/ethnicity groups may experience more severe health consequences due to depression when it is present compared with experience of depression in White samples. We investigated the association of depressive symptoms with WMH and GMV by race/ethnicity, using a continuous measure of depressive symptoms to more expansively capture participants’ experience of depression versus clinical diagnosis alone. Methods: A diverse sample of older, northern California Kaiser Healthy Aging and Diverse Life Experiences and Study of Healthy Aging in African Americans participants (n = 550) underwent MRI neuroimaging 2017-2022. Baseline depressive symptoms were measured in 2017 using the NIH PROMIS toolbox. We conducted a literature-informed Bayesian analysis, stratified by race/ethnicity, to examine the association between baseline depressive symptoms and post-baseline WMH and GMV. Results: Our sample was 14% Asian, 54% Black, 16% Latino, and 17% White. Overall, we did not observe an association between depressive symptoms and log(WMH) (0.06, 95% Credible Interval [CrI]: -0.09,0.22) or GMV (-0.74, 95% CrI: -1.62,0.16). In stratified analyses, 1 SD higher depressive symptoms were associated with larger log(WMH) volume (0.21, 95%CrI: 0.002,0.42) among Black participants and smaller GMV among Latino participants (-2.92, 95% CrI: -4.31,-1.52). Unexpectedly, depressive symptoms were associated with larger GMV in Asian participants (2.41, 95% CrI: 0.87,3.95). Discussion: More severe depressive symptoms were associated with MRI markers of brain aging among Black and Latino participants.</description>
     </item>
     <item>
-      <title>Authors Respond to “Racial and ethnic variation in socioeconomic differentials in young adult cardiovascular health”</title>
+      <title>Authors’ response to “Racial and Ethnic Variation in Socioeconomic Differentials in Young Adult Cardiovascular Health”</title>
       <link>https://doi.org/10.1093/aje/kwag136</link>
       <guid isPermaLink="false">10.1093/aje/kwag136</guid>
 
@@ -268,10 +268,10 @@ Journal: American Journal of Epidemiology; Article number: kwag136</description>
 
 Journal: American Journal of Epidemiology; Article number: kwag133
 
-Abstract: Abstract Postpartum depression (PPD) affects both mothers and fathers, yet research on paternal PPD remains limited. The HOPE cohort includes PPD screenings using the Edinburgh Postnatal Depression Scale (EPDS) from parents in 67 of 98 Danish municipalities (2015-2021). It is the largest cohort to include fathers, and linkage with nationwide health registers provides information on PPD diagnoses, sociodemographic, and health-related factors. This cohort study aimed to evaluate potential selection bias of fathers in the HOPE cohort by comparing selected characteristics with the Danish paternal background population and estimating relative odds ratios (RORs) for three perinatal associations using logistic regression. In addition, the prevalence of paternal PPD in the HOPE cohort will be reported. In the HOPE cohort comprising 46 174 childbirths and 42 680 unique fathers, 3.29% had a positive EPDS screening, 2.69% had a registered PPD diagnosis, and 0.49% had both. Fathers in the cohort resembled the background population (444 339 childbirths) across most characteristics; however, fathers of non-Danish origin were markedly underrepresented. RORs showed no substantial differences, indicating minimal selection bias across the examined perinatal associations. Our findings suggest that fathers in the HOPE cohort are representative of fathers in the Danish background population, supporting the cohort’s use for future research related to paternal mental health.</description>
+Abstract: Abstract Postpartum depression (PPD) affects both mothers and fathers, yet research on paternal PPD remains limited. The HOPE cohort includes PPD screenings using the Edinburgh Postnatal Depression Scale (EPDS) from parents in 67 of 98 Danish municipalities (2015-2021). It is the largest cohort to include fathers, and linkage with nationwide health registers provides information on PPD diagnoses, sociodemographic, and health-related factors. This cohort study aimed to evaluate potential selection bias of fathers in the HOPE cohort by comparing selected characteristics with the Danish paternal background population and estimating relative odds ratios (RORs) for 3 perinatal associations using logistic regression. In addition, we report the prevalence of paternal PPD in the HOPE cohort. In the HOPE cohort comprising 46 174 childbirths and 42 680 unique fathers, 3.29% had a positive EPDS screening, 2.69% had a registered PPD diagnosis, and 0.49% had both. Fathers in the cohort resembled the background population (444 339 childbirths) across most characteristics; however, fathers of non-Danish origin were markedly underrepresented. Relative odds ratio showed no substantial differences, indicating minimal selection bias across the examined perinatal associations. Our findings suggest that fathers in the HOPE cohort are representative of fathers in the Danish background population, supporting the cohort’s use for future research related to paternal mental health.</description>
     </item>
     <item>
-      <title>Evaluating statistical models for overdispersed multi-omics data: a multiplex immunofluorescence case study</title>
+      <title>Evaluating statistical models for overdispersed multiomics data: a multiplex immunofluorescence case study</title>
       <link>https://doi.org/10.1093/aje/kwag127</link>
       <guid isPermaLink="false">10.1093/aje/kwag127</guid>
 
@@ -288,7 +288,7 @@ Abstract: Abstract Postpartum depression (PPD) affects both mothers and fathers,
 
 Journal: American Journal of Epidemiology; Article number: kwag127
 
-Abstract: Abstract Multi-omic data analysis poses statistical challenges. We evaluated statistical models for our multiplex immunofluorescence study of T cell subset densities in colorectal cancer. Using 1235 cases, we compared seven models- ordinal logistic regression, Poisson, quasi-Poisson, quadratic negative binomial (NB), linear NB, zero-inflated NB (ZINB) and hurdle NB models- assessing associations with a strong (microsatellite instability, MSI) and a weak (calcium intake) exposure. Simulation studies assessed type I error and power. Effect estimates were generally consistent for the strong exposure (MSI) but varied for the weaker exposure (calcium). Simulations revealed inflated false-positive rates for the Poisson and NB-based models, including quadratic NB, zero-inflated and hurdle, but not for ordinal logistic regression or the linear NB model. The quasi-Poisson model showed modest inflation of low p-values, but the overall p-value distribution remained approximately uniform under the null. Ordinal logistic, linear NB, and quasi-Poisson models achieved the best or near-best power across a range of zero proportions, dispersion levels, and distributions. The ordinal logistic, linear NB, and quasi-Poisson models are useful and robust options for epidemiologic analyses of overdispersed, right-skewed multi-omic data with a nontrivial proportion of zero counts.</description>
+Abstract: Abstract Multiomic data analysis poses statistical challenges. We evaluated statistical models for our multiplex immunofluorescence study of T cell subset densities in colorectal cancer. Using 1235 cases, we compared 7 models—ordinal logistic regression, Poisson, quasi-Poisson, quadratic negative binomial (NB), linear NB, zero-inflated NB, and hurdle NB models—assessing associations with a strong (microsatellite instability, MSI) and a weak (calcium intake) exposure. Simulation studies assessed type I error and power. Effect estimates were generally consistent for the strong exposure (MSI) but varied for the weaker exposure (calcium). Simulations revealed inflated false-positive rates for the Poisson and NB-based models, including quadratic NB, zero-inflated, and hurdle, but not for ordinal logistic regression or the linear NB model. The quasi-Poisson model showed modest inflation of low P-values, but the overall P-value distribution remained approximately uniform under the null. Ordinal logistic, linear NB, and quasi-Poisson models achieved the best or near-best power across a range of zero proportions, dispersion levels, and distributions. The ordinal logistic, linear NB, and quasi-Poisson models are useful and robust options for epidemiologic analyses of overdispersed, right-skewed multiomic data with a nontrivial proportion of zero counts.</description>
     </item>
     <item>
       <title>Antibiotic treatment for non-specific upper respiratory tract infections and exacerbation risk in children with asthma: A target trial emulation study</title>
@@ -493,22 +493,6 @@ Journal: American Journal of Epidemiology; Article number: kwag119
 Abstract: Abstract The gut microbiome affects arterial stiffness in experimental murine models; however, evidence in human longitudinal studies is lacking. In this study, we investigated longitudinal between-person (average) and within-person (change) associations of microbiome features with arterial stiffness. We assessed the fecal microbiome using whole genome metagenomic sequencing, and arterial stiffness using carotid-femoral pulse wave velocity (cfPWV). Our analytic sample consisted of 349 adults from the Baltimore Longitudinal Study of Aging, who contributed 915 visits between 2013-2019. Using linear mixed models, we found higher microbiome evenness and butyrate-producing bacteria were associated with lower cfPWV on average (between-person), but changes in diversity were not associated with changes in cfPWV (within-person). Several potentially pathogenic bacteria were positively associated with cfPWV, both between- and within-person. Butyrate-production pathways were inversely associated with cfPWV between-person and borderline within-person. Trimethylamine-production genes were positively associated with cfPWV between-person and borderline within-person. In addition, changes in other functional pathways including peptidoglycan biosynthesis and L-arginine biosynthesis were associated with changes in cfPWV. In conclusion, cfPWV was associated with both between-person and within-person differences in gut microbiome features, with strength and consistency depending on the feature. These results can inform which microbiome features to target in interventions to improve arterial stiffness.</description>
     </item>
     <item>
-      <title>Evaluating risk prediction models: the predictiveness curve and its geometric summaries</title>
-      <link>https://doi.org/10.1093/aje/kwag123</link>
-      <guid isPermaLink="false">10.1093/aje/kwag123</guid>
-
-      <dc:creator>Wei-Min Chiu</dc:creator>
-      <dc:creator>Dai-Rong Tsai</dc:creator>
-      <dc:creator>Chun-Ju Chiang</dc:creator>
-      <dc:creator>Wen-Chung Lee</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Wei-Min Chiu, Dai-Rong Tsai, Chun-Ju Chiang, Wen-Chung Lee
-
-Journal: American Journal of Epidemiology; Article number: kwag123
-
-Abstract: Abstract Risk prediction models are widely used, but their evaluation is dominated by discrimination-based measures, such as the receiver operating characteristic (ROC) curve and AUC, which provide limited insight into how risks are distributed across a population. We extend the predictiveness curve to risk prediction models, characterize its geometric properties, and derive 3 geometric summaries—the Pietra index, Gini index, and scaled Brier score. To obtain well-calibrated and stable risk estimates, we implement a 3-step prediction post-processing procedure, consisting of cross-validation, isotonic recalibration, and bootstrap averaging. We illustrate the approach using toy examples and a nationwide Taiwan cohort of 23 839 lung cancer patients, in whom a Cox model was used to estimate the 5-year risk of fatality. The 3 indices captured complementary aspects of performance and supported model choice for specific purposes: the Pietra index for minimizing the gray zone, the Gini index for maximizing separation, and the scaled Brier score for increasing certainty. In the lung cancer application, the final post-processed model showed clear risk stratification: 25.2% of patients were very low risk (&amp;amp;lt;10% fatality), and 50.2% were high risk (&amp;amp;gt;75% fatality), whereas only 4.8% were near the average risk. Overall, the predictiveness curve and its geometric summaries provide a population-oriented framework for transparent, purpose-specific evaluation of risk prediction models.</description>
-    </item>
-    <item>
       <title>Development and validation of a dementia risk prediction model for low- and middle-income countries: the 10/66 study</title>
       <link>https://doi.org/10.1093/aje/kwag116</link>
       <guid isPermaLink="false">10.1093/aje/kwag116</guid>
@@ -671,19 +655,6 @@ Abstract: Abstract Acetaminophen is among the most common over-the-counter medic
 Journal: American Journal of Epidemiology; Article number: kwag102
 
 Abstract: Abstract Childhood maltreatment and adult sleep disturbance are significant, related public health concerns, but the extent to which they are associated over time is unknown. We investigated whether childhood maltreatment is associated with sleep disturbance over 20 years in a large, diverse, community sample of 1654 midlife women from 1996 to 2017 in a multicenter cohort study: The Study of Women’s Health Across the Nation. Childhood maltreatment was assessed via The Childhood Trauma Questionnaire, and insomnia symptoms were assessed via self-report at 14 visits. Insomnia symptom trajectories were derived using group-based trajectory modeling. Associations between childhood maltreatment and insomnia trajectories were evaluated via multinomial logistic regression. Four trajectories of insomnia symptoms were identified: consistently low, increasing, moderate/decreasing, and consistently high symptoms. Childhood maltreatment was associated with higher adjusted odds of moderate/decreasing (odds ratio [OR], 1.40; 95% CI, 1.05-1.87) and consistently high (OR, 2.06; 95% CI, 1.56-2.74) insomnia symptoms, respectively. Both physical and sexual abuse were associated with higher adjusted odds of moderate/decreasing and consistently high insomnia symptoms. Childhood maltreatment, particularly physical and sexual abuse, is associated with higher odds of chronic insomnia symptoms in women across midlife. These findings point to an at-risk population that may warrant early intervention to prevent and reduce disturbed sleep.</description>
-    </item>
-    <item>
-      <title>Taking heterogeneity seriously: Black immigrant life expectancy in the United States</title>
-      <link>https://doi.org/10.1093/aje/kwag108</link>
-      <guid isPermaLink="false">10.1093/aje/kwag108</guid>
-
-      <dc:creator>Elizabeth Wrigley-Field</dc:creator>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elizabeth Wrigley-Field
-
-Journal: American Journal of Epidemiology; Article number: kwag108
-
-Abstract: Abstract The article by Hendi and Clevenstine (Am J Epidemiol. 2025;195(6)) documents notably high life expectancy among US Black immigrants, accounting for almost 15% of the increased Black life expectancy between 1994 and 2019, as well as an extreme rise in mortality among Black immigrants during the COVID-19 pandemic. These results are credible in spite of the significant data and analytic challenges intrinsic to the research question. They suggest the need for new avenues of research, including research that is attentive to substantial changes in Black immigrants’ origins and situations, research that reinterprets Black/White trends in light of a changing population composition, and research into the drivers of pandemic-era mortality. Much of the research on Black/White trends has homogenized the Black population, and these results dramatize the analytical weaknesses of failing to take heterogeneity seriously.</description>
     </item>
     <item>
       <title>A Bayesian bivariate spatial modeling framework for stage-specific cancer incidence and targeting of screening efforts</title>
@@ -1079,24 +1050,6 @@ Journal: American Journal of Epidemiology; Article number: kwag087
 Abstract: Abstract Understanding regional and racial variation in the risk of hospitalization with Alzheimer's disease and related dementias (ADRD)—and how it differs from other conditions—is required to inform effective practice and policy. However, no prior studies have simultaneously estimated county-level regional and race-specific variation in hospitalization risk. We assessed hospitalizations with and without ADRD diagnoses among Black and White Medicare Fee-for-Service beneficiaries from 2000 to 2018 and used Bayesian shared component models to estimate geographic variation in hospitalizations jointly for both racial groups. We decomposed hospitalization risk across 3037 counties into (1) risk shared by all beneficiaries and (2) risk specific to either Black or White beneficiaries. We analyzed 143 891 769 hospitalizations (13.2% with ADRD). For hospitalization with ADRD, shared risk was elevated in southern and eastern states; Black-specific risk was elevated in the Midwest, Florida, and California; and White-specific risk was elevated in Appalachia. Black relative risk was significantly higher than White relative risk in 90.2% (2740/3037) of counties for hospitalization with ADRD and 44.7% (1359/3037) of counties for hospitalization without ADRD. These findings underscore the importance of considering regional differences in race-specific risk when assessing hospitalization disparities.</description>
     </item>
     <item>
-      <title>Characterizing thunderstorm asthma emergency department presentations using natural language processing for improved real-time surveillance</title>
-      <link>https://doi.org/10.1093/aje/kwag076</link>
-      <guid isPermaLink="false">10.1093/aje/kwag076</guid>
-
-      <dc:creator>Sedigh Khademi</dc:creator>
-      <dc:creator>Gerardo Luis Dimaguila</dc:creator>
-      <dc:creator>Christopher Palmer</dc:creator>
-      <dc:creator>Muhammad Javed</dc:creator>
-      <dc:creator>Jim Buttery</dc:creator>
-      <dc:creator>Jim Black</dc:creator>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sedigh Khademi, Gerardo Luis Dimaguila, Christopher Palmer, Muhammad Javed, Jim Buttery, Jim Black
-
-Journal: American Journal of Epidemiology; Article number: kwag076
-
-Abstract: Abstract Thunderstorm asthma events can overwhelm emergency departments within hours, making rapid detection critical for public health preparedness and patient safety. We examined whether thunderstorm asthma presentations show distinctive patterns compared to routine asthma cases in emergency department data, with an aim of enhancing the detection of thunderstorm asthma incidence. Using Victoria’s SynSurv surveillance system, we analyzed triage notes from 3 thunderstorm asthma events occurring between 2022 and 2024 in Victoria, Australia, comparing 687 thunderstorm-related presentations with 687 presentations from 8 control days. The study population consisted of emergency department attendees with respiratory presentations. Triage notes were processed using natural language processing and manual review, with demographic, symptom-onset, and medical-history data compared using chi-square tests and temporal analysis. Thunderstorm cases showed significantly higher rates of acute symptom onset within 24 hours (63.0% vs 47.2%), with presentations peaking 3-8 hours after storms and returning to baseline within 24 hours. The affected population skewed markedly toward young adults aged 21-40 years (35.9% vs 15.6% in controls). Immunological and allergic comorbidities were 3 times more prevalent in thunderstorm cases (16.6% vs 5.6%). These distinct demographic, temporal, and allergic profiles could enhance real-time surveillance and emergency preparedness through refined detection models.</description>
-    </item>
-    <item>
       <title>Intergenerational socioeconomic mobility and adulthood all-cause mortality in the Hispanic community health study/study of Latinos</title>
       <link>https://doi.org/10.1093/aje/kwag086</link>
       <guid isPermaLink="false">10.1093/aje/kwag086</guid>
@@ -1384,24 +1337,6 @@ Abstract: Abstract Two-way fixed effects (TWFE) models are increasingly applied 
       <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 5; Pages: 1505-1505</description>
     </item>
     <item>
-      <title>Network analysis of pairwise relative tuberculosis transmission probabilities in Lima, Peru</title>
-      <link>https://doi.org/10.1093/aje/kwag067</link>
-      <guid isPermaLink="false">10.1093/aje/kwag067</guid>
-
-      <dc:creator>Anne N Shapiro</dc:creator>
-      <dc:creator>Meredith B Brooks</dc:creator>
-      <dc:creator>Chuan Chin Huang</dc:creator>
-      <dc:creator>Megan B Murray</dc:creator>
-      <dc:creator>Laura F White</dc:creator>
-      <dc:creator>Helen E Jenkins</dc:creator>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Anne N Shapiro, Meredith B Brooks, Chuan Chin Huang, Megan B Murray, Laura F White, Helen E Jenkins
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1689-1697
-
-Abstract: Abstract Identifying transmission events is important in understanding infectious disease dynamics. Such events are typically unobservable, particularly in respiratory diseases such as tuberculosis (TB). We apply network techniques to identify transmission clusters and features shared within clusters. We estimate directed pairwise transmission probabilities via an existing iterative algorithm that employs a modified Naïve Bayes classifier and use these probabilities to create a network. We explore noise reduction techniques to trim low-probability edges. We group individuals with TB based on edges informed by transmission probabilities via network clustering algorithms. We apply our framework to simulated data and assess clustering algorithm performance. We then apply this approach to data from a cohort study in Lima, Peru, and examine homogeneity of the clusters using a binary entropy measure. We find cluster performance to be consistent across all edge-trimming scenarios and clustering methods. We find high levels of entropy, implying heterogeneity for age, sex, socioeconomic status, individuals who work outside the home, and people using public transit. We analyze estimated directed pairwise transmission probabilities with network techniques. The approach is consistent across network construction and clustering methods and can be applied to any disease outbreak to understand its dynamics. This article is part of a Special Collection on Latino Health.</description>
-    </item>
-    <item>
       <title>Harmonizing HIV-1 RNA laboratory measurements in a longitudinal cohort collaboration</title>
       <link>https://doi.org/10.1093/aje/kwag056</link>
       <guid isPermaLink="false">10.1093/aje/kwag056</guid>
@@ -1540,26 +1475,6 @@ Abstract: Abstract Spatial patterning of environmental hazards often leads to co
 Journal: American Journal of Epidemiology; Article number: kwag054
 
 Abstract: Abstract Many older adults experience financial insecurity. While prior studies link lower later-life socio economic status, financial stress, and financial shocks to worse cognitive outcomes, limited research has examined how dynamic changes in financial well-being—a multidimensional measure of financial circumstances—influence cognitive aging. Here, we examined associations between changes in financial well-being and memory outcomes among 7676 adults aged 50+ in the Health and Retirement Study (“HRS,” 2010-2020). We developed and validated an 8-item index of poor financial well-being using existing HRS survey items aligned with domains from the Consumer Financial Protection Bureau’s Financial Well-Being Scale. In confounder-adjusted linear mixed-effects models, we estimated the associations of average financial well-being and significant improvements or worsening in financial well-being over 4 years, with changes in memory z scores calculated biennially from 2016 to 2020. Each 1-point worsening in average financial well-being was associated with poorer memory function (β = -0.009 SD, 95% CI, -0.020 to 0.003) and accelerated decline (β = -0.007 SD/year, 95% CI, -0.010 to -0.003). Associations were largest for participants with significant worsening of financial well-being and for those aged ≥65 at baseline. Results were robust to sensitivity analyses addressing potential reverse causation and attrition. These findings suggest that midlife and later-life declines in financial well-being may contribute to accelerated cognitive aging.</description>
-    </item>
-    <item>
-      <title>Including an infrequently measured time-varying error-prone covariate in survival analyses: a simulation-based comparison of methods</title>
-      <link>https://doi.org/10.1093/aje/kwag059</link>
-      <guid isPermaLink="false">10.1093/aje/kwag059</guid>
-
-      <dc:creator>Viviane Philipps</dc:creator>
-      <dc:creator>Laurence Freedman</dc:creator>
-      <dc:creator>Veronika Deffner</dc:creator>
-      <dc:creator>Catherine Helmer</dc:creator>
-      <dc:creator>Hélène Jacqmin-Gadda</dc:creator>
-      <dc:creator>Hendriek Boshuizen</dc:creator>
-      <dc:creator>Anne CM Thiébaut</dc:creator>
-      <dc:creator>Cécile Proust-Lima</dc:creator>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Viviane Philipps, Laurence Freedman, Veronika Deffner, Catherine Helmer, Hélène Jacqmin-Gadda, Hendriek Boshuizen, Anne CM Thiébaut, Cécile Proust-Lima
-
-Journal: American Journal of Epidemiology; Article number: kwag059
-
-Abstract: Abstract Epidemiologic studies often evaluate the association between an exposure and an event risk. When time-varying, exposures are usually updated at discrete visits although changes are in continuous time and survival models require values to be constantly known. Moreover, exposures are likely measured with error, and their observation truncated at the event time. We aimed to quantify in a Cox regression the bias in the association resulting from intermittent measurements of an error-prone exposure. Using simulations under various scenarios, we compared five methods: last observation carried-forward (LOCF), classical two-stage regression calibration using measurements up to the event (RC) or also after (PE-RC), multiple imputation (MI) and joint modeling of the exposure and the event (JM). The LOCF, and to a lesser extent the classical RC, showed substantial bias in almost all 45 scenarios. The RC bias was avoided when considering post-event information. The MI performed relatively well, as did the JM. Illustrations exploring the association of Body Mass Index and Executive Functioning with dementia risk showed consistent conclusions. Accounting for measurement error and discrete updates is critical when studying time-varying exposures. MI and JM techniques may be applied in this context, while classical RC should be avoided due to the informative truncation.</description>
     </item>
     <item>
       <title>Infectious disease modeling for public health practice: projections, scenarios, and uncertainty in 3 phases of outbreak response</title>
