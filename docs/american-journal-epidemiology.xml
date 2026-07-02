@@ -5,8 +5,49 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 10:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:34:53 +0000</lastBuildDate>
 
+    <item>
+      <title>Correction to: Home dampness and molds and occurrence of respiratory tract infections in the first 27 years of life: the Espoo Cohort Study</title>
+      <link>https://doi.org/10.1093/aje/kwag148</link>
+      <guid isPermaLink="false">10.1093/aje/kwag148</guid>
+
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Article number: kwag148</description>
+    </item>
+    <item>
+      <title>Association Between maternal body mass index, offspring growth and pubertal timing: results from a longitudinal birth cohort study</title>
+      <link>https://doi.org/10.1093/aje/kwag128</link>
+      <guid isPermaLink="false">10.1093/aje/kwag128</guid>
+
+      <dc:creator>Siyu Zhou</dc:creator>
+      <dc:creator>Michel H P Hof</dc:creator>
+      <dc:creator>Ehsan Motazedi</dc:creator>
+      <dc:creator>Emmy van den Boogaard</dc:creator>
+      <dc:creator>Martijn J J Finken</dc:creator>
+      <dc:creator>Tanja G M Vrijkotte</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Siyu Zhou, Michel H P Hof, Ehsan Motazedi, Emmy van den Boogaard, Martijn J J Finken, Tanja G M Vrijkotte
+
+Journal: American Journal of Epidemiology; Article number: kwag128
+
+Abstract: Abstract Earlier pubertal timing has risen alongside increasing childhood obesity, yet evidence linking early-life body mass index (BMI) to earlier pubertal timing, particularly for boys, remains inconsistent. Prior work often relied on single time-point BMI measurements that overlooked growth dynamics and the potential independent effect of maternal pre-pregnancy BMI. Using data from 2982 participants in the Amsterdam Born Children and their Development cohort, we linked pubertal timing ages 11–12 to maternal BMI and children’s dynamic BMI growth curves from birth to age 8. Joint Bayesian models of linear mixed-effects and ordinal logistic regressions, stratified by sex and adjusted for confounders, found that greater BMI deviations from population curves, during infancy and prepuberty, were associated with earlier pubertal timing in girls (infancy POR: 1.11, 95% CI: 1.02–1.20; prepuberty POR: 1.23, 95% CI: 1.12–1.38) and boys (infancy POR: 1.12, 95% CI: 1.03–1.22; prepuberty POR: 1.23, 95% CI: 1.08–1.42), with preschool additionally important for girls (POR: 1.55, 95% CI: 1.22–1.99). Independent of child BMI growth deviations, higher maternal pre-pregnancy BMI was associated with earlier pubertal timing in girls (POR: 1.07, 95% CI: 1.05–1.11) and boys (POR: 1.08, 95% CI: 1.05–1.11). To conclude, findings highlight intergenerational associations and the value of early growth.</description>
+    </item>
+    <item>
+      <title>A SIMPLE AND POWERFUL TEST OF VACCINE WANING</title>
+      <link>https://doi.org/10.1093/aje/kwag118</link>
+      <guid isPermaLink="false">10.1093/aje/kwag118</guid>
+
+      <dc:creator>Gellért Perényi</dc:creator>
+      <dc:creator>Matias Janvin</dc:creator>
+      <dc:creator>Mats J Stensrud</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gellért Perényi, Matias Janvin, Mats J Stensrud
+
+Journal: American Journal of Epidemiology; Article number: kwag118
+
+Abstract: Abstract Determining whether vaccine efficacy wanes is important for individual and public decision making. Yet, quantification of waning is a subtle task. The classical approaches cannot be interpreted as measures of declining efficacy unless we impose unreasonable assumptions. Recently, formal causal estimands designed to quantify vaccine waning have been proposed. These estimands can be bounded under weaker assumptions, but the bounds are often too wide to make claims about the presence of waning. We propose a different approach: a formal test to assess whether a treatment effect is constant over time at the individual level. This test provides a considerable power gain over existing approaches and is valid under interpretable assumptions in vaccine trials. We illustrate the increase in power through real and simulated examples, using three different approaches to compute the test statistics. Two of these approaches are based solely on summary data, accessible from existing clinical trials. Beyond our test, we also give new results that bound the waning effect. We use our methods to reanalyze data from a randomized controlled trial of the BNT162b2 COVID-19 vaccine. While prior analysis did not establish waning, our test rejects the null hypothesis of no waning.</description>
+    </item>
     <item>
       <title>Correction to: Developing a novel algorithm to identify incident and prevalent dementia in Medicare claims—the ARIC Study</title>
       <link>https://doi.org/10.1093/aje/kwag142</link>
@@ -458,22 +499,6 @@ Journal: American Journal of Epidemiology; Article number: kwag126
 Abstract: Abstract There are marked racial/ethnic disparities in breast cancer mortality. Cultural racism, expressed through societal norms, stereotypes, and implicit biases, may contribute. We utilized a previously validated state-level multidomain latent measure, the cultural racism factor (CRF). Using data from the Surveillance, Epidemiology, and End Results Program (2018-2020), we evaluated associations between CRF and risk of death using Cox proportional hazards (PH) model with state as random effect. We examined time-varying effects and conducted race- and ethnicity-stratified analyses. Among 225 991 patients, 63% were non-Hispanic (NH) White, 12% were NH Black, and 16% were Hispanic. In the overall cohort, patients in higher CRF states experienced 8% higher risk of death per unit increase in CRF after adjusting for covariates (aHR = 1.08; 95% CI, 1.05-1.11). Time-varying models revealed strongest effects early in follow-up (baseline HR = 1.30; 95% CI, 1.08-1.57), with attenuation over time (interaction HR = 0.99; 95% CI, 0.99-1.00). NH Black women exhibited a pattern suggestive of early elevated mortality risk that attenuated over follow-up (baseline HR = 1.14; 95% CI, 0.96-1.35; interaction HR = 0.99; 95% CI, 0.97-1.00). In conclusion, cultural racism is associated with breast cancer survival at the population level, with the strongest time-dependent effects observed early in follow-up.</description>
     </item>
     <item>
-      <title>Possible selection bias in Mendelian randomization studies: effect of body mass index on breast cancer as an example</title>
-      <link>https://doi.org/10.1093/aje/kwag125</link>
-      <guid isPermaLink="false">10.1093/aje/kwag125</guid>
-
-      <dc:creator>Kezhen Fei</dc:creator>
-      <dc:creator>Chloe A Teasdale</dc:creator>
-      <dc:creator>Mary Beth Terry</dc:creator>
-      <dc:creator>C Mary Schooling</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kezhen Fei, Chloe A Teasdale, Mary Beth Terry, C Mary Schooling
-
-Journal: American Journal of Epidemiology; Article number: kwag125
-
-Abstract: Abstract The inverse association of body mass index (BMI) with postmenopausal breast cancer (BC) risk observed in Mendelian Randomization (MR) studies contradicts the International Agency for Research on Cancer (IARC) classification of high BMI as a risk factor for postmenopausal BC. We investigated whether this discrepancy stems from survival-driven selection bias in the underlying GWAS. Using summary statistics from three different GWAS, higher genetically predicted BMI was inversely associated with BC risk in the BCAC consortium (odds ratio (OR): 0.74, 95% CI: 0.64, 0.84) and the UK Biobank (OR: 0.70, 95% CI: 0.56, 0.87), but showed no relationship with sibling BC (BCs) risk (OR: 1.00, 95% CI: 0.99, 1.01). These findings demonstrate that previous MR studies may suffer from selection bias driven by survivorship bias. This highlights a critical methodological vulnerability in MR studies when both exposure and outcome cause premature mortality, and the underlying population is not fully captured by current GWAS.</description>
-    </item>
-    <item>
       <title>Longitudinal associations of the gut microbiome with arterial stiffness in US adults: findings from the Baltimore Longitudinal Study of Aging</title>
       <link>https://doi.org/10.1093/aje/kwag119</link>
       <guid isPermaLink="false">10.1093/aje/kwag119</guid>
@@ -491,6 +516,22 @@ Abstract: Abstract The inverse association of body mass index (BMI) with postmen
 Journal: American Journal of Epidemiology; Article number: kwag119
 
 Abstract: Abstract The gut microbiome affects arterial stiffness in experimental murine models; however, evidence in human longitudinal studies is lacking. In this study, we investigated longitudinal between-person (average) and within-person (change) associations of microbiome features with arterial stiffness. We assessed the fecal microbiome using whole genome metagenomic sequencing, and arterial stiffness using carotid-femoral pulse wave velocity (cfPWV). Our analytic sample consisted of 349 adults from the Baltimore Longitudinal Study of Aging, who contributed 915 visits between 2013-2019. Using linear mixed models, we found higher microbiome evenness and butyrate-producing bacteria were associated with lower cfPWV on average (between-person), but changes in diversity were not associated with changes in cfPWV (within-person). Several potentially pathogenic bacteria were positively associated with cfPWV, both between- and within-person. Butyrate-production pathways were inversely associated with cfPWV between-person and borderline within-person. Trimethylamine-production genes were positively associated with cfPWV between-person and borderline within-person. In addition, changes in other functional pathways including peptidoglycan biosynthesis and L-arginine biosynthesis were associated with changes in cfPWV. In conclusion, cfPWV was associated with both between-person and within-person differences in gut microbiome features, with strength and consistency depending on the feature. These results can inform which microbiome features to target in interventions to improve arterial stiffness.</description>
+    </item>
+    <item>
+      <title>Evaluating risk prediction models: the predictiveness curve and its geometric summaries</title>
+      <link>https://doi.org/10.1093/aje/kwag123</link>
+      <guid isPermaLink="false">10.1093/aje/kwag123</guid>
+
+      <dc:creator>Wei-Min Chiu</dc:creator>
+      <dc:creator>Dai-Rong Tsai</dc:creator>
+      <dc:creator>Chun-Ju Chiang</dc:creator>
+      <dc:creator>Wen-Chung Lee</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wei-Min Chiu, Dai-Rong Tsai, Chun-Ju Chiang, Wen-Chung Lee
+
+Journal: American Journal of Epidemiology; Article number: kwag123
+
+Abstract: Abstract Risk prediction models are widely used, but their evaluation is dominated by discrimination-based measures, such as the receiver operating characteristic (ROC) curve and AUC, which provide limited insight into how risks are distributed across a population. We extend the predictiveness curve to risk prediction models, characterize its geometric properties, and derive 3 geometric summaries—the Pietra index, Gini index, and scaled Brier score. To obtain well-calibrated and stable risk estimates, we implement a 3-step prediction post-processing procedure, consisting of cross-validation, isotonic recalibration, and bootstrap averaging. We illustrate the approach using toy examples and a nationwide Taiwan cohort of 23 839 lung cancer patients, in whom a Cox model was used to estimate the 5-year risk of fatality. The 3 indices captured complementary aspects of performance and supported model choice for specific purposes: the Pietra index for minimizing the gray zone, the Gini index for maximizing separation, and the scaled Brier score for increasing certainty. In the lung cancer application, the final post-processed model showed clear risk stratification: 25.2% of patients were very low risk (&amp;amp;lt;10% fatality), and 50.2% were high risk (&amp;amp;gt;75% fatality), whereas only 4.8% were near the average risk. Overall, the predictiveness curve and its geometric summaries provide a population-oriented framework for transparent, purpose-specific evaluation of risk prediction models.</description>
     </item>
     <item>
       <title>Development and validation of a dementia risk prediction model for low- and middle-income countries: the 10/66 study</title>
@@ -1477,6 +1518,26 @@ Journal: American Journal of Epidemiology; Article number: kwag054
 Abstract: Abstract Many older adults experience financial insecurity. While prior studies link lower later-life socio economic status, financial stress, and financial shocks to worse cognitive outcomes, limited research has examined how dynamic changes in financial well-being—a multidimensional measure of financial circumstances—influence cognitive aging. Here, we examined associations between changes in financial well-being and memory outcomes among 7676 adults aged 50+ in the Health and Retirement Study (“HRS,” 2010-2020). We developed and validated an 8-item index of poor financial well-being using existing HRS survey items aligned with domains from the Consumer Financial Protection Bureau’s Financial Well-Being Scale. In confounder-adjusted linear mixed-effects models, we estimated the associations of average financial well-being and significant improvements or worsening in financial well-being over 4 years, with changes in memory z scores calculated biennially from 2016 to 2020. Each 1-point worsening in average financial well-being was associated with poorer memory function (β = -0.009 SD, 95% CI, -0.020 to 0.003) and accelerated decline (β = -0.007 SD/year, 95% CI, -0.010 to -0.003). Associations were largest for participants with significant worsening of financial well-being and for those aged ≥65 at baseline. Results were robust to sensitivity analyses addressing potential reverse causation and attrition. These findings suggest that midlife and later-life declines in financial well-being may contribute to accelerated cognitive aging.</description>
     </item>
     <item>
+      <title>Including an infrequently measured time-varying error-prone covariate in survival analyses: a simulation-based comparison of methods</title>
+      <link>https://doi.org/10.1093/aje/kwag059</link>
+      <guid isPermaLink="false">10.1093/aje/kwag059</guid>
+
+      <dc:creator>Viviane Philipps</dc:creator>
+      <dc:creator>Laurence Freedman</dc:creator>
+      <dc:creator>Veronika Deffner</dc:creator>
+      <dc:creator>Catherine Helmer</dc:creator>
+      <dc:creator>Hélène Jacqmin-Gadda</dc:creator>
+      <dc:creator>Hendriek Boshuizen</dc:creator>
+      <dc:creator>Anne CM Thiébaut</dc:creator>
+      <dc:creator>Cécile Proust-Lima</dc:creator>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Viviane Philipps, Laurence Freedman, Veronika Deffner, Catherine Helmer, Hélène Jacqmin-Gadda, Hendriek Boshuizen, Anne CM Thiébaut, Cécile Proust-Lima
+
+Journal: American Journal of Epidemiology; Article number: kwag059
+
+Abstract: Abstract Epidemiologic studies often evaluate the association between an exposure and an event risk. When time-varying, exposures are usually updated at discrete visits although changes are in continuous time and survival models require values to be constantly known. Moreover, exposures are likely measured with error, and their observation truncated at the event time. We aimed to quantify in a Cox regression the bias in the association resulting from intermittent measurements of an error-prone exposure. Using simulations under various scenarios, we compared five methods: last observation carried-forward (LOCF), classical two-stage regression calibration using measurements up to the event (RC) or also after (PE-RC), multiple imputation (MI) and joint modeling of the exposure and the event (JM). The LOCF, and to a lesser extent the classical RC, showed substantial bias in almost all 45 scenarios. The RC bias was avoided when considering post-event information. The MI performed relatively well, as did the JM. Illustrations exploring the association of Body Mass Index and Executive Functioning with dementia risk showed consistent conclusions. Accounting for measurement error and discrete updates is critical when studying time-varying exposures. MI and JM techniques may be applied in this context, while classical RC should be avoided due to the informative truncation.</description>
+    </item>
+    <item>
       <title>Infectious disease modeling for public health practice: projections, scenarios, and uncertainty in 3 phases of outbreak response</title>
       <link>https://doi.org/10.1093/aje/kwag058</link>
       <guid isPermaLink="false">10.1093/aje/kwag058</guid>
@@ -1604,63 +1665,6 @@ Abstract: Abstract Segregation measures over time likely mask the movement of La
 Journal: American Journal of Epidemiology; Article number: kwag047
 
 Abstract: Abstract Empirical evidence on the indirect herd benefits of COVID-19 vaccination and/or prior infection is limited. We examined how area-level immunity interacts with individual-level immunity to affect COVID-19 diagnoses and deaths. Ontario residents aged ≥18 years were followed from August 1, 2021, to January 30, 2022. Individual-level immunity was defined as receipt of a primary series of COVID-19 vaccines or a positive SARS-CoV-2 test in the past 165 days. Area-level immunity was based on the proportion of immune individuals in an individual's residing area. Logistic regression and cause-specific hazard models were used to examine the relationship between immunity and COVID-19 diagnosis, and between immunity and COVID-19 death, with an interaction term between individual-level and area-level immunity. Of 11 122 816 adults, 7 518 015 (67.6%) were classified as having individual-level immunity at baseline. After accounting for potential confounders, area-level immunity (highest vs. lowest quintiles) was associated with lower odds of COVID-19 diagnosis. Higher area-level immunity (highest vs. lowest quintiles) was also associated with lower hazard of COVID-19 death among non-immune individuals (hazard ratio, 0.77 [0.60, 1.00]). Findings provide evidence supporting the herd benefits of vaccination or prior infection on COVID-19 diagnosis and deaths, and provide insights for interpreting vaccine effectiveness estimates in the context of herd immunity.</description>
-    </item>
-    <item>
-      <title>Estimating the effect of pravastatin vs usual care under full adherence in the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial—Lipid Lowering Trial</title>
-      <link>https://doi.org/10.1093/aje/kwag049</link>
-      <guid isPermaLink="false">10.1093/aje/kwag049</guid>
-
-      <dc:creator>Rienna G Russo</dc:creator>
-      <dc:creator>Anna Siefkas</dc:creator>
-      <dc:creator>Barry R Davis</dc:creator>
-      <dc:creator>Eric B Rimm</dc:creator>
-      <dc:creator>Issa J Dahabreh</dc:creator>
-      <dc:creator>Miguel A Hernán</dc:creator>
-      <dc:creator>Goodarz Danaei</dc:creator>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Rienna G Russo, Anna Siefkas, Barry R Davis, Eric B Rimm, Issa J Dahabreh, Miguel A Hernán, Goodarz Danaei
-
-Journal: American Journal of Epidemiology; Article number: kwag049
-
-Abstract: Abstract The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack—Lipid-Lowering Trial (ALLHAT-LLT) was a pragmatic randomized trial conducted in 513 clinical centers across North America from 1994 to 2002. ALLHAT-LLT, which used standard of care (usual care) as the control treatment, did not find an effect of assignment to pravastatin on all-cause death. We aimed to use the trial data to estimate the effect of adhering to the assigned treatment, that is, the per-protocol effect. Moderately hypercholesterolemic (low-density lipoprotein cholesterol 100-189 mg/dL), hypertensive participants ≥55 years old were included and randomized to pravastatin (40 mg/day unless contraindicated) or usual care (lipid-lowering treatment discouraged unless clinically indicated). Of 10 355 individuals randomized, we included 9741 with complete baseline data. One-third of individuals in the pravastatin arm were non-adherent to the assigned treatment strategy at year 5. After adjusting for factors related to adherence, the 5 year risk difference comparing pravastatin to usual care was −3.0% (−4.9%, −1.3%), and the risk ratio was 0.79 (0.68, 0.91) for death. Findings were consistent across different definitions of treatment strategies. Our results suggest that the use of pravastatin under full adherence was protective against death, even if assignment to pravastatin was not clearly protective.</description>
-    </item>
-    <item>
-      <title>The relationship between psychological stress and SARS-CoV-2 nucleocapsid-antibody response following natural infection: longitudinal findings from the Aegis study</title>
-      <link>https://doi.org/10.1093/aje/kwag048</link>
-      <guid isPermaLink="false">10.1093/aje/kwag048</guid>
-
-      <dc:creator>Erika T Beidelman</dc:creator>
-      <dc:creator>Ashley Judge</dc:creator>
-      <dc:creator>David B Allison</dc:creator>
-      <dc:creator>Stephanie Dickinson</dc:creator>
-      <dc:creator>Lilian Golzarri Arroyo</dc:creator>
-      <dc:creator>Anna L M Macagno</dc:creator>
-      <dc:creator>Michael J Ricciardi</dc:creator>
-      <dc:creator>Jon Macy</dc:creator>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Erika T Beidelman, Ashley Judge, David B Allison, Stephanie Dickinson, Lilian Golzarri Arroyo, Anna L M Macagno, Michael J Ricciardi, Jon Macy, et al.
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1624-1633
-
-Abstract: Abstract Psychological stress can cause diminished immune response to infectious challenges. The extent this holds true during severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and the modifying effect of vaccination status is untested. We explored these relationships in a non-random sample standardized to the US adult population. Across 2178 participants in the Aegis study (2021-2022), we identified 507 eligible laboratory-confirmed SARS-CoV-2 infections. We estimated the natural log of nucleocapsid-binding antibody absorbance (N-antibody) at study visits up to 225 days following a positive SARS-CoV-2 test. Linear mixed effects models were fit to estimate the association of baseline perceived stress and, separately, allostatic load with N-antibody trajectories. Standardization was performed using iterative post-stratification weighting. Consistently, lower stress groups had higher N-antibody response. Low perceived stress was associated with greater antibody response up to 26 days post-positive test (P = .047) while low allostatic load was associated with greater antibody response up to 24 days (P = .049). Pre-infection vaccination modified the relationship between stress and N-antibody trajectories, where the observed relationships attenuated to the null for vaccinated individuals (P = .031). Overall, we found consistent evidence that high stress was associated with reduced N-antibody response following SARS-CoV-2 infection and that vaccination may narrow the antibody response across high versus low stress groups.</description>
-    </item>
-    <item>
-      <title>Comparison of disease risk score methods to study treatment effect heterogeneity: a simulation study</title>
-      <link>https://doi.org/10.1093/aje/kwag050</link>
-      <guid isPermaLink="false">10.1093/aje/kwag050</guid>
-
-      <dc:creator>Haedi E Thelen</dc:creator>
-      <dc:creator>Wei Yang</dc:creator>
-      <dc:creator>Sean Hennessy</dc:creator>
-      <dc:creator>Jordana Cohen</dc:creator>
-      <dc:creator>Wensheng Guo</dc:creator>
-      <dc:creator>Todd A Miano</dc:creator>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Haedi E Thelen, Wei Yang, Sean Hennessy, Jordana Cohen, Wensheng Guo, Todd A Miano
-
-Journal: American Journal of Epidemiology; Article number: kwag050
-
-Abstract: Abstract Estimating treatment effects across disease risk scores (DRSs) is a common approach for assessing treatment effect heterogeneity in randomized trials. When external models are unavailable, the optimal approach for internally fitting the DRS model remains uncertain. This simulation study compares 3 internal derivation approaches, evaluating bias of estimated treatment effects within DRS-defined strata. We simulated trials under varying treatment effects (odds ratios [OR] of 1, 0.8, and 0.5) and treatment–covariate interactions. We fit DRS models on (1) a controls-only method, (2) the full sample ignoring treatment assignment, and (3) a random split-sample method of 50% of the controls, who were removed from the second stage of analysis. Additional simulations varied outcome incidence, sample size, randomization ratio, and the true DRS C-statistic. Bias decreased with the split-sample method (overall percent bias [OPB] 7.7% for OR = 0.8 with interactions) compared to the controls-only (OPB = 15.6%) and full-sample methods (OPB = 22.1%). Bias decreased more with the split-sample method than with controls-only and full-sample methods with larger sample sizes, higher outcome incidence, greater treated-to-control ratios, and larger C-statistics. These findings suggest split-sample methods may be the preferred approach to estimate treatment effect heterogeneity by the DRS in trials with sufficient data to support stable prediction modeling.</description>
     </item>
   </channel>
 </rss>
