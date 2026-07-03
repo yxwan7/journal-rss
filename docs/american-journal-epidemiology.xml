@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:34:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:37:03 +0000</lastBuildDate>
 
     <item>
       <title>Correction to: Home dampness and molds and occurrence of respiratory tract infections in the first 27 years of life: the Espoo Cohort Study</title>
@@ -14,6 +14,21 @@
 
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <description>Journal: American Journal of Epidemiology; Article number: kwag148</description>
+    </item>
+    <item>
+      <title>A SIMPLE AND POWERFUL TEST OF VACCINE WANING</title>
+      <link>https://doi.org/10.1093/aje/kwag118</link>
+      <guid isPermaLink="false">10.1093/aje/kwag118</guid>
+
+      <dc:creator>Gellért Perényi</dc:creator>
+      <dc:creator>Matias Janvin</dc:creator>
+      <dc:creator>Mats J Stensrud</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gellért Perényi, Matias Janvin, Mats J Stensrud
+
+Journal: American Journal of Epidemiology; Article number: kwag118
+
+Abstract: Abstract Determining whether vaccine efficacy wanes is important for individual and public decision making. Yet, quantification of waning is a subtle task. The classical approaches cannot be interpreted as measures of declining efficacy unless we impose unreasonable assumptions. Recently, formal causal estimands designed to quantify vaccine waning have been proposed. These estimands can be bounded under weaker assumptions, but the bounds are often too wide to make claims about the presence of waning. We propose a different approach: a formal test to assess whether a treatment effect is constant over time at the individual level. This test provides a considerable power gain over existing approaches and is valid under interpretable assumptions in vaccine trials. We illustrate the increase in power through real and simulated examples, using three different approaches to compute the test statistics. Two of these approaches are based solely on summary data, accessible from existing clinical trials. Beyond our test, we also give new results that bound the waning effect. We use our methods to reanalyze data from a randomized controlled trial of the BNT162b2 COVID-19 vaccine. While prior analysis did not establish waning, our test rejects the null hypothesis of no waning.</description>
     </item>
     <item>
       <title>Association Between maternal body mass index, offspring growth and pubertal timing: results from a longitudinal birth cohort study</title>
@@ -32,21 +47,6 @@
 Journal: American Journal of Epidemiology; Article number: kwag128
 
 Abstract: Abstract Earlier pubertal timing has risen alongside increasing childhood obesity, yet evidence linking early-life body mass index (BMI) to earlier pubertal timing, particularly for boys, remains inconsistent. Prior work often relied on single time-point BMI measurements that overlooked growth dynamics and the potential independent effect of maternal pre-pregnancy BMI. Using data from 2982 participants in the Amsterdam Born Children and their Development cohort, we linked pubertal timing ages 11–12 to maternal BMI and children’s dynamic BMI growth curves from birth to age 8. Joint Bayesian models of linear mixed-effects and ordinal logistic regressions, stratified by sex and adjusted for confounders, found that greater BMI deviations from population curves, during infancy and prepuberty, were associated with earlier pubertal timing in girls (infancy POR: 1.11, 95% CI: 1.02–1.20; prepuberty POR: 1.23, 95% CI: 1.12–1.38) and boys (infancy POR: 1.12, 95% CI: 1.03–1.22; prepuberty POR: 1.23, 95% CI: 1.08–1.42), with preschool additionally important for girls (POR: 1.55, 95% CI: 1.22–1.99). Independent of child BMI growth deviations, higher maternal pre-pregnancy BMI was associated with earlier pubertal timing in girls (POR: 1.07, 95% CI: 1.05–1.11) and boys (POR: 1.08, 95% CI: 1.05–1.11). To conclude, findings highlight intergenerational associations and the value of early growth.</description>
-    </item>
-    <item>
-      <title>A SIMPLE AND POWERFUL TEST OF VACCINE WANING</title>
-      <link>https://doi.org/10.1093/aje/kwag118</link>
-      <guid isPermaLink="false">10.1093/aje/kwag118</guid>
-
-      <dc:creator>Gellért Perényi</dc:creator>
-      <dc:creator>Matias Janvin</dc:creator>
-      <dc:creator>Mats J Stensrud</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gellért Perényi, Matias Janvin, Mats J Stensrud
-
-Journal: American Journal of Epidemiology; Article number: kwag118
-
-Abstract: Abstract Determining whether vaccine efficacy wanes is important for individual and public decision making. Yet, quantification of waning is a subtle task. The classical approaches cannot be interpreted as measures of declining efficacy unless we impose unreasonable assumptions. Recently, formal causal estimands designed to quantify vaccine waning have been proposed. These estimands can be bounded under weaker assumptions, but the bounds are often too wide to make claims about the presence of waning. We propose a different approach: a formal test to assess whether a treatment effect is constant over time at the individual level. This test provides a considerable power gain over existing approaches and is valid under interpretable assumptions in vaccine trials. We illustrate the increase in power through real and simulated examples, using three different approaches to compute the test statistics. Two of these approaches are based solely on summary data, accessible from existing clinical trials. Beyond our test, we also give new results that bound the waning effect. We use our methods to reanalyze data from a randomized controlled trial of the BNT162b2 COVID-19 vaccine. While prior analysis did not establish waning, our test rejects the null hypothesis of no waning.</description>
     </item>
     <item>
       <title>Correction to: Developing a novel algorithm to identify incident and prevalent dementia in Medicare claims—the ARIC Study</title>
@@ -237,7 +237,7 @@ Journal: American Journal of Epidemiology; Article number: kwag134
 Abstract: Abstract Hyperemesis gravidarum (HG)—severe nausea and vomiting during pregnancy—affects 1-3% of pregnancies and is the leading cause of early pregnancy hospitalization. Significant maternal undernutrition in HG pregnancy is hypothesized to lead to abnormal placental development and function, resulting in higher risk for select adverse pregnancy outcomes (APOs). Population data investigating this association are largely from Europe; the only prior US population-based study (1999) did not adjust for confounding. We evaluated the association between HG and APOs in a US population-based cohort of 2.5 million singleton live births in California (2007-2011). We defined HG based on primary diagnosis codes present in prenatal hospitalization or emergency department records (n = 53 681; 2.2%). After adjusting for confounders, HG was associated with higher risks of preeclampsia (aRR 1.18, 95% CI 1.13-1.23), gestational hypertension (1.15, 1.09-1.22), preterm birth (1.25, 1.22-1.29), small for gestational age (1.19, 1.16-1.22), placental abruption (1.14, 1.05-1.25), and anemia (1.37, 1.33-1.40). Risks were generally higher among women with first HG hospitalization in the second trimester (eg, preeclampsia: 1.41, 1.30-1.52), and elevated risks were observed across nearly all strata examined. In this large US population-based cohort, HG was associated with increased risk of multiple APOs.</description>
     </item>
     <item>
-      <title>Changes in PM2.5 exposure due to residential relocation and mortality among U.S. Veterans</title>
+      <title>Changes in PM2.5 exposure due to residential relocation and mortality among United States Veterans</title>
       <link>https://doi.org/10.1093/aje/kwag130</link>
       <guid isPermaLink="false">10.1093/aje/kwag130</guid>
 
@@ -254,7 +254,7 @@ Abstract: Abstract Hyperemesis gravidarum (HG)—severe nausea and vomiting duri
 
 Journal: American Journal of Epidemiology; Article number: kwag130
 
-Abstract: Abstract Air pollution remains a leading cause of mortality. Few studies have leveraged residential relocation to examine impacts of intra-individual changes in PM2.5 exposure. As the largest integrated health system in the U.S., the Veterans Health Administration (VHA) is an ideal setting to examine relocation-induced changes in air pollution. We constructed a cohort of Veterans who relocated from one ZIP code to another between 2011 and 2017 (n = 762 905). We linked spatially averaged annual PM2.5 estimates to each person based on residential address. We examined relocation-induced PM2.5 changes and post-move mortality in discrete time models, accounting for individual- and area-level confounding variables. We estimated pooled odds ratios over 5 years of follow up and examined effect measure modification by age (&amp;amp;lt;65, 65+), sex, and neighborhood-level poverty. The pooled OR associated with a 2 μg/m3 increase in PM2.5 levels between the origin and destination areas was 1.03 (95% CI = 1.01-1.03). Associations appeared more pronounced among older individuals when assessing potential additive effect measure modification. Examining intra-individual changes in PM2.5 exposure and subsequent health outcomes can elucidate potential impacts of air pollution and pollution reduction policies. Results suggest survival benefits associated with policies that continue to reduce PM2.5 levels.</description>
+Abstract: Abstract Air pollution remains a leading cause of mortality. Few studies have leveraged residential relocation to examine impacts of intraindividual changes in PM2.5 exposure. As the largest integrated health system in the United States, the Veterans Health Administration (VA) is an ideal setting to examine relocation-induced changes in air pollution. We constructed a cohort of veterans who relocated from one ZIP code to another between 2011 and 2017 (N = 762 905). We linked spatially averaged annual PM2.5 estimates to each person based on residential address. We examined relocation-induced PM2.5 changes and post-move mortality in discrete-time models, accounting for individual-level and area-level confounding variables. We estimated pooled odds ratios (ORs) over 5 years of follow-up and examined effect-measure modification by age (&amp;amp;lt;65, 65+), sex, and neighborhood-level poverty. The pooled OR associated with a 2 μg/m3 increase in PM2.5 levels between the origin and destination areas was 1.03 (95% CI = 1.01-1.03). Associations appeared more pronounced among older individuals when assessing potential additive effect-measure modification. Examining intraindividual changes in PM2.5 exposure and subsequent health outcomes can elucidate potential impacts of air pollution and pollution-reduction policies. Results suggest survival benefits from policies that further reduce PM2.5 levels.</description>
     </item>
     <item>
       <title>Depressive symptoms and neuroimaging markers of brain aging in an ethno-racially diverse sample: a Bayesian analysis</title>
@@ -499,6 +499,22 @@ Journal: American Journal of Epidemiology; Article number: kwag126
 Abstract: Abstract There are marked racial/ethnic disparities in breast cancer mortality. Cultural racism, expressed through societal norms, stereotypes, and implicit biases, may contribute. We utilized a previously validated state-level multidomain latent measure, the cultural racism factor (CRF). Using data from the Surveillance, Epidemiology, and End Results Program (2018-2020), we evaluated associations between CRF and risk of death using Cox proportional hazards (PH) model with state as random effect. We examined time-varying effects and conducted race- and ethnicity-stratified analyses. Among 225 991 patients, 63% were non-Hispanic (NH) White, 12% were NH Black, and 16% were Hispanic. In the overall cohort, patients in higher CRF states experienced 8% higher risk of death per unit increase in CRF after adjusting for covariates (aHR = 1.08; 95% CI, 1.05-1.11). Time-varying models revealed strongest effects early in follow-up (baseline HR = 1.30; 95% CI, 1.08-1.57), with attenuation over time (interaction HR = 0.99; 95% CI, 0.99-1.00). NH Black women exhibited a pattern suggestive of early elevated mortality risk that attenuated over follow-up (baseline HR = 1.14; 95% CI, 0.96-1.35; interaction HR = 0.99; 95% CI, 0.97-1.00). In conclusion, cultural racism is associated with breast cancer survival at the population level, with the strongest time-dependent effects observed early in follow-up.</description>
     </item>
     <item>
+      <title>Possible selection bias in Mendelian randomization studies: effect of body mass index on breast cancer as an example</title>
+      <link>https://doi.org/10.1093/aje/kwag125</link>
+      <guid isPermaLink="false">10.1093/aje/kwag125</guid>
+
+      <dc:creator>Kezhen Fei</dc:creator>
+      <dc:creator>Chloe A Teasdale</dc:creator>
+      <dc:creator>Mary Beth Terry</dc:creator>
+      <dc:creator>C Mary Schooling</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kezhen Fei, Chloe A Teasdale, Mary Beth Terry, C Mary Schooling
+
+Journal: American Journal of Epidemiology; Article number: kwag125
+
+Abstract: Abstract The inverse association of body mass index (BMI) with postmenopausal breast cancer (BC) risk observed in Mendelian Randomization (MR) studies contradicts the International Agency for Research on Cancer (IARC) classification of high BMI as a risk factor for postmenopausal BC. We investigated whether this discrepancy stems from survival-driven selection bias in the underlying GWAS. Using summary statistics from three different GWAS, higher genetically predicted BMI was inversely associated with BC risk in the BCAC consortium (odds ratio (OR): 0.74, 95% CI: 0.64, 0.84) and the UK Biobank (OR: 0.70, 95% CI: 0.56, 0.87), but showed no relationship with sibling BC (BCs) risk (OR: 1.00, 95% CI: 0.99, 1.01). These findings demonstrate that previous MR studies may suffer from selection bias driven by survivorship bias. This highlights a critical methodological vulnerability in MR studies when both exposure and outcome cause premature mortality, and the underlying population is not fully captured by current GWAS.</description>
+    </item>
+    <item>
       <title>Longitudinal associations of the gut microbiome with arterial stiffness in US adults: findings from the Baltimore Longitudinal Study of Aging</title>
       <link>https://doi.org/10.1093/aje/kwag119</link>
       <guid isPermaLink="false">10.1093/aje/kwag119</guid>
@@ -515,7 +531,7 @@ Abstract: Abstract There are marked racial/ethnic disparities in breast cancer m
 
 Journal: American Journal of Epidemiology; Article number: kwag119
 
-Abstract: Abstract The gut microbiome affects arterial stiffness in experimental murine models; however, evidence in human longitudinal studies is lacking. In this study, we investigated longitudinal between-person (average) and within-person (change) associations of microbiome features with arterial stiffness. We assessed the fecal microbiome using whole genome metagenomic sequencing, and arterial stiffness using carotid-femoral pulse wave velocity (cfPWV). Our analytic sample consisted of 349 adults from the Baltimore Longitudinal Study of Aging, who contributed 915 visits between 2013-2019. Using linear mixed models, we found higher microbiome evenness and butyrate-producing bacteria were associated with lower cfPWV on average (between-person), but changes in diversity were not associated with changes in cfPWV (within-person). Several potentially pathogenic bacteria were positively associated with cfPWV, both between- and within-person. Butyrate-production pathways were inversely associated with cfPWV between-person and borderline within-person. Trimethylamine-production genes were positively associated with cfPWV between-person and borderline within-person. In addition, changes in other functional pathways including peptidoglycan biosynthesis and L-arginine biosynthesis were associated with changes in cfPWV. In conclusion, cfPWV was associated with both between-person and within-person differences in gut microbiome features, with strength and consistency depending on the feature. These results can inform which microbiome features to target in interventions to improve arterial stiffness.</description>
+Abstract: Abstract The gut microbiome affects arterial stiffness in experimental murine models; however, evidence in human longitudinal studies is lacking. In this study, we investigated longitudinal between-person (average) and within-person (change) associations of microbiome features with arterial stiffness. We assessed the fecal microbiome using whole genome metagenomic sequencing, and arterial stiffness using carotid–femoral pulse wave velocity (cfPWV). Our analytic sample consisted of 349 adults from the Baltimore Longitudinal Study of Aging, who contributed 915 visits between 2013 and 2019. Using linear mixed models, we found higher microbiome evenness and butyrate-producing bacteria were associated with lower cfPWV on average (between-person), but changes in diversity were not associated with changes in cfPWV (within-person). Several potentially pathogenic bacteria were positively associated with cfPWV, both between- and within-person. Butyrate-production pathways were inversely associated with cfPWV between-person and borderline within-person. Trimethylamine-production genes were positively associated with cfPWV between-person and borderline within-person. In addition, changes in other functional pathways including peptidoglycan biosynthesis and L-arginine biosynthesis were associated with changes in cfPWV. In conclusion, cfPWV was associated with both between-person and within-person differences in gut microbiome features, with strength and consistency depending on the feature. These results can inform which microbiome features to target in interventions to improve arterial stiffness.</description>
     </item>
     <item>
       <title>Evaluating risk prediction models: the predictiveness curve and its geometric summaries</title>
@@ -696,6 +712,19 @@ Abstract: Abstract Acetaminophen is among the most common over-the-counter medic
 Journal: American Journal of Epidemiology; Article number: kwag102
 
 Abstract: Abstract Childhood maltreatment and adult sleep disturbance are significant, related public health concerns, but the extent to which they are associated over time is unknown. We investigated whether childhood maltreatment is associated with sleep disturbance over 20 years in a large, diverse, community sample of 1654 midlife women from 1996 to 2017 in a multicenter cohort study: The Study of Women’s Health Across the Nation. Childhood maltreatment was assessed via The Childhood Trauma Questionnaire, and insomnia symptoms were assessed via self-report at 14 visits. Insomnia symptom trajectories were derived using group-based trajectory modeling. Associations between childhood maltreatment and insomnia trajectories were evaluated via multinomial logistic regression. Four trajectories of insomnia symptoms were identified: consistently low, increasing, moderate/decreasing, and consistently high symptoms. Childhood maltreatment was associated with higher adjusted odds of moderate/decreasing (odds ratio [OR], 1.40; 95% CI, 1.05-1.87) and consistently high (OR, 2.06; 95% CI, 1.56-2.74) insomnia symptoms, respectively. Both physical and sexual abuse were associated with higher adjusted odds of moderate/decreasing and consistently high insomnia symptoms. Childhood maltreatment, particularly physical and sexual abuse, is associated with higher odds of chronic insomnia symptoms in women across midlife. These findings point to an at-risk population that may warrant early intervention to prevent and reduce disturbed sleep.</description>
+    </item>
+    <item>
+      <title>Taking heterogeneity seriously: Black immigrant life expectancy in the United States</title>
+      <link>https://doi.org/10.1093/aje/kwag108</link>
+      <guid isPermaLink="false">10.1093/aje/kwag108</guid>
+
+      <dc:creator>Elizabeth Wrigley-Field</dc:creator>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elizabeth Wrigley-Field
+
+Journal: American Journal of Epidemiology; Article number: kwag108
+
+Abstract: Abstract The article by Hendi and Clevenstine (Am J Epidemiol. 2025;195(6)) documents notably high life expectancy among US Black immigrants, accounting for almost 15% of the increased Black life expectancy between 1994 and 2019, as well as an extreme rise in mortality among Black immigrants during the COVID-19 pandemic. These results are credible in spite of the significant data and analytic challenges intrinsic to the research question. They suggest the need for new avenues of research, including research that is attentive to substantial changes in Black immigrants’ origins and situations, research that reinterprets Black/White trends in light of a changing population composition, and research into the drivers of pandemic-era mortality. Much of the research on Black/White trends has homogenized the Black population, and these results dramatize the analytical weaknesses of failing to take heterogeneity seriously.</description>
     </item>
     <item>
       <title>A Bayesian bivariate spatial modeling framework for stage-specific cancer incidence and targeting of screening efforts</title>
@@ -1091,6 +1120,24 @@ Journal: American Journal of Epidemiology; Article number: kwag087
 Abstract: Abstract Understanding regional and racial variation in the risk of hospitalization with Alzheimer's disease and related dementias (ADRD)—and how it differs from other conditions—is required to inform effective practice and policy. However, no prior studies have simultaneously estimated county-level regional and race-specific variation in hospitalization risk. We assessed hospitalizations with and without ADRD diagnoses among Black and White Medicare Fee-for-Service beneficiaries from 2000 to 2018 and used Bayesian shared component models to estimate geographic variation in hospitalizations jointly for both racial groups. We decomposed hospitalization risk across 3037 counties into (1) risk shared by all beneficiaries and (2) risk specific to either Black or White beneficiaries. We analyzed 143 891 769 hospitalizations (13.2% with ADRD). For hospitalization with ADRD, shared risk was elevated in southern and eastern states; Black-specific risk was elevated in the Midwest, Florida, and California; and White-specific risk was elevated in Appalachia. Black relative risk was significantly higher than White relative risk in 90.2% (2740/3037) of counties for hospitalization with ADRD and 44.7% (1359/3037) of counties for hospitalization without ADRD. These findings underscore the importance of considering regional differences in race-specific risk when assessing hospitalization disparities.</description>
     </item>
     <item>
+      <title>Characterizing thunderstorm asthma emergency department presentations using natural language processing for improved real-time surveillance</title>
+      <link>https://doi.org/10.1093/aje/kwag076</link>
+      <guid isPermaLink="false">10.1093/aje/kwag076</guid>
+
+      <dc:creator>Sedigh Khademi</dc:creator>
+      <dc:creator>Gerardo Luis Dimaguila</dc:creator>
+      <dc:creator>Christopher Palmer</dc:creator>
+      <dc:creator>Muhammad Javed</dc:creator>
+      <dc:creator>Jim Buttery</dc:creator>
+      <dc:creator>Jim Black</dc:creator>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sedigh Khademi, Gerardo Luis Dimaguila, Christopher Palmer, Muhammad Javed, Jim Buttery, Jim Black
+
+Journal: American Journal of Epidemiology; Article number: kwag076
+
+Abstract: Abstract Thunderstorm asthma events can overwhelm emergency departments within hours, making rapid detection critical for public health preparedness and patient safety. We examined whether thunderstorm asthma presentations show distinctive patterns compared to routine asthma cases in emergency department data, with an aim of enhancing the detection of thunderstorm asthma incidence. Using Victoria’s SynSurv surveillance system, we analyzed triage notes from 3 thunderstorm asthma events occurring between 2022 and 2024 in Victoria, Australia, comparing 687 thunderstorm-related presentations with 687 presentations from 8 control days. The study population consisted of emergency department attendees with respiratory presentations. Triage notes were processed using natural language processing and manual review, with demographic, symptom-onset, and medical-history data compared using chi-square tests and temporal analysis. Thunderstorm cases showed significantly higher rates of acute symptom onset within 24 hours (63.0% vs 47.2%), with presentations peaking 3-8 hours after storms and returning to baseline within 24 hours. The affected population skewed markedly toward young adults aged 21-40 years (35.9% vs 15.6% in controls). Immunological and allergic comorbidities were 3 times more prevalent in thunderstorm cases (16.6% vs 5.6%). These distinct demographic, temporal, and allergic profiles could enhance real-time surveillance and emergency preparedness through refined detection models.</description>
+    </item>
+    <item>
       <title>Intergenerational socioeconomic mobility and adulthood all-cause mortality in the Hispanic community health study/study of Latinos</title>
       <link>https://doi.org/10.1093/aje/kwag086</link>
       <guid isPermaLink="false">10.1093/aje/kwag086</guid>
@@ -1376,6 +1423,24 @@ Abstract: Abstract Two-way fixed effects (TWFE) models are increasingly applied 
 
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
       <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 5; Pages: 1505-1505</description>
+    </item>
+    <item>
+      <title>Network analysis of pairwise relative tuberculosis transmission probabilities in Lima, Peru</title>
+      <link>https://doi.org/10.1093/aje/kwag067</link>
+      <guid isPermaLink="false">10.1093/aje/kwag067</guid>
+
+      <dc:creator>Anne N Shapiro</dc:creator>
+      <dc:creator>Meredith B Brooks</dc:creator>
+      <dc:creator>Chuan Chin Huang</dc:creator>
+      <dc:creator>Megan B Murray</dc:creator>
+      <dc:creator>Laura F White</dc:creator>
+      <dc:creator>Helen E Jenkins</dc:creator>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Anne N Shapiro, Meredith B Brooks, Chuan Chin Huang, Megan B Murray, Laura F White, Helen E Jenkins
+
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1689-1697
+
+Abstract: Abstract Identifying transmission events is important in understanding infectious disease dynamics. Such events are typically unobservable, particularly in respiratory diseases such as tuberculosis (TB). We apply network techniques to identify transmission clusters and features shared within clusters. We estimate directed pairwise transmission probabilities via an existing iterative algorithm that employs a modified Naïve Bayes classifier and use these probabilities to create a network. We explore noise reduction techniques to trim low-probability edges. We group individuals with TB based on edges informed by transmission probabilities via network clustering algorithms. We apply our framework to simulated data and assess clustering algorithm performance. We then apply this approach to data from a cohort study in Lima, Peru, and examine homogeneity of the clusters using a binary entropy measure. We find cluster performance to be consistent across all edge-trimming scenarios and clustering methods. We find high levels of entropy, implying heterogeneity for age, sex, socioeconomic status, individuals who work outside the home, and people using public transit. We analyze estimated directed pairwise transmission probabilities with network techniques. The approach is consistent across network construction and clustering methods and can be applied to any disease outbreak to understand its dynamics. This article is part of a Special Collection on Latino Health.</description>
     </item>
     <item>
       <title>Harmonizing HIV-1 RNA laboratory measurements in a longitudinal cohort collaboration</title>
