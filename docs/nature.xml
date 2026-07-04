@@ -5,7 +5,7 @@
     <link>https://www.nature.com/nature/</link>
     <description>Latest journal articles for Nature</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 09:34:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:50:55 +0000</lastBuildDate>
 
     <item>
       <title>China boosts prestigious grants for young scientists — will it ease competition?</title>
@@ -44,6 +44,17 @@ Journal: Nature</description>
       <dc:creator>Laura Woodrow</dc:creator>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Laura Woodrow
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit</title>
+      <link>https://doi.org/10.1038/d41586-026-02108-0</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02108-0</guid>
+
+      <dc:creator>Jacob Smith</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jacob Smith
 
 Journal: Nature</description>
     </item>
@@ -586,26 +597,6 @@ Journal: Nature</description>
 Journal: Nature</description>
     </item>
     <item>
-      <title>Aerosols and hydrocarbons in the atmosphere of a white dwarf planet</title>
-      <link>https://doi.org/10.1038/s41586-026-10514-7</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10514-7</guid>
-
-      <dc:creator>Ryan J. MacDonald</dc:creator>
-      <dc:creator>Christopher E. O’Connor</dc:creator>
-      <dc:creator>Victoria A. Boehm</dc:creator>
-      <dc:creator>E. M. May</dc:creator>
-      <dc:creator>David K. Sing</dc:creator>
-      <dc:creator>Elijah Mullens</dc:creator>
-      <dc:creator>L. C. Mayorga</dc:creator>
-      <dc:creator>Trevor O. Foote</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ryan J. MacDonald, Christopher E. O’Connor, Victoria A. Boehm, E. M. May, David K. Sing, Elijah Mullens, L. C. Mayorga, Trevor O. Foote, et al.
-
-Journal: Nature; Volume: 655; Issue: 8121; Pages: 76-80
-
-Abstract: Abstract Most stars, including our Sun, will one day evolve into red giants and, subsequently, white dwarfs. Several planet candidates have recently been identified orbiting white dwarfs 1–4 , demonstrating that planets can survive the stellar post-main-sequence stage intact. Little is known about the atmospheric composition of post-main-sequence planets, with the most evolved transiting planets with atmospheric detections so far orbiting subgiants 5,6 . Here we report an atmospheric detection for the white dwarf planet WD 1856 b, achieved through transmission spectroscopy with the James Webb Space Telescope (JWST) Near-Infrared Spectrograph (NIRSpec) PRISM. Our 0.5–5.0-μm spectrum reveals the presence of hydrocarbons (odds ratio of 167:1–5,377:1, with CH 4 preferred at 17:1–30:1), aerosols (2 × 10 5 :1–2 × 10 6 :1) and thermal emission from the planetary nightside (2 × 10 63 :1–2 × 10 73 :1). Our spectral analysis constrains the mass of WD 1856 b to 4.3–10.9 M J , finds a carbon-enriched atmosphere (with a CH 4 abundance of approximately 7%) and an effective temperature exceeding the expected planetary equilibrium temperature (390–412 K versus 160 K). On the basis of cooling models, these results indicate that WD 1856 b underwent a migration-related reheating event 3.0–5.5 Gyr into the white dwarf phase, consistent with post-main-sequence tidal evolution to the present-day 0.02- au circular orbit. Our results provide a window into the ultimate fate of giant planets orbiting stars with masses similar to our Sun.</description>
-    </item>
-    <item>
       <title>Casdatifan shows durable response linked to HIF-2α biology in kidney cancer</title>
       <link>https://doi.org/10.1038/s41586-026-10718-x</link>
       <guid isPermaLink="false">10.1038/s41586-026-10718-x</guid>
@@ -662,6 +653,26 @@ Journal: Nature</description>
 Journal: Nature
 
 Abstract: Abstract Huntington’s disease (HD) is a devastating movement disorder without a cure at present 1 . Although the monogenic basis of HD is well defined 2 , the complex downstream effects that underlie behavioural symptoms are poorly understood. These effects include cortical dysfunction 3,4 , yet the roles of specific cortical neuronal subtypes in HD symptoms remain largely unexplored. Here we used longitudinal in vivo two-photon calcium imaging to examine the activity of three cortical inhibitory neuron (IN) subtypes and excitatory corticostriatal (CStr) projection neurons in the motor cortex of the transgenic R6/2 HD mouse model throughout disease progression. We found that motor deficits in R6/2 mice were accompanied by neuron subtype-specific abnormalities in movement-related activity. This included marked hypoactivity of vasoactive intestinal peptide (VIP)-INs and CStr neurons, which was also observed in the knock-in zQ175DN HD mouse model. Optogenetic activation of VIP-INs in R6/2 mice restored healthy levels of activity in VIP-INs and their downstream CStr neurons and ameliorated motor deficits in R6/2 mice; behavioural improvements persisted for days after stimulation. Our findings highlight cortical INs as a potential therapeutic target for HD.</description>
+    </item>
+    <item>
+      <title>Aerosols and hydrocarbons in the atmosphere of a white dwarf planet</title>
+      <link>https://doi.org/10.1038/s41586-026-10514-7</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10514-7</guid>
+
+      <dc:creator>Ryan J. MacDonald</dc:creator>
+      <dc:creator>Christopher E. O’Connor</dc:creator>
+      <dc:creator>Victoria A. Boehm</dc:creator>
+      <dc:creator>E. M. May</dc:creator>
+      <dc:creator>David K. Sing</dc:creator>
+      <dc:creator>Elijah Mullens</dc:creator>
+      <dc:creator>L. C. Mayorga</dc:creator>
+      <dc:creator>Trevor O. Foote</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ryan J. MacDonald, Christopher E. O’Connor, Victoria A. Boehm, E. M. May, David K. Sing, Elijah Mullens, L. C. Mayorga, Trevor O. Foote, et al.
+
+Journal: Nature; Volume: 655; Issue: 8121; Pages: 76-80
+
+Abstract: Abstract Most stars, including our Sun, will one day evolve into red giants and, subsequently, white dwarfs. Several planet candidates have recently been identified orbiting white dwarfs 1–4 , demonstrating that planets can survive the stellar post-main-sequence stage intact. Little is known about the atmospheric composition of post-main-sequence planets, with the most evolved transiting planets with atmospheric detections so far orbiting subgiants 5,6 . Here we report an atmospheric detection for the white dwarf planet WD 1856 b, achieved through transmission spectroscopy with the James Webb Space Telescope (JWST) Near-Infrared Spectrograph (NIRSpec) PRISM. Our 0.5–5.0-μm spectrum reveals the presence of hydrocarbons (odds ratio of 167:1–5,377:1, with CH 4 preferred at 17:1–30:1), aerosols (2 × 10 5 :1–2 × 10 6 :1) and thermal emission from the planetary nightside (2 × 10 63 :1–2 × 10 73 :1). Our spectral analysis constrains the mass of WD 1856 b to 4.3–10.9 M J , finds a carbon-enriched atmosphere (with a CH 4 abundance of approximately 7%) and an effective temperature exceeding the expected planetary equilibrium temperature (390–412 K versus 160 K). On the basis of cooling models, these results indicate that WD 1856 b underwent a migration-related reheating event 3.0–5.5 Gyr into the white dwarf phase, consistent with post-main-sequence tidal evolution to the present-day 0.02- au circular orbit. Our results provide a window into the ultimate fate of giant planets orbiting stars with masses similar to our Sun.</description>
     </item>
     <item>
       <title>Harmonizing standards and resources for the medical genome</title>
@@ -1026,6 +1037,14 @@ Journal: Nature</description>
 Journal: Nature; Volume: 655; Issue: 8121; Pages: 10-10</description>
     </item>
     <item>
+      <title>Dementia risk in middle-aged people linked to a blood protein</title>
+      <link>https://doi.org/10.1038/d41586-026-02035-0</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02035-0</guid>
+
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
+    </item>
+    <item>
       <title>The surprising career parallels between footballers and researchers</title>
       <link>https://doi.org/10.1038/d41586-026-01794-0</link>
       <guid isPermaLink="false">10.1038/d41586-026-01794-0</guid>
@@ -1035,14 +1054,6 @@ Journal: Nature; Volume: 655; Issue: 8121; Pages: 10-10</description>
       <description>Authors: Sarah Blackford
 
 Journal: Nature</description>
-    </item>
-    <item>
-      <title>Dementia risk in middle-aged people linked to a blood protein</title>
-      <link>https://doi.org/10.1038/d41586-026-02035-0</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02035-0</guid>
-
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature</description>
     </item>
     <item>
       <title>Europe’s record heatwave: does the continent have a new climate?</title>
@@ -1067,6 +1078,17 @@ Journal: Nature</description>
 Journal: Nature; Volume: 655; Issue: 8121; Pages: 26-28</description>
     </item>
     <item>
+      <title>Daily briefing: Ovaries start a second job after menopause</title>
+      <link>https://doi.org/10.1038/d41586-026-02065-8</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02065-8</guid>
+
+      <dc:creator>Flora Graham</dc:creator>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Flora Graham
+
+Journal: Nature</description>
+    </item>
+    <item>
       <title>Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech</title>
       <link>https://doi.org/10.1038/d41586-026-02059-6</link>
       <guid isPermaLink="false">10.1038/d41586-026-02059-6</guid>
@@ -1075,17 +1097,6 @@ Journal: Nature; Volume: 655; Issue: 8121; Pages: 26-28</description>
       <dc:creator>Maren Hunsberger</dc:creator>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Nick Petrić Howe, Maren Hunsberger
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Daily briefing: Ovaries start a second job after menopause</title>
-      <link>https://doi.org/10.1038/d41586-026-02065-8</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02065-8</guid>
-
-      <dc:creator>Flora Graham</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Flora Graham
 
 Journal: Nature</description>
     </item>
@@ -1353,18 +1364,6 @@ Journal: Nature</description>
 
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
       <description>Journal: Nature</description>
-    </item>
-    <item>
-      <title>Detection of anisotropic cosmic structures on a gigaparsec scale</title>
-      <link>https://doi.org/10.1038/s41586-026-10702-5</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10702-5</guid>
-
-      <dc:creator>Francesco Sylos Labini</dc:creator>
-      <dc:creator>Marco Galoppo</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Francesco Sylos Labini, Marco Galoppo
-
-Journal: Nature</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://www.nature.com/nataging/</link>
     <description>Latest journal articles for Nature Aging</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 09:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:55:38 +0000</lastBuildDate>
 
     <item>
       <title>Age-related molecular changes that are exercise independent</title>
@@ -32,6 +32,26 @@
       <description>Authors: Georges E. Janssens, Maria M. Trętowicz, Lotte Grevendonk, Marit Kotte, Angelique Scantlebery, Bauke V. Schomakers, Michel van Weeghel, Jill Hermans, et al.
 
 Journal: Nature Aging</description>
+    </item>
+    <item>
+      <title>Therapeutic targeting of the conserved region within the low-complexity domain of TDP-43 is neuroprotective and extends survival in amyotrophic lateral sclerosis mice</title>
+      <link>https://doi.org/10.1038/s43587-026-01166-3</link>
+      <guid isPermaLink="false">10.1038/s43587-026-01166-3</guid>
+
+      <dc:creator>Ju Gao</dc:creator>
+      <dc:creator>Devanshi Shukla</dc:creator>
+      <dc:creator>Mao Ding</dc:creator>
+      <dc:creator>Siyue Qin</dc:creator>
+      <dc:creator>Fan Tang</dc:creator>
+      <dc:creator>Evelyn Guerrero</dc:creator>
+      <dc:creator>Lauren Vicuna</dc:creator>
+      <dc:creator>Jiawei Xu</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ju Gao, Devanshi Shukla, Mao Ding, Siyue Qin, Fan Tang, Evelyn Guerrero, Lauren Vicuna, Jiawei Xu, et al.
+
+Journal: Nature Aging
+
+Abstract: Abstract Autosomal dominant mutations in TARDBP , encoding TAR DNA-binding protein 43 (TDP-43), cause amyotrophic lateral sclerosis (ALS), and TDP-43 pathology is a hallmark of multiple aging-associated neurodegenerative diseases. Despite its pathological role, effective therapies remain limited by the lack of safe, potent molecules targeting TDP-43 neurotoxicity. Here we show that the conserved α-helical region spanning residues 320–340 (conserved region or CR) is a therapeutically actionable target for TDP-43 neurotoxicity. Deletion of CR markedly suppressed TDP-43-induced neuronal death. Structure-based virtual screening identified XL20, a brain-penetrant small molecule that engages CR and confers neuroprotection without affecting TDP-43 splicing activity. XL20 alleviated motor neuron loss, extended survival in TDP-43 p.Ala315Thr ALS mice and enhanced neuronal function in p.Gln331Lys induced pluripotent stem cell-derived human ALS motor neurons. Mechanistically, targeting CR suppressed TDP-43 mitochondrial localization and restored mitochondrial function, likely through liquid–liquid phase separation. Our findings highlight CR as a therapeutic target for TDP-43-associated neurodegeneration and support CR-binding small molecules as therapeutic candidates.</description>
     </item>
     <item>
       <title>Mapping the network architecture of aging to identify repurposable drug candidates for longevity</title>
@@ -1529,26 +1549,6 @@ Journal: Nature Aging; Volume: 6; Issue: 2; Pages: 297-298</description>
       <description>Authors: Thaís Lopes de Oliveira, Nancy L. Pedersen, Joris Deelen, Sara Hägg
 
 Journal: Nature Aging; Volume: 6; Issue: 2; Pages: 291-294</description>
-    </item>
-    <item>
-      <title>Comparative analysis of senolytic drugs reveals mitochondrial determinants of efficacy and resistance</title>
-      <link>https://doi.org/10.1038/s43587-025-01057-z</link>
-      <guid isPermaLink="false">10.1038/s43587-025-01057-z</guid>
-
-      <dc:creator>Masahiro Wakita</dc:creator>
-      <dc:creator>Koyu Ito</dc:creator>
-      <dc:creator>Kaho Fujii</dc:creator>
-      <dc:creator>Dai Sakamoto</dc:creator>
-      <dc:creator>Takumi Mikawa</dc:creator>
-      <dc:creator>Sho Sugawara</dc:creator>
-      <dc:creator>Xiangyu Zhou</dc:creator>
-      <dc:creator>Jeong Hoon Park</dc:creator>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Masahiro Wakita, Koyu Ito, Kaho Fujii, Dai Sakamoto, Takumi Mikawa, Sho Sugawara, Xiangyu Zhou, Jeong Hoon Park, et al.
-
-Journal: Nature Aging; Volume: 6; Issue: 2; Pages: 316-328
-
-Abstract: Abstract Cellular senescence contributes to aging and disease, and senolytic drugs that selectively eliminate senescent cells hold therapeutic promise. Although over 20 candidates have been reported, their relative efficacies remain unclear. Here we systematically compared 21 senolytic agents using a senolytic specificity index, identifying the Bcl-2 inhibitor ABT263 and the BET inhibitor ARV825 as most effective senolytics across fibroblast and epithelial senescence models. However, even upon extended treatment with these most potent senolytics, a proportion of senescent cells remained viable. We found that senolytic resistance was driven by maintenance of mitochondrial integrity through V-ATPase-mediated clearance of damaged mitochondria. Imposing mitochondrial stress via metabolic workload enhanced the senolytic efficacies of ABT263 and ARV825 in vitro, and in mouse models, ketogenic diet adoption or SGLT2 inhibition similarly potentiated ABT263-induced and ARV825-induced senolysis, reducing metastasis and tumor growth. These findings suggest that mitochondrial quality control is a key determinant of resistance to ABT263-induced and ARV825-induced senolysis, providing a possible framework for rational combination senotherapies.</description>
     </item>
   </channel>
 </rss>
