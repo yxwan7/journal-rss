@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 09:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:03:49 +0000</lastBuildDate>
 
     <item>
       <title>Transparent fish takes center stage in $1 billion neuroscience initiative</title>
@@ -85,6 +85,19 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 50-52
 Abstract: Highlights from the Science family of journals</description>
     </item>
     <item>
+      <title>The invisible hand</title>
+      <link>https://doi.org/10.1126/science.aej2364</link>
+      <guid isPermaLink="false">10.1126/science.aej2364</guid>
+
+      <dc:creator>Yibin Zhu</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yibin Zhu
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 48-49
+
+Abstract: Microbiota have a hidden role in mosquito-borne disease</description>
+    </item>
+    <item>
       <title>Continental breakup–driven uplift instigated East Antarctic Ice Sheet formation</title>
       <link>https://doi.org/10.1126/science.adz6758</link>
       <guid isPermaLink="false">10.1126/science.adz6758</guid>
@@ -103,19 +116,6 @@ Abstract: Highlights from the Science family of journals</description>
 Journal: Science; Volume: 393; Issue: 6806; Article number: eadz6758
 
 Abstract: Why Antarctica became glaciated ∼34 million years ago (Ma) remains debated, as relatively warm climates and sea temperatures appear inconsistent with ice sheet formation. Although a critical decline in CO 2 is considered primarily responsible, evidence suggests that other factors were important, too. We investigated whether regional topographic uplift, rooted in Jurassic continental breakup and mantle-surface feedbacks, enabled nucleation of the East Antarctic Ice Sheet (EAIS). By integrating geodynamic-topographic models with ice sheet and energy balance models, we show that progressive plateau growth in East Antarctica, including Eocene uplift of the Gamburtsev Mountains, pushed landscapes above the threshold for ice sheet nucleation by ∼45 Ma. Uplift enabled EAIS growth under warmer-than-expected climates, producing hemispheric asymmetry in early glaciation and reconciling Oligocene polar warmth with the onset of the modern icehouse world.</description>
-    </item>
-    <item>
-      <title>The invisible hand</title>
-      <link>https://doi.org/10.1126/science.aej2364</link>
-      <guid isPermaLink="false">10.1126/science.aej2364</guid>
-
-      <dc:creator>Yibin Zhu</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yibin Zhu
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 48-49
-
-Abstract: Microbiota have a hidden role in mosquito-borne disease</description>
     </item>
     <item>
       <title>Observation of quantum vortex core fractionalization and skyrmion formation in a superconductor</title>
@@ -206,19 +206,6 @@ Abstract: Editors’ selections from the current scientific literature</descript
       <description>Journal: Science; Volume: 393; Issue: 6806; Article number: eaej7556</description>
     </item>
     <item>
-      <title>NIH again faces year-end grantmaking scramble</title>
-      <link>https://doi.org/10.1126/science.aek1829</link>
-      <guid isPermaLink="false">10.1126/science.aek1829</guid>
-
-      <dc:creator>Jocelyn Kaiser</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jocelyn Kaiser
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 17-18
-
-Abstract: Despite delays and staff shortages, agency should be able to fully spend 2026 budget, but new grants will likely remain below historic levels</description>
-    </item>
-    <item>
       <title>Feeling a chill</title>
       <link>https://doi.org/10.1126/science.aek1834</link>
       <guid isPermaLink="false">10.1126/science.aek1834</guid>
@@ -244,6 +231,19 @@ Abstract: The Norwegian archipelago of Svalbard has become a key outpost for Arc
 Journal: Science; Article number: eaeh2300
 
 Abstract: Mammalian cells frequently enter mitosis before DNA replication has finished, necessitating the rapid processing of unreplicated loci to facilitate chromosome segregation. The TRAIP ubiquitin ligase induces replisome disassembly during mitosis, triggering the cleavage of DNA replication forks. Until now, the mechanisms that regulate TRAIP and process cleaved DNA replication forks were unclear. Here we show that the TTF2 ATPase is a new type of phospho-receptor that binds a conserved phosphorylation site on TRAIP during mitosis. TTF2 couples phosphorylated TRAIP to DNA polymerase epsilon (Pol ε) in the replisome, leading TRAIP to ubiquitylate the CDC45-MCM-GINS (CMG) helicase. This triggers mitotic replisome disassembly, and a repair pathway that produces sister-chromatid exchanges, supporting a model for how fork cleavage promotes the segregation of under-replicated loci in mammalian cells.</description>
+    </item>
+    <item>
+      <title>NIH again faces year-end grantmaking scramble</title>
+      <link>https://doi.org/10.1126/science.aek1829</link>
+      <guid isPermaLink="false">10.1126/science.aek1829</guid>
+
+      <dc:creator>Jocelyn Kaiser</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jocelyn Kaiser
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 17-18
+
+Abstract: Despite delays and staff shortages, agency should be able to fully spend 2026 budget, but new grants will likely remain below historic levels</description>
     </item>
     <item>
       <title>Zonated mechanosensing by PIEZO1 controls liver regeneration</title>
@@ -397,6 +397,19 @@ Journal: Science; Volume: 393; Issue: 6806; Article number: eaea5113
 Abstract: Local fibroblast development and densities influence organ health and disease, although it remains unclear how tissue fibroblast topography is controlled in situ. Here, we defined Group 2 innate lymphoid cells (ILC2s) as key regulators of fibroblast homeostasis in the pancreas. ILC2s colocalized with fibroblasts expressing the genes Pi16 + Dpp4 + Ly6c + in an interstitial niche of the exocrine pancreas, which encapsulates the organ parenchyma. ILC2s specifically regulated the expansion of Pi16 + Dpp4 + Ly6c + fibroblasts, which have progenitor capacity, while restraining differentiated intraparenchymal Col15a1 + fibroblasts during inflammation. These circuits reinforced fibroblast numbers after injury and set an inflammatory threshold. The ILC2 and Pi16 + Dpp4 + Ly6c + fibroblast progenitor niche expanded around tumors and controlled cancer-associated fibroblast ontogeny and density. Hence, ILC2-fibroblast dialogue represents a regulatory node that locally orchestrates tissue homeostasis and pathology.</description>
     </item>
     <item>
+      <title>How an ancient continental breakup ultimately helped spawn the vast Antarctic Ice Sheet</title>
+      <link>https://doi.org/10.1126/science.aek1832</link>
+      <guid isPermaLink="false">10.1126/science.aek1832</guid>
+
+      <dc:creator>Paul Voosen</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Paul Voosen
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 20-20
+
+Abstract: Mantle waves and tectonic stretching lofted polar mountains into a deep freeze</description>
+    </item>
+    <item>
       <title>End “reusable” waste dumping in Africa</title>
       <link>https://doi.org/10.1126/science.aei3868</link>
       <guid isPermaLink="false">10.1126/science.aei3868</guid>
@@ -413,19 +426,6 @@ Abstract: Local fibroblast development and densities influence organ health and 
       <description>Authors: Chengjun Li, Chunyang Li, Ilham Ku-nwa Hamid, Mike Anane, Innocent Chidi Nnorom, Raphael Kanyire Seidu, Yuelin Li, Muntaka Chasant, et al.
 
 Journal: Science; Volume: 393; Issue: 6806; Pages: 45-46</description>
-    </item>
-    <item>
-      <title>How an ancient continental breakup ultimately helped spawn the vast Antarctic Ice Sheet</title>
-      <link>https://doi.org/10.1126/science.aek1832</link>
-      <guid isPermaLink="false">10.1126/science.aek1832</guid>
-
-      <dc:creator>Paul Voosen</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Paul Voosen
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 20-20
-
-Abstract: Mantle waves and tectonic stretching lofted polar mountains into a deep freeze</description>
     </item>
     <item>
       <title>TranscriptFormer: A generative cell atlas across 1.5 billion years of evolution</title>
@@ -481,22 +481,6 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 21-21
 Abstract: Giant camera will repeatedly scan the sky, spotting transients while building deep map of billions of galaxies</description>
     </item>
     <item>
-      <title>Fruit flies actively restart their circadian clock by proactively shaping their environment</title>
-      <link>https://doi.org/10.1126/science.adw2239</link>
-      <guid isPermaLink="false">10.1126/science.adw2239</guid>
-
-      <dc:creator>Angelica Coculla</dc:creator>
-      <dc:creator>Luis Garcia Rodriguez</dc:creator>
-      <dc:creator>Maite Ogueta</dc:creator>
-      <dc:creator>Ralf Stanewsky</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Angelica Coculla, Luis Garcia Rodriguez, Maite Ogueta, Ralf Stanewsky
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 98-104
-
-Abstract: Circadian clocks provide adaptive advantages, enabling organisms to adjust their physiology and behavior to daily environmental changes on Earth. Here, we show that fruit flies prefer a temporally organized life. Because of light-induced degradation of the core circadian clock protein Timeless, constant illumination stops the circadian clock and leads to arrhythmic locomotor activity. When given the choice to move between dark and illuminated areas in a constant light environment, flies were able to maintain, or even regain, rhythmic behavioral patterns. These self-inflicted rhythms were accompanied by molecular rhythms in clock neurons known to drive behavioral rhythms. Behavioral rhythmicity was correlated with improved sleep quality compared with that of arrhythmic flies, demonstrating an immediate benefit of choosing to live under circadian clock control.</description>
-    </item>
-    <item>
       <title>A Hormone Cell Atlas maps the human endocrine system at cellular resolution</title>
       <link>https://doi.org/10.1126/science.aeb2672</link>
       <guid isPermaLink="false">10.1126/science.aeb2672</guid>
@@ -515,6 +499,22 @@ Abstract: Circadian clocks provide adaptive advantages, enabling organisms to ad
 Journal: Science; Volume: 393; Issue: 6806; Article number: eaeb2672
 
 Abstract: Hormones act across tissues and organs to coordinate physiological functions. Drawing inspiration from the Human Cell Atlas, we analyzed the expression of 379 hormone and receptor genes in a transcriptomic dataset comprising 14 million single cells and nuclei across 47 human tissues. Using hormone2cell, we mapped putative hormone-producing and hormone-receiving cell types, defining tissue-specific and cross-tissue endocrine signatures. We predicted nonclassical sites of hormone expression, including secretin in plasmacytoid dendritic cells, inferred convergent hormone action and endocrine feedback loops, and implicated cell populations in monogenic endocrine disorders. In a cross-tissue integration of adipocyte datasets, we uncovered dynamic endocrine programs across depots, within adipocyte subtypes and through adipogenic differentiation. Cumulatively, the Hormone Cell Atlas ( hormonecellatlas.org.uk ) provides a comprehensive framework for dissecting hormonal impact on health and disease.</description>
+    </item>
+    <item>
+      <title>Fruit flies actively restart their circadian clock by proactively shaping their environment</title>
+      <link>https://doi.org/10.1126/science.adw2239</link>
+      <guid isPermaLink="false">10.1126/science.adw2239</guid>
+
+      <dc:creator>Angelica Coculla</dc:creator>
+      <dc:creator>Luis Garcia Rodriguez</dc:creator>
+      <dc:creator>Maite Ogueta</dc:creator>
+      <dc:creator>Ralf Stanewsky</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Angelica Coculla, Luis Garcia Rodriguez, Maite Ogueta, Ralf Stanewsky
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 98-104
+
+Abstract: Circadian clocks provide adaptive advantages, enabling organisms to adjust their physiology and behavior to daily environmental changes on Earth. Here, we show that fruit flies prefer a temporally organized life. Because of light-induced degradation of the core circadian clock protein Timeless, constant illumination stops the circadian clock and leads to arrhythmic locomotor activity. When given the choice to move between dark and illuminated areas in a constant light environment, flies were able to maintain, or even regain, rhythmic behavioral patterns. These self-inflicted rhythms were accompanied by molecular rhythms in clock neurons known to drive behavioral rhythms. Behavioral rhythmicity was correlated with improved sleep quality compared with that of arrhythmic flies, demonstrating an immediate benefit of choosing to live under circadian clock control.</description>
     </item>
     <item>
       <title>Lab creates new kind of synthetic cell</title>
@@ -561,17 +561,6 @@ Abstract: Human stem cell–derived miniature organs, including kidney organoids
 Journal: Science; Volume: 393; Issue: 6806; Pages: 45-45</description>
     </item>
     <item>
-      <title>A classroom contract for AI</title>
-      <link>https://doi.org/10.1126/science.aek1435</link>
-      <guid isPermaLink="false">10.1126/science.aek1435</guid>
-
-      <dc:creator>Tomasz Głowacki</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tomasz Głowacki
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 114-114</description>
-    </item>
-    <item>
       <title>Height does not impair the hydraulic system of the tallest tropical Dipterocarp trees</title>
       <link>https://doi.org/10.1126/science.aea9013</link>
       <guid isPermaLink="false">10.1126/science.aea9013</guid>
@@ -590,6 +579,17 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 114-114</description>
 Journal: Science; Volume: 393; Issue: 6806; Pages: 60-64
 
 Abstract: Half of the aboveground biomass in forests is stored in a disproportionately small number of very tall trees. These giants are predicted to be more vulnerable to drought-induced damage because height impairs their hydraulic system. We evaluated whether the hydraulic system of world’s tallest tropical tree species—Southeast Asian dipterocarps—are negatively affected by their height. The more negative xylem pressures caused by tree height were fully compensated for through adjustment of vessel anatomy and leaf hydraulic traits, and the trees suffered no height-related loss in growth during a severe drought. Therefore, height does not make the hydraulic systems of the world’s tallest tropical tree species more vulnerable to drought, and the growth rates of these trees are not more negatively affected by drought than are their smaller counterparts.</description>
+    </item>
+    <item>
+      <title>A classroom contract for AI</title>
+      <link>https://doi.org/10.1126/science.aek1435</link>
+      <guid isPermaLink="false">10.1126/science.aek1435</guid>
+
+      <dc:creator>Tomasz Głowacki</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tomasz Głowacki
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 114-114</description>
     </item>
     <item>
       <title>WWII and the evolution of US federal research funding</title>
@@ -1450,26 +1450,6 @@ Abstract: More efficient environmental risk assessment and stronger protection a
       <description>Journal: Science; Volume: 392; Issue: 6805; Pages: 1341-1341</description>
     </item>
     <item>
-      <title>Cryo–electron microscopy structures of human cone visual pigments</title>
-      <link>https://doi.org/10.1126/science.adz8141</link>
-      <guid isPermaLink="false">10.1126/science.adz8141</guid>
-
-      <dc:creator>Qi Peng</dc:creator>
-      <dc:creator>Jian Li</dc:creator>
-      <dc:creator>Haihai Jiang</dc:creator>
-      <dc:creator>Xinyu Cheng</dc:creator>
-      <dc:creator>Probal Nag</dc:creator>
-      <dc:creator>Gunnar Kleinau</dc:creator>
-      <dc:creator>Trevor D. Lamb</dc:creator>
-      <dc:creator>Leon Busche</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Qi Peng, Jian Li, Haihai Jiang, Xinyu Cheng, Probal Nag, Gunnar Kleinau, Trevor D. Lamb, Leon Busche, et al.
-
-Journal: Science; Volume: 392; Issue: 6805; Article number: eadz8141
-
-Abstract: Human trichromatic color vision relies on three cone opsins [long-, middle-, and short-wavelength-sensitive opsins (LWS-, MWS-, and SWS-opsins, respectively)], whereas scotopic rod vision is mediated by rhodopsin. Although the structure of rhodopsin was solved more than 20 years ago, cone opsin structures have been lacking. Here, we present cryo–electron microscopy structures of the three human cone opsins, each bound to a G protein and all- trans retinal in the presumed active state. All three cone opsins differ markedly from rhodopsin. Within the retinal binding pocket, we identified a distinct counterion site (LWS- and MWS-opsins) and a ring of serines around the retinal (SWS-opsin). The active cone opsin structures explain how amino acid substitutions fine-tune spectral sensitivity and help clarify the molecular basis of color vision deficiencies and key differences in rod versus cone activation.</description>
-    </item>
-    <item>
       <title>Antibiotics stimulate protein transfer to persister cells</title>
       <link>https://doi.org/10.1126/science.adx3972</link>
       <guid isPermaLink="false">10.1126/science.adx3972</guid>
@@ -1488,6 +1468,26 @@ Abstract: Human trichromatic color vision relies on three cone opsins [long-, mi
 Journal: Science; Volume: 392; Issue: 6805; Article number: eadx3972
 
 Abstract: The exchange of biological matter between bacterial cells drives adaptation and evolution. However, whether bacteria can exchange functional proteins remains unclear. In this work, we found that antibiotic treatment can induce vesicle-mediated horizontal protein transfer within and between bacterial species. We developed a genetic system in Escherichia coli to track transfer events and performed single-cell transcriptomic profiling on an isogenic population of bacteria. Antibiotics stimulated the differentiation of this isogenic population into distinct cell states: donor cells that activated a membrane stress response to release protein-containing vesicles and recipient cells that suppressed this response to acquire protein from their neighbors. Protein uptake enhanced the antibiotic persistence of recipient cells, revealing that vesicle exchange promotes bacterial survival during antibiotic treatment.</description>
+    </item>
+    <item>
+      <title>Cryo–electron microscopy structures of human cone visual pigments</title>
+      <link>https://doi.org/10.1126/science.adz8141</link>
+      <guid isPermaLink="false">10.1126/science.adz8141</guid>
+
+      <dc:creator>Qi Peng</dc:creator>
+      <dc:creator>Jian Li</dc:creator>
+      <dc:creator>Haihai Jiang</dc:creator>
+      <dc:creator>Xinyu Cheng</dc:creator>
+      <dc:creator>Probal Nag</dc:creator>
+      <dc:creator>Gunnar Kleinau</dc:creator>
+      <dc:creator>Trevor D. Lamb</dc:creator>
+      <dc:creator>Leon Busche</dc:creator>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Qi Peng, Jian Li, Haihai Jiang, Xinyu Cheng, Probal Nag, Gunnar Kleinau, Trevor D. Lamb, Leon Busche, et al.
+
+Journal: Science; Volume: 392; Issue: 6805; Article number: eadz8141
+
+Abstract: Human trichromatic color vision relies on three cone opsins [long-, middle-, and short-wavelength-sensitive opsins (LWS-, MWS-, and SWS-opsins, respectively)], whereas scotopic rod vision is mediated by rhodopsin. Although the structure of rhodopsin was solved more than 20 years ago, cone opsin structures have been lacking. Here, we present cryo–electron microscopy structures of the three human cone opsins, each bound to a G protein and all- trans retinal in the presumed active state. All three cone opsins differ markedly from rhodopsin. Within the retinal binding pocket, we identified a distinct counterion site (LWS- and MWS-opsins) and a ring of serines around the retinal (SWS-opsin). The active cone opsin structures explain how amino acid substitutions fine-tune spectral sensitivity and help clarify the molecular basis of color vision deficiencies and key differences in rod versus cone activation.</description>
     </item>
     <item>
       <title>Induction of broadly neutralizing HIV antibodies by a two-step mechanism informs vaccine design</title>
