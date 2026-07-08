@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:44:13 +0000</lastBuildDate>
 
     <item>
       <title>Transparent fish takes center stage in $1 billion neuroscience initiative</title>
@@ -45,26 +45,6 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 85-89
 Abstract: Wurtzite Al 1-x Sc x N ferroelectrics exhibit exceptional polarization and thermal stability, making them highly promising for a wide range of electronic applications. However, a more profound understanding is required regarding the atomic-scale mechanism through which cation substitution lowers the switching energy barrier and thus reduces the coercive field. We used spherical aberration–corrected transmission electron microscopy to reveal a periodic modulation of cation-anion spacing along the polarization direction, forming alternating atomic dipole layers. This modulation arises from energetically favorable chemical ordering of aluminum and scandium atoms between adjacent layers, with layer-resolved asymmetry in atomic arrangement. In situ imaging directly captures atomic-scale, noncollective, stepwise polarization switching, revealing intermediate states and local spacing fluctuations. Compositional inhomogeneity in these dipole layers creates multiple transient states that reduce the switching energy barrier. Our findings connect atomic-scale dipole structures to polarization switching kinetics, enabling the rational design of wurtzite ferroelectrics.</description>
     </item>
     <item>
-      <title>Orbital magnetoresistance in the antiferromagnet CoO driven by dynamic orbital angular momentum</title>
-      <link>https://doi.org/10.1126/science.adw1808</link>
-      <guid isPermaLink="false">10.1126/science.adw1808</guid>
-
-      <dc:creator>Christin Schmitt</dc:creator>
-      <dc:creator>Sachin Krishnia</dc:creator>
-      <dc:creator>Mahmoud Zeer</dc:creator>
-      <dc:creator>Edgar Galíndez-Ruales</dc:creator>
-      <dc:creator>Mehak Loyal</dc:creator>
-      <dc:creator>Jonas Köhler</dc:creator>
-      <dc:creator>Luca Micus</dc:creator>
-      <dc:creator>Takashi Kikkawa</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Christin Schmitt, Sachin Krishnia, Mahmoud Zeer, Edgar Galíndez-Ruales, Mehak Loyal, Jonas Köhler, Luca Micus, Takashi Kikkawa, et al.
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 76-79
-
-Abstract: Recent predictions of orders of magnitude larger orbital current effects compared with spin currents have attracted considerable interest. However, orbital currents must first be converted into spin currents to interact with the static magnetization dominated by spin angular momentum in conventional magnets. By using a magnet dominated by orbital angular momentum (OAM), we demonstrate a 70-fold enhancement in orbital Hall magnetoresistance in cobalt II oxide/copper (CoO/Cu*), compared with spin Hall magnetoresistance in cobalt II oxide/platinum (CoO/Pt). This arises from interactions between dynamic OAM from surface-oxidized Cu* and static OAM in the antiferromagnetic insulator CoO. Our results show how by using OAM-dominated materials, we can harness the benefits of giant orbital currents that have not been possible using conventional spin-dominated magnets.</description>
-    </item>
-    <item>
       <title>In Science Journals</title>
       <link>https://doi.org/10.1126/science.aek1433</link>
       <guid isPermaLink="false">10.1126/science.aek1433</guid>
@@ -85,17 +65,24 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 50-52
 Abstract: Highlights from the Science family of journals</description>
     </item>
     <item>
-      <title>The invisible hand</title>
-      <link>https://doi.org/10.1126/science.aej2364</link>
-      <guid isPermaLink="false">10.1126/science.aej2364</guid>
+      <title>Orbital magnetoresistance in the antiferromagnet CoO driven by dynamic orbital angular momentum</title>
+      <link>https://doi.org/10.1126/science.adw1808</link>
+      <guid isPermaLink="false">10.1126/science.adw1808</guid>
 
-      <dc:creator>Yibin Zhu</dc:creator>
+      <dc:creator>Christin Schmitt</dc:creator>
+      <dc:creator>Sachin Krishnia</dc:creator>
+      <dc:creator>Mahmoud Zeer</dc:creator>
+      <dc:creator>Edgar Galíndez-Ruales</dc:creator>
+      <dc:creator>Mehak Loyal</dc:creator>
+      <dc:creator>Jonas Köhler</dc:creator>
+      <dc:creator>Luca Micus</dc:creator>
+      <dc:creator>Takashi Kikkawa</dc:creator>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yibin Zhu
+      <description>Authors: Christin Schmitt, Sachin Krishnia, Mahmoud Zeer, Edgar Galíndez-Ruales, Mehak Loyal, Jonas Köhler, Luca Micus, Takashi Kikkawa, et al.
 
-Journal: Science; Volume: 393; Issue: 6806; Pages: 48-49
+Journal: Science; Volume: 393; Issue: 6806; Pages: 76-79
 
-Abstract: Microbiota have a hidden role in mosquito-borne disease</description>
+Abstract: Recent predictions of orders of magnitude larger orbital current effects compared with spin currents have attracted considerable interest. However, orbital currents must first be converted into spin currents to interact with the static magnetization dominated by spin angular momentum in conventional magnets. By using a magnet dominated by orbital angular momentum (OAM), we demonstrate a 70-fold enhancement in orbital Hall magnetoresistance in cobalt II oxide/copper (CoO/Cu*), compared with spin Hall magnetoresistance in cobalt II oxide/platinum (CoO/Pt). This arises from interactions between dynamic OAM from surface-oxidized Cu* and static OAM in the antiferromagnetic insulator CoO. Our results show how by using OAM-dominated materials, we can harness the benefits of giant orbital currents that have not been possible using conventional spin-dominated magnets.</description>
     </item>
     <item>
       <title>Continental breakup–driven uplift instigated East Antarctic Ice Sheet formation</title>
@@ -116,6 +103,19 @@ Abstract: Microbiota have a hidden role in mosquito-borne disease</description>
 Journal: Science; Volume: 393; Issue: 6806; Article number: eadz6758
 
 Abstract: Why Antarctica became glaciated ∼34 million years ago (Ma) remains debated, as relatively warm climates and sea temperatures appear inconsistent with ice sheet formation. Although a critical decline in CO 2 is considered primarily responsible, evidence suggests that other factors were important, too. We investigated whether regional topographic uplift, rooted in Jurassic continental breakup and mantle-surface feedbacks, enabled nucleation of the East Antarctic Ice Sheet (EAIS). By integrating geodynamic-topographic models with ice sheet and energy balance models, we show that progressive plateau growth in East Antarctica, including Eocene uplift of the Gamburtsev Mountains, pushed landscapes above the threshold for ice sheet nucleation by ∼45 Ma. Uplift enabled EAIS growth under warmer-than-expected climates, producing hemispheric asymmetry in early glaciation and reconciling Oligocene polar warmth with the onset of the modern icehouse world.</description>
+    </item>
+    <item>
+      <title>The invisible hand</title>
+      <link>https://doi.org/10.1126/science.aej2364</link>
+      <guid isPermaLink="false">10.1126/science.aej2364</guid>
+
+      <dc:creator>Yibin Zhu</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yibin Zhu
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 48-49
+
+Abstract: Microbiota have a hidden role in mosquito-borne disease</description>
     </item>
     <item>
       <title>Observation of quantum vortex core fractionalization and skyrmion formation in a superconductor</title>
@@ -206,6 +206,19 @@ Abstract: Editors’ selections from the current scientific literature</descript
       <description>Journal: Science; Volume: 393; Issue: 6806; Article number: eaej7556</description>
     </item>
     <item>
+      <title>NIH again faces year-end grantmaking scramble</title>
+      <link>https://doi.org/10.1126/science.aek1829</link>
+      <guid isPermaLink="false">10.1126/science.aek1829</guid>
+
+      <dc:creator>Jocelyn Kaiser</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jocelyn Kaiser
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 17-18
+
+Abstract: Despite delays and staff shortages, agency should be able to fully spend 2026 budget, but new grants will likely remain below historic levels</description>
+    </item>
+    <item>
       <title>Feeling a chill</title>
       <link>https://doi.org/10.1126/science.aek1834</link>
       <guid isPermaLink="false">10.1126/science.aek1834</guid>
@@ -231,19 +244,6 @@ Abstract: The Norwegian archipelago of Svalbard has become a key outpost for Arc
 Journal: Science; Article number: eaeh2300
 
 Abstract: Mammalian cells frequently enter mitosis before DNA replication has finished, necessitating the rapid processing of unreplicated loci to facilitate chromosome segregation. The TRAIP ubiquitin ligase induces replisome disassembly during mitosis, triggering the cleavage of DNA replication forks. Until now, the mechanisms that regulate TRAIP and process cleaved DNA replication forks were unclear. Here we show that the TTF2 ATPase is a new type of phospho-receptor that binds a conserved phosphorylation site on TRAIP during mitosis. TTF2 couples phosphorylated TRAIP to DNA polymerase epsilon (Pol ε) in the replisome, leading TRAIP to ubiquitylate the CDC45-MCM-GINS (CMG) helicase. This triggers mitotic replisome disassembly, and a repair pathway that produces sister-chromatid exchanges, supporting a model for how fork cleavage promotes the segregation of under-replicated loci in mammalian cells.</description>
-    </item>
-    <item>
-      <title>NIH again faces year-end grantmaking scramble</title>
-      <link>https://doi.org/10.1126/science.aek1829</link>
-      <guid isPermaLink="false">10.1126/science.aek1829</guid>
-
-      <dc:creator>Jocelyn Kaiser</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jocelyn Kaiser
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 17-18
-
-Abstract: Despite delays and staff shortages, agency should be able to fully spend 2026 budget, but new grants will likely remain below historic levels</description>
     </item>
     <item>
       <title>Zonated mechanosensing by PIEZO1 controls liver regeneration</title>
@@ -290,24 +290,37 @@ Abstract: America has for its entire history been fascinated with science. Altho
 Journal: Science; Volume: 393; Issue: 6806; Pages: 46-47</description>
     </item>
     <item>
-      <title>A sub–10-millisecond neural dynamical system based on phase-change memristors</title>
-      <link>https://doi.org/10.1126/science.aee6277</link>
-      <guid isPermaLink="false">10.1126/science.aee6277</guid>
+      <title>Surface immune signaling unlocks NLR activation through mRNA alternative splicing</title>
+      <link>https://doi.org/10.1126/science.adx9929</link>
+      <guid isPermaLink="false">10.1126/science.adx9929</guid>
 
-      <dc:creator>Lei Cai</dc:creator>
-      <dc:creator>Yaoyu Tao</dc:creator>
-      <dc:creator>Chenchen Xie</dc:creator>
-      <dc:creator>Longhao Yan</dc:creator>
-      <dc:creator>Shiqian Li</dc:creator>
-      <dc:creator>Ruihong Shen</dc:creator>
-      <dc:creator>Zelun Pan</dc:creator>
-      <dc:creator>Xile Wang</dc:creator>
+      <dc:creator>Chuyun Gao</dc:creator>
+      <dc:creator>Xi Meng</dc:creator>
+      <dc:creator>Xianchu Chen</dc:creator>
+      <dc:creator>Leiyun Yang</dc:creator>
+      <dc:creator>Tarhan Ibrahim</dc:creator>
+      <dc:creator>AmirAli Toghani</dc:creator>
+      <dc:creator>Enoch Lok Him Yuen</dc:creator>
+      <dc:creator>Nick Eilmann</dc:creator>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lei Cai, Yaoyu Tao, Chenchen Xie, Longhao Yan, Shiqian Li, Ruihong Shen, Zelun Pan, Xile Wang, et al.
+      <description>Authors: Chuyun Gao, Xi Meng, Xianchu Chen, Leiyun Yang, Tarhan Ibrahim, AmirAli Toghani, Enoch Lok Him Yuen, Nick Eilmann, et al.
 
-Journal: Science; Volume: 393; Issue: 6806; Pages: 105-112
+Journal: Science; Volume: 393; Issue: 6806; Pages: 65-70
 
-Abstract: High-fidelity geometry for physical-world modeling demands real-time, dense, and differentiable deformation fields on manifolds. Neural dynamical systems (NDSs) using adaptive stepsize integration with embedded neural networks excel at these tasks but still suffer latency on the order of hundreds of milliseconds. In this work, we report a sub–10-millisecond NDS hardware leveraging the precisely controlled conductance drift of phase-change memristors and their multilevel compute-in-memory capabilities. We fabricated a 40-nanometer NDS chip for the challenging surface reconstruction tasks. Compared with state-of-the-art NDS hardware, our NDS design achieves a latency of 2.12 milliseconds (below 10 milliseconds) for single-iteration NDS computations with an error tolerance of 10 −7 and delivers 3.82× to 36.27× faster speed while consuming 11.75× to 24.73× less power. The end-to-end NDS latency through hardware measurements and simulations outperformed graphics processing unit A100 by 50.38× to 478.18×.</description>
+Abstract: Plants activate pattern-triggered immunity (PTI) and effector-triggered immunity (ETI) to combat pathogens. However, how these systems coordinate immune activation while preventing autoimmunity remains poorly understood. In this study, we uncovered a regulatory mechanism in which surface immune signaling unlocks nucleotide-binding leucine-rich repeat (NLR) immune receptor activation through mRNA splicing. We identified an N-terminal prodomain in the potato late blight resistance protein Rpi-vnt1.1 that inhibits resistosome formation, preventing potential autoactivation of this NLR. Upon pathogen perception, PTI signaling induced alternative splicing of Rpi-vnt1.1 mRNA, removing this inhibitory element. This primed Rpi-vnt1.1 for activation by the Phytophthora infestans effector AVRvnt1, enabling resistosome assembly and immune signaling. The widespread conservation of N-terminal extensions in coiled coil–type NLRs points to a common regulatory mechanism in preventing potential autoactivation while preserving pathogen sensitivity.</description>
+    </item>
+    <item>
+      <title>Johns Hopkins University and the American research enterprise</title>
+      <link>https://doi.org/10.1126/science.aej0512</link>
+      <guid isPermaLink="false">10.1126/science.aej0512</guid>
+
+      <dc:creator>Ronald J. Daniels</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ronald J. Daniels
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 39-41
+
+Abstract: The nation’s research universities have traced an indelible path through the American story</description>
     </item>
     <item>
       <title>Hierarchical sensory processing in zebrafish thalamocortical-like circuits</title>
@@ -330,37 +343,24 @@ Journal: Science; Article number: eaec2171
 Abstract: Thalamocortical projections shape the functional regionalization and parallel sensory computations across the mammalian cortex. However, the principles of thalamocortical computations in non-mammalian vertebrates remain underexplored. Here we investigated how the zebrafish pallium, a homolog of the vertebrate cortex, receives and processes sensory information, and how its architecture compares to thalamocortical circuits in other vertebrates. We revealed that the preglomerular complex (PG), a thalamocortical-like pathway, is the primary source of visual and vibrational information to the zebrafish pallium. PG and its pallial projections exhibit sensory-specific and topographically organized responses. In contrast, pallial neurons display topographically organized hierarchies, ranging from sensory-specific to multimodal and coincidence-detecting nonlinear responses. Our results suggest that hierarchies of sensory transformations across topographically organized thalamocortical-like circuits reflect a convergent principle across vertebrates.</description>
     </item>
     <item>
-      <title>Johns Hopkins University and the American research enterprise</title>
-      <link>https://doi.org/10.1126/science.aej0512</link>
-      <guid isPermaLink="false">10.1126/science.aej0512</guid>
+      <title>A sub–10-millisecond neural dynamical system based on phase-change memristors</title>
+      <link>https://doi.org/10.1126/science.aee6277</link>
+      <guid isPermaLink="false">10.1126/science.aee6277</guid>
 
-      <dc:creator>Ronald J. Daniels</dc:creator>
+      <dc:creator>Lei Cai</dc:creator>
+      <dc:creator>Yaoyu Tao</dc:creator>
+      <dc:creator>Chenchen Xie</dc:creator>
+      <dc:creator>Longhao Yan</dc:creator>
+      <dc:creator>Shiqian Li</dc:creator>
+      <dc:creator>Ruihong Shen</dc:creator>
+      <dc:creator>Zelun Pan</dc:creator>
+      <dc:creator>Xile Wang</dc:creator>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ronald J. Daniels
+      <description>Authors: Lei Cai, Yaoyu Tao, Chenchen Xie, Longhao Yan, Shiqian Li, Ruihong Shen, Zelun Pan, Xile Wang, et al.
 
-Journal: Science; Volume: 393; Issue: 6806; Pages: 39-41
+Journal: Science; Volume: 393; Issue: 6806; Pages: 105-112
 
-Abstract: The nation’s research universities have traced an indelible path through the American story</description>
-    </item>
-    <item>
-      <title>Surface immune signaling unlocks NLR activation through mRNA alternative splicing</title>
-      <link>https://doi.org/10.1126/science.adx9929</link>
-      <guid isPermaLink="false">10.1126/science.adx9929</guid>
-
-      <dc:creator>Chuyun Gao</dc:creator>
-      <dc:creator>Xi Meng</dc:creator>
-      <dc:creator>Xianchu Chen</dc:creator>
-      <dc:creator>Leiyun Yang</dc:creator>
-      <dc:creator>Tarhan Ibrahim</dc:creator>
-      <dc:creator>AmirAli Toghani</dc:creator>
-      <dc:creator>Enoch Lok Him Yuen</dc:creator>
-      <dc:creator>Nick Eilmann</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chuyun Gao, Xi Meng, Xianchu Chen, Leiyun Yang, Tarhan Ibrahim, AmirAli Toghani, Enoch Lok Him Yuen, Nick Eilmann, et al.
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 65-70
-
-Abstract: Plants activate pattern-triggered immunity (PTI) and effector-triggered immunity (ETI) to combat pathogens. However, how these systems coordinate immune activation while preventing autoimmunity remains poorly understood. In this study, we uncovered a regulatory mechanism in which surface immune signaling unlocks nucleotide-binding leucine-rich repeat (NLR) immune receptor activation through mRNA splicing. We identified an N-terminal prodomain in the potato late blight resistance protein Rpi-vnt1.1 that inhibits resistosome formation, preventing potential autoactivation of this NLR. Upon pathogen perception, PTI signaling induced alternative splicing of Rpi-vnt1.1 mRNA, removing this inhibitory element. This primed Rpi-vnt1.1 for activation by the Phytophthora infestans effector AVRvnt1, enabling resistosome assembly and immune signaling. The widespread conservation of N-terminal extensions in coiled coil–type NLRs points to a common regulatory mechanism in preventing potential autoactivation while preserving pathogen sensitivity.</description>
+Abstract: High-fidelity geometry for physical-world modeling demands real-time, dense, and differentiable deformation fields on manifolds. Neural dynamical systems (NDSs) using adaptive stepsize integration with embedded neural networks excel at these tasks but still suffer latency on the order of hundreds of milliseconds. In this work, we report a sub–10-millisecond NDS hardware leveraging the precisely controlled conductance drift of phase-change memristors and their multilevel compute-in-memory capabilities. We fabricated a 40-nanometer NDS chip for the challenging surface reconstruction tasks. Compared with state-of-the-art NDS hardware, our NDS design achieves a latency of 2.12 milliseconds (below 10 milliseconds) for single-iteration NDS computations with an error tolerance of 10 −7 and delivers 3.82× to 36.27× faster speed while consuming 11.75× to 24.73× less power. The end-to-end NDS latency through hardware measurements and simulations outperformed graphics processing unit A100 by 50.38× to 478.18×.</description>
     </item>
     <item>
       <title>The mechanics of liver regeneration</title>
@@ -481,6 +481,22 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 21-21
 Abstract: Giant camera will repeatedly scan the sky, spotting transients while building deep map of billions of galaxies</description>
     </item>
     <item>
+      <title>Fruit flies actively restart their circadian clock by proactively shaping their environment</title>
+      <link>https://doi.org/10.1126/science.adw2239</link>
+      <guid isPermaLink="false">10.1126/science.adw2239</guid>
+
+      <dc:creator>Angelica Coculla</dc:creator>
+      <dc:creator>Luis Garcia Rodriguez</dc:creator>
+      <dc:creator>Maite Ogueta</dc:creator>
+      <dc:creator>Ralf Stanewsky</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Angelica Coculla, Luis Garcia Rodriguez, Maite Ogueta, Ralf Stanewsky
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 98-104
+
+Abstract: Circadian clocks provide adaptive advantages, enabling organisms to adjust their physiology and behavior to daily environmental changes on Earth. Here, we show that fruit flies prefer a temporally organized life. Because of light-induced degradation of the core circadian clock protein Timeless, constant illumination stops the circadian clock and leads to arrhythmic locomotor activity. When given the choice to move between dark and illuminated areas in a constant light environment, flies were able to maintain, or even regain, rhythmic behavioral patterns. These self-inflicted rhythms were accompanied by molecular rhythms in clock neurons known to drive behavioral rhythms. Behavioral rhythmicity was correlated with improved sleep quality compared with that of arrhythmic flies, demonstrating an immediate benefit of choosing to live under circadian clock control.</description>
+    </item>
+    <item>
       <title>A Hormone Cell Atlas maps the human endocrine system at cellular resolution</title>
       <link>https://doi.org/10.1126/science.aeb2672</link>
       <guid isPermaLink="false">10.1126/science.aeb2672</guid>
@@ -499,22 +515,6 @@ Abstract: Giant camera will repeatedly scan the sky, spotting transients while b
 Journal: Science; Volume: 393; Issue: 6806; Article number: eaeb2672
 
 Abstract: Hormones act across tissues and organs to coordinate physiological functions. Drawing inspiration from the Human Cell Atlas, we analyzed the expression of 379 hormone and receptor genes in a transcriptomic dataset comprising 14 million single cells and nuclei across 47 human tissues. Using hormone2cell, we mapped putative hormone-producing and hormone-receiving cell types, defining tissue-specific and cross-tissue endocrine signatures. We predicted nonclassical sites of hormone expression, including secretin in plasmacytoid dendritic cells, inferred convergent hormone action and endocrine feedback loops, and implicated cell populations in monogenic endocrine disorders. In a cross-tissue integration of adipocyte datasets, we uncovered dynamic endocrine programs across depots, within adipocyte subtypes and through adipogenic differentiation. Cumulatively, the Hormone Cell Atlas ( hormonecellatlas.org.uk ) provides a comprehensive framework for dissecting hormonal impact on health and disease.</description>
-    </item>
-    <item>
-      <title>Fruit flies actively restart their circadian clock by proactively shaping their environment</title>
-      <link>https://doi.org/10.1126/science.adw2239</link>
-      <guid isPermaLink="false">10.1126/science.adw2239</guid>
-
-      <dc:creator>Angelica Coculla</dc:creator>
-      <dc:creator>Luis Garcia Rodriguez</dc:creator>
-      <dc:creator>Maite Ogueta</dc:creator>
-      <dc:creator>Ralf Stanewsky</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Angelica Coculla, Luis Garcia Rodriguez, Maite Ogueta, Ralf Stanewsky
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 98-104
-
-Abstract: Circadian clocks provide adaptive advantages, enabling organisms to adjust their physiology and behavior to daily environmental changes on Earth. Here, we show that fruit flies prefer a temporally organized life. Because of light-induced degradation of the core circadian clock protein Timeless, constant illumination stops the circadian clock and leads to arrhythmic locomotor activity. When given the choice to move between dark and illuminated areas in a constant light environment, flies were able to maintain, or even regain, rhythmic behavioral patterns. These self-inflicted rhythms were accompanied by molecular rhythms in clock neurons known to drive behavioral rhythms. Behavioral rhythmicity was correlated with improved sleep quality compared with that of arrhythmic flies, demonstrating an immediate benefit of choosing to live under circadian clock control.</description>
     </item>
     <item>
       <title>Lab creates new kind of synthetic cell</title>
@@ -606,22 +606,6 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 43-44
 Abstract: Many fundamental innovation policies were developed during World War II that persist in some form to this day</description>
     </item>
     <item>
-      <title>Stop the biodiversity sampling arms race</title>
-      <link>https://doi.org/10.1126/science.aei5413</link>
-      <guid isPermaLink="false">10.1126/science.aei5413</guid>
-
-      <dc:creator>Yun-He Wu</dc:creator>
-      <dc:creator>Dongru Zhang</dc:creator>
-      <dc:creator>Wenjing Shen</dc:creator>
-      <dc:creator>Tianyi Zhang</dc:creator>
-      <dc:creator>Felista Kasyoka Kilunda</dc:creator>
-      <dc:creator>Wei Xu</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yun-He Wu, Dongru Zhang, Wenjing Shen, Tianyi Zhang, Felista Kasyoka Kilunda, Wei Xu
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 46-46</description>
-    </item>
-    <item>
       <title>A dietary switch promotes sensory neuron–dependent cancer-associated cachexia</title>
       <link>https://doi.org/10.1126/science.adz4196</link>
       <guid isPermaLink="false">10.1126/science.adz4196</guid>
@@ -640,6 +624,22 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 46-46</description>
 Journal: Science; Volume: 393; Issue: 6806; Pages: 90-97
 
 Abstract: Sickness behaviors are common in cancer-associated cachexia and affect up to half of lung cancer patients. We demonstrate that among the most common cancer mutations, loss of liver kinase B1 ( Lkb1 ) promotes the development of cachexia in preclinical models of lung cancer. In an effort to improve caloric intake with an obesogenic high-fat diet, we paradoxically observed worsened cachexia-associated sickness. We found that local production of prostaglandin E2 (PGE 2 ), rather than circulating factors, promotes sickness and that genetic, dietary, and pharmacological inhibition of tumor-derived PGE 2 suppresses sickness and cachexia. Notably, we demonstrate that lung sensory neuron abrogation prevents PGE 2 -dependent cachexia. Our study establishes localized tumor-derived signals to sensory neurons, rather than circulating factors, as drivers of cachexia and highlights a previously unknown role of the peripheral nervous system in cancer cachexia.</description>
+    </item>
+    <item>
+      <title>Stop the biodiversity sampling arms race</title>
+      <link>https://doi.org/10.1126/science.aei5413</link>
+      <guid isPermaLink="false">10.1126/science.aei5413</guid>
+
+      <dc:creator>Yun-He Wu</dc:creator>
+      <dc:creator>Dongru Zhang</dc:creator>
+      <dc:creator>Wenjing Shen</dc:creator>
+      <dc:creator>Tianyi Zhang</dc:creator>
+      <dc:creator>Felista Kasyoka Kilunda</dc:creator>
+      <dc:creator>Wei Xu</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yun-He Wu, Dongru Zhang, Wenjing Shen, Tianyi Zhang, Felista Kasyoka Kilunda, Wei Xu
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 46-46</description>
     </item>
     <item>
       <title>Why have a revered physicist’s papers been retracted?</title>
@@ -1052,26 +1052,6 @@ Journal: Science; Volume: 392; Issue: 6805; Pages: 1340-1342
 Abstract: The 70th anniversary of the first AI workshop invites reflection on the technology’s wider legacies</description>
     </item>
     <item>
-      <title>Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders</title>
-      <link>https://doi.org/10.1126/science.adw3949</link>
-      <guid isPermaLink="false">10.1126/science.adw3949</guid>
-
-      <dc:creator>Lifan Liang</dc:creator>
-      <dc:creator>Siwei Zhang</dc:creator>
-      <dc:creator>Zicheng Wang</dc:creator>
-      <dc:creator>Hanwen Zhang</dc:creator>
-      <dc:creator>Chuxuan Li</dc:creator>
-      <dc:creator>Christina Thapa</dc:creator>
-      <dc:creator>Emily K. Oh</dc:creator>
-      <dc:creator>David Sirkin</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, et al.
-
-Journal: Science; Volume: 392; Issue: 6805; Article number: eadw3949
-
-Abstract: Most causal variants for neuropsychiatric disorders (NPD) remain unknown. A major hurdle is that disease variants may act in specific contexts, such as during neuronal activation, which is difficult to study in vivo at the population level. We profiled single-nucleus neuron-activation multiomics in human induced pluripotent stem cell–derived neurons from 100 donors, revealing the NPD-relevant transcriptomic and epigenomic landscape of neuronal activation. We identified abundant genetic variants associated with activity-dependent gene expression and chromatin accessibility, the latter explaining larger proportions of NPD heritability. Integrating multiomics data with genome-wide association studies further revealed NPD risk variants and genes with effects detected only upon stimulation, such as activity-dependent cholesterol metabolism. Our work highlights the power of cell stimulation to reveal context-specific “hidden” genetic effects.</description>
-    </item>
-    <item>
       <title>Industrial-scale nanocrystalline Ni–Mo–MgO catalysts for hybrid reforming of waste to fuels</title>
       <link>https://doi.org/10.1126/science.adp5208</link>
       <guid isPermaLink="false">10.1126/science.adp5208</guid>
@@ -1104,6 +1084,26 @@ Abstract: Strategies for lowering carbon emissions from hydrocarbons and waste m
 Journal: Science; Volume: 392; Issue: 6805; Pages: 1344-1345
 
 Abstract: The physiological state of neurons controls the expression of gene variants linked with psychiatric disease</description>
+    </item>
+    <item>
+      <title>Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders</title>
+      <link>https://doi.org/10.1126/science.adw3949</link>
+      <guid isPermaLink="false">10.1126/science.adw3949</guid>
+
+      <dc:creator>Lifan Liang</dc:creator>
+      <dc:creator>Siwei Zhang</dc:creator>
+      <dc:creator>Zicheng Wang</dc:creator>
+      <dc:creator>Hanwen Zhang</dc:creator>
+      <dc:creator>Chuxuan Li</dc:creator>
+      <dc:creator>Christina Thapa</dc:creator>
+      <dc:creator>Emily K. Oh</dc:creator>
+      <dc:creator>David Sirkin</dc:creator>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Lifan Liang, Siwei Zhang, Zicheng Wang, Hanwen Zhang, Chuxuan Li, Christina Thapa, Emily K. Oh, David Sirkin, et al.
+
+Journal: Science; Volume: 392; Issue: 6805; Article number: eadw3949
+
+Abstract: Most causal variants for neuropsychiatric disorders (NPD) remain unknown. A major hurdle is that disease variants may act in specific contexts, such as during neuronal activation, which is difficult to study in vivo at the population level. We profiled single-nucleus neuron-activation multiomics in human induced pluripotent stem cell–derived neurons from 100 donors, revealing the NPD-relevant transcriptomic and epigenomic landscape of neuronal activation. We identified abundant genetic variants associated with activity-dependent gene expression and chromatin accessibility, the latter explaining larger proportions of NPD heritability. Integrating multiomics data with genome-wide association studies further revealed NPD risk variants and genes with effects detected only upon stimulation, such as activity-dependent cholesterol metabolism. Our work highlights the power of cell stimulation to reveal context-specific “hidden” genetic effects.</description>
     </item>
     <item>
       <title>Coordinated demise of harmful algal blooms</title>

@@ -5,8 +5,61 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 10:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:46:18 +0000</lastBuildDate>
 
+    <item>
+      <title>A decision-theoretic framework for uncertainty quantification in epidemiological modelling</title>
+      <link>https://doi.org/10.1093/aje/kwag154</link>
+      <guid isPermaLink="false">10.1093/aje/kwag154</guid>
+
+      <dc:creator>Nicholas Steyn</dc:creator>
+      <dc:creator>Cathal Mills</dc:creator>
+      <dc:creator>Vik Shirvaikar</dc:creator>
+      <dc:creator>Freddie Bickford Smith</dc:creator>
+      <dc:creator>Christl A Donnelly</dc:creator>
+      <dc:creator>Kris V Parag</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Nicholas Steyn, Cathal Mills, Vik Shirvaikar, Freddie Bickford Smith, Christl A Donnelly, Kris V Parag
+
+Journal: American Journal of Epidemiology; Article number: kwag154
+
+Abstract: Abstract Estimating, understanding, and communicating uncertainty is fundamental to statistical epidemiology, where model-based estimates regularly inform real-world decisions. However, sources of uncertainty are rarely formalised, and existing classifications are often inconsistent. This lack of structure hampers interpretation, model comparison, and targeted data collection. Connecting ideas from machine learning, information theory, experimental design, and health economics, we present a first-principles decision-theoretic framework that defines uncertainty as the expected loss incurred by making an estimate using incomplete information, arguing that this is a practically relevant definition for epidemiology. We show how reasoning about future data leads to a notion of expected uncertainty reduction, which induces formal definitions of reducible and irreducible uncertainty. We illustrate our approach with a simple worked example and a case study of SARS-CoV-2 wastewater surveillance in Aotearoa New Zealand, estimating the uncertainty reduction if wastewater surveillance were expanded to the full population. We then connect our framework to relevant literature from adjacent fields, showing how it unifies and extends many of these ideas. Our article serves as a gateway for applying a wide range of approaches to epidemiological models. Altogether, our framework provides a foundation for more reliable, consistent, and policy-relevant uncertainty quantification in infectious disease epidemiology.</description>
+    </item>
+    <item>
+      <title>U.S. cardiovascular mortality before and during COVID-19: CDC WONDER vs GBD comparison</title>
+      <link>https://doi.org/10.1093/aje/kwag153</link>
+      <guid isPermaLink="false">10.1093/aje/kwag153</guid>
+
+      <dc:creator>Mirza Mohammad Ali Baig</dc:creator>
+      <dc:creator>Muhammad Umar</dc:creator>
+      <dc:creator>Carol Wright Becker</dc:creator>
+      <dc:creator>Salim S Virani</dc:creator>
+      <dc:creator>Dmitry Abramov</dc:creator>
+      <dc:creator>Xiaoming Jia</dc:creator>
+      <dc:creator>Abdul Mannan Khan Minhas</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mirza Mohammad Ali Baig, Muhammad Umar, Carol Wright Becker, Salim S Virani, Dmitry Abramov, Xiaoming Jia, Abdul Mannan Khan Minhas
+
+Journal: American Journal of Epidemiology; Article number: kwag153</description>
+    </item>
+    <item>
+      <title>Design and procedures for the greenness, cognitive performance and vascular outcomes in the northern Manhattan study (NOMAS-greenness)</title>
+      <link>https://doi.org/10.1093/aje/kwag155</link>
+      <guid isPermaLink="false">10.1093/aje/kwag155</guid>
+
+      <dc:creator>Scott Charles Brown</dc:creator>
+      <dc:creator>Julius Roderik Dewald</dc:creator>
+      <dc:creator>Andrew G Rundle</dc:creator>
+      <dc:creator>Sarah Tom</dc:creator>
+      <dc:creator>Tatjana Rundek</dc:creator>
+      <dc:creator>Ruixuan Ma</dc:creator>
+      <dc:creator>Yalda Zarnegarnia</dc:creator>
+      <dc:creator>Adam A Szpiro</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Scott Charles Brown, Julius Roderik Dewald, Andrew G Rundle, Sarah Tom, Tatjana Rundek, Ruixuan Ma, Yalda Zarnegarnia, Adam A Szpiro, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag155</description>
+    </item>
     <item>
       <title>Correction to: Home dampness and molds and occurrence of respiratory tract infections in the first 27 years of life: the Espoo Cohort Study</title>
       <link>https://doi.org/10.1093/aje/kwag148</link>
@@ -1674,62 +1727,6 @@ Abstract: Abstract Nutritional epidemiology has long relied on standard nutritio
 Journal: American Journal of Epidemiology; Article number: kwag044
 
 Abstract: Abstract Loneliness is associated with faster memory decline in mid- and late life, but it remains unclear whether interventions to ameliorate loneliness protect memory function. We examined the impact of sustained and one-time loneliness interventions on memory function among US middle-aged and older adults. Using the nationally representative Health and Retirement Study in 2006-2018, we estimated counterfactual average memory scores over 12 years of follow-up under the following scenarios: (A) a hypothetical intervention eliminating loneliness only at baseline (baseline intervention), (B) a hypothetical intervention eliminating loneliness for 10 years (sustained intervention), and (C) the natural course (no intervention). We used targeted maximum likelihood estimation to account for time-varying confounding. The analytic sample included 10 136 participants (median baseline age 64 years, representing 50 million community-dwelling adults). Over 12 years, estimated mean memory scores declined by 0.58 standardized units (95% CI, 0.56, 0.60) under the natural course; the difference in decline (vs natural course) was 0.00 standardized units (95% CI, −0.01, 0.01) under the baseline intervention and 0.02 standardized units (95% CI, −0.02, 0.05) under the sustained intervention. Compared to the natural course, we did not find evidence that either the baseline or sustained intervention was associated with better memory function over follow-up.</description>
-    </item>
-    <item>
-      <title>How to identify the healthy worker survivor effect empirically and how to interpret results from published studies: the National Institute for Occupational Safety and Health ethylene oxide cohort as a case study</title>
-      <link>https://doi.org/10.1093/aje/kwag052</link>
-      <guid isPermaLink="false">10.1093/aje/kwag052</guid>
-
-      <dc:creator>Sally Picciotto</dc:creator>
-      <dc:creator>Kaitlin Kelly-Reif</dc:creator>
-      <dc:creator>Ellen A Eisen</dc:creator>
-      <dc:creator>Leslie T Stayner</dc:creator>
-      <dc:creator>Sadie Costello</dc:creator>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sally Picciotto, Kaitlin Kelly-Reif, Ellen A Eisen, Leslie T Stayner, Sadie Costello
-
-Journal: American Journal of Epidemiology; Article number: kwag052
-
-Abstract: Abstract Modern causal methods are underutilized in occupational epidemiology, despite the development of robust methods to adequately control time-dependent confounding affected by prior exposure, the root of the healthy worker survivor effect. We demonstrate how to detect the healthy worker survivor effect empirically and explain how to interpret analyses that have not adjusted for it. For lymphohematopoietic cancer mortality and female breast cancer mortality, we performed pathway analyses assessing whether employment is a time-varying confounder affected by prior workplace exposure to ethylene oxide. These analyses ascertained whether the relevant causal relationships depicted in a directed acyclic graph were present. For both outcomes, workers employed longer were at lower risk. Workers exposed to higher levels of ethylene oxide were also more likely to leave work. Thus, employment is a time-varying confounder affected by prior exposure. The directions of these associations imply that healthy worker survivor effect is operating. Previously published estimates of health effects of workplace exposures to ethylene oxide on both lymphohematopoietic cancer mortality and female breast cancer mortality are underestimates of the true impacts. Applying these methods to other occupational cohorts can aid interpretations of analyses that have not adjusted for the healthy worker survivor effect.</description>
-    </item>
-    <item>
-      <title>Beyond Black and White: relationships between segregation, environmental burden, and birth outcomes among Black and Latino populations</title>
-      <link>https://doi.org/10.1093/aje/kwag051</link>
-      <guid isPermaLink="false">10.1093/aje/kwag051</guid>
-
-      <dc:creator>Melissa R Fiffer</dc:creator>
-      <dc:creator>Aaron Lilienfeld</dc:creator>
-      <dc:creator>Dominique Zephyr</dc:creator>
-      <dc:creator>Joshua L Tootoo</dc:creator>
-      <dc:creator>Abdul-Nasah Soale</dc:creator>
-      <dc:creator>Mercedes A Bravo</dc:creator>
-      <dc:creator>Marie Lynn Miranda</dc:creator>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Melissa R Fiffer, Aaron Lilienfeld, Dominique Zephyr, Joshua L Tootoo, Abdul-Nasah Soale, Mercedes A Bravo, Marie Lynn Miranda
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1526-1536
-
-Abstract: Abstract Segregation measures over time likely mask the movement of Latinos into predominantly non-Hispanic Black (NHB) areas. Due to systematic disinvestment, the co-location of NHB and Latinos may correlate with environmental and social stressors. We construct a combined racial isolation (RI) measure for Blacks and Latinos for the 72 246 contiguous US census tracts. We compare trends (1990-2015) in RI of NHB individuals and RI of NHB and Hispanic individuals (RI-NHB + H). We estimate correlations between RI-NHB + H and Centers for Disease Control and Prevention Environmental Justice Index (EJI) components. We assess associations between EJI, RI-NHB + H, and birthweight percentiles using North Carolina detailed birth records (n = 504 363; 2015-2019). Between 1990 and 2015, RI-NHB + H and RI-NHB increased in most (88.7%) and the majority (69.1%) of US census tracts, respectively. The largest local, spatial correlations between RI-NHB + H and EJI occurred in the southeast, southwest, and parts of the west coast, where both are high. For NHB and non-Hispanic White mothers, the association between EJI and birthweight percentiles was increasingly negative at higher levels of RI-NHB + H. Among Hispanic mothers, the association was negative at mid RI levels, but not at high RI levels. Our results underscore the changing nature of segregation in the US and illuminate cumulative impacts experienced by NHB and Latino populations on reproductive health. This article is part of a Special Collection on Latino Health.</description>
-    </item>
-    <item>
-      <title>Examining the interaction between area-level immunity coverage and individual-level immunity to help quantify indirect herd benefits: a population-based retrospective cohort study of COVID-19 diagnoses and deaths</title>
-      <link>https://doi.org/10.1093/aje/kwag047</link>
-      <guid isPermaLink="false">10.1093/aje/kwag047</guid>
-
-      <dc:creator>Linwei Wang</dc:creator>
-      <dc:creator>Sarah Swayze</dc:creator>
-      <dc:creator>Arjumand Siddiqi</dc:creator>
-      <dc:creator>Stefan D Baral</dc:creator>
-      <dc:creator>Beate Sander</dc:creator>
-      <dc:creator>Hind Sbihi</dc:creator>
-      <dc:creator>Jeffrey C Kwong</dc:creator>
-      <dc:creator>Sharmistha Mishra</dc:creator>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Linwei Wang, Sarah Swayze, Arjumand Siddiqi, Stefan D Baral, Beate Sander, Hind Sbihi, Jeffrey C Kwong, Sharmistha Mishra
-
-Journal: American Journal of Epidemiology; Article number: kwag047
-
-Abstract: Abstract Empirical evidence on the indirect herd benefits of COVID-19 vaccination and/or prior infection is limited. We examined how area-level immunity interacts with individual-level immunity to affect COVID-19 diagnoses and deaths. Ontario residents aged ≥18 years were followed from August 1, 2021, to January 30, 2022. Individual-level immunity was defined as receipt of a primary series of COVID-19 vaccines or a positive SARS-CoV-2 test in the past 165 days. Area-level immunity was based on the proportion of immune individuals in an individual's residing area. Logistic regression and cause-specific hazard models were used to examine the relationship between immunity and COVID-19 diagnosis, and between immunity and COVID-19 death, with an interaction term between individual-level and area-level immunity. Of 11 122 816 adults, 7 518 015 (67.6%) were classified as having individual-level immunity at baseline. After accounting for potential confounders, area-level immunity (highest vs. lowest quintiles) was associated with lower odds of COVID-19 diagnosis. Higher area-level immunity (highest vs. lowest quintiles) was also associated with lower hazard of COVID-19 death among non-immune individuals (hazard ratio, 0.77 [0.60, 1.00]). Findings provide evidence supporting the herd benefits of vaccination or prior infection on COVID-19 diagnosis and deaths, and provide insights for interpreting vaccine effectiveness estimates in the context of herd immunity.</description>
     </item>
   </channel>
 </rss>
