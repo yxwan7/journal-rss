@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 08:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:02:40 +0000</lastBuildDate>
 
     <item>
       <title>A decision-theoretic framework for uncertainty quantification in epidemiological modelling</title>
@@ -69,6 +69,21 @@ Journal: American Journal of Epidemiology; Article number: kwag155</description>
       <description>Journal: American Journal of Epidemiology; Article number: kwag148</description>
     </item>
     <item>
+      <title>A SIMPLE AND POWERFUL TEST OF VACCINE WANING</title>
+      <link>https://doi.org/10.1093/aje/kwag118</link>
+      <guid isPermaLink="false">10.1093/aje/kwag118</guid>
+
+      <dc:creator>Gellért Perényi</dc:creator>
+      <dc:creator>Matias Janvin</dc:creator>
+      <dc:creator>Mats J Stensrud</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gellért Perényi, Matias Janvin, Mats J Stensrud
+
+Journal: American Journal of Epidemiology; Article number: kwag118
+
+Abstract: Abstract Determining whether vaccine efficacy wanes is important for individual and public decision making. Yet, quantification of waning is a subtle task. The classical approaches cannot be interpreted as measures of declining efficacy unless we impose unreasonable assumptions. Recently, formal causal estimands designed to quantify vaccine waning have been proposed. These estimands can be bounded under weaker assumptions, but the bounds are often too wide to make claims about the presence of waning. We propose a different approach: a formal test to assess whether a treatment effect is constant over time at the individual level. This test provides a considerable power gain over existing approaches and is valid under interpretable assumptions in vaccine trials. We illustrate the increase in power through real and simulated examples, using three different approaches to compute the test statistics. Two of these approaches are based solely on summary data, accessible from existing clinical trials. Beyond our test, we also give new results that bound the waning effect. We use our methods to reanalyze data from a randomized controlled trial of the BNT162b2 COVID-19 vaccine. While prior analysis did not establish waning, our test rejects the null hypothesis of no waning.</description>
+    </item>
+    <item>
       <title>Association Between maternal body mass index, offspring growth and pubertal timing: results from a longitudinal birth cohort study</title>
       <link>https://doi.org/10.1093/aje/kwag128</link>
       <guid isPermaLink="false">10.1093/aje/kwag128</guid>
@@ -85,21 +100,6 @@ Journal: American Journal of Epidemiology; Article number: kwag155</description>
 Journal: American Journal of Epidemiology; Article number: kwag128
 
 Abstract: Abstract Earlier pubertal timing has risen alongside increasing childhood obesity, yet evidence linking early-life body mass index (BMI) to earlier pubertal timing, particularly for boys, remains inconsistent. Prior work often relied on single time-point BMI measurements that overlooked growth dynamics and the potential independent effect of maternal pre-pregnancy BMI. Using data from 2982 participants in the Amsterdam Born Children and their Development cohort, we linked pubertal timing ages 11–12 to maternal BMI and children’s dynamic BMI growth curves from birth to age 8. Joint Bayesian models of linear mixed-effects and ordinal logistic regressions, stratified by sex and adjusted for confounders, found that greater BMI deviations from population curves, during infancy and prepuberty, were associated with earlier pubertal timing in girls (infancy POR: 1.11, 95% CI: 1.02–1.20; prepuberty POR: 1.23, 95% CI: 1.12–1.38) and boys (infancy POR: 1.12, 95% CI: 1.03–1.22; prepuberty POR: 1.23, 95% CI: 1.08–1.42), with preschool additionally important for girls (POR: 1.55, 95% CI: 1.22–1.99). Independent of child BMI growth deviations, higher maternal pre-pregnancy BMI was associated with earlier pubertal timing in girls (POR: 1.07, 95% CI: 1.05–1.11) and boys (POR: 1.08, 95% CI: 1.05–1.11). To conclude, findings highlight intergenerational associations and the value of early growth.</description>
-    </item>
-    <item>
-      <title>A SIMPLE AND POWERFUL TEST OF VACCINE WANING</title>
-      <link>https://doi.org/10.1093/aje/kwag118</link>
-      <guid isPermaLink="false">10.1093/aje/kwag118</guid>
-
-      <dc:creator>Gellért Perényi</dc:creator>
-      <dc:creator>Matias Janvin</dc:creator>
-      <dc:creator>Mats J Stensrud</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gellért Perényi, Matias Janvin, Mats J Stensrud
-
-Journal: American Journal of Epidemiology; Article number: kwag118
-
-Abstract: Abstract Determining whether vaccine efficacy wanes is important for individual and public decision making. Yet, quantification of waning is a subtle task. The classical approaches cannot be interpreted as measures of declining efficacy unless we impose unreasonable assumptions. Recently, formal causal estimands designed to quantify vaccine waning have been proposed. These estimands can be bounded under weaker assumptions, but the bounds are often too wide to make claims about the presence of waning. We propose a different approach: a formal test to assess whether a treatment effect is constant over time at the individual level. This test provides a considerable power gain over existing approaches and is valid under interpretable assumptions in vaccine trials. We illustrate the increase in power through real and simulated examples, using three different approaches to compute the test statistics. Two of these approaches are based solely on summary data, accessible from existing clinical trials. Beyond our test, we also give new results that bound the waning effect. We use our methods to reanalyze data from a randomized controlled trial of the BNT162b2 COVID-19 vaccine. While prior analysis did not establish waning, our test rejects the null hypothesis of no waning.</description>
     </item>
     <item>
       <title>Correction to: Developing a novel algorithm to identify incident and prevalent dementia in Medicare claims—the ARIC Study</title>
@@ -1010,7 +1010,7 @@ Abstract: Abstract US life expectancy declined after 2014 amid rising drug-poiso
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Jay S Kaufman
 
-Journal: American Journal of Epidemiology; Article number: kwag096</description>
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 2109-2110</description>
     </item>
     <item>
       <title>List randomization for prevalence estimation of sensitive behavioral data among women with HIV of reproductive age in Lilongwe, Malawi</title>
@@ -1061,7 +1061,7 @@ Abstract: Abstract Thailand uses a test-negative design to calculate influenza v
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <description>Authors: Kristin Shrader-Frechette
 
-Journal: American Journal of Epidemiology; Article number: kwag095</description>
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 2107-2108</description>
     </item>
     <item>
       <title>Response to “Smoking hot joint models for attrition bias—XMAR-ks the spot”</title>
@@ -1168,7 +1168,7 @@ Abstract: Abstract Heterogeneous treatment effect models identify Medicaid benef
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
       <description>Authors: Lauren Mock, Daniel Mork, Michelle Audirac, Danielle Braun, Antonella Zanobetti, Scott W Delaney
 
-Journal: American Journal of Epidemiology; Article number: kwag087
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 1839-1849
 
 Abstract: Abstract Understanding regional and racial variation in the risk of hospitalization with Alzheimer's disease and related dementias (ADRD)—and how it differs from other conditions—is required to inform effective practice and policy. However, no prior studies have simultaneously estimated county-level regional and race-specific variation in hospitalization risk. We assessed hospitalizations with and without ADRD diagnoses among Black and White Medicare Fee-for-Service beneficiaries from 2000 to 2018 and used Bayesian shared component models to estimate geographic variation in hospitalizations jointly for both racial groups. We decomposed hospitalization risk across 3037 counties into (1) risk shared by all beneficiaries and (2) risk specific to either Black or White beneficiaries. We analyzed 143 891 769 hospitalizations (13.2% with ADRD). For hospitalization with ADRD, shared risk was elevated in southern and eastern states; Black-specific risk was elevated in the Midwest, Florida, and California; and White-specific risk was elevated in Appalachia. Black relative risk was significantly higher than White relative risk in 90.2% (2740/3037) of counties for hospitalization with ADRD and 44.7% (1359/3037) of counties for hospitalization without ADRD. These findings underscore the importance of considering regional differences in race-specific risk when assessing hospitalization disparities.</description>
     </item>
@@ -1274,7 +1274,7 @@ Abstract: Abstract The prognosis of prostate cancer is highly dependent on disea
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
       <description>Authors: Koichiro Shiba
 
-Journal: American Journal of Epidemiology; Article number: kwag079
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 1834-1838
 
 Abstract: Abstract Causal inference in population health research evaluates the effects of hypothetical interventions and requires a clearly defined estimand, yet most studies leave its key components implicit. Ikesu et al. (Am J Epidemiol. 2026:kwag044) used the target trial emulation framework to make the causal estimand explicit and estimate effects of hypothetical loneliness interventions on memory function. Using their study as a motivating example, this commentary examines 4 components of a causal estimand: (1) the definition of the “treatment,” (2) the choice of comparator, (3) the intervention strategy, and (4) the summary measure for population health impact. I discuss how complex social exposures like loneliness raise challenges for the consistency assumption through multiple versions of treatment; how using the natural course as a comparator, rather than a fixed counterfactual level, better reflects population-level impact; how sustained and stochastic interventions expand the space of scientific questions beyond deterministic elimination of exposure; and how estimands can move beyond population averages to address whether interventions narrow or widen health disparities. By carefully specifying each component of the estimand, investigators can move observational research toward more consequentialist evidence that directly informs what interventions would improve population health and mitigate health disparities.</description>
     </item>
@@ -1307,7 +1307,7 @@ Abstract: Abstract Identifying people with prior HIV care experience in clinical
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
       <description>Authors: Alexander P Keil
 
-Journal: American Journal of Epidemiology; Article number: kwag081
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 2102-2104
 
 Abstract: Abstract Methods for studying the health effects of exposure mixtures like air pollutants, water contaminants, and consumer product mixtures have been the subject of high levels of research effort and resources in recent years. Demateis et al. (Am J Epidemiol. 2026;195(4):1154–1162) demonstrate a novel set of extensions to one of these approaches, Bayesian kernel machine regression (BKMR) to study effect measure modification (EMM). In this commentary, I discuss the necessity of flexible regression methods like BKMR in the context of modern causal inference and express optimism that the continued growth of methods like BKMR can improve the link between epidemiologic data and public health actions. I expand on traditional motivations for studying EMM and comment on how they might be sometimes ill-suited for exposure mixtures. I close by remarking on how health impacts of unequal distributions of harmful exposures are masked by standard EMM-based approaches and describe how such methods, including those of Demateis et al., can be leveraged to incorporate such ideas into analysis to improve connections with public health.</description>
     </item>
@@ -1433,7 +1433,7 @@ Abstract: Abstract Emerging evidence links high ambient temperature to an increa
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <description>Authors: Jessie K Edwards, Paul N Zivich, Bonnie E Shook-Sa, Stephen R Cole
 
-Journal: American Journal of Epidemiology; Article number: kwag057</description>
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 2091-2093</description>
     </item>
     <item>
       <title>Commentary on “
@@ -1511,7 +1511,7 @@ Abstract: Abstract Identifying transmission events is important in understanding
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <description>Authors: Jennifer S Lee, Elizabeth Humes, Nel Jason L Haw, Brenna Hogan, Chunyan Zheng, Sally Coburn, Catherine R Lesko, Raynell Lang, et al.
 
-Journal: American Journal of Epidemiology; Article number: kwag056
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 2055-2063
 
 Abstract: Abstract Plasma HIV-1 RNA viral loads (VLs) are measured via laboratory assays with changing lower limits of quantification over time. We described an approach to produce an analytic-ready dataset of VLs over time and across longitudinal cohorts of adults. A 3-step approach was used: (1) initial data cleaning, (2) data checking with visualization, and (3) final data cleaning. Assumptions, data-driven decisions, and information from cohort-specific data managers produce an analytic-ready dataset of VLs with minimal missing data for date of blood draw, HIV-1 RNA result (copies/mL), below the lower limit of quantification (BLLQ) indicator, and the lower limit of quantification (LLQ). Among 3 663 786 VLs from 186 990 participants (median number of VLs per participant = 12, interquartile range 4-27) measured from 1988 to 2021, 61% of VL records were harmonized via the 3-step approach. The proportion of VLs below the lower limit of quantification increased from 39% to 60% after application of this approach. Changes to LLQ, VL result, and BLLQ indicator variables were made to 45%, 36%, and 22% of VLs, respectively. Stated assumptions, visualized data distributions, and a documented approach to preparing an analytic-ready dataset of pooled individual-level longitudinal data revealed data idiosyncrasies, informed assumptions, and improved the data for research inference.</description>
     </item>
@@ -1631,7 +1631,7 @@ Abstract: Abstract Spatial patterning of environmental hazards often leads to co
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <description>Authors: Katrina L Kezios, Jordan Vo, Zihan Chen, Sarah Weber, Allison E Aiello, Adina Zeki Al Hazzouri
 
-Journal: American Journal of Epidemiology; Article number: kwag054
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 1850-1858
 
 Abstract: Abstract Many older adults experience financial insecurity. While prior studies link lower later-life socio economic status, financial stress, and financial shocks to worse cognitive outcomes, limited research has examined how dynamic changes in financial well-being—a multidimensional measure of financial circumstances—influence cognitive aging. Here, we examined associations between changes in financial well-being and memory outcomes among 7676 adults aged 50+ in the Health and Retirement Study (“HRS,” 2010-2020). We developed and validated an 8-item index of poor financial well-being using existing HRS survey items aligned with domains from the Consumer Financial Protection Bureau’s Financial Well-Being Scale. In confounder-adjusted linear mixed-effects models, we estimated the associations of average financial well-being and significant improvements or worsening in financial well-being over 4 years, with changes in memory z scores calculated biennially from 2016 to 2020. Each 1-point worsening in average financial well-being was associated with poorer memory function (β = -0.009 SD, 95% CI, -0.020 to 0.003) and accelerated decline (β = -0.007 SD/year, 95% CI, -0.010 to -0.003). Associations were largest for participants with significant worsening of financial well-being and for those aged ≥65 at baseline. Results were robust to sensitivity analyses addressing potential reverse causation and attrition. These findings suggest that midlife and later-life declines in financial well-being may contribute to accelerated cognitive aging.</description>
     </item>
@@ -1724,7 +1724,7 @@ Abstract: Abstract Nutritional epidemiology has long relied on standard nutritio
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <description>Authors: Ryo Ikesu, Yingyan Wu, L Paloma Rojas-Saunero, Roch A Nianogo, Jacqueline M Torres, Ashwin Kotwal, Christina M Ramirez, Yusuke Tsugawa, et al.
 
-Journal: American Journal of Epidemiology; Article number: kwag044
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 1823-1833
 
 Abstract: Abstract Loneliness is associated with faster memory decline in mid- and late life, but it remains unclear whether interventions to ameliorate loneliness protect memory function. We examined the impact of sustained and one-time loneliness interventions on memory function among US middle-aged and older adults. Using the nationally representative Health and Retirement Study in 2006-2018, we estimated counterfactual average memory scores over 12 years of follow-up under the following scenarios: (A) a hypothetical intervention eliminating loneliness only at baseline (baseline intervention), (B) a hypothetical intervention eliminating loneliness for 10 years (sustained intervention), and (C) the natural course (no intervention). We used targeted maximum likelihood estimation to account for time-varying confounding. The analytic sample included 10 136 participants (median baseline age 64 years, representing 50 million community-dwelling adults). Over 12 years, estimated mean memory scores declined by 0.58 standardized units (95% CI, 0.56, 0.60) under the natural course; the difference in decline (vs natural course) was 0.00 standardized units (95% CI, −0.01, 0.01) under the baseline intervention and 0.02 standardized units (95% CI, −0.02, 0.05) under the sustained intervention. Compared to the natural course, we did not find evidence that either the baseline or sustained intervention was associated with better memory function over follow-up.</description>
     </item>
