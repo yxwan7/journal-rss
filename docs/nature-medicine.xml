@@ -5,8 +5,46 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:53:47 +0000</lastBuildDate>
 
+    <item>
+      <title>Health system learning enables generalist neuroimaging models</title>
+      <link>https://doi.org/10.1038/s41591-026-04497-1</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04497-1</guid>
+
+      <dc:creator>Akhil Kondepudi</dc:creator>
+      <dc:creator>Akshay Rao</dc:creator>
+      <dc:creator>Chenhui Zhao</dc:creator>
+      <dc:creator>Yiwei Lyu</dc:creator>
+      <dc:creator>Samir Harake</dc:creator>
+      <dc:creator>Soumyanil Banerjee</dc:creator>
+      <dc:creator>Jacob Ogle</dc:creator>
+      <dc:creator>Rushikesh Joshi</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Akhil Kondepudi, Akshay Rao, Chenhui Zhao, Yiwei Lyu, Samir Harake, Soumyanil Banerjee, Jacob Ogle, Rushikesh Joshi, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Frontier artificial intelligence (AI) models have advanced rapidly through training on internet-scale public data, yet such systems lack access to private clinical data. Neuroimaging is underrepresented in the public domain due to identifiable facial features within magnetic resonance imaging (MRI) and computed tomography (CT) scans, restricting model performance in clinical medicine. Here we show that frontier models underperform on neuroimaging tasks and that learning directly from uncurated data generated during routine clinical care at health systems, a paradigm we call ‘health system learning’, yields high-performance, generalist neuroimaging models. We introduce NeuroVFM, a visual foundation model trained on 5.24 million clinical MRI and CT volumes using a scalable volumetric predictive architecture. NeuroVFM learns comprehensive representations of brain anatomy and pathology, achieving state-of-the-art performance across multiple clinical tasks, including radiologic diagnosis and report generation. The model embeds MRI and CT scans into a shared neuroanatomic latent space and grounds diagnostic findings. When paired with open-source language models, NeuroVFM generates radiology reports that surpass frontier models in accuracy, clinical triage and expert preference. NeuroVFM reduces hallucinated findings and critical errors, offering safer clinical decision support. These results establish health system learning as a paradigm for building generalist medical AI and provide a scalable framework for clinical foundation models.</description>
+    </item>
+    <item>
+      <title>Anti-LAG-3 with or without anti-PD-1 in recurrent glioblastoma: a phase 1 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04475-7</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04475-7</guid>
+
+      <dc:creator>Michael Lim</dc:creator>
+      <dc:creator>Xiaobu Ye</dc:creator>
+      <dc:creator>Anna F. Piotrowski</dc:creator>
+      <dc:creator>Arati Desai</dc:creator>
+      <dc:creator>Manmeet S. Ahluwalia</dc:creator>
+      <dc:creator>Tobias Walbert</dc:creator>
+      <dc:creator>Glenn Lesser</dc:creator>
+      <dc:creator>Benjamin M. Ellingson</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michael Lim, Xiaobu Ye, Anna F. Piotrowski, Arati Desai, Manmeet S. Ahluwalia, Tobias Walbert, Glenn Lesser, Benjamin M. Ellingson, et al.
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>KRAS-G12D inhibitor HRS-4642 plus chemotherapy in advanced KRASG12D-mutant pancreatic cancer: a phase 1b/2 trial</title>
       <link>https://doi.org/10.1038/s41591-026-04538-9</link>
@@ -24,6 +62,26 @@
       <description>Authors: Jiujie Cui, Kuirong Jiang, Wei Li, Shuqin Ni, Hong Zong, Juan Du, Yifu He, Zhonghua Liu, et al.
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Human embryonic stem cell-derived dopaminergic cells for Parkinson’s disease: a phase 1/2 open-label trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04525-0</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04525-0</guid>
+
+      <dc:creator>G. Paul</dc:creator>
+      <dc:creator>H. Bjartmarz</dc:creator>
+      <dc:creator>A. Kirkeby</dc:creator>
+      <dc:creator>J. Nelander</dc:creator>
+      <dc:creator>R. Smith</dc:creator>
+      <dc:creator>S. Kayhanian</dc:creator>
+      <dc:creator>A. Evans</dc:creator>
+      <dc:creator>B. Harry</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: G. Paul, H. Bjartmarz, A. Kirkeby, J. Nelander, R. Smith, S. Kayhanian, A. Evans, B. Harry, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Parkinson’s disease (PD) is characterized by progressive loss of nigral dopaminergic neurons, resulting in disabling motor symptoms. Intracerebral transplantation of stem cell-derived dopaminergic progenitors to replace lost endogenous dopaminergic neurons offers a new potentially restorative therapeutic approach for PD. Here we report the 12-month primary safety end point and interim efficacy outcomes from a phase 1/2, open-label, multicenter trial evaluating STEM-PD, a cryopreserved, off-the-shelf dopaminergic progenitor product derived from human pluripotent stem cells. Eight individuals with moderate PD underwent bilateral intraputaminal transplantation at two escalating doses ( n = 4 per cohort), followed by 12 months of immunosuppression. Seven participants completed 12-month follow-up; one participant died from a pulmonary infection. No serious adverse events were attributed to the cell product, no graft-induced dyskinesias were observed and serial magnetic resonance imaging showed no evidence of tumor formation. These findings support the feasibility and favorable safety profile of human pluripotent stem cell-derived dopaminergic progenitor transplantation in this early-phase study, with risks primarily associated with the immunosuppression regimen. Ongoing follow-up to 36 months will further evaluate durability, clinical outcomes and graft function. ClinicalTrials.gov identifier: NCT05635409 .</description>
     </item>
     <item>
       <title>Biological aging clocks in health and disease</title>
@@ -1524,54 +1582,6 @@ Journal: Nature Medicine</description>
 
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1987-1988</description>
-    </item>
-    <item>
-      <title>What Utah’s clinical AI sandbox reveals about independent oversight</title>
-      <link>https://doi.org/10.1038/s41591-026-04418-2</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04418-2</guid>
-
-      <dc:creator>Rahul Gorijavolu</dc:creator>
-      <dc:creator>Nikhil Jaiswal</dc:creator>
-      <dc:creator>Aaron S. Kesselheim</dc:creator>
-      <dc:creator>Joseph V. Sakran</dc:creator>
-      <dc:creator>Tina Hernandez-Boussard</dc:creator>
-      <dc:creator>Leo Anthony Celi</dc:creator>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Rahul Gorijavolu, Nikhil Jaiswal, Aaron S. Kesselheim, Joseph V. Sakran, Tina Hernandez-Boussard, Leo Anthony Celi
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Enabling secure discovery in trusted research environments with improved tooling</title>
-      <link>https://doi.org/10.1038/s41591-026-04401-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04401-x</guid>
-
-      <dc:creator>Vincent J. Straub</dc:creator>
-      <dc:creator>Melinda C. Mills</dc:creator>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Vincent J. Straub, Melinda C. Mills
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Fibroblast growth factor receptor inhibition for succinate dehydrogenase-deficient gastrointestinal stromal tumors: a phase 2 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04376-9</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04376-9</guid>
-
-      <dc:creator>Priscilla Merriam</dc:creator>
-      <dc:creator>James J. Morrow</dc:creator>
-      <dc:creator>Emanuele Mazzola</dc:creator>
-      <dc:creator>Nicole L. Solimini</dc:creator>
-      <dc:creator>Prafulla C. Gokhale</dc:creator>
-      <dc:creator>Ping Chi</dc:creator>
-      <dc:creator>Alice P. Chen</dc:creator>
-      <dc:creator>Mark Agulnik</dc:creator>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Priscilla Merriam, James J. Morrow, Emanuele Mazzola, Nicole L. Solimini, Prafulla C. Gokhale, Ping Chi, Alice P. Chen, Mark Agulnik, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2191-2200
-
-Abstract: Abstract While most gastrointestinal stromal tumors are driven by oncogenic mutations in KIT or PDGFRA , 10–15% exhibit functional loss of the succinate dehydrogenase (SDH) complex and genome-wide DNA hypermethylation. Excess methylation in SDH-deficient gastrointestinal stromal tumors disrupts genomic insulators, inducing aberrant expression of oncogenic ligands FGF3 , FGF4 , and activating an autocrine signaling loop mediated through FGFR1. We conducted a phase 2 trial of pan-fibroblast growth factor receptor inhibitor rogaratinib in patients with sarcoma and report here on the cohort of patients with advanced SDH-deficient GIST. The primary objective was to estimate objective response rate. Secondary objectives were to estimate progression-free survival (PFS) and assess safety and tolerability. Exploratory objectives were to evaluate serial measurements of FGF3 and FGF4 and fibroblast growth factor receptors in serial biopsies, to perform whole-exome sequencing in serial biopsies and to explore rogaratinib exposure with pharmacodynamic effects. Twenty-four patients received rogaratinib and ten experienced partial responses for an objective response rate of 41.7%. Median PFS was 31.0 months (95% confidence interval 20.2–not reached), and 1-year PFS was 77.4% (95% confidence interval 61.7–97.1). Toxicities were manageable and included hyperphosphatemia, fatigue and diarrhea. Elevations in phosphorous were seen across the cohort, consistent with target engagement of FGFR1. Whole-exome and next-generation sequencing revealed alterations in the SDH subunit coding genes ( SDHx ) as expected. This trial illustrates a successful demonstration of targeted cancer therapy predicated on an epigenetic mechanism of oncogene activation. Clinicaltrials.gov identifier: NCT04595747 .</description>
     </item>
   </channel>
 </rss>

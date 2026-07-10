@@ -5,8 +5,23 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:53:18 +0000</lastBuildDate>
 
+    <item>
+      <title>Birth certificate measures of maternal morbidity and their limits in abortion policy research</title>
+      <link>https://doi.org/10.1093/aje/kwag159</link>
+      <guid isPermaLink="false">10.1093/aje/kwag159</guid>
+
+      <dc:creator>Suzanne O Bell</dc:creator>
+      <dc:creator>Selena Anjur-Dietrich</dc:creator>
+      <dc:creator>Alison Gemmill</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Suzanne O Bell, Selena Anjur-Dietrich, Alison Gemmill
+
+Journal: American Journal of Epidemiology; Article number: kwag159
+
+Abstract: Abstract Three indicators of severe maternal morbidity (SMM) available in US birth certificate data are increasingly used in research, yet prior studies suggest they are poorly ascertained. It is unclear whether low validity of these data threatens causal inference in evaluations of policies or shocks that vary across states and over time, including abortion bans enacted after the Supreme Court’s Dobbs decision. Using birth certificate and hospital discharge data from 12 states (2018-2021), we assessed data quality for three SMM indicators (hysterectomy, blood transfusion, and eclampsia) and a composite measure and compared state-year trends across six states that subsequently imposed abortion bans shortly after the Dobbs decision and six that did not, including tests of the parallel trends assumption. Compared with hospitalization data, birth certificates under-ascertained hysterectomy, blood transfusion, and the composite measure while over-ascertaining eclampsia. Composite SMM rates appeared higher in abortion-ban states using birth certificate data but were similar or lower in hospitalization data. Over time, birth certificate ascertainment improved in states with bans but remained flat elsewhere, potentially introducing data artifacts. Violations of the parallel trends assumption were detected in hospitalization but not birth certificate data. Reliance on birth certificate data for policy evaluation can produce erroneous inferences.</description>
+    </item>
     <item>
       <title>A decision-theoretic framework for uncertainty quantification in epidemiological modelling</title>
       <link>https://doi.org/10.1093/aje/kwag154</link>
@@ -1707,26 +1722,6 @@ Abstract: Abstract The ABO locus is associated with pancreatic ductal adenocarci
 Journal: American Journal of Epidemiology; Article number: kwag053
 
 Abstract: Abstract Nutritional epidemiology has long relied on standard nutritional models to examine associations between dietary exposures and health outcomes, often interpreting model coefficients with causal intent. In this paper, we use the target trial framework to clarify common causal questions in nutritional research and connect them to established tools from causal inference. Using chicken and fish as motivating examples, we define two key causal estimands relevant to dietary strategies: the total effect of chicken consumption and the comparative effect of fish versus chicken. We then use the g-formula to estimate average causal effects of the target trials and examine how common nutritional models relate to the conditional outcome model used in the g-formula estimation. We show that several standard models are re-parameterizations of the same conditional outcome model used in g-formula estimation. We also caution that using standard multivariate and residual models directly within g-formula implementations without appropriate adaptations may lead to inaccurate predictions of conditional mean counterfactual outcomes. By providing a unified framework that links traditional models to a causal framework, our findings offer guidance on models that yield valid estimates and align with actionable dietary interventions.</description>
-    </item>
-    <item>
-      <title>Estimating the effects of hypothetical loneliness interventions on memory function among middle-aged and older adults in the United States</title>
-      <link>https://doi.org/10.1093/aje/kwag044</link>
-      <guid isPermaLink="false">10.1093/aje/kwag044</guid>
-
-      <dc:creator>Ryo Ikesu</dc:creator>
-      <dc:creator>Yingyan Wu</dc:creator>
-      <dc:creator>L Paloma Rojas-Saunero</dc:creator>
-      <dc:creator>Roch A Nianogo</dc:creator>
-      <dc:creator>Jacqueline M Torres</dc:creator>
-      <dc:creator>Ashwin Kotwal</dc:creator>
-      <dc:creator>Christina M Ramirez</dc:creator>
-      <dc:creator>Yusuke Tsugawa</dc:creator>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ryo Ikesu, Yingyan Wu, L Paloma Rojas-Saunero, Roch A Nianogo, Jacqueline M Torres, Ashwin Kotwal, Christina M Ramirez, Yusuke Tsugawa, et al.
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 1823-1833
-
-Abstract: Abstract Loneliness is associated with faster memory decline in mid- and late life, but it remains unclear whether interventions to ameliorate loneliness protect memory function. We examined the impact of sustained and one-time loneliness interventions on memory function among US middle-aged and older adults. Using the nationally representative Health and Retirement Study in 2006-2018, we estimated counterfactual average memory scores over 12 years of follow-up under the following scenarios: (A) a hypothetical intervention eliminating loneliness only at baseline (baseline intervention), (B) a hypothetical intervention eliminating loneliness for 10 years (sustained intervention), and (C) the natural course (no intervention). We used targeted maximum likelihood estimation to account for time-varying confounding. The analytic sample included 10 136 participants (median baseline age 64 years, representing 50 million community-dwelling adults). Over 12 years, estimated mean memory scores declined by 0.58 standardized units (95% CI, 0.56, 0.60) under the natural course; the difference in decline (vs natural course) was 0.00 standardized units (95% CI, −0.01, 0.01) under the baseline intervention and 0.02 standardized units (95% CI, −0.02, 0.05) under the sustained intervention. Compared to the natural course, we did not find evidence that either the baseline or sustained intervention was associated with better memory function over follow-up.</description>
     </item>
   </channel>
 </rss>

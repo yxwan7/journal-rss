@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:53:16 +0000</lastBuildDate>
 
     <item>
       <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
@@ -46,6 +46,31 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Available evidence on the relationship between long-term exposure to particulate matter with an aerodynamic diameter of ≤2.5 μm (PM2.5) and tuberculosis has been limited and inconsistent. Methods We conducted a longitudinal cohort study on individuals aged ≥12 years who participated in four rounds of the National Health Interview Survey. PM2.5 exposure was estimated by using data from air-quality monitoring stations and microsensors. Incident tuberculosis was identified based on International Classification of Diseases codes and the prescription of anti-tuberculosis drugs in the National Health Insurance Database. Time-dependent Cox regression analyses were conducted to estimate the linear and nonlinear associations between PM2.5 level and tuberculosis risk. Results Among 55 316 individuals with a median follow-up time of 12 years, 429 cases of incident tuberculosis were identified. The annual mean baseline PM2.5 concentration was 34.5 μg/m3 (interquartile range: 28.7–39.2 μg/m3). After adjustment for age, sex, body mass index, cigarette smoking, alcohol use, education level, income, and tuberculosis history, the adjusted hazard ratio was 1.16 (95% confidence interval: 1.00–1.34) for every 10-μg/m3 increase in the PM2.5 level. The results of the restricted cubic spline Cox regression analysis revealed a potential nonlinear relationship (P for nonlinearity: .04), with the risk of tuberculosis increasing more rapidly when the annual mean concentration of PM2.5 exceeded 30 μg/m3. Conclusion In this large population-based cohort study, a positive association between PM2.5 and tuberculosis was observed, particularly at moderately high concentrations of PM2.5 exposure. These findings highlight the need for air-pollution control strategies to mitigate tuberculosis risk.</description>
     </item>
     <item>
+      <title>The race variable: how statistical practices reinforce inequality</title>
+      <link>https://doi.org/10.1093/ije/dyag128</link>
+      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
+
+      <dc:creator>Jason Gurney</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jason Gurney
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
+    </item>
+    <item>
+      <title>Repeated sampling of different individuals within the same clusters to improve precision of longitudinal estimators: the DISC design</title>
+      <link>https://doi.org/10.1093/ije/dyag108</link>
+      <guid isPermaLink="false">10.1093/ije/dyag108</guid>
+
+      <dc:creator>Jordan Downey</dc:creator>
+      <dc:creator>Avi Kenny</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jordan Downey, Avi Kenny
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag108
+
+Abstract: Abstract Background Longitudinal studies often involve repeated cluster sampling of a population at multiple time points, such as in difference-in-differences (DID) studies. Although cohort designs typically lead to more efficient estimators relative to repeated cross-sectional (RCS) designs, they are often impractical. Methods We describe the DISC (Different Individuals, Same Clusters) design, a sampling scheme that improves the precision of estimators in these settings. The DISC design represents a hybrid between a cohort and an RCS design, in which the researcher takes a single sample of clusters at baseline, but takes different cross-sectional samples of individuals within clusters at each time point. Results We show analytically that the DISC design yields DID estimators with much higher precision relative to an RCS design, particularly if cluster effects are present. For example, for a design with two surveys, 40 clusters, and 25 individuals per cluster, the variance of a commonly used DID treatment effect estimator is 2.3 times higher in the RCS design for an intraclass correlation coefficient (ICC) of 0.05 and 3.8 times higher for an ICC of 0.1. We also present results of a simulation study comparing the RCS and DISC designs, using both a simple DID estimator and a more complex doubly-robust DID estimator that leverages covariate information, and show gains in precision for both estimators when using the DISC design. Additionally, we illustrate DISC sampling using a household survey dataset from South Africa. Conclusions Use of the DISC design can result in estimators that have substantially lower variance than the analogous estimator resulting from an RCS design.</description>
+    </item>
+    <item>
       <title>Dental amalgam, chronic disease risk, and removing mercury from dental practice</title>
       <link>https://doi.org/10.1093/ije/dyag102</link>
       <guid isPermaLink="false">10.1093/ije/dyag102</guid>
@@ -55,6 +80,58 @@ Abstract: Abstract Background Available evidence on the relationship between lon
       <description>Authors: Benjamin W Chaffee
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag102</description>
+    </item>
+    <item>
+      <title>The impact of school-based mitigation measures on the transmission of respiratory pathogens: the case of SARS-CoV-2</title>
+      <link>https://doi.org/10.1093/ije/dyag103</link>
+      <guid isPermaLink="false">10.1093/ije/dyag103</guid>
+
+      <dc:creator>Laura Fumanelli</dc:creator>
+      <dc:creator>Giorgio Guzzetta</dc:creator>
+      <dc:creator>Martina del Manso</dc:creator>
+      <dc:creator>Antonino Bella</dc:creator>
+      <dc:creator>Massimo Vicentini</dc:creator>
+      <dc:creator>Olivera Djuric</dc:creator>
+      <dc:creator>Eufemia Bisaccia</dc:creator>
+      <dc:creator>Pamela Mancuso</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Laura Fumanelli, Giorgio Guzzetta, Martina del Manso, Antonino Bella, Massimo Vicentini, Olivera Djuric, Eufemia Bisaccia, Pamela Mancuso, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag103
+
+Abstract: Abstract Background School-based mitigation measures can curb transmission of severe respiratory pathogens but may also impose high societal costs. Understanding their impact at the population level is key for pandemic preparedness evaluations. Methods We developed an individual-based model of SARS-CoV-2 transmission in households, schools, and the general community, calibrated to epidemiological estimates from complete contact tracing data collected in the province of Reggio Emilia, Italy, during March–April 2021 (a period characterized by the dominance of the Alpha variant and strict community restrictions). We quantified the impact of school-based mitigation measures, including distance-learning mandates, reactive class quarantines, and periodic screening. Results Unmitigated transmission in schools would increase the population-level SARS-CoV-2 reproduction number from 0.94 (95% confidence interval [CI]: 0.84–1.03) to 1.38 (95% CI: 1.29–1.47), substantially amplifying COVID-19 morbidity and mortality. Intensive contact tracing with reactive class quarantines would reduce disease burden but would be insufficient to prevent widespread epidemic growth. Weekly universal screening of students and teachers with highly specific rapid tests, on top of contact tracing and reactive class quarantines, could effectively reduce the spread of infections and maintain a high level of in-person education. Conclusions For highly transmissible severe respiratory infection with significant cryptic transmission, distance learning mandates may be necessary to protect vulnerable populations. However, weekly screening in schools may offer a viable strategy to preserve in-person education.</description>
+    </item>
+    <item>
+      <title>Cohort Profile Update: The Finnish Gestational Diabetes (FinnGeDi) study</title>
+      <link>https://doi.org/10.1093/ije/dyag101</link>
+      <guid isPermaLink="false">10.1093/ije/dyag101</guid>
+
+      <dc:creator>Shilpa Lingaiah</dc:creator>
+      <dc:creator>Elina Keikkala</dc:creator>
+      <dc:creator>Sanna Mustaniemi</dc:creator>
+      <dc:creator>Pekka Ylöstalo</dc:creator>
+      <dc:creator>Tellervo Tervonen</dc:creator>
+      <dc:creator>Marja-Liisa Laitala</dc:creator>
+      <dc:creator>Hilkka Pernu</dc:creator>
+      <dc:creator>Eveliina Lammentausta</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shilpa Lingaiah, Elina Keikkala, Sanna Mustaniemi, Pekka Ylöstalo, Tellervo Tervonen, Marja-Liisa Laitala, Hilkka Pernu, Eveliina Lammentausta, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag101</description>
+    </item>
+    <item>
+      <title>Contributions of preeclampsia to preterm delivery: a hypothetical interventional cohort study using incremental propensity scores</title>
+      <link>https://doi.org/10.1093/ije/dyag098</link>
+      <guid isPermaLink="false">10.1093/ije/dyag098</guid>
+
+      <dc:creator>Wen Wei Loh</dc:creator>
+      <dc:creator>Cande V Ananth</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wen Wei Loh, Cande V Ananth
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag098
+
+Abstract: Abstract Background Preeclampsia remains a leading cause of preterm delivery (PTD). Conventional average causal effect estimands may not always be perfectly suited for assessing preeclampsia’s contributions because they rely on uniform counterfactual scenarios, such as everyone suffering from preeclampsia. A complementary approach is the incremental propensity score intervention (IPSI), which can address a more action-oriented causal inquiry: How would the population average risk of PTD change from current observed levels if each individual’s odds of preeclampsia were reduced by a given amount? Methods We applied IPSI to two US population cohorts of singleton pregnancies, separated by two decades (1998–2002, 16.7 million; 2020–2023, 14.2 million), to evaluate the causal effects of gestational hypertension/preeclampsia (GHTN/PE) on PTD within each cohort. We developed and implemented a sensitivity analysis procedure using bias formulas to gauge the impact of potential unmeasured confounding. Results Between 1998 and 2002, halving the individual odds of GHTN/PE would reduce the population average risk of PTD from observed [risk ratio (RR) = 0.969, 95% confidence interval (CI) 0.969–0.970]. Between 2020 and 2023, when GHTN/PE was more prevalent, halving the odds of preeclampsia would lead to an even greater reduction in average PTD risk (RR = 0.948, 95% CI 0.947–0.948). Sensitivity analyses demonstrated that these conclusions held under assumptions encoding relatively strong unmeasured confounding. Conclusions The IPSI approach offers more nuanced understanding and clinically meaningful interpretations of causal effects, such as by how much partially reducing the odds of GHTN/PE, while allowing it to remain non-zero, can lower the average risk of PTD.</description>
     </item>
     <item>
       <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
@@ -1566,98 +1643,6 @@ Abstract: Abstract Background By mid-2024, &amp;amp;gt;13 billion COVID-19 vacci
       <description>Authors: Martin Hänsel, Emanuel Mauch, Charlotte Micheloud, Andreas R Luft, Krassen Nedeltchev, Marcel Arnold, Susanne Wegener
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag003</description>
-    </item>
-    <item>
-      <title>Impact of intermittent preventive treatment of malaria in pregnancy with sulfadoxine–pyrimethamine on sexually transmitted and reproductive tract infections: results from a randomized trial in Uganda</title>
-      <link>https://doi.org/10.1093/ije/dyag005</link>
-      <guid isPermaLink="false">10.1093/ije/dyag005</guid>
-
-      <dc:creator>Harriet Adrama</dc:creator>
-      <dc:creator>Erin J Dela Cruz</dc:creator>
-      <dc:creator>Nida Ozarslan</dc:creator>
-      <dc:creator>Abel Kakuru</dc:creator>
-      <dc:creator>Bakar Odongo</dc:creator>
-      <dc:creator>Stephanie L Gaw</dc:creator>
-      <dc:creator>Jade Benjamin-Chung</dc:creator>
-      <dc:creator>Jimmy Kizza</dc:creator>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Harriet Adrama, Erin J Dela Cruz, Nida Ozarslan, Abel Kakuru, Bakar Odongo, Stephanie L Gaw, Jade Benjamin-Chung, Jimmy Kizza, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag005
-
-Abstract: Abstract Background In sub-Saharan Africa, sexually transmitted and reproductive tract infections (STIs/RTIs) are important but underdiagnosed risk factors for adverse pregnancy outcomes. Sulfadoxine–pyrimethamine (SP), used for the intermittent preventive treatment of malaria in pregnancy (IPTp), may reduce the STI/RTI burden due to its antimicrobial activity. We assessed the impact of IPTp regimens on STI/RTI prevalence and evaluated associations between STIs/RTIs and adverse birth outcomes. Methods We conducted a secondary analysis of a randomized–controlled trial comparing monthly IPTp with SP, dihydroartemisinin–piperaquine (DP), or DP+SP among pregnant women in Uganda. Vaginal swabs collected at or near delivery were tested for Chlamydia trachomatis, Neisseria gonorrhoeae, Trichomonas vaginalis, and Group B Streptococcus (GBS) by using GeneXpert; bacterial vaginosis was assessed by using Nugent scoring. Log-binomial regression was used to compare STI/RTI prevalence between IPTp arms; IPTp-DP served as the reference arm. Multivariable Poisson regression with robust standard errors was used to evaluate associations between infections and preterm delivery, term low birthweight (LBW), overall LBW, and small-for-gestational age. Results Among the 2265 participants assessed, the IPTp-SP arm had an 80% [95% confidence interval (CI): 67%–88%] lower prevalence of C. trachomatis (2.5% vs 12.4%) and a 35% (95% CI: 1%–57%) lower prevalence of GBS (7.7% vs 11.7%) at delivery compared with the IPTp-DP arm. Chlamydia trachomatis was associated with increased preterm delivery [prevalence ratio (PR) = 1.86, 95% CI: 1.07–3.25] and GBS was associated with increased term LBW (PR = 2.08, 95% CI: 1.06–4.08). Conclusion Monthly IPTp-SP may reduce the risk of adverse birth outcomes through its activity against C. trachomatis and GBS, highlighting its potential non-malarial benefits.</description>
-    </item>
-    <item>
-      <title>Spatio-temporal trends in pleural mesothelioma mortality in Italy: a 40-year analysis by calendar period and birth cohort</title>
-      <link>https://doi.org/10.1093/ije/dyaf227</link>
-      <guid isPermaLink="false">10.1093/ije/dyaf227</guid>
-
-      <dc:creator>Allegra Sartore</dc:creator>
-      <dc:creator>Giorgia Stoppa</dc:creator>
-      <dc:creator>Giada Minelli</dc:creator>
-      <dc:creator>Lucia Fazzo</dc:creator>
-      <dc:creator>Valerio Manno</dc:creator>
-      <dc:creator>Carolina Mensi</dc:creator>
-      <dc:creator>Alessandro Marinaccio</dc:creator>
-      <dc:creator>Annibale Biggeri</dc:creator>
-      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Allegra Sartore, Giorgia Stoppa, Giada Minelli, Lucia Fazzo, Valerio Manno, Carolina Mensi, Alessandro Marinaccio, Annibale Biggeri, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf227
-
-Abstract: Abstract Background Italy, among the leading asbestos producers and users until the national ban in 1992, continues to register a high burden of asbestos-related diseases, mainly due to their long latency and delays in remediation. This study investigates the spatio-temporal evolution of pleural mesothelioma (PM) mortality over the past 40 years. Materials and methods Malignant pleural tumours and PM deaths (1980–2020) were extracted from the national death registry, adjusted for misclassification of pleural tumours, and analysed by region and birth cohort (1905–1984). The analyses by calendar period and cohort, stratified by sex assigned at birth, were followed by a space-cohort Bayesian Hierarchical Model with structured random effects for time (cohorts up to 1960–1969) and space (administrative regions). Results In Italy, from 1980 to 2020, 35 134 people died from PM (24 380 males and 10 754 females). A mortality decrease was observed in males after 2010–14 and in females after 2000–4. Mortality steadily declined in both males and females across cohorts after 1935–44. The space–time analysis enabled the clear identification of the Italian regions most affected by PM. Conclusion Italy’s trend mirrors those of other Western countries that have banned asbestos, with the highest risks for birth cohorts in working age before the ban. The results reveal distinct spatio-temporal patterns, with the northern regions exhibiting the highest rates. The Italian experience with asbestos-related diseases detection could help other countries to assess the impact of asbestos, raise awareness, and promote a global ban on asbestos.</description>
-    </item>
-    <item>
-      <title>Higher sun exposure is associated with a reduced risk of primary biliary cholangitis</title>
-      <link>https://doi.org/10.1093/ije/dyaf216</link>
-      <guid isPermaLink="false">10.1093/ije/dyaf216</guid>
-
-      <dc:creator>Janine French</dc:creator>
-      <dc:creator>Paul J Gow</dc:creator>
-      <dc:creator>Steve Simpson-Yap</dc:creator>
-      <dc:creator>Justin Ng</dc:creator>
-      <dc:creator>Kate Collins</dc:creator>
-      <dc:creator>Lachlan Sycamnias</dc:creator>
-      <dc:creator>Peter Angus</dc:creator>
-      <dc:creator>Ingrid van der Mei</dc:creator>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Janine French, Paul J Gow, Steve Simpson-Yap, Justin Ng, Kate Collins, Lachlan Sycamnias, Peter Angus, Ingrid van der Mei
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf216
-
-Abstract: Abstract Background Primary biliary cholangitis (PBC) is a chronic cholestatic disease with few identified environmental risk factors. There is both a large geographical variation and a latitudinal gradient of prevalence, which point towards an environmental factor being involved in disease pathogenesis. This study examined whether there was a relationship between lifetime sun exposure, ultraviolet (UV) load and the risk of developing PBC. Methods A case–control study of 200 prevalent cases and 200 age- and sex-matched controls was performed. Participants completed a lifetime calendar prior to the study interview and two validated time-in-sun questionnaires during the study interview. Satellite data were used to estimate the average daily UV load according to the latitude and longitude of the location of residence. Skin phenotype was assessed by using spectrophotometry, which estimated the cutaneous melanin density. Results Increasing time in the sun and life calendar-derived UV load were consistently associated with lower odds of being a case, robust to adjustment for birthplace, education, smoking, and estimated cutaneous melanin density. The relationship was stronger for summer sun than for winter sun and was present for higher cumulative UV loads at ages 6–25 years [odds ratio (OR) 0.35, 95% confidence interval (CI): 0.19, 0.66] and 6–35 years (OR 0.4, 95% CI: 0.21, 0.76). Conclusion We have demonstrated for the first time that higher sun exposure and UV load, particularly in summer, were consistently associated with a reduced risk of developing PBC.</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: Ungdata—National Norwegian Youth Surveys</title>
-      <link>https://doi.org/10.1093/ije/dyag007</link>
-      <guid isPermaLink="false">10.1093/ije/dyag007</guid>
-
-      <dc:creator>Sigurd Eid Jacobsen</dc:creator>
-      <dc:creator>Anders Bakken</dc:creator>
-      <dc:creator>Ryan Tamayo Europa</dc:creator>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sigurd Eid Jacobsen, Anders Bakken, Ryan Tamayo Europa
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyag007</description>
-    </item>
-    <item>
-      <title>Human genetics suggests differing causal pathways from HMGCR inhibition to coronary artery disease and type 2 diabetes</title>
-      <link>https://doi.org/10.1093/ije/dyaf223</link>
-      <guid isPermaLink="false">10.1093/ije/dyaf223</guid>
-
-      <dc:creator>Seongwon Hwang</dc:creator>
-      <dc:creator>Ville Karhunen</dc:creator>
-      <dc:creator>Ashish Patel</dc:creator>
-      <dc:creator>Sam M Lockhart</dc:creator>
-      <dc:creator>Paul Carter</dc:creator>
-      <dc:creator>John C Whittaker</dc:creator>
-      <dc:creator>Stephen Burgess</dc:creator>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Seongwon Hwang, Ville Karhunen, Ashish Patel, Sam M Lockhart, Paul Carter, John C Whittaker, Stephen Burgess
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf223
-
-Abstract: Abstract Background Statins lower low-density lipoprotein cholesterol (LDL-C) and reduce the risk of coronary artery disease (CAD). However, they also increase the risk of type 2 diabetes (T2D). Methods We consider genetic variants in the region of the HMGCR gene, which encodes the target of statins, and their associations with downstream consequences of statins. We use various statistical methods to identify causal pathways influencing CAD and T2D, and investigate whether these are the same or different for the two diseases. Results Colocalization analyses indicate that LDL-C and body mass index (BMI) have distinct genetic predictors in this gene region, suggesting that they do not lie on the same causal pathway. Multivariable Mendelian randomization analyses restricted to variants in the HMGCR gene region revealed LDL-C and BMI as causal risk factors for CAD, and BMI as a causal risk factor for T2D, but not LDL-C. A Bayesian model averaging method prioritized BMI as the most likely causal risk factor for T2D, and LDL-C as the second most likely causal risk factor for CAD (behind ubiquinone). Colocalization analyses provided consistent evidence of LDL-C colocalizing with CAD, and BMI colocalizing with T2D; evidence was inconsistent for colocalization of LDL-C with T2D, and BMI with CAD. Conclusions Our analyses suggest cardiovascular and metabolic consequences of statin usage are on different causal pathways, and hence could be influenced separately by targeted interventions. More broadly, our analysis workflow offers potential insights to identify pathway-specific causal risk factors that could provide possible repositioning or refinement opportunities for existing drug targets.</description>
     </item>
   </channel>
 </rss>
