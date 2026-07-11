@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:53:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:14:53 +0000</lastBuildDate>
 
     <item>
       <title>A statistical test for the benefits of personalizing interventions</title>
@@ -288,26 +288,6 @@ Abstract: Complement component 1q (C1q), the initiator of the classical compleme
 Journal: Science; Volume: 393; Issue: 6807; Pages: 218-218</description>
     </item>
     <item>
-      <title>Autonomous biomedical research with an artificial intelligence agent</title>
-      <link>https://doi.org/10.1126/science.adz4351</link>
-      <guid isPermaLink="false">10.1126/science.adz4351</guid>
-
-      <dc:creator>Kexin Huang</dc:creator>
-      <dc:creator>Serena Zhang</dc:creator>
-      <dc:creator>Hanchen Wang</dc:creator>
-      <dc:creator>Yuanhao Qu</dc:creator>
-      <dc:creator>Yingzhou Lu</dc:creator>
-      <dc:creator>Ryan Li</dc:creator>
-      <dc:creator>Yusuf Roohani</dc:creator>
-      <dc:creator>Lin Qiu</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kexin Huang, Serena Zhang, Hanchen Wang, Yuanhao Qu, Yingzhou Lu, Ryan Li, Yusuf Roohani, Lin Qiu, et al.
-
-Journal: Science; Article number: eadz4351
-
-Abstract: Biomedical research is increasingly constrained by repetitive, fragmented workflows that slow discovery. We introduce Biomni, a general-purpose biomedical artificial intelligence agent that autonomously executes diverse research tasks. To map the biomedical action space, Biomni’s action-discovery agent mines tools, databases, and protocols from thousands of publications across 25 domains, building a unified agentic environment. Its general-purpose architecture integrates large language model reasoning with retrieval-augmented planning and code-based execution, dynamically composing workflows without predefined templates. Systematic benchmarking shows strong generalization across heterogeneous tasks—causal gene prioritization, drug repurposing, rare-disease diagnosis, microbiome analysis, and molecular cloning—without task-specific tuning. Real-world case studies demonstrate Biomni interpreting multi-modal datasets, optimizing protein stability, orchestrating wet-lab instruments, and generating experimentally testable protocols. Biomni envisions artificial intelligence augmenting human scientists and accelerating discovery.</description>
-    </item>
-    <item>
       <title>What do we know about sex?
                     &lt;b&gt;Poking the Squid: What We Can Learn from Animal Sex&lt;/b&gt;
                     &lt;i&gt;Perrin Roosevelt Ireland&lt;/i&gt;
@@ -340,6 +320,39 @@ Journal: Science; Volume: 393; Issue: 6807; Pages: 134-139
 Abstract: Northern spotted owls were spared from logging. Now, scientists are making a last stand to save them from a new threat</description>
     </item>
     <item>
+      <title>Autonomous biomedical research with an artificial intelligence agent</title>
+      <link>https://doi.org/10.1126/science.adz4351</link>
+      <guid isPermaLink="false">10.1126/science.adz4351</guid>
+
+      <dc:creator>Kexin Huang</dc:creator>
+      <dc:creator>Serena Zhang</dc:creator>
+      <dc:creator>Hanchen Wang</dc:creator>
+      <dc:creator>Yuanhao Qu</dc:creator>
+      <dc:creator>Yingzhou Lu</dc:creator>
+      <dc:creator>Ryan Li</dc:creator>
+      <dc:creator>Yusuf Roohani</dc:creator>
+      <dc:creator>Lin Qiu</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kexin Huang, Serena Zhang, Hanchen Wang, Yuanhao Qu, Yingzhou Lu, Ryan Li, Yusuf Roohani, Lin Qiu, et al.
+
+Journal: Science; Article number: eadz4351
+
+Abstract: Biomedical research is increasingly constrained by repetitive, fragmented workflows that slow discovery. We introduce Biomni, a general-purpose biomedical artificial intelligence agent that autonomously executes diverse research tasks. To map the biomedical action space, Biomni’s action-discovery agent mines tools, databases, and protocols from thousands of publications across 25 domains, building a unified agentic environment. Its general-purpose architecture integrates large language model reasoning with retrieval-augmented planning and code-based execution, dynamically composing workflows without predefined templates. Systematic benchmarking shows strong generalization across heterogeneous tasks—causal gene prioritization, drug repurposing, rare-disease diagnosis, microbiome analysis, and molecular cloning—without task-specific tuning. Real-world case studies demonstrate Biomni interpreting multi-modal datasets, optimizing protein stability, orchestrating wet-lab instruments, and generating experimentally testable protocols. Biomni envisions artificial intelligence augmenting human scientists and accelerating discovery.</description>
+    </item>
+    <item>
+      <title>British ‘First Fleet’ brought smallpox to Australia</title>
+      <link>https://doi.org/10.1126/science.aek3890</link>
+      <guid isPermaLink="false">10.1126/science.aek3890</guid>
+
+      <dc:creator>Andrew Curry</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrew Curry
+
+Journal: Science; Volume: 393; Issue: 6807; Pages: 128-129
+
+Abstract: Colonists likely introduced the disease to a more populous continent than many imagined</description>
+    </item>
+    <item>
       <title>The origin, history, and resistance architecture of an invasive urban malaria mosquito in Africa</title>
       <link>https://doi.org/10.1126/science.adx6925</link>
       <guid isPermaLink="false">10.1126/science.adx6925</guid>
@@ -358,19 +371,6 @@ Abstract: Northern spotted owls were spared from logging. Now, scientists are ma
 Journal: Science; Volume: 393; Issue: 6807; Article number: eadx6925
 
 Abstract: The invasive urban malaria vector Anopheles stephensi threatens 126 million city dwellers in Africa. Controlling An. stephensi requires greater understanding of its origin, invasion dynamics, and insecticide resistance mechanisms. Analysis of 645 whole genomes sampled across Africa, the Middle East, and Asia supports an invasion scenario in which an initial South Asian introduction established a bridgehead population in Djibouti, which seeded distinct invasion fronts in Sudan, Ethiopia/Kenya, and Yemen. These incursions show contrasting rates and routes of spread shaped by landscape topology. Insecticide resistance is predominantly mediated by metabolic detoxification genes, with resistance haplotypes and copy-number amplifications introduced from South Asia. These findings, alongside a companion genomic resource, enable genomic surveillance of An. stephensi spread and resistance to aid control strategies.</description>
-    </item>
-    <item>
-      <title>British ‘First Fleet’ brought smallpox to Australia</title>
-      <link>https://doi.org/10.1126/science.aek3890</link>
-      <guid isPermaLink="false">10.1126/science.aek3890</guid>
-
-      <dc:creator>Andrew Curry</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrew Curry
-
-Journal: Science; Volume: 393; Issue: 6807; Pages: 128-129
-
-Abstract: Colonists likely introduced the disease to a more populous continent than many imagined</description>
     </item>
     <item>
       <title>Antibodies sculpt adult brain circuits</title>
@@ -1185,6 +1185,22 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 21-21
 Abstract: Giant camera will repeatedly scan the sky, spotting transients while building deep map of billions of galaxies</description>
     </item>
     <item>
+      <title>Fruit flies actively restart their circadian clock by proactively shaping their environment</title>
+      <link>https://doi.org/10.1126/science.adw2239</link>
+      <guid isPermaLink="false">10.1126/science.adw2239</guid>
+
+      <dc:creator>Angelica Coculla</dc:creator>
+      <dc:creator>Luis Garcia Rodriguez</dc:creator>
+      <dc:creator>Maite Ogueta</dc:creator>
+      <dc:creator>Ralf Stanewsky</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Angelica Coculla, Luis Garcia Rodriguez, Maite Ogueta, Ralf Stanewsky
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 98-104
+
+Abstract: Circadian clocks provide adaptive advantages, enabling organisms to adjust their physiology and behavior to daily environmental changes on Earth. Here, we show that fruit flies prefer a temporally organized life. Because of light-induced degradation of the core circadian clock protein Timeless, constant illumination stops the circadian clock and leads to arrhythmic locomotor activity. When given the choice to move between dark and illuminated areas in a constant light environment, flies were able to maintain, or even regain, rhythmic behavioral patterns. These self-inflicted rhythms were accompanied by molecular rhythms in clock neurons known to drive behavioral rhythms. Behavioral rhythmicity was correlated with improved sleep quality compared with that of arrhythmic flies, demonstrating an immediate benefit of choosing to live under circadian clock control.</description>
+    </item>
+    <item>
       <title>A Hormone Cell Atlas maps the human endocrine system at cellular resolution</title>
       <link>https://doi.org/10.1126/science.aeb2672</link>
       <guid isPermaLink="false">10.1126/science.aeb2672</guid>
@@ -1203,22 +1219,6 @@ Abstract: Giant camera will repeatedly scan the sky, spotting transients while b
 Journal: Science; Volume: 393; Issue: 6806; Article number: eaeb2672
 
 Abstract: Hormones act across tissues and organs to coordinate physiological functions. Drawing inspiration from the Human Cell Atlas, we analyzed the expression of 379 hormone and receptor genes in a transcriptomic dataset comprising 14 million single cells and nuclei across 47 human tissues. Using hormone2cell, we mapped putative hormone-producing and hormone-receiving cell types, defining tissue-specific and cross-tissue endocrine signatures. We predicted nonclassical sites of hormone expression, including secretin in plasmacytoid dendritic cells, inferred convergent hormone action and endocrine feedback loops, and implicated cell populations in monogenic endocrine disorders. In a cross-tissue integration of adipocyte datasets, we uncovered dynamic endocrine programs across depots, within adipocyte subtypes and through adipogenic differentiation. Cumulatively, the Hormone Cell Atlas ( hormonecellatlas.org.uk ) provides a comprehensive framework for dissecting hormonal impact on health and disease.</description>
-    </item>
-    <item>
-      <title>Fruit flies actively restart their circadian clock by proactively shaping their environment</title>
-      <link>https://doi.org/10.1126/science.adw2239</link>
-      <guid isPermaLink="false">10.1126/science.adw2239</guid>
-
-      <dc:creator>Angelica Coculla</dc:creator>
-      <dc:creator>Luis Garcia Rodriguez</dc:creator>
-      <dc:creator>Maite Ogueta</dc:creator>
-      <dc:creator>Ralf Stanewsky</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Angelica Coculla, Luis Garcia Rodriguez, Maite Ogueta, Ralf Stanewsky
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 98-104
-
-Abstract: Circadian clocks provide adaptive advantages, enabling organisms to adjust their physiology and behavior to daily environmental changes on Earth. Here, we show that fruit flies prefer a temporally organized life. Because of light-induced degradation of the core circadian clock protein Timeless, constant illumination stops the circadian clock and leads to arrhythmic locomotor activity. When given the choice to move between dark and illuminated areas in a constant light environment, flies were able to maintain, or even regain, rhythmic behavioral patterns. These self-inflicted rhythms were accompanied by molecular rhythms in clock neurons known to drive behavioral rhythms. Behavioral rhythmicity was correlated with improved sleep quality compared with that of arrhythmic flies, demonstrating an immediate benefit of choosing to live under circadian clock control.</description>
     </item>
     <item>
       <title>Lab creates new kind of synthetic cell</title>

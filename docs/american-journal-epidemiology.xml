@@ -5,8 +5,50 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:53:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:15:11 +0000</lastBuildDate>
 
+    <item>
+      <title>A comparative analysis of methodological practices used in capture-recapture population size estimation: Opioid use disorder prevalence in New York State, 2020</title>
+      <link>https://doi.org/10.1093/aje/kwag161</link>
+      <guid isPermaLink="false">10.1093/aje/kwag161</guid>
+
+      <dc:creator>Heather Bradley</dc:creator>
+      <dc:creator>Trang M Nguyen</dc:creator>
+      <dc:creator>Lanxin Li</dc:creator>
+      <dc:creator>Ruth King</dc:creator>
+      <dc:creator>Vivian Kamanu</dc:creator>
+      <dc:creator>Serveh Sharifi Far</dc:creator>
+      <dc:creator>Stephanie Mack</dc:creator>
+      <dc:creator>Nicole Luisi</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Heather Bradley, Trang M Nguyen, Lanxin Li, Ruth King, Vivian Kamanu, Serveh Sharifi Far, Stephanie Mack, Nicole Luisi, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag161
+
+Abstract: Abstract Prevalence estimates for opioid use disorder (OUD) are essential for guiding investments in prevention and treatment. Previous estimates have been produced using modeling approaches including capture-recapture (CRC). Empirical evaluations of CRC are needed to assess population size impacts of methodological practices utilized. We linked administrative data sources including New York State (NYS) adults with OUD by indication between January 1—December 31, 2020 and applied Bayesian CRC methods to evaluate how methodological practices impact OUD prevalence: (1) using sensitive versus specific case definition characteristics to identify OUD, (2) including versus excluding inferred referrals from emergency medical services to healthcare settings, and (3) including versus excluding overdose mortality as a source list. We estimated OUD prevalence overall and by demographic characteristics and treatment coverage with medications for OUD (MOUD). Across methodological scenarios, OUD prevalence estimates ranged from 4.6%—9.9%. The largest estimate resulted from a model in which the more sensitive OUD case definition was applied, while the smallest resulted from a model using the more specific case definition. An estimated 4.2% of NYS adults had OUD in 2020, with 20% receiving MOUD. Findings demonstrate that CRC methodological decisions can meaningfully influence OUD prevalence estimates, with recommended methodological practices provided.</description>
+    </item>
+    <item>
+      <title>Air pollution and healthy aging: a longitudinal inquire on the association of PM2.5 with intrinsic capacity and its domains</title>
+      <link>https://doi.org/10.1093/aje/kwag160</link>
+      <guid isPermaLink="false">10.1093/aje/kwag160</guid>
+
+      <dc:creator>Aarón Salinas-Rodríguez</dc:creator>
+      <dc:creator>Susana Román-Pérez</dc:creator>
+      <dc:creator>Mario Efraín Flores-Rodríguez</dc:creator>
+      <dc:creator>Betty Manrique-Espinoza</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Aarón Salinas-Rodríguez, Susana Román-Pérez, Mario Efraín Flores-Rodríguez, Betty Manrique-Espinoza
+
+Journal: American Journal of Epidemiology; Article number: kwag160</description>
+    </item>
+    <item>
+      <title>Correction to: Reduced risk of SARS-CoV-2 infection among household contacts with recent vaccination and past COVID-19 infection: results from 2 multisite case-ascertained household transmission studies</title>
+      <link>https://doi.org/10.1093/aje/kwag151</link>
+      <guid isPermaLink="false">10.1093/aje/kwag151</guid>
+
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Article number: kwag151</description>
+    </item>
     <item>
       <title>Birth certificate measures of maternal morbidity and their limits in abortion policy research</title>
       <link>https://doi.org/10.1093/aje/kwag159</link>
@@ -1669,59 +1711,6 @@ Abstract: Abstract Many older adults experience financial insecurity. While prio
 Journal: American Journal of Epidemiology; Article number: kwag059
 
 Abstract: Abstract Epidemiologic studies often evaluate the association between an exposure and an event risk. When time-varying, exposures are usually updated at discrete visits although changes are in continuous time and survival models require values to be constantly known. Moreover, exposures are likely measured with error, and their observation truncated at the event time. We aimed to quantify in a Cox regression the bias in the association resulting from intermittent measurements of an error-prone exposure. Using simulations under various scenarios, we compared five methods: last observation carried-forward (LOCF), classical two-stage regression calibration using measurements up to the event (RC) or also after (PE-RC), multiple imputation (MI) and joint modeling of the exposure and the event (JM). The LOCF, and to a lesser extent the classical RC, showed substantial bias in almost all 45 scenarios. The RC bias was avoided when considering post-event information. The MI performed relatively well, as did the JM. Illustrations exploring the association of Body Mass Index and Executive Functioning with dementia risk showed consistent conclusions. Accounting for measurement error and discrete updates is critical when studying time-varying exposures. MI and JM techniques may be applied in this context, while classical RC should be avoided due to the informative truncation.</description>
-    </item>
-    <item>
-      <title>Infectious disease modeling for public health practice: projections, scenarios, and uncertainty in 3 phases of outbreak response</title>
-      <link>https://doi.org/10.1093/aje/kwag058</link>
-      <guid isPermaLink="false">10.1093/aje/kwag058</guid>
-
-      <dc:creator>Andrew F Brouwer</dc:creator>
-      <dc:creator>Marisa C Eisenberg</dc:creator>
-      <dc:creator>Natalie E Dean</dc:creator>
-      <dc:creator>Harry Hochheiser</dc:creator>
-      <dc:creator>Philip Huang</dc:creator>
-      <dc:creator>Joseph R Coyle</dc:creator>
-      <dc:creator>Lior Rennert</dc:creator>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrew F Brouwer, Marisa C Eisenberg, Natalie E Dean, Harry Hochheiser, Philip Huang, Joseph R Coyle, Lior Rennert
-
-Journal: American Journal of Epidemiology; Article number: kwag058
-
-Abstract: Abstract Public health departments need evidence-backed scenario projections to support decision making in infectious disease outbreaks. However, traditional infectious disease models are often not readily deployable or responsive to the urgent questions and priorities of public health departments or health systems. Moreover, uncertainty in model outputs is not always adequately assessed or communicated, potentially undermining trust among public health practitioners and the public. To address these issues, we, the Insight Net Modeling Guidance for Public Health Working Group, used early COVID-19 data from Michigan to illustrate modeling approaches that can be used to answer urgent questions in 3 key phases of outbreak response: prior to local introduction, early exponential growth, and established transmission with potential interventions. In each phase, we integrate case, hospitalization, and death data and capture ranges of plausible future trajectories. These models, which produce status-quo and scenario projections, are intended to inform planning and motivate action rather than forecast precise future outcomes. Importantly, this work offers guidance to focus modeling efforts and provides examples and code for how to fit and implement these models, ultimately serving as both a conceptual guide and a practical toolkit to support more transparent, timely, and appropriate use of models in outbreak response.</description>
-    </item>
-    <item>
-      <title>Metabolomic profiling of genotype-derived ABO blood group, secretor status, and Lewis antigens and association with pancreatic ductal adenocarcinoma risk</title>
-      <link>https://doi.org/10.1093/aje/kwag055</link>
-      <guid isPermaLink="false">10.1093/aje/kwag055</guid>
-
-      <dc:creator>Ting Zhang</dc:creator>
-      <dc:creator>Steven C Moore</dc:creator>
-      <dc:creator>Sheng Fu</dc:creator>
-      <dc:creator>Demetrius Albanes</dc:creator>
-      <dc:creator>Linda M Liao</dc:creator>
-      <dc:creator>Erikka Loftfield</dc:creator>
-      <dc:creator>Mary C Playdon</dc:creator>
-      <dc:creator>Stephanie J Weinstein</dc:creator>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ting Zhang, Steven C Moore, Sheng Fu, Demetrius Albanes, Linda M Liao, Erikka Loftfield, Mary C Playdon, Stephanie J Weinstein, et al.
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1572-1584
-
-Abstract: Abstract The ABO locus is associated with pancreatic ductal adenocarcinoma (PDAC). Potential metabolic mechanisms underlying these associations have not been investigated. We examined associations between genotype-derived ABO blood group (rs505922 and rs8176746) and 1478 prediagnostic serum metabolites in 4042 participants from 8 nested case–control studies within the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial and Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study using linear regression and fixed-effect meta-analysis. We then examined associations between the identified ABO-associated metabolites and PDAC in 2 nested case–control studies (493 cases, 640 controls) using logistic regression and evaluated metabolite mediation of the ABO-PDAC association. Non-O and A (vs O) blood groups were associated with 13 and 20 metabolites, respectively, at false discovery rate &amp;amp;lt;0.20, with 9 in common. The ABO-associated metabolites, sphingosine (non-O: β = 0.15), aspartate (A: β = –0.11), and aspartylphenylalanine (A: β = –0.16) were positively, and fibrinopeptide B (1-13) (non-O: β = 0.13; A: β = 0.21) was inversely associated with PDAC (OR = 0.96-1.07 per SD change log10-metabolite, P &amp;amp;lt;.05) after adjustment for blood group. Non-O (OR = 1.50 [95% CI, 1.16-1.94]) and A (OR = 1.46 [95% CI, 1.10-1.92]) (vs O) blood groups were associated with PDAC, however none of the ABO associated metabolites significantly mediated the association between ABO blood group and PDAC. Our results suggest the ABO-associated metabolites are independent risk factors for PDAC. Trial registration: NCT00342992 and NCT00339495.</description>
-    </item>
-    <item>
-      <title>What are we estimating? Revisiting standard nutritional models through the Target Trial Framework</title>
-      <link>https://doi.org/10.1093/aje/kwag053</link>
-      <guid isPermaLink="false">10.1093/aje/kwag053</guid>
-
-      <dc:creator>Yu-Han Chiu</dc:creator>
-      <dc:creator>Lan Wen</dc:creator>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yu-Han Chiu, Lan Wen
-
-Journal: American Journal of Epidemiology; Article number: kwag053
-
-Abstract: Abstract Nutritional epidemiology has long relied on standard nutritional models to examine associations between dietary exposures and health outcomes, often interpreting model coefficients with causal intent. In this paper, we use the target trial framework to clarify common causal questions in nutritional research and connect them to established tools from causal inference. Using chicken and fish as motivating examples, we define two key causal estimands relevant to dietary strategies: the total effect of chicken consumption and the comparative effect of fish versus chicken. We then use the g-formula to estimate average causal effects of the target trials and examine how common nutritional models relate to the conditional outcome model used in the g-formula estimation. We show that several standard models are re-parameterizations of the same conditional outcome model used in g-formula estimation. We also caution that using standard multivariate and residual models directly within g-formula implementations without appropriate adaptations may lead to inaccurate predictions of conditional mean counterfactual outcomes. By providing a unified framework that links traditional models to a causal framework, our findings offer guidance on models that yield valid estimates and align with actionable dietary interventions.</description>
     </item>
   </channel>
 </rss>

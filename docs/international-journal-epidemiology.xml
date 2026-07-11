@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:15:09 +0000</lastBuildDate>
 
     <item>
       <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
@@ -28,6 +28,17 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Observational studies have suggested that a younger age at menarche is associated with increased risks of adverse pregnancy and perinatal outcomes. However, it is unclear whether these relationships are causal. Methods We estimated the associations between age at menarche and 13 pre-specified pregnancy outcomes by using two approaches. We estimated observational associations in the Avon Longitudinal Study of Parents and Children (N = 9441) using multivariable regression accounting for educational attainment, ethnicity, maternal age, parity, offspring sex, and adiposity. We conducted two-sample Mendelian randomization (MR) using data from the Mendelian Randomization in Pregnancy (MR-PREG) collaboration (77 683–707 797 pregnancies) and multivariable MR (MVMR) accounting for genetically-proxied adiposity. Results Older age at menarche was associated with lower risks of hypertensive disorders of pregnancy, gestational hypertension, and preeclampsia, but accounting for adiposity attenuated these effects across approaches. For example, per 1-year older age at menarche, the odds ratio (OR) for hypertensive disorders of pregnancy was 0.88 (95% confidence interval (CI) : 0.84, 0.93) in inverse variance weighted MR and 0.95 (95% CI: 0.90, 1.01) in MVMR, while the observational association attenuated from OR = 0.91 (95% CI: 0.87, 0.94) to OR = 0.97 (95% CI: 0.93, 1.01). No clear evidence was found for the effects of age at menarche on small-for-gestational-age, low birthweight, post-term birth, or perinatal depression from either approach. For other outcomes evidence was limited by imprecision (very preterm birth, gestational diabetes) or inconsistent effects in sensitivity analyses (offspring birthweight, large-for-gestational-age, high birthweight, preterm birth). Conclusion We find little robust evidence for causal effects of age at menarche on pregnancy outcomes. Effects of younger menarche on increased risks of hypertensive disorders of pregnancy may be driven by adiposity.</description>
     </item>
     <item>
+      <title>The race variable: how statistical practices reinforce inequality</title>
+      <link>https://doi.org/10.1093/ije/dyag128</link>
+      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
+
+      <dc:creator>Jason Gurney</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jason Gurney
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
+    </item>
+    <item>
       <title>Ambient air pollution and risk of active tuberculosis: a population-based cohort study in Taiwan</title>
       <link>https://doi.org/10.1093/ije/dyag100</link>
       <guid isPermaLink="false">10.1093/ije/dyag100</guid>
@@ -44,17 +55,6 @@ Abstract: Abstract Background Observational studies have suggested that a younge
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag100
 
 Abstract: Abstract Background Available evidence on the relationship between long-term exposure to particulate matter with an aerodynamic diameter of ≤2.5 μm (PM2.5) and tuberculosis has been limited and inconsistent. Methods We conducted a longitudinal cohort study on individuals aged ≥12 years who participated in four rounds of the National Health Interview Survey. PM2.5 exposure was estimated by using data from air-quality monitoring stations and microsensors. Incident tuberculosis was identified based on International Classification of Diseases codes and the prescription of anti-tuberculosis drugs in the National Health Insurance Database. Time-dependent Cox regression analyses were conducted to estimate the linear and nonlinear associations between PM2.5 level and tuberculosis risk. Results Among 55 316 individuals with a median follow-up time of 12 years, 429 cases of incident tuberculosis were identified. The annual mean baseline PM2.5 concentration was 34.5 μg/m3 (interquartile range: 28.7–39.2 μg/m3). After adjustment for age, sex, body mass index, cigarette smoking, alcohol use, education level, income, and tuberculosis history, the adjusted hazard ratio was 1.16 (95% confidence interval: 1.00–1.34) for every 10-μg/m3 increase in the PM2.5 level. The results of the restricted cubic spline Cox regression analysis revealed a potential nonlinear relationship (P for nonlinearity: .04), with the risk of tuberculosis increasing more rapidly when the annual mean concentration of PM2.5 exceeded 30 μg/m3. Conclusion In this large population-based cohort study, a positive association between PM2.5 and tuberculosis was observed, particularly at moderately high concentrations of PM2.5 exposure. These findings highlight the need for air-pollution control strategies to mitigate tuberculosis risk.</description>
-    </item>
-    <item>
-      <title>The race variable: how statistical practices reinforce inequality</title>
-      <link>https://doi.org/10.1093/ije/dyag128</link>
-      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
-
-      <dc:creator>Jason Gurney</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jason Gurney
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
     </item>
     <item>
       <title>Repeated sampling of different individuals within the same clusters to improve precision of longitudinal estimators: the DISC design</title>
@@ -574,6 +574,25 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag089</description>
     </item>
     <item>
+      <title>Exploring genetic confounding of the associations between screen time and depressive symptoms in adolescence and early adulthood</title>
+      <link>https://doi.org/10.1093/ije/dyag079</link>
+      <guid isPermaLink="false">10.1093/ije/dyag079</guid>
+
+      <dc:creator>Jiayao Xu</dc:creator>
+      <dc:creator>Jessie Baldwin</dc:creator>
+      <dc:creator>Amanda M Hughes</dc:creator>
+      <dc:creator>Annie Herbert</dc:creator>
+      <dc:creator>Hannah J Jones</dc:creator>
+      <dc:creator>Marcus R Munafo</dc:creator>
+      <dc:creator>Laura D Howe</dc:creator>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jiayao Xu, Jessie Baldwin, Amanda M Hughes, Annie Herbert, Hannah J Jones, Marcus R Munafo, Laura D Howe
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag079
+
+Abstract: Abstract Background Digital devices have become a major aspect of children’s lives. Associations between screen time and mental health have been observed, but the causality remains unclear. This study aimed to investigate the associations between screen time and later depressive symptoms, and to test the robustness of these associations when accounting for genetic confounding. Methods This study used data from the Avon Longitudinal Study of Parents and Children—a prospective cohort of children born between 1991 and 1992 in the UK. Different forms of screen time and depressive symptoms at ages 16, 22, and 26 years were assessed through self-completion questionnaires. The average daily screen time was calculated. Depressive symptoms were measured by using the Short Mood and Feelings Questionnaire (SMFQ). Polygenic scores (PGSs) for depression were calculated. Linear regression models were used to examine the associations between standardized screen time at ages 16, 22, and 26 years, and standardized depressive symptoms at age 26 years, adjusting for sociodemographic confounders and PGSs. Genetic sensitivity analysis (Gsens) was used to test for genetic confounding in these associations. Results A total of 3003 participants were included in the analysis. Some, but not all, forms of screen time were associated with higher SMFQ scores, e.g. time spent using a phone, tablet, or e-book at age 22 years [β: 0.10, 95% confidence interval (CI) 0.07, 0.14 for weekdays; β: 0.08, 95% CI 0.04, 0.11 for weekends] and television time at age 26 years (β: 0.10, 95% CI 0.06, 0.14 for weekdays; β: 0.09, 95% CI 0.06, 0.13 for weekends). These associations persisted after adjustment for sociodemographic confounders and PGSs, but were attenuated in the Gsens (β = 0.03, 95% CI −0.01, 0.07 for the association with time spent using a phone, tablet, or e-book at age 22 years on weekends; β = 0.06, 95% CI 0.01, 0.10 for television time at age 26 years on weekends). Conclusion For some measures of screen time, there were no associations with depressive symptoms. Where associations were seen, they were attenuated in the Gsens, implying that genetic confounding is present in the relationship between screen time and depressive symptoms in adolescents and young adults.</description>
+    </item>
+    <item>
       <title>Loneliness and health-related quality of life by chronic disease: a nationally representative survey</title>
       <link>https://doi.org/10.1093/ije/dyag051</link>
       <guid isPermaLink="false">10.1093/ije/dyag051</guid>
@@ -612,25 +631,6 @@ Abstract: Abstract Background Patients with chronic diseases may be vulnerable t
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag076
 
 Abstract: Abstract Background The measles, mumps, and rubella (MMR) vaccine is generally considered to provide lifelong immunity against measles and rubella. However, occasional measles outbreaks in countries with high vaccine coverage have raised concerns about waning immunity. In this study, we aimed to estimate the duration of vaccine-induced immunity following MMR2 vaccination in settings where measles and rubella have been eliminated. Methods Using 2019 national serosurvey data, this study estimated antibody waning (decay) rates for each antigen after MMR2 vaccination, with age as a proxy for time since vaccination. In South Korea, MMR2 coverage has exceeded 95% from the 1995 birth cohort, and no significant measles or rubella outbreaks have occurred since 2001, allowing for homogeneous cohorts. Additionally, the time required for the geometric mean titers of each antibody to reach the seronegative cutoff levels was calculated. Results The average antibody decay rates for MMR were 8.71%, 12.02%, and 5.48% per year, respectively, after MMR2 vaccination. The duration of vaccine-induced immunity was estimated to be 19 years for measles, 9.71 years for mumps, and 31.57 years for rubella when equivocal results were considered negative. If equivocal results were considered positive, the duration would be 27.32 years for measles, 15.25 years for mumps, and 39.77 years for rubella. Conclusion Here, we found that individuals who have not experienced natural infection exhibited age-dependent waning of vaccine-induced immunity. While vaccination remains the most effective way to prevent disease, continued vigilance is necessary even in countries with high vaccine coverage.</description>
-    </item>
-    <item>
-      <title>Exploring genetic confounding of the associations between screen time and depressive symptoms in adolescence and early adulthood</title>
-      <link>https://doi.org/10.1093/ije/dyag079</link>
-      <guid isPermaLink="false">10.1093/ije/dyag079</guid>
-
-      <dc:creator>Jiayao Xu</dc:creator>
-      <dc:creator>Jessie Baldwin</dc:creator>
-      <dc:creator>Amanda M Hughes</dc:creator>
-      <dc:creator>Annie Herbert</dc:creator>
-      <dc:creator>Hannah J Jones</dc:creator>
-      <dc:creator>Marcus R Munafo</dc:creator>
-      <dc:creator>Laura D Howe</dc:creator>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jiayao Xu, Jessie Baldwin, Amanda M Hughes, Annie Herbert, Hannah J Jones, Marcus R Munafo, Laura D Howe
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag079
-
-Abstract: Abstract Background Digital devices have become a major aspect of children’s lives. Associations between screen time and mental health have been observed, but the causality remains unclear. This study aimed to investigate the associations between screen time and later depressive symptoms, and to test the robustness of these associations when accounting for genetic confounding. Methods This study used data from the Avon Longitudinal Study of Parents and Children—a prospective cohort of children born between 1991 and 1992 in the UK. Different forms of screen time and depressive symptoms at ages 16, 22, and 26 years were assessed through self-completion questionnaires. The average daily screen time was calculated. Depressive symptoms were measured by using the Short Mood and Feelings Questionnaire (SMFQ). Polygenic scores (PGSs) for depression were calculated. Linear regression models were used to examine the associations between standardized screen time at ages 16, 22, and 26 years, and standardized depressive symptoms at age 26 years, adjusting for sociodemographic confounders and PGSs. Genetic sensitivity analysis (Gsens) was used to test for genetic confounding in these associations. Results A total of 3003 participants were included in the analysis. Some, but not all, forms of screen time were associated with higher SMFQ scores, e.g. time spent using a phone, tablet, or e-book at age 22 years [β: 0.10, 95% confidence interval (CI) 0.07, 0.14 for weekdays; β: 0.08, 95% CI 0.04, 0.11 for weekends] and television time at age 26 years (β: 0.10, 95% CI 0.06, 0.14 for weekdays; β: 0.09, 95% CI 0.06, 0.13 for weekends). These associations persisted after adjustment for sociodemographic confounders and PGSs, but were attenuated in the Gsens (β = 0.03, 95% CI −0.01, 0.07 for the association with time spent using a phone, tablet, or e-book at age 22 years on weekends; β = 0.06, 95% CI 0.01, 0.10 for television time at age 26 years on weekends). Conclusion For some measures of screen time, there were no associations with depressive symptoms. Where associations were seen, they were attenuated in the Gsens, implying that genetic confounding is present in the relationship between screen time and depressive symptoms in adolescents and young adults.</description>
     </item>
     <item>
       <title>Dental-amalgam exposure and the risk and progression of multiple sclerosis</title>
