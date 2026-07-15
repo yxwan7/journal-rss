@@ -5,8 +5,23 @@
     <link>https://jech.bmj.com/</link>
     <description>Latest journal articles for Journal of Epidemiology and Community Health</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:36:04 +0000</lastBuildDate>
 
+    <item>
+      <title>Cultural engagement and physiological ageing: a fixed-effects analysis</title>
+      <link>https://doi.org/10.1136/jech-2025-225753</link>
+      <guid isPermaLink="false">10.1136/jech-2025-225753</guid>
+
+      <dc:creator>Yusuke Matsuyama</dc:creator>
+      <dc:creator>Sakura Kiuchi</dc:creator>
+      <dc:creator>Jun Aida</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yusuke Matsuyama, Sakura Kiuchi, Jun Aida
+
+Journal: Journal of Epidemiology and Community Health; Pages: jech-2025-225753
+
+Abstract: Background Cultural engagement reportedly enhances older adults’ well-being. Physiological age (PA) reflects the deterioration of physical and physiological systems, and a greater PA increases the risks of various health conditions and mortality. This study aimed to investigate the association between cultural engagement and physiological ageing in UK older adults, accounting for time-invariant unmeasured confounders. Methods The data were derived from the English Longitudinal Study of Ageing. Older adults who participated in at least two of waves 2, 4 or 6 were analysed (n=1899 individuals, N=4207 observations; 46.9% were male). Cultural engagement scores were calculated based on the frequency of going to cinemas, museums and theatres, ranging from 0 (lowest engagement) to 15 (highest engagement). PA was derived from 10 physiological markers and clinical indicators, including blood pressure, forced expiratory volume, grip strength and body mass index, using the Klemera-Doubal method. A fixed-effects linear regression model was fitted to estimate the association between the cultural engagement score and PA. Time-varying confounders, including socioeconomic and health status, were adjusted for. Results The participants exhibited a cultural engagement score with a mean of 4.3 (SD=3.2) and PA with a mean of 68.7 years (SD=7.8). The fixed-effects analysis showed that a 1-point higher cultural engagement score was significantly associated with a 0.085-year lower PA after adjusting for time-varying confounders (non-standardised coefficient (B) = –0.085; 95% CI –0.161 to –0.008). Conclusions Enhancing cultural engagement may slow physiological ageing and promote healthy ageing.</description>
+    </item>
     <item>
       <title>Health systems, health services and inequality in population health: the added value of integrating the three areas and overcoming silos</title>
       <link>https://doi.org/10.1136/jech-2026-226527</link>
@@ -1611,21 +1626,6 @@ Abstract: Background One in seven households in England live in accommodation no
 Journal: Journal of Epidemiology and Community Health; Volume: 80; Issue: 5; Pages: 320-326
 
 Abstract: Background Education and income are independent predictors of mortality, but they also interact so that educational inequalities in mortality are larger at low levels of income. However, the average educational attainment in high-income countries has risen during recent decades and it is unclear how these associations have changed over time. We studied these interactions in Finland and Sweden. Data &amp;amp; methods We used individual level register-linked data from both countries covering all individuals aged 30–64 in 3-year periods from 1994–1996 to 2018–2020. We modelled age-adjusted mortality rates (per 10 000 person-years) with three-way interactions between educational level, household income quintile and study period separately for both countries and genders using Poisson regression. Results Educational inequalities in mortality are substantially larger in lower levels of income and these inequalities are slightly larger in Finland compared with Sweden. Absolute educational inequalities in the lowest income quintile remained unchanged among men but increased substantially among women. The rate difference between basic and higher educated increased from 21 (95% CI 15 to 26) to 37 (CI 32 to 41) in Finland and from 19 (CI 14 to 24) to 31 (CI 27 to 35) in Sweden, mostly due to increasing mortality among women with basic education and low income. Conclusion Due to educational expansion, the proportion of those bearing the double burden of basic education and low income is declining but they are experiencing increasing or stagnating mortality, likely driven by changes in labour market dynamics and composition of lowest educational group. Policy measures aimed at tackling health inequalities should target groups with multiple disadvantages.</description>
-    </item>
-    <item>
-      <title>Utilisation of in-person and telehealth care among US adults with loneliness and social isolation</title>
-      <link>https://doi.org/10.1136/jech-2025-223917</link>
-      <guid isPermaLink="false">10.1136/jech-2025-223917</guid>
-
-      <dc:creator>Sungchul Park</dc:creator>
-      <dc:creator>Jiani Yu</dc:creator>
-      <dc:creator>Hye-Young Jung</dc:creator>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Sungchul Park, Jiani Yu, Hye-Young Jung
-
-Journal: Journal of Epidemiology and Community Health; Volume: 80; Issue: 5; Pages: 316-319
-
-Abstract: Background Telehealth has become a critical tool for improving access to care among populations facing physical barriers to in-person care. However, its potential role in delivering care to adults with social barriers remains underexplored. We examined whether adults with loneliness or social isolation are more likely to use telehealth care versus in-person care compared to adults without loneliness or social isolation. Methods This cross-sectional study analysed data for US adults in the 2021 Medical Expenditure Panel Survey. Loneliness and social isolation were measured using the UCLA Loneliness Scale and the Berkman-Syme Social Network Index. Three indicators of healthcare utilisation were used as outcomes: in-person care only, telehealth care only and a combination of both. Results Among adults experiencing loneliness and social isolation, the likelihood of using only in-person care was lower by 4.1 (95% CI −6.1 to –2.1) and 2.8 (95% CI −5 to –0.6) percentage points. In contrast, the likelihood of using only telehealth care was higher by 2.6 (1.1–4.2) and 5.4 (3.9–6.9). The likelihood of using both in-person and telehealth care was also higher by 2.3 (0.7–3.9) and 5.2 (3.7–6.7), but telehealth was used more frequently than in-person care. Furthermore, telehealth utilisation for mental health services was higher among adults experiencing loneliness or social isolation. Conclusion Compared with adults who are not lonely or socially isolated, adults experiencing loneliness and social isolation are more likely to use telehealth and less likely to use in-person care. Telehealth may serve as a viable alternative for individuals facing social challenges in accessing in-person services.</description>
     </item>
   </channel>
 </rss>
