@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:34:18 +0000</lastBuildDate>
 
     <item>
       <title>A statistical test for the benefits of personalizing interventions</title>
@@ -340,19 +340,6 @@ Journal: Science; Article number: eadz4351
 Abstract: Biomedical research is increasingly constrained by repetitive, fragmented workflows that slow discovery. We introduce Biomni, a general-purpose biomedical artificial intelligence agent that autonomously executes diverse research tasks. To map the biomedical action space, Biomni’s action-discovery agent mines tools, databases, and protocols from thousands of publications across 25 domains, building a unified agentic environment. Its general-purpose architecture integrates large language model reasoning with retrieval-augmented planning and code-based execution, dynamically composing workflows without predefined templates. Systematic benchmarking shows strong generalization across heterogeneous tasks—causal gene prioritization, drug repurposing, rare-disease diagnosis, microbiome analysis, and molecular cloning—without task-specific tuning. Real-world case studies demonstrate Biomni interpreting multi-modal datasets, optimizing protein stability, orchestrating wet-lab instruments, and generating experimentally testable protocols. Biomni envisions artificial intelligence augmenting human scientists and accelerating discovery.</description>
     </item>
     <item>
-      <title>British ‘First Fleet’ brought smallpox to Australia</title>
-      <link>https://doi.org/10.1126/science.aek3890</link>
-      <guid isPermaLink="false">10.1126/science.aek3890</guid>
-
-      <dc:creator>Andrew Curry</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrew Curry
-
-Journal: Science; Volume: 393; Issue: 6807; Pages: 128-129
-
-Abstract: Colonists likely introduced the disease to a more populous continent than many imagined</description>
-    </item>
-    <item>
       <title>The origin, history, and resistance architecture of an invasive urban malaria mosquito in Africa</title>
       <link>https://doi.org/10.1126/science.adx6925</link>
       <guid isPermaLink="false">10.1126/science.adx6925</guid>
@@ -371,6 +358,19 @@ Abstract: Colonists likely introduced the disease to a more populous continent t
 Journal: Science; Volume: 393; Issue: 6807; Article number: eadx6925
 
 Abstract: The invasive urban malaria vector Anopheles stephensi threatens 126 million city dwellers in Africa. Controlling An. stephensi requires greater understanding of its origin, invasion dynamics, and insecticide resistance mechanisms. Analysis of 645 whole genomes sampled across Africa, the Middle East, and Asia supports an invasion scenario in which an initial South Asian introduction established a bridgehead population in Djibouti, which seeded distinct invasion fronts in Sudan, Ethiopia/Kenya, and Yemen. These incursions show contrasting rates and routes of spread shaped by landscape topology. Insecticide resistance is predominantly mediated by metabolic detoxification genes, with resistance haplotypes and copy-number amplifications introduced from South Asia. These findings, alongside a companion genomic resource, enable genomic surveillance of An. stephensi spread and resistance to aid control strategies.</description>
+    </item>
+    <item>
+      <title>British ‘First Fleet’ brought smallpox to Australia</title>
+      <link>https://doi.org/10.1126/science.aek3890</link>
+      <guid isPermaLink="false">10.1126/science.aek3890</guid>
+
+      <dc:creator>Andrew Curry</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrew Curry
+
+Journal: Science; Volume: 393; Issue: 6807; Pages: 128-129
+
+Abstract: Colonists likely introduced the disease to a more populous continent than many imagined</description>
     </item>
     <item>
       <title>Antibodies sculpt adult brain circuits</title>
@@ -469,6 +469,19 @@ Journal: Science; Volume: 393; Issue: 6807; Pages: 152-152
 Abstract: There is little enthusiasm for a technology that turns human users into “reverse centaurs,” argues a critic</description>
     </item>
     <item>
+      <title>To eat or to breathe?</title>
+      <link>https://doi.org/10.1126/science.aei7713</link>
+      <guid isPermaLink="false">10.1126/science.aei7713</guid>
+
+      <dc:creator>M. Denise Dearing</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: M. Denise Dearing
+
+Journal: Science; Volume: 393; Issue: 6807; Pages: 140-141
+
+Abstract: In highland mice, the responses to low oxygen and toxins compete for a shared molecular regulator</description>
+    </item>
+    <item>
       <title>The CARM1 epigenetic enzyme inhibits cross-presenting dendritic cell function in cancer immunity</title>
       <link>https://doi.org/10.1126/science.aea1200</link>
       <guid isPermaLink="false">10.1126/science.aea1200</guid>
@@ -487,19 +500,6 @@ Abstract: There is little enthusiasm for a technology that turns human users int
 Journal: Science; Volume: 393; Issue: 6807; Article number: eaea1200
 
 Abstract: The cancer-immunity cycle requires cross-presenting type I conventional dendritic cells (cDC1s) that induce T cell–mediated immunity, but therapeutic strategies for enhancing intratumoral cDC1 function are currently inadequate. We found the epigenetic enzyme CARM1 (coactivator-associated arginine methyltransferase 1) to be a selective negative regulator of cancer antigen presentation by cDC1s but not cDC2s. Inactivation of the Carm1 gene promoted cDC1 antigen cross-presentation, activation, and accumulation in tumors, and a CARM1 inhibitor enhanced cDC1-mediated priming of T cells by means of a cancer neoantigen vaccine. CARM1 inhibition increased chromatin accessibility at BATF3-Jun and RelA sites that are critical for cDC1 function and activation. Transforming growth factor–β regulated Carm1 expression, which suggests that CARM1 inactivation enhanced intratumoral cDC1 function without altering cDC1 homeostasis. These studies identify CARM1 as a potential therapeutic target for enhancing the antitumor function of mouse and human cDC1s.</description>
-    </item>
-    <item>
-      <title>To eat or to breathe?</title>
-      <link>https://doi.org/10.1126/science.aei7713</link>
-      <guid isPermaLink="false">10.1126/science.aei7713</guid>
-
-      <dc:creator>M. Denise Dearing</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: M. Denise Dearing
-
-Journal: Science; Volume: 393; Issue: 6807; Pages: 140-141
-
-Abstract: In highland mice, the responses to low oxygen and toxins compete for a shared molecular regulator</description>
     </item>
     <item>
       <title>Vicinal disubstitution of alkyl C–X synthons via alkene radical cation generation</title>
@@ -789,6 +789,19 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 50-52
 Abstract: Highlights from the Science family of journals</description>
     </item>
     <item>
+      <title>The invisible hand</title>
+      <link>https://doi.org/10.1126/science.aej2364</link>
+      <guid isPermaLink="false">10.1126/science.aej2364</guid>
+
+      <dc:creator>Yibin Zhu</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yibin Zhu
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 48-49
+
+Abstract: Microbiota have a hidden role in mosquito-borne disease</description>
+    </item>
+    <item>
       <title>Continental breakup–driven uplift instigated East Antarctic Ice Sheet formation</title>
       <link>https://doi.org/10.1126/science.adz6758</link>
       <guid isPermaLink="false">10.1126/science.adz6758</guid>
@@ -807,19 +820,6 @@ Abstract: Highlights from the Science family of journals</description>
 Journal: Science; Volume: 393; Issue: 6806; Article number: eadz6758
 
 Abstract: Why Antarctica became glaciated ∼34 million years ago (Ma) remains debated, as relatively warm climates and sea temperatures appear inconsistent with ice sheet formation. Although a critical decline in CO 2 is considered primarily responsible, evidence suggests that other factors were important, too. We investigated whether regional topographic uplift, rooted in Jurassic continental breakup and mantle-surface feedbacks, enabled nucleation of the East Antarctic Ice Sheet (EAIS). By integrating geodynamic-topographic models with ice sheet and energy balance models, we show that progressive plateau growth in East Antarctica, including Eocene uplift of the Gamburtsev Mountains, pushed landscapes above the threshold for ice sheet nucleation by ∼45 Ma. Uplift enabled EAIS growth under warmer-than-expected climates, producing hemispheric asymmetry in early glaciation and reconciling Oligocene polar warmth with the onset of the modern icehouse world.</description>
-    </item>
-    <item>
-      <title>The invisible hand</title>
-      <link>https://doi.org/10.1126/science.aej2364</link>
-      <guid isPermaLink="false">10.1126/science.aej2364</guid>
-
-      <dc:creator>Yibin Zhu</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yibin Zhu
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 48-49
-
-Abstract: Microbiota have a hidden role in mosquito-borne disease</description>
     </item>
     <item>
       <title>Observation of quantum vortex core fractionalization and skyrmion formation in a superconductor</title>
@@ -1310,22 +1310,6 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 43-44
 Abstract: Many fundamental innovation policies were developed during World War II that persist in some form to this day</description>
     </item>
     <item>
-      <title>Stop the biodiversity sampling arms race</title>
-      <link>https://doi.org/10.1126/science.aei5413</link>
-      <guid isPermaLink="false">10.1126/science.aei5413</guid>
-
-      <dc:creator>Yun-He Wu</dc:creator>
-      <dc:creator>Dongru Zhang</dc:creator>
-      <dc:creator>Wenjing Shen</dc:creator>
-      <dc:creator>Tianyi Zhang</dc:creator>
-      <dc:creator>Felista Kasyoka Kilunda</dc:creator>
-      <dc:creator>Wei Xu</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yun-He Wu, Dongru Zhang, Wenjing Shen, Tianyi Zhang, Felista Kasyoka Kilunda, Wei Xu
-
-Journal: Science; Volume: 393; Issue: 6806; Pages: 46-46</description>
-    </item>
-    <item>
       <title>A dietary switch promotes sensory neuron–dependent cancer-associated cachexia</title>
       <link>https://doi.org/10.1126/science.adz4196</link>
       <guid isPermaLink="false">10.1126/science.adz4196</guid>
@@ -1344,6 +1328,22 @@ Journal: Science; Volume: 393; Issue: 6806; Pages: 46-46</description>
 Journal: Science; Volume: 393; Issue: 6806; Pages: 90-97
 
 Abstract: Sickness behaviors are common in cancer-associated cachexia and affect up to half of lung cancer patients. We demonstrate that among the most common cancer mutations, loss of liver kinase B1 ( Lkb1 ) promotes the development of cachexia in preclinical models of lung cancer. In an effort to improve caloric intake with an obesogenic high-fat diet, we paradoxically observed worsened cachexia-associated sickness. We found that local production of prostaglandin E2 (PGE 2 ), rather than circulating factors, promotes sickness and that genetic, dietary, and pharmacological inhibition of tumor-derived PGE 2 suppresses sickness and cachexia. Notably, we demonstrate that lung sensory neuron abrogation prevents PGE 2 -dependent cachexia. Our study establishes localized tumor-derived signals to sensory neurons, rather than circulating factors, as drivers of cachexia and highlights a previously unknown role of the peripheral nervous system in cancer cachexia.</description>
+    </item>
+    <item>
+      <title>Stop the biodiversity sampling arms race</title>
+      <link>https://doi.org/10.1126/science.aei5413</link>
+      <guid isPermaLink="false">10.1126/science.aei5413</guid>
+
+      <dc:creator>Yun-He Wu</dc:creator>
+      <dc:creator>Dongru Zhang</dc:creator>
+      <dc:creator>Wenjing Shen</dc:creator>
+      <dc:creator>Tianyi Zhang</dc:creator>
+      <dc:creator>Felista Kasyoka Kilunda</dc:creator>
+      <dc:creator>Wei Xu</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yun-He Wu, Dongru Zhang, Wenjing Shen, Tianyi Zhang, Felista Kasyoka Kilunda, Wei Xu
+
+Journal: Science; Volume: 393; Issue: 6806; Pages: 46-46</description>
     </item>
     <item>
       <title>Why have a revered physicist’s papers been retracted?</title>

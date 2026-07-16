@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:34:41 +0000</lastBuildDate>
 
     <item>
       <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
@@ -28,6 +28,17 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Observational studies have suggested that a younger age at menarche is associated with increased risks of adverse pregnancy and perinatal outcomes. However, it is unclear whether these relationships are causal. Methods We estimated the associations between age at menarche and 13 pre-specified pregnancy outcomes by using two approaches. We estimated observational associations in the Avon Longitudinal Study of Parents and Children (N = 9441) using multivariable regression accounting for educational attainment, ethnicity, maternal age, parity, offspring sex, and adiposity. We conducted two-sample Mendelian randomization (MR) using data from the Mendelian Randomization in Pregnancy (MR-PREG) collaboration (77 683–707 797 pregnancies) and multivariable MR (MVMR) accounting for genetically-proxied adiposity. Results Older age at menarche was associated with lower risks of hypertensive disorders of pregnancy, gestational hypertension, and preeclampsia, but accounting for adiposity attenuated these effects across approaches. For example, per 1-year older age at menarche, the odds ratio (OR) for hypertensive disorders of pregnancy was 0.88 (95% confidence interval (CI) : 0.84, 0.93) in inverse variance weighted MR and 0.95 (95% CI: 0.90, 1.01) in MVMR, while the observational association attenuated from OR = 0.91 (95% CI: 0.87, 0.94) to OR = 0.97 (95% CI: 0.93, 1.01). No clear evidence was found for the effects of age at menarche on small-for-gestational-age, low birthweight, post-term birth, or perinatal depression from either approach. For other outcomes evidence was limited by imprecision (very preterm birth, gestational diabetes) or inconsistent effects in sensitivity analyses (offspring birthweight, large-for-gestational-age, high birthweight, preterm birth). Conclusion We find little robust evidence for causal effects of age at menarche on pregnancy outcomes. Effects of younger menarche on increased risks of hypertensive disorders of pregnancy may be driven by adiposity.</description>
     </item>
     <item>
+      <title>The race variable: how statistical practices reinforce inequality</title>
+      <link>https://doi.org/10.1093/ije/dyag128</link>
+      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
+
+      <dc:creator>Jason Gurney</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jason Gurney
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
+    </item>
+    <item>
       <title>Ambient air pollution and risk of active tuberculosis: a population-based cohort study in Taiwan</title>
       <link>https://doi.org/10.1093/ije/dyag100</link>
       <guid isPermaLink="false">10.1093/ije/dyag100</guid>
@@ -44,17 +55,6 @@ Abstract: Abstract Background Observational studies have suggested that a younge
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag100
 
 Abstract: Abstract Background Available evidence on the relationship between long-term exposure to particulate matter with an aerodynamic diameter of ≤2.5 μm (PM2.5) and tuberculosis has been limited and inconsistent. Methods We conducted a longitudinal cohort study on individuals aged ≥12 years who participated in four rounds of the National Health Interview Survey. PM2.5 exposure was estimated by using data from air-quality monitoring stations and microsensors. Incident tuberculosis was identified based on International Classification of Diseases codes and the prescription of anti-tuberculosis drugs in the National Health Insurance Database. Time-dependent Cox regression analyses were conducted to estimate the linear and nonlinear associations between PM2.5 level and tuberculosis risk. Results Among 55 316 individuals with a median follow-up time of 12 years, 429 cases of incident tuberculosis were identified. The annual mean baseline PM2.5 concentration was 34.5 μg/m3 (interquartile range: 28.7–39.2 μg/m3). After adjustment for age, sex, body mass index, cigarette smoking, alcohol use, education level, income, and tuberculosis history, the adjusted hazard ratio was 1.16 (95% confidence interval: 1.00–1.34) for every 10-μg/m3 increase in the PM2.5 level. The results of the restricted cubic spline Cox regression analysis revealed a potential nonlinear relationship (P for nonlinearity: .04), with the risk of tuberculosis increasing more rapidly when the annual mean concentration of PM2.5 exceeded 30 μg/m3. Conclusion In this large population-based cohort study, a positive association between PM2.5 and tuberculosis was observed, particularly at moderately high concentrations of PM2.5 exposure. These findings highlight the need for air-pollution control strategies to mitigate tuberculosis risk.</description>
-    </item>
-    <item>
-      <title>The race variable: how statistical practices reinforce inequality</title>
-      <link>https://doi.org/10.1093/ije/dyag128</link>
-      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
-
-      <dc:creator>Jason Gurney</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jason Gurney
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
     </item>
     <item>
       <title>Repeated sampling of different individuals within the same clusters to improve precision of longitudinal estimators: the DISC design</title>
@@ -205,6 +205,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag097
 
 Abstract: Abstract Background Severe maternal morbidity (SMM) is associated with adverse perinatal outcomes. However, its association with longer-term offspring outcomes, including neurodevelopment disorders, is poorly understood. This study aims to examine the association between SMM and the risk of epilepsy in offspring. Methods A retrospective birth cohort study of all singleton hospital births between 2002 and 2018 in Ontario, Canada was followed up until March 2020. SMM (20 weeks’ gestation to 42 days postpartum) and epilepsy diagnosed before 18 years of age in offspring were identified by using administrative health records. The risk of epilepsy associated with SMM was estimated by using Cox proportional hazard models and the robustness of the results was examined by using quantitative bias analyses (outcome and exposure misclassification and residual or unmeasured confounding). Results Of 2 060 668 children with a median follow-up time of 10 years, 40 830 (2%) were exposed to severe maternal morbidity and 16 992 (0.8%) were diagnosed with epilepsy (1.2% among those exposed to SMM and 0.8% among those unexposed). After adjustment for maternal, birth, and socioeconomic characteristics, children exposed to SMM had a 45% increased risk of epilepsy diagnosis compared with those unexposed [hazard ratio (HR) 1.45, 95% confidence interval (CI) 1.33–1.59]. This increase was similar across the subtypes of SMM. Estimates accounting for potential misclassification biases and residual or unmeasured confounding (by obesity or maternal education) showed increased risks (HR 1.91, 95% CI 1.50–2.42). Conclusion An increased risk of epilepsy was found in children exposed to SMM, suggesting a perinatal etiology and underlining the importance of ensuring a healthy pregnancy.</description>
+    </item>
+    <item>
+      <title>Cohort Profile: The Soweto and Thembelihle Health and Demographic Surveillance System (SaT-HDSS)</title>
+      <link>https://doi.org/10.1093/ije/dyag115</link>
+      <guid isPermaLink="false">10.1093/ije/dyag115</guid>
+
+      <dc:creator>Takwanisa Machemedze</dc:creator>
+      <dc:creator>Nqaba Mthimkhulu</dc:creator>
+      <dc:creator>Maite Morena</dc:creator>
+      <dc:creator>Maatla D Temane</dc:creator>
+      <dc:creator>Portia C Mutevedzi</dc:creator>
+      <dc:creator>Sana Mahtab</dc:creator>
+      <dc:creator>Daniel Ohene-Kwofie</dc:creator>
+      <dc:creator>Chodziwadziwa Whiteson Kabudula</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Takwanisa Machemedze, Nqaba Mthimkhulu, Maite Morena, Maatla D Temane, Portia C Mutevedzi, Sana Mahtab, Daniel Ohene-Kwofie, Chodziwadziwa Whiteson Kabudula, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag115</description>
     </item>
     <item>
       <title>Trends, determinants, and anthropometric consequences of low birthweight in Indian children: a prospective analysis of national data</title>
@@ -958,6 +976,20 @@ Abstract: Abstract Introduction Inorganic lead is a common occupational exposure
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag054</description>
     </item>
     <item>
+      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
+      <link>https://doi.org/10.1093/ije/dyag078</link>
+      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
+
+      <dc:creator>Andrea D Olmstead</dc:creator>
+      <dc:creator>Kayla McLean</dc:creator>
+      <dc:creator>Imelda S Wong</dc:creator>
+      <dc:creator>Xibiao Ye</dc:creator>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
+    </item>
+    <item>
       <title>Cohort Profile Update: The 1982 Pelotas (Brazil) Birth Cohort follow-up at 40 years</title>
       <link>https://doi.org/10.1093/ije/dyag075</link>
       <guid isPermaLink="false">10.1093/ije/dyag075</guid>
@@ -972,20 +1004,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
       <description>Authors: Bernardo L Horta, Fernando P Hartwig, Mariane da S. Dias, Riceli R Oliveira, Natália P Lima, Janaina V dos S. Motta
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag075</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
-      <link>https://doi.org/10.1093/ije/dyag078</link>
-      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
-
-      <dc:creator>Andrea D Olmstead</dc:creator>
-      <dc:creator>Kayla McLean</dc:creator>
-      <dc:creator>Imelda S Wong</dc:creator>
-      <dc:creator>Xibiao Ye</dc:creator>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
     </item>
     <item>
       <title>Why can’t epidemiology be automated (yet)? Perhaps it shouldn’t be</title>
@@ -1636,17 +1654,6 @@ Abstract: Abstract Introduction The relationship between kidney cancer and occup
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf205
 
 Abstract: Abstract Background Childhood exposure to air pollution has long-term effects on adult bronchitic symptoms, but the age windows of susceptibility are understudied. Methods We included 1444 participants from the Southern California Children’s Health Study, who were recruited at ages ∼9–10 years in 1992–1993 or 1995–1996 or ages ∼5–7 years in 2002–2003, followed until high-school graduation, and re-contacted again in adulthood (mean age = 33 years) to collect self-reported bronchitic symptoms. Yearly average nitrogen dioxide (NO2), 8-h maximum ground-level ozone (O3), and particulate matter of ≤10 µm in diameter (PM10) were estimated by using inverse-distance squared spatial interpolation to participants’ residential history from conception to age 16 years. Log Poisson Distributed Lag Models were fitted to identify susceptible windows of childhood exposure to air pollution on adult bronchitic symptoms adjusted for childhood and adult confounders. We explored sex-specific susceptible windows. Results We identified ages 1–2 years as a susceptible window in which NO2 exposure was associated with a higher risk of adult bronchitic symptoms, with the largest associations observed at age 1 year (risk ratio per 10 ppb = 1.12; 95% confidence interval: 1.01, 1.25). We observed both positive (ages 12–15 years) and inverse (ages 8–11 years) associations with O3 exposure. Suggestive evidence of increased risk at ages 3–4 years was observed for PM10. There was no evidence of sex differences. Conclusion Early childhood might be a particularly susceptible window of exposure to NO2 (ages 1–2 years) and possibly for PM10 (ages 3–4 years) for increased risk of adult bronchitic symptoms, while early adolescence (ages 12–15 years) might be a susceptible window for O3 exposure.</description>
-    </item>
-    <item>
-      <title>On ‘the joint impact of greenspace and air pollution on mortality’: methodological proposals</title>
-      <link>https://doi.org/10.1093/ije/dyaf224</link>
-      <guid isPermaLink="false">10.1093/ije/dyaf224</guid>
-
-      <dc:creator>Quan Zhang</dc:creator>
-      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Quan Zhang
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 1; Article number: dyaf224</description>
     </item>
   </channel>
 </rss>
