@@ -5,8 +5,21 @@
     <link>https://jamanetwork.com/journals/jama-health-forum</link>
     <description>Latest journal articles for JAMA Health Forum</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 08:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 08:28:48 +0000</lastBuildDate>
 
+    <item>
+      <title>Why Do We Hear More About High Drug Prices Than About Hospital Prices?</title>
+      <link>https://doi.org/10.1001/jamahealthforum.2026.3216</link>
+      <guid isPermaLink="false">10.1001/jamahealthforum.2026.3216</guid>
+
+      <dc:creator>Larry Levitt</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Larry Levitt
+
+Journal: JAMA Health Forum; Volume: 7; Issue: 7; Pages: e263216
+
+Abstract: This JAMA Forum discusses the potential reasons why high drug prices get more attention in US society than high hospital prices.</description>
+    </item>
     <item>
       <title>Eco-Focused Menu Labels on Full Meal Orders From Fast-Food Restaurants</title>
       <link>https://doi.org/10.1001/jamahealthforum.2026.2108</link>
@@ -1508,21 +1521,6 @@ Abstract: This JAMA Forum discusses the declining costs and use of diagnostic im
       <description>Authors: David J. Meyers
 
 Journal: JAMA Health Forum; Volume: 7; Issue: 3; Pages: e260333</description>
-    </item>
-    <item>
-      <title>Social Risk Adjustment and Bonus Eligibility in Medicare Advantage Star Ratings</title>
-      <link>https://doi.org/10.1001/jamahealthforum.2026.0326</link>
-      <guid isPermaLink="false">10.1001/jamahealthforum.2026.0326</guid>
-
-      <dc:creator>Andrew Anderson</dc:creator>
-      <dc:creator>Rajesh Satpathy-Horton</dc:creator>
-      <dc:creator>Mark K. Meiselbach</dc:creator>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrew Anderson, Rajesh Satpathy-Horton, Mark K. Meiselbach
-
-Journal: JAMA Health Forum; Volume: 7; Issue: 3; Pages: e260326
-
-Abstract: Importance The Medicare Advantage (MA) star ratings program determines eligibility for quality bonus payments that directly affect plan revenue, benefit generosity, and market competitiveness. To improve fairness, the Centers for Medicare &amp;amp;amp;amp; Medicaid Services (CMS) introduced the Categorical Adjustment Index (CAI) in 2017, which adjusts ratings based on enrollee social risk factors. How these adjustments have affected bonus eligibility for MA contracts over time remains unclear. Objective To assess the association between CAI adjustments and bonus eligibility in the MA star ratings program and assess whether the policy supports fair comparisons in performance measurement. Design, Setting, and Participants This retrospective cohort panel study included MA contracts with CMS star ratings data from 2014 to 2025, including at least 1 year before and after CAI implementation. Publicly available CMS files were used to merge contract-level CAI values and star ratings for overall, Part C, and Part D domains. Exposures Annual CAI value (range: −0.10 to 0.20), assigned to MA contracts based on its proportion of beneficiaries who are dually eligible for Medicare and Medicaid or receive a low-income subsidy and those with disability status. Main Outcomes and Measures Bonus eligibility, defined as an overall, Part C, or Part D star rating of 4.0 or higher. Fixed-effects linear regression models were used to assess the association between CAI value and bonus eligibility. Results Of 339 contracts between 2017 and 2025, 156 (46.0%) became bonus eligible at least once due to CAI adjustments, leading to 398 CAI-based bonus eligibility transitions. Each 0.10-point increase in CAI value was associated with a 0.16-point increase in bonus eligibility probability (β = 1.41; 95% CI, 0.64–2.18; P &amp;amp;amp;lt; .001). Contracts with the highest CAI values remained less likely to achieve bonus eligibility even after adjustment. Conclusions and Relevance The results of this study provide evidence on the potential role of CAI in MA contract performance; future research should assess whether alternative adjustment methods can create better comparisons of performance between MA contracts.</description>
     </item>
   </channel>
 </rss>

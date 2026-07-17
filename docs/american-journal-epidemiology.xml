@@ -5,8 +5,46 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 08:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 08:28:26 +0000</lastBuildDate>
 
+    <item>
+      <title>Time Trends in Susceptibility to Scams in Community-Dwelling Older Adults</title>
+      <link>https://doi.org/10.1093/aje/kwag168</link>
+      <guid isPermaLink="false">10.1093/aje/kwag168</guid>
+
+      <dc:creator>Lei Yu</dc:creator>
+      <dc:creator>Lianlian Du</dc:creator>
+      <dc:creator>Tianhao Wang</dc:creator>
+      <dc:creator>Gary Mottola</dc:creator>
+      <dc:creator>Christopher C Stewart</dc:creator>
+      <dc:creator>Peter A Lichtenberg</dc:creator>
+      <dc:creator>Francine Grodstein</dc:creator>
+      <dc:creator>David A Bennett</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Lei Yu, Lianlian Du, Tianhao Wang, Gary Mottola, Christopher C Stewart, Peter A Lichtenberg, Francine Grodstein, David A Bennett, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag168
+
+Abstract: Abstract This study examined the time trends of susceptibility to scams across 4 birth cohorts in the US that span between 1925 and 1944. Data came from community-dwelling older adults without dementia participating in an epidemiologic cohort study of aging and dementia. A 5-item instrument for scam susceptibility assessed participants’ scam related behaviors and perceptions, such as how they manage phone calls from telemarketers, and whether they agree with claims that are unrealistically good. To capture time trends, age- and education-standardized mean scam susceptibility score was computed for each birth cohort and compared across the cohorts. Of the 1037 participants included, 280 were born between 1925-1929, 248 between 1930-1934, 279 between 1935-1939, and 230 between 1940-1944. The mean scam susceptibility scores trended downward monotonically from the earliest to the most recent cohorts. The results are robust to age distributions, analytic approaches, or cognitive impairment status. In conclusion, older adults of more recent birth cohorts report fewer behaviors linked to scam susceptibility. This study suggests that scam susceptibility appears to be a function not only of individual-level factors but also reflective of shared life experiences. More broadly, scam susceptibility is amenable to interventions effective at the population level.</description>
+    </item>
+    <item>
+      <title>Roadmap for systematic identification and analysis of multiple biases in causal inference</title>
+      <link>https://doi.org/10.1093/aje/kwag166</link>
+      <guid isPermaLink="false">10.1093/aje/kwag166</guid>
+
+      <dc:creator>Rushani Wijesuriya</dc:creator>
+      <dc:creator>Rachael Hughes</dc:creator>
+      <dc:creator>John Carlin</dc:creator>
+      <dc:creator>Rachel L Peters</dc:creator>
+      <dc:creator>Jennifer J Koplin</dc:creator>
+      <dc:creator>Margarita Moreno-Betancur</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rushani Wijesuriya, Rachael Hughes, John Carlin, Rachel L Peters, Jennifer J Koplin, Margarita Moreno-Betancur
+
+Journal: American Journal of Epidemiology; Article number: kwag166
+
+Abstract: Abstract Observational studies examining causal effects rely on unverifiable assumptions, the violation of which can induce multiple biases. Quantitative bias analysis (QBA) methods examine the sensitivity of findings to such violations, generally, by producing estimates under alternative assumptions, incorporating additional information. Although substantial guidance exists for implementing QBA, there is limited guidance on how to systematically determine the assumptions underlying a primary causal analysis and the potential violations that should guide bias analysis. Consequently, many assumptions remain implicit, leading to selective and therefore misleading QBA. To address this gap, we propose a roadmap for systematically identifying and analysing multiple biases. Briefly, this consists of (i) articulating the assumptions underlying the primary analysis through specification of the “ideal trial” that defines the causal estimand and the assumptions required by its (possibly implicit) emulation, depicting these assumptions using a causal diagram; (ii) extending the diagram to depict alternative assumptions, under which biases may arise; (iii) obtaining a single estimate that simultaneously corrects for all potential biases. We illustrate the roadmap using an investigation of the effect of breastfeeding on risk of childhood asthma, and through simulations demonstrate the need for analysing multiple biases jointly rather than one at a time.</description>
+    </item>
     <item>
       <title>The complexities of comprehensive exams in epidemiology</title>
       <link>https://doi.org/10.1093/aje/kwag158</link>
@@ -1660,46 +1698,6 @@ Abstract: Abstract Two-way fixed effects (TWFE) models are increasingly applied 
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1689-1697
 
 Abstract: Abstract Identifying transmission events is important in understanding infectious disease dynamics. Such events are typically unobservable, particularly in respiratory diseases such as tuberculosis (TB). We apply network techniques to identify transmission clusters and features shared within clusters. We estimate directed pairwise transmission probabilities via an existing iterative algorithm that employs a modified Naïve Bayes classifier and use these probabilities to create a network. We explore noise reduction techniques to trim low-probability edges. We group individuals with TB based on edges informed by transmission probabilities via network clustering algorithms. We apply our framework to simulated data and assess clustering algorithm performance. We then apply this approach to data from a cohort study in Lima, Peru, and examine homogeneity of the clusters using a binary entropy measure. We find cluster performance to be consistent across all edge-trimming scenarios and clustering methods. We find high levels of entropy, implying heterogeneity for age, sex, socioeconomic status, individuals who work outside the home, and people using public transit. We analyze estimated directed pairwise transmission probabilities with network techniques. The approach is consistent across network construction and clustering methods and can be applied to any disease outbreak to understand its dynamics. This article is part of a Special Collection on Latino Health.</description>
-    </item>
-    <item>
-      <title>Harmonizing HIV-1 RNA laboratory measurements in a longitudinal cohort collaboration</title>
-      <link>https://doi.org/10.1093/aje/kwag056</link>
-      <guid isPermaLink="false">10.1093/aje/kwag056</guid>
-
-      <dc:creator>Jennifer S Lee</dc:creator>
-      <dc:creator>Elizabeth Humes</dc:creator>
-      <dc:creator>Nel Jason L Haw</dc:creator>
-      <dc:creator>Brenna Hogan</dc:creator>
-      <dc:creator>Chunyan Zheng</dc:creator>
-      <dc:creator>Sally Coburn</dc:creator>
-      <dc:creator>Catherine R Lesko</dc:creator>
-      <dc:creator>Raynell Lang</dc:creator>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jennifer S Lee, Elizabeth Humes, Nel Jason L Haw, Brenna Hogan, Chunyan Zheng, Sally Coburn, Catherine R Lesko, Raynell Lang, et al.
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 2055-2063
-
-Abstract: Abstract Plasma HIV-1 RNA viral loads (VLs) are measured via laboratory assays with changing lower limits of quantification over time. We described an approach to produce an analytic-ready dataset of VLs over time and across longitudinal cohorts of adults. A 3-step approach was used: (1) initial data cleaning, (2) data checking with visualization, and (3) final data cleaning. Assumptions, data-driven decisions, and information from cohort-specific data managers produce an analytic-ready dataset of VLs with minimal missing data for date of blood draw, HIV-1 RNA result (copies/mL), below the lower limit of quantification (BLLQ) indicator, and the lower limit of quantification (LLQ). Among 3 663 786 VLs from 186 990 participants (median number of VLs per participant = 12, interquartile range 4-27) measured from 1988 to 2021, 61% of VL records were harmonized via the 3-step approach. The proportion of VLs below the lower limit of quantification increased from 39% to 60% after application of this approach. Changes to LLQ, VL result, and BLLQ indicator variables were made to 45%, 36%, and 22% of VLs, respectively. Stated assumptions, visualized data distributions, and a documented approach to preparing an analytic-ready dataset of pooled individual-level longitudinal data revealed data idiosyncrasies, informed assumptions, and improved the data for research inference.</description>
-    </item>
-    <item>
-      <title>The PARLONSMAAT study: protocol for a participatory longitudinal study of the impacts of gender-affirming care among transgender and gender-diverse adolescents</title>
-      <link>https://doi.org/10.1093/aje/kwag066</link>
-      <guid isPermaLink="false">10.1093/aje/kwag066</guid>
-
-      <dc:creator>Kira London-Nadeau</dc:creator>
-      <dc:creator>Charlie Rioux</dc:creator>
-      <dc:creator>Lyne Chiniara</dc:creator>
-      <dc:creator>Anni Pullen Sansfaçon</dc:creator>
-      <dc:creator>Kévin Lavoie</dc:creator>
-      <dc:creator>Andréanne Jodoin</dc:creator>
-      <dc:creator>Claire Lefebvre</dc:creator>
-      <dc:creator>Rachel Scott</dc:creator>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kira London-Nadeau, Charlie Rioux, Lyne Chiniara, Anni Pullen Sansfaçon, Kévin Lavoie, Andréanne Jodoin, Claire Lefebvre, Rachel Scott, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag066
-
-Abstract: Abstract Transgender and gender diverse youth (TGDY) report high levels of distress. While access to gender affirming care is associated with improved well-being among TGDY, limited research has examined medium to long term outcomes of this care. The Participatory longitudinal study of the impacts of gender-affirming care among TGDY (PARLONSMAAT) will explore the characteristics, trajectories of care, and health and psychosocial outcomes into young adulthood of youth receiving services at a large Canadian interdisciplinary pediatric gender identity clinic, housed within a French language tertiary pediatric hospital center. Using a participatory research approach, we will conduct a single-center prospective cohort study. All new clinic patients will be eligible to participate, with rolling recruitment (estimate of 100 new participants/year). Self-reported questionnaires on gender, sexual orientation, mental health, well-being, and social support will be collected, in addition to medical records. PARLONSMAAT brings many novel design features to examining the impact of pediatric gender-affirming care, including a large prospective sample, a long-term follow-up into adulthood, integration of self-report and medical data, and participatory design for lived expertise. PARLONSMAAT will offer important insights around the impact and safety of gender-affirming care to improve clinical care and support better health outcomes among TGDY.</description>
     </item>
   </channel>
 </rss>

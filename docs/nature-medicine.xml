@@ -5,8 +5,67 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 08:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 08:29:03 +0000</lastBuildDate>
 
+    <item>
+      <title>Mining antigens for a universal malaria vaccine</title>
+      <link>https://doi.org/10.1038/d41591-026-00036-0</link>
+      <guid isPermaLink="false">10.1038/d41591-026-00036-0</guid>
+
+      <dc:creator>Karen O’Leary</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Karen O’Leary
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Author Correction: Integrated community-based HIV and sexual and reproductive health services for youth: a cluster-randomized trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04581-6</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04581-6</guid>
+
+      <dc:creator>Rashida A. Ferrand</dc:creator>
+      <dc:creator>Ethel Dauya</dc:creator>
+      <dc:creator>Chido Dziva Chikwari</dc:creator>
+      <dc:creator>Tsitsi Bandason</dc:creator>
+      <dc:creator>Sarah Bernays</dc:creator>
+      <dc:creator>Constance Mackworth-Young</dc:creator>
+      <dc:creator>Aoife M. Doyle</dc:creator>
+      <dc:creator>Chris Grundy</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rashida A. Ferrand, Ethel Dauya, Chido Dziva Chikwari, Tsitsi Bandason, Sarah Bernays, Constance Mackworth-Young, Aoife M. Doyle, Chris Grundy, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Englumafusp alfa plus glofitamab in B cell non-Hodgkin lymphoma: a phase 1 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04533-0</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04533-0</guid>
+
+      <dc:creator>Martin Hutchings</dc:creator>
+      <dc:creator>Michael Dickinson</dc:creator>
+      <dc:creator>Giuseppe Gritti</dc:creator>
+      <dc:creator>Carmelo Carlo-Stella</dc:creator>
+      <dc:creator>William Townsend</dc:creator>
+      <dc:creator>Francesc Bosch</dc:creator>
+      <dc:creator>Nancy L. Bartlett</dc:creator>
+      <dc:creator>Guillaume Cartron</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Martin Hutchings, Michael Dickinson, Giuseppe Gritti, Carmelo Carlo-Stella, William Townsend, Francesc Bosch, Nancy L. Bartlett, Guillaume Cartron, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Author Correction: Evolution of claudin18.2 therapies in gastroesophageal cancers</title>
+      <link>https://doi.org/10.1038/s41591-026-04569-2</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04569-2</guid>
+
+      <dc:creator>Samuel J. Klempner</dc:creator>
+      <dc:creator>Raghav Sundar</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Samuel J. Klempner, Raghav Sundar
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>Studying vanishing dietary diversity before it is lost: the World Diet Initiative</title>
       <link>https://doi.org/10.1038/s41591-026-04520-5</link>
@@ -22,24 +81,6 @@
       <dc:creator>Tania O. Crișan</dc:creator>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Quirijn de Mast, Carly V. Brown, Felistar Mwakasungura, Damalie Nakanjako, Godfrey S. Temba, Vinod Kumar, Adriyan Pramono, Tania O. Crișan, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Oligonucleotide–siRNA conjugate for SOD1 amyotrophic lateral sclerosis: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04491-7</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04491-7</guid>
-
-      <dc:creator>Weiqi Chen</dc:creator>
-      <dc:creator>Lingling Jiang</dc:creator>
-      <dc:creator>Chunling Duan</dc:creator>
-      <dc:creator>Moorim Kang</dc:creator>
-      <dc:creator>Jinyi Ye</dc:creator>
-      <dc:creator>Ling Wang</dc:creator>
-      <dc:creator>Yuesong Pan</dc:creator>
-      <dc:creator>Hui Qu</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Weiqi Chen, Lingling Jiang, Chunling Duan, Moorim Kang, Jinyi Ye, Ling Wang, Yuesong Pan, Hui Qu, et al.
 
 Journal: Nature Medicine</description>
     </item>
@@ -165,24 +206,6 @@ Journal: Nature Medicine
 Abstract: Abstract Frontier artificial intelligence (AI) models have advanced rapidly through training on internet-scale public data, yet such systems lack access to private clinical data. Neuroimaging is underrepresented in the public domain due to identifiable facial features within magnetic resonance imaging (MRI) and computed tomography (CT) scans, restricting model performance in clinical medicine. Here we show that frontier models underperform on neuroimaging tasks and that learning directly from uncurated data generated during routine clinical care at health systems, a paradigm we call ‘health system learning’, yields high-performance, generalist neuroimaging models. We introduce NeuroVFM, a visual foundation model trained on 5.24 million clinical MRI and CT volumes using a scalable volumetric predictive architecture. NeuroVFM learns comprehensive representations of brain anatomy and pathology, achieving state-of-the-art performance across multiple clinical tasks, including radiologic diagnosis and report generation. The model embeds MRI and CT scans into a shared neuroanatomic latent space and grounds diagnostic findings. When paired with open-source language models, NeuroVFM generates radiology reports that surpass frontier models in accuracy, clinical triage and expert preference. NeuroVFM reduces hallucinated findings and critical errors, offering safer clinical decision support. These results establish health system learning as a paradigm for building generalist medical AI and provide a scalable framework for clinical foundation models.</description>
     </item>
     <item>
-      <title>Anti-LAG-3 with or without anti-PD-1 in recurrent glioblastoma: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04475-7</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04475-7</guid>
-
-      <dc:creator>Michael Lim</dc:creator>
-      <dc:creator>Xiaobu Ye</dc:creator>
-      <dc:creator>Anna F. Piotrowski</dc:creator>
-      <dc:creator>Arati Desai</dc:creator>
-      <dc:creator>Manmeet S. Ahluwalia</dc:creator>
-      <dc:creator>Tobias Walbert</dc:creator>
-      <dc:creator>Glenn Lesser</dc:creator>
-      <dc:creator>Benjamin M. Ellingson</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Michael Lim, Xiaobu Ye, Anna F. Piotrowski, Arati Desai, Manmeet S. Ahluwalia, Tobias Walbert, Glenn Lesser, Benjamin M. Ellingson, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>KRAS-G12D inhibitor HRS-4642 plus chemotherapy in advanced KRASG12D-mutant pancreatic cancer: a phase 1b/2 trial</title>
       <link>https://doi.org/10.1038/s41591-026-04538-9</link>
       <guid isPermaLink="false">10.1038/s41591-026-04538-9</guid>
@@ -219,29 +242,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine
 
 Abstract: Abstract Parkinson’s disease (PD) is characterized by progressive loss of nigral dopaminergic neurons, resulting in disabling motor symptoms. Intracerebral transplantation of stem cell-derived dopaminergic progenitors to replace lost endogenous dopaminergic neurons offers a new potentially restorative therapeutic approach for PD. Here we report the 12-month primary safety end point and interim efficacy outcomes from a phase 1/2, open-label, multicenter trial evaluating STEM-PD, a cryopreserved, off-the-shelf dopaminergic progenitor product derived from human pluripotent stem cells. Eight individuals with moderate PD underwent bilateral intraputaminal transplantation at two escalating doses ( n = 4 per cohort), followed by 12 months of immunosuppression. Seven participants completed 12-month follow-up; one participant died from a pulmonary infection. No serious adverse events were attributed to the cell product, no graft-induced dyskinesias were observed and serial magnetic resonance imaging showed no evidence of tumor formation. These findings support the feasibility and favorable safety profile of human pluripotent stem cell-derived dopaminergic progenitor transplantation in this early-phase study, with risks primarily associated with the immunosuppression regimen. Ongoing follow-up to 36 months will further evaluate durability, clinical outcomes and graft function. ClinicalTrials.gov identifier: NCT05635409 .</description>
-    </item>
-    <item>
-      <title>Biological aging clocks in health and disease</title>
-      <link>https://doi.org/10.1038/s41591-026-04495-3</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04495-3</guid>
-
-      <dc:creator>Tony Wyss-Coray</dc:creator>
-      <dc:creator>Eric J. Topol</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tony Wyss-Coray, Eric J. Topol
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>When the real world becomes the trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04484-6</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04484-6</guid>
-
-      <dc:creator>Marianne Guenot</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marianne Guenot
-
-Journal: Nature Medicine</description>
     </item>
     <item>
       <title>A second chance for gene therapy to restore natural hearing</title>
@@ -291,52 +291,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>Oncology must confront hidden side effects</title>
-      <link>https://doi.org/10.1038/s41591-026-04554-9</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04554-9</guid>
-
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Bispecific 10E8.4/iMab broadly neutralizing antibody in people with or without HIV-1: a partially randomized phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04472-w</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04472-w</guid>
-
-      <dc:creator>Deborah A. Theodore</dc:creator>
-      <dc:creator>Bryan T. Mayer</dc:creator>
-      <dc:creator>Charlotte-Paige Rolle</dc:creator>
-      <dc:creator>Edwin DeJesus</dc:creator>
-      <dc:creator>Margaret E. Ackerman</dc:creator>
-      <dc:creator>Michael S. Seaman</dc:creator>
-      <dc:creator>Joshua Alex Weiner</dc:creator>
-      <dc:creator>Hiroshi Mohri</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Deborah A. Theodore, Bryan T. Mayer, Charlotte-Paige Rolle, Edwin DeJesus, Margaret E. Ackerman, Michael S. Seaman, Joshua Alex Weiner, Hiroshi Mohri, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Broadly neutralizing antibodies (bnAbs) are a promising tool for HIV prevention and treatment. Here we conducted a first-in-human, phase 1 trial of the bispecific 10E8.4/iMab antibody, which consists of a 10E8.4 arm binding the HIV-1 envelope glycoprotein membrane-proximal external region and an ibalizumab (iMab) arm binding the human CD4 molecule. 10E8.4/iMab was administered intravenously (IV) or subcutaneously (SC). Safety/tolerability within 2 weeks of 10E8.4/iMab administration (primary outcome) and the pharmacokinetics (PK), antiviral activity, induction of anti-10E8.4/iMab antibodies, longitudinal CD4 + and CD8 + T cell counts and long-term safety (secondary outcomes) were evaluated. 54 participants living with HIV (PLWH) or without HIV (PLWoH) received 10E8.4/iMab or placebo. In arm 1, PLWoH received 10E8.4/iMab 0.3 mg kg −1 IV, 1 mg kg −1 SC, or 1 mg kg −1 IV ( n = 3 each). In arm 2, PLWoH received 10E8.4/iMab 3 mg kg −1 IV, 10 mg kg −1 IV or 30 mg kg −1 IV ( n = 6 each). In arms 3/3a, PLWH received 10E8.4/iMab 10 mg kg −1 IV ( n = 3) or 30 mg kg −1 IV ( n = 6). In arm 4, PLWoH were randomized to receive 10E8.4/iMab or placebo 2.5 mg kg −1 SC or 10 mg kg −1 SC ( n = 9 each). Participants in arms 1–3 were not randomized. No treatment-related serious adverse events (AEs) or AEs ≥ grade 3 were reported. The most common solicited AEs were tenderness (10/54, 18.5%), fatigue (18/54, 33.3%) and headache (12/54, 22.2%). Related grade 2 local and systemic solicited AEs occurred in one and six participants, respectively. Three of nine PLWH developed a generalized rash 8–12 days after infusion that resolved within 9–16 days. The primary objective of the study to evaluate the safety/tolerability of 10E8.4/iMab was met. These data support further study of 10E8.4/iMab to expand HIV treatment and prevention options. ClinicalTrials.gov: NCT03875209 .</description>
-    </item>
-    <item>
-      <title>Spatiotemporal diffusion of the 2024 Oropouche outbreak in Cuba</title>
-      <link>https://doi.org/10.1038/s41591-026-04411-9</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04411-9</guid>
-
-      <dc:creator>Rosario Gravier</dc:creator>
-      <dc:creator>Melissa M. Perez</dc:creator>
-      <dc:creator>Mayling Álvarez</dc:creator>
-      <dc:creator>Lissette Pérez</dc:creator>
-      <dc:creator>Ana J. Benítez</dc:creator>
-      <dc:creator>Denelsys Hernández</dc:creator>
-      <dc:creator>Silvia Serrano</dc:creator>
-      <dc:creator>José Raúl de Armas</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Rosario Gravier, Melissa M. Perez, Mayling Álvarez, Lissette Pérez, Ana J. Benítez, Denelsys Hernández, Silvia Serrano, José Raúl de Armas, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>Longitudinal multiomics profiling of extracorporeal cross-circulation with pig liver xenografts in human decedents</title>
       <link>https://doi.org/10.1038/s41591-026-04511-6</link>
       <guid isPermaLink="false">10.1038/s41591-026-04511-6</guid>
@@ -355,24 +309,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>Author Correction: Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04551-y</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04551-y</guid>
-
-      <dc:creator>Marc S. Raab</dc:creator>
-      <dc:creator>Niels Weinhold</dc:creator>
-      <dc:creator>K. Martin Kortüm</dc:creator>
-      <dc:creator>Jan Krönke</dc:creator>
-      <dc:creator>Roland Fenk</dc:creator>
-      <dc:creator>Katja Weisel</dc:creator>
-      <dc:creator>Lilli Podola</dc:creator>
-      <dc:creator>Uta Bertsch</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marc S. Raab, Niels Weinhold, K. Martin Kortüm, Jan Krönke, Roland Fenk, Katja Weisel, Lilli Podola, Uta Bertsch, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>Data rights are the missing pillar for modernizing consent in medicine</title>
       <link>https://doi.org/10.1038/s41591-026-04506-3</link>
       <guid isPermaLink="false">10.1038/s41591-026-04506-3</guid>
@@ -380,35 +316,6 @@ Journal: Nature Medicine</description>
       <dc:creator>Nada S. Salem</dc:creator>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Nada S. Salem
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Lassa fever countermeasures gather pace</title>
-      <link>https://doi.org/10.1038/s41591-026-04478-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04478-4</guid>
-
-      <dc:creator>Daniel Jenkin</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Daniel Jenkin
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Immune aging biomarkers for clinical trials</title>
-      <link>https://doi.org/10.1038/s41591-026-04493-5</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04493-5</guid>
-
-      <dc:creator>Andrea Cipriano</dc:creator>
-      <dc:creator>Jamie Justice</dc:creator>
-      <dc:creator>Jesse R. Poganik</dc:creator>
-      <dc:creator>Mahdi Moqri</dc:creator>
-      <dc:creator>Omar O. Abudayyeh</dc:creator>
-      <dc:creator>Jonathan Gootenberg</dc:creator>
-      <dc:creator>Laura Haynes</dc:creator>
-      <dc:creator>Yotam Levin</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrea Cipriano, Jamie Justice, Jesse R. Poganik, Mahdi Moqri, Omar O. Abudayyeh, Jonathan Gootenberg, Laura Haynes, Yotam Levin, et al.
 
 Journal: Nature Medicine</description>
     </item>
@@ -465,6 +372,55 @@ Journal: Nature Medicine</description>
       <description>Journal: Nature Medicine</description>
     </item>
     <item>
+      <title>Lassa fever countermeasures gather pace</title>
+      <link>https://doi.org/10.1038/s41591-026-04478-4</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04478-4</guid>
+
+      <dc:creator>Daniel Jenkin</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Daniel Jenkin
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2360-2361</description>
+    </item>
+    <item>
+      <title>Bispecific 10E8.4/iMab broadly neutralizing antibody in people with or without HIV-1: a partially randomized phase 1 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04472-w</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04472-w</guid>
+
+      <dc:creator>Deborah A. Theodore</dc:creator>
+      <dc:creator>Bryan T. Mayer</dc:creator>
+      <dc:creator>Charlotte-Paige Rolle</dc:creator>
+      <dc:creator>Edwin DeJesus</dc:creator>
+      <dc:creator>Margaret E. Ackerman</dc:creator>
+      <dc:creator>Michael S. Seaman</dc:creator>
+      <dc:creator>Joshua Alex Weiner</dc:creator>
+      <dc:creator>Hiroshi Mohri</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Deborah A. Theodore, Bryan T. Mayer, Charlotte-Paige Rolle, Edwin DeJesus, Margaret E. Ackerman, Michael S. Seaman, Joshua Alex Weiner, Hiroshi Mohri, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2533-2545
+
+Abstract: Abstract Broadly neutralizing antibodies (bnAbs) are a promising tool for HIV prevention and treatment. Here we conducted a first-in-human, phase 1 trial of the bispecific 10E8.4/iMab antibody, which consists of a 10E8.4 arm binding the HIV-1 envelope glycoprotein membrane-proximal external region and an ibalizumab (iMab) arm binding the human CD4 molecule. 10E8.4/iMab was administered intravenously (IV) or subcutaneously (SC). Safety/tolerability within 2 weeks of 10E8.4/iMab administration (primary outcome) and the pharmacokinetics (PK), antiviral activity, induction of anti-10E8.4/iMab antibodies, longitudinal CD4 + and CD8 + T cell counts and long-term safety (secondary outcomes) were evaluated. 54 participants living with HIV (PLWH) or without HIV (PLWoH) received 10E8.4/iMab or placebo. In arm 1, PLWoH received 10E8.4/iMab 0.3 mg kg −1 IV, 1 mg kg −1 SC, or 1 mg kg −1 IV ( n = 3 each). In arm 2, PLWoH received 10E8.4/iMab 3 mg kg −1 IV, 10 mg kg −1 IV or 30 mg kg −1 IV ( n = 6 each). In arms 3/3a, PLWH received 10E8.4/iMab 10 mg kg −1 IV ( n = 3) or 30 mg kg −1 IV ( n = 6). In arm 4, PLWoH were randomized to receive 10E8.4/iMab or placebo 2.5 mg kg −1 SC or 10 mg kg −1 SC ( n = 9 each). Participants in arms 1–3 were not randomized. No treatment-related serious adverse events (AEs) or AEs ≥ grade 3 were reported. The most common solicited AEs were tenderness (10/54, 18.5%), fatigue (18/54, 33.3%) and headache (12/54, 22.2%). Related grade 2 local and systemic solicited AEs occurred in one and six participants, respectively. Three of nine PLWH developed a generalized rash 8–12 days after infusion that resolved within 9–16 days. The primary objective of the study to evaluate the safety/tolerability of 10E8.4/iMab was met. These data support further study of 10E8.4/iMab to expand HIV treatment and prevention options. ClinicalTrials.gov: NCT03875209 .</description>
+    </item>
+    <item>
+      <title>Anti-LAG-3 with or without anti-PD-1 in recurrent glioblastoma: a phase 1 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04475-7</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04475-7</guid>
+
+      <dc:creator>Michael Lim</dc:creator>
+      <dc:creator>Xiaobu Ye</dc:creator>
+      <dc:creator>Anna F. Piotrowski</dc:creator>
+      <dc:creator>Arati Desai</dc:creator>
+      <dc:creator>Manmeet S. Ahluwalia</dc:creator>
+      <dc:creator>Tobias Walbert</dc:creator>
+      <dc:creator>Glenn Lesser</dc:creator>
+      <dc:creator>Benjamin M. Ellingson</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michael Lim, Xiaobu Ye, Anna F. Piotrowski, Arati Desai, Manmeet S. Ahluwalia, Tobias Walbert, Glenn Lesser, Benjamin M. Ellingson, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2449-2460</description>
+    </item>
+    <item>
       <title>A meta-analysis of the long-term effects of antihypertensive therapy on the risk of major cardiovascular disease across 51 randomized trials</title>
       <link>https://doi.org/10.1038/s41591-026-04514-3</link>
       <guid isPermaLink="false">10.1038/s41591-026-04514-3</guid>
@@ -503,6 +459,60 @@ Abstract: Abstract Blood pressure (BP)-lowering therapy reduces cardiovascular r
 Journal: Nature Medicine</description>
     </item>
     <item>
+      <title>Spatiotemporal diffusion of the 2024 Oropouche outbreak in Cuba</title>
+      <link>https://doi.org/10.1038/s41591-026-04411-9</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04411-9</guid>
+
+      <dc:creator>Rosario Gravier</dc:creator>
+      <dc:creator>Melissa M. Perez</dc:creator>
+      <dc:creator>Mayling Álvarez</dc:creator>
+      <dc:creator>Lissette Pérez</dc:creator>
+      <dc:creator>Ana J. Benítez</dc:creator>
+      <dc:creator>Denelsys Hernández</dc:creator>
+      <dc:creator>Silvia Serrano</dc:creator>
+      <dc:creator>José Raúl de Armas</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rosario Gravier, Melissa M. Perez, Mayling Álvarez, Lissette Pérez, Ana J. Benítez, Denelsys Hernández, Silvia Serrano, José Raúl de Armas, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2401-2404</description>
+    </item>
+    <item>
+      <title>Author Correction: Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04551-y</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04551-y</guid>
+
+      <dc:creator>Marc S. Raab</dc:creator>
+      <dc:creator>Niels Weinhold</dc:creator>
+      <dc:creator>K. Martin Kortüm</dc:creator>
+      <dc:creator>Jan Krönke</dc:creator>
+      <dc:creator>Roland Fenk</dc:creator>
+      <dc:creator>Katja Weisel</dc:creator>
+      <dc:creator>Lilli Podola</dc:creator>
+      <dc:creator>Uta Bertsch</dc:creator>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marc S. Raab, Niels Weinhold, K. Martin Kortüm, Jan Krönke, Roland Fenk, Katja Weisel, Lilli Podola, Uta Bertsch, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2688-2688</description>
+    </item>
+    <item>
+      <title>Immune aging biomarkers for clinical trials</title>
+      <link>https://doi.org/10.1038/s41591-026-04493-5</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04493-5</guid>
+
+      <dc:creator>Andrea Cipriano</dc:creator>
+      <dc:creator>Jamie Justice</dc:creator>
+      <dc:creator>Jesse R. Poganik</dc:creator>
+      <dc:creator>Mahdi Moqri</dc:creator>
+      <dc:creator>Omar O. Abudayyeh</dc:creator>
+      <dc:creator>Jonathan Gootenberg</dc:creator>
+      <dc:creator>Laura Haynes</dc:creator>
+      <dc:creator>Yotam Levin</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrea Cipriano, Jamie Justice, Jesse R. Poganik, Mahdi Moqri, Omar O. Abudayyeh, Jonathan Gootenberg, Laura Haynes, Yotam Levin, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2368-2382</description>
+    </item>
+    <item>
       <title>Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection</title>
       <link>https://doi.org/10.1038/s41591-026-04483-7</link>
       <guid isPermaLink="false">10.1038/s41591-026-04483-7</guid>
@@ -518,9 +528,78 @@ Journal: Nature Medicine</description>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Loukas Papargyris, Jiayun Xu, Claire Broderick, Ao Huang, Trupti Gore, Arnold Reynaldi, Pete Dayananda, Ashley M. Collins, et al.
 
-Journal: Nature Medicine
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2556-2569
 
 Abstract: Abstract Controlled human influenza infection studies can uniquely interrogate the early immune factors associated with clinical outcome. In this study, 27 healthy volunteers with low strain-specific serum neutralizing antibody levels were challenged with influenza A/H3N2 virus. Twenty-two became infected, with 18 developing mild-to-moderate symptoms and four remaining asymptomatic. Local and systemic immune profiling revealed innate pathways that engaged more rapidly and to a higher level in symptomatic participants. Earlier monocyte and dendritic cell activation correlated with higher symptom scores but also enhanced natural killer and CD8 + T cell activation thereafter. At baseline, peripheral blood mononuclear cells from symptomatic participants were more responsive to in vitro challenge, indicating a predisposition to divergent immunological outcomes at the time of virus exposure that was subsequently modulated by infection. These results show that human innate cell responsiveness is a predeterminant of both symptomatic disease and cellular immune responses known to promote viral clearance, suggesting potential targets for therapeutic intervention if decoupled.</description>
+    </item>
+    <item>
+      <title>Oligonucleotide–siRNA conjugate for SOD1 amyotrophic lateral sclerosis: a phase 1 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04491-7</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04491-7</guid>
+
+      <dc:creator>Weiqi Chen</dc:creator>
+      <dc:creator>Lingling Jiang</dc:creator>
+      <dc:creator>Chunling Duan</dc:creator>
+      <dc:creator>Moorim Kang</dc:creator>
+      <dc:creator>Jinyi Ye</dc:creator>
+      <dc:creator>Ling Wang</dc:creator>
+      <dc:creator>Yuesong Pan</dc:creator>
+      <dc:creator>Hui Qu</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Weiqi Chen, Lingling Jiang, Chunling Duan, Moorim Kang, Jinyi Ye, Ling Wang, Yuesong Pan, Hui Qu, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2619-2628</description>
+    </item>
+    <item>
+      <title>Biological aging clocks in health and disease</title>
+      <link>https://doi.org/10.1038/s41591-026-04495-3</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04495-3</guid>
+
+      <dc:creator>Tony Wyss-Coray</dc:creator>
+      <dc:creator>Eric J. Topol</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tony Wyss-Coray, Eric J. Topol
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2383-2394</description>
+    </item>
+    <item>
+      <title>A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia</title>
+      <link>https://doi.org/10.1038/s41591-026-04498-0</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04498-0</guid>
+
+      <dc:creator>Santosh Chandrasekaran</dc:creator>
+      <dc:creator>Sarah K. Wandelt</dc:creator>
+      <dc:creator>Aniket Jangam</dc:creator>
+      <dc:creator>Zeev Elias</dc:creator>
+      <dc:creator>Erona Ibroci</dc:creator>
+      <dc:creator>Christina Maffei</dc:creator>
+      <dc:creator>Isabelle A. Rosenthal</dc:creator>
+      <dc:creator>Richard Ramdeo</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Santosh Chandrasekaran, Sarah K. Wandelt, Aniket Jangam, Zeev Elias, Erona Ibroci, Christina Maffei, Isabelle A. Rosenthal, Richard Ramdeo, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2591-2601
+
+Abstract: Abstract Millions of people worldwide are living with movement and sensory impairments owing to spinal cord injury, stroke and other neurological conditions. Here we report a double neural bypass (DNB), a hybrid neuroprosthetic system designed to restore both immediate and lasting gains in movement and sensation after a severe, complete spinal cord injury. The DNB links an intracortical brain–computer interface with targeted and patterned neuromodulation of the spinal cord and cortex. This allows brain signals associated with movement intention to directly control the movement of the user’s own hand in real time while also promoting long-term sensorimotor recovery—even after the system is turned off. The DNB system uses recurrent artificial neural networks and reinforcement learning for fine grasp control, together with patterned spinal cord stimulation and activity-informed intracortical microstimulation (‘cortical mirroring’) to promote neuroplasticity and durable recovery of function. In a participant with chronic C4 sensory/C5 motor complete tetraplegia, this hybrid approach enabled recovery of functional abilities including self-feeding and manipulation of delicate objects, while also producing significant and persistent improvements in elbow flexion and wrist tactile sensation. These findings demonstrate the potential of combining a sensorimotor neuroprosthesis with targeted brain and spinal neuromodulation to restore clinically relevant function in severe paralysis.</description>
+    </item>
+    <item>
+      <title>When the real world becomes the trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04484-6</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04484-6</guid>
+
+      <dc:creator>Marianne Guenot</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marianne Guenot
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2324-2327</description>
+    </item>
+    <item>
+      <title>Oncology must confront hidden side effects</title>
+      <link>https://doi.org/10.1038/s41591-026-04554-9</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04554-9</guid>
+
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2321-2321</description>
     </item>
     <item>
       <title>Multi-antigen-targeting T cells in pediatric central nervous system tumors: a phase 1 trial</title>
@@ -538,7 +617,7 @@ Abstract: Abstract Controlled human influenza infection studies can uniquely int
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Stephanie Gomez, Rachel A. DiCioccio, Ashley E. Geiger, Melanie L. Grant, Emily Reynolds, Anushree Datar, Chase D. McCann, Jay Tanna, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2481-2493</description>
     </item>
     <item>
       <title>Author Correction: Digital AVATAR therapy for distressing voices in psychosis: the phase 2/3 AVATAR2 trial</title>
@@ -556,7 +635,7 @@ Journal: Nature Medicine</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Philippa A. Garety, Clementine J. Edwards, Hassan Jafari, Richard Emsley, Mark Huckvale, Mar Rus-Calafell, Miriam Fornells-Ambrojo, Andrew Gumley, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2689-2689</description>
     </item>
     <item>
       <title>Clinical decision support in hematological malignancies using a case-grounded AI agent</title>
@@ -719,7 +798,7 @@ Abstract: Abstract Rigorous evidence on the performance of large language models
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Peter C. Kahr, Fabian aus dem Siepen, Olivier Lairez, Erwan Donal, Thibaud Damy, Arnt V. Kristen, Cristina C. Quarta, Michele F. Mercuri, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2639-2646</description>
     </item>
     <item>
       <title>Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling</title>
@@ -755,7 +834,7 @@ Journal: Nature Medicine</description>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Alex De Caluwé, Isabelle Desmoulins, Kim Cao, Vincent Remouchamps, Adinda Baten, Eleonore Longton, Karine Peignaux, Andrea Joaquin Garcia, et al.
 
-Journal: Nature Medicine
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2461-2472
 
 Abstract: Abstract Patients with estrogen receptor-positive (ER + ), HER2-negative, early breast cancer (BC) have low pathologic complete response (pCR) rates following neoadjuvant chemotherapy. Immune checkpoint inhibitors (ICIs) provide limited benefit in programmed death-ligand 1 (PD-L1)-negative tumors, characterized by an immune-cold tumor microenvironment. Here we hypothesized that immune-modulating stereotactic body radiation therapy (iSBRT; 3 × 8 Gy) could enhance response through tumor microenvironment reprogramming, and that CD73 blockade could further improve efficacy. We conducted a phase 2, randomized, multicenter trial (Neo-CheckRay) in 147 female patients with high-risk, ER + HER2 − early BC. Patients received neoadjuvant chemotherapy plus iSBRT alone (No_ICI), with anti-PD-L1 durvalumab (Single_ICI) or with durvalumab plus anti-CD73 oleclumab (Double_ICI). In the intention-to-treat population, the primary endpoint, residual cancer burden 0/1 rate, was 35.4% with No_ICI, 45.1% with Single_ICI and 47.9% with Double_ICI, without statistically significant differences. pCR rates were 16.7%, 29.4% and 33.3%, respectively ( P = 0.059). In the per-protocol population (MammaPrint High Risk, n = 131), pCR rates were 16.3%, 32.6% and 35.6%, respectively ( P = 0.040). Among PD-L1-negative tumors ( n = 91), pCR rates were 3.4%, 28.1% and 30.0%, respectively. No new safety signals were observed. Baseline transcriptomic analysis showed low immune signature expression in PD-L1-negative tumors. Paired baseline and on-treatment biopsies obtained 1 week after iSBRT demonstrated tumor microenvironment reprogramming toward an inflamed phenotype in the iSBRT + anti-PD-L1 arms. These findings suggest that iSBRT + anti-PD-L1 may convert immune-cold ER + HER2 − BC into more inflamed tumors and improve response, particularly in PD-L1-negative disease. ClinicalTrials.gov registration: NCT03875573 .</description>
     </item>
@@ -775,7 +854,7 @@ Abstract: Abstract Patients with estrogen receptor-positive (ER + ), HER2-negati
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Marc S. Raab, Niels Weinhold, K. Martin Kortüm, Jan Krönke, Roland Fenk, Katja Weisel, Lilli Podola, Uta Bertsch, et al.
 
-Journal: Nature Medicine
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2440-2448
 
 Abstract: Abstract Advancements in frontline therapies have substantially improved outcomes in newly diagnosed multiple myeloma (NDMM); however, many patients will not achieve deep responses and will relapse. Teclistamab, a BCMA×CD3 bispecific antibody, in combination with daratumumab, has demonstrated strong efficacy in relapsed/refractory multiple myeloma versus standard of care as early as first relapse. This ongoing phase 2 GMMG-HD10/DSMM-XX (MajesTEC-5) study evaluates teclistamab-based regimens in transplant-eligible NDMM. In this prespecified pooled analysis of three cohorts, 49 patients received teclistamab/daratumumab/lenalidomide (Tec-DR; arms A and A1) or Tec-DR with bortezomib (Tec-DVR; arm B). Primary endpoints were incidence and severity of adverse events (AEs) and serious AEs; secondary endpoints included overall response rate (ORR), minimal residual disease (MRD) negativity and MRD-negative complete response (CR). The current analysis spans the induction and autologous stem cell transplantation phases until the premaintenance timepoint. Grade 3 or 4 treatment-emergent AEs (TEAEs) occurred in 91.8% (45/49); most were hematologic (lymphopenia (59.2%; 29/49), neutropenia (59.2%; 29/49) and leukopenia (18.4%; 9/49)). No grade 5 TEAEs were reported. Serious AEs occurred in 55.1% (27/49); pyrexia (12.2% (6/49)) was most common. Any-grade and grade 3 or 4 infections occurred in 81.6% (40/49) and 36.7% (18/49), respectively, the most common grade 3 or 4 infections being COVID-19 and pneumonia (6.1% (3/49) each). Cytokine release syndrome occurred in 67.3% (33/49); all were grade 1 or 2, all resolved and none led to discontinuation of any study treatment. No treatment-related immune effector cell-associated neurotoxicity syndrome (ICANS) events occurred. Across arms, the MRD-negative CR rate was 91.8% (45/49) by the premaintenance timepoint; the MRD negativity rate was 100% in evaluable samples at postinduction cycle 3 (1 × 10 −5 (46/46)), cycle 6 (1 × 10 −5 (46/46) and 1 × 10 −6 (46/46)) and premaintenance (1 × 10 −5 (40/40)); the ORR was 100% (49/49). Total median stem cell yield was 8.1 × 10 6 per kg. Data support the feasibility of Tec-D(V)R induction in transplant-eligible NDMM, with a consistent safety profile compared with individual regimen components and notable early MRD negativity rates. ClinicalTrials.gov identifier: NCT05695508 .</description>
     </item>
@@ -806,7 +885,7 @@ Journal: Nature Medicine</description>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Zhe Huang, Liang Zeng, Zhaohui Ruan, Qun Zeng, Huan Yan, Wenjuan Jiang, Yi Xiong, Chunhua Zhou, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2691-2691</description>
     </item>
     <item>
       <title>Publisher Correction: Oral small molecule GLP-1 receptor agonist aleniglipron in people with overweight or obesity: a randomized, double-blind, placebo-controlled phase 2b trial</title>
@@ -871,7 +950,7 @@ Journal: Nature Medicine</description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: W. Timothy Garvey
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2362-2363</description>
     </item>
     <item>
       <title>PROTEUS trial heralds perioperative therapy for prostate cancer</title>
@@ -894,7 +973,7 @@ Journal: Nature Medicine</description>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Mahdi Sheikh, Pamela M. Ling
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2356-2357</description>
     </item>
     <item>
       <title>Biological aging and generational shifts in early-onset cancer risk</title>
@@ -932,7 +1011,7 @@ Abstract: Abstract Incidence of early-onset cancer is rising globally in recent 
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Heidi S. Hartman, Joshua Finer, Dustin Hartzel, Christopher Kelsey, Aaron Long, Daniel Rocha, Jeffrey A. Ruhl, David vanMaanen, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2333-2334</description>
     </item>
     <item>
       <title>Author Correction: MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial</title>
@@ -969,7 +1048,7 @@ Journal: Nature Medicine</description>
       <guid isPermaLink="false">10.1038/s41591-026-04457-9</guid>
 
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2364-2365</description>
     </item>
     <item>
       <title>CAR T cells take on precancers</title>
@@ -981,7 +1060,7 @@ Journal: Nature Medicine</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Eric M. Jurgens, Sham Mailankody
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2358-2359</description>
     </item>
     <item>
       <title>Engineered heart muscle passes early clinical milestone</title>
@@ -1009,7 +1088,7 @@ Journal: Nature Medicine</description>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Jiseung Kang, Hyeon Jin Kim, Min Seo Kim, Jae Il Shin, Hasan Aalruz, Yohannes Habtegiorgis Abate, Nasir Abbas, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2690-2690</description>
     </item>
     <item>
       <title>Activity-dependent adaptive deep brain stimulation improves gait in Parkinson’s disease</title>
@@ -1047,7 +1126,7 @@ Abstract: Abstract Parkinson’s disease leads to a spectrum of locomotor defici
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Nicholas S. Card, Tyler Singer-Clark, Hamza Peracha, Carrina Iacobacci, Xianda Hou, Maitreyee Wairagkar, Zachery Fogg, Elena C. Offenberg, et al.
 
-Journal: Nature Medicine
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2504-2510
 
 Abstract: Abstract Brain–computer interfaces (BCIs) can provide naturalistic communication and digital access to people with severe paralysis by decoding neural activity associated with attempted speech and movement. Recent work has demonstrated highly accurate intracortical BCIs for speech and cursor control, but two critical capabilities needed for practical viability were unmet: independent at-home operation without researcher assistance and reliable long-term performance supporting accurate speech and cursor decoding. Here we demonstrate the independent and near-daily use of a multimodal BCI with novel brain-to-text speech and computer cursor decoders by a man with paralysis and severe dysarthria due to amyotrophic lateral sclerosis. Over nearly 2 years, the participant used the BCI for more than 3,800 h at home with no researchers present to maintain rich interpersonal communication with his family and friends, independently control his personal computer and sustain full-time employment—despite being paralyzed. He communicated 183,060 sentences—totaling 1,960,163 words—at an average rate of 56 words per minute. He labeled 92% of sentences as being decoded at least mostly correctly. In formal quantifications of performance where he was asked to say words presented on a screen, attempted speech was consistently decoded with more than 99% word accuracy (125,000 word vocabulary). The participant also used the speech BCI as keyboard input and the cursor BCI as mouse input to control his personal computer, enabling him to send text messages and emails and to browse the internet. These results demonstrate that intracortical BCIs have the potential to support independent use in the home, marking a critical step toward practical assistive technology for people with severe motor impairment.</description>
     </item>
@@ -1087,7 +1166,7 @@ Abstract: Abstract A randomized crossover study of five patients with Parkinson�
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Krithik Vishwanath, Anton Alyakin, Mrigayu Ghosh, Ali Hage, Sean N. Neifert, Cordelia Orillac, Nataniel J. Mandelberg, Hammad A. Khan, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2405-2409</description>
     </item>
     <item>
       <title>Efficacy and target engagement of dopamine agonist pramipexole for anhedonic depression: a randomized placebo-controlled trial</title>
@@ -1105,7 +1184,7 @@ Journal: Nature Medicine</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Filip Ventorp, Marie Asp, Sofia Olsson, Jesper Lindahl, Stefan Möller, Martina Svensson, Filip Ängeby, Armida Pravdinske, et al.
 
-Journal: Nature Medicine
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2570-2578
 
 Abstract: Abstract Anhedonia is a core and disabling symptom of mood disorders with limited treatment options. We evaluated the efficacy and safety of the dopamine agonist pramipexole in patients with mood disorders characterized by clinically significant anhedonia. In this single-center, randomized, double-blind, placebo-controlled trial, adults with major depressive disorder, dysthymia or bipolar depression and elevated Snaith−Hamilton Pleasure Scale (SHAPS) scores were assigned (1:1) to flexible dose, once-daily oral pramipexole as add-on treatment or placebo for 9 weeks. The primary outcome was change in SHAPS score from baseline to week 9. Analyses were conducted in the modified intention-to-treat population. Eighty-five participants were randomized, and 82 were included in the analysis. The primary outcome was met: pramipexole was associated with a greater reduction in SHAPS scores compared to placebo (mean difference: −4.04, 95% confidence interval: −6.89 to −1.18, P = 0.006, Hedges’ g = 0.62). Exploratory analyses indicated that pramipexole was associated with increased light physical activity and relative preservation of reward-related ventral striatal activation. Improvements in anhedonia were sustained during a 6-month open-label extension. Pramipexole was generally well tolerated compared to placebo. Pramipexole significantly improved anhedonia and showed a favorable safety profile, supporting its potential as an augmentation strategy in mood disorders. ClinicalTrials.gov identifiers: NCT05355337 and NCT05825235 .</description>
     </item>
@@ -1140,7 +1219,7 @@ Journal: Nature Medicine</description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Harris A. Eyre, Rym Ayadi, Agustín Ibáñez, Mie Rizig, Simon Fischer-Baum
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2353-2355</description>
     </item>
     <item>
       <title>Dual-target gene therapy in Parkinson’s disease: a multicenter phase 1 trial</title>
@@ -1158,7 +1237,7 @@ Journal: Nature Medicine</description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Mengyue Niu, Jifeng Guo, Yuchao Yang, Qian Xu, Cheng Cheng, Hao Li, Ningdi Luo, Haiyan Zhou, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2602-2609</description>
     </item>
     <item>
       <title>Adjuvanted inactivated rabies virus-vectored Lassa virus vaccine in healthy adults: a phase 1 trial</title>
@@ -1176,7 +1255,7 @@ Journal: Nature Medicine</description>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Justin R. Ortiz, Drishya Kurup, Adam C. Kaufman, Sabrine Ben Hamed, Allison M. LaRocco, Kirsten E. Lyke, Sarah M. Litts, Shrimati Datta, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2511-2521</description>
     </item>
     <item>
       <title>Bundibugyo Ebola without vaccines or therapeutics: why public health fundamentals matter more than border closures</title>
@@ -1209,7 +1288,7 @@ Journal: Nature Medicine</description>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Richard E. Pratley, Douglas Scott Denham, Rupal Trivedi, Elaine Watkins, Lisa Connery, Jennifer Barnes, Dongzi Yu, Janet Hong, et al.
 
-Journal: Nature Medicine
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2673-2678
 
 Abstract: Abstract Loss of lean mass in proportion to total weight loss is observed with incretin mimetic therapies such as tirzepatide and has the potential to adversely affect health and function. Apitegromab is an investigational, fully human monoclonal antibody that selectively inhibits myostatin activation and is, thereby, capable of increasing muscle mass. In the randomized, double-blind, placebo-controlled phase 2 EMBRAZE study, adults with overweight or obesity ( n = 102) were randomized 1:1 to receive tirzepatide plus apitegromab (10 mg kg −1 ) or tirzepatide plus placebo. At week 24, apitegromab resulted in a least square mean (80% confidence interval (CI)) of 1.9 (1.2−2.7) kg less lean mass loss than placebo ( P = 0.001), despite similar total body weight loss between groups, representing a 54.9% retention of lean mass relative to placebo. In participants receiving apitegromab, trough concentrations of apitegromab and total latent myostatin, a pharmacodynamic marker, both increased over time and reached a plateau after approximately 16 weeks. Incidence of adverse events (AEs) (% (95% CI)) was generally similar across apitegromab-treated participants and placebo-treated participants, with 39 of 51 (76% (63−86%)) and 36 of 51 (71% (57−81%)) participants experiencing an AE, respectively. Serious adverse events (SAEs) were balanced and experienced by one of 51 (2% (0−10%)) participants in each arm. In summary, this proof-of-concept study demonstrated that selective targeting of myostatin by apitegromab was well tolerated and effective in preserving lean mass when combined with tirzepatide. ClinicalTrials.gov identifier: NCT06445075 .</description>
     </item>
@@ -1229,7 +1308,7 @@ Abstract: Abstract Loss of lean mass in proportion to total weight loss is obser
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Yeon Wook Kim, Eung Joo Park, Kyeong Im Kwak, Tae Ho Yoon, Hye-Rin Kang, Dong-Hyun Joo, Yeon Joo Lee, Jong Sun Park, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2410-2419</description>
     </item>
     <item>
       <title>Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial</title>
@@ -1247,7 +1326,7 @@ Journal: Nature Medicine</description>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Hideaki Bando, Jun Watanabe, Yusuke Takahashi, Masahito Kotaka, Nobuhisa Matsuhashi, Eiji Oki, Yoshito Komatsu, Manabu Shiozawa, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2473-2480</description>
     </item>
     <item>
       <title>Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial</title>
@@ -1298,7 +1377,7 @@ Abstract: Abstract Aleniglipron is an oral, small-molecule glucagon-like peptide
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Charlotte Harrison
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2322-2323</description>
     </item>
     <item>
       <title>Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial</title>
@@ -1316,7 +1395,7 @@ Journal: Nature Medicine</description>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Roberto M. de Freitas, Shovan Bhatia, Erynn Sorensen, Nikhil Verma, Erick Carranza, Scott Ensel, Luigi Borda, Amy Boos, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2579-2590</description>
     </item>
     <item>
       <title>Limited evidence of AI superiority in seasonal influenza vaccine strain selection</title>
@@ -1328,7 +1407,7 @@ Journal: Nature Medicine</description>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Simon P. J. de Jong, Colin A. Russell
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2395-2397</description>
     </item>
     <item>
       <title>Reinventing biotech systems for patient impact</title>
@@ -1360,7 +1439,7 @@ Journal: Nature Medicine</description>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Wenxian Shi, Jeremy Wohlwend, Menghua Wu, Regina Barzilay
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2398-2400</description>
     </item>
     <item>
       <title>15-strain live biotherapeutic product or same donor fecal microbiota transplant for recurrent Clostridioides difficile infection: a randomized phase 1b trial</title>
@@ -1378,7 +1457,7 @@ Journal: Nature Medicine</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Lukas Bethlehem, Lorenza Bartu, Gina Marke, Phyu Mar, Sari Feldman, Joseph Eggers, Constantin Ruprecht, Graham J. Britton, et al.
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2546-2555</description>
     </item>
     <item>
       <title>Translating ‘food is medicine’ from concept to reality</title>
@@ -1432,7 +1511,7 @@ Abstract: Abstract Seizure-related homolog 6 (SEZ6) is expressed in small cell l
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Marie Spreckley, Cara F. Ruggiero, Adrian Brown
 
-Journal: Nature Medicine</description>
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2338-2339</description>
     </item>
     <item>
       <title>AAV gene therapy for homozygous familial hypercholesterolemia: a phase 1 trial</title>
@@ -1523,83 +1602,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2164-2172</description>
 Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2060-2072
 
 Abstract: Abstract Aging is asynchronous across cells and organs. Here we tested whether plasma proteomics can be used to analyze cell type-specific aging. From analyses of over 7,000 plasma proteins measured in 60,542 individuals, we developed machine learning models to estimate the biological age of over 40 cell types spanning neuronal, immune, glial, endocrine, epithelial and musculoskeletal origins. We observed that 20–25% of individuals exhibited accelerated aging in a single cell type and 1–3% in 10 or more cell types. Cellular aging signatures were associated with disease status and predicted incident disease and mortality over 15 years of follow-up. Individuals with the APOE4 genotype showed older astrocytes but younger macrophages compared to APOE3 carriers, whereas the APOE2 genotype had inverse associations. Moreover, extreme astrocyte aging tripled the risk of incident Alzheimer’s Disease in individuals with two APOE4 alleles, while youthful astrocytes reduced risk. Individuals with extremely aged compared to youthful skeletal myocytes exhibited a 12.7-fold higher risk of developing amyotrophic lateral sclerosis. In individuals who smoked, extreme respiratory epithelial cell aging was associated with a 58% higher lung cancer risk compared to smoking alone. Specific cellular vulnerabilities and cumulative cellular aging burden influenced survival, with youthful immune and neuronal cell types conferring protective effects. Finally, we developed a polycellular aging risk score that stratified mortality risk across cohorts and proteomics platforms. These findings establish a framework for quantifying human physiology at cellular resolution, revealing heterogeneous aging trajectories and their impact on disease susceptibility and resilience.</description>
-    </item>
-    <item>
-      <title>Manageable toxicity is not a label — it is an oxymoron</title>
-      <link>https://doi.org/10.1038/s41591-026-04464-w</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04464-w</guid>
-
-      <dc:creator>Laura Book</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Laura Book
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>A socially assistive robot to support mental wellbeing in LGBTQ+ young people at risk of self-harm: a randomized controlled trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04422-6</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04422-6</guid>
-
-      <dc:creator>A. Jess Williams</dc:creator>
-      <dc:creator>C. Aubrey Rhodes</dc:creator>
-      <dc:creator>Seonaid Cleare</dc:creator>
-      <dc:creator>Rohan Borschmann</dc:creator>
-      <dc:creator>James J. Gross</dc:creator>
-      <dc:creator>Kate Petrova</dc:creator>
-      <dc:creator>Lauren Posada</dc:creator>
-      <dc:creator>Christopher R. Tench</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: A. Jess Williams, C. Aubrey Rhodes, Seonaid Cleare, Rohan Borschmann, James J. Gross, Kate Petrova, Lauren Posada, Christopher R. Tench, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2267-2276
-
-Abstract: Abstract LGBTQ+ youth commonly have unmet mental health needs and are at elevated risk for self-harm, yet many face persistent institutional barriers to accessing support. One impactful way to reduce risk and promote wellbeing is by supporting emotion regulation; that is, the process by which individuals can influence which emotions they feel, when they feel them and how they experience or express these emotions. This universal, modifiable process is widely considered a key transdiagnostic target for mental ill-health prevention and intervention efforts. We conducted a randomized controlled trial using Purrble, a socially assistive robot designed to provide in-the-moment emotion regulation support through intuitive tactile interaction. Between 12 January and 1 September 2024, 153 LGBTQ+ youth with self-harm ideation were randomized 1:1 to receive Purrble and safety planning (Purrble + SP) or safety planning alone (SP-Only), stratified by gender identity (50.3% transgender/gender diverse). Data were collected over 13 weeks, with data collection closing on 22 October 2024. The primary outcome was perceived emotion regulation difficulties at follow-up, adjusted for baseline, gender identity and age. Participants allocated to the Purrble intervention reported fewer emotion regulation difficulties at follow-up than those allocated to safety planning alone (adjusted mean difference: –3.04; 95% confidence interval (CI): −4.92 to −1.16; P = 0.002; partial η 2 = 0.07). For secondary outcomes, participants in the Purrble intervention also reported significantly lower symptoms of anxiety and depression, but no significant main effect was observed for self-harm. No serious Purrble-related adverse events were observed. Purrble may offer a scalable intervention to complement existing therapeutic approaches to support LGBTQ+ youth to enhance their emotion regulation. ClinicalTrials.gov: NCT06025942 .</description>
-    </item>
-    <item>
-      <title>Savolitinib in MET-amplified gastric or gastroesophageal junction adenocarcinoma: a phase 2 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04459-7</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04459-7</guid>
-
-      <dc:creator>Zhi Peng</dc:creator>
-      <dc:creator>Tianshu Liu</dc:creator>
-      <dc:creator>Hua Wang</dc:creator>
-      <dc:creator>Jufeng Wang</dc:creator>
-      <dc:creator>Hongli Liu</dc:creator>
-      <dc:creator>Feng Ye</dc:creator>
-      <dc:creator>Enxiao Li</dc:creator>
-      <dc:creator>Jun Zhang</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zhi Peng, Tianshu Liu, Hua Wang, Jufeng Wang, Hongli Liu, Feng Ye, Enxiao Li, Jun Zhang, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Microglia at a key inflection point in Alzheimer’s disease</title>
-      <link>https://doi.org/10.1038/s41591-026-04409-3</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04409-3</guid>
-
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 1983-1984</description>
-    </item>
-    <item>
-      <title>Effects of SGLT2 inhibition on incident heart failure in carriers of cardiomyopathy-associated genetic variants</title>
-      <link>https://doi.org/10.1038/s41591-026-04439-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04439-x</guid>
-
-      <dc:creator>Nicholas A. Marston</dc:creator>
-      <dc:creator>Shinwan Kany</dc:creator>
-      <dc:creator>Giorgio E. M. Melloni</dc:creator>
-      <dc:creator>Sean J. Jurgens</dc:creator>
-      <dc:creator>Frederick K. Kamanu</dc:creator>
-      <dc:creator>Yi-Pin Lai</dc:creator>
-      <dc:creator>Joel T. Rämö</dc:creator>
-      <dc:creator>Itamar Raz</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nicholas A. Marston, Shinwan Kany, Giorgio E. M. Melloni, Sean J. Jurgens, Frederick K. Kamanu, Yi-Pin Lai, Joel T. Rämö, Itamar Raz, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 6; Pages: 2288-2293
-
-Abstract: Abstract Although the beneficial effects of sodium–glucose cotransporter 2 (SGLT2) inhibition in heart failure (HF) have been well established, it is unknown whether SGLT2 inhibition confers benefit in carriers of rare variants in cardiomyopathy-associated genes. Here we evaluated whole-exome sequencing data from the randomized DECLARE-TIMI 58 trial, in which adults with type 2 diabetes and increased cardiovascular risk were randomized to dapagliflozin or placebo treatment. Pathogenic or likely pathogenic variants (P/LP) in high-confidence cardiomyopathy genes were identified, and treatment effects on hospitalization for HF (HHF) were compared between carriers of such variants and noncarriers. Among 12,685 patients for whom sequence data were obtained, 121 carried a cardiomyopathy variant (76 dilated cardiomyopathy, 25 hypertrophic cardiomyopathy and 25 arrhythmogenic cardiomyopathy). Over a median follow-up of 4.2 years, dapagliflozin lowered the risk of HHF more strongly in carriers (hazard ratio 0.18, 95% confidence interval 0.04–0.86) than in noncarriers (hazard ratio 0.70, 95% confidence interval 0.57–0.86; P interaction 0.03). Absolute risk reduction was 13.0% in carriers and 1.0% in noncarriers ( P interaction 0.03). Most carriers (82%) had no prior HF, and in carriers without prior HF, treatment with dapagliflozin reduced the absolute risk of HHF by 12.8%, compared with a reduction of 0.6% in noncarriers ( P interaction 0.01). The findings from this cohort of older and high-risk patients raise the possibility that SGLT2 inhibitor treatment should be started early to prevent HF in individuals who carry P/LP cardiomyopathy variants. These results need to be confirmed in a prospective, dedicated trial of preventive HF treatments in carriers of P/LP cardiomyopathy-associated variants.</description>
     </item>
   </channel>
 </rss>
