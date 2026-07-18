@@ -5,8 +5,25 @@
     <link>https://www.nature.com/natsustain/</link>
     <description>Latest journal articles for Nature Sustainability</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:10:12 +0000</lastBuildDate>
 
+    <item>
+      <title>Author Correction: Spatial assessment of tap-water safety in China</title>
+      <link>https://doi.org/10.1038/s41893-026-01911-x</link>
+      <guid isPermaLink="false">10.1038/s41893-026-01911-x</guid>
+
+      <dc:creator>Mengjie Liu</dc:creator>
+      <dc:creator>Nigel Graham</dc:creator>
+      <dc:creator>Wenyu Wang</dc:creator>
+      <dc:creator>Renzun Zhao</dc:creator>
+      <dc:creator>Yonglong Lu</dc:creator>
+      <dc:creator>Menachem Elimelech</dc:creator>
+      <dc:creator>Wenzheng Yu</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mengjie Liu, Nigel Graham, Wenyu Wang, Renzun Zhao, Yonglong Lu, Menachem Elimelech, Wenzheng Yu
+
+Journal: Nature Sustainability</description>
+    </item>
     <item>
       <title>Evidence and limits of restitution</title>
       <link>https://doi.org/10.1038/s41893-026-01850-7</link>
@@ -1542,26 +1559,6 @@ Journal: Nature Sustainability; Volume: 9; Issue: 3; Pages: 340-342</description
       <description>Authors: Zhenguo Li
 
 Journal: Nature Sustainability; Volume: 9; Issue: 5; Pages: 640-640</description>
-    </item>
-    <item>
-      <title>Microbial upcycling of plastic waste to levodopa</title>
-      <link>https://doi.org/10.1038/s41893-026-01785-z</link>
-      <guid isPermaLink="false">10.1038/s41893-026-01785-z</guid>
-
-      <dc:creator>Benjamin Royer</dc:creator>
-      <dc:creator>Yuta Era</dc:creator>
-      <dc:creator>Marcos Valenzuela-Ortega</dc:creator>
-      <dc:creator>Thomas W. Thorpe</dc:creator>
-      <dc:creator>Connor L. Trotter</dc:creator>
-      <dc:creator>Kitty Clouston</dc:creator>
-      <dc:creator>John F. C. Steele</dc:creator>
-      <dc:creator>Nicoll Zeballos</dc:creator>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Benjamin Royer, Yuta Era, Marcos Valenzuela-Ortega, Thomas W. Thorpe, Connor L. Trotter, Kitty Clouston, John F. C. Steele, Nicoll Zeballos, et al.
-
-Journal: Nature Sustainability; Volume: 9; Issue: 5; Pages: 706-713
-
-Abstract: Abstract Using engineering biology to perform complex chemical synthesis offers a sustainable alternative to traditional processes that rely on finite fossil resources. A growing opportunity within this field lies in reclaiming carbon embedded in industrial and post-consumer waste—carbon otherwise lost to landfill, incineration or pollution. Here we report the bio-upcycling of poly(ethylene terephthalate) (PET) plastic waste into levodopa ( l -DOPA), a frontline medication for Parkinson’s disease, using engineered Escherichia coli . Two key bottlenecks—substrate import and feedback inhibition by the intermediate protocatechuate—were addressed through heterologous transporter expression and functional pathway separation across two microbial strains. To further improve sustainability, and as a proof-of-concept, Chlamydomonas reinhardtii was used to capture CO 2 released during catechol generation. The resulting bioprocess operates under mild, aqueous conditions and achieves high l -DOPA titres (5.0 g l −1 ), with isolated product obtained at preparative scale from both industrial PET waste and a single post-consumer plastic bottle. This work demonstrates how engineering biology can transform plastic-derived aromatic monomers into high-value pharmaceuticals for the treatment of neurological disease in humans.</description>
     </item>
   </channel>
 </rss>

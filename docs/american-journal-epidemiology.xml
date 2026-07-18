@@ -5,8 +5,73 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:28:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:09:28 +0000</lastBuildDate>
 
+    <item>
+      <title>Confidence regions for multiple outcomes, effect modifiers, and other multiple comparisons</title>
+      <link>https://doi.org/10.1093/aje/kwag174</link>
+      <guid isPermaLink="false">10.1093/aje/kwag174</guid>
+
+      <dc:creator>Paul N Zivich</dc:creator>
+      <dc:creator>Stephen R Cole</dc:creator>
+      <dc:creator>Noah Greifer</dc:creator>
+      <dc:creator>Lina Montoya</dc:creator>
+      <dc:creator>Michael Kosorok</dc:creator>
+      <dc:creator>Jessie K Edwards</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Paul N Zivich, Stephen R Cole, Noah Greifer, Lina Montoya, Michael Kosorok, Jessie K Edwards
+
+Journal: American Journal of Epidemiology; Article number: kwag174
+
+Abstract: Abstract Epidemiologists are sometimes interested in estimating multiple parameters. In this context, confidence intervals are not guaranteed to provide simultaneous coverage of more than one parameter. In other words, confidence intervals understate the uncertainty due to random error in these cases. This understated uncertainty can lead to a false sense of precision in the results, potentially leading to irreproducible results or misinformed decisions. To address this challenge, one can use confidence bands, an extension of confidence intervals to multiple parameters. We illustrate the use of confidence bands in three case studies: estimation of multiple causal effects, effect measure modification by a binary variable, and effect measure modification by a continuous variable. Each example uses publicly available data and is accompanied by SAS, R, and Python code. The type of confidence region reported by epidemiologists should depend on whether scientific interest is in one or multiple parameters. For multiple parameters, like in cases where multiple actions or outcomes, effect measure modification, dose–response, or other functions are of interest, sup-t confidence bands are preferred due to their statistical properties, computational simplicity, and ease of presentation.</description>
+    </item>
+    <item>
+      <title>Shifting Burden of Childhood Cancer Mortality in the United States: Progress and Persistent Inequities</title>
+      <link>https://doi.org/10.1093/aje/kwag169</link>
+      <guid isPermaLink="false">10.1093/aje/kwag169</guid>
+
+      <dc:creator>Jessica L Baedke</dc:creator>
+      <dc:creator>Qi Liu</dc:creator>
+      <dc:creator>Shizue Izumi</dc:creator>
+      <dc:creator>Tomoko Yoshida</dc:creator>
+      <dc:creator>Nishan Lamichhane</dc:creator>
+      <dc:creator>Sahar Aliabadi</dc:creator>
+      <dc:creator>José Miguel Martinez</dc:creator>
+      <dc:creator>I-Chan Huang</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jessica L Baedke, Qi Liu, Shizue Izumi, Tomoko Yoshida, Nishan Lamichhane, Sahar Aliabadi, José Miguel Martinez, I-Chan Huang, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag169
+
+Abstract: Abstract While 5-year survival following childhood cancer rose greatly from ~60% in the mid-1970s to 85% today, inequities persist and conventional survival metrics obscure the true burden and shifting distribution of deaths. To address this, we used Surveillance, Epidemiology, and End Results registries to evaluate excess mortality rates and counts (AER and AEC), new metrics quantifying mortality attributable to childhood cancer, among 47,545 U.S. children diagnosed before age 20 during 1975-2014, with follow-up through 2018. We quantified trends across subgroups and assessed modification by county-level income and rurality. AER declined across groups but at different magnitudes. From 1975-79 to 2010-14, declines were 75% in non-Hispanic White (NHW), 62% in non-Hispanic Black, and ~63% in Hispanic and Asian/Pacific Islander children. Among non-Hispanic American Indian/Alaska Native children, AER fell briefly with no clear improvement subsequently. Absolute burden shifted: AEC fell among NHW (8,874 in 1990-94 to 5,134 in 2010-14) but rose among other subgroups (4,826 to 5,213). By 2010-14, non-NHW children accounted for more deaths despite &amp;amp;gt;15,000 fewer diagnoses than NHW children. These findings show a shifting national burden: despite overall survival gains, persistent and sometimes worsening inequities mean deaths are increasingly concentrated among non-NHW subgroups.</description>
+    </item>
+    <item>
+      <title>Multidimensional social exposure clusters and incident multimorbidity in a population-based cohort</title>
+      <link>https://doi.org/10.1093/aje/kwag172</link>
+      <guid isPermaLink="false">10.1093/aje/kwag172</guid>
+
+      <dc:creator>Ingrid Giesinger</dc:creator>
+      <dc:creator>Emmalin Buajitti</dc:creator>
+      <dc:creator>Arjumand Siddiqi</dc:creator>
+      <dc:creator>Peter M Smith</dc:creator>
+      <dc:creator>Rahul Krishnan</dc:creator>
+      <dc:creator>Gemma Postill</dc:creator>
+      <dc:creator>Laura C Rosella</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ingrid Giesinger, Emmalin Buajitti, Arjumand Siddiqi, Peter M Smith, Rahul Krishnan, Gemma Postill, Laura C Rosella
+
+Journal: American Journal of Epidemiology; Article number: kwag172
+
+Abstract: Abstract Multimorbidity follows a strong social gradient, yet how the co-occurrence of social determinants shapes risk remains poorly understood. Most research examines individual determinants in isolation, potentially obscuring socially patterned subgroups relevant to multimorbidity risk. This study examines the association between multidimensional social exposure profiles (derived from individual- and area-level determinants) and multimorbidity risk. Profiles were derived through unsupervised clustering applied to population-based cohort of Ontario respondents to the Canadian Community Health Survey (2001-2011) and linked area-level Census measures. Chronic disease, and subsequent multimorbidity status were identified through linkage to administrative health data until 2022. Sex-stratified Weibull models were used to estimate hazard ratios for the association between multidimensional social exposure and incident multimorbidity. Unsupervised clustering identified six distinct social exposure profiles, with multimorbidity onset differing across profiles and elevated risk observed across multiple patterns of social disadvantage, rather than following a simple graded gradient. In sex-stratified analyses, disadvantage social exposure profiles were associated with an earlier multimorbidity onset among females (adjusted HR: 1.70, 95%CI: 1.18-2.53) and males (adjusted HR: 1.59, 95%CI: 1.20,2.05). These multidimensional social exposure profiles capture population-level social patterning associated with differential multimorbidity risk. These findings have implications for upstream policy aimed at reducing inequities in multimorbidity.</description>
+    </item>
+    <item>
+      <title>Correction to: Obtaining a probability sample of a pregnancy cohort of births: a review of the problem and a practical solution</title>
+      <link>https://doi.org/10.1093/aje/kwag163</link>
+      <guid isPermaLink="false">10.1093/aje/kwag163</guid>
+
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Article number: kwag163</description>
+    </item>
     <item>
       <title>Time Trends in Susceptibility to Scams in Community-Dwelling Older Adults</title>
       <link>https://doi.org/10.1093/aje/kwag168</link>
@@ -1638,66 +1703,6 @@ Abstract: Abstract Emerging evidence links high ambient temperature to an increa
       <description>Authors: Jessie K Edwards, Paul N Zivich, Bonnie E Shook-Sa, Stephen R Cole
 
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 2091-2093</description>
-    </item>
-    <item>
-      <title>Commentary on “
-                    &lt;i&gt;Resurrecting complete-case analysis: a defense&lt;/i&gt;
-                    ”: the loss of information remains unresolved</title>
-      <link>https://doi.org/10.1093/aje/kwag068</link>
-      <guid isPermaLink="false">10.1093/aje/kwag068</guid>
-
-      <dc:creator>Benjamin Stockton</dc:creator>
-      <dc:creator>Ofer Harel</dc:creator>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Benjamin Stockton, Ofer Harel
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1779-1781
-
-Abstract: Abstract Complete-case analysis (CCA) is one of the most commonly used—and misused—missing data analysis methods. The general guidance for applied researchers is to use principled methods such as weighting techniques, multiple imputation, and likelihood-based or Bayesian models instead of CCA to avoid biased inferences, loss of information, and reduced efficiency. Mathur, Shpitser, and VanderWeele (Am J Epidemiol. 2026;000(00):0000-0000)) argue in favor of adopting principled adjusted CCA alongside other methods as a sensitivity check to assess the validity of the missingness assumptions. While previous work has identified scenarios where CCA is a theoretically sound missing data method, including where data are not missing completely at random, Mathur et al. frame these scenarios more generally with causal inference tools already familiar to epidemiologists. In this commentary, we contextualize their arguments and proposals in the scope of incomplete data analysis in epidemiology.</description>
-    </item>
-    <item>
-      <title>Two-way fixed effects models in air pollution epidemiology: a proposed framework for model specifications and recommendations for future studies</title>
-      <link>https://doi.org/10.1093/aje/kwag069</link>
-      <guid isPermaLink="false">10.1093/aje/kwag069</guid>
-
-      <dc:creator>Yiqun Ma</dc:creator>
-      <dc:creator>Jordan Kaplan</dc:creator>
-      <dc:creator>David H Rehkopf</dc:creator>
-      <dc:creator>Benjamin Q Huynh</dc:creator>
-      <dc:creator>Mathew V Kiang</dc:creator>
-      <dc:creator>Tarik Benmarhnia</dc:creator>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yiqun Ma, Jordan Kaplan, David H Rehkopf, Benjamin Q Huynh, Mathew V Kiang, Tarik Benmarhnia
-
-Journal: American Journal of Epidemiology; Article number: kwag069
-
-Abstract: Abstract Two-way fixed effects (TWFE) models are increasingly applied in air pollution epidemiology. However, it remains unclear how sensitive TWFE models are to different modeling choices and how to transparently select a final model from a wide range of options. This study aims to systematically assess the sensitivity of TWFE models to different fixed effects (FEs) and propose a comprehensive decision-making framework. As an illustrative case study, we investigated associations between weekly ZIP Code Tabulation Area (ZCTA)-level mean particulate matter (PM2.5) concentrations and respiratory hospitalizations in CA, 2011-2019. We proposed 52 TWFE models with all plausible spatiotemporal FE combinations and demonstrated a three-stage decision-making framework for final model selection based on permutation tests, equivalence testing, and model complexity. Substantial variations in estimates were observed among models with different combinations of FEs and their interactions. The final model estimated that a 1 μg/m3 increase in weekly mean PM2.5 concentration was associated with a 0.06% increase in weekly respiratory hospitalizations (95% CI, 0.03%, 0.09%; clustered SE by ZCTA). This study highlighted that the choice of FEs in TWFE models can have meaningful influences in the inference of interest. Our proposed decision-making offers a practical guide for future air pollution epidemiological studies using TWFE models.</description>
-    </item>
-    <item>
-      <title>Correction to: Religiosity, psychological distress, and well-being: evaluating familial confounding with multicohort sibling data</title>
-      <link>https://doi.org/10.1093/aje/kwaf156</link>
-      <guid isPermaLink="false">10.1093/aje/kwaf156</guid>
-
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 5; Pages: 1505-1505</description>
-    </item>
-    <item>
-      <title>Network analysis of pairwise relative tuberculosis transmission probabilities in Lima, Peru</title>
-      <link>https://doi.org/10.1093/aje/kwag067</link>
-      <guid isPermaLink="false">10.1093/aje/kwag067</guid>
-
-      <dc:creator>Anne N Shapiro</dc:creator>
-      <dc:creator>Meredith B Brooks</dc:creator>
-      <dc:creator>Chuan Chin Huang</dc:creator>
-      <dc:creator>Megan B Murray</dc:creator>
-      <dc:creator>Laura F White</dc:creator>
-      <dc:creator>Helen E Jenkins</dc:creator>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Anne N Shapiro, Meredith B Brooks, Chuan Chin Huang, Megan B Murray, Laura F White, Helen E Jenkins
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 6; Pages: 1689-1697
-
-Abstract: Abstract Identifying transmission events is important in understanding infectious disease dynamics. Such events are typically unobservable, particularly in respiratory diseases such as tuberculosis (TB). We apply network techniques to identify transmission clusters and features shared within clusters. We estimate directed pairwise transmission probabilities via an existing iterative algorithm that employs a modified Naïve Bayes classifier and use these probabilities to create a network. We explore noise reduction techniques to trim low-probability edges. We group individuals with TB based on edges informed by transmission probabilities via network clustering algorithms. We apply our framework to simulated data and assess clustering algorithm performance. We then apply this approach to data from a cohort study in Lima, Peru, and examine homogeneity of the clusters using a binary entropy measure. We find cluster performance to be consistent across all edge-trimming scenarios and clustering methods. We find high levels of entropy, implying heterogeneity for age, sex, socioeconomic status, individuals who work outside the home, and people using public transit. We analyze estimated directed pairwise transmission probabilities with network techniques. The approach is consistent across network construction and clustering methods and can be applied to any disease outbreak to understand its dynamics. This article is part of a Special Collection on Latino Health.</description>
     </item>
   </channel>
 </rss>
