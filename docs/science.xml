@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 08:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:33:36 +0000</lastBuildDate>
 
     <item>
       <title>Advancing science by designing for surprise</title>
@@ -138,19 +138,6 @@ Journal: Science; Article number: eaeb0357
 Abstract: Biosynthesis of ~3,000 monoterpenoid indole alkaloids (MIAs), including the anticancer drug vinblastine, involves the highly unstable intermediate strictosidine aglycone. Its formation by strictosidine β-glucosidase (SGD) and subsequent conversion by geissoschizine synthase (GS) occur in spatially separated compartments, representing a major biosynthesis bottleneck. Here we discover VinBLAST, a cinnamyl alcohol dehydrogenase–like protein repurposed as a scaffold for efficient processing of this labile intermediate. VinBLAST physically mediates SGD and GS interaction in the nucleus and allosterically enhances GS catalytic efficiency. VinBLAST homologs from diverse plant families enhance biosynthesis of several representative MIAs, with the production of catharanthine increased to ~160 mg L −1 in yeast, nearly 1,000-fold higher than previous studies. Our discovery provides a missing link in organizing MIA biosynthesis and enables scalable bioproduction of geissoschizine-derived therapeutics.</description>
     </item>
     <item>
-      <title>U.S. researchers express outrage over proposed changes to managing federal grants</title>
-      <link>https://doi.org/10.1126/science.aek5959</link>
-      <guid isPermaLink="false">10.1126/science.aek5959</guid>
-
-      <dc:creator>Jeffrey Mervis</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jeffrey Mervis
-
-Journal: Science; Volume: 393; Issue: 6808; Pages: 232-233
-
-Abstract: White House receives 340,000 comments on rules many fear would politicize science</description>
-    </item>
-    <item>
       <title>A transcriptional biosensor reveals mechanisms of α-ketoglutarate signaling to chromatin</title>
       <link>https://doi.org/10.1126/science.adx8675</link>
       <guid isPermaLink="false">10.1126/science.adx8675</guid>
@@ -169,6 +156,19 @@ Abstract: White House receives 340,000 comments on rules many fear would politic
 Journal: Science; Volume: 393; Issue: 6808; Article number: eadx8675
 
 Abstract: The metabolite α-ketoglutarate (αKG) is required for chromatin demethylation, but mechanisms that control αKG abundance in the nucleus are poorly defined. We designed a biosensor to monitor this metabolite pool in human cells using an αKG-responsive cyanobacterial transcription factor, NtcA, and used it to identify genes that regulate αKG in the nucleus. We defined an interorganelle pathway in which sequential mitochondrial activities of glutamic-pyruvic transaminase 2 (GPT2) and the SLC25A11 transporter supply nuclear αKG. In a mouse model of GPT2 deficiency, an inborn error of metabolism, Gpt2 loss caused histone hypermethylation in the brain and dysregulated neurodevelopmental genes. Restoring αKG counteracted these changes and promoted mouse fitness. Our work provides a tool to directly monitor nuclear αKG and reveals nuclear αKG depletion as a key pathogenic mechanism underlying GPT2 deficiency.</description>
+    </item>
+    <item>
+      <title>U.S. researchers express outrage over proposed changes to managing federal grants</title>
+      <link>https://doi.org/10.1126/science.aek5959</link>
+      <guid isPermaLink="false">10.1126/science.aek5959</guid>
+
+      <dc:creator>Jeffrey Mervis</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jeffrey Mervis
+
+Journal: Science; Volume: 393; Issue: 6808; Pages: 232-233
+
+Abstract: White House receives 340,000 comments on rules many fear would politicize science</description>
     </item>
     <item>
       <title>In Other Journals</title>
@@ -305,6 +305,22 @@ Abstract: Lakes store large quantities of carbon in their sediments, contributin
 Journal: Science; Volume: 393; Issue: 6808; Pages: 248-248</description>
     </item>
     <item>
+      <title>Robust single-electron memory with quantum states manipulation</title>
+      <link>https://doi.org/10.1126/science.aeg6638</link>
+      <guid isPermaLink="false">10.1126/science.aeg6638</guid>
+
+      <dc:creator>Chunsen Liu</dc:creator>
+      <dc:creator>Yutong Xiang</dc:creator>
+      <dc:creator>Chong Wang</dc:creator>
+      <dc:creator>Peng Zhou</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chunsen Liu, Yutong Xiang, Chong Wang, Peng Zhou
+
+Journal: Science; Volume: 393; Issue: 6808; Pages: 294-299
+
+Abstract: The ultimate goal of information storage is single-electron memory. Quantum mechanics predicts that two distinguishable quantum states can be realized by confining a single electron within an ultrasmall space. However, scaling down such devices paradoxically amplifies fringe capacitance effects, which hinders the experimental observation of single-electron memory. We report a two-dimensional single-electron memory device based on a coplanar drain-channel-source structure that suppressed fringe capacitance, exhibiting a nonvolatile threshold voltage shift of 0.5 volts after the change of a single electron. Two intriguing quantum behaviors have also been verified regarding the programming voltage. Additionally, we have predicted and observed a distinctive quantum memory effect: A quantum state is cut off by density of states scissors.</description>
+    </item>
+    <item>
       <title>Structure and evolution-guided design of minimal RNA-guided nucleases</title>
       <link>https://doi.org/10.1126/science.aed6123</link>
       <guid isPermaLink="false">10.1126/science.aed6123</guid>
@@ -323,22 +339,6 @@ Journal: Science; Volume: 393; Issue: 6808; Pages: 248-248</description>
 Journal: Science; Volume: 393; Issue: 6808; Pages: 313-318
 
 Abstract: The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein design strategy that couples a structure-guided inverse-folding model with evolution-informed residue constraints to generate active, divergent variants of TnpB, a minimal CRISPR-Cas12–like nuclease, termed SynTnpBs. High-throughput screening of artificial intelligence–generated variants yielded editors that retained or exceeded wild-type activity in bacterial, plant, and human cells. Cryo–electron microscopy–based structure determination of the most divergent variant revealed stabilizing contacts in the RNA–DNA interfaces across conformations, demonstrating the design potential of this approach. Together, these results establish a strategy for creating non-natural RNA-guided nucleases and conformationally active nucleic acid binders, enlarging the designable protein space.</description>
-    </item>
-    <item>
-      <title>Robust single-electron memory with quantum states manipulation</title>
-      <link>https://doi.org/10.1126/science.aeg6638</link>
-      <guid isPermaLink="false">10.1126/science.aeg6638</guid>
-
-      <dc:creator>Chunsen Liu</dc:creator>
-      <dc:creator>Yutong Xiang</dc:creator>
-      <dc:creator>Chong Wang</dc:creator>
-      <dc:creator>Peng Zhou</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chunsen Liu, Yutong Xiang, Chong Wang, Peng Zhou
-
-Journal: Science; Volume: 393; Issue: 6808; Pages: 294-299
-
-Abstract: The ultimate goal of information storage is single-electron memory. Quantum mechanics predicts that two distinguishable quantum states can be realized by confining a single electron within an ultrasmall space. However, scaling down such devices paradoxically amplifies fringe capacitance effects, which hinders the experimental observation of single-electron memory. We report a two-dimensional single-electron memory device based on a coplanar drain-channel-source structure that suppressed fringe capacitance, exhibiting a nonvolatile threshold voltage shift of 0.5 volts after the change of a single electron. Two intriguing quantum behaviors have also been verified regarding the programming voltage. Additionally, we have predicted and observed a distinctive quantum memory effect: A quantum state is cut off by density of states scissors.</description>
     </item>
     <item>
       <title>Direct interaction of Vδ7 TCRs with IL17RA drives the differentiation of T
@@ -1195,19 +1195,6 @@ Journal: Science; Volume: 393; Issue: 6807; Pages: 157-159
 Abstract: Highlights from the Science family of journals</description>
     </item>
     <item>
-      <title>To eat or to breathe?</title>
-      <link>https://doi.org/10.1126/science.aei7713</link>
-      <guid isPermaLink="false">10.1126/science.aei7713</guid>
-
-      <dc:creator>M. Denise Dearing</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: M. Denise Dearing
-
-Journal: Science; Volume: 393; Issue: 6807; Pages: 140-141
-
-Abstract: In highland mice, the responses to low oxygen and toxins compete for a shared molecular regulator</description>
-    </item>
-    <item>
       <title>The CARM1 epigenetic enzyme inhibits cross-presenting dendritic cell function in cancer immunity</title>
       <link>https://doi.org/10.1126/science.aea1200</link>
       <guid isPermaLink="false">10.1126/science.aea1200</guid>
@@ -1226,6 +1213,19 @@ Abstract: In highland mice, the responses to low oxygen and toxins compete for a
 Journal: Science; Volume: 393; Issue: 6807; Article number: eaea1200
 
 Abstract: The cancer-immunity cycle requires cross-presenting type I conventional dendritic cells (cDC1s) that induce T cell–mediated immunity, but therapeutic strategies for enhancing intratumoral cDC1 function are currently inadequate. We found the epigenetic enzyme CARM1 (coactivator-associated arginine methyltransferase 1) to be a selective negative regulator of cancer antigen presentation by cDC1s but not cDC2s. Inactivation of the Carm1 gene promoted cDC1 antigen cross-presentation, activation, and accumulation in tumors, and a CARM1 inhibitor enhanced cDC1-mediated priming of T cells by means of a cancer neoantigen vaccine. CARM1 inhibition increased chromatin accessibility at BATF3-Jun and RelA sites that are critical for cDC1 function and activation. Transforming growth factor–β regulated Carm1 expression, which suggests that CARM1 inactivation enhanced intratumoral cDC1 function without altering cDC1 homeostasis. These studies identify CARM1 as a potential therapeutic target for enhancing the antitumor function of mouse and human cDC1s.</description>
+    </item>
+    <item>
+      <title>To eat or to breathe?</title>
+      <link>https://doi.org/10.1126/science.aei7713</link>
+      <guid isPermaLink="false">10.1126/science.aei7713</guid>
+
+      <dc:creator>M. Denise Dearing</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: M. Denise Dearing
+
+Journal: Science; Volume: 393; Issue: 6807; Pages: 140-141
+
+Abstract: In highland mice, the responses to low oxygen and toxins compete for a shared molecular regulator</description>
     </item>
     <item>
       <title>Vicinal disubstitution of alkyl C–X synthons via alkene radical cation generation</title>

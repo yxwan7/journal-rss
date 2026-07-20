@@ -5,7 +5,7 @@
     <link>https://jamanetwork.com/journals/jamanetworkopen</link>
     <description>Latest journal articles for JAMA Network Open</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 08:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:34:16 +0000</lastBuildDate>
 
     <item>
       <title>Disparities in Delayed Discharge Among Patients Experiencing Homelessness</title>
@@ -694,25 +694,6 @@ Abstract: This cross-sectional study investigates how menopause-related symptoms
 Journal: JAMA Network Open; Volume: 9; Issue: 7; Pages: e2623065</description>
     </item>
     <item>
-      <title>Colorectal Cancer Treatment Delay Thresholds and Metastasis Risk</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.23057</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.23057</guid>
-
-      <dc:creator>Chi M. Nguyen</dc:creator>
-      <dc:creator>Todd C. Skaar</dc:creator>
-      <dc:creator>Thomas F. Imperiale</dc:creator>
-      <dc:creator>Travis S. Johnson</dc:creator>
-      <dc:creator>Patrick O. Monahan</dc:creator>
-      <dc:creator>Anita A. Turk</dc:creator>
-      <dc:creator>Mai P. Nguyen</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chi M. Nguyen, Todd C. Skaar, Thomas F. Imperiale, Travis S. Johnson, Patrick O. Monahan, Anita A. Turk, Mai P. Nguyen
-
-Journal: JAMA Network Open; Volume: 9; Issue: 7; Pages: e2623057
-
-Abstract: Importance Timely treatment in colorectal cancer (CRC) may influence the disease course and, thus, outcomes, but optimal delay thresholds remain uncertain. Identifying pathway-specific time-to-treatment initiation (TTI) effects can guide benchmarks and policies for coordinated, timely care. Objective To evaluate the association between TTI and 3-year metastasis risk in patients with newly diagnosed nonmetastatic CRC undergoing curative-intent surgery, with attention to variation by treatment pathway. Design, Setting, and Participants This cohort study of insured US patients with nonmetastatic CRC used deidentified administrative claims from Optum’s Clinformatics Data Mart. Eligible individuals were adults aged 40 years or older with incident nonmetastatic CRC diagnosed during January 1, 2017, to December 31, 2021, who underwent curative-intent surgery within 1 year of diagnosis and had continuous coverage 1 year before and after. Data were analyzed June 2025. Exposures TTI was defined as days from CRC diagnosis to the first receipt of cancer-directed therapy (surgery, chemotherapy, or radiation). Patients were categorized into 4 treatment pathways: surgery with or without radiation, surgery followed by adjuvant therapy with or without radiation, neoadjuvant therapy followed by surgery with or without radiation, and trimodality therapy (neoadjuvant therapy, followed by surgery, followed by adjuvant therapy with or without radiation). Main Outcomes and Measures The outcome was 3-year cumulative incidence of metastasis. XGBoost identified optimal TTI thresholds, and Fine-Gray models with death as a competing risk evaluated these thresholds and estimated their associations with metastasis. Results Among 11 927 patients (mean [SD] age, 70.7 [10.8] years; 6007 women [50.4%]; 1251 Black [10.5%], 7948 White [66.6%]), 4539 (38.0%) had moderate or severe comorbidity. Over 3 years, 1438 patients (12.1%) developed metastasis. Longer TTIs were associated with higher metastasis risk, varying by treatment pathway. For surgery plus adjuvant therapy, TTIs of 4 to 46 days (subdistribution hazard ratio [sHR], 1.27; 95% CI, 1.04-1.55) and 47 days or longer (sHR, 1.55; 95% CI, 1.08-2.23) were significantly associated with increased risk vs zero to 3 days. For surgery followed by radiation, delays of 223 days or longer showed higher risk (sHR, 2.00; 95% CI, 0.95-4.25) than TTI up to 222 days, although these results were not significant. For neoadjuvant therapy plus surgery, TTI of 68 days or longer were associated with higher risk (sHR, 2.66; 95% CI, 1.02-6.94) than TTI up to 67 days. For patients receiving trimodality therapy, there was no association between TTI and risk of metastasis. Conclusions and Relevance In this cohort study, treatment delays were associated with higher, pathway-specific metastasis risk. These findings support pathway-tailored benchmarks for treatment initiation and highlight the importance of integrated care in reducing delays and improving timely, equitable, cost-effective CRC care.</description>
-    </item>
-    <item>
       <title>Childhood Maltreatment and Adult Multimorbidity</title>
       <link>https://doi.org/10.1001/jamanetworkopen.2026.23051</link>
       <guid isPermaLink="false">10.1001/jamanetworkopen.2026.23051</guid>
@@ -731,6 +712,25 @@ Abstract: Importance Timely treatment in colorectal cancer (CRC) may influence t
 Journal: JAMA Network Open; Volume: 9; Issue: 7; Pages: e2623051
 
 Abstract: Importance Child maltreatment is a major global public health concern with well-documented psychological consequences, but its associations with long-term physical health conditions remain less well understood. Objective To examine the associations between childhood maltreatment and adult multimorbidity using electronic health records in Hong Kong. Design, Setting, and Participants This population-based cohort study used electronic health record data from Hong Kong, comprising 7473 individuals with a first recorded episode of maltreatment between ages 0 and 19 years from 2001 to 2010 and 26 834 matched individuals without documented maltreatment. Individuals who reached adulthood (ie, after age 19 years) by December 31, 2024, were included. Exposure History of childhood maltreatment vs none. Main Outcomes and Measures The primary outcome was the occurrence of multimorbidity during adulthood as documented in participants’ diagnostic records through December 31, 2024. Cox proportional hazards models were used to estimate the risks of 16 disease categories and multimorbidity patterns diagnosed after age 19 years, both overall and stratified by preexisting physical, mental, or neurodevelopmental conditions in childhood. Results After exclusions, the final cohort comprised 32 674 individuals (16 986 female [52%]), including 7137 who were exposed to childhood maltreatment and 25 537 unexposed individuals. Their median (IQR) age was 9.0 (6.0-13.0) years at inclusion and 28.1 (24.2-31.6) years at the end of follow-up. The median (IQR) follow-up duration was 19.0 (16.6-21.3) years. Childhood maltreatment was associated with increased risks across 13 adult diagnostic categories. The highest risks were observed with mental and behavioral disorders (hazard ratio [HR], 2.78; 95% CI, 2.49-3.09), ear diseases (HR, 1.88; 95% CI, 1.27-2.78), injuries (HR, 1.81; 95% CI, 1.65-1.98), and blood diseases (HR, 1.67; 95% CI, 1.41-1.97). Maltreatment was also associated with a higher risk and earlier onset of complex multimorbidity (HR, 1.96; 95% CI, 1.68-2.27). The associations between childhood maltreatment and adult diagnoses were attenuated among individuals with mental health or neurodevelopmental conditions diagnosed in childhood. Conclusions and Relevance In this 19-year cohort study of 32 674 individuals, childhood maltreatment was associated with elevated risks for multiple health conditions in adulthood. These findings underscore the need for early prevention and sustained, trauma-informed health care support to reduce the risk of lifelong multimorbidity among children who have experienced maltreatment.</description>
+    </item>
+    <item>
+      <title>Colorectal Cancer Treatment Delay Thresholds and Metastasis Risk</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.23057</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.23057</guid>
+
+      <dc:creator>Chi M. Nguyen</dc:creator>
+      <dc:creator>Todd C. Skaar</dc:creator>
+      <dc:creator>Thomas F. Imperiale</dc:creator>
+      <dc:creator>Travis S. Johnson</dc:creator>
+      <dc:creator>Patrick O. Monahan</dc:creator>
+      <dc:creator>Anita A. Turk</dc:creator>
+      <dc:creator>Mai P. Nguyen</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chi M. Nguyen, Todd C. Skaar, Thomas F. Imperiale, Travis S. Johnson, Patrick O. Monahan, Anita A. Turk, Mai P. Nguyen
+
+Journal: JAMA Network Open; Volume: 9; Issue: 7; Pages: e2623057
+
+Abstract: Importance Timely treatment in colorectal cancer (CRC) may influence the disease course and, thus, outcomes, but optimal delay thresholds remain uncertain. Identifying pathway-specific time-to-treatment initiation (TTI) effects can guide benchmarks and policies for coordinated, timely care. Objective To evaluate the association between TTI and 3-year metastasis risk in patients with newly diagnosed nonmetastatic CRC undergoing curative-intent surgery, with attention to variation by treatment pathway. Design, Setting, and Participants This cohort study of insured US patients with nonmetastatic CRC used deidentified administrative claims from Optum’s Clinformatics Data Mart. Eligible individuals were adults aged 40 years or older with incident nonmetastatic CRC diagnosed during January 1, 2017, to December 31, 2021, who underwent curative-intent surgery within 1 year of diagnosis and had continuous coverage 1 year before and after. Data were analyzed June 2025. Exposures TTI was defined as days from CRC diagnosis to the first receipt of cancer-directed therapy (surgery, chemotherapy, or radiation). Patients were categorized into 4 treatment pathways: surgery with or without radiation, surgery followed by adjuvant therapy with or without radiation, neoadjuvant therapy followed by surgery with or without radiation, and trimodality therapy (neoadjuvant therapy, followed by surgery, followed by adjuvant therapy with or without radiation). Main Outcomes and Measures The outcome was 3-year cumulative incidence of metastasis. XGBoost identified optimal TTI thresholds, and Fine-Gray models with death as a competing risk evaluated these thresholds and estimated their associations with metastasis. Results Among 11 927 patients (mean [SD] age, 70.7 [10.8] years; 6007 women [50.4%]; 1251 Black [10.5%], 7948 White [66.6%]), 4539 (38.0%) had moderate or severe comorbidity. Over 3 years, 1438 patients (12.1%) developed metastasis. Longer TTIs were associated with higher metastasis risk, varying by treatment pathway. For surgery plus adjuvant therapy, TTIs of 4 to 46 days (subdistribution hazard ratio [sHR], 1.27; 95% CI, 1.04-1.55) and 47 days or longer (sHR, 1.55; 95% CI, 1.08-2.23) were significantly associated with increased risk vs zero to 3 days. For surgery followed by radiation, delays of 223 days or longer showed higher risk (sHR, 2.00; 95% CI, 0.95-4.25) than TTI up to 222 days, although these results were not significant. For neoadjuvant therapy plus surgery, TTI of 68 days or longer were associated with higher risk (sHR, 2.66; 95% CI, 1.02-6.94) than TTI up to 67 days. For patients receiving trimodality therapy, there was no association between TTI and risk of metastasis. Conclusions and Relevance In this cohort study, treatment delays were associated with higher, pathway-specific metastasis risk. These findings support pathway-tailored benchmarks for treatment initiation and highlight the importance of integrated care in reducing delays and improving timely, equitable, cost-effective CRC care.</description>
     </item>
     <item>
       <title>Equity in Population-Wide Genomic Screening</title>
