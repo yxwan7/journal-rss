@@ -5,8 +5,171 @@
     <link>https://www.nature.com/ncomms/</link>
     <description>Latest journal articles for Nature Communications</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:46:44 +0000</lastBuildDate>
 
+    <item>
+      <title>Small-scale photonic Kolmogorov-Arnold networks using standard telecom nonlinear modules</title>
+      <link>https://doi.org/10.1038/s41467-026-75602-8</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75602-8</guid>
+
+      <dc:creator>Luca Nogueira Calçado</dc:creator>
+      <dc:creator>Sergei K. Turitsyn</dc:creator>
+      <dc:creator>Egor Manuylovich</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Luca Nogueira Calçado, Sergei K. Turitsyn, Egor Manuylovich
+
+Journal: Nature Communications
+
+Abstract: Abstract Photonic neural networks promise inference at the speed of light, yet most architectures combine linear optical meshes with electronic nonlinearities, reintroducing optical-electrical-optical bottlenecks. Kolmogorov-Arnold networks place trainable nonlinear functions on network edges, concentrating expressivity into a few structured modules. Each edge here is a single module built from a Mach-Zehnder interferometer, a semiconductor optical amplifier, and variable optical attenuators, giving a four-parameter transfer function set by gain saturation and interferometric mixing. A four-module network attains 94.3% accuracy (±3.9% s.d. over ten seeds) on nonlinear classification, and a seven-module network reaches R 2 = 0.986 ± 0.015 on six-input regression, remaining robust to 6-bit inputs and 14 dB signal-to-noise ratio. Here, we show that a fully differentiable physics model enables end-to-end optimization of these standard telecom modules, giving a practical route from simulation toward experimental demonstration of photonic Kolmogorov-Arnold networks.</description>
+    </item>
+    <item>
+      <title>On the nature of chemical short-range order evolution</title>
+      <link>https://doi.org/10.1038/s41467-026-75622-4</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75622-4</guid>
+
+      <dc:creator>Guilherme C. Stumpf</dc:creator>
+      <dc:creator>Yifan Cao</dc:creator>
+      <dc:creator>Vinícius P. Bacurau</dc:creator>
+      <dc:creator>Daniel Miracle</dc:creator>
+      <dc:creator>Witor Wolf</dc:creator>
+      <dc:creator>Edgar D. Zanotto</dc:creator>
+      <dc:creator>Rodrigo Freitas</dc:creator>
+      <dc:creator>Francisco G. Coury</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Guilherme C. Stumpf, Yifan Cao, Vinícius P. Bacurau, Daniel Miracle, Witor Wolf, Edgar D. Zanotto, Rodrigo Freitas, Francisco G. Coury
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Reversible layered/non-layered phase transition in a topological semimetal</title>
+      <link>https://doi.org/10.1038/s41467-026-75893-x</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75893-x</guid>
+
+      <dc:creator>Qingrong Liang</dc:creator>
+      <dc:creator>Jiali Chen</dc:creator>
+      <dc:creator>Zhaoyang Xie</dc:creator>
+      <dc:creator>Xun Shi</dc:creator>
+      <dc:creator>Liu Yang</dc:creator>
+      <dc:creator>Wei Jiang</dc:creator>
+      <dc:creator>Jiadong Zhou</dc:creator>
+      <dc:creator>Shoujun Zheng</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Qingrong Liang, Jiali Chen, Zhaoyang Xie, Xun Shi, Liu Yang, Wei Jiang, Jiadong Zhou, Shoujun Zheng
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>High-throughput antigen discovery using Functional Genomic Vaccinology (FGV) identifies protective Streptococcus pneumoniae vaccine candidates</title>
+      <link>https://doi.org/10.1038/s41467-026-75848-2</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75848-2</guid>
+
+      <dc:creator>Giuseppe Ercoli</dc:creator>
+      <dc:creator>Elisa Ramos-Sevillano</dc:creator>
+      <dc:creator>Samantha Palethorpe</dc:creator>
+      <dc:creator>Trisha Kerai</dc:creator>
+      <dc:creator>Timothy Scott</dc:creator>
+      <dc:creator>Rafael R. de Assis</dc:creator>
+      <dc:creator>Aarti Jain</dc:creator>
+      <dc:creator>Algis Jasinskas</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Giuseppe Ercoli, Elisa Ramos-Sevillano, Samantha Palethorpe, Trisha Kerai, Timothy Scott, Rafael R. de Assis, Aarti Jain, Algis Jasinskas, et al.
+
+Journal: Nature Communications
+
+Abstract: Abstract The discovery of protective antigens remains a major bottleneck in bacterial vaccine development. To overcome this limitation, we present Functional Genomic Vaccinology (FGV), a high-throughput antigen discovery platform integrating genome-wide antigen prediction, proteome-scale screening, and experimental immunogenicity validation to identify protective bacterial antigens. Using FGV, 222 conserved S. pneumoniae proteins are expressed in vitro, incorporated into a protein microarray, and coupled to magnetic beads for mouse vaccination. Protein array analysis shows significant IgG responses in 40% of the screened proteins. Antigen-specific responses measured in human sera guide the prioritisation of 22 candidates, which undergo further studied for their serological and Th17 responses. Four antigens combined in a multicomponent vaccine induces protection from pneumonia and sepsis in mice, with epitope mapping revealing potential protective sites for each protein. These results establish FGV as a scalable, experimentally driven approach for bacterial vaccine discovery and demonstrate its applicability in developing protective pneumococcal vaccines.</description>
+    </item>
+    <item>
+      <title>Root-inspired hierarchical hydrogel-electrode interface enables ultrasensitive sensing</title>
+      <link>https://doi.org/10.1038/s41467-026-75620-6</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75620-6</guid>
+
+      <dc:creator>Jie Tang</dc:creator>
+      <dc:creator>Yuan He</dc:creator>
+      <dc:creator>Ruiqi Guo</dc:creator>
+      <dc:creator>Qiao Hu</dc:creator>
+      <dc:creator>Yuanji Yao</dc:creator>
+      <dc:creator>Zicai Zhu</dc:creator>
+      <dc:creator>Dayu Zhang</dc:creator>
+      <dc:creator>Hongbo Wei</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jie Tang, Yuan He, Ruiqi Guo, Qiao Hu, Yuanji Yao, Zicai Zhu, Dayu Zhang, Hongbo Wei, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Integrated device for optoacoustically-guided ultrasound surgery</title>
+      <link>https://doi.org/10.1038/s41467-026-75692-4</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75692-4</guid>
+
+      <dc:creator>Isaac Esteban</dc:creator>
+      <dc:creator>Nima Mahkam</dc:creator>
+      <dc:creator>Yi Chen</dc:creator>
+      <dc:creator>Martha Gjikolaj</dc:creator>
+      <dc:creator>Beat Werner</dc:creator>
+      <dc:creator>Henning Richter</dc:creator>
+      <dc:creator>Katrin Beckmann</dc:creator>
+      <dc:creator>Edin Nevzati</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Isaac Esteban, Nima Mahkam, Yi Chen, Martha Gjikolaj, Beat Werner, Henning Richter, Katrin Beckmann, Edin Nevzati, et al.
+
+Journal: Nature Communications
+
+Abstract: Abstract High-intensity focused ultrasound has emerged as a promising tool for treating tumors and other pathologies by inducing localized thermal lesions. However, treatment outcomes depend strongly on accurate coverage of the treated region and monitoring lesion formation in real time. While magnetic resonance imaging has successfully been used to guide high-intensity focused ultrasound therapy, it significantly increases the cost and complexity of the treatment. To address these limitations, we have developed a system that integrates real-time three-dimensional tomographic optoacoustic imaging with concurrent focused ultrasound emission using a high-frequency spherical array transducer. We evaluated the performance of the system in the mouse brain ex vivo and further assessed its clinical translatability in a living sheep, demonstrating successful induction of a confined thermal lesion beneath the cortical surface, as confirmed by magnetic resonance imaging and histology. The system enabled precise treatment targeting, while optoacoustic signal changes during sonication provided a reliable indicator of thermal lesion progression. This capability allowed on-the-fly adjustment of the thermal dose, helping to minimize the risk of vascular damage or adverse effects on off-target structures.</description>
+    </item>
+    <item>
+      <title>Symmetry-driven gating of TRPM8 by PIP2 and menthol</title>
+      <link>https://doi.org/10.1038/s41467-026-75793-0</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75793-0</guid>
+
+      <dc:creator>Sun-Hong Kim</dc:creator>
+      <dc:creator>Chansik Hong</dc:creator>
+      <dc:creator>Hyunwoo Park</dc:creator>
+      <dc:creator>Youngchang Ju</dc:creator>
+      <dc:creator>Youngsoo Hwang</dc:creator>
+      <dc:creator>Jinhyeong Kim</dc:creator>
+      <dc:creator>Sangho Ji</dc:creator>
+      <dc:creator>Wookyung Yu</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sun-Hong Kim, Chansik Hong, Hyunwoo Park, Youngchang Ju, Youngsoo Hwang, Jinhyeong Kim, Sangho Ji, Wookyung Yu, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Towards an enzyme cascade synthesis of the bulk chemical acrylic acid</title>
+      <link>https://doi.org/10.1038/s41467-026-75484-w</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75484-w</guid>
+
+      <dc:creator>Haodong Zhao</dc:creator>
+      <dc:creator>Chunying Wang</dc:creator>
+      <dc:creator>Shiqing Zhang</dc:creator>
+      <dc:creator>Qian Wang</dc:creator>
+      <dc:creator>Huanyu Chu</dc:creator>
+      <dc:creator>Jinying Yang</dc:creator>
+      <dc:creator>Lei Zhang</dc:creator>
+      <dc:creator>Zhanmei Xu</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Haodong Zhao, Chunying Wang, Shiqing Zhang, Qian Wang, Huanyu Chu, Jinying Yang, Lei Zhang, Zhanmei Xu, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Robustly enhancing crop genomic prediction accuracy through ensemble learning and iterative optimization</title>
+      <link>https://doi.org/10.1038/s41467-026-75788-x</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75788-x</guid>
+
+      <dc:creator>Zhou Yao</dc:creator>
+      <dc:creator>Liguang Wang</dc:creator>
+      <dc:creator>Li Zhu</dc:creator>
+      <dc:creator>Xinle Li</dc:creator>
+      <dc:creator>Qiqi Wu</dc:creator>
+      <dc:creator>Fan Wu</dc:creator>
+      <dc:creator>Guoshuai Wang</dc:creator>
+      <dc:creator>Wenyu Yang</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zhou Yao, Liguang Wang, Li Zhu, Xinle Li, Qiqi Wu, Fan Wu, Guoshuai Wang, Wenyu Yang, et al.
+
+Journal: Nature Communications</description>
+    </item>
     <item>
       <title>Relaxor-like ferroelectric response and achiral–chiral switching in an amorphous molecular solid</title>
       <link>https://doi.org/10.1038/s41467-026-75838-4</link>
@@ -19,6 +182,185 @@
       <dc:creator>Shenqiang Ren</dc:creator>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Hanyu Liu, Yuqin Xiong, Ti Xie, Cheng Gong, Shenqiang Ren
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Engineering ion migration and interface chemistry via covalent organic framework-enhanced polymer electrolytes for fast-charging sodium solid-state batteries</title>
+      <link>https://doi.org/10.1038/s41467-026-75417-7</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75417-7</guid>
+
+      <dc:creator>Yongbiao Mu</dc:creator>
+      <dc:creator>Chen Li</dc:creator>
+      <dc:creator>Jun Huang</dc:creator>
+      <dc:creator>Xiaoqian Xu</dc:creator>
+      <dc:creator>Yichun Wang</dc:creator>
+      <dc:creator>Quanyan Man</dc:creator>
+      <dc:creator>Zhiyu Zou</dc:creator>
+      <dc:creator>Meisheng Han</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yongbiao Mu, Chen Li, Jun Huang, Xiaoqian Xu, Yichun Wang, Quanyan Man, Zhiyu Zou, Meisheng Han, et al.
+
+Journal: Nature Communications
+
+Abstract: Abstract Solid-state sodium batteries offer a promising route toward safe and cost-effective energy storage, yet their practical implementation remains limited by the difficulty of coupling fast ion transport with stable electrode–electrolyte interfaces, especially under fast-charging and long-cycling conditions. Here we report a covalent organic framework/poly(sodium acrylate-co-fluorinated ethylene) (COF/PNSE) composite electrolyte developed through synergistic structural and chemical regulation. The aligned nanoporous COF provides continuous Na⁺ transport pathways while mechanically reinforcing the PNSE matrix, delivering an ionic conductivity of 1.2 mS cm −1 at 30 °C. This integrated electrolyte enables robust Na metal compatibility, as demonstrated by symmetric Na cells operating for 6,750 h with low polarization of 85 mV and a critical current density of 1.9 mA cm −2 . Na | |Na 2/3 Ni 1/3 Mn 2/3 O 2 batteries deliver 82.5 mAh g −1 at 1 A g −1 and retain 77.2% capacity after 1,000 cycles at 100 mA g −1 , while maintaining 92.7% retention at 4.2 V over 180 cycles and 83.5% retention at 1 A g −1 over 2,000 cycles. Ah-level pouch cells further retain 87.3% capacity after 488 cycles at 1 A. Mechanistic analyses reveal that the COF framework guides uniform Na deposition and promotes dual-gradient NaF/Na 2 O-rich interphases, suppressing dendrite growth and stabilizing both electrodes. These findings inform future composite electrolyte design for solid-state sodium batteries.</description>
+    </item>
+    <item>
+      <title>Histone Acetylation Differentially Modulates CTCF-CTCF Loops and Intra-TAD Interactions</title>
+      <link>https://doi.org/10.1038/s41467-026-75818-8</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75818-8</guid>
+
+      <dc:creator>Rebecca G. Smith</dc:creator>
+      <dc:creator>Yu Fu</dc:creator>
+      <dc:creator>Kathleen L. Schiela</dc:creator>
+      <dc:creator>Madison Dautle</dc:creator>
+      <dc:creator>Ryan A. Williams</dc:creator>
+      <dc:creator>Hannah M. Wilson</dc:creator>
+      <dc:creator>Chloe Azadegan</dc:creator>
+      <dc:creator>Johnathan R. Whetstine</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rebecca G. Smith, Yu Fu, Kathleen L. Schiela, Madison Dautle, Ryan A. Williams, Hannah M. Wilson, Chloe Azadegan, Johnathan R. Whetstine, et al.
+
+Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6676
+
+Abstract: Abstract The cohesin complex structures the interphase genome of human cells by extruding loops and organizing topologically associating domains (TADs), yet how chromatin state regulates cohesin-chromatin interactions remains unclear. Here, we show that histone hyperacetylation induced by trichostatin A (TSA) selectively disrupts short-range intra-TAD interactions while largely preserving CTCF-anchored loops. These distinct responses define two functional cohesin populations: a TSA-sensitive pool associated with dynamic loop extrusion, and a TSA-resistant pool at CTCF sites maintained by topological entrapment. Using a semi-in vitro system with TEV-cleavable RAD21, we demonstrate that hyperacetylation increases the sensitivity of CTCF-anchored loops to cohesin ring cleavage, supporting a topological basis for their stability. We further identify a TSA-sensitive cohesin fraction at CTCF sites, suggesting transient, non-encircling intermediates. Together, our results reveal that cohesin exists in distinct biochemical states that differentially regulate chromatin loop stability and responsiveness to epigenomic perturbation.</description>
+    </item>
+    <item>
+      <title>An integrated multi-THz tunable linear isolator based on electro-optic non-reciprocal strong coupling</title>
+      <link>https://doi.org/10.1038/s41467-026-75451-5</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75451-5</guid>
+
+      <dc:creator>Gwan In Kim</dc:creator>
+      <dc:creator>Violet Workman</dc:creator>
+      <dc:creator>Oğulcan E. Örsel</dc:creator>
+      <dc:creator>Jieun Yim</dc:creator>
+      <dc:creator>Gaurav Bahl</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gwan In Kim, Violet Workman, Oğulcan E. Örsel, Jieun Yim, Gaurav Bahl
+
+Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6532</description>
+    </item>
+    <item>
+      <title>Confined water-selective highways in a densified photothermal membrane enable ultrafast purification of complex wastewater</title>
+      <link>https://doi.org/10.1038/s41467-026-75847-3</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75847-3</guid>
+
+      <dc:creator>Jie Li</dc:creator>
+      <dc:creator>Qiang Jia</dc:creator>
+      <dc:creator>Shijie Xing</dc:creator>
+      <dc:creator>Jingtao Bi</dc:creator>
+      <dc:creator>Lei Wang</dc:creator>
+      <dc:creator>Zhiyuan Guo</dc:creator>
+      <dc:creator>Jing Wang</dc:creator>
+      <dc:creator>Panpan Zhang</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jie Li, Qiang Jia, Shijie Xing, Jingtao Bi, Lei Wang, Zhiyuan Guo, Jing Wang, Panpan Zhang, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Ligand relay catalysis enables asymmetric migratory dearomative annulation of N-heteroarenes</title>
+      <link>https://doi.org/10.1038/s41467-026-75769-0</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75769-0</guid>
+
+      <dc:creator>Zhiyong Song</dc:creator>
+      <dc:creator>Xinyu Li</dc:creator>
+      <dc:creator>Xinchen Wang</dc:creator>
+      <dc:creator>Asif Rasool</dc:creator>
+      <dc:creator>You Wang</dc:creator>
+      <dc:creator>Shaolin Zhu</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zhiyong Song, Xinyu Li, Xinchen Wang, Asif Rasool, You Wang, Shaolin Zhu
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Improving thermal shock resistance of segmented thermoelectric devices via metal foam integration</title>
+      <link>https://doi.org/10.1038/s41467-026-75761-8</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75761-8</guid>
+
+      <dc:creator>Kuai Yu</dc:creator>
+      <dc:creator>Jiayue Du</dc:creator>
+      <dc:creator>Haoyang Tong</dc:creator>
+      <dc:creator>Yuxin Sun</dc:creator>
+      <dc:creator>Xiaoyue Yang</dc:creator>
+      <dc:creator>Hao Wu</dc:creator>
+      <dc:creator>Xiao Zhang</dc:creator>
+      <dc:creator>Zihang Liu</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kuai Yu, Jiayue Du, Haoyang Tong, Yuxin Sun, Xiaoyue Yang, Hao Wu, Xiao Zhang, Zihang Liu, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Redundant prefrontal hemispheres adapt storage strategy to working memory demands</title>
+      <link>https://doi.org/10.1038/s41467-026-75705-2</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75705-2</guid>
+
+      <dc:creator>Melanie Tschiersch</dc:creator>
+      <dc:creator>Akash Umakantha</dc:creator>
+      <dc:creator>Ryan C. Williamson</dc:creator>
+      <dc:creator>Matthew A. Smith</dc:creator>
+      <dc:creator>Joao Barbosa</dc:creator>
+      <dc:creator>Albert Compte</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Melanie Tschiersch, Akash Umakantha, Ryan C. Williamson, Matthew A. Smith, Joao Barbosa, Albert Compte
+
+Journal: Nature Communications
+
+Abstract: Abstract The prefrontal hemispheres must coordinate dynamically to maintain a unified representation of visual space. Recently, two opposing theories using distinct storage strategies have been proposed: A high-capacity specialized architecture, where each hemisphere governs contralateral behavior, and a fail-safe redundant one, where both hemispheres jointly guide behavior across the visual space. Here, we analyzed simultaneous bilateral prefrontal cortex recordings from three male macaque monkeys performing a visuo-spatial working memory task. Both hemispheres equally predicted behavioral imprecision, decoding errors were weakly correlated between hemispheres, and serial dependence remained local within hemispheres, suggesting a redundant, weakly coupled organization. Attractor network simulations showed that redundancy improved precision when task demands were below memory capacity, while weak interhemispheric coupling increased capacity in more demanding tasks by allowing hemispheric specialization. These predicted patterns were validated in human and monkey data, reconciling previous findings and revealing a versatile interhemispheric architecture that adapts to varying cognitive demands.</description>
+    </item>
+    <item>
+      <title>Alkyne Migratory Insertion Enabled Dynamic Kinetic Asymmetric Dearomatization of Unactivated Racemic Biaryls</title>
+      <link>https://doi.org/10.1038/s41467-026-75768-1</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75768-1</guid>
+
+      <dc:creator>Yongjian Yang</dc:creator>
+      <dc:creator>Xuening Li</dc:creator>
+      <dc:creator>Qianyong He</dc:creator>
+      <dc:creator>Yun Tan</dc:creator>
+      <dc:creator>Meiqi Hu</dc:creator>
+      <dc:creator>Shican Peng</dc:creator>
+      <dc:creator>Yinghua Yu</dc:creator>
+      <dc:creator>Zhi-Xiang Wang</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yongjian Yang, Xuening Li, Qianyong He, Yun Tan, Meiqi Hu, Shican Peng, Yinghua Yu, Zhi-Xiang Wang, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>B-type host stars revealed by exoplanets around massive secondary-clump giant stars</title>
+      <link>https://doi.org/10.1038/s41467-026-75608-2</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75608-2</guid>
+
+      <dc:creator>Wen-Xu Lin</dc:creator>
+      <dc:creator>Sheng-Bang Qian</dc:creator>
+      <dc:creator>Qi-Bin Sun</dc:creator>
+      <dc:creator>Li-Ying Zhu</dc:creator>
+      <dc:creator>Wen-Ping Liao</dc:creator>
+      <dc:creator>Ting Li</dc:creator>
+      <dc:creator>Fu-Xing Li</dc:creator>
+      <dc:creator>Liang Liu</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wen-Xu Lin, Sheng-Bang Qian, Qi-Bin Sun, Li-Ying Zhu, Wen-Ping Liao, Ting Li, Fu-Xing Li, Liang Liu, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>A longitudinal analysis of published clinical practice guidelines and their effect on disease burden</title>
+      <link>https://doi.org/10.1038/s41467-026-75668-4</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75668-4</guid>
+
+      <dc:creator>Xialei Li</dc:creator>
+      <dc:creator>Dannya Estau</dc:creator>
+      <dc:creator>Xiaoru Huang</dc:creator>
+      <dc:creator>Fuhua Deng</dc:creator>
+      <dc:creator>Xuening Liu</dc:creator>
+      <dc:creator>Xinghui Li</dc:creator>
+      <dc:creator>Jinfeng Gao</dc:creator>
+      <dc:creator>Zijian Li</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xialei Li, Dannya Estau, Xiaoru Huang, Fuhua Deng, Xuening Liu, Xinghui Li, Jinfeng Gao, Zijian Li
 
 Journal: Nature Communications</description>
     </item>
@@ -41,6 +383,156 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
+      <title>Giant nonlinear Hall effect in isospin symmetry broken bilayer graphene</title>
+      <link>https://doi.org/10.1038/s41467-026-75919-4</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75919-4</guid>
+
+      <dc:creator>Hao Chen</dc:creator>
+      <dc:creator>Qifeng Hu</dc:creator>
+      <dc:creator>Prasun Boyal</dc:creator>
+      <dc:creator>Kian Ping Loh</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hao Chen, Qifeng Hu, Prasun Boyal, Kian Ping Loh
+
+Journal: Nature Communications
+
+Abstract: Abstract Spontaneous isospin ordering fundamentally reshapes quantum nonlinear transport, yet the nature of nonlinear responses in strongly correlated and symmetry-broken quantum states remain largely unexplored. In this work, we investigate a regime where symmetry breaking is not static but emerges dynamically as a tunable property of the electronic system, driven by strong correlations. Using high-quality, dual-gated Bernal bilayer graphene, we observe a giant nonlinear Hall conductivity (9.1 µm S V⁻¹) that manifests strongly in a field-driven isospin-polarized phase. In this correlated regime, the nonlinear conductivity scales exponentially with the linear conductivity, in stark contrast to the quadratic scaling expected in conventional nonlinear systems. Combined with quantum oscillation measurements and self-consistent theoretical modelling, our results indicate that this giant response is closely linked to an interaction-driven valley-polarized state. Our findings establish spontaneous isospin symmetry breaking as an effective route to giant nonlinear quantum transport, where interaction-enhanced skew scattering emerges as the dominant transport mechanism.</description>
+    </item>
+    <item>
+      <title>Cerebellar activity is triggered by reach endpoint during learning of a complex locomotor task</title>
+      <link>https://doi.org/10.1038/s41467-026-74823-1</link>
+      <guid isPermaLink="false">10.1038/s41467-026-74823-1</guid>
+
+      <dc:creator>Andry Andrianarivelo</dc:creator>
+      <dc:creator>Heike Stein</dc:creator>
+      <dc:creator>Jeremy Gabillet</dc:creator>
+      <dc:creator>Clarisse Batifol</dc:creator>
+      <dc:creator>Abdelali Jalil</dc:creator>
+      <dc:creator>N. Alex Cayco Gajic</dc:creator>
+      <dc:creator>Michael Graupner</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andry Andrianarivelo, Heike Stein, Jeremy Gabillet, Clarisse Batifol, Abdelali Jalil, N. Alex Cayco Gajic, Michael Graupner
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Leiomodin 2 is a processive pointed-end elongator of actin filaments</title>
+      <link>https://doi.org/10.1038/s41467-026-74809-z</link>
+      <guid isPermaLink="false">10.1038/s41467-026-74809-z</guid>
+
+      <dc:creator>Sudipta Biswas</dc:creator>
+      <dc:creator>Tania M. Larrinaga</dc:creator>
+      <dc:creator>Sandeep Choubey</dc:creator>
+      <dc:creator>Carol C. Gregorio</dc:creator>
+      <dc:creator>Shashank Shekhar</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sudipta Biswas, Tania M. Larrinaga, Sandeep Choubey, Carol C. Gregorio, Shashank Shekhar
+
+Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6674</description>
+    </item>
+    <item>
+      <title>Wireless light-gated photoelectrochemical microneedle wearables for zero-bias longitudinal monitoring in interstitial fluid</title>
+      <link>https://doi.org/10.1038/s41467-026-75940-7</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75940-7</guid>
+
+      <dc:creator>Huichuang Wang</dc:creator>
+      <dc:creator>Zepeng Huang</dc:creator>
+      <dc:creator>Xue Zhou</dc:creator>
+      <dc:creator>Jing Huang</dc:creator>
+      <dc:creator>Yibin Liu</dc:creator>
+      <dc:creator>Liangjian Lyu</dc:creator>
+      <dc:creator>Nan Shi</dc:creator>
+      <dc:creator>Shuming Pan</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Huichuang Wang, Zepeng Huang, Xue Zhou, Jing Huang, Yibin Liu, Liangjian Lyu, Nan Shi, Shuming Pan, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Hypertensive disorders of pregnancy contribute to developmental and metabolic multimorbidity in preterm infants</title>
+      <link>https://doi.org/10.1038/s41467-026-75869-x</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75869-x</guid>
+
+      <dc:creator>Cuihong Yang</dc:creator>
+      <dc:creator>Ranran Shi</dc:creator>
+      <dc:creator>Jiao Yuan</dc:creator>
+      <dc:creator>Yanjie Ding</dc:creator>
+      <dc:creator>Hongli Geng</dc:creator>
+      <dc:creator>Huan Li</dc:creator>
+      <dc:creator>Lili Zhao</dc:creator>
+      <dc:creator>Jiahui Li</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cuihong Yang, Ranran Shi, Jiao Yuan, Yanjie Ding, Hongli Geng, Huan Li, Lili Zhao, Jiahui Li, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Incorporating AI-optimized zinc finger proteins enhances the efficiencies and targeting ranges of miniature base editors</title>
+      <link>https://doi.org/10.1038/s41467-026-75912-x</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75912-x</guid>
+
+      <dc:creator>Qianyue Huang</dc:creator>
+      <dc:creator>Dian Yang</dc:creator>
+      <dc:creator>Xibin Zhou</dc:creator>
+      <dc:creator>Geng Li</dc:creator>
+      <dc:creator>Weikuan Liu</dc:creator>
+      <dc:creator>Xiaoqi Fan</dc:creator>
+      <dc:creator>Fajie Yuan</dc:creator>
+      <dc:creator>Xing Chang</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Qianyue Huang, Dian Yang, Xibin Zhou, Geng Li, Weikuan Liu, Xiaoqi Fan, Fajie Yuan, Xing Chang
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Synthesis of poly(4HB-co-PhLA) and poly(3HB-co-4HB-co-PhLA) as sustainable hot-melt adhesives using engineered Escherichia coli</title>
+      <link>https://doi.org/10.1038/s41467-026-75809-9</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75809-9</guid>
+
+      <dc:creator>Minju Kang</dc:creator>
+      <dc:creator>Youngjoon Lee</dc:creator>
+      <dc:creator>Gi Bae Kim</dc:creator>
+      <dc:creator>Sang Yup Lee</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Minju Kang, Youngjoon Lee, Gi Bae Kim, Sang Yup Lee
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Global variation of plant nitrogen acquisition strategies and their responses to decreasing nitrogen availability</title>
+      <link>https://doi.org/10.1038/s41467-026-75889-7</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75889-7</guid>
+
+      <dc:creator>Jiaqiang Liao</dc:creator>
+      <dc:creator>Jinhua Mao</dc:creator>
+      <dc:creator>Jinlong Peng</dc:creator>
+      <dc:creator>Yiqi Luo</dc:creator>
+      <dc:creator>Mianhai Zheng</dc:creator>
+      <dc:creator>Lei Song</dc:creator>
+      <dc:creator>Chen Chen</dc:creator>
+      <dc:creator>Lingli Liu</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jiaqiang Liao, Jinhua Mao, Jinlong Peng, Yiqi Luo, Mianhai Zheng, Lei Song, Chen Chen, Lingli Liu, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Spinal cord regeneration deploys cell-type specific developmental and non-developmental strategies to restore neuron diversity</title>
+      <link>https://doi.org/10.1038/s41467-026-75273-5</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75273-5</guid>
+
+      <dc:creator>Avery Angell Swearer</dc:creator>
+      <dc:creator>Samuel B. Perkowski</dc:creator>
+      <dc:creator>Iba Husain</dc:creator>
+      <dc:creator>Thiago A. Figueiredo</dc:creator>
+      <dc:creator>Morgan E. McCartney</dc:creator>
+      <dc:creator>Andrea E. Wills</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Avery Angell Swearer, Samuel B. Perkowski, Iba Husain, Thiago A. Figueiredo, Morgan E. McCartney, Andrea E. Wills
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
       <title>Structural basis of PLPP3-mediated lipid phosphate dephosphorylation and its role in melanoma</title>
       <link>https://doi.org/10.1038/s41467-026-75824-w</link>
       <guid isPermaLink="false">10.1038/s41467-026-75824-w</guid>
@@ -59,6 +551,42 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
+      <title>Citywide metagenomics reveals microbial community and resistome dynamics in urban wastewater</title>
+      <link>https://doi.org/10.1038/s41467-026-75771-6</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75771-6</guid>
+
+      <dc:creator>Zhiying Xu</dc:creator>
+      <dc:creator>Jiabao Xing</dc:creator>
+      <dc:creator>Xiaohong Zeng</dc:creator>
+      <dc:creator>Yuqing Wu</dc:creator>
+      <dc:creator>Yao Wang</dc:creator>
+      <dc:creator>Yue He</dc:creator>
+      <dc:creator>Xialu Lin</dc:creator>
+      <dc:creator>Haiyan Huang</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zhiying Xu, Jiabao Xing, Xiaohong Zeng, Yuqing Wu, Yao Wang, Yue He, Xialu Lin, Haiyan Huang, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Statin-induced lipid carrier stress reveals a conserved vulnerability in β-lactam-resistant Gram-positive bacteria</title>
+      <link>https://doi.org/10.1038/s41467-026-75729-8</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75729-8</guid>
+
+      <dc:creator>Gabriel Torrens</dc:creator>
+      <dc:creator>Sean W. Bisset</dc:creator>
+      <dc:creator>Maria López-Bravo</dc:creator>
+      <dc:creator>Anders F. Johansson</dc:creator>
+      <dc:creator>Daniel Lopez</dc:creator>
+      <dc:creator>Felipe Cava</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gabriel Torrens, Sean W. Bisset, Maria López-Bravo, Anders F. Johansson, Daniel Lopez, Felipe Cava
+
+Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6680
+
+Abstract: Abstract Methicillin-resistant Staphylococcus aureus resists β-lactam antibiotics through the allosteric transpeptidase penicillin-binding protein 2a, which operates within staphyloxanthin-rich membrane microdomains. Statins restore susceptibility by disrupting these microdomains and impairing penicillin-binding protein 2a oligomerization, but the mechanisms enabling resistance to this resensitization remain unclear. Here we show, using evolution experiments in strains lacking a functional staphyloxanthin pathway, that mutations in gdpP , a regulator of cyclic di-adenosine monophosphate signaling, are the predominant route for restoring oxacillin resistance during membrane microdomain disruption. This adaptation is blocked by simvastatin, revealing a synthetic lethal interaction. Mechanistically, simvastatin inhibits the mevalonate pathway, depleting the essential lipid carrier undecaprenyl phosphate and exacerbating peptidoglycan precursor imbalance, an effect phenocopied by lipid carrier–targeting antibiotics such as bacitracin. Although compensatory mutations can restore resistance, they impose a fitness cost in vivo. Importantly, this vulnerability extends to Streptococcus pneumoniae , revealing a conserved strategy to overcome β-lactam resistance in Gram-positive pathogens.</description>
+    </item>
+    <item>
       <title>Excess mortality attributable to the 2025 Iberian Peninsula blackout</title>
       <link>https://doi.org/10.1038/s41467-026-75581-w</link>
       <guid isPermaLink="false">10.1038/s41467-026-75581-w</guid>
@@ -71,6 +599,44 @@ Journal: Nature Communications</description>
 Journal: Nature Communications
 
 Abstract: Abstract On 28 April 2025, a widespread power outage affected mainland Portugal and Spain for around ten hours, causing major disruptions and eight reported deaths. Health impacts of blackouts range from direct effects, such as medical equipment failure, to indirect effects such as disrupted healthcare. Here we show that the 2025 Iberian blackout is associated with increased mortality in Spain, but not in Portugal. We find little evidence of excess mortality on the day of the event itself. In Spain, however, mortality rises over the next two days (+167 deaths; 95% credible interval: +28 to +300; +2.4% relative increase), particularly among women aged 85+. We also observe regional differences, but their drivers remain uncertain and may include variation in outage severity, underlying vulnerabilities, or local health-system and infrastructure conditions. These findings highlight the underestimated health burden of blackouts and the need for improved preparedness in a changing climate.</description>
+    </item>
+    <item>
+      <title>Amine-linked heteroporous covalent organic framework for synergistic anti-infective therapy of post-traumatic osteomyelitis</title>
+      <link>https://doi.org/10.1038/s41467-026-75796-x</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75796-x</guid>
+
+      <dc:creator>Saisai Ge</dc:creator>
+      <dc:creator>Xiaobin Chen</dc:creator>
+      <dc:creator>Pai Zhang</dc:creator>
+      <dc:creator>Yubo Dong</dc:creator>
+      <dc:creator>Wenyan Ji</dc:creator>
+      <dc:creator>Yuan-Zhe Cheng</dc:creator>
+      <dc:creator>Zhaopeng Wang</dc:creator>
+      <dc:creator>Shuaihao Zhang</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Saisai Ge, Xiaobin Chen, Pai Zhang, Yubo Dong, Wenyan Ji, Yuan-Zhe Cheng, Zhaopeng Wang, Shuaihao Zhang, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Totum-63, a plant-based polyphenol-rich extract, in prediabetes or early-stage type 2 diabetes: an international, multicenter, randomized controlled trial</title>
+      <link>https://doi.org/10.1038/s41467-026-75626-0</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75626-0</guid>
+
+      <dc:creator>Vivien Chavanelle</dc:creator>
+      <dc:creator>Yolanda F. Otero</dc:creator>
+      <dc:creator>Murielle Fayat Cazaubiel</dc:creator>
+      <dc:creator>Jean-Marie Bard</dc:creator>
+      <dc:creator>Bruno Pereira</dc:creator>
+      <dc:creator>Véronique Sapone</dc:creator>
+      <dc:creator>Annie Bouchard-Mercier</dc:creator>
+      <dc:creator>Maxime Bargetto</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Vivien Chavanelle, Yolanda F. Otero, Murielle Fayat Cazaubiel, Jean-Marie Bard, Bruno Pereira, Véronique Sapone, Annie Bouchard-Mercier, Maxime Bargetto, et al.
+
+Journal: Nature Communications
+
+Abstract: Abstract This multicenter, parallel-arm, superiority, randomized, double-blind, placebo-controlled study evaluates the efficacy of Totum-63 (T63), a polyphenol-rich blend of plant extracts, in improving fasting plasma glucose (FPG) in individuals with prediabetes or early-stage type 2 diabetes (T2D). Individuals from seven European countries with FPG between 110-220 mg/dL were randomized to receive placebo (PBO, n = 210), T63 (5 g/d) distributed thrice daily (T63 TID, n = 212) or twice daily (T63 BID, open-label arm, n = 214) over six months. Individuals were randomly assigned using a dynamic randomization algorithm, stratified by their glycemic status at baseline (FPG &amp;lt; 126 mg/dL or FPG ≥ 126) and the investigational site country. The primary outcome was the FPG change in T63 TID compared to PBO in the intention-to-treat population. Secondary assessments included changes in diabetes biomarkers, lipid profile, anthropometric measurements and subpopulation analyses based on glycemic status. During the whole study, neither the investigators nor the subjects were aware of the product they tested, except in the open arm. After six months, FPG was significantly reduced in the T63 TID group (PBO-adjusted mixed model estimated difference, PBO-AD = −3.8 mg/dL, 95% CI: [−5.9; −1.7], p = 0.0149) and the T63 BID group (PBO-AD = −5.5 mg/dL, 95% CI: [−9.7; −1.3] p &amp;lt; 0.001). Hence, T63 may represent a non-pharmaceutical strategy for T2D prevention. ClinicalTrials.gov Identifier: NCT04423302. Funding: This trial was funded by Valbiotis®.</description>
     </item>
     <item>
       <title>Covalency stabilizes high energy vanadium oxide positive electrode for sustainable aqueous zinc-ion batteries</title>
@@ -109,6 +675,54 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
+      <title>Evolutionary trajectory of microbial sulfur oxidation pathways recapitulates Earth’s oxygenation history</title>
+      <link>https://doi.org/10.1038/s41467-026-75310-3</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75310-3</guid>
+
+      <dc:creator>Xin-Yue Ren</dc:creator>
+      <dc:creator>Xian-Yong Lin</dc:creator>
+      <dc:creator>Tomohisa Sebastian Tanabe</dc:creator>
+      <dc:creator>Alexander Loy</dc:creator>
+      <dc:creator>Lingfei Hu</dc:creator>
+      <dc:creator>Yong-Guan Zhu</dc:creator>
+      <dc:creator>Song-Can Chen</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xin-Yue Ren, Xian-Yong Lin, Tomohisa Sebastian Tanabe, Alexander Loy, Lingfei Hu, Yong-Guan Zhu, Song-Can Chen
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>A precision-constrained framework for evaluating noninvasive biomarkers in MASLD and beyond</title>
+      <link>https://doi.org/10.1038/s41467-026-74472-4</link>
+      <guid isPermaLink="false">10.1038/s41467-026-74472-4</guid>
+
+      <dc:creator>Guangyi Zhang</dc:creator>
+      <dc:creator>Xiaohong Wang</dc:creator>
+      <dc:creator>Arinc Ozturk</dc:creator>
+      <dc:creator>Eugene Cheah</dc:creator>
+      <dc:creator>Peng Guo</dc:creator>
+      <dc:creator>Marian Martin</dc:creator>
+      <dc:creator>Angela Shih</dc:creator>
+      <dc:creator>Atul K. Bhan</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Guangyi Zhang, Xiaohong Wang, Arinc Ozturk, Eugene Cheah, Peng Guo, Marian Martin, Angela Shih, Atul K. Bhan, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Transversal fault tolerant distributed quantum computing operations</title>
+      <link>https://doi.org/10.1038/s41467-026-75693-3</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75693-3</guid>
+
+      <dc:creator>John Stack</dc:creator>
+      <dc:creator>Ming Wang</dc:creator>
+      <dc:creator>Frank Mueller</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: John Stack, Ming Wang, Frank Mueller
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
       <title>DNA-programmed galvanic Ostwald ripening in nanoparticle assemblies</title>
       <link>https://doi.org/10.1038/s41467-026-75690-6</link>
       <guid isPermaLink="false">10.1038/s41467-026-75690-6</guid>
@@ -123,6 +737,175 @@ Journal: Nature Communications</description>
       <dc:creator>Hanadi F. Sleiman</dc:creator>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Xin Luo, Jun Zhu, Mirali Seyed Shariatdoust, Daniel Saliba, Felix J. Rizzuto, Reuven Gordon, R. Bruce Lennox, Hanadi F. Sleiman
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Neural dynamics of temporal interference stimulation monitoring by soft liquid metal interfaces across neural systems</title>
+      <link>https://doi.org/10.1038/s41467-026-75244-w</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75244-w</guid>
+
+      <dc:creator>Enji Kim</dc:creator>
+      <dc:creator>Wonjung Park</dc:creator>
+      <dc:creator>Yeon-Mi Hong</dc:creator>
+      <dc:creator>Jungsoo Hong</dc:creator>
+      <dc:creator>Inhea Jeong</dc:creator>
+      <dc:creator>Jakyoung Lee</dc:creator>
+      <dc:creator>Sanghoon Lee</dc:creator>
+      <dc:creator>Hyunjin Lee</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Enji Kim, Wonjung Park, Yeon-Mi Hong, Jungsoo Hong, Inhea Jeong, Jakyoung Lee, Sanghoon Lee, Hyunjin Lee, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Delineating the risk factors, sources of acquisition and clinical outcomes in neonates colonised with multidrug-resistant bacteria: the NeoCol study</title>
+      <link>https://doi.org/10.1038/s41467-026-75634-0</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75634-0</guid>
+
+      <dc:creator>Nina Dwi Putri</dc:creator>
+      <dc:creator>Jackson Harrison</dc:creator>
+      <dc:creator>Benjamin F. R. Dickson</dc:creator>
+      <dc:creator>Delly Chipta Lestari</dc:creator>
+      <dc:creator>Jessica Ramsay</dc:creator>
+      <dc:creator>Michelle Harrison</dc:creator>
+      <dc:creator>Wisnu Tafroji</dc:creator>
+      <dc:creator>Rima Irwinda</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Nina Dwi Putri, Jackson Harrison, Benjamin F. R. Dickson, Delly Chipta Lestari, Jessica Ramsay, Michelle Harrison, Wisnu Tafroji, Rima Irwinda, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Mechanism of actin thin filament pointed-end elongation by leiomodin</title>
+      <link>https://doi.org/10.1038/s41467-026-74810-6</link>
+      <guid isPermaLink="false">10.1038/s41467-026-74810-6</guid>
+
+      <dc:creator>Shayna B. Brotzman</dc:creator>
+      <dc:creator>Nicholas J. Palmer</dc:creator>
+      <dc:creator>Malgorzata Boczkowska</dc:creator>
+      <dc:creator>Roberto Dominguez</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shayna B. Brotzman, Nicholas J. Palmer, Malgorzata Boczkowska, Roberto Dominguez
+
+Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6675</description>
+    </item>
+    <item>
+      <title>Vibrating membrane bioreactors enhance nutrient removal and energy efficiency in municipal wastewater treatment</title>
+      <link>https://doi.org/10.1038/s41467-026-75747-6</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75747-6</guid>
+
+      <dc:creator>Weichen Lin</dc:creator>
+      <dc:creator>Tao Xue</dc:creator>
+      <dc:creator>Haojie Ding</dc:creator>
+      <dc:creator>Ziwei Liu</dc:creator>
+      <dc:creator>Caiyun Zhang</dc:creator>
+      <dc:creator>Kang Xiao</dc:creator>
+      <dc:creator>Chunsheng Chen</dc:creator>
+      <dc:creator>Xia Huang</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Weichen Lin, Tao Xue, Haojie Ding, Ziwei Liu, Caiyun Zhang, Kang Xiao, Chunsheng Chen, Xia Huang
+
+Journal: Nature Communications
+
+Abstract: Abstract Membrane bioreactors (MBRs) are widely applied in municipal wastewater treatment, yet their broader adoption has been constrained by energy-intensive aeration and membrane fouling. Here, we report approximately 800 consecutive days of full-scale (7500 m 3 d −1 ) parallel operation of the vibrating MBR (VMBR) and the conventional aerated MBR (AMBR) systems, systematically comparing their pollutant removal performance, long-term filtration stability, membrane fouling mechanisms, and full life cycle environmental impacts. Results showed that the VMBR demonstrated enhanced nutrient removal, lowering effluent total nitrogen by 22% and reducing the chemical dosage for phosphorus removal by 40% compared with the AMBR. It also exhibited enhanced fouling resistance, with a 20% higher average specific flux than that of the AMBR throughout the operation. Mechanism analysis revealed that the VMBR generated effective, uniform shear at the membrane surface while preserving the sludge floc structure, thereby mitigating membrane fouling. Consequently, the VMBR reduced specific energy consumption for fouling control by 75% and the overall carbon footprint by 30%. We validate that VMBRs represent a scalable, energy-efficient and sustainable technology for future wastewater treatment.</description>
+    </item>
+    <item>
+      <title>Quantitative Prediction of Exchangeable Proton Chemical Shifts</title>
+      <link>https://doi.org/10.1038/s41467-026-75743-w</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75743-w</guid>
+
+      <dc:creator>Ondřej Socha</dc:creator>
+      <dc:creator>Jana Pavlišová</dc:creator>
+      <dc:creator>Debashree Manna</dc:creator>
+      <dc:creator>Martin Dračínský</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ondřej Socha, Jana Pavlišová, Debashree Manna, Martin Dračínský
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Unlocking solar-derived CO2 conversion to hydrocarbons over plasmonic Cu-Fe tandem catalysts under industrially relevant conditions</title>
+      <link>https://doi.org/10.1038/s41467-026-75764-5</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75764-5</guid>
+
+      <dc:creator>Xinhuilan Wang</dc:creator>
+      <dc:creator>Alejandra Rendón-Patiño</dc:creator>
+      <dc:creator>Diego Mateo</dc:creator>
+      <dc:creator>Jorge Gascon</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xinhuilan Wang, Alejandra Rendón-Patiño, Diego Mateo, Jorge Gascon
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Fluorine-free acetonitrile-based electrolytes with anion-reinforced solvation chemistry for sustainable sodium-ion full batteries</title>
+      <link>https://doi.org/10.1038/s41467-026-75258-4</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75258-4</guid>
+
+      <dc:creator>Xu Xu</dc:creator>
+      <dc:creator>Jian Chen</dc:creator>
+      <dc:creator>Zhuo Yang</dc:creator>
+      <dc:creator>Zhiming Zhou</dc:creator>
+      <dc:creator>Xiaosa Zhang</dc:creator>
+      <dc:creator>Xinhui Zeng</dc:creator>
+      <dc:creator>Yun Wan</dc:creator>
+      <dc:creator>Xiaomin Chen</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xu Xu, Jian Chen, Zhuo Yang, Zhiming Zhou, Xiaosa Zhang, Xinhui Zeng, Yun Wan, Xiaomin Chen, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Hippocampal ripples initiate cortical dimensionality expansion for memory retrieval</title>
+      <link>https://doi.org/10.1038/s41467-026-75345-6</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75345-6</guid>
+
+      <dc:creator>Casper Kerrén</dc:creator>
+      <dc:creator>Sebastian Michelmann</dc:creator>
+      <dc:creator>Christian F. Doeller</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Casper Kerrén, Sebastian Michelmann, Christian F. Doeller
+
+Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6677
+
+Abstract: Abstract How are past experiences reconstructed from memory? Learning is thought to compress external inputs into low-dimensional hippocampal representations, later expanded into high-dimensional cortical activity during recall. Hippocampal ripples, brief high-frequency bursts linked to retrieval, may initiate this expansion. Analysing intracranial EEG data from patients with pharmacoresistant epilepsy during an episodic memory task, we found that cortical dimensionality increased following ripple events during correct, but not incorrect, retrieval. This expansion correlated with faster reaction times and reinstatement of the target association. Crucially, hippocampal theta and cortical gamma phase-amplitude coupling emerged after ripples but before cortical expansion, suggesting a mechanism for ripple-driven communication. Ripple events also marked the separation of task-relevant variables in cortical state space, revealing how hippocampal output reshapes the geometry of memory representations to support successful recall.</description>
+    </item>
+    <item>
+      <title>Viral syncytia evolve to resist interferon</title>
+      <link>https://doi.org/10.1038/s41467-026-74676-8</link>
+      <guid isPermaLink="false">10.1038/s41467-026-74676-8</guid>
+
+      <dc:creator>Tiansheng Li</dc:creator>
+      <dc:creator>Insung Kang</dc:creator>
+      <dc:creator>Juan Ye</dc:creator>
+      <dc:creator>Zhe Hu</dc:creator>
+      <dc:creator>James Gibbs</dc:creator>
+      <dc:creator>Chengjin Ye</dc:creator>
+      <dc:creator>Kazuyo Takeda</dc:creator>
+      <dc:creator>Ivan Kosik</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tiansheng Li, Insung Kang, Juan Ye, Zhe Hu, James Gibbs, Chengjin Ye, Kazuyo Takeda, Ivan Kosik, et al.
+
+Journal: Nature Communications
+
+Abstract: Abstract SARS-CoV-2, like many viruses, generates syncytia but the role of syncytia formation in viral evolution remains unknown. Using SARS-CoV-2 and SARS-CoV-2 Spike (S) replacement vesicular stomatitis (VSV), we show that S-mediated syncytia impair the antiviral effects of interferons in cultured cells, human lung cell cultures, and hACE2 transgenic mice. Amino acid substitutions that modulate syncytia formation in Delta- and Omicron-encoded S have parallel effects on viral interferon resistance. S-mediated syncytia compromise antibody-mediated virus neutralization in cultured cells. We recapitulate interferon and neutralizing antibody resistance in syncytia generated by the orthoreovirus p14 fusion-associated small transmembrane (FAST) protein in VSV, influenza virus, and seasonal coronavirus OC43 infections. These findings explain selection of SARS-CoV-2 fusogenic variants in humans and, more generally, the evolution of fusogenic viruses driven by adaptive and innate immunity.</description>
+    </item>
+    <item>
+      <title>Stable high-valent iridium single atoms for high-temperature CO2 electrolysis</title>
+      <link>https://doi.org/10.1038/s41467-026-75580-x</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75580-x</guid>
+
+      <dc:creator>Shaowei Zhang</dc:creator>
+      <dc:creator>Shuo Wang</dc:creator>
+      <dc:creator>Hewei Liu</dc:creator>
+      <dc:creator>Geng Zou</dc:creator>
+      <dc:creator>Yige Guo</dc:creator>
+      <dc:creator>Wenwen Zhang</dc:creator>
+      <dc:creator>Lina Yu</dc:creator>
+      <dc:creator>Haolin Liu</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shaowei Zhang, Shuo Wang, Hewei Liu, Geng Zou, Yige Guo, Wenwen Zhang, Lina Yu, Haolin Liu, et al.
 
 Journal: Nature Communications</description>
     </item>
@@ -143,24 +926,6 @@ Journal: Nature Communications</description>
 Journal: Nature Communications
 
 Abstract: Abstract The growing constraints of Moore’s Law have fundamentally impeded further advancement in the energy efficiency of conventional electronic integrated circuits. In response, integrated photonics has emerged as a promising solution due to its exceptional bandwidth and ultralow latency. Optical digital computing based on integrated photonics offers inherent advantages in operation speed and energy efficiency compared to electronic digital schemes. However, implementing multi-functional arithmetic logic primitives on photonic chips still face a considerable challenge, and the reported works are mainly limited to basic logic gates or isolated computing modules rather than reconfigurable computational systems. Here, we report a reconfigurable optical computing architecture utilizing silicon-based microring modulators, which can implement reconfigurable basic logic operations and various arithmetic logic units, including 2-bit adder, subtractor and digital comparator. The experimental results demonstrate high computational density of 528 Gb/s/mm 2 and energy efficiency of 12.36 fJ/bit at the operation speed of 20 Gb/s. The proposed device’s practical viability is further demonstrated through multiple application scenarios including data encryption and image processing.</description>
-    </item>
-    <item>
-      <title>Stable high-valent iridium single atoms for high-temperature CO2 electrolysis</title>
-      <link>https://doi.org/10.1038/s41467-026-75580-x</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75580-x</guid>
-
-      <dc:creator>Shaowei Zhang</dc:creator>
-      <dc:creator>Shuo Wang</dc:creator>
-      <dc:creator>Hewei Liu</dc:creator>
-      <dc:creator>Geng Zou</dc:creator>
-      <dc:creator>Yige Guo</dc:creator>
-      <dc:creator>Wenwen Zhang</dc:creator>
-      <dc:creator>Lina Yu</dc:creator>
-      <dc:creator>Haolin Liu</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shaowei Zhang, Shuo Wang, Hewei Liu, Geng Zou, Yige Guo, Wenwen Zhang, Lina Yu, Haolin Liu, et al.
-
-Journal: Nature Communications</description>
     </item>
     <item>
       <title>Morphogenic colloids</title>
@@ -217,20 +982,6 @@ Abstract: Abstract Neural functions and circuit formation rely on intricate cros
 Journal: Nature Communications</description>
     </item>
     <item>
-      <title>Raphia hookeri seed-inspired weakly anisotropic nanocomposites</title>
-      <link>https://doi.org/10.1038/s41467-026-75719-w</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75719-w</guid>
-
-      <dc:creator>Jiajun Mao</dc:creator>
-      <dc:creator>Jia Yan</dc:creator>
-      <dc:creator>Ziyu Wang</dc:creator>
-      <dc:creator>Qunfeng Cheng</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jiajun Mao, Jia Yan, Ziyu Wang, Qunfeng Cheng
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
       <title>Imaging of gate-controlled suppression of superconductivity via the Meissner effect</title>
       <link>https://doi.org/10.1038/s41467-026-75567-8</link>
       <guid isPermaLink="false">10.1038/s41467-026-75567-8</guid>
@@ -249,6 +1000,20 @@ Journal: Nature Communications</description>
 Journal: Nature Communications
 
 Abstract: Abstract It was recently discovered that supercurrents flowing through thin superconducting nanowires can be quenched by applying a gate voltage to a nearby gate electrode. This gate control of supercurrents, known as the GCS effect, could enable superconducting transistor logic. Here, we report that the GCS also manifests in a suppression of Meissner screening, establishing the phenomenon as a genuine feature of superconductivity that is not restricted to transport. Using a scanning nitrogen-vacancy (NV) magnetometer at sub-Kelvin temperatures, we image the nanoscale spatial region of GCS suppression in micron-size niobium islands. Our observations are compatible with a microscopic hot-spot model of quasiparticle generation and diffusion, and in conflict with other candidate mechanisms such as Joule heating or an electric field effect. Our work introduces an alternative means for studying quasiparticle dynamics in superconducting nanostructures, and showcases the power of local imaging techniques for understanding emergent condensed matter phenomena.</description>
+    </item>
+    <item>
+      <title>Raphia hookeri seed-inspired weakly anisotropic nanocomposites</title>
+      <link>https://doi.org/10.1038/s41467-026-75719-w</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75719-w</guid>
+
+      <dc:creator>Jiajun Mao</dc:creator>
+      <dc:creator>Jia Yan</dc:creator>
+      <dc:creator>Ziyu Wang</dc:creator>
+      <dc:creator>Qunfeng Cheng</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jiajun Mao, Jia Yan, Ziyu Wang, Qunfeng Cheng
+
+Journal: Nature Communications</description>
     </item>
     <item>
       <title>Coulomb interaction-stabilized isolated narrow bands with Chern numbers $${{\mathcal{C}}} &amp;gt; 1$$ in twisted rhombohedral trilayer-bilayer graphene</title>
@@ -281,24 +1046,6 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
-      <title>Frequency-dependent effects of motor thalamus deep brain stimulation on speech and swallowing</title>
-      <link>https://doi.org/10.1038/s41467-026-75588-3</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75588-3</guid>
-
-      <dc:creator>Lilly W. Tang</dc:creator>
-      <dc:creator>Erinn M. Grigsby</dc:creator>
-      <dc:creator>Arianna Damiani</dc:creator>
-      <dc:creator>Jonathan C. Ho</dc:creator>
-      <dc:creator>Isabella M. Montanaro</dc:creator>
-      <dc:creator>Sirisha Nouduri</dc:creator>
-      <dc:creator>Scott Ensel</dc:creator>
-      <dc:creator>Sara Trant</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lilly W. Tang, Erinn M. Grigsby, Arianna Damiani, Jonathan C. Ho, Isabella M. Montanaro, Sirisha Nouduri, Scott Ensel, Sara Trant, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
       <title>Engineering microbial consortia for distributed signal processing</title>
       <link>https://doi.org/10.1038/s41467-026-75739-6</link>
       <guid isPermaLink="false">10.1038/s41467-026-75739-6</guid>
@@ -313,6 +1060,24 @@ Journal: Nature Communications</description>
       <dc:creator>Sizhe Liu</dc:creator>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Katherine E. Duncker, Ashwini R. Shende, Irida Shyti, Ashley Ruan, Ryan D’Cunha, Harshitha Venugopal-Lavanya, Helena R. Ma, Sizhe Liu, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Frequency-dependent effects of motor thalamus deep brain stimulation on speech and swallowing</title>
+      <link>https://doi.org/10.1038/s41467-026-75588-3</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75588-3</guid>
+
+      <dc:creator>Lilly W. Tang</dc:creator>
+      <dc:creator>Erinn M. Grigsby</dc:creator>
+      <dc:creator>Arianna Damiani</dc:creator>
+      <dc:creator>Jonathan C. Ho</dc:creator>
+      <dc:creator>Isabella M. Montanaro</dc:creator>
+      <dc:creator>Sirisha Nouduri</dc:creator>
+      <dc:creator>Scott Ensel</dc:creator>
+      <dc:creator>Sara Trant</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Lilly W. Tang, Erinn M. Grigsby, Arianna Damiani, Jonathan C. Ho, Isabella M. Montanaro, Sirisha Nouduri, Scott Ensel, Sara Trant, et al.
 
 Journal: Nature Communications</description>
     </item>
@@ -527,17 +1292,6 @@ Journal: Nature Communications
 Abstract: Abstract Conversion-type static bromine batteries demonstrate promise in high output voltage and large capacity for rechargeable energy storage due to the inherent polyvalent reaction potential. Nevertheless, the combination of the limited two-electron 2Br - /Br 2 redox couple and the redox-inactive organic ligands presents a fundamental bottleneck for the overall specific energy. Herein, ethyl viologen dibromide is developed as an energetically active positive electrode for organic lithium-bromine batteries by efficient coordination chemistry, featuring an advanced six-electron redox mechanism triggered by both intercalation and conversion reactions. The activated redox couple of 2Br - /2Br + incubates a collaborative increase in capacity (632.8 mAh g −1 Br ) and discharge voltage (3.7 V). Besides, ethyl viologen undergoes reversible two-step intercalation and extraction of Li + ions, contributing to additional energy storage. Reciprocal spectroscopic characterizations and computational electrochemistry indicate the chemisorption effect and interhalogen confinement and detail the dynamic mass-charge transfer pathway. This work sets a paradigm worth emulating for designing high-performance halogen batteries.</description>
     </item>
     <item>
-      <title>The Japanese Palaeolithic deserves more attention in Western narratives about human expansion across Asia</title>
-      <link>https://doi.org/10.1038/s41467-026-74116-7</link>
-      <guid isPermaLink="false">10.1038/s41467-026-74116-7</guid>
-
-      <dc:creator>Robin Dennell</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Robin Dennell
-
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6387</description>
-    </item>
-    <item>
       <title>Unraveling daily dynamics of supraglacial lakes in response to hydrological pulses and anomalous climate signals</title>
       <link>https://doi.org/10.1038/s41467-026-75669-3</link>
       <guid isPermaLink="false">10.1038/s41467-026-75669-3</guid>
@@ -556,6 +1310,17 @@ Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6387</desc
 Journal: Nature Communications</description>
     </item>
     <item>
+      <title>The Japanese Palaeolithic deserves more attention in Western narratives about human expansion across Asia</title>
+      <link>https://doi.org/10.1038/s41467-026-74116-7</link>
+      <guid isPermaLink="false">10.1038/s41467-026-74116-7</guid>
+
+      <dc:creator>Robin Dennell</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Robin Dennell
+
+Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6387</description>
+    </item>
+    <item>
       <title>Quasi-solitons in Rydberg atom chains</title>
       <link>https://doi.org/10.1038/s41467-026-75598-1</link>
       <guid isPermaLink="false">10.1038/s41467-026-75598-1</guid>
@@ -570,6 +1335,24 @@ Journal: Nature Communications</description>
 Journal: Nature Communications
 
 Abstract: Abstract Solitons—localized wave packets that travel without spreading—play a central role in understanding transport and properties of nonlinear systems. In quantum many-body systems, however, such robust excitations are typically destroyed by thermalization. Here, we theoretically demonstrate the existence of solitonic excitations in high-energy states of Rydberg atom chains in the regime of strong nearest-neighbor Rydberg blockade. These localized wave packets propagate directionally atop a special class of reviving initial states related to quantum many-body scars and are capable of carrying energy. Exhibiting long coherence times, these states constitute a form of non-ergodic quantum dynamics and can be efficiently implemented on Rydberg atom simulators. In this work, in addition to a phenomenological description of solitons, we identify their counterpart in a classical nonlinear dynamical system, demonstrate their potential use in quantum information transfer, and conjecture their relevance for anomalous energy transport reported in numerical studies of Rydberg atom arrays.</description>
+    </item>
+    <item>
+      <title>Major urinary protein 1 modulates neuronal excitability in the medial prefrontal cortex in a male mouse model of affective empathy</title>
+      <link>https://doi.org/10.1038/s41467-026-75424-8</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75424-8</guid>
+
+      <dc:creator>Kun Zhang</dc:creator>
+      <dc:creator>Dake Song</dc:creator>
+      <dc:creator>Yingying Zhang</dc:creator>
+      <dc:creator>Le Yang</dc:creator>
+      <dc:creator>Ban Feng</dc:creator>
+      <dc:creator>Ruixia Liu</dc:creator>
+      <dc:creator>Hengxin Gong</dc:creator>
+      <dc:creator>Longbiao Cui</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kun Zhang, Dake Song, Yingying Zhang, Le Yang, Ban Feng, Ruixia Liu, Hengxin Gong, Longbiao Cui, et al.
+
+Journal: Nature Communications</description>
     </item>
     <item>
       <title>β-arrestin recruitment facilitates a direct association with G proteins</title>
@@ -590,24 +1373,6 @@ Abstract: Abstract Solitons—localized wave packets that travel without spreadi
 Journal: Nature Communications
 
 Abstract: Abstract G protein-coupled receptors (GPCRs) are targets for almost a third of all FDA-approved drugs. GPCRs are known to signal through both heterotrimeric G proteins and β-arrestins. Traditionally these pathways were viewed as largely separable, with G proteins primarily initiating downstream signaling while β-arrestins modulate receptor trafficking and desensitization in addition to regulating their own signaling events. Recent studies suggest an integrated role of G proteins and β-arrestins in GPCR signaling, however the cellular and biochemical requirements for G protein:β-arrestin interactions remain unclear. Here, we show that G proteins and β-arrestins can directly interact. Through utilization of β-arrestin-biased receptors and artificially enforced β-arrestin relocalization, we demonstrate that recruitment of β-arrestin to the plasma membrane is sufficient to interact with the G protein Gαi. Using purified proteins, we show that Gαi directly interacts with β-arrestin. In addition, we find that Gαi family members differ in their degree of association with β-arrestin, and that a large degree of this selectivity resides within the alpha helical domain of Gαi. These findings delineate the cellular and biochemical conditions that drive direct interactions between G proteins and β-arrestins and illuminate the molecular basis for how they interact.</description>
-    </item>
-    <item>
-      <title>Major urinary protein 1 modulates neuronal excitability in the medial prefrontal cortex in a male mouse model of affective empathy</title>
-      <link>https://doi.org/10.1038/s41467-026-75424-8</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75424-8</guid>
-
-      <dc:creator>Kun Zhang</dc:creator>
-      <dc:creator>Dake Song</dc:creator>
-      <dc:creator>Yingying Zhang</dc:creator>
-      <dc:creator>Le Yang</dc:creator>
-      <dc:creator>Ban Feng</dc:creator>
-      <dc:creator>Ruixia Liu</dc:creator>
-      <dc:creator>Hengxin Gong</dc:creator>
-      <dc:creator>Longbiao Cui</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kun Zhang, Dake Song, Yingying Zhang, Le Yang, Ban Feng, Ruixia Liu, Hengxin Gong, Longbiao Cui, et al.
-
-Journal: Nature Communications</description>
     </item>
     <item>
       <title>Highly Efficient Methane Electrosynthesis Enabled by Precise, Multifaceted Interface Regulation</title>
@@ -688,21 +1453,6 @@ Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6539
 Abstract: Abstract Natural gas supplies in Europe were disrupted and energy prices soared in the context of Russia’s invasion of Ukraine. Electricity prices in France experienced the largest relative increase among European countries, even though the share of natural gas in the electricity mix is small compared to its neighbours. In this article, we demonstrate the importance of causal statistical methods and propose causal graphs to investigate the French and Spanish electricity markets and pinpoint key influencing factors on electricity prices and net exports. We demonstrate that a causal approach resolves paradoxical results of simple correlation studies and enables a quantitative analysis of indirect causal effects and what-if scenarios. We introduce a linear structural causal model as well as non-linear tree-based machine learning combined with Shapley Flow values. The models elucidate the interplay of gas prices and the unavailability of nuclear power plants during the energy crisis as the high unavailability made France dependent on imports.</description>
     </item>
     <item>
-      <title>Flow matching for reaction pathway generation</title>
-      <link>https://doi.org/10.1038/s41467-026-75654-w</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75654-w</guid>
-
-      <dc:creator>Ping Tuo</dc:creator>
-      <dc:creator>Jiale Chen</dc:creator>
-      <dc:creator>Ju Li</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ping Tuo, Jiale Chen, Ju Li
-
-Journal: Nature Communications
-
-Abstract: Abstract Elucidating reaction mechanisms requires efficient generation of transition states (TSs) and products. Existing diffusion and sequence-based models accelerate parts of this process over traditional string-based methods, but typically still require manual enumeration of either TSs or products, and stochastic diffusion dynamics can be inefficient and hard to control. We introduce MolGEN, a conditional flow-matching framework that uses deterministic optimal transport to map Gaussian priors to chemical distributions. For TS generation, MolGEN improves TS geometry and barrier-height prediction over diffusion models while enabling sub-second sampling. For reaction product generation, it achieves competitive top- k accuracy while preserving mass and electron balance. Using the same backbone for TS and product sampling, MolGEN enables template-free generative exploration of reaction networks without the repeated quantum-chemistry searches required by prior methods. For the γ -ketohydroperoxide decomposition network, it produces more valid TSs than string-based methods using only 12 quantum-chemistry evaluations instead of 1156, and identifies a lower-barrier pathway.</description>
-    </item>
-    <item>
       <title>Mediterranean outflow waters supply North Atlantic convection sites</title>
       <link>https://doi.org/10.1038/s41467-026-75523-6</link>
       <guid isPermaLink="false">10.1038/s41467-026-75523-6</guid>
@@ -716,6 +1466,21 @@ Abstract: Abstract Elucidating reaction mechanisms requires efficient generation
       <description>Authors: Elena Calvo, Paola Malanotte-Rizzoli, Milena Menna, Riccardo Martellucci, Enrico Zambianchi
 
 Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Flow matching for reaction pathway generation</title>
+      <link>https://doi.org/10.1038/s41467-026-75654-w</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75654-w</guid>
+
+      <dc:creator>Ping Tuo</dc:creator>
+      <dc:creator>Jiale Chen</dc:creator>
+      <dc:creator>Ju Li</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ping Tuo, Jiale Chen, Ju Li
+
+Journal: Nature Communications
+
+Abstract: Abstract Elucidating reaction mechanisms requires efficient generation of transition states (TSs) and products. Existing diffusion and sequence-based models accelerate parts of this process over traditional string-based methods, but typically still require manual enumeration of either TSs or products, and stochastic diffusion dynamics can be inefficient and hard to control. We introduce MolGEN, a conditional flow-matching framework that uses deterministic optimal transport to map Gaussian priors to chemical distributions. For TS generation, MolGEN improves TS geometry and barrier-height prediction over diffusion models while enabling sub-second sampling. For reaction product generation, it achieves competitive top- k accuracy while preserving mass and electron balance. Using the same backbone for TS and product sampling, MolGEN enables template-free generative exploration of reaction networks without the repeated quantum-chemistry searches required by prior methods. For the γ -ketohydroperoxide decomposition network, it produces more valid TSs than string-based methods using only 12 quantum-chemistry evaluations instead of 1156, and identifies a lower-barrier pathway.</description>
     </item>
     <item>
       <title>Glycerol metabolism triggers trypanosome differentiation into transmissible forms in mammalian tissue-like conditions</title>
@@ -792,24 +1557,6 @@ Abstract: Abstract Regional epithelial lineages of the human respiratory system 
 Journal: Nature Communications</description>
     </item>
     <item>
-      <title>Visualizing excitonic states in constructed cyclic molecular architectures by tip-enhanced photoluminescence</title>
-      <link>https://doi.org/10.1038/s41467-026-75721-2</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75721-2</guid>
-
-      <dc:creator>Shi-Hao Jing</dc:creator>
-      <dc:creator>Fan-Fang Kong</dc:creator>
-      <dc:creator>Xian-Ke Wang</dc:creator>
-      <dc:creator>Yan-Zhong Li</dc:creator>
-      <dc:creator>Xiao-Jun Tian</dc:creator>
-      <dc:creator>Yang Luo</dc:creator>
-      <dc:creator>Gong Chen</dc:creator>
-      <dc:creator>Yao Zhang</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shi-Hao Jing, Fan-Fang Kong, Xian-Ke Wang, Yan-Zhong Li, Xiao-Jun Tian, Yang Luo, Gong Chen, Yao Zhang, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
       <title>CD33 and clusterin interact biophysically and genetically to modulate Alzheimer risk</title>
       <link>https://doi.org/10.1038/s41467-026-75140-3</link>
       <guid isPermaLink="false">10.1038/s41467-026-75140-3</guid>
@@ -828,6 +1575,24 @@ Journal: Nature Communications</description>
 Journal: Nature Communications
 
 Abstract: Abstract Mechanisms linking CD33 variants to Alzheimer Disease (AD) are poorly defined. Here, we combine structural, cellular, and genetic analyses to delineate how the CD33 M splice isoform, upregulated in carriers of CD33 risk alleles, modulates microglial function. We show that CD33 M ectodomain dimerizes, enabling binding of large multi-sialylated molecules. We demonstrate that another AD risk protein - clusterin (CLU) ± Aβ oligomers (but not ApoE) binds with nanomolar avidity to CD33 M , but not CD33 m . We show that in human monocytes CD33 M :CLU binding induces CD33 M ITIM phosphorylation, recruits SHP-1, suppresses Aβ phagocytosis, and impairs clearance of amyloid plaques. We identify a soluble CD33 M ectodomain fragment (sCD33 M ) - absent from CD33 m -expressing cells - which could contribute to the role of CD33 M in AD. Genetic analyses confirm that CD33:CLU interaction modulates amyloid burden, cognition, and disease risk. These findings define a mechanistic CLU:Aβ:CD33 M axis, highlighting CD33 M dimerization and ligand-binding sites as potential therapeutic targets.</description>
+    </item>
+    <item>
+      <title>Visualizing excitonic states in constructed cyclic molecular architectures by tip-enhanced photoluminescence</title>
+      <link>https://doi.org/10.1038/s41467-026-75721-2</link>
+      <guid isPermaLink="false">10.1038/s41467-026-75721-2</guid>
+
+      <dc:creator>Shi-Hao Jing</dc:creator>
+      <dc:creator>Fan-Fang Kong</dc:creator>
+      <dc:creator>Xian-Ke Wang</dc:creator>
+      <dc:creator>Yan-Zhong Li</dc:creator>
+      <dc:creator>Xiao-Jun Tian</dc:creator>
+      <dc:creator>Yang Luo</dc:creator>
+      <dc:creator>Gong Chen</dc:creator>
+      <dc:creator>Yao Zhang</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shi-Hao Jing, Fan-Fang Kong, Xian-Ke Wang, Yan-Zhong Li, Xiao-Jun Tian, Yang Luo, Gong Chen, Yao Zhang, et al.
+
+Journal: Nature Communications</description>
     </item>
     <item>
       <title>Convergent nuclear proteostasis alterations across 40S ribosomal protein deficiencies</title>
@@ -995,801 +1760,6 @@ Abstract: Abstract The yeast RAD27 gene encodes the Rad27/Fen1 nuclease, which c
       <description>Authors: Asato Onishi, Yoichi Kageyama, Cédric Bareille, Sogen Ikegami, Zifan Xu, Kota Ishihara, Hirokazu Fujiwara, Zehao Wang, et al.
 
 Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6130</description>
-    </item>
-    <item>
-      <title>Targeted polar entropy regulation enables superior energy-storage in tungsten bronze multilayer capacitors</title>
-      <link>https://doi.org/10.1038/s41467-026-75156-9</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75156-9</guid>
-
-      <dc:creator>Haonan Peng</dc:creator>
-      <dc:creator>Jiyang Xie</dc:creator>
-      <dc:creator>Jiaqi Li</dc:creator>
-      <dc:creator>Teng Lu</dc:creator>
-      <dc:creator>Lingling Wei</dc:creator>
-      <dc:creator>Wanbiao Hu</dc:creator>
-      <dc:creator>Yun Liu</dc:creator>
-      <dc:creator>Zhen Liu</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Haonan Peng, Jiyang Xie, Jiaqi Li, Teng Lu, Lingling Wei, Wanbiao Hu, Yun Liu, Zhen Liu, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>IL-26-driven epigenetic remodeling promotes immune evasion in colorectal cancer</title>
-      <link>https://doi.org/10.1038/s41467-026-75754-7</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75754-7</guid>
-
-      <dc:creator>Takumi Itoh</dc:creator>
-      <dc:creator>Ryo Hatano</dc:creator>
-      <dc:creator>Yuta Hasegawa</dc:creator>
-      <dc:creator>Nao Hosokawa</dc:creator>
-      <dc:creator>Kazuyoshi Takeda</dc:creator>
-      <dc:creator>Ayako Yamamoto</dc:creator>
-      <dc:creator>Yoshiya Horimoto</dc:creator>
-      <dc:creator>Jinghui Yu</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Takumi Itoh, Ryo Hatano, Yuta Hasegawa, Nao Hosokawa, Kazuyoshi Takeda, Ayako Yamamoto, Yoshiya Horimoto, Jinghui Yu, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Bound water as a kinetic crosslinker for bio-inspired impact-stiffening polymers</title>
-      <link>https://doi.org/10.1038/s41467-026-75737-8</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75737-8</guid>
-
-      <dc:creator>Siyu Jin</dc:creator>
-      <dc:creator>Zhaoming Zhang</dc:creator>
-      <dc:creator>Menghao Ji</dc:creator>
-      <dc:creator>Jiheng Hu</dc:creator>
-      <dc:creator>Dianteng Zhao</dc:creator>
-      <dc:creator>Yichen Huang</dc:creator>
-      <dc:creator>Jiajia Xue</dc:creator>
-      <dc:creator>Hang Zhao</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Siyu Jin, Zhaoming Zhang, Menghao Ji, Jiheng Hu, Dianteng Zhao, Yichen Huang, Jiajia Xue, Hang Zhao, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Antiretroviral therapy in the peripartum period impairs post pregnancy cardiac reverse remodeling in a rodent model</title>
-      <link>https://doi.org/10.1038/s41467-026-75510-x</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75510-x</guid>
-
-      <dc:creator>Nicole Taube</dc:creator>
-      <dc:creator>Mateus P. Mori</dc:creator>
-      <dc:creator>Sherry Coulter</dc:creator>
-      <dc:creator>Madeline Jeshurin</dc:creator>
-      <dc:creator>Julia House</dc:creator>
-      <dc:creator>Cristina A. Nadalutti</dc:creator>
-      <dc:creator>Don A. Delker</dc:creator>
-      <dc:creator>Michelle C. Cora</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nicole Taube, Mateus P. Mori, Sherry Coulter, Madeline Jeshurin, Julia House, Cristina A. Nadalutti, Don A. Delker, Michelle C. Cora, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Cardiovascular (CV) disease is the leading cause of maternal mortality worldwide and has been partially linked to the cardiometabolic remodeling required to support fetal growth. In healthy pregnancies, these adaptations reverse postpartum without long-term consequences; however, impaired reverse remodeling (RR) increases future CV risk. Pregnant women living with HIV face additional risk, though it remains unclear whether this is driven by chronic low-level viremia or continuous antiretroviral therapy (ART). ART used during pregnancy often includes nucleoside reverse transcriptase inhibitors (NRTIs), which can affect mitochondria - organelles essential for maintaining cardiac function. Here, we tested the hypothesis that NRTI-containing ART negatively impacts the maternal heart. Using a rat model, we show that ART impairs pregnancy-associated cardiac RR. Mechanistically, ART induced mitochondrial alterations in both the heart and the liver, leading to dyslipidemia that collectively compromised cardiac function. These findings emphasize the importance of maternal cardiovascular health research and the need for further studies on the long-term effects of ART.</description>
-    </item>
-    <item>
-      <title>ASB2 inhibits lipid accumulation to promote ILC1 homeostatic fitness and anti-tumor immunity in the mouse liver</title>
-      <link>https://doi.org/10.1038/s41467-026-75517-4</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75517-4</guid>
-
-      <dc:creator>Boqun Bao</dc:creator>
-      <dc:creator>Xianwei Wang</dc:creator>
-      <dc:creator>Yawen Chen</dc:creator>
-      <dc:creator>Xiaodong Zheng</dc:creator>
-      <dc:creator>Yongyan Chen</dc:creator>
-      <dc:creator>Haoyu Sun</dc:creator>
-      <dc:creator>Guoliang Cui</dc:creator>
-      <dc:creator>Rui Sun</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Boqun Bao, Xianwei Wang, Yawen Chen, Xiaodong Zheng, Yongyan Chen, Haoyu Sun, Guoliang Cui, Rui Sun, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Type 1 innate lymphoid cells (ILC1) are abundant in the adult liver and are pivotal for immune surveillance and modulation, but the regulation of their maintenance and functionality remains underexplored. Here, we re-analyze published single-cell RNA- sequencing data and find increased expression of Asb2 in ILC1s from adult mouse livers. Conditional ablation of Asb2 in NKp46 + cells, depleting ASB2 in ILC1s and NK cells, in mice impairs ILC1 survival and reduces adult liver ILC1 numbers. Proteomics and bulk RNA-sequencing reveal enriched lipid metabolism pathways in ASB2-deficient ILC1s, concomitant with increased lipid storage. Importantly, pharmacological inhibition of lipid synthesis prevents the apoptosis of ASB2-deficient ILC1s in vitro. In a mouse model of colorectal cancer liver metastasis, we find increased ILC1 lipid storage, and conditional Asb2 deficiency in ILC1 cells exacerbates liver metastasis progression. Conversely, inhibiting lipid accumulation in wild-type colorectal cancer-bearing mice prolongs animal survival, potentially via promoting ILC1-mediated anti-tumor immunity. Thus, our study uncovers ASB2-regulated lipid metabolism as a gatekeeper for ILC1 homeostatic fitness and tumor surveillance, highlighting potential ILC1-based therapeutic strategies against liver tumors.</description>
-    </item>
-    <item>
-      <title>A computational framework for designing micron-scale crisscross DNA megastructures</title>
-      <link>https://doi.org/10.1038/s41467-026-75175-6</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75175-6</guid>
-
-      <dc:creator>Matthew Aquilina</dc:creator>
-      <dc:creator>Florian Katzmeier</dc:creator>
-      <dc:creator>Minke A. D. Nijenhuis</dc:creator>
-      <dc:creator>Siyuan Stella Wang</dc:creator>
-      <dc:creator>Corey Becker</dc:creator>
-      <dc:creator>Yichen Zhao</dc:creator>
-      <dc:creator>Su Hyun Seok</dc:creator>
-      <dc:creator>Julie Finkel</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Matthew Aquilina, Florian Katzmeier, Minke A. D. Nijenhuis, Siyuan Stella Wang, Corey Becker, Yichen Zhao, Su Hyun Seok, Julie Finkel, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Crisscross polymerization enables the assembly of hundreds of unique DNA origami ‘slats’ into micron-sized structures with nanoscale precision. To design these megastructures, thousands of handle sequences from a fixed library must be assigned to individual slats to encode the desired binding architecture. This complexity presents two major challenges: handles must be selected to minimize parasitic interactions that compete with desired assembly, and the fabrication of hundreds of unique slats creates a substantial logistical burden. Here, we develop a unified framework that standardizes the design and fabrication of crisscross megastructures. We use an evolutionary algorithm to optimize handle assignment and minimize parasitic binding between slats. Together with an expanded handle library, the algorithm enables the assembly of large, multi-layered megastructures that otherwise would be produced at negligible yields. We have released this framework as #-CAD, an open-source graphical application that integrates these algorithms, streamlines laboratory workflows, and makes crisscross DNA origami more broadly accessible.</description>
-    </item>
-    <item>
-      <title>Reforging Mitsunobu reaction via sulfoxides-catalyzed C(sp3)-O bond activation of alkanols</title>
-      <link>https://doi.org/10.1038/s41467-026-75633-1</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75633-1</guid>
-
-      <dc:creator>Qigang Li</dc:creator>
-      <dc:creator>Wannan Zhang</dc:creator>
-      <dc:creator>Jiaxin Liu</dc:creator>
-      <dc:creator>Jun Yang</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Qigang Li, Wannan Zhang, Jiaxin Liu, Jun Yang
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Population expansion of early Upper Palaeolithic hunter-gatherers triggered cultural complexity on Paleo-Honshu Island, Japan</title>
-      <link>https://doi.org/10.1038/s41467-026-73880-w</link>
-      <guid isPermaLink="false">10.1038/s41467-026-73880-w</guid>
-
-      <dc:creator>Shunsuke Totsuka</dc:creator>
-      <dc:creator>Kazuki Morisaki</dc:creator>
-      <dc:creator>Masami Izuho</dc:creator>
-      <dc:creator>Katsuhiro Sano</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shunsuke Totsuka, Kazuki Morisaki, Masami Izuho, Katsuhiro Sano
-
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6388</description>
-    </item>
-    <item>
-      <title>High-performance multijunction perovskite LEDs with reduced interconnection loss</title>
-      <link>https://doi.org/10.1038/s41467-026-75756-5</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75756-5</guid>
-
-      <dc:creator>Feiyun Zhao</dc:creator>
-      <dc:creator>Haifeng Zhao</dc:creator>
-      <dc:creator>Zhennan Tian</dc:creator>
-      <dc:creator>Aobo Ren</dc:creator>
-      <dc:creator>Lechuan Chen</dc:creator>
-      <dc:creator>Hengyu Liu</dc:creator>
-      <dc:creator>Jun Wu</dc:creator>
-      <dc:creator>Kai Shen</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Feiyun Zhao, Haifeng Zhao, Zhennan Tian, Aobo Ren, Lechuan Chen, Hengyu Liu, Jun Wu, Kai Shen, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Tandem light-emitting diodes (LEDs) offer advantages in efficiency, brightness and lower the current density for a target brightness, but their implementation in solution-processed perovskite LEDs is limited by interconnection strategies that introduce high voltage penalties and poor robustness. Here we demonstrate a hierarchically structured interconnection layer (ICL) integrating a near-degenerate charge-generation junction with a crystalline-amorphous oxide composite, enabling low-barrier transport and solvent-tolerant stacking with reduced loss. Using this ICL, we realize double-junction perovskite LEDs in which two subunits operate efficiently in series, achieving a peak external quantum efficiency (EQE) of 42.6%, a maximum radiance of 690 W sr −1 m −2 , and low driving voltage. The ICL is compatible with multiple perovskite emitters and supports scalable multijunction integration, yielding multijunction devices with sub-bandgap turn-on voltages and high EQEs exceeding 60%. Our results establish a low-loss interconnection strategy for series-stacked perovskite emitters, providing a practical route toward high-brightness and multi-wavelength perovskite light sources.</description>
-    </item>
-    <item>
-      <title>Reduced melanocortin tone modulates feeding during pregnancy in mice</title>
-      <link>https://doi.org/10.1038/s41467-026-75650-0</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75650-0</guid>
-
-      <dc:creator>Ingrid Camila Possa-Paranhos</dc:creator>
-      <dc:creator>Kerem Catalbas</dc:creator>
-      <dc:creator>Samuel Congdon</dc:creator>
-      <dc:creator>Dajin Cho</dc:creator>
-      <dc:creator>Tanya Pattnaik</dc:creator>
-      <dc:creator>Christina Nelson</dc:creator>
-      <dc:creator>Aarav Pathak</dc:creator>
-      <dc:creator>Vraj Patel</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ingrid Camila Possa-Paranhos, Kerem Catalbas, Samuel Congdon, Dajin Cho, Tanya Pattnaik, Christina Nelson, Aarav Pathak, Vraj Patel, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Consequences of agricultural deforestation and subsequent afforestation on soil biodiversity and ecosystem multifunctionality</title>
-      <link>https://doi.org/10.1038/s41467-026-75740-z</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75740-z</guid>
-
-      <dc:creator>Zhi Yu</dc:creator>
-      <dc:creator>Kerong Zhang</dc:creator>
-      <dc:creator>Xiao-min Zeng</dc:creator>
-      <dc:creator>Xiaoli Cheng</dc:creator>
-      <dc:creator>Yulong Zhang</dc:creator>
-      <dc:creator>Xia Wang</dc:creator>
-      <dc:creator>Junhui Sun</dc:creator>
-      <dc:creator>Liangqi Chen</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zhi Yu, Kerong Zhang, Xiao-min Zeng, Xiaoli Cheng, Yulong Zhang, Xia Wang, Junhui Sun, Liangqi Chen, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Renal resistive index-guided mean arterial pressure titration in sepsis: a prospective single-center, single-blind, parallel-group randomized controlled trial</title>
-      <link>https://doi.org/10.1038/s41467-026-75398-7</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75398-7</guid>
-
-      <dc:creator>Can Wang</dc:creator>
-      <dc:creator>Rong Li</dc:creator>
-      <dc:creator>Qiqi Li</dc:creator>
-      <dc:creator>Meng Wang</dc:creator>
-      <dc:creator>Yan Huo</dc:creator>
-      <dc:creator>Yaqi Han</dc:creator>
-      <dc:creator>Qian Zhang</dc:creator>
-      <dc:creator>Bingqi Lu</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Can Wang, Rong Li, Qiqi Li, Meng Wang, Yan Huo, Yaqi Han, Qian Zhang, Bingqi Lu, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract In sepsis, optimizing mean arterial pressure (MAP) for organ perfusion remains challenging. We conduct a single-center, single-blind, parallel-group randomized controlled trial enrolling 274 sepsis patients to evaluate whether renal resistive index (RRI)-guided MAP titration (MAP titration group, MTG) reduces 28-day all-cause mortality (primary endpoint) compared with conventional treatment (conventional treatment group, CTG). Post-titration, RRI decreases significantly in the MTG versus CTG (0.61 vs. 0.67, P &amp;lt; 0.001). However, 28-day mortality does not differ (25/138 vs. 36/136; RR 0.69, 95% CI 0.44-1.08; P = 0.11). These findings suggest that RRI-guided MAP titration improves renal hemodynamics but does not reduce mortality in this single-center trial; multicenter confirmation is warranted. (Chinese Clinical Trial Registry, ChiCTR2200057136, registered 1 March 2022; https://www.chictr.org.cn/showprojEN.html?proj=153154 ).</description>
-    </item>
-    <item>
-      <title>ZnF-UBP domains regulate deubiquitinase activity by relieving ubiquitin product inhibition</title>
-      <link>https://doi.org/10.1038/s41467-026-75469-9</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75469-9</guid>
-
-      <dc:creator>Jack A. Alexandrovics</dc:creator>
-      <dc:creator>Rashmi Agrata</dc:creator>
-      <dc:creator>Jan André Hane</dc:creator>
-      <dc:creator>Philipp Schenk</dc:creator>
-      <dc:creator>Anthony Cerra</dc:creator>
-      <dc:creator>Ueli Nachbur</dc:creator>
-      <dc:creator>Malte Gersch</dc:creator>
-      <dc:creator>Jeffrey J. Babon</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jack A. Alexandrovics, Rashmi Agrata, Jan André Hane, Philipp Schenk, Anthony Cerra, Ueli Nachbur, Malte Gersch, Jeffrey J. Babon, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Coexistence of high temperature superconductivity and antiferromagnetic order in a cuprate with multiple hole Fermi pockets</title>
-      <link>https://doi.org/10.1038/s41467-026-75301-4</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75301-4</guid>
-
-      <dc:creator>Xiangyu Luo</dc:creator>
-      <dc:creator>Yinghao Li</dc:creator>
-      <dc:creator>Hao Chen</dc:creator>
-      <dc:creator>Yiwen Chen</dc:creator>
-      <dc:creator>Jumin Shi</dc:creator>
-      <dc:creator>Taimin Miao</dc:creator>
-      <dc:creator>Bo Liang</dc:creator>
-      <dc:creator>Wenpei Zhu</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xiangyu Luo, Yinghao Li, Hao Chen, Yiwen Chen, Jumin Shi, Taimin Miao, Bo Liang, Wenpei Zhu, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Bootstrapping multimodal large language model with medical knowledge for automatic esophagogastroduodenoscopy diagnosis and reporting</title>
-      <link>https://doi.org/10.1038/s41467-026-75377-y</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75377-y</guid>
-
-      <dc:creator>Miaojing Shi</dc:creator>
-      <dc:creator>Zijie Yue</dc:creator>
-      <dc:creator>Huihui Sun</dc:creator>
-      <dc:creator>Bo Li</dc:creator>
-      <dc:creator>Yikun Ma</dc:creator>
-      <dc:creator>Tianyu Cen</dc:creator>
-      <dc:creator>Ying Chen</dc:creator>
-      <dc:creator>Xiaofen Wu</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Miaojing Shi, Zijie Yue, Huihui Sun, Bo Li, Yikun Ma, Tianyu Cen, Ying Chen, Xiaofen Wu, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Versatile Glycan Probes for Multiplatform Investigation of Glycan Interactions with Proteins, Viruses, and Cells</title>
-      <link>https://doi.org/10.1038/s41467-026-75206-2</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75206-2</guid>
-
-      <dc:creator>Jin Yu</dc:creator>
-      <dc:creator>Alexiane Decout</dc:creator>
-      <dc:creator>Jiayun Yang</dc:creator>
-      <dc:creator>Antonio Di Maio</dc:creator>
-      <dc:creator>Wengang Chai</dc:creator>
-      <dc:creator>W. Bruce Turnbull</dc:creator>
-      <dc:creator>Thilo Stehle</dc:creator>
-      <dc:creator>Steven H. Sacks</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jin Yu, Alexiane Decout, Jiayun Yang, Antonio Di Maio, Wengang Chai, W. Bruce Turnbull, Thilo Stehle, Steven H. Sacks, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Glycan-mediated interactions are vital to development, microbial colonisation, immune signalling, and cancer progression. Glycan microarrays have revolutionised glycobiology by enabling high-throughput analysis of these complex interactions, supported by techniques that reveal kinetics and dynamics in solution or at the cellular level. We introduce multifunctional glycan probes based on a tri-functional Fmoc-Amino-Azido (FAA) linker, enabling multi-platform investigation of glycan-mediated interactions. These FAA probes support glycan presentation on both covalent and non-covalent array platforms, allowing direct comparison of glycan recognition by diverse proteins. Notably, certain viral adhesins and immune lectins show a preference for the non-covalent platform. The azido group allows further functionalisation via ‘click chemistry’, enabling biotinylation for immobilisation on bio-layer interferometry biosensors for influenza virus binding, or fluorescent tagging for flow cytometry analysis of glycan-lectin interactions on cells. These versatile probes offer a unified platform for in-depth interrogation of glycan interactions using complementary approaches, with strong potential to advance glycan-based diagnostics and therapeutics.</description>
-    </item>
-    <item>
-      <title>Repetitive neuronal activation regulates cellular maturation state via nuclear reprogramming</title>
-      <link>https://doi.org/10.1038/s41467-026-74202-w</link>
-      <guid isPermaLink="false">10.1038/s41467-026-74202-w</guid>
-
-      <dc:creator>Tomoyuki Murano</dc:creator>
-      <dc:creator>Hideo Hagihara</dc:creator>
-      <dc:creator>Katsunori Tajinda</dc:creator>
-      <dc:creator>Keizo Takao</dc:creator>
-      <dc:creator>Yoshihiro Takamiya</dc:creator>
-      <dc:creator>Kaoru Katoh</dc:creator>
-      <dc:creator>Alfred J. Robison</dc:creator>
-      <dc:creator>Mitsuyuki Matsumoto</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tomoyuki Murano, Hideo Hagihara, Katsunori Tajinda, Keizo Takao, Yoshihiro Takamiya, Kaoru Katoh, Alfred J. Robison, Mitsuyuki Matsumoto, et al.
-
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 5881
-
-Abstract: Abstract Neural stimulation, such as electroconvulsive therapy (ECT) and repetitive transcranial magnetic stimulation (rTMS), is highly effective clinical intervention for a broad spectrum of psychiatric disorders, including depression and schizophrenia. However, their mechanism of action at the cellular level remains poorly understood. Here, we model ECT with repeated optogenetic neuronal stimulation in the mouse dentate gyrus, and observe ECT-relevant behavioral changes, including decreased depression-like behavior and increased locomotor activity. At the cellular level, we identify dematuration to a long-term stable state, persisting for more than one month, defined by changes in nuclear structure, gene expression patterns resembling the G 2 /M phase of the cell cycle, and altered neural coding of navigational information. Moreover, knockout of the G 2 /M master regulator Cyclin B attenuates some of behavioral and cellular effects. These findings demonstrate that chronically-repeated brain stimulation triggers plasticity of the cellular state, revealing a form of stimulus-regulated nuclear reprogramming with potential clinical utility.</description>
-    </item>
-    <item>
-      <title>Core elements play distinct roles in promoter birth and transcriptional regulation</title>
-      <link>https://doi.org/10.1038/s41467-026-75686-2</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75686-2</guid>
-
-      <dc:creator>Syue-Ting Antony Kuo</dc:creator>
-      <dc:creator>Wei-Yi Shen</dc:creator>
-      <dc:creator>Sheng-Wen Lai</dc:creator>
-      <dc:creator>Joshua Kevin Chang</dc:creator>
-      <dc:creator>Cheng-Wei Ni</dc:creator>
-      <dc:creator>Chih-Chiang Chang</dc:creator>
-      <dc:creator>Zoltan Palmai</dc:creator>
-      <dc:creator>Lee-Wei Yang</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Syue-Ting Antony Kuo, Wei-Yi Shen, Sheng-Wen Lai, Joshua Kevin Chang, Cheng-Wei Ni, Chih-Chiang Chang, Zoltan Palmai, Lee-Wei Yang, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Measuring cardiac stroke volume through in-ear audio sensing</title>
-      <link>https://doi.org/10.1038/s41467-026-75642-0</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75642-0</guid>
-
-      <dc:creator>Kayla-Jade Butkow</dc:creator>
-      <dc:creator>Navazh Jalaludeen</dc:creator>
-      <dc:creator>Yang Liu</dc:creator>
-      <dc:creator>Jake Stuchbury-Wass</dc:creator>
-      <dc:creator>Qiang Yang</dc:creator>
-      <dc:creator>Mathias Ciliberto</dc:creator>
-      <dc:creator>Dong Ma</dc:creator>
-      <dc:creator>Joseph Cheriyan</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kayla-Jade Butkow, Navazh Jalaludeen, Yang Liu, Jake Stuchbury-Wass, Qiang Yang, Mathias Ciliberto, Dong Ma, Joseph Cheriyan, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Stroke volume, the volume of blood ejected by the left ventricle during a contraction, is a key metric of cardiovascular health. Currently, stroke volume is measured in clinic with specialised equipment. While purpose-made wearables exist to measure stroke volume, no solution relies solely on commodity devices. We present a deep learning system for stroke volume estimation from in-ear audio of earbuds. We combine generative self-supervised/transfer learning, a transformer-based autoencoder, to predict average stroke volume in unseen subjects. With data from 23 healthy participants, we compare our estimations to clinically validated device estimations. We achieve a mean absolute error of 5.24 ml, a Pearson correlation of r=0.94 between average predicted stroke volume and average true stroke volume, and a Percentage Error in the limits of agreement of 11.05% (within clinical range for stroke volume measurement devices). These findings open the doors to longitudinal, scalable and affordable cardiovascular measurement out of clinic.</description>
-    </item>
-    <item>
-      <title>Embryonic and postnatal macrophages are necessary for proper tooth development and homeostasis</title>
-      <link>https://doi.org/10.1038/s41467-026-75576-7</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75576-7</guid>
-
-      <dc:creator>Marcos Gonzalez Lopez</dc:creator>
-      <dc:creator>Kaitlin A. Katsura</dc:creator>
-      <dc:creator>Vitor C. M. Neves</dc:creator>
-      <dc:creator>Ruslan Soldatov</dc:creator>
-      <dc:creator>Josef Lavicky</dc:creator>
-      <dc:creator>Maryam Azam</dc:creator>
-      <dc:creator>Michaela Kavkova</dc:creator>
-      <dc:creator>Klara Cigosova</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marcos Gonzalez Lopez, Kaitlin A. Katsura, Vitor C. M. Neves, Ruslan Soldatov, Josef Lavicky, Maryam Azam, Michaela Kavkova, Klara Cigosova, et al.
-
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6537
-
-Abstract: Abstract The role of macrophages in teeth, beyond their function in innate immunity, remains unexplored. This study demonstrates that macrophages populate dental tissues during early development and increase in number during pre-eruptive stages postnatally. In continuously growing teeth, they are associated with epithelial and mesenchymal stem cell niches throughout lifetime. To investigate their role in development, we genetically disrupt macrophage migration using neural-crest specific Wnt1 Cre /Csf1 fl/fl and general Csf1R knockout mouse models. This results in abnormal dentin and enamel deposition, eruption defects, early tooth mispatterning, and impaired osteogenesis. Notably, the phenotype is partially rescued via bone marrow transplantation. In addition, the short-term pharmacological depletion of macrophages in wildtype adult mice causes striking disintegration of both dentin and enamel in the apical part of continuously-growing teeth, which is restored after withdrawal of clodronate. Following treatment, macrophages rapidly repopulate dental tissue and the presence of M2 reparative state phenotype is observed by single-cell RNA-seq analysis. Overall, our findings reveal essential role of macrophages in the dental development and patterning of both mesenchymal and epithelial tooth compartments. This previously unrecognized role of macrophages in teeth is reminiscent of their function in complex tissue regeneration and requires future studies to dissect precise cellular and molecular mechanisms.</description>
-    </item>
-    <item>
-      <title>Discovering heuristics in a complex SAT solver with large language models</title>
-      <link>https://doi.org/10.1038/s41467-026-74949-2</link>
-      <guid isPermaLink="false">10.1038/s41467-026-74949-2</guid>
-
-      <dc:creator>Yiwen Sun</dc:creator>
-      <dc:creator>Furong Ye</dc:creator>
-      <dc:creator>Zhihan Chen</dc:creator>
-      <dc:creator>Ke Wei</dc:creator>
-      <dc:creator>Shaowei Cai</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yiwen Sun, Furong Ye, Zhihan Chen, Ke Wei, Shaowei Cai
-
-Journal: Nature Communications
-
-Abstract: Abstract The Satisfiability problem (SAT) is fundamental in computational complexity theory and has a wide range of industrial applications. Optimizing modern SAT solvers in real-world settings is quite challenging due to their intricate architectures. While automatic configuration frameworks have been developed, they rely on manually constrained search spaces. Here we develop AutoModSAT, a framework that uses large language models (LLMs) to automatically optimize SAT solvers. AutoModSAT combines an LLM-compatible modular solver design, unsupervised prompt optimization to diversify generated functions, and an efficient search procedure based on presearch strategy and a (1 + λ ) evolutionary algorithm. Extensive experiments across a wide range of datasets demonstrate that AutoModSAT achieves 40% performance improvement over the baseline solver and 30% improvement over the state-of-the-art solvers. Moreover, AutoModSAT also attains a notable speedup compared to the parameter-tuned alternatives of the state-of-the-art solvers over most of the test datasets. These results demonstrate the potential of LLM-guided heuristic discovery for optimizing complex SAT solvers.</description>
-    </item>
-    <item>
-      <title>Ultrafast reset-free integrated polarization tracking enabled by thin-film lithium tantalate</title>
-      <link>https://doi.org/10.1038/s41467-026-75732-z</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75732-z</guid>
-
-      <dc:creator>Zichao Gao</dc:creator>
-      <dc:creator>Siyu Lu</dc:creator>
-      <dc:creator>Mingming Zhang</dc:creator>
-      <dc:creator>Gengqi Yao</dc:creator>
-      <dc:creator>Chicheng Zhang</dc:creator>
-      <dc:creator>Miao Deng</dc:creator>
-      <dc:creator>Siyu Chen</dc:creator>
-      <dc:creator>Yiqi Dai</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zichao Gao, Siyu Lu, Mingming Zhang, Gengqi Yao, Chicheng Zhang, Miao Deng, Siyu Chen, Yiqi Dai, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>A magic methyl effect in the active site of a methyltransferase ribozyme</title>
-      <link>https://doi.org/10.1038/s41467-026-75575-8</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75575-8</guid>
-
-      <dc:creator>Jana Aupič</dc:creator>
-      <dc:creator>Hsuan-Ai Chen</dc:creator>
-      <dc:creator>Carolin P. M. Scheitl</dc:creator>
-      <dc:creator>Claudia Höbartner</dc:creator>
-      <dc:creator>Alessandra Magistrato</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jana Aupič, Hsuan-Ai Chen, Carolin P. M. Scheitl, Claudia Höbartner, Alessandra Magistrato
-
-Journal: Nature Communications
-
-Abstract: Abstract The chemical richness of RNAs is greatly enhanced by post-transcriptional modifications with RNA methylation as the most prominent type. RNA modifications modulate the stability, folding and interaction pattern of RNA molecules. Furthermore, emerging data suggests RNA modifications also directly regulate the activity of catalytic RNA molecules, i.e., ribozymes. Here, we employ classical and hybrid quantum-classical (QM/MM) molecular dynamics (MD) simulations to investigate the reaction mechanism of an artificial methyltransferase ribozyme MTR1. Importantly, we pinpoint how 2’- O -methylations of active site nucleotides synergistically enhance ribozyme activity by reducing the conformational flexibility of the ribose rings and rigidifying the active site. Finally, the herein reported crystal structure of the modified MTR1, solved at 2.6 Å resolution, validates the results of our simulations. Taken together, our work supports the purported central role of modified RNA for early RNA catalysis and may guide rational design of more efficient ribozymes.</description>
-    </item>
-    <item>
-      <title>An enzyme-specific protein language model for catalytic property prediction</title>
-      <link>https://doi.org/10.1038/s41467-026-75283-3</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75283-3</guid>
-
-      <dc:creator>Chong Wang</dc:creator>
-      <dc:creator>Mengyao Li</dc:creator>
-      <dc:creator>Shaolei Geng</dc:creator>
-      <dc:creator>Weidong Li</dc:creator>
-      <dc:creator>Xuezhi Zhou</dc:creator>
-      <dc:creator>Yu Guang Wang</dc:creator>
-      <dc:creator>Yi Yu</dc:creator>
-      <dc:creator>Tianyun Wang</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chong Wang, Mengyao Li, Shaolei Geng, Weidong Li, Xuezhi Zhou, Yu Guang Wang, Yi Yu, Tianyun Wang, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Distinct Roles of Deep and Superficial Cortical Layers in Tone Prediction, Comparison, and Adaptation in Human Auditory Cortices</title>
-      <link>https://doi.org/10.1038/s41467-026-75662-w</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75662-w</guid>
-
-      <dc:creator>Jorie J. G. van Haren</dc:creator>
-      <dc:creator>Floris P. de Lange</dc:creator>
-      <dc:creator>Sonja A. Kotz</dc:creator>
-      <dc:creator>Federico De Martino</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jorie J. G. van Haren, Floris P. de Lange, Sonja A. Kotz, Federico De Martino
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Dielectric-tuned charge and exciton dynamics in perylene bisimide supramolecular aggregates</title>
-      <link>https://doi.org/10.1038/s41467-026-75555-y</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75555-y</guid>
-
-      <dc:creator>Hyeonwoo Choi</dc:creator>
-      <dc:creator>Minjung Chae</dc:creator>
-      <dc:creator>Taeyeon Kim</dc:creator>
-      <dc:creator>Woojae Kim</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hyeonwoo Choi, Minjung Chae, Taeyeon Kim, Woojae Kim
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Multiomic profiling links L1 retrotransposition to genomic instability and ecDNA in bladder cancer</title>
-      <link>https://doi.org/10.1038/s41467-026-75399-6</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75399-6</guid>
-
-      <dc:creator>Sophia J. Pribus</dc:creator>
-      <dc:creator>Ivana Osredek</dc:creator>
-      <dc:creator>Jan Otoničar</dc:creator>
-      <dc:creator>Milena Simovic-Lorenz</dc:creator>
-      <dc:creator>Chiara Giovenino</dc:creator>
-      <dc:creator>Anne Rademacher</dc:creator>
-      <dc:creator>Sina Jasmin Wille</dc:creator>
-      <dc:creator>Cecilia Berzain Battioni</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sophia J. Pribus, Ivana Osredek, Jan Otoničar, Milena Simovic-Lorenz, Chiara Giovenino, Anne Rademacher, Sina Jasmin Wille, Cecilia Berzain Battioni, et al.
-
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6384
-
-Abstract: Abstract Bladder cancer is frequent and highly recurrent. Despite recent advances, knowledge gaps remain in molecular mechanisms underlying disease progression. In this study, we apply integrated multi-omic analyses to a cohort of 48 bladder cancer patients to comprehensively profile genetic, epigenetic, transcriptomic, and spatial features. Combining cell-free DNA sequencing, long-read tumor DNA-sequencing, RNA-sequencing, and spatial transcriptomics, we explore molecular alterations driving bladder cancer. We find frequent somatic LINE-1 (L1) insertions, and show that these L1 insertions are active and occur early in bladder cancer development. We link somatic L1 insertion with downstream genomic rearrangements and chromosomal instability, including increased structural variant and extrachromosomal DNA (ecDNA) counts in patients with high L1 counts. We identify variable ecDNA enrichment across tissue architecture, with highest enrichment overlapping differential expression of APOBEC3B and immune response pathways. In summary, our results support a model whereby L1 retrotransposition triggers downstream genomic instability and viral mimicry response.</description>
-    </item>
-    <item>
-      <title>Modulating nonequilibrium electron–phonon interactions and energy relaxation in MXenes by surface-anchored Mo3S7 nanoclusters</title>
-      <link>https://doi.org/10.1038/s41467-026-75614-4</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75614-4</guid>
-
-      <dc:creator>Jiaxu Zhang</dc:creator>
-      <dc:creator>Rafael Muñoz-Mármol</dc:creator>
-      <dc:creator>Zijie Xiao</dc:creator>
-      <dc:creator>Dongqi Li</dc:creator>
-      <dc:creator>Shuai Fu</dc:creator>
-      <dc:creator>Xiaodong Li</dc:creator>
-      <dc:creator>Juliane Scheiter</dc:creator>
-      <dc:creator>Andrea Iudica</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jiaxu Zhang, Rafael Muñoz-Mármol, Zijie Xiao, Dongqi Li, Shuai Fu, Xiaodong Li, Juliane Scheiter, Andrea Iudica, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Electron–phonon (e–ph) interactions govern photoinduced nonequilibrium dynamics of MXenes, determining hot-carrier relaxation and parasitic heat accumulation. However, strategies to deliberately modulate these interactions through chemical control, together with mechanistic understanding, remain underexplored. Here, we demonstrate the effective modulation of nonequilibrium e–ph interactions in Ti 3 C 2 T x MXene via surface-anchored Mo 3 S 7 nanoclusters, which introduce a rapid energy harvesting pathway competing with intrinsic e–ph relaxation. Using mild ligand substitution, Mo 3 S 7 nanoclusters are densely and homogenously anchored onto Ti 3 C 2 T x via coordination bonding between Mo centers and O-terminations. Femtosecond transient absorption and optical-pump terahertz-probe spectroscopy reveal an ultrafast, sub-100 fs nonthermal electron and/or energy extraction, with efficiency increasing from ~28.6 % at 1.55 eV to ~38.2 % at 3.88 eV. This excitation-energy-dependent enhancement is enabled by improved energetic alignment between hot electrons in Ti 3 C 2 T x and the conduction-band manifold of Mo 3 S 7 . The competitive depletion of nonthermal electrons suppresses coherent A 1g phonon excitation, reducing effective e–ph interactions. Our study offers a viable strategy for modulating e–ph interactions in MXenes, advancing hot carrier relaxation and thermal management in next-generation optoelectronic devices.</description>
-    </item>
-    <item>
-      <title>Structural and spectroscopic characterization of a Tb(IV) polyoxometalate</title>
-      <link>https://doi.org/10.1038/s41467-026-75657-7</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75657-7</guid>
-
-      <dc:creator>Primadi J. Subintoro</dc:creator>
-      <dc:creator>Brett Lottes</dc:creator>
-      <dc:creator>Felipe A. Pereiro</dc:creator>
-      <dc:creator>Nolwenn Mahieu</dc:creator>
-      <dc:creator>Alexander M. Brown</dc:creator>
-      <dc:creator>S. Genevieve Duggan</dc:creator>
-      <dc:creator>Monica S. Mullis</dc:creator>
-      <dc:creator>Aldo M. Jordan</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Primadi J. Subintoro, Brett Lottes, Felipe A. Pereiro, Nolwenn Mahieu, Alexander M. Brown, S. Genevieve Duggan, Monica S. Mullis, Aldo M. Jordan, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract There has been a renaissance in high valent lanthanide chemistry, which has resulted in the first examples of tetravalent praseodymium (Pr) and terbium (Tb) in molecular systems. These feats have been achieved with tailored ligands that facilitate tetravalent lanthanide stability in non-aqueous conditions. The next step in realizing the potential of high valent lanthanide chemistry is moving towards complexes that are stable in ambient and aqueous conditions. In this investigation, we advance this paradigm by obtaining definitive evidence of Tb(IV) in a molecular system under aqueous conditions utilizing the lacunary Wells-Dawson polyoxometalate, K 10 P 2 W 17 O 61 •20H 2 O. Herein we present the single crystal structure of K 16 Tb(IV)(P 2 W 17 O 61 ) 2 •39.85H 2 O (Tb(IV)W 34 ) as well as extensive spectroscopic evidence obtained via UV–Vis-NIR, X-ray absorption near edge spectroscopy, continuous wave X-band electron paramagnetic resonance spectroscopy and SQUID magnetometry measurements to confirm the oxidation state of Tb in W 34 complexes as +4.</description>
-    </item>
-    <item>
-      <title>Episodic planetesimal disruptions triggered by dissipation of gas disk</title>
-      <link>https://doi.org/10.1038/s41467-026-74138-1</link>
-      <guid isPermaLink="false">10.1038/s41467-026-74138-1</guid>
-
-      <dc:creator>Kang Shuai</dc:creator>
-      <dc:creator>Li-Yong Zhou</dc:creator>
-      <dc:creator>Hejiu Hui</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kang Shuai, Li-Yong Zhou, Hejiu Hui
-
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6396</description>
-    </item>
-    <item>
-      <title>The minor spliceosome component U4atac regulates JAK/STAT signaling to modulate hematopoiesis and immune responses in Drosophila melanogaster</title>
-      <link>https://doi.org/10.1038/s41467-026-75539-y</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75539-y</guid>
-
-      <dc:creator>Dania Shikara</dc:creator>
-      <dc:creator>Eden Bishop</dc:creator>
-      <dc:creator>Nathan Barton</dc:creator>
-      <dc:creator>Stephanie Makdissi</dc:creator>
-      <dc:creator>Senthilkumar Kailasam</dc:creator>
-      <dc:creator>Attila György</dc:creator>
-      <dc:creator>Daria E. Siekhaus</dc:creator>
-      <dc:creator>Maria Carla Borroto</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dania Shikara, Eden Bishop, Nathan Barton, Stephanie Makdissi, Senthilkumar Kailasam, Attila György, Daria E. Siekhaus, Maria Carla Borroto, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>The U1 snRNP protein U1C and Helix H of U1 snRNA are critical for small molecule splicing modulator function</title>
-      <link>https://doi.org/10.1038/s41467-026-74765-8</link>
-      <guid isPermaLink="false">10.1038/s41467-026-74765-8</guid>
-
-      <dc:creator>Zhiling Kuang</dc:creator>
-      <dc:creator>Brian Kosmyna</dc:creator>
-      <dc:creator>Xueni Li</dc:creator>
-      <dc:creator>Zhichao Tang</dc:creator>
-      <dc:creator>Shasha Shi</dc:creator>
-      <dc:creator>Karoline Lambert</dc:creator>
-      <dc:creator>Wenzheng Zhang</dc:creator>
-      <dc:creator>Joseph Giovinazzo</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zhiling Kuang, Brian Kosmyna, Xueni Li, Zhichao Tang, Shasha Shi, Karoline Lambert, Wenzheng Zhang, Joseph Giovinazzo, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Risdiplam and branaplam represent two classes of small-molecule splicing modulators that promote U1 snRNP recognition of weak non-canonical GA/GU-containing 5’ splice sites (ss). We demonstrate that branaplam enhances recognition of these 5’ ss by reconstituted U1 snRNP in vitro, and that this effect depends on the ZnF domain of U1C and Helix H of U1 snRNA, but not U1A or U1-70K. We also demonstrate that branaplam enhances the weak 5’ ss recognition through a dual act of strengthening the U1 snRNP–5’ ss interaction and U1 snRNP–U1C interaction. In cells, depletion of U1C reduces or abolishes compound-induced exon inclusion for most cassette exons. Interestingly, a subset of cassette exons become responsive to compound only upon U1C knockdown, supporting a model in which U1C stabilizes specific conformations at the 5’ ss–U1 snRNA interface in a context-dependent manner that can either facilitate or hinder compound binding. Surprisingly, risdiplam shows no effect on weak 5’ ss recognition in vitro, suggesting additional cellular factors are required for its activity.</description>
-    </item>
-    <item>
-      <title>Long-read sequencing of single cell-derived melanoma sublines reveals divergent and parallel genomic and epigenomic evolutionary trajectories</title>
-      <link>https://doi.org/10.1038/s41467-026-75172-9</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75172-9</guid>
-
-      <dc:creator>Yuelin Liu</dc:creator>
-      <dc:creator>Anton Goretsky</dc:creator>
-      <dc:creator>Ayse G. Keskus</dc:creator>
-      <dc:creator>Salem Malikic</dc:creator>
-      <dc:creator>Tanveer Ahmad</dc:creator>
-      <dc:creator>E. Michael Gertz</dc:creator>
-      <dc:creator>Farid Rashidi Mehrabadi</dc:creator>
-      <dc:creator>Michael Kelly</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yuelin Liu, Anton Goretsky, Ayse G. Keskus, Salem Malikic, Tanveer Ahmad, E. Michael Gertz, Farid Rashidi Mehrabadi, Michael Kelly, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Tumor evolution is driven by various mutational processes, ranging from single-nucleotide variants (SNVs) to large structural variants (SVs) to dynamic shifts in DNA methylation. Current short-read sequencing methods struggle to accurately capture the full spectrum of these genomic and epigenomic alterations due to inherent technical limitations. To overcome that, here we introduce an approach to identify and analyze the genomic and epigenetic events in different stages of tumoral evolution from long-read sequencing of single-cell derived sublines. We then use it to profile 23 sublines of a mouse cutaneous melanoma cell line, characterized with distinct growth phenotypes and treatment responses. We develop a computational framework for harmonization and joint analysis of different variant types in the evolutionary context. Uniquely, our framework enables detection of recurrent amplifications of putative driver genes, generated by independent SVs across different lineages, suggesting parallel evolution. In addition, our approach revealed gradual and lineage-specific methylation changes associated with aggressive clonal phenotypes. We also show our set of phylogeny-constrained variant calls along with openly released sequencing data can be a valuable resource for the development and benchmarking of computational methods.</description>
-    </item>
-    <item>
-      <title>Strain-induced faceting of Ti4O7 for active chlorine electrosynthesis</title>
-      <link>https://doi.org/10.1038/s41467-026-75687-1</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75687-1</guid>
-
-      <dc:creator>Kuanchang He</dc:creator>
-      <dc:creator>Wei Li</dc:creator>
-      <dc:creator>Jinxing Ma</dc:creator>
-      <dc:creator>Jianghu Cui</dc:creator>
-      <dc:creator>Yuan Kang</dc:creator>
-      <dc:creator>Kui Yang</dc:creator>
-      <dc:creator>Qian Liu</dc:creator>
-      <dc:creator>Min Zhang</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kuanchang He, Wei Li, Jinxing Ma, Jianghu Cui, Yuan Kang, Kui Yang, Qian Liu, Min Zhang, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Dual-physics programmable metasurfaces for dynamical controls of acoustics and electromagnetics</title>
-      <link>https://doi.org/10.1038/s41467-026-75628-y</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75628-y</guid>
-
-      <dc:creator>Zheng Zhang</dc:creator>
-      <dc:creator>Han Wei Tian</dc:creator>
-      <dc:creator>Chao Song</dc:creator>
-      <dc:creator>Qian Zhu</dc:creator>
-      <dc:creator>Lin Bai</dc:creator>
-      <dc:creator>Xin Ge Zhang</dc:creator>
-      <dc:creator>Tie Jun Cui</dc:creator>
-      <dc:creator>Wei Xiang Jiang</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zheng Zhang, Han Wei Tian, Chao Song, Qian Zhu, Lin Bai, Xin Ge Zhang, Tie Jun Cui, Wei Xiang Jiang
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Ultrafast non-volatile charge storage and mid-infrared photoluminescence in LuminoMem tellurium devices for in-memory computing</title>
-      <link>https://doi.org/10.1038/s41467-026-75638-w</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75638-w</guid>
-
-      <dc:creator>Delang Liang</dc:creator>
-      <dc:creator>Shiyu Wang</dc:creator>
-      <dc:creator>Yan Wang</dc:creator>
-      <dc:creator>Dong Li</dc:creator>
-      <dc:creator>Yuchun Chen</dc:creator>
-      <dc:creator>Bin Cheng</dc:creator>
-      <dc:creator>Mingyang Qin</dc:creator>
-      <dc:creator>Dehong Yang</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Delang Liang, Shiyu Wang, Yan Wang, Dong Li, Yuchun Chen, Bin Cheng, Mingyang Qin, Dehong Yang, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Biophysical modeling of anatomically realistic prenatal cortical folding development</title>
-      <link>https://doi.org/10.1038/s41467-026-75582-9</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75582-9</guid>
-
-      <dc:creator>Jixin Hou</dc:creator>
-      <dc:creator>Zhengwang Wu</dc:creator>
-      <dc:creator>Kun Jiang</dc:creator>
-      <dc:creator>Taotao Wu</dc:creator>
-      <dc:creator>Lu Zhang</dc:creator>
-      <dc:creator>Dajiang Zhu</dc:creator>
-      <dc:creator>Wei Gao</dc:creator>
-      <dc:creator>Mir Jalil Razavi</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jixin Hou, Zhengwang Wu, Kun Jiang, Taotao Wu, Lu Zhang, Dajiang Zhu, Wei Gao, Mir Jalil Razavi, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Cortical folds encode the architecture of human cognition, yet the mechanisms that transform the smooth fetal cortex into its convoluted geometry remain elusive. Biophysical modeling enables mechanistic insight into cortical morphogenesis, but existing models often lack anatomical realism and fail to capture key hallmarks and morphometrics of dynamic cortical folding in the developing human brain. Here, we introduce a whole-brain developmental framework that integrates region-specific, data-driven growth laws with anatomically realistic cortical geometry to enable biologically interpretable modeling of cortical morphogenesis during gestation. Growth fields derived from large-scale prenatal magnetic resonance imaging data capture spatiotemporal variations in cortical expansion and thickness across parcellated regions. Incorporating heterogeneous growth yields folding patterns that match key anatomical landmarks and quantitative morphometrics from human imaging. Systematic perturbations of geometry and growth attributes delineate control parameters that produce realistic morphological variability and replicate clinically atypical brain phenotypes consistent with lissencephaly, pachygyria, and polymicrogyria. This framework provides a quantitative foundation for elucidating the mechanisms of typical and atypical fetal brain development.</description>
-    </item>
-    <item>
-      <title>Analysis of gene co-expression connectivity dynamics implicates aberrant neuron-oligodendroglia interactions in schizophrenia</title>
-      <link>https://doi.org/10.1038/s41467-026-75470-2</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75470-2</guid>
-
-      <dc:creator>Eugenia Radulescu</dc:creator>
-      <dc:creator>Petra E. Vértes</dc:creator>
-      <dc:creator>Shizhong Han</dc:creator>
-      <dc:creator>Jennifer A. Erwin</dc:creator>
-      <dc:creator>Apuã C. M. Paquola</dc:creator>
-      <dc:creator>Thomas M. Hyde</dc:creator>
-      <dc:creator>Joel E. Kleinman</dc:creator>
-      <dc:creator>Tomoyo Sawada</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Eugenia Radulescu, Petra E. Vértes, Shizhong Han, Jennifer A. Erwin, Apuã C. M. Paquola, Thomas M. Hyde, Joel E. Kleinman, Tomoyo Sawada, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Author Correction: Molecular mechanisms of receptor recognition and antibody neutralization of coxsackievirus A6</title>
-      <link>https://doi.org/10.1038/s41467-026-75441-7</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75441-7</guid>
-
-      <dc:creator>Xianliang Ke</dc:creator>
-      <dc:creator>Xue Li</dc:creator>
-      <dc:creator>Zeyu Liu</dc:creator>
-      <dc:creator>Kexin Liu</dc:creator>
-      <dc:creator>Weichi Liu</dc:creator>
-      <dc:creator>Xingyu Yan</dc:creator>
-      <dc:creator>Bo Shu</dc:creator>
-      <dc:creator>Chao Zhang</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xianliang Ke, Xue Li, Zeyu Liu, Kexin Liu, Weichi Liu, Xingyu Yan, Bo Shu, Chao Zhang
-
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6390</description>
-    </item>
-    <item>
-      <title>Interactively addressable organic metadevices</title>
-      <link>https://doi.org/10.1038/s41467-026-75757-4</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75757-4</guid>
-
-      <dc:creator>Xiangyu Huang</dc:creator>
-      <dc:creator>Benjamin Renz</dc:creator>
-      <dc:creator>Yueqiang Hu</dc:creator>
-      <dc:creator>Na Liu</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xiangyu Huang, Benjamin Renz, Yueqiang Hu, Na Liu
-
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 6251
-
-Abstract: Abstract Active, pixel-level addressability is central to the realization of metadevices with programmable wavefront control. However, two-dimensional operation at visible wavelengths remains challenging, as reducing metasurface pixel dimensions imposes increasing constraints on electrical interconnect design and local tunability. Here, we demonstrate interactively addressable organic metadevices, in which ultrathin polyaniline is conformally integrated with plasmonic nanoantennas to yield individually switchable metasurface pixels with localized electrochemical modulation. Using a planar fan-out architecture, we realize two-dimensional metasurface arrays, in which each pixel is electronically isolated and driven at sub-volt voltages, enabling millisecond-scale switching dynamics. Embedded within a user-driven electronic control loop, the platform converts user inputs into pixel-level voltage patterns to generate reconfigurable holographic projections, supporting functionalities ranging from alphanumeric character rendering to interactive gaming. Pixel-resolved measurements reveal uniform electrochemical behaviour, negligible electrical crosstalk, and stable operation across dynamically evolving holographic scenes. Our results establish organic metasurfaces as a promising route toward user-programmable and interactively addressable photonic systems.</description>
-    </item>
-    <item>
-      <title>Shared latent representations of speech production for cross-patient speech decoding</title>
-      <link>https://doi.org/10.1038/s41467-026-75455-1</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75455-1</guid>
-
-      <dc:creator>Z. Spalding</dc:creator>
-      <dc:creator>S. Duraivel</dc:creator>
-      <dc:creator>S. Rahimpour</dc:creator>
-      <dc:creator>C. Wang</dc:creator>
-      <dc:creator>K. Barth</dc:creator>
-      <dc:creator>C. Schmitz</dc:creator>
-      <dc:creator>S. P. Lad</dc:creator>
-      <dc:creator>A. H. Friedman</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Z. Spalding, S. Duraivel, S. Rahimpour, C. Wang, K. Barth, C. Schmitz, S. P. Lad, A. H. Friedman, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Mixed triplet-singlet order parameter in decoupled superconducting 1H monolayers of transition-metal dichalcogenides</title>
-      <link>https://doi.org/10.1038/s41467-026-75677-3</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75677-3</guid>
-
-      <dc:creator>Avior Almoalem</dc:creator>
-      <dc:creator>Sajilesh K. P.</dc:creator>
-      <dc:creator>Roni Anna Gofman</dc:creator>
-      <dc:creator>Yuval Nitzav</dc:creator>
-      <dc:creator>Ilay Mangel</dc:creator>
-      <dc:creator>Nitzan Ragoler</dc:creator>
-      <dc:creator>Jun Fujii</dc:creator>
-      <dc:creator>Ivana Vobornik</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Avior Almoalem, Sajilesh K. P., Roni Anna Gofman, Yuval Nitzav, Ilay Mangel, Nitzan Ragoler, Jun Fujii, Ivana Vobornik, et al.
-
-Journal: Nature Communications
-
-Abstract: Abstract Understanding the emergence of unconventional superconductivity, where the order parameter deviates from simple isotropic s-wave pairing, is a central challenge in condensed matter physics. Some transition-metal dichalcogenides (TMDCs), though generally regarded as conventional superconductors, display signatures of unconventional pairing and thus provide a particularly intriguing platform to explore how exotic states arise. Here we investigate the misfit compound (SnS) 1.15 (TaS 2 ), a heterostructure composed of alternating SnS and 1H-TaS 2 layers. Using transport, photoemission, and scanning tunneling spectroscopy, we demonstrate that the SnS layers effectively decouple the TaS 2 into electronically isolated 1H sheets. In this limit, the tunneling density of states on the 1H layer reveals a clear two-gap superconducting spectrum with T c ≃ 3.1 K. A theoretical model based on lack of inversion symmetry of the system and finite-range attraction reproduces the observed multi-gap structure as a mixed singlet-triplet state. These results establish misfit compounds as a powerful platform for studying unconventional superconductivity in isolated 1H layers and for realizing multiple uncoupled superconductors within a single crystal.</description>
-    </item>
-    <item>
-      <title>Cooperative mechanism of neurotransmitter recognition and transport by the human vesicular polyamine transporter</title>
-      <link>https://doi.org/10.1038/s41467-026-75564-x</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75564-x</guid>
-
-      <dc:creator>Yi Guo</dc:creator>
-      <dc:creator>Ge Yang</dc:creator>
-      <dc:creator>Jin Chai</dc:creator>
-      <dc:creator>John Shanklin</dc:creator>
-      <dc:creator>Bin Liu</dc:creator>
-      <dc:creator>Min Lu</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yi Guo, Ge Yang, Jin Chai, John Shanklin, Bin Liu, Min Lu
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>From stars to molecules: AI guided device-agnostic super-resolution imaging</title>
-      <link>https://doi.org/10.1038/s41467-026-75584-7</link>
-      <guid isPermaLink="false">10.1038/s41467-026-75584-7</guid>
-
-      <dc:creator>Dominik Vašinka</dc:creator>
-      <dc:creator>Filip Juráň</dc:creator>
-      <dc:creator>Jaromír Běhal</dc:creator>
-      <dc:creator>Miroslav Ježek</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dominik Vašinka, Filip Juráň, Jaromír Běhal, Miroslav Ježek
-
-Journal: Nature Communications
-
-Abstract: Abstract Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathway toward universal, calibration-free super-resolution imaging, expanding its applicability across scientific disciplines.</description>
     </item>
   </channel>
 </rss>
