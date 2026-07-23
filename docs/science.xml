@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:44:29 +0000</lastBuildDate>
 
     <item>
       <title>Advancing science by designing for surprise</title>
@@ -305,22 +305,6 @@ Abstract: Lakes store large quantities of carbon in their sediments, contributin
 Journal: Science; Volume: 393; Issue: 6808; Pages: 248-248</description>
     </item>
     <item>
-      <title>Robust single-electron memory with quantum states manipulation</title>
-      <link>https://doi.org/10.1126/science.aeg6638</link>
-      <guid isPermaLink="false">10.1126/science.aeg6638</guid>
-
-      <dc:creator>Chunsen Liu</dc:creator>
-      <dc:creator>Yutong Xiang</dc:creator>
-      <dc:creator>Chong Wang</dc:creator>
-      <dc:creator>Peng Zhou</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chunsen Liu, Yutong Xiang, Chong Wang, Peng Zhou
-
-Journal: Science; Volume: 393; Issue: 6808; Pages: 294-299
-
-Abstract: The ultimate goal of information storage is single-electron memory. Quantum mechanics predicts that two distinguishable quantum states can be realized by confining a single electron within an ultrasmall space. However, scaling down such devices paradoxically amplifies fringe capacitance effects, which hinders the experimental observation of single-electron memory. We report a two-dimensional single-electron memory device based on a coplanar drain-channel-source structure that suppressed fringe capacitance, exhibiting a nonvolatile threshold voltage shift of 0.5 volts after the change of a single electron. Two intriguing quantum behaviors have also been verified regarding the programming voltage. Additionally, we have predicted and observed a distinctive quantum memory effect: A quantum state is cut off by density of states scissors.</description>
-    </item>
-    <item>
       <title>Structure and evolution-guided design of minimal RNA-guided nucleases</title>
       <link>https://doi.org/10.1126/science.aed6123</link>
       <guid isPermaLink="false">10.1126/science.aed6123</guid>
@@ -339,6 +323,22 @@ Abstract: The ultimate goal of information storage is single-electron memory. Qu
 Journal: Science; Volume: 393; Issue: 6808; Pages: 313-318
 
 Abstract: The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein design strategy that couples a structure-guided inverse-folding model with evolution-informed residue constraints to generate active, divergent variants of TnpB, a minimal CRISPR-Cas12–like nuclease, termed SynTnpBs. High-throughput screening of artificial intelligence–generated variants yielded editors that retained or exceeded wild-type activity in bacterial, plant, and human cells. Cryo–electron microscopy–based structure determination of the most divergent variant revealed stabilizing contacts in the RNA–DNA interfaces across conformations, demonstrating the design potential of this approach. Together, these results establish a strategy for creating non-natural RNA-guided nucleases and conformationally active nucleic acid binders, enlarging the designable protein space.</description>
+    </item>
+    <item>
+      <title>Robust single-electron memory with quantum states manipulation</title>
+      <link>https://doi.org/10.1126/science.aeg6638</link>
+      <guid isPermaLink="false">10.1126/science.aeg6638</guid>
+
+      <dc:creator>Chunsen Liu</dc:creator>
+      <dc:creator>Yutong Xiang</dc:creator>
+      <dc:creator>Chong Wang</dc:creator>
+      <dc:creator>Peng Zhou</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chunsen Liu, Yutong Xiang, Chong Wang, Peng Zhou
+
+Journal: Science; Volume: 393; Issue: 6808; Pages: 294-299
+
+Abstract: The ultimate goal of information storage is single-electron memory. Quantum mechanics predicts that two distinguishable quantum states can be realized by confining a single electron within an ultrasmall space. However, scaling down such devices paradoxically amplifies fringe capacitance effects, which hinders the experimental observation of single-electron memory. We report a two-dimensional single-electron memory device based on a coplanar drain-channel-source structure that suppressed fringe capacitance, exhibiting a nonvolatile threshold voltage shift of 0.5 volts after the change of a single electron. Two intriguing quantum behaviors have also been verified regarding the programming voltage. Additionally, we have predicted and observed a distinctive quantum memory effect: A quantum state is cut off by density of states scissors.</description>
     </item>
     <item>
       <title>Direct interaction of Vδ7 TCRs with IL17RA drives the differentiation of T

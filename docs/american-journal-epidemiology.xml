@@ -5,8 +5,27 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:45:17 +0000</lastBuildDate>
 
+    <item>
+      <title>Evolving Identities or Racial Misclassification? Fluidity in race response among American Indian birthing people in Michigan and implications for public health surveillance</title>
+      <link>https://doi.org/10.1093/aje/kwag180</link>
+      <guid isPermaLink="false">10.1093/aje/kwag180</guid>
+
+      <dc:creator>Danielle R Gartner</dc:creator>
+      <dc:creator>Bendu Sherman</dc:creator>
+      <dc:creator>Ross Rogers</dc:creator>
+      <dc:creator>Beedoskah Stonefish</dc:creator>
+      <dc:creator>Jessica Saucedo</dc:creator>
+      <dc:creator>Heesu Kim</dc:creator>
+      <dc:creator>Candice Y Johnson</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Danielle R Gartner, Bendu Sherman, Ross Rogers, Beedoskah Stonefish, Jessica Saucedo, Heesu Kim, Candice Y Johnson
+
+Journal: American Journal of Epidemiology; Article number: kwag180
+
+Abstract: Abstract We sought to characterize racial identity response transitions among multiparous birthing people who ever identified as American Indian or Alaska Native (AIAN) and assess whether this fluidity alters year-specific statewide AIAN maternal health and birth outcome prevalence estimates. To do so, we used Michigan birth certificates (2014-2022) to identify individuals with $\boldsymbol{\ge}$2 live births who self-reported as AIAN for $\boldsymbol{\ge}\mathbf{1}$ birth (n = 4823). We categorized individuals as having changed or not changed their reported racial identity across births and recalculated AIAN-specific outcome estimates accordingly. Only 23.9% (1155) consistently identified as AIAN across all births, while 76.1% (3668) used different racial identity responses. Among those whose racial identity response changed, transitioning from identifying as AIAN to no longer identifying as AIAN was the most common pattern. Accounting for these transitions had minimal effect on prevalence estimates for preterm birth and gestational diabetes, while there were some prevalence changes for the prevalence of smoking before/during pregnancy. AIAN birthing people in Michigan often shift racial identity responses over time. Although this fluidity had little impact on surveillance of perinatal outcomes, reliance on point-in-time race data may inadequately reflect AIAN identity in public health data.</description>
+    </item>
     <item>
       <title>Retraction and replacement of: Depression at the intersection of race/ethnicity, sex/gender, and sexual orientation in a nationally representative sample of US adults: a design-weighted intersectional MAIHDA</title>
       <link>https://doi.org/10.1093/aje/kwag143</link>
@@ -845,12 +864,12 @@ Journal: American Journal of Epidemiology; Article number: kwag121
 Abstract: Abstract Medical chart review is commonly used in epidemiologic research to evaluate health outcomes, refine measurement algorithms, and identify potential study biases. In pharmacoepidemiology research, administrative claims and other structured healthcare databases provide longitudinal detail suitable for similar purposes but are typically presented in tabular formats that are cumbersome to interpret. This study introduces PEPRVision, a visualization framework that transforms structured longitudinal healthcare data into intuitive graphics to support patient-profile review in pharmacoepidemiology research. PEPRVision was developed based on principles of preattentive visual processing, leveraging visual attributes such as color, spatial position, shape, and length to facilitate rapid pattern recognition. We demonstrated PEPRVision using United States administrative claims data through 4 case studies: (1) evaluating a claims-based algorithm for measuring congenital hearing loss, (2) enhancing study design decisions by identifying reverse causation in a drug-safety study, (3) assessing the face validity of signals of potential teratogenicity detected through data mining for triage for advancement to causal inference studies, and (4) identifying mechanisms of inappropriate prenatal exposure to teratogenic medications to inform improvements in risk-mitigation strategies. As a complement to population-based causal inference studies, PEPRVision facilitates review of patient-level variation, enhancing the validity and clinical relevance of pharmacoepidemiology research.</description>
     </item>
     <item>
-      <title>Streetview greenspace types and dementia risk in older adults: The Multi-Ethnic Study of Atherosclerosis</title>
+      <title>Streetview greenspace types and dementia risk in older adults: the Multi-Ethnic Study of Atherosclerosis</title>
       <link>https://doi.org/10.1093/aje/kwag129</link>
       <guid isPermaLink="false">10.1093/aje/kwag129</guid>
 
       <dc:creator>Marcia Pescador Jimenez</dc:creator>
-      <dc:creator>L Paloma Rojas-Saunero</dc:creator>
+      <dc:creator>Liliana Paloma Rojas-Saunero</dc:creator>
       <dc:creator>Cameron J Reimer</dc:creator>
       <dc:creator>Esra Suel</dc:creator>
       <dc:creator>Pi-I Debby Lin</dc:creator>
@@ -858,11 +877,11 @@ Abstract: Abstract Medical chart review is commonly used in epidemiologic resear
       <dc:creator>Francine Grodstein</dc:creator>
       <dc:creator>Ana V Diez-Roux</dc:creator>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marcia Pescador Jimenez, L Paloma Rojas-Saunero, Cameron J Reimer, Esra Suel, Pi-I Debby Lin, Perry Hystad, Francine Grodstein, Ana V Diez-Roux, et al.
+      <description>Authors: Marcia Pescador Jimenez, Liliana Paloma Rojas-Saunero, Cameron J Reimer, Esra Suel, Pi-I Debby Lin, Perry Hystad, Francine Grodstein, Ana V Diez-Roux, et al.
 
 Journal: American Journal of Epidemiology; Article number: kwag129
 
-Abstract: Abstract Background: Greenspace has been associated with lower dementia risk but most studies have used satellite-derived measures that cannot distinguish vegetation types. We used Street View-based metrics of greenspace from an on-the-ground perspective to examine greenspace types that may be relevant for dementia risk. Methods: We followed 6761 participants from the Multi-Ethnic Study of Atherosclerosis, 2000-2018. Using deep learning algorithms applied to streetview images, we measured %trees, %grass, %other green (plants/flowers/fields) in the 500 m area around participants’ residences. We examined the controlled direct effect of greenspace with dementia accounting for death as a censoring event, using a weighted Kaplan–Meier survival estimator, with the product of exposure weights and inverse-probability-of-censoring by death. We ran models separately per greenspace type. Results: Mean baseline age was 62 (SD 10). Participants exposed to lowest levels of %Trees were more likely to have a household income &amp;amp;lt; $24 999. We observed 585 (8·7%) dementia cases and 1437 (21·3%) deaths over follow-up. We observed a direct effect of high exposure to %grass on 19-year dementia risk had death been prevented of -4·57 (95% confidence interval:−8·15,-0·40) percentage points. No associations were observed for %trees (-0·07; 95%CI:-2·29,2·11) and %other green (-0·03, 95%CI:-1·59,1·48). Conclusion: Higher percentage of grass may reduce dementia risk.</description>
+Abstract: Abstract Greenspace has been associated with lower dementia risk, but most studies have used satellite-derived measures that cannot distinguish vegetation types. We used streetview (SV)-based metrics of greenspace from an on-the-ground perspective to examine greenspace types that may be relevant for dementia risk. We followed 6761 participants from the Multi-Ethnic Study of Atherosclerosis, 2000-2018. Using deep learning algorithms applied to SV images, we measured %trees, %grass, %other green (plants/flowers/fields) in the 500 m area around participants’ residences. We examined the controlled direct effect of greenspace with dementia accounting for death as a censoring event, using a weighted Kaplan–Meier survival estimator, with the product of exposure weights and inverse-probability-of-censoring by death. We ran models separately per greenspace type. Mean baseline age was 62 years (SD, 10). Participants exposed to lowest levels of %trees were more likely to have a household income &amp;amp;lt; $24 999. We observed 585 (8.7%) dementia cases and 1437 (21.3%) deaths over follow-up. We observed a direct effect of high exposure to %grass on 19-year dementia risk had death been prevented of −4.57 (95% CI, -8.15, −0.40) percentage points. No associations were observed for %trees (−0.07; 95% CI, −2.29 to 2.11) and %other green (−0.03, 95% CI, −1.59 to 1.48). Higher percentage of grass may reduce dementia risk.</description>
     </item>
     <item>
       <title>Letter to the Editor Regarding “How Choice of Effect Measure Influences Minimally Sufficient Adjustment Sets for External Validity” by Webster-Clark and Keil (2023): The Covariate Class Taxonomy Should Be Strictly Defined With Respect To The Full Set Of Potential Outcome-Generating Covariates</title>
@@ -1677,26 +1696,6 @@ Abstract: Abstract The prognosis of prostate cancer is highly dependent on disea
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 1834-1838
 
 Abstract: Abstract Causal inference in population health research evaluates the effects of hypothetical interventions and requires a clearly defined estimand, yet most studies leave its key components implicit. Ikesu et al. (Am J Epidemiol. 2026:kwag044) used the target trial emulation framework to make the causal estimand explicit and estimate effects of hypothetical loneliness interventions on memory function. Using their study as a motivating example, this commentary examines 4 components of a causal estimand: (1) the definition of the “treatment,” (2) the choice of comparator, (3) the intervention strategy, and (4) the summary measure for population health impact. I discuss how complex social exposures like loneliness raise challenges for the consistency assumption through multiple versions of treatment; how using the natural course as a comparator, rather than a fixed counterfactual level, better reflects population-level impact; how sustained and stochastic interventions expand the space of scientific questions beyond deterministic elimination of exposure; and how estimands can move beyond population averages to address whether interventions narrow or widen health disparities. By carefully specifying each component of the estimand, investigators can move observational research toward more consequentialist evidence that directly informs what interventions would improve population health and mitigate health disparities.</description>
-    </item>
-    <item>
-      <title>New to cohort, not new to care: leveraging historical data in HIV clinical cohorts in the United States</title>
-      <link>https://doi.org/10.1093/aje/kwag082</link>
-      <guid isPermaLink="false">10.1093/aje/kwag082</guid>
-
-      <dc:creator>Nel Jason L Haw</dc:creator>
-      <dc:creator>Brenna Hogan</dc:creator>
-      <dc:creator>Elizabeth Humes</dc:creator>
-      <dc:creator>Sally B Coburn</dc:creator>
-      <dc:creator>Chunyan Zheng</dc:creator>
-      <dc:creator>Yawei Cheng</dc:creator>
-      <dc:creator>Yue Zhang</dc:creator>
-      <dc:creator>Kelly A Gebo</dc:creator>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nel Jason L Haw, Brenna Hogan, Elizabeth Humes, Sally B Coburn, Chunyan Zheng, Yawei Cheng, Yue Zhang, Kelly A Gebo, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag082
-
-Abstract: Abstract Identifying people with prior HIV care experience in clinical cohorts requires historical HIV data. We examined the availability of historical antiretroviral therapy (ART) prescriptions, historical CD4 counts, historical HIV viral loads, suppressed viral load at enrollment, and historical AIDS defining conditions in United States-based clinical cohorts in the North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD). At enrollment, we classified participants as new to care, transfer (without a gap in care), re-engaging in care (transfer after a gap in care), or previously in care with unknown transfer status. From 2000 to 2022, transfers increased from 30% to 68% while new to care declined from 31% to 21%. Historical ART prescriptions and suppressed viral load at enrollment became increasingly common data types for identifying prior HIV care, specifically after 2012. Among participants not new to care with ≥1 known historical HIV date, the median time between earliest known HIV date and enrollment increased from 1.9 years in 2000 to 5.6 years in 2022. While some data types may serve as practical proxies, we recommend that HIV cohorts systematically collect and assess all 5 data types to improve identification of participants new to care and adopt our algorithm specific to their context.</description>
     </item>
   </channel>
 </rss>
