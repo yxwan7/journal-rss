@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 08:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 08:39:38 +0000</lastBuildDate>
 
     <item>
       <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
@@ -55,6 +55,23 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag100
 
 Abstract: Abstract Background Available evidence on the relationship between long-term exposure to particulate matter with an aerodynamic diameter of ≤2.5 μm (PM2.5) and tuberculosis has been limited and inconsistent. Methods We conducted a longitudinal cohort study on individuals aged ≥12 years who participated in four rounds of the National Health Interview Survey. PM2.5 exposure was estimated by using data from air-quality monitoring stations and microsensors. Incident tuberculosis was identified based on International Classification of Diseases codes and the prescription of anti-tuberculosis drugs in the National Health Insurance Database. Time-dependent Cox regression analyses were conducted to estimate the linear and nonlinear associations between PM2.5 level and tuberculosis risk. Results Among 55 316 individuals with a median follow-up time of 12 years, 429 cases of incident tuberculosis were identified. The annual mean baseline PM2.5 concentration was 34.5 μg/m3 (interquartile range: 28.7–39.2 μg/m3). After adjustment for age, sex, body mass index, cigarette smoking, alcohol use, education level, income, and tuberculosis history, the adjusted hazard ratio was 1.16 (95% confidence interval: 1.00–1.34) for every 10-μg/m3 increase in the PM2.5 level. The results of the restricted cubic spline Cox regression analysis revealed a potential nonlinear relationship (P for nonlinearity: .04), with the risk of tuberculosis increasing more rapidly when the annual mean concentration of PM2.5 exceeded 30 μg/m3. Conclusion In this large population-based cohort study, a positive association between PM2.5 and tuberculosis was observed, particularly at moderately high concentrations of PM2.5 exposure. These findings highlight the need for air-pollution control strategies to mitigate tuberculosis risk.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: Health Insurance Review and Assessment Service Korean nationwide claims OMOP CDM (2015–24) database, HIRA K-OMOP</title>
+      <link>https://doi.org/10.1093/ije/dyag131</link>
+      <guid isPermaLink="false">10.1093/ije/dyag131</guid>
+
+      <dc:creator>Dong Han Yu</dc:creator>
+      <dc:creator>Sun Mi Lim</dc:creator>
+      <dc:creator>Hyun Chul Shin</dc:creator>
+      <dc:creator>Moosung Kim</dc:creator>
+      <dc:creator>Seng Chan You</dc:creator>
+      <dc:creator>Rae Woong Park</dc:creator>
+      <dc:creator>Chungsoo Kim</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dong Han Yu, Sun Mi Lim, Hyun Chul Shin, Moosung Kim, Seng Chan You, Rae Woong Park, Chungsoo Kim
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag131</description>
     </item>
     <item>
       <title>Repeated sampling of different individuals within the same clusters to improve precision of longitudinal estimators: the DISC design</title>
@@ -193,6 +210,25 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Preeclampsia remains a leading cause of preterm delivery (PTD). Conventional average causal effect estimands may not always be perfectly suited for assessing preeclampsia’s contributions because they rely on uniform counterfactual scenarios, such as everyone suffering from preeclampsia. A complementary approach is the incremental propensity score intervention (IPSI), which can address a more action-oriented causal inquiry: How would the population average risk of PTD change from current observed levels if each individual’s odds of preeclampsia were reduced by a given amount? Methods We applied IPSI to two US population cohorts of singleton pregnancies, separated by two decades (1998–2002, 16.7 million; 2020–2023, 14.2 million), to evaluate the causal effects of gestational hypertension/preeclampsia (GHTN/PE) on PTD within each cohort. We developed and implemented a sensitivity analysis procedure using bias formulas to gauge the impact of potential unmeasured confounding. Results Between 1998 and 2002, halving the individual odds of GHTN/PE would reduce the population average risk of PTD from observed [risk ratio (RR) = 0.969, 95% confidence interval (CI) 0.969–0.970]. Between 2020 and 2023, when GHTN/PE was more prevalent, halving the odds of preeclampsia would lead to an even greater reduction in average PTD risk (RR = 0.948, 95% CI 0.947–0.948). Sensitivity analyses demonstrated that these conclusions held under assumptions encoding relatively strong unmeasured confounding. Conclusions The IPSI approach offers more nuanced understanding and clinically meaningful interpretations of causal effects, such as by how much partially reducing the odds of GHTN/PE, while allowing it to remain non-zero, can lower the average risk of PTD.</description>
     </item>
     <item>
+      <title>Quantifying and adjusting for selection biases in the Norwegian Mother, Father and Child Cohort Study using population-wide individual-level registry information</title>
+      <link>https://doi.org/10.1093/ije/dyag122</link>
+      <guid isPermaLink="false">10.1093/ije/dyag122</guid>
+
+      <dc:creator>Christopher Rayner</dc:creator>
+      <dc:creator>Laurie J Hannigan</dc:creator>
+      <dc:creator>Isabella Badini</dc:creator>
+      <dc:creator>Perline A Demange</dc:creator>
+      <dc:creator>Sverre Berg Ofstad</dc:creator>
+      <dc:creator>Eivind Ystrom</dc:creator>
+      <dc:creator>Tom A McAdams</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Christopher Rayner, Laurie J Hannigan, Isabella Badini, Perline A Demange, Sverre Berg Ofstad, Eivind Ystrom, Tom A McAdams
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag122
+
+Abstract: Abstract Background Selective participation in research studies hampers researchers’ ability to draw valid and generalizable inferences from analyses. Quantifying and adjusting for selective participation are desirable but can be challenging given the paucity of data for non-participants. Methods We used individual-level information from population registers to predict baseline and continued participation in the Norwegian Mother, Father and Child Cohort Study (MoBa). Inverse probability weights were computed from logistic regression models with elastic-net regularization. We predicted selective participation and attrition in 296 987 mothers, of whom 29% returned the first MoBa questionnaire and 12.5% returned a follow-up questionnaire 8 years later. To quantify bias, we computed sample characteristics and exposure–outcome associations in the target population and stratified samples. To compare approaches for adjusting for bias, we computed weighted sample estimates by using three sets of weights. Results Unweighted sample estimates were systematically different from target-population values, indicating bias due to selective participation. Baseline participation weights substantially reduced the impact of selection bias on mean values by 93% and associations by 75%. Attrition weights reduced attrition bias on mean values by 78% and associations by 50% but were less effective for reducing participation bias (22% and 14% respectively). Conclusion In this sample, characteristics and effect estimates are substantially different from target-population values. Participation weights were relatively effective at reducing bias due to selective participation but attrition weights were not. Estimates from studies that use attrition weights may still contain non-negligible selection bias—particularly if the baseline sample is not representative of the target population. Future studies should prioritize opportunities for deriving sampling weights for participation as well as attrition.</description>
+    </item>
+    <item>
       <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
       <link>https://doi.org/10.1093/ije/dyag080</link>
       <guid isPermaLink="false">10.1093/ije/dyag080</guid>
@@ -303,6 +339,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Cardiovascular disease (CVD) remains a major global health burden, with risk factors evolving alongside socioeconomic and lifestyle changes. The PREVENT equation provides race-free estimates of 10- and 30-year CVD risk, but its utility in Asian populations remains underexplored. This study assessed long-term trends in CVD risk among Korean adults and identified key contributing factors. Methods This cross-sectional analysis used nationally representative data from the Korea National Health and Nutrition Examination Survey (KNHANES), spanning 2001–2021. Adults aged ≥30 years with relevant clinical and laboratory data were included. The PREVENT equation was used to calculate 10- and 30-year CVD risk. Trends in risk estimates were examined by year and sex. Results The estimated 10-year risk of total CVD increased from 4.6% ± 7.1% (mean ± SD) in 2001 to 7.9% ± 9.0% in 2021, and the estimated 30-year risk for total CVD climbed from 15.8% ± 14.6% to 22.9% ± 14.5% over the same period. Key contributors to this upward trend included worsening glycemic control (mean glucose: 97 ± 17 mg/dl in 2001 vs 103 ± 22 mg/dl in 2021) and increased antihypertensive medication use. In contrast, rising high-density lipoprotein cholesterol levels and declining male smoking rates (47.9% in 2001 to 28.9% in 2021) may have mitigated some risk. Conclusions Over two decades, estimated CVD risk has increased in the Korean population, highlighting the need for targeted prevention efforts. As countries undergo rapid economic and demographic transitions, long-term CVD risk estimation using the PREVENT equation may inform public health strategies to mitigate cardiovascular burden.</description>
     </item>
     <item>
+      <title>First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis</title>
+      <link>https://doi.org/10.1093/ije/dyag121</link>
+      <guid isPermaLink="false">10.1093/ije/dyag121</guid>
+
+      <dc:creator>Shevonne Kwan</dc:creator>
+      <dc:creator>Jacqueline Stephens</dc:creator>
+      <dc:creator>Corey J A Bradshaw</dc:creator>
+      <dc:creator>Blesson M Varghese</dc:creator>
+      <dc:creator>Kirrilly Thompson</dc:creator>
+      <dc:creator>Melinda A Judge</dc:creator>
+      <dc:creator>Peter N Le Souëf</dc:creator>
+      <dc:creator>Syeda H Fatima</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shevonne Kwan, Jacqueline Stephens, Corey J A Bradshaw, Blesson M Varghese, Kirrilly Thompson, Melinda A Judge, Peter N Le Souëf, Syeda H Fatima
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag121
+
+Abstract: Abstract Background Climate change is increasing the frequency and severity of non-optimal temperatures and heatwaves, posing risks to public health, especially for children and young people. We performed a systematic review and meta-analysis to assess the impacts of (i) non-optimal ambient temperatures and (ii) heatwaves on mental health outcomes in this group globally. Methods We searched five databases for studies published between 2000 and 2024. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we selected studies by using the population–exposure–comparison–outcome (PECO) framework (PROSPERO protocol ID CRD42024524650). We performed a random-effects meta-analysis, assessed the risk of bias, and examined variation by age, gender, income, and climate zones. Results Of 23 included studies, 19 examined ambient temperature and 4 examined heatwaves. A 1°C increase in daily ambient temperature was associated with a 0.9% increase in morbidity-related mental health outcomes across varied healthcare encounters and diagnoses (relative risk = 1.009; 95% confidence interval: 1.003–1.016). Children aged 5–18 years were most vulnerable, with a 1.5% increased risk associated with high temperatures (1.005–1.026) and 25% increased risk during heatwaves (1.006–1.561). Climate-zone analyses showed that children and young people in humid subtropical and hot-summer continental zones had the highest risks from high temperatures (1.004–1.036 and 1.004–1.038, respectively). Conclusion High temperatures and heatwaves were associated with adverse mental health risks in children and young people. Data were lacking for some of the hottest and most socio-economically disadvantaged regions globally. Future research should prioritize these regions, explore mechanistic pathways, and generate disaggregated data.</description>
+    </item>
+    <item>
       <title>Association of severe maternal morbidity with epilepsy diagnosis in children: a population-based birth cohort study</title>
       <link>https://doi.org/10.1093/ije/dyag097</link>
       <guid isPermaLink="false">10.1093/ije/dyag097</guid>
@@ -375,6 +431,18 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Colorectal cancer (CRC) screening programmes often use the faecal immunochemical test (FIT) to identify individuals for follow-up colonoscopy but evidence on its impact on CRC incidence remains limited. Using a regression discontinuity design (RDD), we investigated whether CRC screening affects CRC incidence among adults aged 71–75 years with FIT values close to the threshold—an age group not consistently included in screening programmes. Methods Using registry data from 2014 to 2024, we compared CRC incidence among screening participants aged 71–75 years with FIT values just above versus just below the 100-ng/ml referral threshold, where only those above were offered colonoscopy. We included 2773 individuals with borderline FIT values (80–120 ng/ml). An RDD was used to estimate the effect of colonoscopy referral based on FIT on CRC incidence at values close to the threshold while mitigating healthy-user bias. Results Over a median 8.4-year follow-up, 165 CRC cases were observed. As expected from the lead time, early incidence was higher in FIT-positive individuals offered colonoscopy but cumulative incidence later plateaued in this group while it continued to rise in FIT-negative individuals. After 10 years of follow-up, a reduction was seen between the groups from 12.1 to 6.6 cases per 1000 person-years, equivalent to 5.5 fewer cases (95% confidence interval: 1.44–9.56) per 1000 person-years, corresponding to a 45.5% reduction. Conclusion CRC screening reduces CRC incidence among adults aged 71–75 years with FIT values close to the FIT threshold. This could guide cancer screening policies for an age group that is only eligible for screening in some countries.</description>
     </item>
     <item>
+      <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag136</link>
+      <guid isPermaLink="false">10.1093/ije/dyag136</guid>
+
+      <dc:creator>Marco A Peres</dc:creator>
+      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag136</description>
+    </item>
+    <item>
       <title>Cohort Profile: The Chongqing Multi-Community Cohort (CMCC)</title>
       <link>https://doi.org/10.1093/ije/dyag110</link>
       <guid isPermaLink="false">10.1093/ije/dyag110</guid>
@@ -391,6 +459,24 @@ Abstract: Abstract Background Colorectal cancer (CRC) screening programmes often
       <description>Authors: Shenglin Zhao, Bingjie Zhou, Jia Du, Yan Zhang, Zhikai Yu, Hong Zhou, Zhengyu Yang, Wenzhong Huang, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag110</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: Multimorbidity in Africa Digital Innovation, Visualisation and Application (MADIVA) research hub</title>
+      <link>https://doi.org/10.1093/ije/dyag124</link>
+      <guid isPermaLink="false">10.1093/ije/dyag124</guid>
+
+      <dc:creator>Daniel Ohene-Kwofie</dc:creator>
+      <dc:creator>Nkosinathi Masilela</dc:creator>
+      <dc:creator>Kerry Glover</dc:creator>
+      <dc:creator>Samuel Iddi</dc:creator>
+      <dc:creator>Daniel Maina</dc:creator>
+      <dc:creator>Molulaqhooa Linda Maoyi</dc:creator>
+      <dc:creator>Theophilous Mathema</dc:creator>
+      <dc:creator>Mwiza Gideon Singini</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Daniel Ohene-Kwofie, Nkosinathi Masilela, Kerry Glover, Samuel Iddi, Daniel Maina, Molulaqhooa Linda Maoyi, Theophilous Mathema, Mwiza Gideon Singini, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag124</description>
     </item>
     <item>
       <title>Trends, determinants, and anthropometric consequences of low birthweight in Indian children: a prospective analysis of national data</title>
@@ -1564,84 +1650,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag022
 
 Abstract: Abstract Background The burden of non-communicable diseases (NCDs) in adolescent and young adult females in sub-Saharan Africa (SSA) has not been comprehensively studied. To address this gap, we analysed data from the Global Burden of Diseases (GBD) 2021, focusing on death due to NCDs in females aged 10–24 years in SSA. Methods We extracted data from GBD 2021 on NCD deaths in females aged 10–24 years in SSA from 2000 to 2021. We presented the numbers and death rates of NCDs, and the proportion of NCDs in all-cause deaths was calculated. Pearson’s correlation was applied to explore the NCD burden on the socioeconomic development and health system. Additionally, we projected the NCD burden until 2050 by applying mixed-effects models. Results In 2021, 52 083.13 (42 018.18∼61 630.88) NCD deaths, at a mortality rate of 27.59 (22.26∼32.64) per 100 000 population, emerged, accounting for 21.13% (17.57%∼24.22%) of the total deaths. Neoplasms, cardiovascular diseases, digestive diseases, neurological disorders, and diabetes and kidney diseases were the top five leading causes of deaths. Inverse associations were observed between the NCD death rates and indicators of the socioeconomic and health system (P &amp;amp;lt; .001). An increasing trend was observed of the NCD death numbers and the contributing proportions since 2000, and it was predicted to continue increasing through to 2050, with the highest increasing trend in neoplasms. Conclusion The rising disease burden of NCDs for adolescent and young adult females in SSA has attracted attention. Targeted interventions and strengthened health systems should be prioritized to address the concerning NCD burden in adolescent girls in SSA.</description>
-    </item>
-    <item>
-      <title>Cohort Profile: Our Future—the longitudinal study of young people in England born in 1998–99</title>
-      <link>https://doi.org/10.1093/ije/dyag041</link>
-      <guid isPermaLink="false">10.1093/ije/dyag041</guid>
-
-      <dc:creator>Megan Arnot</dc:creator>
-      <dc:creator>Ellen Ridley</dc:creator>
-      <dc:creator>Ruth Roberts</dc:creator>
-      <dc:creator>Russell M Viner</dc:creator>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Megan Arnot, Ellen Ridley, Ruth Roberts, Russell M Viner
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag041</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: Linking nationwide health and social registries in Estonia (BIG-HEART)</title>
-      <link>https://doi.org/10.1093/ije/dyag027</link>
-      <guid isPermaLink="false">10.1093/ije/dyag027</guid>
-
-      <dc:creator>Laura Lõo</dc:creator>
-      <dc:creator>Nikita Umov</dc:creator>
-      <dc:creator>Marek Oja</dc:creator>
-      <dc:creator>Sulev Reisberg</dc:creator>
-      <dc:creator>Anneli Uusküla</dc:creator>
-      <dc:creator>Raivo Kolde</dc:creator>
-      <dc:creator>Taavi Tillmann</dc:creator>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Laura Lõo, Nikita Umov, Marek Oja, Sulev Reisberg, Anneli Uusküla, Raivo Kolde, Taavi Tillmann
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag027</description>
-    </item>
-    <item>
-      <title>Utilizing offspring genotype-by-proxy Mendelian randomization to investigate the causal effect of offspring perinatal traits on maternal health</title>
-      <link>https://doi.org/10.1093/ije/dyag030</link>
-      <guid isPermaLink="false">10.1093/ije/dyag030</guid>
-
-      <dc:creator>Alesha A Hatton</dc:creator>
-      <dc:creator>Caroline Brito Nunes</dc:creator>
-      <dc:creator>Deborah A Lawlor</dc:creator>
-      <dc:creator>David M Evans</dc:creator>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alesha A Hatton, Caroline Brito Nunes, Deborah A Lawlor, David M Evans
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag030
-
-Abstract: Abstract Background During the perinatal period, the fetus can exert profound effects on processes that alter pre- and postnatal maternal physiology. It is possible to investigate the causal effect of offspring perinatal exposures on their mother’s health using Mendelian randomization (MR). However, analyses need to be adjusted for maternal genotype to avoid confounding. Such analyses are difficult to perform at scale because of the paucity of cohorts across the world with large numbers of genotyped maternal–offspring dyads and parent–offspring trios. Methods We introduce the “offspring genotype-by-proxy” MR framework which can be employed in the absence of offspring genetic information to complement existing approaches in the triangulation of causal inference. The basic idea is to use paternal genotypes to proxy the direct effect of their offspring’s genotype on their offspring’s own exposures. Results We compare our framework to other MR designs and investigate the consequences of model misspecification and spousal misclassification on statistical power, consistency, and bias. In addition, we discuss the key MR assumptions that prevent these approaches from being appropriate for investigating the effect of many offspring postnatal and later life exposures on maternal health. Conclusion Given the increasing availability of datasets such as the UK Biobank that (incidentally) include tens of thousands of genome-wide genotyped spousal pairs and large population biobanks with linked health record data for first-degree relatives, the offspring genotype-by-proxy MR approach could augment causal analyses of offspring perinatal exposures on their mother’s outcomes as implementation is not restricted to datasets with mother–offspring genotype information.</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: Prostate cancer data from Clinical Practice Research Datalink linked hospital records, mortality data and cancer registry standardized to the Observational Medical Outcomes Partnership common data model (CPRD-PCa-OMOP)</title>
-      <link>https://doi.org/10.1093/ije/dyag016</link>
-      <guid isPermaLink="false">10.1093/ije/dyag016</guid>
-
-      <dc:creator>Eng Hooi Tan</dc:creator>
-      <dc:creator>Danielle Newby</dc:creator>
-      <dc:creator>Daniel Prieto-Alhambra</dc:creator>
-      <dc:creator>Mandickel Kamtengeni</dc:creator>
-      <dc:creator>Antonella Delmestri</dc:creator>
-      <dc:creator>James N’Dow</dc:creator>
-      <dc:creator>Emma Jane Smith</dc:creator>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Eng Hooi Tan, Danielle Newby, Daniel Prieto-Alhambra, Mandickel Kamtengeni, Antonella Delmestri, James N’Dow, Emma Jane Smith, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag016</description>
-    </item>
-    <item>
-      <title>Unveiling heat vulnerability of older adults: an assessment of emergency hospital admissions in Switzerland</title>
-      <link>https://doi.org/10.1093/ije/dyag044</link>
-      <guid isPermaLink="false">10.1093/ije/dyag044</guid>
-
-      <dc:creator>Sujung Lee</dc:creator>
-      <dc:creator>Ana Maria Vicedo-Cabrera</dc:creator>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sujung Lee, Ana Maria Vicedo-Cabrera
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag044
-
-Abstract: Abstract Background Older adults are highly vulnerable to heat, yet how individual characteristics modulate its effects remains unclear. We assessed heat-related emergency hospital admission (EHA) risk across subpopulations of older adults receiving home care services in Switzerland (2019–2022). Methods We analysed patient-level EHA data linked to daily maximum temperature by MedStat regions of residence. We employed a case time series design with quasi-Poisson regression and distributed lag non-linear models to examine heat-related EHA risk, stratifying by individual characteristics, including sociodemographic factors, pre-existing health conditions, primary diagnosis, and levels of dependency and social interaction. Results The overall heat-related EHA risk was 1.12 (95% confidence interval (CI): 1.04–1.20) (at 99th percentile vs minimum temperature percentile risk). Males (1.16; 1.04–1.29) generally showed higher heat-related EHA risk than females (1.09; 0.98–1.20), except among those aged ≥85 years (females 1.16; 1.00–1.34 vs males 1.06; 0.90–1.26). Regarding functional capacity, females requiring assistance with daily tasks had an increased heat-related EHA risk, whereas males showed the opposite trend, with higher risk among those who were independent. Sex-specific analyses revealed that anxiety and dementia/Alzheimer’s disease were risk factors for females, whereas cancer, chronic obstructive pulmonary disease, and coronary heart disease were risk factors for males. Joint stratification by pre-existing health conditions and primary diagnosis showed that individuals with pre-existing cancer had higher risks of admission for circulatory, genitourinary, infectious, and endocrine/metabolic causes during heat exposure. Conclusion Our results show that older individuals are not equally vulnerable to heat, underscoring the need for targeted public health interventions to protect high-risk older adults.</description>
     </item>
   </channel>
 </rss>

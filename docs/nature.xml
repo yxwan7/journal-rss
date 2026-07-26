@@ -5,7 +5,7 @@
     <link>https://www.nature.com/nature/</link>
     <description>Latest journal articles for Nature</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 08:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 08:39:21 +0000</lastBuildDate>
 
     <item>
       <title>White House rolls out AI funding — and signals a new era for US science</title>
@@ -157,6 +157,14 @@ Journal: Nature</description>
 Journal: Nature</description>
     </item>
     <item>
+      <title>Regional drivers and contributors to changes in life expectancy across Asia</title>
+      <link>https://doi.org/10.1038/d41586-026-02166-4</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02166-4</guid>
+
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
+    </item>
+    <item>
       <title>A global molecular code for birth order and neuronal identity in Drosophila</title>
       <link>https://doi.org/10.1038/s41586-026-10797-w</link>
       <guid isPermaLink="false">10.1038/s41586-026-10797-w</guid>
@@ -177,26 +185,6 @@ Journal: Nature
 Abstract: Abstract The assembly of functional neural circuits relies on the generation of diverse neural types with precise molecular identity and connectivity. Unlocking general principles of neuronal specification and wiring across the nervous system requires a systematic and high-resolution characterization of its diversity, recently enabled by advances in single-cell transcriptomics and connectomics. However, linking the molecular identity of neurons to circuit architecture remains a key challenge. Here we present a high-resolution developmental transcriptional atlas for the Drosophila melanogaster nerve cord, the central hub for sensory–motor circuits. With a considerable 38× aggregate coverage relative to its reference connectome 1,2 , our atlas captures extensive molecular diversity and enables robust alignment to the adult connectome. We identified three developmental principles underlying neuronal diversity in the nerve cord. First, the timing of neurogenesis shapes diversification of molecular identity: embryonic-born neurons diverge faster than larval-born neurons, as also observed in the adult connectome. Second, 17 transcription factors common to neurons from all lineages provide a global molecular identity code for birth order. Lastly, by mapping sex-specific transcriptional profiles to the connectome, we identified female-specific apoptosis and transcriptional divergence as key global drivers of sex specification. By revealing key organizational axes of molecular identity, this atlas opens avenues to dissect the molecular mechanisms underpinning the development and evolution of neural circuits.</description>
     </item>
     <item>
-      <title>Regional drivers and contributors to changes in life expectancy across Asia</title>
-      <link>https://doi.org/10.1038/d41586-026-02166-4</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02166-4</guid>
-
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature</description>
-    </item>
-    <item>
-      <title>AI identifies interactions in CRISPR complexes to improve specificity of DNA editing</title>
-      <link>https://doi.org/10.1038/d41586-026-02042-1</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02042-1</guid>
-
-      <dc:creator>Hoi Yee Chu</dc:creator>
-      <dc:creator>Alan S. L. Wong</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hoi Yee Chu, Alan S. L. Wong
-
-Journal: Nature</description>
-    </item>
-    <item>
       <title>Precise DNA base editing using AlphaFold3-based contact modelling</title>
       <link>https://doi.org/10.1038/s41586-026-10794-z</link>
       <guid isPermaLink="false">10.1038/s41586-026-10794-z</guid>
@@ -215,6 +203,26 @@ Journal: Nature</description>
 Journal: Nature</description>
     </item>
     <item>
+      <title>AI identifies interactions in CRISPR complexes to improve specificity of DNA editing</title>
+      <link>https://doi.org/10.1038/d41586-026-02042-1</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02042-1</guid>
+
+      <dc:creator>Hoi Yee Chu</dc:creator>
+      <dc:creator>Alan S. L. Wong</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hoi Yee Chu, Alan S. L. Wong
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Fly neurons carry a molecular ‘timestamp’ that encodes their birth order</title>
+      <link>https://doi.org/10.1038/d41586-026-02240-x</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02240-x</guid>
+
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
+    </item>
+    <item>
       <title>Polio should have been eradicated by now. What’s plan B?</title>
       <link>https://doi.org/10.1038/d41586-026-02229-6</link>
       <guid isPermaLink="false">10.1038/d41586-026-02229-6</guid>
@@ -226,12 +234,15 @@ Journal: Nature</description>
 Journal: Nature; Volume: 655; Issue: 8124; Pages: 840-842</description>
     </item>
     <item>
-      <title>Fly neurons carry a molecular ‘timestamp’ that encodes their birth order</title>
-      <link>https://doi.org/10.1038/d41586-026-02240-x</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02240-x</guid>
+      <title>Three tips to avoid AI image mistakes in science</title>
+      <link>https://doi.org/10.1038/d41586-026-02233-w</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02233-w</guid>
 
+      <dc:creator>Sarah Wild</dc:creator>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature</description>
+      <description>Authors: Sarah Wild
+
+Journal: Nature; Volume: 655; Issue: 8124; Pages: 1093-1094</description>
     </item>
     <item>
       <title>AI-redesigned starting points and outcomes enhance protein evolution</title>
@@ -292,17 +303,6 @@ Journal: Nature
 Abstract: Abstract Large genome databases have markedly improved our understanding of marine microorganisms 1–5 . Although these resources have focused on prokaryotes, genomes from many dominant marine lineages, such as Pelagibacter and Prochlorococcus , are conspicuously underrepresented. Here we present the Great Barrier Reef Microbial Genomes Database (GBR-MGD), comprising 5,283 prokaryotic genomes obtained from Great Barrier Reef seawater samples using Nanopore and Illumina sequencing, including a collection of high-quality genomes of underrepresented groups. We show that standard short-read assemblies miss these populations owing to a combination of strain heterogeneity and low-GC-percentage sequencing bias. The GBR-MGD also comprises 20 chromosome-level picoeukaryote and 808,585 viral genomes, including a newly described clade of marine Crassvirales . We demonstrate the utility of the GBR-MGD to identify indicator taxa that can reliably predict the effects of reef management practices, such as the establishment of marine protected zones.</description>
     </item>
     <item>
-      <title>Three tips to avoid AI image mistakes in science</title>
-      <link>https://doi.org/10.1038/d41586-026-02233-w</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02233-w</guid>
-
-      <dc:creator>Sarah Wild</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sarah Wild
-
-Journal: Nature; Volume: 655; Issue: 8124; Pages: 1093-1094</description>
-    </item>
-    <item>
       <title>Non-epitaxial perovskite polariton laser diode operating under direct current</title>
       <link>https://doi.org/10.1038/s41586-026-10824-w</link>
       <guid isPermaLink="false">10.1038/s41586-026-10824-w</guid>
@@ -317,6 +317,24 @@ Journal: Nature; Volume: 655; Issue: 8124; Pages: 1093-1094</description>
       <dc:creator>Natalia V. Kryzhanovskaya</dc:creator>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Anatoly P. Pushkarev, Daria Khmelevskaia, Ivan A. Matchenya, Stepan A. Baryshev, Denis A. Sannikov, Alexey A. Ekgardt, Eduard I. Moiseev, Natalia V. Kryzhanovskaya, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Non-Gaussian statistics of the order parameter across a phase transition</title>
+      <link>https://doi.org/10.1038/s41586-026-10811-1</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10811-1</guid>
+
+      <dc:creator>Maxime Allemand</dc:creator>
+      <dc:creator>Géraud Dupuy</dc:creator>
+      <dc:creator>Paul Paquiez</dc:creator>
+      <dc:creator>Nicolas Dupuis</dc:creator>
+      <dc:creator>Adam Rançon</dc:creator>
+      <dc:creator>Tommaso Roscilde</dc:creator>
+      <dc:creator>Thomas Chalopin</dc:creator>
+      <dc:creator>David Clément</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Maxime Allemand, Géraud Dupuy, Paul Paquiez, Nicolas Dupuis, Adam Rançon, Tommaso Roscilde, Thomas Chalopin, David Clément
 
 Journal: Nature</description>
     </item>
@@ -348,24 +366,6 @@ Journal: Nature</description>
       <description>Authors: Kevin Hoy, Alice Zurlo, Pablo A Peña R, Jana Köhler, Silvano Desidera, Raffaele Gratton, Cecilia Lazzoni, Simon Petrus, et al.
 
 Journal: Nature; Volume: 655; Issue: 8124; Pages: 865-869</description>
-    </item>
-    <item>
-      <title>Non-Gaussian statistics of the order parameter across a phase transition</title>
-      <link>https://doi.org/10.1038/s41586-026-10811-1</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10811-1</guid>
-
-      <dc:creator>Maxime Allemand</dc:creator>
-      <dc:creator>Géraud Dupuy</dc:creator>
-      <dc:creator>Paul Paquiez</dc:creator>
-      <dc:creator>Nicolas Dupuis</dc:creator>
-      <dc:creator>Adam Rançon</dc:creator>
-      <dc:creator>Tommaso Roscilde</dc:creator>
-      <dc:creator>Thomas Chalopin</dc:creator>
-      <dc:creator>David Clément</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Maxime Allemand, Géraud Dupuy, Paul Paquiez, Nicolas Dupuis, Adam Rançon, Tommaso Roscilde, Thomas Chalopin, David Clément
-
-Journal: Nature</description>
     </item>
     <item>
       <title>‘Good design takes mastery’: scientific illustrators sketch out AI’s future</title>
@@ -836,14 +836,6 @@ Journal: Nature</description>
 Journal: Nature; Volume: 655; Issue: 8124; Pages: 825-825</description>
     </item>
     <item>
-      <title>Are boldness and belligerence related?</title>
-      <link>https://doi.org/10.1038/d41586-026-02103-5</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02103-5</guid>
-
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature; Volume: 655; Issue: 8124; Pages: 862-862</description>
-    </item>
-    <item>
       <title>New hope in the fight against cachexia — cancer’s deadly co-conspirator</title>
       <link>https://doi.org/10.1038/d41586-026-02228-7</link>
       <guid isPermaLink="false">10.1038/d41586-026-02228-7</guid>
@@ -853,6 +845,14 @@ Journal: Nature; Volume: 655; Issue: 8124; Pages: 825-825</description>
       <description>Authors: Amber Dance
 
 Journal: Nature; Volume: 655; Issue: 8124; Pages: 836-838</description>
+    </item>
+    <item>
+      <title>Are boldness and belligerence related?</title>
+      <link>https://doi.org/10.1038/d41586-026-02103-5</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02103-5</guid>
+
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature; Volume: 655; Issue: 8124; Pages: 862-862</description>
     </item>
     <item>
       <title>Moving floors keep buildings from swaying with the wind</title>
