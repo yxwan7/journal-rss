@@ -5,8 +5,28 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 10:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:04:53 +0000</lastBuildDate>
 
+    <item>
+      <title>Neonatal admissions and mortality: a statistical adjustment approach using birthweight-specific curves to address bias due to underreporting in 65 hospitals in four African countries</title>
+      <link>https://doi.org/10.1186/s12963-026-00496-z</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00496-z</guid>
+
+      <dc:creator>Lucas Malla</dc:creator>
+      <dc:creator>Siu Nam Wong</dc:creator>
+      <dc:creator>Samuel Ngwala</dc:creator>
+      <dc:creator>Evelyn Zimba</dc:creator>
+      <dc:creator>Msandeni Chiume</dc:creator>
+      <dc:creator>Norman Lufesi</dc:creator>
+      <dc:creator>Kondwani Kawaza</dc:creator>
+      <dc:creator>Honorati Masanja</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Lucas Malla, Siu Nam Wong, Samuel Ngwala, Evelyn Zimba, Msandeni Chiume, Norman Lufesi, Kondwani Kawaza, Honorati Masanja, et al.
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Underreporting of neonatal admissions and deaths – particularly among &amp;lt; 1000 g newborns – compromises the plausibility of in-patient neonatal mortality rate (iNMR) estimates. This limits progress tracking, since 2.3 million neonatal deaths occur annually, and 65 countries are projected to miss the Sustainable Development Goal (SDG) 3.2 target of fewer than 12 deaths per 1000 live births by 2030. Reliable iNMR estimates are essential for national and hospital-level monitoring. This study assessed birthweight-specific adjustment curves developed using simulated data, and extended the approach to routine data from 172,809 neonatal admissions across four African countries in the NEST360 network. Methods Simulated data were generated using birthweight intervals of 500 g from 500 to 5000 g, with 1000 values per category representing 1000 hospitals. Admissions were drawn from a negative binomial distribution and mortality rates from a beta distribution based on published birthweight-specific iNMRs. Adjustment functions were developed using data from 500 hospitals without underreporting and tested on 500 with induced underreporting. This approach was then extended to real data from 65 NEST360 partnering hospitals. The adjustment functions were derived from 26 hospitals with plausible reporting (iNMR ≥ 700 per 1000 for neonates &amp;lt; 1000 g). Results In simulated data, adjusted iNMRs closely matched original values, with median differences ranging from − 4 to 9 deaths per 1000 across birthweight categories. In NEST360 dataset, unadjusted iNMRs were 121 (range 13–272) in Nigeria, 128 (60–214) in Tanzania, 132 (42–234) in Malawi, and 135 (60–250) in Kenya per 1000 admissions. After adjustment, estimates increased to 162 (127–333), 183 (128–233), 174 (120–268), and 172 (123–261), respectively. Variability across hospitals decreased, with standard deviation reducing from 13 to 5 deaths per 1000. Conclusions Birthweight specific adjustment functions provide a practical and scalable approach to improving the plausibility of iNMR estimates where underreporting is common. These methods can be integrated into routine systems (such as Electronic Medical Record Systems and DHIS2) where key data are available, with modest computational demands. Their use can strengthen mortality surveillance and support more reliable policy and planning, while contributing to progress toward SDG 3.2, contingent on continued improvements in data quality and system capacity.</description>
+    </item>
     <item>
       <title>Characterizing U.S. community well-being indices: a methodological synthesis and measurement systems perspective</title>
       <link>https://doi.org/10.1186/s12963-026-00502-4</link>
@@ -1593,23 +1613,6 @@ Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 40</de
 Journal: Population Health Metrics; Volume: 23; Issue: S2; Article number: 39
 
 Abstract: Abstract Background Evidence suggests that the COVID-19 pandemic has exacerbated social and demographic inequalities in the communities through pathways of unequal exposure, vulnerability, and susceptibility. In Tanzania, evidence on COVID-19-related mortality is limited to health facility data, with little to no information on the mortality patterns in the general population. This study assessed sociodemographic inequalities in all-cause mortality during the COVID-19 period in north-western Tanzania. Methods We utilized available longitudinal data from the Magu Health and Demographic Surveillance System (HDSS) from January 2018 to December 2021. We compared the crude death rates between subgroups of age, sex, area of residence, and wealth index for a period before (2018/2019) and during (2020/2021) the COVID-19 pandemic. To quantify how mortality risk varies across the subgroups we fitted a Cox proportional hazard model with an interaction of the COVID-19 period. Results Overall mortality declined from 5.9 in 2018/2019 to 5.4 and 5.5 deaths per 1000 person-years in 2020 and 2021, respectively. We observed an increase in differences in crude death rates by age groups, area of residence, and wealth quintiles during the COVID-19 period. In the Cox proportional hazards model, compared to adults aged 15–49, we observed greater mortality risk in children under five (AHR:2.9; 95%CI: 2.2–3.9), older individuals aged 50–64 years (AHR:3.02; 95%CI:2.11–4.33) and 65 + (AHR:18.65; 95%CI:14.28–24.35) during COVID-19 period. Males were also at greater risk of death compared to females (AHR:1.30; 95%CI:1.06–1.59). Conclusion Despite the overall mortality decline during the pandemic, we observed an increased risk of mortality among vulnerable subgroups (aged &amp;lt; 5 years and &amp;gt; 60 years) in the population. This highlights the need to take into account vulnerable subpopulations when addressing major public health issues in communities.</description>
-    </item>
-    <item>
-      <title>Reallocating diabetes-related garbage codes to improve mortality estimates: a case study in Weifang, China</title>
-      <link>https://doi.org/10.1186/s12963-025-00399-5</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00399-5</guid>
-
-      <dc:creator>Xiao Zhang</dc:creator>
-      <dc:creator>Wenyi Yang</dc:creator>
-      <dc:creator>Jingxin Wang</dc:creator>
-      <dc:creator>Limei Ai</dc:creator>
-      <dc:creator>Min Chen</dc:creator>
-      <dc:creator>Chunping Wang</dc:creator>
-      <dc:creator>Xia Wan</dc:creator>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Xiao Zhang, Wenyi Yang, Jingxin Wang, Limei Ai, Min Chen, Chunping Wang, Xia Wan
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 38</description>
     </item>
   </channel>
 </rss>

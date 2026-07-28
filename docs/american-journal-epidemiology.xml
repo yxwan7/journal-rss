@@ -5,8 +5,25 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 10:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:04:48 +0000</lastBuildDate>
 
+    <item>
+      <title>Sustained fish intake and 21-year Alzheimer’s disease risk: a target trial emulation</title>
+      <link>https://doi.org/10.1093/aje/kwag140</link>
+      <guid isPermaLink="false">10.1093/aje/kwag140</guid>
+
+      <dc:creator>Yi Zhao</dc:creator>
+      <dc:creator>Paul F Jacques</dc:creator>
+      <dc:creator>Martin Lajous</dc:creator>
+      <dc:creator>Paola Sebastiani</dc:creator>
+      <dc:creator>José M Ordovás</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yi Zhao, Paul F Jacques, Martin Lajous, Paola Sebastiani, José M Ordovás
+
+Journal: American Journal of Epidemiology; Article number: kwag140
+
+Abstract: Abstract Increasing oily fish intake has been proposed as a strategy for Alzheimer’s disease (AD) prevention, but evidence for long-term benefit remains limited. Using observational data from 2012 cognitively healthy adults in the Framingham Heart Study Offspring cohort, we emulated a target trial of seven isocaloric fish intake strategies to estimate 21-year AD risk. We modeled repeated measures of diet and adjusted for pre-baseline diet, baseline covariates, and time-varying confounding using the parametric g-formula. The estimated 21-year AD risk ranged from 10.33% (95% confidence interval [CI]: 8.41%, 12.92%) under no fish intake to 9.98% (95% CI, 6.64%, 13.31%) under ≥ 3 servings/week. Risk ratios relative to no intervention were close to one and risk differences were close to zero across all strategies. Substituting fish for meat yielded similar results. We observed no clear long-term protective effect of sustained fish intake on AD risk, though exploratory analyses suggested a possible protective effect among older participants during earlier follow-up, warranting further investigation. This study illustrates the use of target trial emulation to estimate long-term dietary effects while accounting for time-varying confounding and competing risks in nutritional epidemiology.</description>
+    </item>
     <item>
       <title>The Long Half-Life of Neighborhood Poverty: Duration, Timing, and Biological Aging</title>
       <link>https://doi.org/10.1093/aje/kwag182</link>
@@ -160,24 +177,6 @@ Journal: American Journal of Epidemiology; Article number: kwag176
 Abstract: Abstract Neighborhood socioeconomic disadvantage is linked to accelerated biological aging using DNA methylation; however, limited knowledge exists of the relationship between duration or timing of exposure to neighborhood poverty across life stages and biological aging, measured by epigenetic clocks. Existing research has relied on samples with limited racial and gender diversity. We examined the relationship between multiple dimensions of neighborhood poverty (duration, life stage of first exposure, life stage exposure trajectories, and severity) and biological aging using data from 3637 participants followed for 25 years in the National Longitudinal Study of Adolescent to Adult Health. We employed survey linear regression models to estimate associations for three epigenetic clocks: GrimAge2, PhenoAge, DunedinPACE. In the total sample, only 8% of participants experienced neighborhood poverty across all life stages, which differed starkly by race (Non-Hispanic Blacks: 26% vs. Non-Hispanic Whites: 4%). We found that each additional life stage of exposure to neighborhood poverty was associated with significant biological age acceleration. Experiencing neighborhood poverty in mid-adulthood was consistently associated with accelerated biological aging. Our results suggest a relationship between duration and timing of exposure to neighborhood poverty and accelerated biological aging across key biological clocks, indicating possible lasting cellular level effects of residential context.</description>
     </item>
     <item>
-      <title>Depression at the intersection of race/ethnicity, sex/gender, and sexual orientation in a nationally representative sample of US adults: a design-weighted intersectional MAIHDA</title>
-      <link>https://doi.org/10.1093/aje/kwag144</link>
-      <guid isPermaLink="false">10.1093/aje/kwag144</guid>
-
-      <dc:creator>F Hunter McGuire</dc:creator>
-      <dc:creator>Ariel L Beccia</dc:creator>
-      <dc:creator>Ja Niene Peoples</dc:creator>
-      <dc:creator>Matthew R Williams</dc:creator>
-      <dc:creator>Megan S Schuler</dc:creator>
-      <dc:creator>Alexis E Duncan</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: F Hunter McGuire, Ariel L Beccia, Ja Niene Peoples, Matthew R Williams, Megan S Schuler, Alexis E Duncan
-
-Journal: American Journal of Epidemiology; Article number: kwag144
-
-Abstract: Abstract This study examined how race/ethnicity, sex/gender, and sexual orientation intersect under interlocking systems of oppression to socially pattern depression among US adults. With cross-sectional data from the 2015-2020 National Survey on Drug Use and Health (NSDUH; n=234 722), we conducted design-weighted multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA) under an intersectional framework to predict past-year and lifetime major depressive episode (MDE). With 42 intersectional groups constructed from seven race/ethnicity, two sex/gender, and three sexual orientation categories, we estimated age-standardized prevalence and excess/reduced prevalence attributable to two-way or higher interaction effects. Models revealed heterogeneity across groups, with prevalence ranging from 2.9–27.3% (past-year) and 5.9–43.1% (lifetime). Approximately 12.7% (past-year) and 12.5% (lifetime) of total individual variance were attributable to between-group differences, indicating key relevance of intersectional groups in describing the population distribution of depression. Main effects indicated, on average, people who were White, women, gay/lesbian, or bisexual had greater odds of MDE. Main effects explained most between-group variance. Interaction effects (past-year: 10.1%; lifetime: 16.5%) indicated a further source of heterogeneity around averages with groups experiencing excess/reduced prevalence compared to main effects expectations. We extend the MAIHDA framework to calculate nationally representative estimates from complex sample survey data using design-weighted, Bayesian methods.</description>
-    </item>
-    <item>
       <title>&lt;b&gt;“&lt;/b&gt;
                     Once thriving”: using Google street view virtual audits to measure neighborhood disinvestment in the Jackson, MS Tri-County area</title>
       <link>https://doi.org/10.1093/aje/kwag177</link>
@@ -197,6 +196,24 @@ Abstract: Abstract This study examined how race/ethnicity, sex/gender, and sexua
 Journal: American Journal of Epidemiology; Article number: kwag177
 
 Abstract: Abstract Disinvestment in segregated, low-income Black communities is rooted in structural racism and racial capitalism and contributes to racial health inequities. Virtual audits have been used to capture visible signs of neighborhood disinvestment, however, these methods have been primarily used and validated in dense urban cities in the Northeast and Western U.S. We used Google Street View to conduct virtual audits in the Jackson, Mississippi tri-county metropolitan area—a mid-sized, urban area in the U.S. South. Our approach engaged residents and community organizers in conversations to inform our interpretation of the local context and utilized exploratory and confirmatory factor analyses to develop a total disinvestment score for each observed street segment. In select neighborhoods, we also assessed neighborhood disinvestment longitudinally. We found that disinvestment scores were higher in historically Black neighborhoods and within Jackson city limits compared to surrounding, majority-white counties and increased over time in some neighborhoods. Our score was positively associated with housing vacancy, unemployment, residential segregation by race and income, and negatively associated with owner-occupied housing. Virtual audits can be valid tools for measuring physical signs of disinvestment in low-density cities in the US South, and for measuring contributions of the built environment to population health inequities.</description>
+    </item>
+    <item>
+      <title>Depression at the intersection of race/ethnicity, sex/gender, and sexual orientation in a nationally representative sample of US adults: a design-weighted intersectional MAIHDA</title>
+      <link>https://doi.org/10.1093/aje/kwag144</link>
+      <guid isPermaLink="false">10.1093/aje/kwag144</guid>
+
+      <dc:creator>F Hunter McGuire</dc:creator>
+      <dc:creator>Ariel L Beccia</dc:creator>
+      <dc:creator>Ja Niene Peoples</dc:creator>
+      <dc:creator>Matthew R Williams</dc:creator>
+      <dc:creator>Megan S Schuler</dc:creator>
+      <dc:creator>Alexis E Duncan</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: F Hunter McGuire, Ariel L Beccia, Ja Niene Peoples, Matthew R Williams, Megan S Schuler, Alexis E Duncan
+
+Journal: American Journal of Epidemiology; Article number: kwag144
+
+Abstract: Abstract This study examined how race/ethnicity, sex/gender, and sexual orientation intersect under interlocking systems of oppression to socially pattern depression among US adults. With cross-sectional data from the 2015-2020 National Survey on Drug Use and Health (NSDUH; n=234 722), we conducted design-weighted multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA) under an intersectional framework to predict past-year and lifetime major depressive episode (MDE). With 42 intersectional groups constructed from seven race/ethnicity, two sex/gender, and three sexual orientation categories, we estimated age-standardized prevalence and excess/reduced prevalence attributable to two-way or higher interaction effects. Models revealed heterogeneity across groups, with prevalence ranging from 2.9–27.3% (past-year) and 5.9–43.1% (lifetime). Approximately 12.7% (past-year) and 12.5% (lifetime) of total individual variance were attributable to between-group differences, indicating key relevance of intersectional groups in describing the population distribution of depression. Main effects indicated, on average, people who were White, women, gay/lesbian, or bisexual had greater odds of MDE. Main effects explained most between-group variance. Interaction effects (past-year: 10.1%; lifetime: 16.5%) indicated a further source of heterogeneity around averages with groups experiencing excess/reduced prevalence compared to main effects expectations. We extend the MAIHDA framework to calculate nationally representative estimates from complex sample survey data using design-weighted, Bayesian methods.</description>
     </item>
     <item>
       <title>Confidence regions for multiple outcomes, effect modifiers, and other multiple comparisons</title>
@@ -272,7 +289,7 @@ Abstract: Abstract Multimorbidity follows a strong social gradient, yet how the 
       <description>Journal: American Journal of Epidemiology; Article number: kwag163</description>
     </item>
     <item>
-      <title>Time Trends in Susceptibility to Scams in Community-Dwelling Older Adults</title>
+      <title>Time trends in susceptibility to scams in community-dwelling older adults</title>
       <link>https://doi.org/10.1093/aje/kwag168</link>
       <guid isPermaLink="false">10.1093/aje/kwag168</guid>
 
@@ -289,7 +306,7 @@ Abstract: Abstract Multimorbidity follows a strong social gradient, yet how the 
 
 Journal: American Journal of Epidemiology; Article number: kwag168
 
-Abstract: Abstract This study examined the time trends of susceptibility to scams across 4 birth cohorts in the US that span between 1925 and 1944. Data came from community-dwelling older adults without dementia participating in an epidemiologic cohort study of aging and dementia. A 5-item instrument for scam susceptibility assessed participants’ scam related behaviors and perceptions, such as how they manage phone calls from telemarketers, and whether they agree with claims that are unrealistically good. To capture time trends, age- and education-standardized mean scam susceptibility score was computed for each birth cohort and compared across the cohorts. Of the 1037 participants included, 280 were born between 1925-1929, 248 between 1930-1934, 279 between 1935-1939, and 230 between 1940-1944. The mean scam susceptibility scores trended downward monotonically from the earliest to the most recent cohorts. The results are robust to age distributions, analytic approaches, or cognitive impairment status. In conclusion, older adults of more recent birth cohorts report fewer behaviors linked to scam susceptibility. This study suggests that scam susceptibility appears to be a function not only of individual-level factors but also reflective of shared life experiences. More broadly, scam susceptibility is amenable to interventions effective at the population level.</description>
+Abstract: Abstract This study examined the time trends of susceptibility to scams across 4 birth cohorts in the United States that span between 1925 and 1944. Data came from community-dwelling older adults without dementia participating in an epidemiologic cohort study of aging and dementia. A 5-item instrument for scam susceptibility assessed participants’ scam-related behaviors and perceptions, such as how they manage phone calls from telemarketers, and whether they agree with claims that are unrealistically good. To capture time trends, age- and education-standardized mean scam susceptibility score was computed for each birth cohort and compared across the cohorts. Of the 1037 participants included, 280 were born between 1925 and 1929, 248 between 1930 and 1934, 279 between 1935 and 1939, and 230 between 1940 and 1944. The mean scam susceptibility scores trended downward monotonically from the earliest to the most recent cohorts. The results are robust to age distributions, analytic approaches, or cognitive impairment status. In conclusion, older adults of more recent birth cohorts report fewer behaviors linked to scam susceptibility. This study suggests that scam susceptibility appears to be a function not only of individual-level factors but also reflective of shared life experiences. More broadly, scam susceptibility is amenable to interventions effective at the population level.</description>
     </item>
     <item>
       <title>Roadmap for systematic identification and analysis of multiple biases in causal inference</title>
@@ -419,7 +436,7 @@ Journal: American Journal of Epidemiology; Article number: kwag162</description>
 Journal: American Journal of Epidemiology; Article number: kwag156</description>
     </item>
     <item>
-      <title>A comparative analysis of methodological practices used in capture-recapture population size estimation: Opioid use disorder prevalence in New York State, 2020</title>
+      <title>A comparative analysis of methodological practices used in capture–recapture population size estimation: opioid use disorder prevalence in New York State, 2020</title>
       <link>https://doi.org/10.1093/aje/kwag161</link>
       <guid isPermaLink="false">10.1093/aje/kwag161</guid>
 
@@ -436,7 +453,7 @@ Journal: American Journal of Epidemiology; Article number: kwag156</description>
 
 Journal: American Journal of Epidemiology; Article number: kwag161
 
-Abstract: Abstract Prevalence estimates for opioid use disorder (OUD) are essential for guiding investments in prevention and treatment. Previous estimates have been produced using modeling approaches including capture-recapture (CRC). Empirical evaluations of CRC are needed to assess population size impacts of methodological practices utilized. We linked administrative data sources including New York State (NYS) adults with OUD by indication between January 1—December 31, 2020 and applied Bayesian CRC methods to evaluate how methodological practices impact OUD prevalence: (1) using sensitive versus specific case definition characteristics to identify OUD, (2) including versus excluding inferred referrals from emergency medical services to healthcare settings, and (3) including versus excluding overdose mortality as a source list. We estimated OUD prevalence overall and by demographic characteristics and treatment coverage with medications for OUD (MOUD). Across methodological scenarios, OUD prevalence estimates ranged from 4.6%—9.9%. The largest estimate resulted from a model in which the more sensitive OUD case definition was applied, while the smallest resulted from a model using the more specific case definition. An estimated 4.2% of NYS adults had OUD in 2020, with 20% receiving MOUD. Findings demonstrate that CRC methodological decisions can meaningfully influence OUD prevalence estimates, with recommended methodological practices provided.</description>
+Abstract: Abstract Prevalence estimates for opioid use disorder (OUD) are essential for guiding investments in prevention and treatment. Previous estimates have been produced using modeling approaches including capture–recapture (CRC). Empirical evaluations of CRC are needed to assess population size impacts of methodological practices utilized. We linked administrative data sources including New York State (NYS) adults with OUD by indication between January 1 and December 31, 2020 and applied Bayesian CRC methods to evaluate how methodological practices impact OUD prevalence: (1) using sensitive vs specific case definition characteristics to identify OUD, (2) including vs excluding inferred referrals from emergency medical services to healthcare settings, and (3) including vs excluding overdose mortality as a source list. We estimated OUD prevalence overall and by demographic characteristics and treatment coverage with medications for OUD (MOUD). Across methodological scenarios, OUD prevalence estimates ranged from 4.6% to 9.9%. The largest estimate resulted from a model in which the more sensitive OUD case definition was applied, while the smallest resulted from a model using the more specific case definition. An estimated 4.2% of NYS adults had OUD in 2020, with 20% receiving MOUD. Findings demonstrate that CRC methodological decisions can meaningfully influence OUD prevalence estimates, with recommended methodological practices provided.</description>
     </item>
     <item>
       <title>Air pollution and healthy aging: a longitudinal inquire on the association of PM2.5 with intrinsic capacity and its domains</title>
@@ -1057,6 +1074,26 @@ Journal: American Journal of Epidemiology; Article number: kwag119
 Abstract: Abstract The gut microbiome affects arterial stiffness in experimental murine models; however, evidence in human longitudinal studies is lacking. In this study, we investigated longitudinal between-person (average) and within-person (change) associations of microbiome features with arterial stiffness. We assessed the fecal microbiome using whole genome metagenomic sequencing, and arterial stiffness using carotid–femoral pulse wave velocity (cfPWV). Our analytic sample consisted of 349 adults from the Baltimore Longitudinal Study of Aging, who contributed 915 visits between 2013 and 2019. Using linear mixed models, we found higher microbiome evenness and butyrate-producing bacteria were associated with lower cfPWV on average (between-person), but changes in diversity were not associated with changes in cfPWV (within-person). Several potentially pathogenic bacteria were positively associated with cfPWV, both between- and within-person. Butyrate-production pathways were inversely associated with cfPWV between-person and borderline within-person. Trimethylamine-production genes were positively associated with cfPWV between-person and borderline within-person. In addition, changes in other functional pathways including peptidoglycan biosynthesis and L-arginine biosynthesis were associated with changes in cfPWV. In conclusion, cfPWV was associated with both between-person and within-person differences in gut microbiome features, with strength and consistency depending on the feature. These results can inform which microbiome features to target in interventions to improve arterial stiffness.</description>
     </item>
     <item>
+      <title>Leveraging questionnaire-based physical activity levels and the Goldberg method to evaluate the biological plausibility of self-reported energy intake: a doubly labeled water validation study</title>
+      <link>https://doi.org/10.1093/aje/kwag124</link>
+      <guid isPermaLink="false">10.1093/aje/kwag124</guid>
+
+      <dc:creator>Heather K Neilson</dc:creator>
+      <dc:creator>Shervin Asgari</dc:creator>
+      <dc:creator>Janet A Tooze</dc:creator>
+      <dc:creator>Farah Khandwala</dc:creator>
+      <dc:creator>Anita Koushik</dc:creator>
+      <dc:creator>Rémi Rabasa-Lhoret</dc:creator>
+      <dc:creator>Karen A Kopciuk</dc:creator>
+      <dc:creator>Ilona Csizmadi</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Heather K Neilson, Shervin Asgari, Janet A Tooze, Farah Khandwala, Anita Koushik, Rémi Rabasa-Lhoret, Karen A Kopciuk, Ilona Csizmadi
+
+Journal: American Journal of Epidemiology; Article number: kwag124
+
+Abstract: Abstract The Goldberg method is a statistical approach used to identify implausible energy intakes (EI) in nutritional epidemiology. However, estimating physical activity levels (PAL) required for the method, is challenging. We quantified the accuracy of the Goldberg method combined with PAL derived from the Sedentary Time and Activity Reporting Questionnaire (Goldberg-PALSTAR-Q). Total energy expenditure derived from doubly labeled water (TEEDLW) was the comparator. Between 2009 and 2011, men (n = 40) and women (n = 59) completed a 2-week DLW protocol, a food frequency questionnaire, and the STAR-Q. Sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and accuracy of the Goldberg-PALSTAR-Q were determined. Fifty-eight percent of men and women were classified as EI underreporters by the Goldberg-PALSTAR-Q compared with 60% of men and 56% of women by TEEDLW. Among men, sensitivity, specificity, PPV, NPV, accuracy, and 95% CI were 88% (68%-97%), 87% (61%-98%), 91% (72%-99%), 81% (56%-94%), and 87% (72%-95%), respectively; and among women 79% (62%-90%), 69% (50%-84%), 77% (60%-88%), 72% (52%-86%), and 75% (62%-84%), respectively. In studies where objective EI measures are lacking, the Goldberg method and individual-level questionnaire-derived PALs can provide a viable option in sensitivity analyses exploring the influence of implausible EIs on diet and health-related associations.</description>
+    </item>
+    <item>
       <title>Evaluating risk prediction models: the predictiveness curve and its geometric summaries</title>
       <link>https://doi.org/10.1093/aje/kwag123</link>
       <guid isPermaLink="false">10.1093/aje/kwag123</guid>
@@ -1659,43 +1696,6 @@ Abstract: Abstract Understanding regional and racial variation in the risk of ho
 Journal: American Journal of Epidemiology; Article number: kwag076
 
 Abstract: Abstract Thunderstorm asthma events can overwhelm emergency departments within hours, making rapid detection critical for public health preparedness and patient safety. We examined whether thunderstorm asthma presentations show distinctive patterns compared to routine asthma cases in emergency department data, with an aim of enhancing the detection of thunderstorm asthma incidence. Using Victoria’s SynSurv surveillance system, we analyzed triage notes from 3 thunderstorm asthma events occurring between 2022 and 2024 in Victoria, Australia, comparing 687 thunderstorm-related presentations with 687 presentations from 8 control days. The study population consisted of emergency department attendees with respiratory presentations. Triage notes were processed using natural language processing and manual review, with demographic, symptom-onset, and medical-history data compared using chi-square tests and temporal analysis. Thunderstorm cases showed significantly higher rates of acute symptom onset within 24 hours (63.0% vs 47.2%), with presentations peaking 3-8 hours after storms and returning to baseline within 24 hours. The affected population skewed markedly toward young adults aged 21-40 years (35.9% vs 15.6% in controls). Immunological and allergic comorbidities were 3 times more prevalent in thunderstorm cases (16.6% vs 5.6%). These distinct demographic, temporal, and allergic profiles could enhance real-time surveillance and emergency preparedness through refined detection models.</description>
-    </item>
-    <item>
-      <title>Intergenerational socioeconomic mobility and adulthood all-cause mortality in the Hispanic community health study/study of Latinos</title>
-      <link>https://doi.org/10.1093/aje/kwag086</link>
-      <guid isPermaLink="false">10.1093/aje/kwag086</guid>
-
-      <dc:creator>Adam M Whalen</dc:creator>
-      <dc:creator>Wenyan Ma</dc:creator>
-      <dc:creator>Paola A Filigrana Villegas</dc:creator>
-      <dc:creator>Krista M Perreira</dc:creator>
-      <dc:creator>Jianwen Cai</dc:creator>
-      <dc:creator>Christina Cordero</dc:creator>
-      <dc:creator>Martha L Daviglus</dc:creator>
-      <dc:creator>Robert C Kaplan</dc:creator>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Adam M Whalen, Wenyan Ma, Paola A Filigrana Villegas, Krista M Perreira, Jianwen Cai, Christina Cordero, Martha L Daviglus, Robert C Kaplan, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag086
-
-Abstract: Abstract Socioeconomic mobility, the transition of an individual across different levels of socioeconomic position (SEP), may aid in understanding overall mortality trends in Hispanic/Latino adults by identifying subgroups with varying mortality experiences. We investigated whether intergenerational socioeconomic mobility was associated with all-cause mortality among US Hispanic/Latino adults aged 25-74 in the Hispanic Community Health Study/Study of Latinos (n = 12 095). Childhood SEP was measured as parental education, and adulthood SEP was measured using a 5-indicator index (income, homeownership, employment, occupation, education); both indicators were combined into a 4-group socioeconomic mobility measure: enduring adversity, downward mobility, upward mobility, and enduring advantage. Cox proportional hazards models were adjusted for potential confounders. Downward mobility (HR = 1.74; 95% CI: 1.19–2.55) and enduring adversity (HR = 1.44, 95% CI: 1.06–1.96) were significantly associated with an increased hazard of mortality compared to enduring advantage; the association was stronger among those born in the US. Adjustment for adulthood SEP confounders attenuated the association to non-significance. Socioeconomic mobility, particularly downward mobility, was associated with all-cause mortality in US Hispanic/Latino adults and may be partially explained by adulthood clinical and behavioral factors. Interventions should target structural barriers to socioeconomic advancement for Hispanic/Latino adults to improve health. This article is part of a Special Collection on Latino Health.</description>
-    </item>
-    <item>
-      <title>Prepregnancy body mass index, pregnancy weight gain, and postpartum weight retention in Pennsylvania from 2003 to 2020: an age–period–cohort analysis</title>
-      <link>https://doi.org/10.1093/aje/kwag085</link>
-      <guid isPermaLink="false">10.1093/aje/kwag085</guid>
-
-      <dc:creator>Lisa M Bodnar</dc:creator>
-      <dc:creator>Christina F Mair</dc:creator>
-      <dc:creator>Lynne C Messer</dc:creator>
-      <dc:creator>Sara M Parisi</dc:creator>
-      <dc:creator>Katherine M Keyes</dc:creator>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lisa M Bodnar, Christina F Mair, Lynne C Messer, Sara M Parisi, Katherine M Keyes
-
-Journal: American Journal of Epidemiology; Article number: kwag085
-
-Abstract: Abstract The population-level increase in prepregnancy obesity affects pregnancy weight gain and postpartum weight retention, contributing to an intergenerational cycle of obesity. This study evaluated age, period, and cohort effects in prepregnancy body mass index (BMI), excessive pregnancy weight gain, and postpartum weight retention among 811 111 primiparous Pennsylvania births from 2003 to 2020. We used hierarchical age–period–cohort cross-classified random effects models to estimate age–period–cohort effects in prepregnancy BMI, as well as excessive weight gain and postpartum weight retention stratified by BMI category. The 1.8-kg/m2 acceleration of prepregnancy BMI from 2003 to 2020 occurred to a similar degree in all age groups and birth cohorts. There were no main effects of delivery period or birth cohort on excessive weight gain beyond age-related variation in any BMI group. Over the same period, weight retention between the first and second pregnancies (n = 382 328) increased faster with each younger generation of women who were in normal weight during their first pregnancies, but to a comparable extent in all generations of women in all other BMI groups. Our data suggest that the acceleration in prepregnancy BMI and postpartum weight retention will continue unless structural and institutional changes are made to systems and policies necessary to promote healthy nutrition for all women.</description>
     </item>
   </channel>
 </rss>
