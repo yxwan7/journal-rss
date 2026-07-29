@@ -5,8 +5,39 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 09:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 09:08:50 +0000</lastBuildDate>
 
+    <item>
+      <title>Response to “Secundum Cavere, Tertium Sanare” in Counterfactual Decision-Making</title>
+      <link>https://doi.org/10.1093/aje/kwag184</link>
+      <guid isPermaLink="false">10.1093/aje/kwag184</guid>
+
+      <dc:creator>Amit N Sawant</dc:creator>
+      <dc:creator>Mats J Stensrud</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Amit N Sawant, Mats J Stensrud
+
+Journal: American Journal of Epidemiology; Article number: kwag184</description>
+    </item>
+    <item>
+      <title>Co-exposure confounding and amplification of bias—an exploration with practical interpretation and perspectives</title>
+      <link>https://doi.org/10.1093/aje/kwag183</link>
+      <guid isPermaLink="false">10.1093/aje/kwag183</guid>
+
+      <dc:creator>Krista Y Christensen</dc:creator>
+      <dc:creator>Michael Leung</dc:creator>
+      <dc:creator>Elizabeth G Radke</dc:creator>
+      <dc:creator>J Michael Wright</dc:creator>
+      <dc:creator>Paige A Bommarito</dc:creator>
+      <dc:creator>Thomas F Bateson</dc:creator>
+      <dc:creator>Marc G Weisskopf</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Krista Y Christensen, Michael Leung, Elizabeth G Radke, J Michael Wright, Paige A Bommarito, Thomas F Bateson, Marc G Weisskopf
+
+Journal: American Journal of Epidemiology; Article number: kwag183
+
+Abstract: Abstract Epidemiologists increasingly estimate associations between mixtures of correlated co-exposures and health outcomes. We propose an exploratory approach to help differentiate co-exposure confounding from co-exposure amplification of bias (CAB) for studies considering correlated co-exposures using a case example and simulations based on observed relationships. Our example uses associations observed in published studies between co-occurring per- and polyfluoroalkyl substance (PFAS) biomarkers and tetanus antibody concentrations but could apply to any context where statistical modeling is performed with and without inclusion of correlated co-exposures. Using directed acyclic graphs (DAGs), to define an assumed causal structure, and simulations of three PFAS predicting antibody titers, we show that if researchers can assume one component in the exposure mixture is correlated with the other components, but does not cause the outcome, then CAB can be detected by testing whether the estimate for the non-causal component in a multi-pollutant model is different from zero. In our simulation, the estimate for the non-causal component was zero (95%CI, -0.22, 0.25) when CAB was absent and -0.25 (95%CI, -0.48, 0.00) when present. These results illustrate a possible method to identify CAB and select statistical models that may produce less biased effect estimates if our assumed DAG is correct.</description>
+    </item>
     <item>
       <title>Sustained fish intake and 21-year Alzheimer’s disease risk: a target trial emulation</title>
       <link>https://doi.org/10.1093/aje/kwag140</link>
@@ -1660,42 +1691,6 @@ Abstract: Abstract It’s been said that smoking is a leading cause of statistic
 Journal: American Journal of Epidemiology; Article number: kwag089
 
 Abstract: Abstract Heterogeneous treatment effect models identify Medicaid beneficiaries who benefit most from population health programs but provide limited mechanistic insight. We combined graphical structure learning with regression-based effect estimation to generate hypotheses about intervention-specific mechanisms in a program serving 6396 Medicaid managed care enrollees (2023-2025). The Peter-Clark algorithm and Greedy Equivalence Search identified conditional dependencies between baseline characteristics, intervention exposures (behavioral health therapy, n = 434; clinical pharmacy, n = 632; community health workers (CHWs), n = 2169; care coordination, n = 1042), and acute care outcomes. Four associations warranted investigation: behavioral health therapy was associated with reduced psychiatric admissions (risk ratio [RR], 0.27; 95% confidence interval [CI], 0.19-0.37; E-value, 7.6); clinical pharmacy showed a dose-dependent association with reduced costs; CHWs were associated with emergency department (ED) reduction (RR, 0.62; 95% CI, 0.51-0.74; E-value, 4.5); and care coordination was associated with ED reduction among women (RR, 0.38; 95% CI, 0.27-0.52; E-value, 9.1). False coverage rate correction for post-selection inference (Benjamini and Yekutieli, J Am Stat Assoc. 2005;100(469):71-81) yielded 98.44% CIs that continued to exclude the null for all reported associations. Graphical methods can complement heterogeneous treatment effect models by generating mechanistic hypotheses for confirmation through future trials. This article is part of a Special Collection on Latino Health.</description>
-    </item>
-    <item>
-      <title>Hospitalization risk with and without dementia by region and race in the United States</title>
-      <link>https://doi.org/10.1093/aje/kwag087</link>
-      <guid isPermaLink="false">10.1093/aje/kwag087</guid>
-
-      <dc:creator>Lauren Mock</dc:creator>
-      <dc:creator>Daniel Mork</dc:creator>
-      <dc:creator>Michelle Audirac</dc:creator>
-      <dc:creator>Danielle Braun</dc:creator>
-      <dc:creator>Antonella Zanobetti</dc:creator>
-      <dc:creator>Scott W Delaney</dc:creator>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lauren Mock, Daniel Mork, Michelle Audirac, Danielle Braun, Antonella Zanobetti, Scott W Delaney
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 1839-1849
-
-Abstract: Abstract Understanding regional and racial variation in the risk of hospitalization with Alzheimer's disease and related dementias (ADRD)—and how it differs from other conditions—is required to inform effective practice and policy. However, no prior studies have simultaneously estimated county-level regional and race-specific variation in hospitalization risk. We assessed hospitalizations with and without ADRD diagnoses among Black and White Medicare Fee-for-Service beneficiaries from 2000 to 2018 and used Bayesian shared component models to estimate geographic variation in hospitalizations jointly for both racial groups. We decomposed hospitalization risk across 3037 counties into (1) risk shared by all beneficiaries and (2) risk specific to either Black or White beneficiaries. We analyzed 143 891 769 hospitalizations (13.2% with ADRD). For hospitalization with ADRD, shared risk was elevated in southern and eastern states; Black-specific risk was elevated in the Midwest, Florida, and California; and White-specific risk was elevated in Appalachia. Black relative risk was significantly higher than White relative risk in 90.2% (2740/3037) of counties for hospitalization with ADRD and 44.7% (1359/3037) of counties for hospitalization without ADRD. These findings underscore the importance of considering regional differences in race-specific risk when assessing hospitalization disparities.</description>
-    </item>
-    <item>
-      <title>Characterizing thunderstorm asthma emergency department presentations using natural language processing for improved real-time surveillance</title>
-      <link>https://doi.org/10.1093/aje/kwag076</link>
-      <guid isPermaLink="false">10.1093/aje/kwag076</guid>
-
-      <dc:creator>Sedigh Khademi</dc:creator>
-      <dc:creator>Gerardo Luis Dimaguila</dc:creator>
-      <dc:creator>Christopher Palmer</dc:creator>
-      <dc:creator>Muhammad Javed</dc:creator>
-      <dc:creator>Jim Buttery</dc:creator>
-      <dc:creator>Jim Black</dc:creator>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sedigh Khademi, Gerardo Luis Dimaguila, Christopher Palmer, Muhammad Javed, Jim Buttery, Jim Black
-
-Journal: American Journal of Epidemiology; Article number: kwag076
-
-Abstract: Abstract Thunderstorm asthma events can overwhelm emergency departments within hours, making rapid detection critical for public health preparedness and patient safety. We examined whether thunderstorm asthma presentations show distinctive patterns compared to routine asthma cases in emergency department data, with an aim of enhancing the detection of thunderstorm asthma incidence. Using Victoria’s SynSurv surveillance system, we analyzed triage notes from 3 thunderstorm asthma events occurring between 2022 and 2024 in Victoria, Australia, comparing 687 thunderstorm-related presentations with 687 presentations from 8 control days. The study population consisted of emergency department attendees with respiratory presentations. Triage notes were processed using natural language processing and manual review, with demographic, symptom-onset, and medical-history data compared using chi-square tests and temporal analysis. Thunderstorm cases showed significantly higher rates of acute symptom onset within 24 hours (63.0% vs 47.2%), with presentations peaking 3-8 hours after storms and returning to baseline within 24 hours. The affected population skewed markedly toward young adults aged 21-40 years (35.9% vs 15.6% in controls). Immunological and allergic comorbidities were 3 times more prevalent in thunderstorm cases (16.6% vs 5.6%). These distinct demographic, temporal, and allergic profiles could enhance real-time surveillance and emergency preparedness through refined detection models.</description>
     </item>
   </channel>
 </rss>
