@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 09:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:49:50 +0000</lastBuildDate>
 
     <item>
       <title>Constraining an exoplanet’s magnetic field using star-planet interactions</title>
@@ -437,6 +437,41 @@ Journal: Science; Volume: 393; Issue: 6809; Article number: eady6893
 Abstract: Heart failure is a leading cause of morbidity and mortality, yet gene-regulatory mechanisms driving cell type–specific pathologic responses remain undefined. Here, we present the cell type–resolved transcriptomes, chromatin accessibility, histone modifications, and chromatin organization of 13 nonfailing and 23 failing human hearts across all cardiac chambers. Integrative analyses revealed dynamic changes in cell type composition, gene-regulatory programs, and chromatin organization, particularly in cardiomyocytes and fibroblasts. Mapping cell type–specific enhancer-gene interactions from these analyses enabled the illumination of likely causal genetic contributors to heart failure from genetic association data. Together, these findings provide multimodal gene-regulatory maps of the human heart in health and disease, offering a framework for designing precise, cell type–targeted therapies for treating heart failure.</description>
     </item>
     <item>
+      <title>Spatially resolving the cone of reaction for a single molecule</title>
+      <link>https://doi.org/10.1126/science.aec7913</link>
+      <guid isPermaLink="false">10.1126/science.aec7913</guid>
+
+      <dc:creator>Matthew James Timm</dc:creator>
+      <dc:creator>Adam Matěj</dc:creator>
+      <dc:creator>Ilias Gazizullin</dc:creator>
+      <dc:creator>Qifan Chen</dc:creator>
+      <dc:creator>Stefan Hecht</dc:creator>
+      <dc:creator>Pavel Jelínek</dc:creator>
+      <dc:creator>Leonhard Grill</dc:creator>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Matthew James Timm, Adam Matěj, Ilias Gazizullin, Qifan Chen, Stefan Hecht, Pavel Jelínek, Leonhard Grill
+
+Journal: Science; Volume: 393; Issue: 6809; Pages: 417-421
+
+Abstract: Collisions of atoms and molecules are required for bond formation and are thus key to any chemical reaction. Their outcome is determined by the collision energy, relative orientation, and impact parameter of the reactants. Collision studies in the gas phase have shown that energies are easily controlled, whereas it is difficult to steer the molecular orientations and completely impossible to control the impact parameter. Here, we study the collision of individual molecules at a surface where each involved compound is imaged before and after collision by scanning tunneling microscopy, allowing precise control of orientations and impact parameter. We observe that the molecules must collide in a narrow cone of reaction and that surface atom displacements can enable a reaction even for disfavored pathways.</description>
+    </item>
+    <item>
+      <title>The rise and fall of language diversity through the Holocene</title>
+      <link>https://doi.org/10.1126/science.adx4343</link>
+      <guid isPermaLink="false">10.1126/science.adx4343</guid>
+
+      <dc:creator>D. E. Blasi</dc:creator>
+      <dc:creator>M. J. Hamilton</dc:creator>
+      <dc:creator>R. D. Gray</dc:creator>
+      <dc:creator>C. L. Bowern</dc:creator>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: D. E. Blasi, M. J. Hamilton, R. D. Gray, C. L. Bowern
+
+Journal: Science; Volume: 393; Issue: 6809; Pages: 387-391
+
+Abstract: Characterizing the factors that have shaped linguistic diversity is fundamental for understanding human history, culture, and cognition. In this study, we combined statistical and social computational modeling, ethnographic data, and paleodemographic inference to model trajectories of global linguistic diversity. Before the onset of plant and animal domestication, the number of languages was smaller than it is today (4500 to 6000 compared with 7500). Subsequent increases in global population precipitated increased linguistic diversity. We uncovered a linguistic “golden age” with tens of thousands of languages 3000 to 1000 years ago. Great loss of linguistic diversity did not begin with recent colonial expansion but as multinational empires first spread along with their languages, pathogens, and cultures. Thus, extinction has likely played a much greater role in shaping linguistic and cultural diversity than previously thought.</description>
+    </item>
+    <item>
       <title>Spatially resolved single-cell atlas reveals the macroevolutionary trajectory of animal hearts</title>
       <link>https://doi.org/10.1126/science.adw0855</link>
       <guid isPermaLink="false">10.1126/science.adw0855</guid>
@@ -508,41 +543,6 @@ Abstract: A modular approach could expand the repertoire of spring-loaded covale
 Journal: Science; Volume: 393; Issue: 6809; Article number: eadz1652
 
 Abstract: Alzheimer’s disease (AD) disrupts brain function through cell type–specific transcriptomic and epigenomic alterations, yet the contribution of three-dimensional (3D) genome organization to AD remains poorly understood. We applied GAGE-seq (genome architecture and gene expression by sequencing) to jointly profile gene expression and 3D chromatin structure in single cells from postmortem brain tissue from AD patients and age-matched individuals without AD, revealing chromatin reorganization linked to cell type–specific dysregulation. Integrations with spatial transcriptomics and chromatin accessibility data uncovered altered niches reflecting genome compartment remodeling and regulatory element reorganization. Hicformer, a deep learning framework, showed that 3D genome features are essential for predicting disease-relevant, cell type–specific gene expression changes. Our results establish higher-order chromatin alterations as a component of AD-associated molecular pathology, providing a multiscale view of transcriptional regulation and 3D genome organization in neurodegeneration.</description>
-    </item>
-    <item>
-      <title>Spatially resolving the cone of reaction for a single molecule</title>
-      <link>https://doi.org/10.1126/science.aec7913</link>
-      <guid isPermaLink="false">10.1126/science.aec7913</guid>
-
-      <dc:creator>Matthew James Timm</dc:creator>
-      <dc:creator>Adam Matěj</dc:creator>
-      <dc:creator>Ilias Gazizullin</dc:creator>
-      <dc:creator>Qifan Chen</dc:creator>
-      <dc:creator>Stefan Hecht</dc:creator>
-      <dc:creator>Pavel Jelínek</dc:creator>
-      <dc:creator>Leonhard Grill</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Matthew James Timm, Adam Matěj, Ilias Gazizullin, Qifan Chen, Stefan Hecht, Pavel Jelínek, Leonhard Grill
-
-Journal: Science; Volume: 393; Issue: 6809; Pages: 417-421
-
-Abstract: Collisions of atoms and molecules are required for bond formation and are thus key to any chemical reaction. Their outcome is determined by the collision energy, relative orientation, and impact parameter of the reactants. Collision studies in the gas phase have shown that energies are easily controlled, whereas it is difficult to steer the molecular orientations and completely impossible to control the impact parameter. Here, we study the collision of individual molecules at a surface where each involved compound is imaged before and after collision by scanning tunneling microscopy, allowing precise control of orientations and impact parameter. We observe that the molecules must collide in a narrow cone of reaction and that surface atom displacements can enable a reaction even for disfavored pathways.</description>
-    </item>
-    <item>
-      <title>The rise and fall of language diversity through the Holocene</title>
-      <link>https://doi.org/10.1126/science.adx4343</link>
-      <guid isPermaLink="false">10.1126/science.adx4343</guid>
-
-      <dc:creator>D. E. Blasi</dc:creator>
-      <dc:creator>M. J. Hamilton</dc:creator>
-      <dc:creator>R. D. Gray</dc:creator>
-      <dc:creator>C. L. Bowern</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: D. E. Blasi, M. J. Hamilton, R. D. Gray, C. L. Bowern
-
-Journal: Science; Volume: 393; Issue: 6809; Pages: 387-391
-
-Abstract: Characterizing the factors that have shaped linguistic diversity is fundamental for understanding human history, culture, and cognition. In this study, we combined statistical and social computational modeling, ethnographic data, and paleodemographic inference to model trajectories of global linguistic diversity. Before the onset of plant and animal domestication, the number of languages was smaller than it is today (4500 to 6000 compared with 7500). Subsequent increases in global population precipitated increased linguistic diversity. We uncovered a linguistic “golden age” with tens of thousands of languages 3000 to 1000 years ago. Great loss of linguistic diversity did not begin with recent colonial expansion but as multinational empires first spread along with their languages, pathogens, and cultures. Thus, extinction has likely played a much greater role in shaping linguistic and cultural diversity than previously thought.</description>
     </item>
     <item>
       <title>In Science Journals</title>
@@ -648,19 +648,6 @@ Abstract: B cell maturation within the germinal center tissue microenvironment i
 Journal: Science; Volume: 393; Issue: 6809; Article number: eaej6433</description>
     </item>
     <item>
-      <title>Advancing science by designing for surprise</title>
-      <link>https://doi.org/10.1126/science.aej4257</link>
-      <guid isPermaLink="false">10.1126/science.aej4257</guid>
-
-      <dc:creator>James Evans</dc:creator>
-      <dc:creator>Casey Petroff</dc:creator>
-      <dc:creator>Gary King</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: James Evans, Casey Petroff, Gary King
-
-Journal: Science; Volume: 393; Issue: 6808; Article number: eaej4257</description>
-    </item>
-    <item>
       <title>Recovering lost origins</title>
       <link>https://doi.org/10.1126/science.aej4801</link>
       <guid isPermaLink="false">10.1126/science.aej4801</guid>
@@ -690,6 +677,19 @@ Abstract: Integrated evidence helps triangulate the origins of African slaves bu
 Journal: Science; Volume: 393; Issue: 6808; Pages: 249-251
 
 Abstract: Challenges to the voluntary zero-deforestation pact could impose costs for forests and the soy sector</description>
+    </item>
+    <item>
+      <title>Advancing science by designing for surprise</title>
+      <link>https://doi.org/10.1126/science.aej4257</link>
+      <guid isPermaLink="false">10.1126/science.aej4257</guid>
+
+      <dc:creator>James Evans</dc:creator>
+      <dc:creator>Casey Petroff</dc:creator>
+      <dc:creator>Gary King</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: James Evans, Casey Petroff, Gary King
+
+Journal: Science; Volume: 393; Issue: 6808; Article number: eaej4257</description>
     </item>
     <item>
       <title>AI in scientific publishing: Slower, worse, and more expensive</title>
@@ -758,19 +758,6 @@ Journal: Science; Volume: 393; Issue: 6808; Article number: eadx2989
 Abstract: Most genetic variants associated with complex traits are hypothesized to regulate gene expression. To understand the genetics underlying gene expression variability, we characterized 14,324 RNA-sequencing samples from the Trans-Omics for Precision Medicine program and performed expression and splicing quantitative trait locus (e/sQTL) analyses in six tissues and cell types, including whole blood ( n = 6454) and lung ( n = 1291). We detected tens of thousands of secondary cis-e/sQTLs, showing that secondary cis-e/sQTL discovery remains unsaturated. We fine-mapped UK Biobank–derived genome-wide association study (GWAS) signals from 164 traits and identified e/sQTL colocalizations for 10,611 GWAS signals, including 7096 that colocalize with secondary e/sQTLs. Our results suggest that even larger e/sQTL analyses will uncover additional secondary e/sQTLs, further benefiting GWAS interpretation.</description>
     </item>
     <item>
-      <title>U.S. researchers express outrage over proposed changes to managing federal grants</title>
-      <link>https://doi.org/10.1126/science.aek5959</link>
-      <guid isPermaLink="false">10.1126/science.aek5959</guid>
-
-      <dc:creator>Jeffrey Mervis</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jeffrey Mervis
-
-Journal: Science; Volume: 393; Issue: 6808; Pages: 232-233
-
-Abstract: White House receives 340,000 comments on rules many fear would politicize science</description>
-    </item>
-    <item>
       <title>A transcriptional biosensor reveals mechanisms of α-ketoglutarate signaling to chromatin</title>
       <link>https://doi.org/10.1126/science.adx8675</link>
       <guid isPermaLink="false">10.1126/science.adx8675</guid>
@@ -789,6 +776,19 @@ Abstract: White House receives 340,000 comments on rules many fear would politic
 Journal: Science; Volume: 393; Issue: 6808; Article number: eadx8675
 
 Abstract: The metabolite α-ketoglutarate (αKG) is required for chromatin demethylation, but mechanisms that control αKG abundance in the nucleus are poorly defined. We designed a biosensor to monitor this metabolite pool in human cells using an αKG-responsive cyanobacterial transcription factor, NtcA, and used it to identify genes that regulate αKG in the nucleus. We defined an interorganelle pathway in which sequential mitochondrial activities of glutamic-pyruvic transaminase 2 (GPT2) and the SLC25A11 transporter supply nuclear αKG. In a mouse model of GPT2 deficiency, an inborn error of metabolism, Gpt2 loss caused histone hypermethylation in the brain and dysregulated neurodevelopmental genes. Restoring αKG counteracted these changes and promoted mouse fitness. Our work provides a tool to directly monitor nuclear αKG and reveals nuclear αKG depletion as a key pathogenic mechanism underlying GPT2 deficiency.</description>
+    </item>
+    <item>
+      <title>U.S. researchers express outrage over proposed changes to managing federal grants</title>
+      <link>https://doi.org/10.1126/science.aek5959</link>
+      <guid isPermaLink="false">10.1126/science.aek5959</guid>
+
+      <dc:creator>Jeffrey Mervis</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jeffrey Mervis
+
+Journal: Science; Volume: 393; Issue: 6808; Pages: 232-233
+
+Abstract: White House receives 340,000 comments on rules many fear would politicize science</description>
     </item>
     <item>
       <title>A cinnamyl alcohol dehydrogenase–like scaffold organizes monoterpenoid indole alkaloid biosynthesis</title>
