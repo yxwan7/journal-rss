@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 08:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:16:55 +0000</lastBuildDate>
 
     <item>
       <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
@@ -72,6 +72,22 @@ Abstract: Abstract Background Available evidence on the relationship between lon
       <description>Authors: Dong Han Yu, Sun Mi Lim, Hyun Chul Shin, Moosung Kim, Seng Chan You, Rae Woong Park, Chungsoo Kim
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag131</description>
+    </item>
+    <item>
+      <title>Estimating healthy life years without activity limitations using medical claims data in Japan</title>
+      <link>https://doi.org/10.1093/ije/dyag126</link>
+      <guid isPermaLink="false">10.1093/ije/dyag126</guid>
+
+      <dc:creator>Masahiro Nishi</dc:creator>
+      <dc:creator>Reo Nagamitsu</dc:creator>
+      <dc:creator>Satomi Morita</dc:creator>
+      <dc:creator>Satoaki Matoba</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Masahiro Nishi, Reo Nagamitsu, Satomi Morita, Satoaki Matoba
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag126
+
+Abstract: Abstract Background Healthy life years are estimated from national population surveys that assess limitations in daily activities. However, the infrequent timing and limited sample sizes hinder the timely and detailed assessment of regional health conditions. We aimed to develop a novel method to estimate municipal-level healthy life years without activity limitations by using medical claims data. Methods We analysed medical claims data in Kyoto Prefecture, Japan. Outpatient data from May to July in 2016 and 2019 (n = 1 489 920) were used for development and data from the same period in 2022 (n = 739 236) were used for evaluation. A total of 5743 diagnostic codes were aggregated into 40 disease categories. A machine-learning model was employed to produce the probability of activity limitation, which was calibrated by using data from the Comprehensive Survey of Living Conditions and applied to derive age-specific prevalence rates. Healthy life years at the municipal level as of June 2022 were then estimated by incorporating a life table. Results We observed variation in healthy life years among municipalities: 72.1 years across all regions for males, ranging from 67.3 to 75.2 years, and 75.8 years for females, ranging from 71.3 to 77.6 years. Regional disparities were also noted in the prevalence of diseases associated with activity limitations. Conclusion This study provides the first robust, scalable method to estimate healthy life years without activity limitations at the municipal level by using real-world administrative data. Timely monitoring of regional healthy life years will support targeted health-promotion policies and contribute to reducing health disparities.</description>
     </item>
     <item>
       <title>Repeated sampling of different individuals within the same clusters to improve precision of longitudinal estimators: the DISC design</title>
@@ -428,22 +444,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Excess body fat (EBF) is a major cancer risk factor, yet its impact in Asians remains underexplored. We estimated the population-attributable fraction (PAF) of EBF for various cancers in Korea, comparing estimates based on body mass index (BMI) and waist circumference (WC). Methods Relative risks were derived from Korean National Health Insurance Service data of 4 441 103 adults screened in 2012, with 242 243 cancer cases identified through 2020. PAFs were calculated by using 2022 national obesity prevalence and cancer registry data. Sensitivity analyses were conducted among never smokers. Results The PAFs for 13 established obesity-associated cancers reached 5.48% (BMI) and 7.65% (WC) in men, 5.48% (BMI) and 6.68% (WC) in women aged &amp;amp;lt;50 years, and 6.86% (BMI) and 9.34% (WC) in women aged ≥50 years. This translates into 16 534.2 avoidable-cancer cases in 2022 via BMI and 22 486.9 via WC. In sensitivity analyses, positive associations between obesity and cancer risk were more pronounced among never smokers, suggesting that smoking may mask the true impact of EBF in the general population. Conclusion EBF significantly contributes to the cancer burden in Korea. Using BMI as the sole measure may substantially underestimate this burden compared with WC, which captures visceral adiposity more effectively. Our findings emphasize the importance of abdominal obesity management and support evidence-based public health policies for cancer prevention in Asian populations.</description>
     </item>
     <item>
-      <title>Effect of offering colonoscopy at the faecal immunochemical test (FIT) positivity threshold: a regression discontinuity analysis in older adults</title>
-      <link>https://doi.org/10.1093/ije/dyag109</link>
-      <guid isPermaLink="false">10.1093/ije/dyag109</guid>
-
-      <dc:creator>Anne Mette K Kristensen</dc:creator>
-      <dc:creator>Jonna S Madsen</dc:creator>
-      <dc:creator>Susanne F Jørgensen</dc:creator>
-      <dc:creator>Sisse Njor</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Anne Mette K Kristensen, Jonna S Madsen, Susanne F Jørgensen, Sisse Njor
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag109
-
-Abstract: Abstract Background Colorectal cancer (CRC) screening programmes often use the faecal immunochemical test (FIT) to identify individuals for follow-up colonoscopy but evidence on its impact on CRC incidence remains limited. Using a regression discontinuity design (RDD), we investigated whether CRC screening affects CRC incidence among adults aged 71–75 years with FIT values close to the threshold—an age group not consistently included in screening programmes. Methods Using registry data from 2014 to 2024, we compared CRC incidence among screening participants aged 71–75 years with FIT values just above versus just below the 100-ng/ml referral threshold, where only those above were offered colonoscopy. We included 2773 individuals with borderline FIT values (80–120 ng/ml). An RDD was used to estimate the effect of colonoscopy referral based on FIT on CRC incidence at values close to the threshold while mitigating healthy-user bias. Results Over a median 8.4-year follow-up, 165 CRC cases were observed. As expected from the lead time, early incidence was higher in FIT-positive individuals offered colonoscopy but cumulative incidence later plateaued in this group while it continued to rise in FIT-negative individuals. After 10 years of follow-up, a reduction was seen between the groups from 12.1 to 6.6 cases per 1000 person-years, equivalent to 5.5 fewer cases (95% confidence interval: 1.44–9.56) per 1000 person-years, corresponding to a 45.5% reduction. Conclusion CRC screening reduces CRC incidence among adults aged 71–75 years with FIT values close to the FIT threshold. This could guide cancer screening policies for an age group that is only eligible for screening in some countries.</description>
-    </item>
-    <item>
       <title>Cohort Profile: The Soweto and Thembelihle Health and Demographic Surveillance System (SaT-HDSS)</title>
       <link>https://doi.org/10.1093/ije/dyag115</link>
       <guid isPermaLink="false">10.1093/ije/dyag115</guid>
@@ -460,6 +460,22 @@ Abstract: Abstract Background Colorectal cancer (CRC) screening programmes often
       <description>Authors: Takwanisa Machemedze, Nqaba Mthimkhulu, Maite Morena, Maatla D Temane, Portia C Mutevedzi, Sana Mahtab, Daniel Ohene-Kwofie, Chodziwadziwa Whiteson Kabudula, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag115</description>
+    </item>
+    <item>
+      <title>Effect of offering colonoscopy at the faecal immunochemical test (FIT) positivity threshold: a regression discontinuity analysis in older adults</title>
+      <link>https://doi.org/10.1093/ije/dyag109</link>
+      <guid isPermaLink="false">10.1093/ije/dyag109</guid>
+
+      <dc:creator>Anne Mette K Kristensen</dc:creator>
+      <dc:creator>Jonna S Madsen</dc:creator>
+      <dc:creator>Susanne F Jørgensen</dc:creator>
+      <dc:creator>Sisse Njor</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Anne Mette K Kristensen, Jonna S Madsen, Susanne F Jørgensen, Sisse Njor
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag109
+
+Abstract: Abstract Background Colorectal cancer (CRC) screening programmes often use the faecal immunochemical test (FIT) to identify individuals for follow-up colonoscopy but evidence on its impact on CRC incidence remains limited. Using a regression discontinuity design (RDD), we investigated whether CRC screening affects CRC incidence among adults aged 71–75 years with FIT values close to the threshold—an age group not consistently included in screening programmes. Methods Using registry data from 2014 to 2024, we compared CRC incidence among screening participants aged 71–75 years with FIT values just above versus just below the 100-ng/ml referral threshold, where only those above were offered colonoscopy. We included 2773 individuals with borderline FIT values (80–120 ng/ml). An RDD was used to estimate the effect of colonoscopy referral based on FIT on CRC incidence at values close to the threshold while mitigating healthy-user bias. Results Over a median 8.4-year follow-up, 165 CRC cases were observed. As expected from the lead time, early incidence was higher in FIT-positive individuals offered colonoscopy but cumulative incidence later plateaued in this group while it continued to rise in FIT-negative individuals. After 10 years of follow-up, a reduction was seen between the groups from 12.1 to 6.6 cases per 1000 person-years, equivalent to 5.5 fewer cases (95% confidence interval: 1.44–9.56) per 1000 person-years, corresponding to a 45.5% reduction. Conclusion CRC screening reduces CRC incidence among adults aged 71–75 years with FIT values close to the FIT threshold. This could guide cancer screening policies for an age group that is only eligible for screening in some countries.</description>
     </item>
     <item>
       <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
@@ -510,24 +526,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag124</description>
     </item>
     <item>
-      <title>Data Resource Profile: EST-Health-30</title>
-      <link>https://doi.org/10.1093/ije/dyag113</link>
-      <guid isPermaLink="false">10.1093/ije/dyag113</guid>
-
-      <dc:creator>Sulev Reisberg</dc:creator>
-      <dc:creator>Marek Oja</dc:creator>
-      <dc:creator>Kerli Mooses</dc:creator>
-      <dc:creator>Sirli Tamm</dc:creator>
-      <dc:creator>Ami Sild</dc:creator>
-      <dc:creator>Harry-Anton Talvik</dc:creator>
-      <dc:creator>Sven Laur</dc:creator>
-      <dc:creator>Raivo Kolde</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sulev Reisberg, Marek Oja, Kerli Mooses, Sirli Tamm, Ami Sild, Harry-Anton Talvik, Sven Laur, Raivo Kolde, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag113</description>
-    </item>
-    <item>
       <title>Trends, determinants, and anthropometric consequences of low birthweight in Indian children: a prospective analysis of national data</title>
       <link>https://doi.org/10.1093/ije/dyag106</link>
       <guid isPermaLink="false">10.1093/ije/dyag106</guid>
@@ -546,6 +544,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag106
 
 Abstract: Abstract Background Low birthweight (LBW) is a major concern for child survival and growth, and India accounts for the highest number of such cases globally. Studies have examined determinants of birthweight and child growth but little evidence exists on how birthweight influences growth outcomes during early childhood. This paper examines associations between maternal, household, and health-related factors, LBW, and growth faltering, and explores childhood growth trajectories across birthweight groups. Methods Data from three waves of India’s National Family Health Survey were used to examine heaping-adjusted trends and predictors of LBW. Regression-based decomposition was used to quantify the way in which changes in predictors could reduce future LBW prevalence. Trajectories of childhood anthropometry by LBW status and determinants were examined by using smoothing and regression methods. Results The LBW prevalence between 2000 and 2020 was 20% (unadjusted) and 40% (heaping-adjusted). Improvements in maternal stature, weight, household wealth, and antenatal care coverage could yield the largest future reductions in LBW. Children born with LBW had 1.5 times higher odds of being underweight and 1.3 times higher odds of stunting. Maternal short stature, underweight, and poverty were associated with higher odds of subsequent anthropometric faltering regardless of LBW. Conclusion Findings show the dominant role of maternal nutrition in birthweight and childhood growth outcomes. Once a child is born with LBW, there is limited potential to prevent subsequent anthropometric failure. To break the intergenerational cycle of undernutrition, programs must prioritize improved nutrition for girls beginning early in life and sustained through adolescence and preconception.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: EST-Health-30</title>
+      <link>https://doi.org/10.1093/ije/dyag113</link>
+      <guid isPermaLink="false">10.1093/ije/dyag113</guid>
+
+      <dc:creator>Sulev Reisberg</dc:creator>
+      <dc:creator>Marek Oja</dc:creator>
+      <dc:creator>Kerli Mooses</dc:creator>
+      <dc:creator>Sirli Tamm</dc:creator>
+      <dc:creator>Ami Sild</dc:creator>
+      <dc:creator>Harry-Anton Talvik</dc:creator>
+      <dc:creator>Sven Laur</dc:creator>
+      <dc:creator>Raivo Kolde</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sulev Reisberg, Marek Oja, Kerli Mooses, Sirli Tamm, Ami Sild, Harry-Anton Talvik, Sven Laur, Raivo Kolde, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag113</description>
     </item>
     <item>
       <title>Cohort Profile: Gilgel-Gibe Health and Demographic Surveillance System (Gilgel-Gibe HDSS), Jimma, Southwest Ethiopia</title>
@@ -765,6 +781,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag087</description>
     </item>
     <item>
+      <title>Low-dose radiation exposure and risk of self-reported cataract in Fukushima nuclear emergency workers</title>
+      <link>https://doi.org/10.1093/ije/dyag063</link>
+      <guid isPermaLink="false">10.1093/ije/dyag063</guid>
+
+      <dc:creator>Huan Hu</dc:creator>
+      <dc:creator>Natsuko Hatsusaka</dc:creator>
+      <dc:creator>Mark P Little</dc:creator>
+      <dc:creator>Osamu Kurihara</dc:creator>
+      <dc:creator>Eunjoo Kim</dc:creator>
+      <dc:creator>Hiroshi Sasaki</dc:creator>
+      <dc:creator>Tetsuya Mizoue</dc:creator>
+      <dc:creator>Toshiteru Okubo</dc:creator>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Huan Hu, Natsuko Hatsusaka, Mark P Little, Osamu Kurihara, Eunjoo Kim, Hiroshi Sasaki, Tetsuya Mizoue, Toshiteru Okubo
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag063
+
+Abstract: Abstract Background Cataract is a well-established radiogenic condition and recent evidence suggests an increased risk even at radiation doses of &amp;amp;lt;100 mGy. Following the 2011 Fukushima Daiichi Nuclear Power Plant accident, ∼20 000 workers participated in emergency operations. This study aimed to investigate the association between cumulative low-dose occupational radiation exposure and the risk of cataract among workers enrolled in the Epidemiological Study of Health Effects in Fukushima Nuclear Emergency Workers. Methods Data from 5773 nuclear emergency workers participating in the cohort were analysed. The cumulative lifetime occupational radiation dose was estimated by combining pre-2011 individual dose records from a nationwide nuclear radiation worker dose registry with radiation doses received during the 2011 emergency-work period. Self-reported, physician-diagnosed cataract was identified through baseline and first follow-up questionnaires. A Cox proportional hazards model was applied to estimate hazard ratios (HRs) with 95% confidence intervals (CIs) for incident cataract, with adjustments for major covariates. Results More than 90% of the participants had cumulative occupational radiation exposure of &amp;amp;lt;100 mSv, including doses received both prior to the accident and during the emergency period (March–November 2011). During 52 921 person-years of follow-up from 2012 to 2024 (mean, 9.2 years), 310 participants reported new-onset cataract. The risk of cataract increased with lifetime occupational exposure up to November 2011, with an HR of 1.03 per 10-mSv increase (95% CI, 1.02, 1.05). This association persisted after excluding participants with doses of ≥100 mSv. For exposure during the emergency period (March–November 2011), the HR was 1.06 per 10-mSv increase (95% CI, 1.03, 1.09). When the cumulative lifetime occupational radiation dose was recalculated by using 2-year and 5-year lag periods before diagnosis or censoring, the HRs per 10-mSv increase were 1.03 (95% CI, 1.01, 1.04) and 1.01 (95% CI, 0.99, 1.04), respectively. Conclusion This study suggests an excess risk of cataract at doses of &amp;amp;lt;100 mSv and adds to the evidence base suggesting an association between low-dose occupational radiation exposure and cataract risk.</description>
+    </item>
+    <item>
       <title>Area-level socioeconomic deprivation and suicide by household income: a nationwide cohort study 2015–23</title>
       <link>https://doi.org/10.1093/ije/dyag070</link>
       <guid isPermaLink="false">10.1093/ije/dyag070</guid>
@@ -799,26 +835,6 @@ Abstract: Abstract Background Although area-level socioeconomic deprivation is a
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag071
 
 Abstract: Abstract Background In 2014, a coal mine fire in rural Australia shrouded nearby towns in smoke for several weeks. In response to community concerns and a lack of available evidence, the Victorian Department of Health commissioned a long-term health study. This article evaluates smoke effects on mortality 9 years after the fire. Methods In 2016–17, 2872 individuals living near the mine during the fire were recruited into a cohort study and consented to linkage of their data. Time-location diaries were blended with estimates of hourly fire-related fine particulate matter ≤2.5 µm (PM2.5) to generate individual exposure measures. Mortality data were obtained up to mid-2023 by linkage with the National Death Index. Cardiac, cancer, and respiratory-related deaths were identifiable up to December 2021 and predicted thereafter to mid-2023. All-cause mortality effects were evaluated with Cox proportional-hazards models and cause-specific mortality with a competing risk survival model. Results Nine years post-fire, 318 (11%) of the sample had died. All-cause mortality was not associated with PM2.5 exposure. There was no detectable effect on cancer deaths. However, a 10 µg/m3 increase in daily mean exposure to fire-related PM2.5 was associated with an 18% (95% CI: 2%–37%) higher risk of cardiac mortality, while PM2.5 exacerbated risk of respiratory mortality from tobacco use. Conclusion Fire-related PM2.5 increased cardiac mortality and smoking effects on respiratory mortality years after the event. These findings concord with a growing body of evidence on the deadly risks of wildfire smoke. Protecting communities and individuals from smoke during and after large fire events should be a public health priority.</description>
-    </item>
-    <item>
-      <title>Low-dose radiation exposure and risk of self-reported cataract in Fukushima nuclear emergency workers</title>
-      <link>https://doi.org/10.1093/ije/dyag063</link>
-      <guid isPermaLink="false">10.1093/ije/dyag063</guid>
-
-      <dc:creator>Huan Hu</dc:creator>
-      <dc:creator>Natsuko Hatsusaka</dc:creator>
-      <dc:creator>Mark P Little</dc:creator>
-      <dc:creator>Osamu Kurihara</dc:creator>
-      <dc:creator>Eunjoo Kim</dc:creator>
-      <dc:creator>Hiroshi Sasaki</dc:creator>
-      <dc:creator>Tetsuya Mizoue</dc:creator>
-      <dc:creator>Toshiteru Okubo</dc:creator>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Huan Hu, Natsuko Hatsusaka, Mark P Little, Osamu Kurihara, Eunjoo Kim, Hiroshi Sasaki, Tetsuya Mizoue, Toshiteru Okubo
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag063
-
-Abstract: Abstract Background Cataract is a well-established radiogenic condition and recent evidence suggests an increased risk even at radiation doses of &amp;amp;lt;100 mGy. Following the 2011 Fukushima Daiichi Nuclear Power Plant accident, ∼20 000 workers participated in emergency operations. This study aimed to investigate the association between cumulative low-dose occupational radiation exposure and the risk of cataract among workers enrolled in the Epidemiological Study of Health Effects in Fukushima Nuclear Emergency Workers. Methods Data from 5773 nuclear emergency workers participating in the cohort were analysed. The cumulative lifetime occupational radiation dose was estimated by combining pre-2011 individual dose records from a nationwide nuclear radiation worker dose registry with radiation doses received during the 2011 emergency-work period. Self-reported, physician-diagnosed cataract was identified through baseline and first follow-up questionnaires. A Cox proportional hazards model was applied to estimate hazard ratios (HRs) with 95% confidence intervals (CIs) for incident cataract, with adjustments for major covariates. Results More than 90% of the participants had cumulative occupational radiation exposure of &amp;amp;lt;100 mSv, including doses received both prior to the accident and during the emergency period (March–November 2011). During 52 921 person-years of follow-up from 2012 to 2024 (mean, 9.2 years), 310 participants reported new-onset cataract. The risk of cataract increased with lifetime occupational exposure up to November 2011, with an HR of 1.03 per 10-mSv increase (95% CI, 1.02, 1.05). This association persisted after excluding participants with doses of ≥100 mSv. For exposure during the emergency period (March–November 2011), the HR was 1.06 per 10-mSv increase (95% CI, 1.03, 1.09). When the cumulative lifetime occupational radiation dose was recalculated by using 2-year and 5-year lag periods before diagnosis or censoring, the HRs per 10-mSv increase were 1.03 (95% CI, 1.01, 1.04) and 1.01 (95% CI, 0.99, 1.04), respectively. Conclusion This study suggests an excess risk of cataract at doses of &amp;amp;lt;100 mSv and adds to the evidence base suggesting an association between low-dose occupational radiation exposure and cataract risk.</description>
     </item>
     <item>
       <title>Data Resource Profile: Cheeloo Lifespan Electronic-health reseArch Data-library (Cheeloo LEAD)</title>
@@ -1348,20 +1364,6 @@ Abstract: Abstract Introduction Inorganic lead is a common occupational exposure
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag054</description>
     </item>
     <item>
-      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
-      <link>https://doi.org/10.1093/ije/dyag078</link>
-      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
-
-      <dc:creator>Andrea D Olmstead</dc:creator>
-      <dc:creator>Kayla McLean</dc:creator>
-      <dc:creator>Imelda S Wong</dc:creator>
-      <dc:creator>Xibiao Ye</dc:creator>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
-    </item>
-    <item>
       <title>Cohort Profile Update: The 1982 Pelotas (Brazil) Birth Cohort follow-up at 40 years</title>
       <link>https://doi.org/10.1093/ije/dyag075</link>
       <guid isPermaLink="false">10.1093/ije/dyag075</guid>
@@ -1376,6 +1378,20 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
       <description>Authors: Bernardo L Horta, Fernando P Hartwig, Mariane da S. Dias, Riceli R Oliveira, Natália P Lima, Janaina V dos S. Motta
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag075</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
+      <link>https://doi.org/10.1093/ije/dyag078</link>
+      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
+
+      <dc:creator>Andrea D Olmstead</dc:creator>
+      <dc:creator>Kayla McLean</dc:creator>
+      <dc:creator>Imelda S Wong</dc:creator>
+      <dc:creator>Xibiao Ye</dc:creator>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
     </item>
     <item>
       <title>Why can’t epidemiology be automated (yet)? Perhaps it shouldn’t be</title>
@@ -1481,24 +1497,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag043</description>
     </item>
     <item>
-      <title>Cohort Profile Update: HUNT4 70+</title>
-      <link>https://doi.org/10.1093/ije/dyag011</link>
-      <guid isPermaLink="false">10.1093/ije/dyag011</guid>
-
-      <dc:creator>Håvard K Skjellegrind</dc:creator>
-      <dc:creator>Pernille Thingstad</dc:creator>
-      <dc:creator>Linda Gjøra</dc:creator>
-      <dc:creator>Marit Kolberg</dc:creator>
-      <dc:creator>Grete Kjelvik</dc:creator>
-      <dc:creator>Linda Ernstsen</dc:creator>
-      <dc:creator>Tone N Fagerhaug</dc:creator>
-      <dc:creator>Arnulf Langhammer</dc:creator>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Håvard K Skjellegrind, Pernille Thingstad, Linda Gjøra, Marit Kolberg, Grete Kjelvik, Linda Ernstsen, Tone N Fagerhaug, Arnulf Langhammer, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag011</description>
-    </item>
-    <item>
       <title>Data Resource Profile: The Japan COVID-19 and Society Internet Survey (JACSIS)</title>
       <link>https://doi.org/10.1093/ije/dyag025</link>
       <guid isPermaLink="false">10.1093/ije/dyag025</guid>
@@ -1515,6 +1513,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article nu
       <description>Authors: Hidehiro Someko, Keisuke Anan, Takahiro Tabuchi, Takashi Yoshioka, Ryo Okubo, Yuki Furuse, Kota Katanoda, Takeo Fujiwara, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag025</description>
+    </item>
+    <item>
+      <title>Cohort Profile Update: HUNT4 70+</title>
+      <link>https://doi.org/10.1093/ije/dyag011</link>
+      <guid isPermaLink="false">10.1093/ije/dyag011</guid>
+
+      <dc:creator>Håvard K Skjellegrind</dc:creator>
+      <dc:creator>Pernille Thingstad</dc:creator>
+      <dc:creator>Linda Gjøra</dc:creator>
+      <dc:creator>Marit Kolberg</dc:creator>
+      <dc:creator>Grete Kjelvik</dc:creator>
+      <dc:creator>Linda Ernstsen</dc:creator>
+      <dc:creator>Tone N Fagerhaug</dc:creator>
+      <dc:creator>Arnulf Langhammer</dc:creator>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Håvard K Skjellegrind, Pernille Thingstad, Linda Gjøra, Marit Kolberg, Grete Kjelvik, Linda Ernstsen, Tone N Fagerhaug, Arnulf Langhammer, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag011</description>
     </item>
     <item>
       <title>Attributable fraction and interaction of tobacco smoking and alcohol drinking on the risk of head and neck cancer: a pooled analysis of 11 prospective cohort studies in Japan</title>
@@ -1630,26 +1646,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article nu
 
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
       <description>Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag024</description>
-    </item>
-    <item>
-      <title>New-onset diabetes following SARS-CoV-2 infection in the Omicron era: a matched cohort study</title>
-      <link>https://doi.org/10.1093/ije/dyag009</link>
-      <guid isPermaLink="false">10.1093/ije/dyag009</guid>
-
-      <dc:creator>Jiahui Qian</dc:creator>
-      <dc:creator>Sandrine Stepien</dc:creator>
-      <dc:creator>Allen Cheng</dc:creator>
-      <dc:creator>Jonathan E Shaw</dc:creator>
-      <dc:creator>Kristine Macartney</dc:creator>
-      <dc:creator>Stacey L Rowe</dc:creator>
-      <dc:creator>Kelly Thompson</dc:creator>
-      <dc:creator>Gregory J Dore</dc:creator>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jiahui Qian, Sandrine Stepien, Allen Cheng, Jonathan E Shaw, Kristine Macartney, Stacey L Rowe, Kelly Thompson, Gregory J Dore, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 2; Article number: dyag009
-
-Abstract: Abstract Background Earlier studies have suggested that SARS-CoV-2 infection increases the risk of subsequently developing diabetes. However, reports are more limited and inconsistent for infection with the Omicron variant and how COVID-19 vaccination may alter the risks. Methods A population-based, matched cohort study was conducted by using linked registry data. Individuals aged ≥16 years diagnosed with COVID-19 between 15 December 2021 and 31 December 2022 were matched to those without COVID-19 by age, sex, and COVID-19 vaccine recency. Cause-specific Cox models were used to estimate the association between COVID-19 and the initiation of diabetes treatment, adjusting for relevant demographic, healthcare-utilization, and health-related factors. Negative control outcomes were assessed. Results Among 5 736 501 matched pairs with and without COVID-19, followed for a median of 200 days, 45 816 initiated diabetes treatment. Compared with those without COVID-19, individuals with COVID-19 had a 14% higher risk of subsequently initiating diabetes treatment [adjusted hazard ratio (aHR) 1.14; 95% confidence interval (CI) 1.12; 1.17]. The risk was higher for those who had received up to two COVID-19 vaccine doses compared with those who had received a booster within the last 90 days (aHR 1.22; 95% CI 1.18, 1.25 vs aHR 1.08; 95% CI 1.04, 1.12). Similar associations were observed between COVID-19 and negative control outcomes while the incidence patterns differed. Conclusion While we observed a small increased risk of diabetes following SARS-CoV-2 infection during the Omicron-dominant period, the true causal effect could be small or even null given the potential unmeasured confounding and detection bias. Future research on post-acute COVID-19 outcomes should consider including negative control outcomes to better detect potential biases.</description>
     </item>
   </channel>
 </rss>
