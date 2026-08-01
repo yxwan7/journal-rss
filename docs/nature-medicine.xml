@@ -5,8 +5,58 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 09:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:34:31 +0000</lastBuildDate>
 
+    <item>
+      <title>‘Heading’ the ball linked to spikes in neural damage biomarkers</title>
+      <link>https://doi.org/10.1038/d41591-026-00039-x</link>
+      <guid isPermaLink="false">10.1038/d41591-026-00039-x</guid>
+
+      <dc:creator>Karen O’Leary</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Karen O’Leary
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>End-to-end multimodal pathology foundation model with clinical dialogue</title>
+      <link>https://doi.org/10.1038/s41591-026-04521-4</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04521-4</guid>
+
+      <dc:creator>Eugene Vorontsov</dc:creator>
+      <dc:creator>George Shaikovski</dc:creator>
+      <dc:creator>Adam Casson</dc:creator>
+      <dc:creator>Julian Viret</dc:creator>
+      <dc:creator>Eric Zimmermann</dc:creator>
+      <dc:creator>Neil Tenenholtz</dc:creator>
+      <dc:creator>Yi Kan Wang</dc:creator>
+      <dc:creator>Jan H. Bernhard</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Eugene Vorontsov, George Shaikovski, Adam Casson, Julian Viret, Eric Zimmermann, Neil Tenenholtz, Yi Kan Wang, Jan H. Bernhard, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Recent rapid progress in the field of computational pathology has been enabled by foundation models. These models are beginning to move beyond encoding image patches toward whole-slide understanding, but their clinical utility remains limited. Here we present PRISM2, a multimodal slide-level foundation model trained on 2.3 million whole-slide images and 14 million question−answer pairs derived from 700,000 pathology reports. Through clinical dialogue supervision, PRISM2 aligns histomorphology with diagnostic reasoning, yielding representations that support both prompt-based inference and transferable embeddings for downstream tasks. With prompt-based inference, PRISM2 achieves or exceeds ( P &amp;lt; 0.05) the balanced accuracy of clinical-grade products calibrated for cancer detection in the prostate, breast and breast lymph node. Additionally, across comprehensive diagnostic, biomarker and survival benchmarks, PRISM2 embeddings never statistically underperform previous foundation models via linear probing ( P &amp;lt; 0.05). Furthermore, task-specific fine-tuning on survival prediction outperforms training from scratch on the same large survival dataset. PRISM2 demonstrates how language-supervised pretraining provides a scalable, clinically grounded signal for generalizable pathology representations, bridging human diagnostic reasoning and foundation model performance.</description>
+    </item>
+    <item>
+      <title>Learning from routine health system data builds better neuroimaging AI models</title>
+      <link>https://doi.org/10.1038/s41591-026-04567-4</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04567-4</guid>
+
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Humanoid robots perform successful surgery in animals</title>
+      <link>https://doi.org/10.1038/d41591-026-00038-y</link>
+      <guid isPermaLink="false">10.1038/d41591-026-00038-y</guid>
+
+      <dc:creator>Karen O’Leary</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Karen O’Leary
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>Deciphering the role of histidine in cancer</title>
       <link>https://doi.org/10.1038/s41591-026-04555-8</link>
@@ -818,24 +868,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2401-2404</description>
     </item>
     <item>
-      <title>Immune aging biomarkers for clinical trials</title>
-      <link>https://doi.org/10.1038/s41591-026-04493-5</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04493-5</guid>
-
-      <dc:creator>Andrea Cipriano</dc:creator>
-      <dc:creator>Jamie Justice</dc:creator>
-      <dc:creator>Jesse R. Poganik</dc:creator>
-      <dc:creator>Mahdi Moqri</dc:creator>
-      <dc:creator>Omar O. Abudayyeh</dc:creator>
-      <dc:creator>Jonathan Gootenberg</dc:creator>
-      <dc:creator>Laura Haynes</dc:creator>
-      <dc:creator>Yotam Levin</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrea Cipriano, Jamie Justice, Jesse R. Poganik, Mahdi Moqri, Omar O. Abudayyeh, Jonathan Gootenberg, Laura Haynes, Yotam Levin, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2368-2382</description>
-    </item>
-    <item>
       <title>Author Correction: Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial</title>
       <link>https://doi.org/10.1038/s41591-026-04551-y</link>
       <guid isPermaLink="false">10.1038/s41591-026-04551-y</guid>
@@ -852,6 +884,24 @@ Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2368-2382</description>
       <description>Authors: Marc S. Raab, Niels Weinhold, K. Martin Kortüm, Jan Krönke, Roland Fenk, Katja Weisel, Lilli Podola, Uta Bertsch, et al.
 
 Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2688-2688</description>
+    </item>
+    <item>
+      <title>Immune aging biomarkers for clinical trials</title>
+      <link>https://doi.org/10.1038/s41591-026-04493-5</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04493-5</guid>
+
+      <dc:creator>Andrea Cipriano</dc:creator>
+      <dc:creator>Jamie Justice</dc:creator>
+      <dc:creator>Jesse R. Poganik</dc:creator>
+      <dc:creator>Mahdi Moqri</dc:creator>
+      <dc:creator>Omar O. Abudayyeh</dc:creator>
+      <dc:creator>Jonathan Gootenberg</dc:creator>
+      <dc:creator>Laura Haynes</dc:creator>
+      <dc:creator>Yotam Levin</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrea Cipriano, Jamie Justice, Jesse R. Poganik, Mahdi Moqri, Omar O. Abudayyeh, Jonathan Gootenberg, Laura Haynes, Yotam Levin, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2368-2382</description>
     </item>
     <item>
       <title>Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection</title>
@@ -1561,77 +1611,6 @@ Journal: Nature Medicine</description>
       <description>Authors: Harris A. Eyre, Rym Ayadi, Agustín Ibáñez, Mie Rizig, Simon Fischer-Baum
 
 Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2353-2355</description>
-    </item>
-    <item>
-      <title>Dual-target gene therapy in Parkinson’s disease: a multicenter phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04436-0</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04436-0</guid>
-
-      <dc:creator>Mengyue Niu</dc:creator>
-      <dc:creator>Jifeng Guo</dc:creator>
-      <dc:creator>Yuchao Yang</dc:creator>
-      <dc:creator>Qian Xu</dc:creator>
-      <dc:creator>Cheng Cheng</dc:creator>
-      <dc:creator>Hao Li</dc:creator>
-      <dc:creator>Ningdi Luo</dc:creator>
-      <dc:creator>Haiyan Zhou</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mengyue Niu, Jifeng Guo, Yuchao Yang, Qian Xu, Cheng Cheng, Hao Li, Ningdi Luo, Haiyan Zhou, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2602-2609</description>
-    </item>
-    <item>
-      <title>Adjuvanted inactivated rabies virus-vectored Lassa virus vaccine in healthy adults: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04429-z</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04429-z</guid>
-
-      <dc:creator>Justin R. Ortiz</dc:creator>
-      <dc:creator>Drishya Kurup</dc:creator>
-      <dc:creator>Adam C. Kaufman</dc:creator>
-      <dc:creator>Sabrine Ben Hamed</dc:creator>
-      <dc:creator>Allison M. LaRocco</dc:creator>
-      <dc:creator>Kirsten E. Lyke</dc:creator>
-      <dc:creator>Sarah M. Litts</dc:creator>
-      <dc:creator>Shrimati Datta</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Justin R. Ortiz, Drishya Kurup, Adam C. Kaufman, Sabrine Ben Hamed, Allison M. LaRocco, Kirsten E. Lyke, Sarah M. Litts, Shrimati Datta, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2511-2521</description>
-    </item>
-    <item>
-      <title>Bundibugyo Ebola without vaccines or therapeutics: why public health fundamentals matter more than border closures</title>
-      <link>https://doi.org/10.1038/s41591-026-04482-8</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04482-8</guid>
-
-      <dc:creator>Ngashi Ngongo</dc:creator>
-      <dc:creator>Mosoka Papa Fallah</dc:creator>
-      <dc:creator>Nebiyu Dereje</dc:creator>
-      <dc:creator>Yap Boum</dc:creator>
-      <dc:creator>Jean Kaseya</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ngashi Ngongo, Mosoka Papa Fallah, Nebiyu Dereje, Yap Boum, Jean Kaseya
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Apitegromab for lean mass preservation during tirzepatide-induced weight loss: a randomized, double-blind, placebo-controlled phase 2 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04440-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04440-4</guid>
-
-      <dc:creator>Richard E. Pratley</dc:creator>
-      <dc:creator>Douglas Scott Denham</dc:creator>
-      <dc:creator>Rupal Trivedi</dc:creator>
-      <dc:creator>Elaine Watkins</dc:creator>
-      <dc:creator>Lisa Connery</dc:creator>
-      <dc:creator>Jennifer Barnes</dc:creator>
-      <dc:creator>Dongzi Yu</dc:creator>
-      <dc:creator>Janet Hong</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Richard E. Pratley, Douglas Scott Denham, Rupal Trivedi, Elaine Watkins, Lisa Connery, Jennifer Barnes, Dongzi Yu, Janet Hong, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2673-2678
-
-Abstract: Abstract Loss of lean mass in proportion to total weight loss is observed with incretin mimetic therapies such as tirzepatide and has the potential to adversely affect health and function. Apitegromab is an investigational, fully human monoclonal antibody that selectively inhibits myostatin activation and is, thereby, capable of increasing muscle mass. In the randomized, double-blind, placebo-controlled phase 2 EMBRAZE study, adults with overweight or obesity ( n = 102) were randomized 1:1 to receive tirzepatide plus apitegromab (10 mg kg −1 ) or tirzepatide plus placebo. At week 24, apitegromab resulted in a least square mean (80% confidence interval (CI)) of 1.9 (1.2−2.7) kg less lean mass loss than placebo ( P = 0.001), despite similar total body weight loss between groups, representing a 54.9% retention of lean mass relative to placebo. In participants receiving apitegromab, trough concentrations of apitegromab and total latent myostatin, a pharmacodynamic marker, both increased over time and reached a plateau after approximately 16 weeks. Incidence of adverse events (AEs) (% (95% CI)) was generally similar across apitegromab-treated participants and placebo-treated participants, with 39 of 51 (76% (63−86%)) and 36 of 51 (71% (57−81%)) participants experiencing an AE, respectively. Serious adverse events (SAEs) were balanced and experienced by one of 51 (2% (0−10%)) participants in each arm. In summary, this proof-of-concept study demonstrated that selective targeting of myostatin by apitegromab was well tolerated and effective in preserving lean mass when combined with tirzepatide. ClinicalTrials.gov identifier: NCT06445075 .</description>
     </item>
   </channel>
 </rss>

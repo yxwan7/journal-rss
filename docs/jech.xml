@@ -5,8 +5,28 @@
     <link>https://jech.bmj.com/</link>
     <description>Latest journal articles for Journal of Epidemiology and Community Health</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 09:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:34:08 +0000</lastBuildDate>
 
+    <item>
+      <title>Associations of food security and food assistance with cardiovascular morbidity and mortality among postmenopausal women from the women’s health initiative</title>
+      <link>https://doi.org/10.1136/jech-2026-226762</link>
+      <guid isPermaLink="false">10.1136/jech-2026-226762</guid>
+
+      <dc:creator>Hind A Beydoun</dc:creator>
+      <dc:creator>May A Beydoun</dc:creator>
+      <dc:creator>Lesley Tinker</dc:creator>
+      <dc:creator>Robert B Wallace</dc:creator>
+      <dc:creator>Matthew A Allison</dc:creator>
+      <dc:creator>Linda G Snetslaar</dc:creator>
+      <dc:creator>Matthew J Landry</dc:creator>
+      <dc:creator>Matthew Nudy</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hind A Beydoun, May A Beydoun, Lesley Tinker, Robert B Wallace, Matthew A Allison, Linda G Snetslaar, Matthew J Landry, Matthew Nudy, et al.
+
+Journal: Journal of Epidemiology and Community Health; Pages: jech-2026-226762
+
+Abstract: Background Prior research indicates that food insecurity is negatively associated with cardiometabolic health and plays a role in cardiovascular disease (CVD) risk, which also increases with age. Food insecurity disproportionately affects ageing women in the USA, who face higher poverty and economic insecurity rates than their male counterparts, increasing their risk for hunger, poor nutrition and chronic conditions. We examined the association of food security and assistance with CVD morbidity and mortality risks in postmenopausal women through a target trial emulation. Methods A retrospective cohort study was conducted among 41 227 postmenopausal women from the Women’s Health Initiative Observational Study free of CVD at baseline. Approximately 96% reported food security and 3% reported reliance on food assistance at 6 years of follow-up (analytical baseline). Furthermore, 16% of 1861 women reporting food insecurity also reported food assistance. Inverse probability of treatment weighting (IPTW) within Cox regression models was performed using demographic, socioeconomic, lifestyle and health characteristics collected prior to the analytical baseline. Results Overall, 6037 eligible women experienced CVD outcomes over ~24 years of follow-up. In IPTW Cox regression models, food security (HR=0.65, 95% CI 0.47 to 0.89) and food assistance (HR=0.47, 95% CI 0.46 to 0.48) were inversely related to CVD risk. Similar results were obtained for all-cause and chronic disease-specific mortality risks. Conclusion Food security and assistance are generally associated with lower CVD risks after menopause, with implications for food assistance programmes, targeted nutritional counselling, community interventions and holistic care among ageing women in the USA.</description>
+    </item>
     <item>
       <title>Workday-rescheduling effects on ST-segment elevation myocardial infarction: a registry study analysis</title>
       <link>https://doi.org/10.1136/jech-2025-225757</link>
@@ -1619,23 +1639,6 @@ Journal: Journal of Epidemiology and Community Health; Volume: 80; Issue: 2; Pag
 Journal: Journal of Epidemiology and Community Health; Volume: 80; Issue: 6; Pages: 444-451
 
 Abstract: Background Multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA) is a leading quantitative approach for intersectionality-informed health research, but most applications analyse binary or cross-sectional outcomes, ignoring event timing. We applied a multilevel survival (shared frailty) model within the MAIHDA framework to examine intersectional disparities in time-to-diagnosis of hypertension. Methods Using 2019 Korean Community Health Survey data (n=228 632), we defined intersectional strata by sex, education, income and residential area. Three survival specifications were implemented: accelerated failure time (AFT), parametric proportional hazards (PHs) and semi-parametric Cox PH models, each with stratum-level random intercepts (shared frailty terms). Between-stratum variance was summarised with the variance partition coefficient (VPC) where estimable and proportional change in variance quantified fixed-effect contributions. Stratum-specific random effects were compared across model types to assess ranking stability. Results Between-stratum variance was small overall (AFT VPC: 1.8%), but several strata deviated markedly from the grand mean. Strata with low education and low income were diagnosed earlier than average, while high-education, low-income strata were diagnosed later. Geographic context modified these effects. Time-to-diagnosis patterns often diverged from prevalence patterns. Across models, random effect estimates and ranks were highly correlated (Spearman’s ρ &amp;gt;0.97), though some middle-ranked strata shifted by up to six positions. Conclusions Applying a multilevel survival (shared frailty) model within MAIHDA enables examination of when disparities emerge, not just whether they exist. This approach retains MAIHDA’s interpretability while leveraging time-to-event data, offering advantages in settings with incomplete follow-up or irregular observation windows.</description>
-    </item>
-    <item>
-      <title>Eligibility criteria for the UK Winter Fuel Payment: are we targeting the right people?</title>
-      <link>https://doi.org/10.1136/jech-2025-224619</link>
-      <guid isPermaLink="false">10.1136/jech-2025-224619</guid>
-
-      <dc:creator>Kai Wan</dc:creator>
-      <dc:creator>Jonathon Taylor</dc:creator>
-      <dc:creator>Marcos Quijal-Zamorano</dc:creator>
-      <dc:creator>Joan Ballester</dc:creator>
-      <dc:creator>Shakoor Hajat</dc:creator>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Kai Wan, Jonathon Taylor, Marcos Quijal-Zamorano, Joan Ballester, Shakoor Hajat
-
-Journal: Journal of Epidemiology and Community Health; Volume: 80; Issue: 6; Pages: 432-435
-
-Abstract: Background Cold weather remains a serious health threat in the UK and elsewhere, particularly for older adults. The Winter Fuel Payment has been a key government strategy to mitigate health risks linked to cold homes in the UK, but recent policy shifts have raised questions about whether income-based eligibility criteria effectively identify those most at risk. Methods We analysed cold-related mortality in adults aged ≥75 across 324 local authority districts in England (2007–2019) using distributed lag non-linear models in a spatial Bayesian framework. Multivariate meta-regression was used to evaluate modification of cold effects by deprivation, income-based pension credit uptake, home energy efficiency and fuel poverty. Results Areas in the highest quartile of fuel poverty had significantly greater cold-related mortality risk than those in the lowest quartile, with a 15.3% versus 13.1% increase in mortality risk at the first compared with the 50th percentile of wintertime temperature, ie, an absolute difference of 2.2% (p&amp;lt;0.001). This effect was stronger than the corresponding differences for energy efficiency (1.7%, p=0.04), income as indicated by pension credit uptake (0.6%, p=0.39) and deprivation-based measures, for which differences were minimal. Overall, an estimated 17% of cold-related deaths among people aged ≥75 were attributable to fuel poverty. Conclusion Fuel poverty, an indicator designed to capture both low-income and housing energy efficiency, is a stronger predictor of cold-related mortality than income (as indicated by pension credit update) or deprivation-based indicators alone. Winter energy support schemes should consider fuel poverty metrics in their targeting to more effectively reduce health risks associated with cold homes and improve equity.</description>
     </item>
   </channel>
 </rss>
