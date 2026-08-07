@@ -5,8 +5,131 @@
     <link>https://jamanetwork.com/journals/jamaoncology</link>
     <description>Latest journal articles for JAMA Oncology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:42:22 +0000</lastBuildDate>
 
+    <item>
+      <title>Electronic Patient-Reported Outcome Monitoring With Alert-Based Interventions in Metastatic Breast Cancer</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.2661</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.2661</guid>
+
+      <dc:creator>Maria M. Karsten</dc:creator>
+      <dc:creator>Pimrapat Gebert</dc:creator>
+      <dc:creator>Therese Pross</dc:creator>
+      <dc:creator>Anna M. Hage</dc:creator>
+      <dc:creator>Adam D. Dordevic</dc:creator>
+      <dc:creator>Susan Stephan</dc:creator>
+      <dc:creator>Friedrich Kühn</dc:creator>
+      <dc:creator>Lea Doppelbauer</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Maria M. Karsten, Pimrapat Gebert, Therese Pross, Anna M. Hage, Adam D. Dordevic, Susan Stephan, Friedrich Kühn, Lea Doppelbauer, et al.
+
+Journal: JAMA Oncology
+
+Abstract: Importance Electronic patient-reported outcome (PRO) monitoring has shown benefits in advanced cancer, but data specific to metastatic breast cancer (mBC) remain limited. Fatigue is a common, clinically important, and functionally impairing symptom in mBC, making it a patient-centered target for electronic PRO monitoring. Objective To determine whether digital PRO monitoring with alert-based responses reduces fatigue in patients with mBC. Design, Setting, and Participants This multicenter randomized clinical trial was conducted from May 2021 to February 2024, with 12 months of follow-up, at 52 breast cancer centers in Germany and included women aged 18 years or older with mBC who were receiving systemic therapy at any point in the metastatic disease course, had a life expectancy of longer than 3 months, were able to read German, and had smartphone access. Data analysis started in February 2024 and lasted 6 months. Interventions The intervention group completed weekly PRO questionnaires via a smartphone using validated short forms from the European Organization for Research and Treatment of Cancer computerized adaptive testing core item bank. Automated alerts based on predefined PRO deterioration were emailed to trained local nurses or physicians, who contacted patients by telephone within 48 hours. The control group received usual care with quarterly PRO questionnaires and no alerts. Main Outcomes and Measures The primary outcome was fatigue at 6 months. Secondary outcomes included fatigue, physical functioning, and quality of life over 12 months. PROs were reported as standardized T scores. Results Of 2008 patients screened, 924 (46.0%) were randomized, and 909 (45.3%) were included in the primary analysis (median age, 50 years [range, 19-83 years]). Baseline mean (SD) fatigue T scores were 57.6 (9.5) in the intervention group and 60.2 (9.0) in the control group ( P &amp;amp;amp;lt; .001), with baseline PROs assessed after randomization but before group-specific follow-up began. At 6 months, adjusted mean fatigue was 54.5 (95% CI, 53.7- 55.4) vs 59.9 (95% CI, 59.0-60.8), yielding a mean difference of −5.4 points (95% CI, −6.6 to −4.1; P &amp;amp;amp;lt; .001), exceeding the minimal clinically important difference (MCID) of 3.3 points. At 6 months, physical functioning was higher in the intervention group (mean difference, 4.0; 95% CI, 2.6-5.4), exceeding its MCID (3.2), whereas the between-group difference in quality of life was 0.8 points (95% CI, 0.02-1.5), which was less than the MCID of 2.9. Conclusions and Relevance This randomized clinical trial found that digital PRO monitoring was associated with clinically meaningful reductions in fatigue and improved physical functioning. These findings support further evaluation of alert-based PRO monitoring in routine oncology care. Trial Registration German Clinical Trials Register: DRKS00024015</description>
+    </item>
+    <item>
+      <title>Mathematical Biomarkers of Adaptive Therapy Outcomes in Prostate Cancer</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.2781</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.2781</guid>
+
+      <dc:creator>Kit Gallagher</dc:creator>
+      <dc:creator>Maximilian A. Strobl</dc:creator>
+      <dc:creator>Robert A. Gatenby</dc:creator>
+      <dc:creator>Jingsong Zhang</dc:creator>
+      <dc:creator>Philip K. Maini</dc:creator>
+      <dc:creator>Alexander R. Anderson</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kit Gallagher, Maximilian A. Strobl, Robert A. Gatenby, Jingsong Zhang, Philip K. Maini, Alexander R. Anderson
+
+Journal: JAMA Oncology
+
+Abstract: Importance Adaptive therapy is an evolution-based treatment paradigm that has been shown to delay resistance in prostate cancer through treatment breaks that control, rather than minimize, tumor burden. However, patient responses are highly heterogeneous, and there is a significant unmet clinical need for biomarkers to personalize treatment scheduling. Objective To develop and retrospectively validate mathematical biomarkers that predict time to progression (TTP), mean daily dose, and overall survival (OS) under adaptive therapy from first-cycle prostate-specific antigen (PSA) dynamics. Design, Setting, and Participants This retrospective modeling and validation study used longitudinal, nonrandomized clinical trial data from 2 independent cohorts: 40 patients with castrate-sensitive prostate cancer (CSPC) (June 1996 to September 2006) and 13 patients with metastatic castrate-resistant prostate cancer (mCRPC) (April 2015 to January 2022). A 2-population differential equation model was used to describe the overall tumor growth through the competing dynamics of drug-sensitive and drug-resistant cells. The statistical analysis was conducted from January 2025 to May 2026. Exposures Patients received either intermittent androgen deprivation therapy (for CSPC) or adaptive abiraterone acetate (for mCRPC). The initial treatment cycle served as the exposure period to extract longitudinal PSA kinetics. Main Outcomes and Measures Mechanism-based mathematical biomarkers (adaptive therapy score, expected TTP, and expected mean daily dose) were derived from first-cycle PSA kinetics. Outcomes included in silico benchmarking experiments and retrospective validation against clinical TTP and OS. Performance was benchmarked against standard phenomenological PSA metrics (eg, PSA nadir, time to nadir, and doubling time). Results Overall, data from 53 patients across 2 clinical trials were included. In the CSPC cohort of 40 patients, the adaptive therapy score derived from first-cycle data was highly prognostic for prolonged clinical TTP (univariable hazard ratio [HR], 0.49; 95% CI, 0.31-0.76; P = .002). In the mCRPC cohort of 13 patients, the adaptive therapy score exhibited a strong rank correlation with clinical TTP (Spearman ρ = 0.76; P = .002) and was associated with prolonged TTP (HR, 0.41; 95% CI, 0.16-1.07; P = .07). Analysis of long-term survival data in the mCRPC cohort demonstrated that both the adaptive therapy score and expected TTP were significantly associated with prolonged OS, whereas standard empirical PSA metrics displayed no association with OS. Conclusions and Relevance In this modeling and validation study, mechanism-based mathematical biomarkers derived from the initial-cycle PSA dynamics accurately predicted patient-specific outcomes and survival, outperforming traditional phenomenological PSA monitoring. These accessible metrics could act as a mathematically informed decision support framework to stratify patients into personalized treatment protocols.</description>
+    </item>
+    <item>
+      <title>Appropriately Interpreting Evidence of Human Papillomavirus Vaccination and Cancer in Males</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.2733</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.2733</guid>
+
+      <dc:creator>Anil K. Chaturvedi</dc:creator>
+      <dc:creator>Philip E. Castle</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Anil K. Chaturvedi, Philip E. Castle
+
+Journal: JAMA Oncology</description>
+    </item>
+    <item>
+      <title>Appropriately Interpreting Evidence of Human Papillomavirus Vaccination and Cancer in Males</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.2730</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.2730</guid>
+
+      <dc:creator>Stephen Rhodes</dc:creator>
+      <dc:creator>Jonathan Shoag</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Stephen Rhodes, Jonathan Shoag
+
+Journal: JAMA Oncology</description>
+    </item>
+    <item>
+      <title>Overlapping Cohorts and Double Counting in Meta-Analyses—Reply</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.2827</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.2827</guid>
+
+      <dc:creator>Georgios Agrotis</dc:creator>
+      <dc:creator>Ivo G. Schoots</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Georgios Agrotis, Ivo G. Schoots
+
+Journal: JAMA Oncology</description>
+    </item>
+    <item>
+      <title>Hindsight Bias in Diagnosis</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.2778</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.2778</guid>
+
+      <dc:creator>Harry B. Burke</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Harry B. Burke
+
+Journal: JAMA Oncology
+
+Abstract: This essay discusses the public discourse around “missed” diagnoses and how physicians should engage patients early in diagnostic reasoning.</description>
+    </item>
+    <item>
+      <title>Appropriately Interpreting Evidence of Human Papillomavirus Vaccination and Cancer in Males—Reply</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.2736</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.2736</guid>
+
+      <dc:creator>Taito Kitano</dc:creator>
+      <dc:creator>Sayaka Yoshida</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Taito Kitano, Sayaka Yoshida
+
+Journal: JAMA Oncology</description>
+    </item>
+    <item>
+      <title>Appropriately Interpreting Evidence of Human Papillomavirus Vaccination and Cancer in Males</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.2727</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.2727</guid>
+
+      <dc:creator>Jiayao Lei</dc:creator>
+      <dc:creator>Alexander Ploner</dc:creator>
+      <dc:creator>Julia Brotherton</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jiayao Lei, Alexander Ploner, Julia Brotherton
+
+Journal: JAMA Oncology</description>
+    </item>
+    <item>
+      <title>Overlapping Cohorts and Double Counting in Meta-Analyses</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.2824</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.2824</guid>
+
+      <dc:creator>Neel Vora</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Neel Vora
+
+Journal: JAMA Oncology</description>
+    </item>
     <item>
       <title>Refining Combination Locoregional Therapy for Intermediate-Stage Hepatocellular Carcinoma—Lessons From the TORCH Trial</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.1884</link>
@@ -586,18 +709,6 @@ Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 792</description>
 Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 790</description>
     </item>
     <item>
-      <title>Generalizability and Fairness in Deploying AI for Lung Cancer Biomarker Prediction—Reply</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.1287</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.1287</guid>
-
-      <dc:creator>Mehrdad Rakaee</dc:creator>
-      <dc:creator>David J. Kwiatkowski</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mehrdad Rakaee, David J. Kwiatkowski
-
-Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 789</description>
-    </item>
-    <item>
       <title>Generalizability and Fairness in Deploying AI for Lung Cancer Biomarker Prediction</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.1284</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2026.1284</guid>
@@ -608,6 +719,18 @@ Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 789</description>
       <description>Authors: Wen Xiao, Qingfei Kong
 
 Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 788</description>
+    </item>
+    <item>
+      <title>Generalizability and Fairness in Deploying AI for Lung Cancer Biomarker Prediction—Reply</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.1287</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.1287</guid>
+
+      <dc:creator>Mehrdad Rakaee</dc:creator>
+      <dc:creator>David J. Kwiatkowski</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mehrdad Rakaee, David J. Kwiatkowski
+
+Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 789</description>
     </item>
     <item>
       <title>PD-(L)1 Inhibitor Monotherapy vs Chemoimmunotherapy for Advanced NSCLC With High PD-L1 Expression</title>
@@ -751,23 +874,6 @@ Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 689
 Abstract: This Viewpoint discusses concerns with the current grading of cutaneous toxic effects in Common Terminology Criteria for Adverse Events (CTCAE) version 6.0 and proposes an updated framework.</description>
     </item>
     <item>
-      <title>Prostate Cancer Mortality After Relabeling Low-Grade Prostate Cancer as Precancerous</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.1391</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.1391</guid>
-
-      <dc:creator>Andrew J. Vickers</dc:creator>
-      <dc:creator>Matthew Cooperberg</dc:creator>
-      <dc:creator>Christian P. Pavlovich</dc:creator>
-      <dc:creator>Peter Carroll</dc:creator>
-      <dc:creator>Scott Eggener</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrew J. Vickers, Matthew Cooperberg, Christian P. Pavlovich, Peter Carroll, Scott Eggener
-
-Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 767
-
-Abstract: Importance It has been proposed that grade group (GG) 1 prostate cancer should no longer be defined as cancer but as a precancerous condition. One argument raised by critics is this would decrease adherence with essential monitoring (active surveillance) and therefore lead to increased prostate cancer mortality. However, relabeling GG1 prostate cancer also reduces overdiagnosis and overtreatment, and given that these are the major disincentives to prostate-specific antigen (PSA) screening, it should increase use of prostate cancer screening and thereby reduce deaths from prostate cancer. Objective To model the effects of relabeling of GG1 prostate cancer on prostate cancer mortality in the US. Design, Setting, and Participants In this decision analytical model created in 2025, the number of men with GG1 cancer and those considering prostate cancer screening with prostate-specific antigen were estimated using US population-based and clinical data published from 2020 to 2025. Exposure Relabeling GG1 as a precancerous condition. Main Outcomes and Measures Predicted increase in prostate cancer deaths due to lower adherence with active surveillance vs predicted decrease in prostate cancer deaths due to higher screening rates related to reduced concerns regarding overdiagnosis and overtreatment. Results In the base case, which was relatively conservative, relabeling would lead to 6-fold more annual prostate deaths avoided than caused (2835 vs 452). Numerous scenarios modifying model inputs failed to change this conclusion. For instance, even if active surveillance progression rate increased by 50%, nonadherence rate doubled, and there was only a 10% absolute increase in screening, annual deaths would be reduced by close to 500. Under the base case, there would be a net decrease in mortality even if the absolute increase in screening rates was only 3%. Conclusions and Relevance In this study, dropping the cancer label from GG1 prostate disease and redefining GG1 prostate disease as a precancerous lesion led to a net reduction in estimated prostate cancer deaths. Proponents for retaining the cancer label for GG1 prostate disease should argue relabeling would have close to zero effects on screening rates or that other harms outweigh the benefits of reduced prostate cancer mortality.</description>
-    </item>
-    <item>
       <title>Circulating Tumor DNA in Early Breast Cancer</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.1465</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2026.1465</guid>
@@ -783,6 +889,23 @@ Abstract: Importance It has been proposed that grade group (GG) 1 prostate cance
 Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 773
 
 Abstract: Importance Circulating tumor DNA (ctDNA) has emerged as a noninvasive biomarker with the potential to detect minimal residual disease (MRD), monitor treatment response, and identify recurrence (eg, molecular relapse) earlier than conventional clinical or imaging approaches. Although ctDNA-based MRD assays have demonstrated prognostic value in early breast cancer, their optimal clinical utility remains uncertain. Observations This review summarizes the current data on ctDNA MRD assays in early breast cancer. Although these assays have established analytical and clinical validity, their clinical utility remains uncertain. Dynamics of ctDNA during neoadjuvant therapy are associated with pathologic complete response and long-term outcomes. Following completion of curative-intent therapy, ctDNA positivity (eg, presence of MRD) is strongly associated with future distant recurrence. Similarly, the emergence of ctDNA during surveillance precedes the clinical diagnosis of overt metastatic disease. Although observational studies and meta-analyses have supported ctDNA as a complementary biomarker for established risk-stratification tools, evidence that demonstrates improved outcomes with ctDNA-guided management remains limited. Furthermore, the optimal timing and frequency of testing remain unknown, and studies comparing assays are lacking. Multiple ongoing prospective interventional trials are evaluating whether ctDNA-guided treatment escalation or de-escalation can improve patient outcomes and support the routine implementation of ctDNA assays in clinical practice. Conclusions and Relevance ctDNA-based MRD assays hold promise for refining risk stratification, enabling earlier detection of recurrence, and informing treatment decisions in patients with early breast cancer, but clinical utility has not yet been demonstrated. Prospective trials are essential to determine whether ctDNA-guided interventions improve outcomes beyond standard management. Clinicians should understand the strengths, limitations, and evolving evidence base of ctDNA assays, as well as patient preferences, prior to incorporating them into patient care.</description>
+    </item>
+    <item>
+      <title>Prostate Cancer Mortality After Relabeling Low-Grade Prostate Cancer as Precancerous</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.1391</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.1391</guid>
+
+      <dc:creator>Andrew J. Vickers</dc:creator>
+      <dc:creator>Matthew Cooperberg</dc:creator>
+      <dc:creator>Christian P. Pavlovich</dc:creator>
+      <dc:creator>Peter Carroll</dc:creator>
+      <dc:creator>Scott Eggener</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrew J. Vickers, Matthew Cooperberg, Christian P. Pavlovich, Peter Carroll, Scott Eggener
+
+Journal: JAMA Oncology; Volume: 12; Issue: 7; Pages: 767
+
+Abstract: Importance It has been proposed that grade group (GG) 1 prostate cancer should no longer be defined as cancer but as a precancerous condition. One argument raised by critics is this would decrease adherence with essential monitoring (active surveillance) and therefore lead to increased prostate cancer mortality. However, relabeling GG1 prostate cancer also reduces overdiagnosis and overtreatment, and given that these are the major disincentives to prostate-specific antigen (PSA) screening, it should increase use of prostate cancer screening and thereby reduce deaths from prostate cancer. Objective To model the effects of relabeling of GG1 prostate cancer on prostate cancer mortality in the US. Design, Setting, and Participants In this decision analytical model created in 2025, the number of men with GG1 cancer and those considering prostate cancer screening with prostate-specific antigen were estimated using US population-based and clinical data published from 2020 to 2025. Exposure Relabeling GG1 as a precancerous condition. Main Outcomes and Measures Predicted increase in prostate cancer deaths due to lower adherence with active surveillance vs predicted decrease in prostate cancer deaths due to higher screening rates related to reduced concerns regarding overdiagnosis and overtreatment. Results In the base case, which was relatively conservative, relabeling would lead to 6-fold more annual prostate deaths avoided than caused (2835 vs 452). Numerous scenarios modifying model inputs failed to change this conclusion. For instance, even if active surveillance progression rate increased by 50%, nonadherence rate doubled, and there was only a 10% absolute increase in screening, annual deaths would be reduced by close to 500. Under the base case, there would be a net decrease in mortality even if the absolute increase in screening rates was only 3%. Conclusions and Relevance In this study, dropping the cancer label from GG1 prostate disease and redefining GG1 prostate disease as a precancerous lesion led to a net reduction in estimated prostate cancer deaths. Proponents for retaining the cancer label for GG1 prostate disease should argue relabeling would have close to zero effects on screening rates or that other harms outweigh the benefits of reduced prostate cancer mortality.</description>
     </item>
     <item>
       <title>Prostate-Specific Membrane Antigen Imaging and Initial Treatment for Prostate Cancer</title>
@@ -1387,141 +1510,6 @@ Abstract: Importance Early treatment may benefit patients with high-risk smolder
 Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 567
 
 Abstract: This Viewpoint discusses food insecurity among individuals with cancer and proposes strategies to address this issue, including routine screening, advocating for policy reform, and connecting patients with community resources.</description>
-    </item>
-    <item>
-      <title>Tiragolumab Plus Atezolizumab and Chemotherapy for Advanced Nonsquamous Non–Small Cell Lung Cancer</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0818</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0818</guid>
-
-      <dc:creator>Mark A. Socinski</dc:creator>
-      <dc:creator>Rolf Stahel</dc:creator>
-      <dc:creator>Dae Ho Lee</dc:creator>
-      <dc:creator>Federico Cappuzzo</dc:creator>
-      <dc:creator>Makoto Nishio</dc:creator>
-      <dc:creator>Christine M. Lovly</dc:creator>
-      <dc:creator>Ozgur Ozyilkan</dc:creator>
-      <dc:creator>Qingshan Li</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mark A. Socinski, Rolf Stahel, Dae Ho Lee, Federico Cappuzzo, Makoto Nishio, Christine M. Lovly, Ozgur Ozyilkan, Qingshan Li, et al.
-
-Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 619
-
-Abstract: Importance Programmed cell death 1 ligand 1/programmed cell death protein 1 inhibitors, with or without chemotherapy, are standard first-line treatment for patients with advanced non–small cell lung cancer (NSCLC); however, survival benefit is limited, and many patients experience disease progression. Objective To evaluate the efficacy and safety of tiragolumab plus atezolizumab plus chemotherapy vs placebo plus pembrolizumab plus chemotherapy in patients with advanced nonsquamous NSCLC. Design, Setting, and Participants SKYSCRAPER-06 was a phase 3 randomized clinical trial that recruited patients with previously untreated, locally advanced unresectable or metastatic NSCLC at 129 sites in 21 countries between December 15, 2020, and September 14, 2023 (data cutoff, April 19, 2024). Intervention Patients were randomized 1:1 to receive either tiragolumab, 600 mg, plus atezolizumab, 1200 mg, plus chemotherapy (pemetrexed, 500 mg/m 2 , and carboplatin [area under the curve 5], or cisplatin, 75 mg/m 2 ) or placebo plus pembrolizumab, 200 mg, plus chemotherapy via intravenous infusion on day 1 of each 21-day cycle until disease progression, loss of clinical benefit, unacceptable toxic effect, or withdrawal of consent. Main Outcomes and Measures Primary end points were investigator-assessed progression-free survival and overall survival. The safety and tolerability of the study drugs were also evaluated. Results Of 542 patients in the full analysis set (mean [SD] age, 63.6 [9.3] years; 353 [65.1%] male), 269 were randomized to tiragolumab plus atezolizumab plus chemotherapy and 273 to placebo plus pembrolizumab plus chemotherapy. Overall, baseline demographics were similar between treatment groups. At data cutoff (median follow-up, 11.8 months), median investigator-assessed progression-free survival was 8.3 months (95% CI, 7.1-9.6 months) with tiragolumab plus atezolizumab plus chemotherapy vs 9.9 months (95% CI, 8.7-11.9 months) with placebo plus pembrolizumab plus chemotherapy (hazard ratio, 1.27; 95% CI, 1.02-1.57; P = .99); median overall survival was 18.9 months (95% CI, 15.2-23.8 months) vs 23.1 months (95% CI, 20.7-33.0 months) in each treatment group, respectively (hazard ratio, 1.33; 95% CI, 1.02-1.73; P = .98). Grade 3 to 4 adverse events occurred in 164 of 267 patients (61.4%) in the tiragolumab plus atezolizumab plus chemotherapy group and 165 of 272 patients (60.7%) in the placebo plus pembrolizumab plus chemotherapy group, with grade 5 AEs occurring in 27 of 267 patients (10.1%) and 16 of 272 patients (5.9%) in each group, respectively. Conclusions and Relevance In the phase 3 SKYSCRAPER-06 randomized clinical trial, the primary end points were not met and the study has been terminated. Trial Registration ClinicalTrials.gov Identifier: NCT04619797</description>
-    </item>
-    <item>
-      <title>Quality of Care For Young Adult Patients With Cancer at the End of Life</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0489</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0489</guid>
-
-      <dc:creator>Eduardo Bruera</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Eduardo Bruera
-
-Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 608</description>
-    </item>
-    <item>
-      <title>&lt;sup&gt;18&lt;/sup&gt;
-                    F-Fluorodeoxyglucose Positron Emission Tomography for Estimating Outcomes After Initial Treatment for  Metastatic Breast Cancer</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0767</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0767</guid>
-
-      <dc:creator>Jasper J. L. van Geel</dc:creator>
-      <dc:creator>Bertha Eisses</dc:creator>
-      <dc:creator>Sjoerd G. Elias</dc:creator>
-      <dc:creator>Adrienne H. Brouwers</dc:creator>
-      <dc:creator>Frederike Bensch</dc:creator>
-      <dc:creator>Sophie L. Gerritse</dc:creator>
-      <dc:creator>Lindsay Angus</dc:creator>
-      <dc:creator>Andor W. J. M. Glaudemans</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jasper J. L. van Geel, Bertha Eisses, Sjoerd G. Elias, Adrienne H. Brouwers, Frederike Bensch, Sophie L. Gerritse, Lindsay Angus, Andor W. J. M. Glaudemans, et al.
-
-Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 611
-
-Abstract: Importance Optimizing treatment decisions in metastatic breast cancer (MBC) can alleviate patients’ burden and improve quality of life. Whether 18 F-fluorodeoxyglucose positron emission tomography (FDG-PET) can be used to better estimate outcomes is unknown. Objective To evaluate clinical utility of early metabolic change on FDG-PET for improving outcome estimation compared with standard diagnostic evaluation in patients with newly diagnosed MBC. Design, Setting, and Participants The multicenter IMPACT-MBC clinical cohort trial enrolled patients with nonrapidly progressive, newly diagnosed MBC from August 2013 to May 2018, before initiation of first-line systemic therapy. Baseline assessment included metastasis biopsy procedure and FDG-PET and CT imaging. Early FDG-PET was performed after 2 weeks of treatment, and CT response evaluation after 8 weeks. Clinical utility was defined as the ability of early FDG-PET to estimate progressive disease (PD) on CT, progression-free survival (PFS), and overall survival (OS). Data were analyzed from October 19, 2025, to February 13, 2026. Intervention Early FDG-PET or standard-of-care (SOC) biopsy-based treatment. Main Outcomes and Measures Clinical utility of molecular imaging to improve outcome estimation of standard diagnostics defined as the capacity to identify poor patient outcomes. Measures were PD at 8 weeks, PFS, and OS. Results The analysis included 200 patients (median [range] age, 61 [32-84] years; 198 females [99%] and 2 males [1%]). Non-PD on early FDG-PET had a negative predictive value (NPV) of 94.7% (95% CI, 89.5%-97.4%) for non-PD on 8-week CT. This was similar in all MBC subtypes and bone-only disease. Patients with SOC treatment and non-PD on early FDG-PET (n = 133) had a median PFS of 19.4 (95% CI, 15.2-22.8) months and OS of 39.4 (95% CI, 33.7-48.3) months compared to 4.1 (95% CI, 3.3-15.5) months and 18.5 (95% 3 CI, 7.0-33.0) months, respectively ( P &amp;amp;amp;lt; .001 for both). Patients with non-PD on 8-week CT but with PD on early FDG-PET had a median (IQR) PFS and OS of 9.5 (4.1-18.1) and 19.4 (8.7-33.0) months compared to 22.3 (15.3-96.1) months and 40.1 (23.4-72.7) months without PD. Conclusions and Relevance In this clinical cohort trial of patients with nonrapidly progressive, newly diagnosed MBC before initiation of first-line systemic therapy, early FDG-PET after only 2 weeks of treatment identified patients with MBC with distinct long-term outcomes. Incorporating early FDG-PET can improve outcome estimation of standard CT assessment. Trial Registration ClinicalTrials.gov Identifier: NCT01957332</description>
-    </item>
-    <item>
-      <title>Prostate MRI Beyond Diagnosis—Integrating Prognostic Evidence Into Risk Stratification</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0157</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0157</guid>
-
-      <dc:creator>Nicholas A. Pickersgill</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nicholas A. Pickersgill
-
-Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 590</description>
-    </item>
-    <item>
-      <title>Outcomes and Treatments of Patients With Non–Small Cell Lung Cancer Who Received Pembrolizumab</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0669</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0669</guid>
-
-      <dc:creator>Adrien Rousseau</dc:creator>
-      <dc:creator>Stéphanie Foulon</dc:creator>
-      <dc:creator>David Planchard</dc:creator>
-      <dc:creator>Jordi Remon</dc:creator>
-      <dc:creator>Fabrice Barlesi</dc:creator>
-      <dc:creator>Pernelle Lavaud</dc:creator>
-      <dc:creator>Maxime Frelaut</dc:creator>
-      <dc:creator>Mihaela Aldea</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Adrien Rousseau, Stéphanie Foulon, David Planchard, Jordi Remon, Fabrice Barlesi, Pernelle Lavaud, Maxime Frelaut, Mihaela Aldea, et al.
-
-Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 648
-
-Abstract: Importance Two years of immunotherapy is the standard treatment for most patients with advanced non–small cell lung cancer. However, little is known about postimmunotherapy therapeutic strategies. Objective To describe subsequent treatments and outcomes after pembrolizumab discontinuation following 2 years of therapy. Design, Setting, and Participants This nationwide, population-based, retrospective cohort study used administrative health data from the French National Health Insurance database from patients who received a diagnosis of incident lung cancer between January 1, 2015, and December 31, 2022, who received pembrolizumab for 22 to 26 months and survived at least 29 months (landmark). The data cutoff was October 31, 2024. Data were analyzed in October 2025. Exposure Treatment with pembrolizumab for 22 to 26 months, followed by observation of subsequent therapeutic management after discontinuation. Main Outcomes and Measures Overall survival (OS) was defined as the time between landmark and death of any cause. Time to next treatment or death was defined as the time between the last pembrolizumab infusion and new treatment or death. Results Among 41 498 patients who received frontline pembrolizumab for advanced disease, 5293 were alive at the landmark time and completed 2 years of treatment, and 1555 discontinued pembrolizumab at 2 years. The population of interest for this study included 1480 patients with at least 6 months of follow-up; the median (range) age was 63.0 (32.0-90.0) years, 537 (36.3%) were female, 943 (63.7%) were male, and 616 (41.6%) had received pembrolizumab monotherapy. After a median follow-up of 16 months (95% CI, 15.2-16.8) after the landmark, the OS rate at 48 months was 76.9% (95% CI, 72.7%-81.3%), and the time to next treatment or death rate at 48 months after pembrolizumab discontinuation was 49.9% (95% CI, 45.3%-55.0%). Overall, 387 patients (26.1%) received subsequent therapy. The first treatments after pembrolizumab discontinuation were chemotherapy (200 [51.7%]), radiotherapy (183 [47.3%]), and immunotherapy (4 [1.0%]). Considering all subsequent treatment lines, 19 patients (0.1%) received an immunotherapy rechallenge. Twelve months after initiation of the new treatment, the OS rates were 87.0% (95% CI, 81.6%-92.7%) for radiotherapy, 69.9% (95% CI, 61.1%-80.0%) for chemotherapy, and 61.4% (95% CI, 41.3%-91.4%) for immunotherapy. Conclusions This cohort study found that, among long-term cancer survivors with advanced non–small cell lung cancer who were treated with pembrolizumab, survival outcomes were high and immunotherapy rechallenge was uncommon.</description>
-    </item>
-    <item>
-      <title>Prospective Genomic Profiling of Consecutive Meningiomas</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0507</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0507</guid>
-
-      <dc:creator>Minh P. Nguyen</dc:creator>
-      <dc:creator>Kanish Mirchia</dc:creator>
-      <dc:creator>Brooke C. Braman</dc:creator>
-      <dc:creator>Ramin A. Morshed</dc:creator>
-      <dc:creator>Nancy Ann Oberheim-Bush</dc:creator>
-      <dc:creator>Zora Arum</dc:creator>
-      <dc:creator>Javier E. Villanueva-Meyer</dc:creator>
-      <dc:creator>William C. Chen</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Minh P. Nguyen, Kanish Mirchia, Brooke C. Braman, Ramin A. Morshed, Nancy Ann Oberheim-Bush, Zora Arum, Javier E. Villanueva-Meyer, William C. Chen, et al.
-
-Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 660
-
-Abstract: This genomic profiling study describes the molecular architecture of 1104 prospective consecutive meningioma samples from one academic medical center.</description>
-    </item>
-    <item>
-      <title>Challenges in Interpreting MELATORCH Trial Outcomes</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0655</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0655</guid>
-
-      <dc:creator>Koichiro Yuji</dc:creator>
-      <dc:creator>Wakako Yuji</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Koichiro Yuji, Wakako Yuji
-
-Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 675</description>
-    </item>
-    <item>
-      <title>Clarification for Gleason Pattern</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.1415</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.1415</guid>
-
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 679</description>
-    </item>
-    <item>
-      <title>Reassessing Treatment Outcomes Following Immune-Related Adverse Events</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.0782</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.0782</guid>
-
-      <dc:creator>Koichiro Yuji</dc:creator>
-      <dc:creator>Wakako Yuji</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Koichiro Yuji, Wakako Yuji
-
-Journal: JAMA Oncology; Volume: 12; Issue: 6; Pages: 678</description>
     </item>
   </channel>
 </rss>

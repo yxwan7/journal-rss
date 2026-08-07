@@ -5,8 +5,20 @@
     <link>https://www.nature.com/nathumbehav/</link>
     <description>Latest journal articles for Nature Human Behaviour</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:42:36 +0000</lastBuildDate>
 
+    <item>
+      <title>Individual and differential harm in redistricting</title>
+      <link>https://doi.org/10.1038/s41562-026-02511-7</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02511-7</guid>
+
+      <dc:creator>Cory McCartan</dc:creator>
+      <dc:creator>Christopher T. Kenny</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cory McCartan, Christopher T. Kenny
+
+Journal: Nature Human Behaviour</description>
+    </item>
     <item>
       <title>Fluctuations in arousal reflect latent state transitions that facilitate behavioural optimization</title>
       <link>https://doi.org/10.1038/s41562-026-02533-1</link>
@@ -1435,14 +1447,6 @@ Journal: Nature Human Behaviour; Volume: 10; Issue: 4; Pages: 647-649</descripti
 Journal: Nature Human Behaviour; Volume: 10; Issue: 5; Pages: 937-959
 
 Abstract: Abstract Attention facilitates communication by enabling selective listening to sound sources of interest. However, little is known about why attentional selection succeeds in some conditions but fails in others. While neurophysiology implicates multiplicative feature gains in selective attention, it is unclear whether such gains can explain real-world attention-driven behaviour. Here we optimized an artificial neural network with stimulus-computable feature gains to recognize a cued talker’s speech from binaural audio in ‘cocktail party’ scenarios. Though not trained to mimic humans, the model produced human-like performance across diverse real-world conditions, exhibiting selection based both on voice qualities and on spatial location as well as selection failures in conditions where humans tended to fail. It also predicted novel attentional effects that we confirmed in human experiments, and exhibited signatures of ‘late selection’ like those seen in human auditory cortex. The results suggest that human-like attentional strategies naturally arise from the optimization of feature gains for selective listening.</description>
-    </item>
-    <item>
-      <title>The effects of Facebook and Instagram political advertisements on the 2020 US election</title>
-      <link>https://doi.org/10.1038/s41562-025-02329-9</link>
-      <guid isPermaLink="false">10.1038/s41562-025-02329-9</guid>
-
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 5; Pages: 837-838</description>
     </item>
   </channel>
 </rss>
