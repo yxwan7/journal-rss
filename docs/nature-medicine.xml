@@ -5,8 +5,44 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:15:57 +0000</lastBuildDate>
 
+    <item>
+      <title>Large-scale whole-genome sequencing reveals the landscape and health implications of de novo mutations</title>
+      <link>https://doi.org/10.1038/s41591-026-04585-2</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04585-2</guid>
+
+      <dc:creator>Na Qin</dc:creator>
+      <dc:creator>Juncheng Dai</dc:creator>
+      <dc:creator>Yue Jiang</dc:creator>
+      <dc:creator>Yuan Xie</dc:creator>
+      <dc:creator>Hong Lv</dc:creator>
+      <dc:creator>Jun Zhou</dc:creator>
+      <dc:creator>Xiao Wang</dc:creator>
+      <dc:creator>Yangqian Jiang</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Na Qin, Juncheng Dai, Yue Jiang, Yuan Xie, Hong Lv, Jun Zhou, Xiao Wang, Yangqian Jiang, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>A clinically validated framework for auditing AI chatbot behavior in mental health interactions</title>
+      <link>https://doi.org/10.1038/s41591-026-04577-2</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04577-2</guid>
+
+      <dc:creator>Veith Weilnhammer</dc:creator>
+      <dc:creator>Kevin YC Hou</dc:creator>
+      <dc:creator>Lennart Luettgau</dc:creator>
+      <dc:creator>Christopher Summerfield</dc:creator>
+      <dc:creator>Raymond Dolan</dc:creator>
+      <dc:creator>Matthew M. Nour</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Veith Weilnhammer, Kevin YC Hou, Lennart Luettgau, Christopher Summerfield, Raymond Dolan, Matthew M. Nour
+
+Journal: Nature Medicine
+
+Abstract: Abstract Millions of users turn to consumer artificial intelligence chatbots to discuss emotional, behavioral and mental-health concerns, creating an urgent need for rigorous and scalable safety evaluations. Here we introduce simulated (SIM) vulnerability-amplifying interaction loops (VAILs) (SIM-VAIL), a clinically validated framework for auditing chatbot behavior in mental-health contexts. SIM-VAIL simulates users with specific psychiatric vulnerabilities and conversational intents, engages them in multi-turn conversations with frontier artificial intelligence chatbots (including Claude, ChatGPT, Gemini, Grok and Llama models) and scores each exchange across 13 clinically grounded risk dimensions. Across 810 conversations, spanning 9 target chatbots and 30 simulated user profiles, concerning behavior in target chatbots was widespread, albeit reduced in newer models. Concerning behavior varied by user vulnerability and conversational intent, accumulated over turns, and could be reduced by interventions at early escalation points. Risk was highest when otherwise supportive chatbot behaviors reinforced the psychological mechanisms underlying the simulated user’s vulnerability, a pattern we term a VAIL. SIM-VAIL provides a scalable framework for mapping mental-health risk across users, chatbots and conversational trajectories, offering a foundation for targeted safety improvements.</description>
+    </item>
     <item>
       <title>Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial</title>
       <link>https://doi.org/10.1038/s41591-026-04541-0</link>
@@ -1561,43 +1597,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2358-2359</description>
       <description>Authors: Karen O’Leary
 
 Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Author Correction: Global burden of amphetamine, cannabis, cocaine and opioid use in 204 countries, 1990–2023: a Global Burden of Disease Study</title>
-      <link>https://doi.org/10.1038/s41591-026-04513-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04513-4</guid>
-
-      <dc:creator>Jiseung Kang</dc:creator>
-      <dc:creator>Hyeon Jin Kim</dc:creator>
-      <dc:creator>Min Seo Kim</dc:creator>
-      <dc:creator>Jae Il Shin</dc:creator>
-      <dc:creator>Hasan Aalruz</dc:creator>
-      <dc:creator>Yohannes Habtegiorgis Abate</dc:creator>
-      <dc:creator>Nasir Abbas</dc:creator>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jiseung Kang, Hyeon Jin Kim, Min Seo Kim, Jae Il Shin, Hasan Aalruz, Yohannes Habtegiorgis Abate, Nasir Abbas, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2690-2690</description>
-    </item>
-    <item>
-      <title>Activity-dependent adaptive deep brain stimulation improves gait in Parkinson’s disease</title>
-      <link>https://doi.org/10.1038/s41591-026-04432-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04432-4</guid>
-
-      <dc:creator>Stefano Scafa</dc:creator>
-      <dc:creator>Valeria de Seta</dc:creator>
-      <dc:creator>Ruijia Wang</dc:creator>
-      <dc:creator>Paula Sánchez López</dc:creator>
-      <dc:creator>Andrea Sánchez López</dc:creator>
-      <dc:creator>Camille Varescon</dc:creator>
-      <dc:creator>Icare Sakr</dc:creator>
-      <dc:creator>Nadia Bérard</dc:creator>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Stefano Scafa, Valeria de Seta, Ruijia Wang, Paula Sánchez López, Andrea Sánchez López, Camille Varescon, Icare Sakr, Nadia Bérard, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Parkinson’s disease leads to a spectrum of locomotor deficits that vary in severity with the nature of daily activities and the fluctuating physiology of patients. Many of these deficits remain inadequately addressed by existing deep brain stimulation therapies that rely on activity-agnostic parameters optimized for cardinal motor symptoms. By contrast, therapies embedding activity-specific parameters have the potential to better address the entire range of symptoms. Here we expose physiological principles that enable real-time decoding of ongoing locomotor activities across motor fluctuations from the neural dynamics of the subthalamic nucleus. This decoding steered activity-dependent adaptations of deep brain stimulation therapies that improved locomotor deficits while preserving efficacy for cardinal motor symptoms across activities of daily living. Our activity-dependent framework provides a blueprint for next-generation neuromodulation therapies that continuously select parameters optimized to the behavioral context and fluctuating physiology of each patient. ClinicalTrials.gov registration NCT06791902 .</description>
     </item>
   </channel>
 </rss>
