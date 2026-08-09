@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 07:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:16:20 +0000</lastBuildDate>
 
     <item>
       <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
@@ -28,17 +28,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Observational studies have suggested that a younger age at menarche is associated with increased risks of adverse pregnancy and perinatal outcomes. However, it is unclear whether these relationships are causal. Methods We estimated the associations between age at menarche and 13 pre-specified pregnancy outcomes by using two approaches. We estimated observational associations in the Avon Longitudinal Study of Parents and Children (N = 9441) using multivariable regression accounting for educational attainment, ethnicity, maternal age, parity, offspring sex, and adiposity. We conducted two-sample Mendelian randomization (MR) using data from the Mendelian Randomization in Pregnancy (MR-PREG) collaboration (77 683–707 797 pregnancies) and multivariable MR (MVMR) accounting for genetically-proxied adiposity. Results Older age at menarche was associated with lower risks of hypertensive disorders of pregnancy, gestational hypertension, and preeclampsia, but accounting for adiposity attenuated these effects across approaches. For example, per 1-year older age at menarche, the odds ratio (OR) for hypertensive disorders of pregnancy was 0.88 (95% confidence interval (CI) : 0.84, 0.93) in inverse variance weighted MR and 0.95 (95% CI: 0.90, 1.01) in MVMR, while the observational association attenuated from OR = 0.91 (95% CI: 0.87, 0.94) to OR = 0.97 (95% CI: 0.93, 1.01). No clear evidence was found for the effects of age at menarche on small-for-gestational-age, low birthweight, post-term birth, or perinatal depression from either approach. For other outcomes evidence was limited by imprecision (very preterm birth, gestational diabetes) or inconsistent effects in sensitivity analyses (offspring birthweight, large-for-gestational-age, high birthweight, preterm birth). Conclusion We find little robust evidence for causal effects of age at menarche on pregnancy outcomes. Effects of younger menarche on increased risks of hypertensive disorders of pregnancy may be driven by adiposity.</description>
     </item>
     <item>
-      <title>The race variable: how statistical practices reinforce inequality</title>
-      <link>https://doi.org/10.1093/ije/dyag128</link>
-      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
-
-      <dc:creator>Jason Gurney</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jason Gurney
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
-    </item>
-    <item>
       <title>Ambient air pollution and risk of active tuberculosis: a population-based cohort study in Taiwan</title>
       <link>https://doi.org/10.1093/ije/dyag100</link>
       <guid isPermaLink="false">10.1093/ije/dyag100</guid>
@@ -55,6 +44,17 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag100
 
 Abstract: Abstract Background Available evidence on the relationship between long-term exposure to particulate matter with an aerodynamic diameter of ≤2.5 μm (PM2.5) and tuberculosis has been limited and inconsistent. Methods We conducted a longitudinal cohort study on individuals aged ≥12 years who participated in four rounds of the National Health Interview Survey. PM2.5 exposure was estimated by using data from air-quality monitoring stations and microsensors. Incident tuberculosis was identified based on International Classification of Diseases codes and the prescription of anti-tuberculosis drugs in the National Health Insurance Database. Time-dependent Cox regression analyses were conducted to estimate the linear and nonlinear associations between PM2.5 level and tuberculosis risk. Results Among 55 316 individuals with a median follow-up time of 12 years, 429 cases of incident tuberculosis were identified. The annual mean baseline PM2.5 concentration was 34.5 μg/m3 (interquartile range: 28.7–39.2 μg/m3). After adjustment for age, sex, body mass index, cigarette smoking, alcohol use, education level, income, and tuberculosis history, the adjusted hazard ratio was 1.16 (95% confidence interval: 1.00–1.34) for every 10-μg/m3 increase in the PM2.5 level. The results of the restricted cubic spline Cox regression analysis revealed a potential nonlinear relationship (P for nonlinearity: .04), with the risk of tuberculosis increasing more rapidly when the annual mean concentration of PM2.5 exceeded 30 μg/m3. Conclusion In this large population-based cohort study, a positive association between PM2.5 and tuberculosis was observed, particularly at moderately high concentrations of PM2.5 exposure. These findings highlight the need for air-pollution control strategies to mitigate tuberculosis risk.</description>
+    </item>
+    <item>
+      <title>The race variable: how statistical practices reinforce inequality</title>
+      <link>https://doi.org/10.1093/ije/dyag128</link>
+      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
+
+      <dc:creator>Jason Gurney</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jason Gurney
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
     </item>
     <item>
       <title>Data Resource Profile: Health Insurance Review and Assessment Service Korean nationwide claims OMOP CDM (2015–24) database, HIRA K-OMOP</title>
@@ -201,25 +201,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Colorectal cancer (CRC) risk is increased in childhood cancer survivors (CCS). In France, fecal immunochemical testing (FIT) is recommended every 2 years for those aged 50–74 years, although no specific CRC-screening programs are dedicated to CCS. Methods We investigated the participation rate in CRC screening by using the national health data system to identify FIT in the French Childhood Cancer Survivor Study cohort, across three two-year periods—2016–17, 2018–19, and 2020–21—to compare it to the general population via indirect standardization and used multivariable logistic regression to investigate factors influencing CCS participation. Results In 2016–17, 2018–19, and 2020–21, respectively, 20.0%, 21.8%, and 23.2% participated in screening, which is lower than the rate for the general population [standardized incidence ratios (95% CI) = 0.62 (0.49–0.78), 0.72 (0.59–0.87), and 0.70 (0.59–0.83), respectively]. Demographic, clinical, therapeutic, and socio-economic determinants were not associated with CRC-screening participation. Although these patterns were not consistently observed across all subgroups, survivors with severe long-term complications tended to have higher participation [odds ratio (95% CI) = 1.64 (1.07–2.53)], whereas higher medical expenses were associated with lower participation (P &amp;amp;lt; .01). Conclusion Despite an increased risk of CRC after childhood cancer, participation in CRC-screening programs remains low in CCS. Survivors and their physicians require educational initiatives to promote CRC screening and provide risk-adapted surveillance guidelines.</description>
     </item>
     <item>
-      <title>Quantifying and adjusting for selection biases in the Norwegian Mother, Father and Child Cohort Study using population-wide individual-level registry information</title>
-      <link>https://doi.org/10.1093/ije/dyag122</link>
-      <guid isPermaLink="false">10.1093/ije/dyag122</guid>
-
-      <dc:creator>Christopher Rayner</dc:creator>
-      <dc:creator>Laurie J Hannigan</dc:creator>
-      <dc:creator>Isabella Badini</dc:creator>
-      <dc:creator>Perline A Demange</dc:creator>
-      <dc:creator>Sverre Berg Ofstad</dc:creator>
-      <dc:creator>Eivind Ystrom</dc:creator>
-      <dc:creator>Tom A McAdams</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Christopher Rayner, Laurie J Hannigan, Isabella Badini, Perline A Demange, Sverre Berg Ofstad, Eivind Ystrom, Tom A McAdams
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag122
-
-Abstract: Abstract Background Selective participation in research studies hampers researchers’ ability to draw valid and generalizable inferences from analyses. Quantifying and adjusting for selective participation are desirable but can be challenging given the paucity of data for non-participants. Methods We used individual-level information from population registers to predict baseline and continued participation in the Norwegian Mother, Father and Child Cohort Study (MoBa). Inverse probability weights were computed from logistic regression models with elastic-net regularization. We predicted selective participation and attrition in 296 987 mothers, of whom 29% returned the first MoBa questionnaire and 12.5% returned a follow-up questionnaire 8 years later. To quantify bias, we computed sample characteristics and exposure–outcome associations in the target population and stratified samples. To compare approaches for adjusting for bias, we computed weighted sample estimates by using three sets of weights. Results Unweighted sample estimates were systematically different from target-population values, indicating bias due to selective participation. Baseline participation weights substantially reduced the impact of selection bias on mean values by 93% and associations by 75%. Attrition weights reduced attrition bias on mean values by 78% and associations by 50% but were less effective for reducing participation bias (22% and 14% respectively). Conclusion In this sample, characteristics and effect estimates are substantially different from target-population values. Participation weights were relatively effective at reducing bias due to selective participation but attrition weights were not. Estimates from studies that use attrition weights may still contain non-negligible selection bias—particularly if the baseline sample is not representative of the target population. Future studies should prioritize opportunities for deriving sampling weights for participation as well as attrition.</description>
-    </item>
-    <item>
       <title>Contributions of preeclampsia to preterm delivery: a hypothetical interventional cohort study using incremental propensity scores</title>
       <link>https://doi.org/10.1093/ije/dyag098</link>
       <guid isPermaLink="false">10.1093/ije/dyag098</guid>
@@ -270,6 +251,25 @@ Abstract: Abstract Background School-based mitigation measures can curb transmis
       <description>Authors: Shilpa Lingaiah, Elina Keikkala, Sanna Mustaniemi, Pekka Ylöstalo, Tellervo Tervonen, Marja-Liisa Laitala, Hilkka Pernu, Eveliina Lammentausta, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag101</description>
+    </item>
+    <item>
+      <title>Quantifying and adjusting for selection biases in the Norwegian Mother, Father and Child Cohort Study using population-wide individual-level registry information</title>
+      <link>https://doi.org/10.1093/ije/dyag122</link>
+      <guid isPermaLink="false">10.1093/ije/dyag122</guid>
+
+      <dc:creator>Christopher Rayner</dc:creator>
+      <dc:creator>Laurie J Hannigan</dc:creator>
+      <dc:creator>Isabella Badini</dc:creator>
+      <dc:creator>Perline A Demange</dc:creator>
+      <dc:creator>Sverre Berg Ofstad</dc:creator>
+      <dc:creator>Eivind Ystrom</dc:creator>
+      <dc:creator>Tom A McAdams</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Christopher Rayner, Laurie J Hannigan, Isabella Badini, Perline A Demange, Sverre Berg Ofstad, Eivind Ystrom, Tom A McAdams
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag122
+
+Abstract: Abstract Background Selective participation in research studies hampers researchers’ ability to draw valid and generalizable inferences from analyses. Quantifying and adjusting for selective participation are desirable but can be challenging given the paucity of data for non-participants. Methods We used individual-level information from population registers to predict baseline and continued participation in the Norwegian Mother, Father and Child Cohort Study (MoBa). Inverse probability weights were computed from logistic regression models with elastic-net regularization. We predicted selective participation and attrition in 296 987 mothers, of whom 29% returned the first MoBa questionnaire and 12.5% returned a follow-up questionnaire 8 years later. To quantify bias, we computed sample characteristics and exposure–outcome associations in the target population and stratified samples. To compare approaches for adjusting for bias, we computed weighted sample estimates by using three sets of weights. Results Unweighted sample estimates were systematically different from target-population values, indicating bias due to selective participation. Baseline participation weights substantially reduced the impact of selection bias on mean values by 93% and associations by 75%. Attrition weights reduced attrition bias on mean values by 78% and associations by 50% but were less effective for reducing participation bias (22% and 14% respectively). Conclusion In this sample, characteristics and effect estimates are substantially different from target-population values. Participation weights were relatively effective at reducing bias due to selective participation but attrition weights were not. Estimates from studies that use attrition weights may still contain non-negligible selection bias—particularly if the baseline sample is not representative of the target population. Future studies should prioritize opportunities for deriving sampling weights for participation as well as attrition.</description>
     </item>
     <item>
       <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
@@ -328,6 +328,23 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Mental health disorders (MHDs) and substance-use disorders (SUDs) are implicated in preventable pregnancy-associated mortality (PAM) in the USA. However, the independent and joint associations of perinatal MHDs/SUDs on PAM are not well understood. Methods We conducted a retrospective cohort study using the Nationwide Readmissions Database from 2010 to 2020. We examined the risks of PAM within the calendar year of delivery among women with and without MHDs/SUDs at delivery and further contrasted MHDs (depression, anxiety, bipolar, or psychotic disorders) with and without SUDs, and SUDs alone. We estimated the confounder-adjusted hazard ratios (HRs) and 95% confidence intervals (CIs). We conducted a probabilistic bias analysis to address exposure misclassification and unmeasured confounding. Results Of 19 703 242 women with a delivery hospitalization, 9.4% (n = 1 865 087) had an MHD/SUD diagnosed at delivery. Of 1989 pregnancy-associated in-hospital deaths, 21.7% (n = 432) occurred among women with an MHD/SUD diagnosis. Compared with those without MHDs/SUDs, the HR for mortality associated with MHDs/SUDs was 2.30 (95% CI 2.04, 2.59). Women with MHDs alone had an HR of 1.49 (95% CI 1.24, 1.79) for mortality, whereas those with both MHDs and SUDs had an even higher HR (2.90, 95% CI 2.28, 3.68). The mortality HR associated with SUDs alone was 3.55 (95% CI 3.00, 4.21). These associations increased slightly following correction for exposure misclassification and unmeasured confounding. Conclusion This population-based study highlights the disproportionately high rates of PAM associated with MHDs/SUDs. Increased efforts to address MHDs/SUDs in pregnancy are essential to reduce PAM related to MHDs/SUDs.</description>
     </item>
     <item>
+      <title>Cohort Profile: The Early Childhood Longitudinal Survey (ELPI), Chile</title>
+      <link>https://doi.org/10.1093/ije/dyag105</link>
+      <guid isPermaLink="false">10.1093/ije/dyag105</guid>
+
+      <dc:creator>Pablo Martínez</dc:creator>
+      <dc:creator>Vania Martínez</dc:creator>
+      <dc:creator>Gabriel Sotomayor López</dc:creator>
+      <dc:creator>Vicky Rojas</dc:creator>
+      <dc:creator>Jenny Encina</dc:creator>
+      <dc:creator>Matías Cociña</dc:creator>
+      <dc:creator>Massimiliano Orri</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Pablo Martínez, Vania Martínez, Gabriel Sotomayor López, Vicky Rojas, Jenny Encina, Matías Cociña, Massimiliano Orri
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag105</description>
+    </item>
+    <item>
       <title>Ten- and thirty-year cardiovascular disease risks using PREVENT equation in Koreans from 2001 to 2021</title>
       <link>https://doi.org/10.1093/ije/dyag104</link>
       <guid isPermaLink="false">10.1093/ije/dyag104</guid>
@@ -363,23 +380,6 @@ Abstract: Abstract Background Cardiovascular disease (CVD) remains a major globa
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag111
 
 Abstract: Abstract Background Cardiometabolic risk factors are major contributors to poor health outcomes and premature mortality. While the effect of prenatal exposure to stress on cardiometabolic outcomes has been examined, the findings remain inconsistent across studies, and even more so with regard to the timing of exposure. In the present study, we aimed to explore the association of short-term prenatal exposure to the acute stress of the 1967 Six-Day War with cardiovascular and anthropometric risk factors in adolescent offspring. Methods Using a population-based birth cohort, we examined data from 61 237 offspring born in Jerusalem during 1964–76, linked to their military-draft records at age 17 years. These provided information on those exposed to acute prenatal stress and the timing of exposure within the pregnancy (N = 2471) as well as on height, weight, heart rate (HR), and blood pressure (BP) in adolescence. Linear regression models estimated the associations between prenatal stress and measurements at age 17 years, controlling for potential confounders. Results Prenatal exposure to acute stress was associated with increased systolic blood pressure (SBP) and diastolic blood pressure (DBP) [SBP: B = 1.85, 95% confidence interval (CI): 1.15, 2.56; DBP: B = 1.89, 95% CI: 1.40, 2.38] and a decreased HR (B = –1.39, CI: –1.88, –0.91) but not with anthropometric outcomes. Furthermore, gestational age at exposure modified these associations: the associations with DBP and mean arterial pressure tended to increase and with HR to decrease the later the exposure occurred during the pregnancy. Conclusion Findings suggest that acute maternal stress during pregnancy is associated with cardiovascular risk factors in offspring in adolescence and is modulated by the timing of the exposure.</description>
-    </item>
-    <item>
-      <title>Cohort Profile: The Early Childhood Longitudinal Survey (ELPI), Chile</title>
-      <link>https://doi.org/10.1093/ije/dyag105</link>
-      <guid isPermaLink="false">10.1093/ije/dyag105</guid>
-
-      <dc:creator>Pablo Martínez</dc:creator>
-      <dc:creator>Vania Martínez</dc:creator>
-      <dc:creator>Gabriel Sotomayor López</dc:creator>
-      <dc:creator>Vicky Rojas</dc:creator>
-      <dc:creator>Jenny Encina</dc:creator>
-      <dc:creator>Matías Cociña</dc:creator>
-      <dc:creator>Massimiliano Orri</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Pablo Martínez, Vania Martínez, Gabriel Sotomayor López, Vicky Rojas, Jenny Encina, Matías Cociña, Massimiliano Orri
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag105</description>
     </item>
     <item>
       <title>Mechanisms underlying the effect of adiposity on risk of post-menopausal oestrogen receptor-positive breast cancer: an interventional mediation analysis</title>
@@ -1429,6 +1429,20 @@ Abstract: Abstract Introduction Inorganic lead is a common occupational exposure
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag054</description>
     </item>
     <item>
+      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
+      <link>https://doi.org/10.1093/ije/dyag078</link>
+      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
+
+      <dc:creator>Andrea D Olmstead</dc:creator>
+      <dc:creator>Kayla McLean</dc:creator>
+      <dc:creator>Imelda S Wong</dc:creator>
+      <dc:creator>Xibiao Ye</dc:creator>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
+    </item>
+    <item>
       <title>Cohort Profile Update: The 1982 Pelotas (Brazil) Birth Cohort follow-up at 40 years</title>
       <link>https://doi.org/10.1093/ije/dyag075</link>
       <guid isPermaLink="false">10.1093/ije/dyag075</guid>
@@ -1443,20 +1457,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
       <description>Authors: Bernardo L Horta, Fernando P Hartwig, Mariane da S. Dias, Riceli R Oliveira, Natália P Lima, Janaina V dos S. Motta
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag075</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
-      <link>https://doi.org/10.1093/ije/dyag078</link>
-      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
-
-      <dc:creator>Andrea D Olmstead</dc:creator>
-      <dc:creator>Kayla McLean</dc:creator>
-      <dc:creator>Imelda S Wong</dc:creator>
-      <dc:creator>Xibiao Ye</dc:creator>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
     </item>
     <item>
       <title>Why can’t epidemiology be automated (yet)? Perhaps it shouldn’t be</title>
