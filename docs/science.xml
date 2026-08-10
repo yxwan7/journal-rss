@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 07:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 08:03:51 +0000</lastBuildDate>
 
     <item>
       <title>Dengue vaccines need long-term surveillance</title>
@@ -358,22 +358,6 @@ Journal: Science; Volume: 393; Issue: 6811; Article number: eadu6688
 Abstract: Candida auris is a multidrug-resistant fungus of major public health concern whose mechanisms for persistence on skin, a major risk factor for deadly outbreaks, remain unclear. In this study, we compared skin colonization by C. auris versus C. albicans to illuminate distinct fungal-immune interactions in mice. C. auris exhibited enhanced skin persistence, hair follicle tropism, and direct hair binding. Whereas C. albicans triggered a type 3/17–skewed sterilizing antifungal immune response, C. auris triggered a type 1 interferon-γ (IFNγ)–driven response directed toward hair follicles. IFNγ enhanced C. auris colonization by signaling to keratinocytes and repressing epithelial antifungal defense programs. Genetic and biochemical approaches demonstrated that, in response to cues associated with the skin, C. auris increases cell wall chitin exposure, triggering type 1 immunity and promoting fungal persistence.</description>
     </item>
     <item>
-      <title>Levitated sensor for magnetometry in ambient environment</title>
-      <link>https://doi.org/10.1126/science.adx1707</link>
-      <guid isPermaLink="false">10.1126/science.adx1707</guid>
-
-      <dc:creator>Wei Ji</dc:creator>
-      <dc:creator>Changhao Xu</dc:creator>
-      <dc:creator>Guofeng Qu</dc:creator>
-      <dc:creator>Dmitry Budker</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Wei Ji, Changhao Xu, Guofeng Qu, Dmitry Budker
-
-Journal: Science; Volume: 393; Issue: 6811; Pages: 607-610
-
-Abstract: Levitated particle systems have gained attention as a rapidly advancing platform for precision sensing, offering low-loss, highly isolated environments by eliminating mechanical contact and associated noise. Current room-temperature levitation techniques are primarily sensitive to acceleration, and it remains challenging to integrate them with high-sensitivity magnetic sensing. In this work, we demonstrate a diamagnetically stabilized magnetically levitated magnet magnetometer, where the motion of the magnet is detected optically. We achieved a sensitivity of 32 femtoteslas per square root of Hertz, which is adequate for a wide range of applications in biology, chemistry, and fundamental physics, matching the performance of superconducting quantum interference devices and atomic magnetometers, while offering the advantage of operating at room temperature and under Earth’s magnetic field.</description>
-    </item>
-    <item>
       <title>The next Turing tests: Reimagining conceptions and measures of AI</title>
       <link>https://doi.org/10.1126/science.aee3176</link>
       <guid isPermaLink="false">10.1126/science.aee3176</guid>
@@ -391,6 +375,22 @@ Abstract: Levitated particle systems have gained attention as a rapidly advancin
 Journal: Science; Volume: 393; Issue: 6811; Pages: 566-568
 
 Abstract: New approaches to evaluating progress of AI should be built around diversity, partnership, and systemicity</description>
+    </item>
+    <item>
+      <title>Levitated sensor for magnetometry in ambient environment</title>
+      <link>https://doi.org/10.1126/science.adx1707</link>
+      <guid isPermaLink="false">10.1126/science.adx1707</guid>
+
+      <dc:creator>Wei Ji</dc:creator>
+      <dc:creator>Changhao Xu</dc:creator>
+      <dc:creator>Guofeng Qu</dc:creator>
+      <dc:creator>Dmitry Budker</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wei Ji, Changhao Xu, Guofeng Qu, Dmitry Budker
+
+Journal: Science; Volume: 393; Issue: 6811; Pages: 607-610
+
+Abstract: Levitated particle systems have gained attention as a rapidly advancing platform for precision sensing, offering low-loss, highly isolated environments by eliminating mechanical contact and associated noise. Current room-temperature levitation techniques are primarily sensitive to acceleration, and it remains challenging to integrate them with high-sensitivity magnetic sensing. In this work, we demonstrate a diamagnetically stabilized magnetically levitated magnet magnetometer, where the motion of the magnet is detected optically. We achieved a sensitivity of 32 femtoteslas per square root of Hertz, which is adequate for a wide range of applications in biology, chemistry, and fundamental physics, matching the performance of superconducting quantum interference devices and atomic magnetometers, while offering the advantage of operating at room temperature and under Earth’s magnetic field.</description>
     </item>
     <item>
       <title>Climate extremes expose groundwater risks</title>
@@ -542,19 +542,6 @@ Journal: Science; Volume: 393; Issue: 6811; Article number: eaec2657
 Abstract: Many important biological functions arise not from single genes but from complex interactions encoded by entire genomes. We report the first generative design of complete bacteriophage genomes using genome language models. We generated viable bacteriophages with target host tropism, using the phage ΦX174 as our design template. Experimental testing yielded 16 phages with diverse fitness profiles in laboratory conditions. Cryo–electron microscopy confirmed that a generated phage utilizes an evolutionarily distant DNA packaging protein in its capsid. A cocktail of generated phages rapidly overcomes ΦX174-resistant Escherichia coli strains, demonstrating a path toward artificial intelligence–generated phage therapies against rapidly evolving bacterial pathogens. This work provides a blueprint for the design of diverse synthetic bacteriophages and useful biological systems at the genome scale.</description>
     </item>
     <item>
-      <title>A fungus makes itself at home on skin</title>
-      <link>https://doi.org/10.1126/science.aek0194</link>
-      <guid isPermaLink="false">10.1126/science.aek0194</guid>
-
-      <dc:creator>Julia A. Segre</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Julia A. Segre
-
-Journal: Science; Volume: 393; Issue: 6811; Pages: 564-565
-
-Abstract: Candida auris represses host antifungal defense to establish a favorable cutaneous niche</description>
-    </item>
-    <item>
       <title>Heavily doped, highly compensated epitaxial ScN thin films exceed Boltzmann thermopower limits</title>
       <link>https://doi.org/10.1126/science.aef9458</link>
       <guid isPermaLink="false">10.1126/science.aef9458</guid>
@@ -573,6 +560,19 @@ Abstract: Candida auris represses host antifungal defense to establish a favorab
 Journal: Science; Volume: 393; Issue: 6811; Pages: 611-614
 
 Abstract: The Seebeck effect converts a temperature gradient into an electric voltage. However, conventional transport theories constrain this thermopower to a few millivolts per Kelvin in crystalline materials. We present experimental evidence of a Seebeck coefficient exceeding –124 millivolts per Kelvin near room temperature in heavily doped, highly compensated (HDHC) epitaxial scandium nitride (ScN) thin films. Random distribution of charged dopants in HDHC ScN are known to generate potential fluctuations that distort the electronic bands and give rise to percolative transport, and our results further reveal a power-law scaling between thermopower and electrical conductivity. In ultrathin films, the Rytova-Keldysh modifications of the Coulomb potential further amplify the potential fluctuations and enhance the Seebeck response. Our findings reveal a solid-state analog of electrolyte-like thermopower in a crystalline semiconductor.</description>
+    </item>
+    <item>
+      <title>A fungus makes itself at home on skin</title>
+      <link>https://doi.org/10.1126/science.aek0194</link>
+      <guid isPermaLink="false">10.1126/science.aek0194</guid>
+
+      <dc:creator>Julia A. Segre</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Julia A. Segre
+
+Journal: Science; Volume: 393; Issue: 6811; Pages: 564-565
+
+Abstract: Candida auris represses host antifungal defense to establish a favorable cutaneous niche</description>
     </item>
     <item>
       <title>Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders</title>
@@ -680,6 +680,19 @@ Journal: Science; Volume: 393; Issue: 6810; Article number: eaef3178
 Abstract: Defense-associated reverse transcriptases (DRTs) transcribe noncoding RNAs (ncRNAs) for antiviral defense, but the mechanisms of ncRNA-independent DRTs remain unclear. In this work, we show that a single DRT4 mediates RNA-targeting antiphage defense by integrating DNA polymerase, exonuclease, and RNA endonuclease activities. First, through an equilibrium between its DNA polymerase and exonuclease activities, DRT4 senses phage infection, as elevated deoxynucleotide triphosphate levels shift the equilibrium toward polymerase activity, thereby promoting protein-primed single-stranded DNA (ssDNA) synthesis. Second, ssDNA of sufficient length, phage DNA binding proteins, and deoxyguanosine triphosphate collectively activate an unusual RNA endonuclease activity of DRT4, excising guanosine 3′-monophosphate from both phage and host RNA to terminate infection. These findings reveal a distinctive immune strategy combining nucleic acid synthesis and degradation, expanding the functional landscape of DRTs for new DNA- and RNA-processing technologies.</description>
     </item>
     <item>
+      <title>Surfacing brain stimulation</title>
+      <link>https://doi.org/10.1126/science.aej5902</link>
+      <guid isPermaLink="false">10.1126/science.aej5902</guid>
+
+      <dc:creator>Jianxun Ren</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jianxun Ren
+
+Journal: Science; Volume: 393; Issue: 6810; Pages: 471-471
+
+Abstract: Brain functional circuits can guide precision surface brain stimulation</description>
+    </item>
+    <item>
       <title>Spatiotemporal multiomics uncover tumor ecosystem dynamics during metastatic colonization</title>
       <link>https://doi.org/10.1126/science.adz7928</link>
       <guid isPermaLink="false">10.1126/science.adz7928</guid>
@@ -698,19 +711,6 @@ Abstract: Defense-associated reverse transcriptases (DRTs) transcribe noncoding 
 Journal: Science; Volume: 393; Issue: 6810; Article number: eadz7928
 
 Abstract: The mechanisms underlying the interactions between disseminated tumor cells (DTCs) and their tissue microenvironment during metastatic colonization are currently poorly understood. We integrated multimodal single-cell and spatial profiling from liver cancer mouse models and human metastases to track the spatiotemporal dynamics of DTCs and their microenvironments from single-cell seeding to overt lung metastasis. We identified a residual population of quiescent Phgdh high DTCs that survived initial innate immune clearance and became transiently enriched in micrometastases. These cells shaped an immune-scarce microenvironment through PHGDH-dependent, H3K27me3-mediated epigenetic silencing of chemokine transcription, thereby promoting metastatic expansion. Cx3cr1 high interstitial macrophages were also transiently enriched before DTC expansion, creating an immune-privileged niche for metastatic outgrowth by recruiting immunosuppressive cells. Inactivating the PHGDH-H3K27me3 axis in DTCs or depleting interstitial macrophages restored immune surveillance and inhibited metastatic colonization. These findings provide insights into the development of micrometastasis-targeting regimens.</description>
-    </item>
-    <item>
-      <title>Surfacing brain stimulation</title>
-      <link>https://doi.org/10.1126/science.aej5902</link>
-      <guid isPermaLink="false">10.1126/science.aej5902</guid>
-
-      <dc:creator>Jianxun Ren</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jianxun Ren
-
-Journal: Science; Volume: 393; Issue: 6810; Pages: 471-471
-
-Abstract: Brain functional circuits can guide precision surface brain stimulation</description>
     </item>
     <item>
       <title>NIH is again terminating politically sensitive grants</title>
@@ -1019,6 +1019,19 @@ Journal: Science; Volume: 393; Issue: 6810; Pages: 509-513
 Abstract: Collagen, a fundamental constituent of the extracellular matrix, has long remained elusive to high-resolution structural characterization. Using a tailored system and optimized cryo–electron microscopy processing for long-period filaments, we determined the structure of native collagen fibrils from the porcine vitreous body, with local resolutions extending from 2.6 to 7 angstroms. Each 67-nanometer periodic unit contains type II, V/XI, and IX collagen triple helices together with opticin, at a stoichiometry of 8:4:4:4, which reveals their detailed higher-order molecular packing. Abundant galactose-glucose disaccharides modify hydroxylysine residues in conserved -glycine-X-hydroxylysine- motifs, mediating fibril packing and structural stability. Our structure uncovers the glycan-mediated assembly principle of collagen fibrils and clarifies the structure-function basis of collagens in the vitreous body.</description>
     </item>
     <item>
+      <title>Rewiring the paralyzed body’s false alarm</title>
+      <link>https://doi.org/10.1126/science.aej5900</link>
+      <guid isPermaLink="false">10.1126/science.aej5900</guid>
+
+      <dc:creator>Jan Elaine Soriano</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jan Elaine Soriano
+
+Journal: Science; Volume: 393; Issue: 6810; Pages: 470-471
+
+Abstract: Autonomic dysreflexia can be reversed using epidural electrical neuromodulation</description>
+    </item>
+    <item>
       <title>An adaptor for feedback regulation of heme biosynthesis by a mitochondrial protease</title>
       <link>https://doi.org/10.1126/science.ads5397</link>
       <guid isPermaLink="false">10.1126/science.ads5397</guid>
@@ -1037,19 +1050,6 @@ Abstract: Collagen, a fundamental constituent of the extracellular matrix, has l
 Journal: Science; Volume: 393; Issue: 6810; Article number: eads5397
 
 Abstract: Heme biosynthesis is tightly coordinated to support essential functions without accumulating toxic porphyrins and depleting cellular iron. Heme induces degradation of the heme biosynthetic enzyme, 5-aminolevulinate synthase (ALAS), by the mitochondrial caseinolytic protease complex CLPX-CLPP (CLPXP), but the mechanism for heme-triggered degradation had not been elucidated. We found that polymerase delta-interacting protein 2 (POLDIP2) is a heme-sensing adaptor protein sufficient to reconstitute negative feedback degradation of ALAS by CLPXP. POLDIP2 was necessary to support ALAS turnover in cells and regulate heme production during erythropoiesis. POLDIP2 directly recognized and recruited heme-bound ALAS to CLPXP. Degradation initiation required a carboxyl-terminal element of ALAS, truncations of which cause an erythropoietic protoporphyria. Our findings establish a mechanism for conditional degradation by CLPXP that underlies erythropoietic protoporphyrias linked to CLPX and ALAS.</description>
-    </item>
-    <item>
-      <title>Rewiring the paralyzed body’s false alarm</title>
-      <link>https://doi.org/10.1126/science.aej5900</link>
-      <guid isPermaLink="false">10.1126/science.aej5900</guid>
-
-      <dc:creator>Jan Elaine Soriano</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jan Elaine Soriano
-
-Journal: Science; Volume: 393; Issue: 6810; Pages: 470-471
-
-Abstract: Autonomic dysreflexia can be reversed using epidural electrical neuromodulation</description>
     </item>
     <item>
       <title>Enabling sustainable supply of the essential cancer medicines etoposide and teniposide in yeast</title>
@@ -1072,17 +1072,24 @@ Journal: Science; Volume: 393; Issue: 6810; Article number: aef5438
 Abstract: Lignans constitute a diverse family of plant metabolites with therapeutic potential. Among them, podophyllotoxin-type aryltetralin lignans serve as precursors for etoposide and teniposide. Etoposide is an essential anticancer medicine approved for first-line treatment of small cell lung cancer, whereas teniposide is used for treatment of leukemia and some brain tumors. Currently, these drugs depend on extraction of precursors from the endangered plant Sinopodophyllum hexandrum , followed by chemical transformations. By identifying key glycosyltransferases and executing more than 60 genetic edits involving 45 heterologous enzymes, the complex biosynthetic pathway of podophyllotoxin-type lignans was reconstructed in yeast. In this study, we established a chemoenzymatic route that streamlines the synthesis of etoposide and teniposide through a single chemical step from biosynthetic precursor 4′-demethyl-epipodophyllotoxin-4 -O- glucoside, which enables a secure supply chain of these essential medicines.</description>
     </item>
     <item>
-      <title>AI’s top startups are barely publishing their research</title>
-      <link>https://doi.org/10.1126/science.ael0166</link>
-      <guid isPermaLink="false">10.1126/science.ael0166</guid>
+      <title>Calcium isotopes link ocean acidification to Aptian–Albian foraminiferal extinctions</title>
+      <link>https://doi.org/10.1126/science.aed9359</link>
+      <guid isPermaLink="false">10.1126/science.aed9359</guid>
 
-      <dc:creator>Celina Zhao</dc:creator>
+      <dc:creator>Jonathan Chen</dc:creator>
+      <dc:creator>Andrew D. Jacobson</dc:creator>
+      <dc:creator>Brian T. Huber</dc:creator>
+      <dc:creator>Kenneth G. MacLeod</dc:creator>
+      <dc:creator>Chuyan Wan</dc:creator>
+      <dc:creator>Anna R. Waldeck</dc:creator>
+      <dc:creator>Barbara Balestra</dc:creator>
+      <dc:creator>Bradley B. Sageman</dc:creator>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Celina Zhao
+      <description>Authors: Jonathan Chen, Andrew D. Jacobson, Brian T. Huber, Kenneth G. MacLeod, Chuyan Wan, Anna R. Waldeck, Barbara Balestra, Bradley B. Sageman
 
-Journal: Science; Volume: 393; Issue: 6810; Pages: 447-448
+Journal: Science; Volume: 393; Issue: 6810; Pages: 527-531
 
-Abstract: More than half of AI “unicorns” have never published a paper or preprint</description>
+Abstract: The second-largest extinction event in the evolutionary history of planktic foraminifera occurred at the Aptian–Albian boundary. This extinction may reflect ocean acidification (OA) associated with Oceanic Anoxic Event 1b. As calcium isotope ratios (δ 44/40 Ca) can track how biocalcification rates respond to OA, we measured δ 44/40 Ca records for planktic and benthic foraminifera, bulk carbonates, and authigenic calcite across the Aptian–Albian boundary in the South Atlantic. Benthic and bulk δ 44/40 Ca data display a distinct sequence of negative and positive excursions, similar to δ 44/40 Ca variations across other OA events. Planktic δ 44/40 Ca values increase markedly, tracking a reduction in calcification rates coincident with decreases in the size, diversity, and shell thickness of planktic foraminifera. These results suggest that OA drove extinctions of planktic foraminifera at the Aptian–Albian boundary.</description>
     </item>
     <item>
       <title>Supergene control of chiral development in mirror-image flowers</title>
@@ -1119,24 +1126,17 @@ Journal: Science; Volume: 393; Issue: 6810; Pages: 458-459
 Abstract: The Great American Biotic Interchange informs the dynamics of modern species invasions</description>
     </item>
     <item>
-      <title>Calcium isotopes link ocean acidification to Aptian–Albian foraminiferal extinctions</title>
-      <link>https://doi.org/10.1126/science.aed9359</link>
-      <guid isPermaLink="false">10.1126/science.aed9359</guid>
+      <title>AI’s top startups are barely publishing their research</title>
+      <link>https://doi.org/10.1126/science.ael0166</link>
+      <guid isPermaLink="false">10.1126/science.ael0166</guid>
 
-      <dc:creator>Jonathan Chen</dc:creator>
-      <dc:creator>Andrew D. Jacobson</dc:creator>
-      <dc:creator>Brian T. Huber</dc:creator>
-      <dc:creator>Kenneth G. MacLeod</dc:creator>
-      <dc:creator>Chuyan Wan</dc:creator>
-      <dc:creator>Anna R. Waldeck</dc:creator>
-      <dc:creator>Barbara Balestra</dc:creator>
-      <dc:creator>Bradley B. Sageman</dc:creator>
+      <dc:creator>Celina Zhao</dc:creator>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jonathan Chen, Andrew D. Jacobson, Brian T. Huber, Kenneth G. MacLeod, Chuyan Wan, Anna R. Waldeck, Barbara Balestra, Bradley B. Sageman
+      <description>Authors: Celina Zhao
 
-Journal: Science; Volume: 393; Issue: 6810; Pages: 527-531
+Journal: Science; Volume: 393; Issue: 6810; Pages: 447-448
 
-Abstract: The second-largest extinction event in the evolutionary history of planktic foraminifera occurred at the Aptian–Albian boundary. This extinction may reflect ocean acidification (OA) associated with Oceanic Anoxic Event 1b. As calcium isotope ratios (δ 44/40 Ca) can track how biocalcification rates respond to OA, we measured δ 44/40 Ca records for planktic and benthic foraminifera, bulk carbonates, and authigenic calcite across the Aptian–Albian boundary in the South Atlantic. Benthic and bulk δ 44/40 Ca data display a distinct sequence of negative and positive excursions, similar to δ 44/40 Ca variations across other OA events. Planktic δ 44/40 Ca values increase markedly, tracking a reduction in calcification rates coincident with decreases in the size, diversity, and shell thickness of planktic foraminifera. These results suggest that OA drove extinctions of planktic foraminifera at the Aptian–Albian boundary.</description>
+Abstract: More than half of AI “unicorns” have never published a paper or preprint</description>
     </item>
     <item>
       <title>Beyond the scales: Marine archaeogenomics for the conservation and restoration of fisheries</title>
@@ -1175,6 +1175,19 @@ Journal: Science; Volume: 393; Issue: 6810; Article number: eaej7915</descriptio
 Journal: Science; Volume: 393; Issue: 6810; Pages: 469-469</description>
     </item>
     <item>
+      <title>Rigor is not readiness: The PERL framework for evidence-based policy</title>
+      <link>https://doi.org/10.1126/science.aef3529</link>
+      <guid isPermaLink="false">10.1126/science.aef3529</guid>
+
+      <dc:creator>Christopher Cotton</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Christopher Cotton
+
+Journal: Science; Volume: 393; Issue: 6810; Pages: 463-465
+
+Abstract: Policy Evidence Readiness Levels help decision-makers assess evidence maturity and uncertainty</description>
+    </item>
+    <item>
       <title>Churn, not crisis, for UK science</title>
       <link>https://doi.org/10.1126/science.aek8701</link>
       <guid isPermaLink="false">10.1126/science.aek8701</guid>
@@ -1187,19 +1200,6 @@ Journal: Science; Volume: 393; Issue: 6810; Pages: 469-469</description>
 Journal: Science; Volume: 393; Issue: 6810; Pages: 439-439
 
 Abstract: When Andy Burnham became the United Kingdom’s prime minister last week, among his first acts was to abolish the Department for Science, Innovation and Technology (DSIT), folding it into a new superministry for Business, Innovation, Science and Trade . The science minister, Patrick Vallance , stepped down the same day. Viewed from the United States, where the federal research system is under pressure, it may be tempting to see Britain’s reshuffle as kindred turmoil and proof that political instability is corroding science on both sides of the Atlantic. That reading would be wrong. Britain has rearranged the machinery of its science policy, not undermined its foundations. The change could sharpen the contribution of UK research to the economic renewal that Burnham has made his defining mission.</description>
-    </item>
-    <item>
-      <title>Rigor is not readiness: The PERL framework for evidence-based policy</title>
-      <link>https://doi.org/10.1126/science.aef3529</link>
-      <guid isPermaLink="false">10.1126/science.aef3529</guid>
-
-      <dc:creator>Christopher Cotton</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Christopher Cotton
-
-Journal: Science; Volume: 393; Issue: 6810; Pages: 463-465
-
-Abstract: Policy Evidence Readiness Levels help decision-makers assess evidence maturity and uncertainty</description>
     </item>
     <item>
       <title>Recovering signatures of archaic hominin introgression using ancestral recombination graphs</title>
