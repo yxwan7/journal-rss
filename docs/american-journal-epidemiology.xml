@@ -5,8 +5,39 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 08:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:37:46 +0000</lastBuildDate>
 
+    <item>
+      <title>Leveraging limited testing data for early detection of emerging infectious disease outbreaks</title>
+      <link>https://doi.org/10.1093/aje/kwag181</link>
+      <guid isPermaLink="false">10.1093/aje/kwag181</guid>
+
+      <dc:creator>Alexander John Zapf</dc:creator>
+      <dc:creator>Marc Lipsitch</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alexander John Zapf, Marc Lipsitch
+
+Journal: American Journal of Epidemiology; Article number: kwag181
+
+Abstract: Abstract Early during emerging infectious disease outbreaks, case-based surveillance is constrained by limited test availability, diagnostic delays, and low clinical suspicion. Novel pathogens that mimic symptoms of established conditions may generate detectable outbreak signals in routine testing data, as infected individuals seek testing for known conditions and test negative. We developed analytic and simulation frameworks using Poisson and negative binomial models to evaluate whether total and negative testing volumes for a clinically similar (“mimicking”) condition can provide timely outbreak warning. We systematically assessed detection performance across variations in baseline test counts, epidemic growth rates, testing fractions among cases, detection threshold stringency, and overdispersion. Detection thresholds based on negative tests consistently outperformed total test thresholds, achieving earlier detection with approximately one-third fewer cumulative cases while maintaining comparable false positive rates. However, reliable detection required stringent conditions: high testing fractions among epidemic cases, low baseline test volumes, and low overdispersion. When testing fractions fell below 5%, epidemic size estimates provided little practical information; above 30%, precision markedly improved. These findings support prioritizing access to disaggregated test result data but caution that this detection approach is best positioned as a resource-efficient complement within integrated surveillance portfolios rather than a standalone early warning system.</description>
+    </item>
+    <item>
+      <title>Characterizing spatiotemporal patterns of case reporting backfill: a case study of COVID-19 reporting in Michigan, 2020–24</title>
+      <link>https://doi.org/10.1093/aje/kwag170</link>
+      <guid isPermaLink="false">10.1093/aje/kwag170</guid>
+
+      <dc:creator>Yannan Niu</dc:creator>
+      <dc:creator>Andrew F Brouwer</dc:creator>
+      <dc:creator>Emily T Martin</dc:creator>
+      <dc:creator>Joseph R Coyle</dc:creator>
+      <dc:creator>Marisa C Eisenberg</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yannan Niu, Andrew F Brouwer, Emily T Martin, Joseph R Coyle, Marisa C Eisenberg
+
+Journal: American Journal of Epidemiology; Article number: kwag170
+
+Abstract: Abstract Backfill is the process of revising case data, often by retrospectively assigning or reassigning newly reported cases to their associated earlier symptom onset dates. Time- and spatial-varying delays in backfill may compromise real-time surveillance and forecasting efforts by obscuring true underlying transmission patterns. Using Michigan COVID-19 case data, we developed a statistical mixture model to describe backfill and geographical and temporal variations. The model combined an exponential process (case reporting delay) and a gamma-distributed process (case reassignment to onset date). Parameters were estimated by regularized maximum likelihood, and the Akaike Information Criterion was used to determine the necessity of the reassignment component for each date. We estimated the exponential reporting speed over time and space and, if appropriate, the weight, transient peak, and time of case reassignment. We found that case reporting improved over the pandemic: reporting speed increased over time (with substantial day-to-day variation), and case reassignments were processed faster. We also identified potential regional disparities: regions with population densities below 50 people/km2 had slower backfill speeds. These findings provide critical insights about the evolution of case reporting and backfill dynamics that can be leveraged for “nowcasting” models to complete real-time surveillance data, ultimately improving outbreak preparedness and response.</description>
+    </item>
     <item>
       <title>Intersection is Interaction</title>
       <link>https://doi.org/10.1093/aje/kwag187</link>
@@ -303,7 +334,7 @@ Abstract: Abstract Epidemiologists are sometimes interested in estimating multip
       <description>Journal: American Journal of Epidemiology; Article number: kwag164</description>
     </item>
     <item>
-      <title>Shifting Burden of Childhood Cancer Mortality in the United States: Progress and Persistent Inequities</title>
+      <title>Shifting burden of childhood cancer mortality in the United States: progress and persistent inequities</title>
       <link>https://doi.org/10.1093/aje/kwag169</link>
       <guid isPermaLink="false">10.1093/aje/kwag169</guid>
 
@@ -320,7 +351,7 @@ Abstract: Abstract Epidemiologists are sometimes interested in estimating multip
 
 Journal: American Journal of Epidemiology; Article number: kwag169
 
-Abstract: Abstract While 5-year survival following childhood cancer rose greatly from ~60% in the mid-1970s to 85% today, inequities persist and conventional survival metrics obscure the true burden and shifting distribution of deaths. To address this, we used Surveillance, Epidemiology, and End Results registries to evaluate excess mortality rates and counts (AER and AEC), new metrics quantifying mortality attributable to childhood cancer, among 47,545 U.S. children diagnosed before age 20 during 1975-2014, with follow-up through 2018. We quantified trends across subgroups and assessed modification by county-level income and rurality. AER declined across groups but at different magnitudes. From 1975-79 to 2010-14, declines were 75% in non-Hispanic White (NHW), 62% in non-Hispanic Black, and ~63% in Hispanic and Asian/Pacific Islander children. Among non-Hispanic American Indian/Alaska Native children, AER fell briefly with no clear improvement subsequently. Absolute burden shifted: AEC fell among NHW (8,874 in 1990-94 to 5,134 in 2010-14) but rose among other subgroups (4,826 to 5,213). By 2010-14, non-NHW children accounted for more deaths despite &amp;amp;gt;15,000 fewer diagnoses than NHW children. These findings show a shifting national burden: despite overall survival gains, persistent and sometimes worsening inequities mean deaths are increasingly concentrated among non-NHW subgroups.</description>
+Abstract: Abstract While 5-year survival following childhood cancer rose greatly from ~60% in the mid-1970s to 85% today, inequities persist and conventional survival metrics obscure the true burden and shifting distribution of deaths. To address this, we used Surveillance, Epidemiology, and End Results registries to evaluate excess mortality rates and counts (AER and AEC), new metrics quantifying mortality attributable to childhood cancer, among 47 545 US children diagnosed before age 20 during 1975-2014, with follow-up through 2018. We quantified trends across subgroups and assessed modification by county-level income and rurality. AER declined across groups but at different magnitudes. From 1975-1979 to 2010-2014, declines were 75% in non-Hispanic White (NHW), 62% in non-Hispanic Black, and ~63% in Hispanic and Asian/Pacific Islander children. Among non-Hispanic American Indian/Alaska Native children, AER fell briefly with no clear improvement subsequently. Absolute burden shifted: AEC fell among NHW (8874 in 1990-1994 to 5134 in 2010-2014) but rose among other subgroups (4826 to 5213). By 2010-2014, non-NHW children accounted for more deaths despite &amp;amp;gt;15 000 fewer diagnoses than NHW children. These findings show a shifting national burden: Despite overall survival gains, persistent and sometimes worsening inequities mean deaths are increasingly concentrated among non-NHW subgroups.</description>
     </item>
     <item>
       <title>Multidimensional social exposure clusters and incident multimorbidity in a population-based cohort</title>
@@ -455,7 +486,7 @@ Abstract: Abstract Sexual minority (SM) people may be at increased risk of “un
 
 Journal: American Journal of Epidemiology; Article number: kwag157
 
-Abstract: Abstract We study life-expectancy loss (LEL) from the COVID-19 pandemic in the U.S. from March 2020 through April 2023. We use individual-level death-certificate data and the cohort-based approach to life expectancy. We also examine how LEL varies with age, gender, race/ethnicity, county-level socio-economic status (county-SES). The U.S. recorded 983 000 COVID-19 deaths. The COVID-19 Mortality Rate (COVID-MR, the fraction of the population who died of COVID-19) was 0.30%. An upper bound estimate of years of life lost per person (YLL) is 14.6 years (thus population loss of 14.32 million life-years). Estimated LEL based on this YLL estimate was 0.043 years (16 days). However, LEL rose rapidly with age averaging 8 weeks for ages 75+. LEL was substantially higher for Native Americans, Blacks, and Hispanics than for Whites at all ages. LEL also increased as county-SES decreased. Our cohort-based LEL estimates are a small fraction of period-based estimates during the pandemic, which were based on mortality in a particular year and assumed the pandemic would continue indefinitely with no change in severity. Using current life expectancies, cohort-based LEL for the COVI|D-19 pandemic was a fraction of LEL for the 1918 influenza pandemic (14 weeks), but well above three recent, severe influenza seasons (average of 0.12 weeks).</description>
+Abstract: Abstract We study life expectancy loss (LEL) from the COVID-19 pandemic in the United States from March 2020 through April 2023. We use individual-level death-certificate data and the cohort-based approach to life expectancy. We also examine how LEL varies with age, gender, race/ethnicity, and county-level socioeconomic status (county-SES). The United States recorded 983 000 COVID-19 deaths. The COVID-19 mortality rate (the fraction of the population who died of COVID-19) was 0.30%. An upper bound estimate of years of life lost per person (YLL) is 14.6 years (thus population loss of 14.32 million life-years). Estimated LEL based on this YLL estimate is 0.043 years (16 days). However, LEL rose rapidly with age averaging 8 weeks for ages 75+. LEL was substantially higher for Native Americans, Blacks, and Hispanics than for Whites at all ages, but lower for Asians. LEL also increased as county-SES decreased. Our cohort-based LEL estimates are a small fraction of period-based estimates during the pandemic, which were based on mortality in a particular year and assumed the pandemic would continue indefinitely with no change in severity. Using current life expectancies, cohort-based LEL for the COVID-19 pandemic was a fraction of LEL for the 1918 influenza pandemic (14 weeks), but well above 3 recent, severe influenza seasons (average of 0.12 weeks).</description>
     </item>
     <item>
       <title>Validation of a self-harm prediction model in black youth seeking outpatient mental health care</title>
@@ -1080,7 +1111,7 @@ Abstract: Abstract We aimed to examine the longitudinal and directional associat
 
 Journal: American Journal of Epidemiology; Article number: kwag120
 
-Abstract: Abstract Random-effects meta-analysis typically assumes a normal distribution for the underlying effects of the studies. However, under certain conditions, this assumption may not be the most appropriate. Simulation studies comparing several alternative random-effects models have found small differences in bias but larger differences in coverage probabilities and precision. To investigate the impact of using different meta-analysis models, we used a meta-analysis of 58 cohort studies comparing the cognitive functioning between preterm- and term-born children. We compared the results between seven different random-effects models based on: asymmetric distributions, mixtures of distributions and Dirichlet process (DP) prior. Sensitivity analysis using variations of the seven main models was also performed. While estimates for mean treatment effect were similar across models, the between-study variance estimates were identical. Asymmetric distribution models indicated studies with extreme effects and a left-shifted random-effects distribution while mixture models were less informative. DP models revealed clusters of studies with similar characteristics, suggesting that the observed heterogeneity may be partially explained by certain methodological and clinical characteristics of the studies. Overall, our study highlights that applying various meta-analysis models might not affect materially the summary estimates but may provide better insights into the underlying effects’ distribution and the explanation of between-study variance.</description>
+Abstract: Abstract Random-effects meta-analysis typically assumes a normal distribution for the underlying effects of the studies. However, under certain conditions, this assumption may not be the most appropriate. Simulation studies comparing several alternative random-effects models have found small differences in bias but larger differences in coverage probabilities and precision. To investigate the impact of using different meta-analysis models, we used a meta-analysis of 58 cohort studies comparing the cognitive functioning between preterm- and term-born children. We compared the results between 7 different random-effects models based on asymmetric distributions, mixtures of distributions, and Dirichlet process (DP) prior. Sensitivity analysis using variations of the 7 main models was also performed. While estimates for mean treatment effect were similar across models, the between-study variance estimates were identical. Asymmetric distribution models indicated studies with extreme effects and a left-shifted random-effects distribution while mixture models were less informative. DP models revealed clusters of studies with similar characteristics, suggesting that the observed heterogeneity may be partially explained by certain methodological and clinical characteristics of the studies. Overall, our study highlights that applying various meta-analysis models might not affect materially the summary estimates but may provide better insights into the underlying effects’ distribution and the explanation of between-study variance.</description>
     </item>
     <item>
       <title>Association of cultural racism with breast cancer survival among US adults, 2018-2020</title>
@@ -1404,7 +1435,7 @@ Journal: American Journal of Epidemiology; Article number: kwag109
 Abstract: Abstract Previous studies have shown that oral health is associated with mortality. However, evidence is lacking on the association between comprehensive oral health indicators and mortality and life expectancy. We used data from the National Health and Nutrition Examination Survey from 1999 to 2018 (adults aged ≥40 years). Oral health was assessed based on tooth loss, periodontitis, self-rated oral health, and the decayed, missing, and filled teeth (DMFT) index. Mortality status was linked to the National Death Index up to December 31, 2019. The Cox proportional hazards model was used to estimate the association between oral health and mortality. Life expectancy was calculated using the life tables. Over 8.3 years (mean follow-up), 3345 deaths occurred. Compared to those with 0-1 tooth lost, no periodontitis, good self-rated oral health, and a very low DMFT index, the risk of all-cause mortality for individuals with 22-28 teeth lost, severe periodontitis, poor self-rated oral health, and high DMFT index increased by 59%-89%, resulting in an estimated loss of life expectancy of 4.6-6.4 years at age 50. This study found that poor oral health was associated with a higher risk of mortality and a shorter life expectancy.</description>
     </item>
     <item>
-      <title>Impact of Reminder Strategies on Survey Response in Older Adults: A Randomized Trial in Japan</title>
+      <title>Impact of reminder strategies on survey response in older adults: a randomized trial in Japan</title>
       <link>https://doi.org/10.1093/aje/kwag080</link>
       <guid isPermaLink="false">10.1093/aje/kwag080</guid>
 
@@ -1419,7 +1450,7 @@ Abstract: Abstract Previous studies have shown that oral health is associated wi
 
 Journal: American Journal of Epidemiology; Article number: kwag080
 
-Abstract: Abstract Background: Declining postal survey response rates, especially among older adults, threaten research validity. This study evaluated the effectiveness and cost-effectiveness of two reminder strategies—a postcard and a re-sent questionnaire—issued seven months after initial mailing among older Japanese adults. Methods: We conducted a three-arm randomized controlled trial with 1500 adults aged 48–88 years from the Japan Multi-Institutional Collaborative Cohort Chiba cohort. Non-respondents to a survey mailed seven months were randomized equally to: (1) no reminder, (2) reminder postcard, or (3) re-sent questionnaire with prepaid envelope. The primary outcome was response within 60 days. Logistic regression estimated adjusted ORs. Results: Final sample sizes were 492, 486, and 487 participants. Response rates were 0.8% (control), 12.1% (postcard), and 35.5% (re-sent questionnaire) (P &amp;amp;lt; 0.001). Both interventions significantly increased responses, with no evidence of effect modification by age, sex, or educational attainment. Most responses occurred within two weeks. Cost per response was ¥867 for postcards versus ¥503 for re-sent questionnaires. Conclusion: Both reminder strategies significantly improved response rates versus no reminder. The re-sent questionnaire achieved the highest response and best cost-effectiveness, when implemented seven months after the initial mailing. Re-sending questionnaires should be prioritized to enhance participation in surveys targeting aging populations.</description>
+Abstract: Abstract Declining postal survey response rates, especially among older adults, threaten research validity. This study evaluated the effectiveness and cost-effectiveness of 2 reminder strategies—a postcard and a re-sent questionnaire—issued 7 months after initial mailing among older Japanese adults. We conducted a 3-arm randomized controlled trial with 1500 adults aged 48-88 years from the Japan Multi-Institutional Collaborative Cohort Chiba cohort. Non-respondents to a survey mailed 7 months prior were randomized equally to: (1) no reminder, (2) a reminder postcard, or (3) a re-sent questionnaire with a prepaid envelope. The primary outcome was response within 60 days. Logistic regression was used to estimate adjusted odds ratios. The final sample sizes were 492, 486, and 487 participants, with the response rates of 0.8%, 12.1%, and 35.5% for the control, postcard, and re-sent questionnaire groups, respectively (P &amp;amp;lt; .001). Both interventions significantly increased responses, with no evidence of effect modification by age, sex, or educational attainment. Most responses occurred within 2 weeks. Cost per response was ¥867 for postcards vs ¥503 for re-sent questionnaires. Both reminder strategies significantly improved response rates vs no reminder. The re-sent questionnaire achieved the highest response and best cost-effectiveness, when implemented 7 months after the initial mailing. Re-sending questionnaires should be prioritized to enhance participation in surveys targeting aging populations.</description>
     </item>
     <item>
       <title>COVID-19 vaccination in pregnancy and postpartum and human milk feeding non-initiation and discontinuation</title>
@@ -1663,37 +1694,6 @@ Journal: American Journal of Epidemiology; Article number: kwag092</description>
 Journal: American Journal of Epidemiology; Article number: kwag093
 
 Abstract: Abstract Positivity and causal consistency are sometimes presented as general validity requirements. Positivity, however, is not a general requirement for causal inference and does not address the more demanding practical needs for adequate numbers of observations. Common statistical methods in health and medical research depend on large-sample approximations; yet, approximation accuracy is rarely discussed in research reports, even in cases where it has clearly failed. Prioritization by generality and practical importance shifts the emphasis to approximation accuracy over positivity, with the latter better cast as a technical requirement for specific types of methods. Meanwhile, consistency mixes requirements for operationally clear definitions of treatments with more general needs for accurate measurement. All statistical methods depend on conceptual precision and measurement accuracy; hence, those conditions belong among fundamental requirements for valid inferences, alongside control of selection bias and confounding. When measurement problems are addressed in the basic assumptions of formalizations, consistency can be seen as a definition of the targeted outcome variable in a causal model, rather than a central assumption that mixes separate concerns about construct ambiguity and coarsening.</description>
-    </item>
-    <item>
-      <title>Estimate an Exposure Response Function with Negative Controls: A Bayesian Nonparametric Approach</title>
-      <link>https://doi.org/10.1093/aje/kwag073</link>
-      <guid isPermaLink="false">10.1093/aje/kwag073</guid>
-
-      <dc:creator>Jie Kate Hu</dc:creator>
-      <dc:creator>Dafne Zorzetto</dc:creator>
-      <dc:creator>Francesca Dominici</dc:creator>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jie Kate Hu, Dafne Zorzetto, Francesca Dominici
-
-Journal: American Journal of Epidemiology; Article number: kwag073
-
-Abstract: Abstract Unmeasured confounding bias threatens the validity of observational studies. Although sensitivity analyses and study designs have been proposed to address this problem, they often overlook the growing availability of auxiliary data. Using negative controls from these data is a promising new approach to reduce unmeasured confounding bias. In this article, we develop a Bayesian nonparametric method to estimate a causal exposureresponse function (CERF) using information from negative controls to adjust for unmeasured confounding for continuous exposures. We model the CERF as a mixture of linear models. This strategy captures the potential nonlinear shape of CERFs while maintaining computational efficiency, and it leverages closed-form results that hold under the linear model assumption. We assess the performance of our method through simulation studies. We find that the proposed method can recover the true shape of the CERF in the presence of unmeasured confounding under assumptions. To show the practical utility of our approach, we apply it to adjust for a possible unmeasured confounder when evaluating the relationship between long-term exposure to ambient PM2.5 and cardiovascular hospitalization rates among the elderly in the continental US. We implement our estimation procedure in open source software and have made the code publicly available to ensure reproducibility.</description>
-    </item>
-    <item>
-      <title>The link between life satisfaction and outcome-wide health: evidence from the Canadian Longitudinal Study on Aging</title>
-      <link>https://doi.org/10.1093/aje/kwag088</link>
-      <guid isPermaLink="false">10.1093/aje/kwag088</guid>
-
-      <dc:creator>Sofia L Panasiuk</dc:creator>
-      <dc:creator>Laura C Rosella</dc:creator>
-      <dc:creator>Elizabeth Page-Gould</dc:creator>
-      <dc:creator>Felix Cheung</dc:creator>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sofia L Panasiuk, Laura C Rosella, Elizabeth Page-Gould, Felix Cheung
-
-Journal: American Journal of Epidemiology; Article number: kwag088
-
-Abstract: Abstract A promising avenue for improving physical health and reducing health risks in older adulthood is intervening on transdiagnostic protective factors—those that form the mechanisms of several diseases. A potential candidate for a transdiagnostic protective factor is subjective well-being (SWB). Despite accumulating evidence favoring SWB as a protective factor, individual studies tend to neglect the cumulative effect of publication bias, explicitly specifying a causal model, and the possibility of alternative causal models that guide the selection of confounders. Using 3 waves of longitudinal data from the Canadian Longitudinal Study on Aging with a sample of 51 338 older adults, we tested whether the relationships between life satisfaction and 23 health outcomes (e.g., cancer, arthritis, asthma) were robust to alternative causal model specifications. An increase in life satisfaction, according to the preferred causal model, predicted a 3%-31% reduction in the risk of diagnosis for several health outcomes 3 years later—including osteoarthritis, movement disorders, and respiratory tract diseases—and predicted greater self-rated general health. Importantly, these effects persisted under different causal model specifications. These results suggest that life satisfaction is prospectively linked to multiple positive health outcomes and demonstrate the value of an analytical framework that acknowledges the uncertainty inherent in confounder selection.</description>
     </item>
   </channel>
 </rss>

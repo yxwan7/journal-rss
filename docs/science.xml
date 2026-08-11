@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 08:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:37:16 +0000</lastBuildDate>
 
     <item>
       <title>Dengue vaccines need long-term surveillance</title>
@@ -104,6 +104,17 @@ Journal: Science; Volume: 393; Issue: 6811; Pages: 551-552
 Abstract: Global ice or ocean changes may explain a mysterious lag in the gas’ rise</description>
     </item>
     <item>
+      <title>The bridge between science and policy: How IPBES redefined global conservation policy and its path to societal impact</title>
+      <link>https://doi.org/10.1126/science.aek0207</link>
+      <guid isPermaLink="false">10.1126/science.aek0207</guid>
+
+      <dc:creator>Patricia Miloslavich</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Patricia Miloslavich
+
+Journal: Science; Volume: 393; Issue: 6811; Article number: eaek0207</description>
+    </item>
+    <item>
       <title>Decadal doubling of Siberian methane emissions due to warming-induced fires and methanogenesis</title>
       <link>https://doi.org/10.1126/science.aea5828</link>
       <guid isPermaLink="false">10.1126/science.aea5828</guid>
@@ -122,17 +133,6 @@ Abstract: Global ice or ocean changes may explain a mysterious lag in the gas’
 Journal: Science; Volume: 393; Issue: 6811; Pages: 615-621
 
 Abstract: The northern permafrost region, which stores double the amount of carbon in the atmosphere, is vulnerable to accelerated warming. Methane emissions from thawing permafrost may eventually result in a climate-carbon feedback. Our analysis of atmospheric methane data shows that Siberian growing-season methane emissions have increased by 12.0 ± 1.9 teragrams of methane (TgCH 4 ) (5% per year) over the period 2010–2023. We reveal contrasting Siberian hydrological trends linked to high-pressure systems and distinct air-sea-land interactions. Warmer, drier conditions over eastern Siberia enhance fire-related emissions (0.7 ± 0.1 TgCH 4 year −2 ), and wetter conditions over western Siberia promote wetland-related emissions (0.4 ± 0.1 TgCH 4 year −2 ). Weakly nonlinear relationships between temperature maxima and emissions suggest that by 2050, higher Siberian emissions could offset about 20% of the global methane reduction required for climate targets, with eastern Siberia dominating the projected increase.</description>
-    </item>
-    <item>
-      <title>The bridge between science and policy: How IPBES redefined global conservation policy and its path to societal impact</title>
-      <link>https://doi.org/10.1126/science.aek0207</link>
-      <guid isPermaLink="false">10.1126/science.aek0207</guid>
-
-      <dc:creator>Patricia Miloslavich</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Patricia Miloslavich
-
-Journal: Science; Volume: 393; Issue: 6811; Article number: eaek0207</description>
     </item>
     <item>
       <title>Change comes for science publishing paradigms
@@ -680,19 +680,6 @@ Journal: Science; Volume: 393; Issue: 6810; Article number: eaef3178
 Abstract: Defense-associated reverse transcriptases (DRTs) transcribe noncoding RNAs (ncRNAs) for antiviral defense, but the mechanisms of ncRNA-independent DRTs remain unclear. In this work, we show that a single DRT4 mediates RNA-targeting antiphage defense by integrating DNA polymerase, exonuclease, and RNA endonuclease activities. First, through an equilibrium between its DNA polymerase and exonuclease activities, DRT4 senses phage infection, as elevated deoxynucleotide triphosphate levels shift the equilibrium toward polymerase activity, thereby promoting protein-primed single-stranded DNA (ssDNA) synthesis. Second, ssDNA of sufficient length, phage DNA binding proteins, and deoxyguanosine triphosphate collectively activate an unusual RNA endonuclease activity of DRT4, excising guanosine 3′-monophosphate from both phage and host RNA to terminate infection. These findings reveal a distinctive immune strategy combining nucleic acid synthesis and degradation, expanding the functional landscape of DRTs for new DNA- and RNA-processing technologies.</description>
     </item>
     <item>
-      <title>Surfacing brain stimulation</title>
-      <link>https://doi.org/10.1126/science.aej5902</link>
-      <guid isPermaLink="false">10.1126/science.aej5902</guid>
-
-      <dc:creator>Jianxun Ren</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jianxun Ren
-
-Journal: Science; Volume: 393; Issue: 6810; Pages: 471-471
-
-Abstract: Brain functional circuits can guide precision surface brain stimulation</description>
-    </item>
-    <item>
       <title>Spatiotemporal multiomics uncover tumor ecosystem dynamics during metastatic colonization</title>
       <link>https://doi.org/10.1126/science.adz7928</link>
       <guid isPermaLink="false">10.1126/science.adz7928</guid>
@@ -711,6 +698,19 @@ Abstract: Brain functional circuits can guide precision surface brain stimulatio
 Journal: Science; Volume: 393; Issue: 6810; Article number: eadz7928
 
 Abstract: The mechanisms underlying the interactions between disseminated tumor cells (DTCs) and their tissue microenvironment during metastatic colonization are currently poorly understood. We integrated multimodal single-cell and spatial profiling from liver cancer mouse models and human metastases to track the spatiotemporal dynamics of DTCs and their microenvironments from single-cell seeding to overt lung metastasis. We identified a residual population of quiescent Phgdh high DTCs that survived initial innate immune clearance and became transiently enriched in micrometastases. These cells shaped an immune-scarce microenvironment through PHGDH-dependent, H3K27me3-mediated epigenetic silencing of chemokine transcription, thereby promoting metastatic expansion. Cx3cr1 high interstitial macrophages were also transiently enriched before DTC expansion, creating an immune-privileged niche for metastatic outgrowth by recruiting immunosuppressive cells. Inactivating the PHGDH-H3K27me3 axis in DTCs or depleting interstitial macrophages restored immune surveillance and inhibited metastatic colonization. These findings provide insights into the development of micrometastasis-targeting regimens.</description>
+    </item>
+    <item>
+      <title>Surfacing brain stimulation</title>
+      <link>https://doi.org/10.1126/science.aej5902</link>
+      <guid isPermaLink="false">10.1126/science.aej5902</guid>
+
+      <dc:creator>Jianxun Ren</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jianxun Ren
+
+Journal: Science; Volume: 393; Issue: 6810; Pages: 471-471
+
+Abstract: Brain functional circuits can guide precision surface brain stimulation</description>
     </item>
     <item>
       <title>NIH is again terminating politically sensitive grants</title>
@@ -1072,24 +1072,17 @@ Journal: Science; Volume: 393; Issue: 6810; Article number: aef5438
 Abstract: Lignans constitute a diverse family of plant metabolites with therapeutic potential. Among them, podophyllotoxin-type aryltetralin lignans serve as precursors for etoposide and teniposide. Etoposide is an essential anticancer medicine approved for first-line treatment of small cell lung cancer, whereas teniposide is used for treatment of leukemia and some brain tumors. Currently, these drugs depend on extraction of precursors from the endangered plant Sinopodophyllum hexandrum , followed by chemical transformations. By identifying key glycosyltransferases and executing more than 60 genetic edits involving 45 heterologous enzymes, the complex biosynthetic pathway of podophyllotoxin-type lignans was reconstructed in yeast. In this study, we established a chemoenzymatic route that streamlines the synthesis of etoposide and teniposide through a single chemical step from biosynthetic precursor 4′-demethyl-epipodophyllotoxin-4 -O- glucoside, which enables a secure supply chain of these essential medicines.</description>
     </item>
     <item>
-      <title>Calcium isotopes link ocean acidification to Aptian–Albian foraminiferal extinctions</title>
-      <link>https://doi.org/10.1126/science.aed9359</link>
-      <guid isPermaLink="false">10.1126/science.aed9359</guid>
+      <title>AI’s top startups are barely publishing their research</title>
+      <link>https://doi.org/10.1126/science.ael0166</link>
+      <guid isPermaLink="false">10.1126/science.ael0166</guid>
 
-      <dc:creator>Jonathan Chen</dc:creator>
-      <dc:creator>Andrew D. Jacobson</dc:creator>
-      <dc:creator>Brian T. Huber</dc:creator>
-      <dc:creator>Kenneth G. MacLeod</dc:creator>
-      <dc:creator>Chuyan Wan</dc:creator>
-      <dc:creator>Anna R. Waldeck</dc:creator>
-      <dc:creator>Barbara Balestra</dc:creator>
-      <dc:creator>Bradley B. Sageman</dc:creator>
+      <dc:creator>Celina Zhao</dc:creator>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jonathan Chen, Andrew D. Jacobson, Brian T. Huber, Kenneth G. MacLeod, Chuyan Wan, Anna R. Waldeck, Barbara Balestra, Bradley B. Sageman
+      <description>Authors: Celina Zhao
 
-Journal: Science; Volume: 393; Issue: 6810; Pages: 527-531
+Journal: Science; Volume: 393; Issue: 6810; Pages: 447-448
 
-Abstract: The second-largest extinction event in the evolutionary history of planktic foraminifera occurred at the Aptian–Albian boundary. This extinction may reflect ocean acidification (OA) associated with Oceanic Anoxic Event 1b. As calcium isotope ratios (δ 44/40 Ca) can track how biocalcification rates respond to OA, we measured δ 44/40 Ca records for planktic and benthic foraminifera, bulk carbonates, and authigenic calcite across the Aptian–Albian boundary in the South Atlantic. Benthic and bulk δ 44/40 Ca data display a distinct sequence of negative and positive excursions, similar to δ 44/40 Ca variations across other OA events. Planktic δ 44/40 Ca values increase markedly, tracking a reduction in calcification rates coincident with decreases in the size, diversity, and shell thickness of planktic foraminifera. These results suggest that OA drove extinctions of planktic foraminifera at the Aptian–Albian boundary.</description>
+Abstract: More than half of AI “unicorns” have never published a paper or preprint</description>
     </item>
     <item>
       <title>Supergene control of chiral development in mirror-image flowers</title>
@@ -1126,17 +1119,24 @@ Journal: Science; Volume: 393; Issue: 6810; Pages: 458-459
 Abstract: The Great American Biotic Interchange informs the dynamics of modern species invasions</description>
     </item>
     <item>
-      <title>AI’s top startups are barely publishing their research</title>
-      <link>https://doi.org/10.1126/science.ael0166</link>
-      <guid isPermaLink="false">10.1126/science.ael0166</guid>
+      <title>Calcium isotopes link ocean acidification to Aptian–Albian foraminiferal extinctions</title>
+      <link>https://doi.org/10.1126/science.aed9359</link>
+      <guid isPermaLink="false">10.1126/science.aed9359</guid>
 
-      <dc:creator>Celina Zhao</dc:creator>
+      <dc:creator>Jonathan Chen</dc:creator>
+      <dc:creator>Andrew D. Jacobson</dc:creator>
+      <dc:creator>Brian T. Huber</dc:creator>
+      <dc:creator>Kenneth G. MacLeod</dc:creator>
+      <dc:creator>Chuyan Wan</dc:creator>
+      <dc:creator>Anna R. Waldeck</dc:creator>
+      <dc:creator>Barbara Balestra</dc:creator>
+      <dc:creator>Bradley B. Sageman</dc:creator>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Celina Zhao
+      <description>Authors: Jonathan Chen, Andrew D. Jacobson, Brian T. Huber, Kenneth G. MacLeod, Chuyan Wan, Anna R. Waldeck, Barbara Balestra, Bradley B. Sageman
 
-Journal: Science; Volume: 393; Issue: 6810; Pages: 447-448
+Journal: Science; Volume: 393; Issue: 6810; Pages: 527-531
 
-Abstract: More than half of AI “unicorns” have never published a paper or preprint</description>
+Abstract: The second-largest extinction event in the evolutionary history of planktic foraminifera occurred at the Aptian–Albian boundary. This extinction may reflect ocean acidification (OA) associated with Oceanic Anoxic Event 1b. As calcium isotope ratios (δ 44/40 Ca) can track how biocalcification rates respond to OA, we measured δ 44/40 Ca records for planktic and benthic foraminifera, bulk carbonates, and authigenic calcite across the Aptian–Albian boundary in the South Atlantic. Benthic and bulk δ 44/40 Ca data display a distinct sequence of negative and positive excursions, similar to δ 44/40 Ca variations across other OA events. Planktic δ 44/40 Ca values increase markedly, tracking a reduction in calcification rates coincident with decreases in the size, diversity, and shell thickness of planktic foraminifera. These results suggest that OA drove extinctions of planktic foraminifera at the Aptian–Albian boundary.</description>
     </item>
     <item>
       <title>Beyond the scales: Marine archaeogenomics for the conservation and restoration of fisheries</title>
@@ -1175,19 +1175,6 @@ Journal: Science; Volume: 393; Issue: 6810; Article number: eaej7915</descriptio
 Journal: Science; Volume: 393; Issue: 6810; Pages: 469-469</description>
     </item>
     <item>
-      <title>Rigor is not readiness: The PERL framework for evidence-based policy</title>
-      <link>https://doi.org/10.1126/science.aef3529</link>
-      <guid isPermaLink="false">10.1126/science.aef3529</guid>
-
-      <dc:creator>Christopher Cotton</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Christopher Cotton
-
-Journal: Science; Volume: 393; Issue: 6810; Pages: 463-465
-
-Abstract: Policy Evidence Readiness Levels help decision-makers assess evidence maturity and uncertainty</description>
-    </item>
-    <item>
       <title>Churn, not crisis, for UK science</title>
       <link>https://doi.org/10.1126/science.aek8701</link>
       <guid isPermaLink="false">10.1126/science.aek8701</guid>
@@ -1200,6 +1187,19 @@ Abstract: Policy Evidence Readiness Levels help decision-makers assess evidence 
 Journal: Science; Volume: 393; Issue: 6810; Pages: 439-439
 
 Abstract: When Andy Burnham became the United Kingdom’s prime minister last week, among his first acts was to abolish the Department for Science, Innovation and Technology (DSIT), folding it into a new superministry for Business, Innovation, Science and Trade . The science minister, Patrick Vallance , stepped down the same day. Viewed from the United States, where the federal research system is under pressure, it may be tempting to see Britain’s reshuffle as kindred turmoil and proof that political instability is corroding science on both sides of the Atlantic. That reading would be wrong. Britain has rearranged the machinery of its science policy, not undermined its foundations. The change could sharpen the contribution of UK research to the economic renewal that Burnham has made his defining mission.</description>
+    </item>
+    <item>
+      <title>Rigor is not readiness: The PERL framework for evidence-based policy</title>
+      <link>https://doi.org/10.1126/science.aef3529</link>
+      <guid isPermaLink="false">10.1126/science.aef3529</guid>
+
+      <dc:creator>Christopher Cotton</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Christopher Cotton
+
+Journal: Science; Volume: 393; Issue: 6810; Pages: 463-465
+
+Abstract: Policy Evidence Readiness Levels help decision-makers assess evidence maturity and uncertainty</description>
     </item>
     <item>
       <title>Recovering signatures of archaic hominin introgression using ancestral recombination graphs</title>
