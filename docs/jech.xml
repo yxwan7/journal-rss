@@ -5,8 +5,27 @@
     <link>https://jech.bmj.com/</link>
     <description>Latest journal articles for Journal of Epidemiology and Community Health</description>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:52:02 +0000</lastBuildDate>
 
+    <item>
+      <title>Educational outcomes for children living in households with adult substance misuse: a national data linkage study in Wales, UK</title>
+      <link>https://doi.org/10.1136/jech-2026-226006</link>
+      <guid isPermaLink="false">10.1136/jech-2026-226006</guid>
+
+      <dc:creator>Ian Farr</dc:creator>
+      <dc:creator>Hywel Turner Evans</dc:creator>
+      <dc:creator>Grace A Bailey</dc:creator>
+      <dc:creator>Gareth Davies</dc:creator>
+      <dc:creator>Columbus Ohaeri</dc:creator>
+      <dc:creator>Delyth James</dc:creator>
+      <dc:creator>Josie Smith</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ian Farr, Hywel Turner Evans, Grace A Bailey, Gareth Davies, Columbus Ohaeri, Delyth James, Josie Smith
+
+Journal: Journal of Epidemiology and Community Health; Pages: jech-2026-226006
+
+Abstract: Background Children in households affected by adult substance misuse face intersecting educational risks. While associations between household adversity and school disengagement are documented, research often relies on siloed or self-report data. This study used national linked data to estimate associations with children’s school attendance and exclusion, using adult health and justice contacts as administrative proxies for substance misuse exposure during household cohabitation. Methods This retrospective cohort study used the Secure Anonymised Information Linkage (SAIL) Databank in Wales. Children aged 11–15 were followed across academic years between 2017 and 2019. Exposure was defined as residing with an adult having either a substance misuse health contact, a justice contact or both health and justice contacts. Outcomes were attendance rate and ever being excluded from school. Multilevel models adjusted for child mental health, special educational needs, adverse childhood experiences and deprivation. Results Among 180 388 children, 14.7% were exposed to household substance misuse. Risks peaked in the combined health and justice group, showing significantly lower attendance (2.81% reduction, CI 2.97 to 2.64) and the highest exclusion odds (OR 6.67, CI 4.01 to 11.08) versus unexposed peers. Deprivation independently predicted poorer outcomes and amplified the negative effects of household adversity. Interpretation Household substance misuse, particularly involving the justice system, is associated with extreme education disruption vulnerability. These risks remain largely invisible in educational records. Policy must prioritise integrated data sharing to improve early identification and cross-sectoral support. Current siloed approaches are insufficient to break the link between household adversity and educational disengagement.</description>
+    </item>
     <item>
       <title>Welcome to September’s
                     &lt;i&gt;JECH&lt;/i&gt;
@@ -1624,23 +1643,6 @@ Abstract: What is a good society and how might we build one? This essay, an edit
 Journal: Journal of Epidemiology and Community Health; Volume: 80; Issue: 6; Pages: 388-392
 
 Abstract: Background We investigated whether ghost gun recovery rates are significantly associated with firearm mortality rates in the following year across California’s 58 counties from 2014 to 2023. Methods We obtained yearly county-level data on ghost guns recovered in California from The Trace’s Gun Violence Data Hub. County-level firearm death counts (total, suicide and homicide) were pulled from the Centers for Disease Control and Prevention’s Restricted-Use Vital Statistics Data. Spatiotemporal models quantified the covariate-adjusted associations between ghost gun recoveries per capita and firearm death rates (total, suicide and homicide) in the following year. Secondary analyses examined suicide and homicide models stratified by sex and race/ethnicity. Results For every 20 ghost guns recovered per 100 000 population, there was an associated 6.4% increase in firearm suicide rate (adjusted incidence rate ratio (aIRR): 1.064, 95% credible interval (CrI) 1.019 to 1.111) in the following year. We found no evidence of a significant ghost gun recovery association with total firearm death rate (aIRR: 1.036, 95% CrI 0.999 to 1.075) and firearm homicide rates (aIRR: 1.002, 95% CrI 0.946 to 1.064). Stratified models for firearm suicide rates suggested variations across sex and racial/ethnic groups, with significant positive associations observed for male (6.5% increase; aIRR: 1.065, 95% CrI 1.017 to 1.115), non-Hispanic white (6.2% increase; aIRR: 1.062, 95% CrI 1.005 to 1.122) and Hispanic (12.6% increase; aIRR: 1.126, 95% CrI 1.031 to 1.230) individuals. A different pattern emerged for firearm homicide death rates, where associations across demographic groups were not statistically significant. Conclusions Practitioners concentrating on suicide prevention efforts should be advised about the threat that ghost guns may present.</description>
-    </item>
-    <item>
-      <title>Accounting for missing data in public health research using a synthesis of statistical and mathematical models</title>
-      <link>https://doi.org/10.1136/jech-2025-224750</link>
-      <guid isPermaLink="false">10.1136/jech-2025-224750</guid>
-
-      <dc:creator>Paul N Zivich</dc:creator>
-      <dc:creator>Bonnie E Shook-Sa</dc:creator>
-      <dc:creator>Stephen R Cole</dc:creator>
-      <dc:creator>Eric T Lofgren</dc:creator>
-      <dc:creator>Jessie K Edwards</dc:creator>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Paul N Zivich, Bonnie E Shook-Sa, Stephen R Cole, Eric T Lofgren, Jessie K Edwards
-
-Journal: Journal of Epidemiology and Community Health; Volume: 80; Issue: 5; Pages: 352-356
-
-Abstract: Introduction Accounting for missing data by imputing or weighting conditional on covariates relies on the variable with missingness being observed at least some of the time for all unique covariate values. This requirement is referred to as positivity, and positivity violations can result in bias. Here, we review a novel approach to addressing positivity violations in the context of systolic blood pressure. Methods To illustrate the proposed approach, we estimate the mean systolic blood pressure among children and adolescents aged 2–17 years old in the USA using data from the 2017–2018 National Health and Nutrition Examination Survey (NHANES). As blood pressure was not measured for those aged 2–7, there exists a positivity violation by design. Using a recently proposed synthesis of statistical and mathematical models, we integrate external information with NHANES to address our motivating question. Results With the synthesis model, the estimated mean systolic blood pressure was 100.5 (95% CI 99.9 to 101.0), which is notably lower than either a complete-case analysis or extrapolation from a statistical model. The synthesis results were supported by a diagnostic comparing the performance of the mathematical model in the positive region. Discussion Positivity violations pose a threat to quantitative medical research, and standard approaches to addressing non-positivity rely on restrictive untestable assumptions. Using a synthesis model, like the one detailed here, offers a viable alternative.</description>
     </item>
   </channel>
 </rss>

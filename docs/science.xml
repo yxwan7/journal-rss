@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:51:42 +0000</lastBuildDate>
 
     <item>
       <title>Dengue vaccines need long-term surveillance</title>
@@ -680,6 +680,19 @@ Journal: Science; Volume: 393; Issue: 6810; Article number: eaef3178
 Abstract: Defense-associated reverse transcriptases (DRTs) transcribe noncoding RNAs (ncRNAs) for antiviral defense, but the mechanisms of ncRNA-independent DRTs remain unclear. In this work, we show that a single DRT4 mediates RNA-targeting antiphage defense by integrating DNA polymerase, exonuclease, and RNA endonuclease activities. First, through an equilibrium between its DNA polymerase and exonuclease activities, DRT4 senses phage infection, as elevated deoxynucleotide triphosphate levels shift the equilibrium toward polymerase activity, thereby promoting protein-primed single-stranded DNA (ssDNA) synthesis. Second, ssDNA of sufficient length, phage DNA binding proteins, and deoxyguanosine triphosphate collectively activate an unusual RNA endonuclease activity of DRT4, excising guanosine 3′-monophosphate from both phage and host RNA to terminate infection. These findings reveal a distinctive immune strategy combining nucleic acid synthesis and degradation, expanding the functional landscape of DRTs for new DNA- and RNA-processing technologies.</description>
     </item>
     <item>
+      <title>Surfacing brain stimulation</title>
+      <link>https://doi.org/10.1126/science.aej5902</link>
+      <guid isPermaLink="false">10.1126/science.aej5902</guid>
+
+      <dc:creator>Jianxun Ren</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jianxun Ren
+
+Journal: Science; Volume: 393; Issue: 6810; Pages: 471-471
+
+Abstract: Brain functional circuits can guide precision surface brain stimulation</description>
+    </item>
+    <item>
       <title>Spatiotemporal multiomics uncover tumor ecosystem dynamics during metastatic colonization</title>
       <link>https://doi.org/10.1126/science.adz7928</link>
       <guid isPermaLink="false">10.1126/science.adz7928</guid>
@@ -698,19 +711,6 @@ Abstract: Defense-associated reverse transcriptases (DRTs) transcribe noncoding 
 Journal: Science; Volume: 393; Issue: 6810; Article number: eadz7928
 
 Abstract: The mechanisms underlying the interactions between disseminated tumor cells (DTCs) and their tissue microenvironment during metastatic colonization are currently poorly understood. We integrated multimodal single-cell and spatial profiling from liver cancer mouse models and human metastases to track the spatiotemporal dynamics of DTCs and their microenvironments from single-cell seeding to overt lung metastasis. We identified a residual population of quiescent Phgdh high DTCs that survived initial innate immune clearance and became transiently enriched in micrometastases. These cells shaped an immune-scarce microenvironment through PHGDH-dependent, H3K27me3-mediated epigenetic silencing of chemokine transcription, thereby promoting metastatic expansion. Cx3cr1 high interstitial macrophages were also transiently enriched before DTC expansion, creating an immune-privileged niche for metastatic outgrowth by recruiting immunosuppressive cells. Inactivating the PHGDH-H3K27me3 axis in DTCs or depleting interstitial macrophages restored immune surveillance and inhibited metastatic colonization. These findings provide insights into the development of micrometastasis-targeting regimens.</description>
-    </item>
-    <item>
-      <title>Surfacing brain stimulation</title>
-      <link>https://doi.org/10.1126/science.aej5902</link>
-      <guid isPermaLink="false">10.1126/science.aej5902</guid>
-
-      <dc:creator>Jianxun Ren</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jianxun Ren
-
-Journal: Science; Volume: 393; Issue: 6810; Pages: 471-471
-
-Abstract: Brain functional circuits can guide precision surface brain stimulation</description>
     </item>
     <item>
       <title>NIH is again terminating politically sensitive grants</title>
