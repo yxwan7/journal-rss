@@ -5,8 +5,75 @@
     <link>https://jamanetwork.com/journals/jamapsychiatry</link>
     <description>Latest journal articles for JAMA Psychiatry</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:54:43 +0000</lastBuildDate>
 
+    <item>
+      <title>Predicting US Army Soldier Suicide-Related Behaviors at the Time of Periodic Health Assessments</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.2410</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2410</guid>
+
+      <dc:creator>Emily R. Edwards</dc:creator>
+      <dc:creator>Shelby Borowski</dc:creator>
+      <dc:creator>Matthew K. Nock</dc:creator>
+      <dc:creator>David M. Benedek</dc:creator>
+      <dc:creator>Kate H. Bentley</dc:creator>
+      <dc:creator>Joseph Geraci</dc:creator>
+      <dc:creator>Sarah M. Gildea</dc:creator>
+      <dc:creator>Marianne Goodman</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Emily R. Edwards, Shelby Borowski, Matthew K. Nock, David M. Benedek, Kate H. Bentley, Joseph Geraci, Sarah M. Gildea, Marianne Goodman, et al.
+
+Journal: JAMA Psychiatry
+
+Abstract: Importance Suicide is the leading cause of death among active-duty US Army soldiers. Evidence-based preventive interventions exist but need to be targeted to be cost-effective. Objectives To develop machine learning models using administrative data available during periodic health assessments (PHAs) to determine eligibility for a remote group dialectical behavior therapy-based skills training intervention for soldiers with elevated risk of suicide or nonfatal suicide attempt. Design, Setting, and Participants From regular US Army soldier PHAs completed from 2015 to 2019, separate 70% training samples were created for suicides and SAs. Each training sample contained all cases and a stratified equal-probability sample of 10 times as many controls, with inverse-probability of selection weights applied to controls. Model performance was evaluated in the remaining 30% test sample. Data analysis was conducted September 2025 through January 2026. Main Outcomes and Measures Suicides were recorded in the National Death Index for soldiers either still in or out of active service. SAs were recorded in US Army records only for soldiers still in active service. A 24-month risk horizon was used because successive PHAs, though designed to occur annually, are sometimes separated by this much time. A loss to follow-up weight was used in the SA model to adjust for leaving service within 24 months. Results PHA data were available from 668 684 regular US Army soldiers. A total of 1 932 243 PHAs (including 85.5% by male soldiers, 46.7% by soldiers aged 28 years or older, and 58.1% by married soldiers) completed during the 2015 to 2019 period were included in analyses. Over 24 months, suicide prevalence was 66.7 per 100 000 (SE = 3.6) and SA prevalence was 704.1 per 100 000 (SE = 14.7) adjusted for loss to follow-up. Test sample area under the receiver operating characteristic curve (AUROC) for suicide was 0.72 (SE = 0.17), with Integrated Calibration Index (ICI) of 0.0003 and Brier score of 0.0007. Test sample AUROC for SA was 0.81 (SE = 0.02), with ICI of 0.0014 and Brier score of 0.0070. Suicide prevalence was meaningfully elevated (at least twice that expected by chance) only in the 5% of PHAs with highest predicted risk (sensitivity = 18.6%; SE = 2.0%). SA risk was elevated only in the 10% of PHAs with highest predicted risk (sensitivity = 46.5%; SE = 1.0%). Predicted probabilities of suicide and SA were correlated (Pearson r = 0.29; t = 233.8; P &amp;amp;amp;lt; .001). Overall, 11.9% of PHAs revealed US Army soldiers at elevated risk of either suicide or SA, and 3.1% were at elevated risk of both outcomes. Conclusions and Relevance Results of this prognostic study suggest that as suicides and SAs have distinct predictors, an attempt to optimize resource allocation will require thoughtful postintervention considerations of costs and benefits of interventions to optimize net benefit.</description>
+    </item>
+    <item>
+      <title>Focused Ultrasound Neuromodulation in Psychiatry—Promises and Challenges</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.2401</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2401</guid>
+
+      <dc:creator>Noah S. Philip</dc:creator>
+      <dc:creator>Mascha van ‘t Wout-Frank</dc:creator>
+      <dc:creator>Amanda R. Arulpragasam</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Noah S. Philip, Mascha van ‘t Wout-Frank, Amanda R. Arulpragasam
+
+Journal: JAMA Psychiatry
+
+Abstract: This article explores the therapeutic potential of low-intensity focused ultrasound to modulate focal brain regions for noninvasive and reversible deep brain stimulation.</description>
+    </item>
+    <item>
+      <title>Longitudinal Precision Functional Mapping in Psychiatry</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.2393</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2393</guid>
+
+      <dc:creator>Peter Manza</dc:creator>
+      <dc:creator>Charles J. Lynch</dc:creator>
+      <dc:creator>Joshua S. Siegel</dc:creator>
+      <dc:creator>Jacqueline A. Clauss</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Peter Manza, Charles J. Lynch, Joshua S. Siegel, Jacqueline A. Clauss
+
+Journal: JAMA Psychiatry
+
+Abstract: This Viewpoint discusses longitudinal precision functional mapping in psychiatry.</description>
+    </item>
+    <item>
+      <title>Depression and SSRI Treatment During Pregnancy—Prioritizing Maternal Mental Health</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.2405</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2405</guid>
+
+      <dc:creator>Katherine L. Wisner</dc:creator>
+      <dc:creator>Tim F. Oberlander</dc:creator>
+      <dc:creator>Lauren M. Osborne</dc:creator>
+      <dc:creator>Krista F. Huybrechts</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Katherine L. Wisner, Tim F. Oberlander, Lauren M. Osborne, Krista F. Huybrechts
+
+Journal: JAMA Psychiatry
+
+Abstract: Importance In the US, 5% to 6% of pregnant patients are treated with selective serotonin reuptake inhibitors (SSRI), primarily for major depressive disorder (MDD), which has a prevalence of about 12%. Psychiatric conditions are a leading cause of maternal morbidity and mortality. MDD is a common disorder that must be treated during pregnancy to improve outcomes for the mother, infant, family, and community. Observations MDD is a complex, multifactorial brain disease arising from genetic, environmental, and epigenetic factors. Factors unique to the perinatal period are associated with additional pathophysiologic changes specific to MDD. Maternal stress and psychiatric illnesses adversely affect fetal and infant outcomes. SSRI are an essential component of perinatal mental health care. Studies that define the benefits of SSRI treatment in pregnancy are fewer than those defining risks; however, several describe adverse effects with drug discontinuation in women with moderate to severe MDD. Evaluating the safety of SSRI treatment during pregnancy has been challenging due to the potential for confounding in observational studies by the underlying indication and associated factors. Once the impact of the drug is disentangled from that of MDD and its sequelae, accumulated evidence suggests that SSRI carry little or no risk for serious adverse outcomes. The thrust of the field has shifted to prioritize treatment of MDD to optimize maternal health. Conclusions and Relevance Meaningful advances in the treatment of perinatal MDD require coordinated attention to multiple aspects of clinical care delivery and research, informed by a perspective accounting for the health needs of 2 generations. Expanding access to care—particularly in maternity, child health, and psychiatric care deserts—is a public health imperative. A structured decision-making process facilitates the provision of balanced information on the potential maternal and fetal risks of untreated or undertreated illness, the benefits of treatment, and the risks associated with SSRI exposure.</description>
+    </item>
     <item>
       <title>Blinding Integrity and Psychedelic Drug Trials—Reply</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.2296</link>
@@ -276,6 +343,26 @@ Abstract: Importance Nearly all psychopathology is inherently continuous, but bo
 Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 883</description>
     </item>
     <item>
+      <title>Connectivity- vs Scalp-Based Targeting of Accelerated Transcranial Magnetic Stimulation for Depression</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.1100</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1100</guid>
+
+      <dc:creator>Joseph J. Taylor</dc:creator>
+      <dc:creator>Marina R. Kare</dc:creator>
+      <dc:creator>Dania Haj-Darwish</dc:creator>
+      <dc:creator>Emma Jones</dc:creator>
+      <dc:creator>Lauren Sanderson</dc:creator>
+      <dc:creator>Sanaz Khosravani</dc:creator>
+      <dc:creator>Jessica Leach</dc:creator>
+      <dc:creator>Leanna Bomer</dc:creator>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Joseph J. Taylor, Marina R. Kare, Dania Haj-Darwish, Emma Jones, Lauren Sanderson, Sanaz Khosravani, Jessica Leach, Leanna Bomer, et al.
+
+Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 807
+
+Abstract: Importance Neuroimaging is prevalent in psychiatric research, but there is limited evidence that it improves clinical outcomes. Functional connectivity neuroimaging was recently used to target individualized brain circuits with accelerated transcranial magnetic stimulation (aTMS), with rapid antidepressant effects and US Food and Drug Administration clearance, but the importance of connectivity-based targeting remains unclear. Objective To estimate the effect size of connectivity- vs scalp-based targeting of aTMS for treatment-resistant depression. Design, Setting, and Participants This randomized clinical trial comparing connectivity- to scalp-based aTMS treatment was conducted between July 2023 and March 2025 with the primary outcome assessed at 1 month posttreatment and follow-up every 3 months for 1 year. Participants, TMS technicians, and study physicians were blinded. The study took place at the Center for Brain Circuit Therapeutics at Mass General Brigham and Harvard Medical School in Boston, Massachusetts. Forty adults aged 22 to 80 years with a primary diagnosis of major depressive disorder with moderate to severe depression per Montgomery-Åsberg Depression Rating Scale (MADRS) score and moderate to severe treatment resistance per Maudsley Staging Method were included. Key exclusion criteria included contraindications to TMS or magnetic resonance imaging, primary psychiatric diagnoses other than major depressive disorder or anxiety disorders, recent rapid-acting antidepressant treatments, and significant neurological or substance use disorders. Interventions All participants underwent a 41-minute multiecho resting-state functional connectivity scan prior to aTMS, and half of them received treatment guided by these data. The connectivity-based target was defined as the left dorsolateral prefrontal cortex region with the greatest correlation to a published and publicly available convergent depression circuit. This circuit includes multiple brain regions linked to depression, including negative connectivity to the subgenual cingulate cortex. The scalp-based target was identified with the Beam F3 method. Main Outcomes and Measures MADRS score 1 month after treatment, adjusted for baseline. Results In total, 40 participants (22 female [55%]; mean [SD] age, 45.7 [15.2] years) were randomized and treated. The median (IQR) MADRS score reduction was 24 (19-28) vs 18 (10-23) points with connectivity- vs scalp-based targeting, respectively ( P = .02). Connectivity-based targeting had an effect size of 0.8 (Cohen d analog) and 95% CI of 0.26-1.54, with a number needed to scan of 5 individuals. Individualized targets were reproducible within an individual (4.47 mm split-half distance) and different between individuals (12.97 mm) ( P &amp;amp;amp;lt; .001). Conclusions and Relevance In this randomized clinical trial, individualized, connectivity-based targeting of the convergent depression circuit enhanced the antidepressant effects of high-dose aTMS. These results could facilitate cost-effectiveness analyses and help to power a confirmatory efficacy trial. Trial Registration ClinicalTrials.gov Identifier: NCT05680727</description>
+    </item>
+    <item>
       <title>Brain Morphology Mediators of the Association of Childhood Trauma With Bipolar Disorder</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.1183</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1183</guid>
@@ -312,26 +399,6 @@ Abstract: Importance Childhood trauma is associated with increased risk for bipo
 Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 880
 
 Abstract: This cross-sectional study evaluates the prevalence of glucagon-like peptide-1 (GLP-1) receptor agonist use and misuse among people with eating disorders in the US.</description>
-    </item>
-    <item>
-      <title>Connectivity- vs Scalp-Based Targeting of Accelerated Transcranial Magnetic Stimulation for Depression</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1100</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1100</guid>
-
-      <dc:creator>Joseph J. Taylor</dc:creator>
-      <dc:creator>Marina R. Kare</dc:creator>
-      <dc:creator>Dania Haj-Darwish</dc:creator>
-      <dc:creator>Emma Jones</dc:creator>
-      <dc:creator>Lauren Sanderson</dc:creator>
-      <dc:creator>Sanaz Khosravani</dc:creator>
-      <dc:creator>Jessica Leach</dc:creator>
-      <dc:creator>Leanna Bomer</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Joseph J. Taylor, Marina R. Kare, Dania Haj-Darwish, Emma Jones, Lauren Sanderson, Sanaz Khosravani, Jessica Leach, Leanna Bomer, et al.
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 807
-
-Abstract: Importance Neuroimaging is prevalent in psychiatric research, but there is limited evidence that it improves clinical outcomes. Functional connectivity neuroimaging was recently used to target individualized brain circuits with accelerated transcranial magnetic stimulation (aTMS), with rapid antidepressant effects and US Food and Drug Administration clearance, but the importance of connectivity-based targeting remains unclear. Objective To estimate the effect size of connectivity- vs scalp-based targeting of aTMS for treatment-resistant depression. Design, Setting, and Participants This randomized clinical trial comparing connectivity- to scalp-based aTMS treatment was conducted between July 2023 and March 2025 with the primary outcome assessed at 1 month posttreatment and follow-up every 3 months for 1 year. Participants, TMS technicians, and study physicians were blinded. The study took place at the Center for Brain Circuit Therapeutics at Mass General Brigham and Harvard Medical School in Boston, Massachusetts. Forty adults aged 22 to 80 years with a primary diagnosis of major depressive disorder with moderate to severe depression per Montgomery-Åsberg Depression Rating Scale (MADRS) score and moderate to severe treatment resistance per Maudsley Staging Method were included. Key exclusion criteria included contraindications to TMS or magnetic resonance imaging, primary psychiatric diagnoses other than major depressive disorder or anxiety disorders, recent rapid-acting antidepressant treatments, and significant neurological or substance use disorders. Interventions All participants underwent a 41-minute multiecho resting-state functional connectivity scan prior to aTMS, and half of them received treatment guided by these data. The connectivity-based target was defined as the left dorsolateral prefrontal cortex region with the greatest correlation to a published and publicly available convergent depression circuit. This circuit includes multiple brain regions linked to depression, including negative connectivity to the subgenual cingulate cortex. The scalp-based target was identified with the Beam F3 method. Main Outcomes and Measures MADRS score 1 month after treatment, adjusted for baseline. Results In total, 40 participants (22 female [55%]; mean [SD] age, 45.7 [15.2] years) were randomized and treated. The median (IQR) MADRS score reduction was 24 (19-28) vs 18 (10-23) points with connectivity- vs scalp-based targeting, respectively ( P = .02). Connectivity-based targeting had an effect size of 0.8 (Cohen d analog) and 95% CI of 0.26-1.54, with a number needed to scan of 5 individuals. Individualized targets were reproducible within an individual (4.47 mm split-half distance) and different between individuals (12.97 mm) ( P &amp;amp;amp;lt; .001). Conclusions and Relevance In this randomized clinical trial, individualized, connectivity-based targeting of the convergent depression circuit enhanced the antidepressant effects of high-dose aTMS. These results could facilitate cost-effectiveness analyses and help to power a confirmatory efficacy trial. Trial Registration ClinicalTrials.gov Identifier: NCT05680727</description>
     </item>
     <item>
       <title>Error in Visual Abstract</title>
@@ -569,19 +636,6 @@ Journal: JAMA Psychiatry
 Abstract: Importance Infections are associated with postacute psychiatric and neurologic disorders, but whether risks generalize across infections affecting different body systems and how they vary by age remain unclear. Objective To map risks of 14 psychiatric and neurologic disorders among patients hospitalized with infections across 10 body systems and 4 age groups. Design, Setting, and Participants This was a retrospective multicohort study using propensity score matching of patients hospitalized between 2014 and 2018, with a 2-year follow-up. Patient data were taken from 62 health care organizations within the TriNetX US Collaborative Network. Included were cohorts of individuals hospitalized with an infection compared with each other, with individuals hospitalized for noninfectious causes, and with the general population. Data were analyzed from May 2024 to March 2026. Exposure Hospitalization with an infection. Main Outcomes and Measures Thirteen neurologic or psychiatric disorders (plus a composite category of cognitive deficits) diagnosed between 1 month and 2 years after hospital admission. Measures included the ratio of restricted mean time lost (RMTL), absolute risk difference, and infection specificity per outcome via network meta-analysis. Results Among 1 062 722 matched pairs of individuals (mean [SD] age, 48.4 [23.6] years; 547 328 female [51.5%]), infections were associated with a greater risk of most disorders. When compared with hospitalization for other causes, RMTL ratios exceeded 1 in 116 of 140 infection-disorder tests; the highest relative risk was observed for encephalitis (eg, among cardiac infections, median RMTL ratio, 6.54; 95% CI, 3.78-11.31; P = 2.0 × 10 −11 ), and the highest absolute risk difference was for cognitive deficits (eg, among cardiac infections, risk difference, 12.37%; 19.08% [95% CI, 18.51-19.65] vs 6.71% [95% CI, 6.36-7.07]). Similar patterns were observed (though with higher RMTL ratios) when patients hospitalized with infections were compared with the general population. Although children also faced increased risks of psychiatric and neurologic disorders after infections, absolute risk differences were significantly lower than those in adults. In 45 head-to-head comparisons (median [IQR] sample, 30 766 [11 856-104 336]), infectious encephalitides were the leading risk factor for 7 of 14 disorders and among the top 3 for 12 of 14 disorders. Other infectious risk factors were disorder specific. Conclusions and Relevance Results of this multicohort study suggest that patients hospitalized with infections across all body systems had an associated increase in psychiatric and neurologic diagnoses over the subsequent 2 years, particularly in adults. Infectious encephalitides carried the greatest associated excess risk. Taken together with the existing literature, these findings identify infections as important risk factors for brain health conditions.</description>
     </item>
     <item>
-      <title>Psychedelics Trials and Outcomes— A Closer Look</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1942</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1942</guid>
-
-      <dc:creator>Sandeep M. Nayak</dc:creator>
-      <dc:creator>Brandon Weiss</dc:creator>
-      <dc:creator>David B. Yaden</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sandeep M. Nayak, Brandon Weiss, David B. Yaden
-
-Journal: JAMA Psychiatry</description>
-    </item>
-    <item>
       <title>Lobbying Trends in Psychiatry and Psychology</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.1921</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1921</guid>
@@ -597,6 +651,19 @@ Journal: JAMA Psychiatry</description>
 Journal: JAMA Psychiatry
 
 Abstract: This economic evaluation characterizes US lobbying spending in the mental health field between 2014 and 2024.</description>
+    </item>
+    <item>
+      <title>Psychedelics Trials and Outcomes— A Closer Look</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.1942</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1942</guid>
+
+      <dc:creator>Sandeep M. Nayak</dc:creator>
+      <dc:creator>Brandon Weiss</dc:creator>
+      <dc:creator>David B. Yaden</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sandeep M. Nayak, Brandon Weiss, David B. Yaden
+
+Journal: JAMA Psychiatry</description>
     </item>
     <item>
       <title>Psychedelics Trials and Outcomes—A Closer Look—Reply</title>
@@ -1506,69 +1573,6 @@ Abstract: Importance Few pharmacotherapies are approved for treatment-resistant 
 Journal: JAMA Psychiatry; Volume: 83; Issue: 5; Pages: 543
 
 Abstract: This article discusses the increasing prevalence of individuals seeking mental health help from artificial intelligence (AI) and recommends strategies to help patients navigate AI use.</description>
-    </item>
-    <item>
-      <title>Results of the First European Board Examination in Psychiatry</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.0083</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.0083</guid>
-
-      <dc:creator>Geert Dom</dc:creator>
-      <dc:creator>Cecile Hanon</dc:creator>
-      <dc:creator>Andrea Fiorillo</dc:creator>
-      <dc:creator>Andrew Brittlebank</dc:creator>
-      <dc:creator>Marisa Casanova Dias</dc:creator>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Geert Dom, Cecile Hanon, Andrea Fiorillo, Andrew Brittlebank, Marisa Casanova Dias
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 5; Pages: 545
-
-Abstract: This quality improvement study presents the results of the 2025 edition of the European Board Examination in Psychiatry.</description>
-    </item>
-    <item>
-      <title>Comorbid Depression in Atopic Dermatitis—The Itch-to-Brain Circuitry Theory</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.0029</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.0029</guid>
-
-      <dc:creator>Ian McConnell</dc:creator>
-      <dc:creator>John M. Davis</dc:creator>
-      <dc:creator>Santosh Kumar Mishra</dc:creator>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ian McConnell, John M. Davis, Santosh Kumar Mishra
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 5; Pages: 435
-
-Abstract: This Viewpoint explores the itch-to-brain circuitry theory, a model to better understand atopic dermatitis–generated comorbid depression mechanisms, which could help improve the care of individuals with these comorbid conditions.</description>
-    </item>
-    <item>
-      <title>The Year in Review, 2025</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.0279</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.0279</guid>
-
-      <dc:creator>Dost Öngür</dc:creator>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dost Öngür
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 5; Pages: 443</description>
-    </item>
-    <item>
-      <title>Climate-Related and Nature-Based Interventions for Mental Health</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.0037</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.0037</guid>
-
-      <dc:creator>Lasse Brandt</dc:creator>
-      <dc:creator>Michele De Prisco</dc:creator>
-      <dc:creator>Daniela Nocera</dc:creator>
-      <dc:creator>Marie C. Rehm</dc:creator>
-      <dc:creator>Sem Cohen</dc:creator>
-      <dc:creator>Doga Nur Kosker</dc:creator>
-      <dc:creator>Sofia von Luxburg</dc:creator>
-      <dc:creator>Dorottya Ori</dc:creator>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lasse Brandt, Michele De Prisco, Daniela Nocera, Marie C. Rehm, Sem Cohen, Doga Nur Kosker, Sofia von Luxburg, Dorottya Ori, et al.
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 5; Pages: 499
-
-Abstract: Importance Climate change is associated with increasing mental health morbidity and mortality. However, an umbrella review to classify and quantify the global evidence on climate-related and nature-based mental health interventions is lacking. Objective To assess associations of climate-related and nature-based mental health interventions with mental health outcomes. Data Sources PubMed, PsycINFO, Web of Science, and Cochrane databases were searched from inception to November 17, 2024. Study Selection Systematic reviews with meta-analyses (SRMAs) with controlled climate-related or nature-based mental health interventions and mental health outcomes were included. Data Extraction and Synthesis Standardized mean differences (SMDs; intervention vs control) and 95% CIs were synthesized, evidence was stratified according to the level of credibility, and associations were assessed using meta-regression. Main Outcomes and Measures Outcomes were mental disorders, psychiatric symptoms, and positive mental health. Results Twenty-eight SRMAs were included that examined 344 studies and 91 associations between psychosocial or nature-based interventions and outcomes. Of the 91 associations, 10 (11%) had a moderate credibility of evidence and 81 (89%) had low or very low credibility. Psychosocial interventions addressing climatic impact drivers were associated with very low credibility, based on limited data. Nature-based interventions were associated with reductions in tension (SMD, −0.87; 95% CI, −1.31 to −0.43), fatigue (SMD, −0.80; 95% CI, −1.16 to −0.44), confusion (SMD, −0.65; 95% CI, −1.12 to −0.19), and negative affect (SMD, −0.51; 95% CI, −0.85 to −0.16), as well as increases in positive affect (SMD, 0.98; 95% CI, 0.65 to 1.30), vigor (SMD, 0.83; 95% CI, 0.37 to 1.28), and well-being (SMD, 0.40; 95% CI, 0.07 to 0.73), with moderate credibility of evidence and not addressing climatic impact drivers. Older participants and study locations with lower tree cover, better health care access and quality, and lower systemic vulnerability to climate change were associated with stronger improvements in negative affect following nature-based interventions. Conclusions and Relevance There is limited evidence for mental health interventions to reduce adverse mental health impacts of climatic impact drivers, but there is promising potential for future research in this field based on evidence from contexts other than climate change. Currently, strategies for mental health interventions in the context of climate change, such as those for implementing and scaling interventions, need to rely largely on global evidence from contexts other than climate change.</description>
     </item>
   </channel>
 </rss>

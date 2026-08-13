@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:53:40 +0000</lastBuildDate>
 
     <item>
       <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
@@ -18,6 +18,24 @@
       <description>Authors: Gong Zhang, Xichen Fan
 
 Journal: American Journal of Epidemiology; Article number: kwag191</description>
+    </item>
+    <item>
+      <title>What phases of the drug development framework can epidemiological studies emulate?</title>
+      <link>https://doi.org/10.1093/aje/kwag194</link>
+      <guid isPermaLink="false">10.1093/aje/kwag194</guid>
+
+      <dc:creator>Stephen Burgess</dc:creator>
+      <dc:creator>Benjamin Woolf</dc:creator>
+      <dc:creator>Emily Bassett</dc:creator>
+      <dc:creator>David Robertson</dc:creator>
+      <dc:creator>Sofía Villar</dc:creator>
+      <dc:creator>Jeremy A Labrecque</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Stephen Burgess, Benjamin Woolf, Emily Bassett, David Robertson, Sofía Villar, Jeremy A Labrecque
+
+Journal: American Journal of Epidemiology; Article number: kwag194
+
+Abstract: Abstract Target trial emulation prompts investigators to frame their analysis question in terms of a hypothetical clinical trial. Although this does not solve the problem of confounding, the framework can protect against other sources of bias. A natural question is this: what kinds of trials can be emulated? In a late-phase trial (Phase 3 or 4), the goal is to obtain a well-defined causal estimate that closely approximates the impact of a proposed intervention. In an early-phase trial (Phase 2 or earlier), the estimate is a means to an end rather than an end in itself. An early-phase trial provides proof-of-concept evidence on the impact of an intervention in the exposure in terms of efficacy and safety, but the estimand may not correspond to the intervention to be implemented in practice. In a natural experiment where causal inferences rely on a plausibly random (or quasi-random) comparison, the estimand may not be directly translatable to applied practice. In this case, the analysis may be conceptualized as an early-phase target trial. This provides less specific evidence than a late-stage target trial, but in many cases, a more valid but less applicable comparison is preferable to a more applicable comparison that is more susceptible to bias.</description>
     </item>
     <item>
       <title>Meta-analyses of dietary exposures must consider energy adjustment: recommendations from a meta-scientific review</title>
@@ -1682,26 +1700,6 @@ Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 2109-21
 Journal: American Journal of Epidemiology; Article number: kwag091
 
 Abstract: Abstract Self-reported data are subject to reporting biases, including social desirability bias. List randomization is one method that can help mitigate the impact of such biases. Here, we examined the utility of list randomization among women of reproductive age living with HIV in sub-Saharan Africa. In the Family Planning and Antiretroviral Therapy study, participants were randomized to answer 5 blocks of true/false statements via either direct or list response. Each block contained 3 nonsensitive statements and 1 sensitive statement related to either condom use or HIV disclosure. For each sensitive statement, we calculated the prevalence difference (PD) comparing list response to direct response overall and stratified by socioeconomic status. The PD for 4 of the sensitive statements was negligible. However, we found that self-report of always using a condom was reported by 53.1% at list response visits vs 34.7% at direct response visits (PD, 18.5%; 95% CI, 6.2%-30.7%), a difference that was attenuated among those with higher socioeconomic status. In this setting, list randomization did not meaningfully change the estimated prevalence for most questions, except for one question, which unexpectedly produced a higher estimate for a positive behavior. Examining this method in other settings and populations is warranted.</description>
-    </item>
-    <item>
-      <title>Validity of influenza vaccine effectiveness calculations using a test-negative design in Thailand</title>
-      <link>https://doi.org/10.1093/aje/kwag094</link>
-      <guid isPermaLink="false">10.1093/aje/kwag094</guid>
-
-      <dc:creator>Erica E Zeno</dc:creator>
-      <dc:creator>Prabda Praphasiri</dc:creator>
-      <dc:creator>Wichan Bhunyakitikorn</dc:creator>
-      <dc:creator>Sutthichai Nakphook</dc:creator>
-      <dc:creator>Darunee Ditsungnoen</dc:creator>
-      <dc:creator>Wuttiphong Phakdeekul</dc:creator>
-      <dc:creator>Passakorn Ongarj</dc:creator>
-      <dc:creator>Ratchadaporn Ungcharoen</dc:creator>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Erica E Zeno, Prabda Praphasiri, Wichan Bhunyakitikorn, Sutthichai Nakphook, Darunee Ditsungnoen, Wuttiphong Phakdeekul, Passakorn Ongarj, Ratchadaporn Ungcharoen, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag094
-
-Abstract: Abstract Thailand uses a test-negative design to calculate influenza vaccine effectiveness (VE) annually for the Southern Hemisphere formulation and shares estimates with the World Health Organization to inform global vaccine strain selection. This study analyzed potential misclassification and confounding factors to evaluate validity of the test-negative design in Thailand. We retrospectively reviewed influenza sentinel surveillance data from June 2023 to May 2024 and gathered information on vaccination history and health-seeking behavior. Cases were medically attended illnesses with positive influenza test results; noncases had negative results for influenza and SARS-CoV-2. We compared VE using the routine approach with six scenarios, representing four potential threats to the validity of test-negative design studies. We assessed exposure (vaccination) misclassification, outcome (influenza) misclassification, and confounding by health-seeking behavior. Unmeasured confounding was evaluated by calculating VE against rhinovirus, an outcome unrelated to influenza vaccination. A total of 4709 patients were included, of which 328 (7.0%) were vaccinated against influenza. Under the routine approach, VE against medically attended influenza was 36.9% (95% CI, 13.5%-53.9%). In alternative scenarios, VE ranged from 32.4% to 42.8%, with overlapping 95% CIs. These findings support the validity of Thailand’s VE estimates and can inform improvements in surveillance procedures.</description>
     </item>
   </channel>
 </rss>
