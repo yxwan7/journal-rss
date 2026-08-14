@@ -5,8 +5,64 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:53:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:50:47 +0000</lastBuildDate>
 
+    <item>
+      <title>Prenatal exposure to fluoride in public water and child cognition in the US ECHO cohort, 2006-2019</title>
+      <link>https://doi.org/10.1093/aje/kwag186</link>
+      <guid isPermaLink="false">10.1093/aje/kwag186</guid>
+
+      <dc:creator>Katrina R Simon</dc:creator>
+      <dc:creator>Tessa Bloomquist</dc:creator>
+      <dc:creator>Tushara Rajeev</dc:creator>
+      <dc:creator>Alexis Hernandez</dc:creator>
+      <dc:creator>Sharon Kulali</dc:creator>
+      <dc:creator>Mohamad Burjak</dc:creator>
+      <dc:creator>Amii M Kress</dc:creator>
+      <dc:creator>Meredith Palmore</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Katrina R Simon, Tessa Bloomquist, Tushara Rajeev, Alexis Hernandez, Sharon Kulali, Mohamad Burjak, Amii M Kress, Meredith Palmore, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag186
+
+Abstract: Abstract Prior studies suggest fluoride exposure in drinking water above 1500 μg/L is associated with lower child cognition, but evidence is limited at lower exposure levels and in U.S. populations. We evaluated whether prenatal exposure to fluoride in regulated public drinking water was associated with cognition in a pooled U.S. cohort. We analyzed observational data from the Environmental influences on Child Health Outcomes (ECHO) Cohort, including 2514 children born 2006–2019 across 17 sites in 23 states. Individual prenatal time-weighted average public water fluoride concentrations were estimated by linking census tract-level concentrations to residential addresses across pregnancy. Fluid and crystallized cognition were assessed using NIH Toolbox scores. Generalized estimating equation models estimated adjusted mean differences using restricted cubic spline and linear change-point models. Individual prenatal time-weighted average water fluoride concentrations ranged from &amp;amp;lt; 1.0–1940.0 μg/L (mean = 396.9 μg/L). Cubic spline models showed significant inverse associations for fluid cognition above 1107.0 μg/L. Linear change-point models identified 675 μg/L as the best-fitting change-point for fluid cognition; above this value, fluid scores were 0.67 points lower (95% CI, -0.92, -0.42) per 100 μg/L higher fluoride. These findings indicate that prenatal fluoride exposure in regulated public water is nonlinearly associated with lower fluid cognition scores in U.S. children at concentrations below current WHO and U.S. EPA thresholds.</description>
+    </item>
+    <item>
+      <title>Empirical application of missing data methods to address confounding in health insurance claims-based analyses using electronic health records available on a subset: an example from the Food and Drug Administration’s sentinel system.</title>
+      <link>https://doi.org/10.1093/aje/kwag198</link>
+      <guid isPermaLink="false">10.1093/aje/kwag198</guid>
+
+      <dc:creator>Gaia Pocobelli</dc:creator>
+      <dc:creator>Noorie Hyun</dc:creator>
+      <dc:creator>Pamela A Shaw</dc:creator>
+      <dc:creator>Laura B Harrington</dc:creator>
+      <dc:creator>John G Connolly</dc:creator>
+      <dc:creator>Arvind Ramaprasan</dc:creator>
+      <dc:creator>Rishi J Desai</dc:creator>
+      <dc:creator>Sarah K Dutcher</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gaia Pocobelli, Noorie Hyun, Pamela A Shaw, Laura B Harrington, John G Connolly, Arvind Ramaprasan, Rishi J Desai, Sarah K Dutcher, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag198
+
+Abstract: Abstract Health insurance claims-based analyses inform many large epidemiologic studies but may have unmeasured confounding. Electronic health records (EHRs) have more detailed health information, but data may be missing on some individuals. Informed by recent work comparing approaches to address missing data, we selected and applied generalized raking (GR) and multiple imputation (MI) to illustrate how to efficiently combine data from these two sources. We considered a previously conducted claims-based study comparing 90-day arterial thromboembolism (ATE) risk among patients hospitalized with COVID-19 versus influenza, for which body mass index (BMI), a potential confounder, was unavailable. Using linked claims-EHR data, we adjusted for the same covariates as the original study and used GR and MI to additionally control for EHR-ascertained BMI, available for a subset. We included 912 hospitalized Kaiser Permanente Washington patients, 449 with COVID-19 and 463 with influenza (31.0% and 38.5% had EHR-ascertained BMI in the prior 90 days, respectively). Adjusted hazard ratios of ATE were similar with and without adjustment for BMI, in GR and MI analyses. In the setting of a claims-EHR-based study with missing data on a potential confounder, we describe our selection of the missing data approach, and its implementation, to demonstrate a broadly applicable process.</description>
+    </item>
+    <item>
+      <title>Trends in site of pediatric firearm death in the United States</title>
+      <link>https://doi.org/10.1093/aje/kwag192</link>
+      <guid isPermaLink="false">10.1093/aje/kwag192</guid>
+
+      <dc:creator>Angelin Tresa Mathew</dc:creator>
+      <dc:creator>Urvish Jain</dc:creator>
+      <dc:creator>Bhav Jain</dc:creator>
+      <dc:creator>Edward Christopher Dee</dc:creator>
+      <dc:creator>Myron Rolle</dc:creator>
+      <dc:creator>Megan Ranney</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Angelin Tresa Mathew, Urvish Jain, Bhav Jain, Edward Christopher Dee, Myron Rolle, Megan Ranney
+
+Journal: American Journal of Epidemiology; Article number: kwag192</description>
+    </item>
     <item>
       <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
       <link>https://doi.org/10.1093/aje/kwag191</link>
@@ -90,7 +146,7 @@ Journal: American Journal of Epidemiology; Article number: kwag181
 Abstract: Abstract Early during emerging infectious disease outbreaks, case-based surveillance is constrained by limited test availability, diagnostic delays, and low clinical suspicion. Novel pathogens that mimic symptoms of established conditions may generate detectable outbreak signals in routine testing data, as infected individuals seek testing for known conditions and test negative. We developed analytic and simulation frameworks using Poisson and negative binomial models to evaluate whether total and negative testing volumes for a clinically similar (“mimicking”) condition can provide timely outbreak warning. We systematically assessed detection performance across variations in baseline test counts, epidemic growth rates, testing fractions among cases, detection threshold stringency, and overdispersion. Detection thresholds based on negative tests consistently outperformed total test thresholds, achieving earlier detection with approximately one-third fewer cumulative cases while maintaining comparable false positive rates. However, reliable detection required stringent conditions: high testing fractions among epidemic cases, low baseline test volumes, and low overdispersion. When testing fractions fell below 5%, epidemic size estimates provided little practical information; above 30%, precision markedly improved. These findings support prioritizing access to disaggregated test result data but caution that this detection approach is best positioned as a resource-efficient complement within integrated surveillance portfolios rather than a standalone early warning system.</description>
     </item>
     <item>
-      <title>Characterizing spatiotemporal patterns of case reporting backfill: a case study of COVID-19 reporting in Michigan, 2020–24</title>
+      <title>Characterizing spatiotemporal patterns of case reporting backfill: a case study of COVID-19 reporting in Michigan, 2020-2024</title>
       <link>https://doi.org/10.1093/aje/kwag170</link>
       <guid isPermaLink="false">10.1093/aje/kwag170</guid>
 
@@ -104,7 +160,7 @@ Abstract: Abstract Early during emerging infectious disease outbreaks, case-base
 
 Journal: American Journal of Epidemiology; Article number: kwag170
 
-Abstract: Abstract Backfill is the process of revising case data, often by retrospectively assigning or reassigning newly reported cases to their associated earlier symptom onset dates. Time- and spatial-varying delays in backfill may compromise real-time surveillance and forecasting efforts by obscuring true underlying transmission patterns. Using Michigan COVID-19 case data, we developed a statistical mixture model to describe backfill and geographical and temporal variations. The model combined an exponential process (case reporting delay) and a gamma-distributed process (case reassignment to onset date). Parameters were estimated by regularized maximum likelihood, and the Akaike Information Criterion was used to determine the necessity of the reassignment component for each date. We estimated the exponential reporting speed over time and space and, if appropriate, the weight, transient peak, and time of case reassignment. We found that case reporting improved over the pandemic: reporting speed increased over time (with substantial day-to-day variation), and case reassignments were processed faster. We also identified potential regional disparities: regions with population densities below 50 people/km2 had slower backfill speeds. These findings provide critical insights about the evolution of case reporting and backfill dynamics that can be leveraged for “nowcasting” models to complete real-time surveillance data, ultimately improving outbreak preparedness and response.</description>
+Abstract: Abstract Backfill is the process of revising case data, often by retrospectively assigning or reassigning newly reported cases to earlier symptom onset dates. Time- and space-varying delays in backfill may compromise real-time surveillance and forecasting efforts by obscuring true transmission patterns. Using Michigan COVID-19 case data, we developed a statistical mixture model to describe backfill as well as geographic and temporal variations. The model combined an exponential process (case reporting delay) with a gamma-distributed process (case reassignment to onset date). Parameters were estimated by a regularized maximum likelihood method, and the Akaike Information Criterion was used to determine the necessity of the reassignment component for each date. We estimated the exponential reporting speed over time and space and, if appropriate, the weight, transient peak, and time of case reassignment. We found that case reporting improved over the course of the pandemic: reporting speed increased over time (with substantial day-to-day variation), and case reassignments were processed faster. We also identified potential regional disparities: regions with population densities below 50 people/km2 had slower backfill speeds. These findings provide critical insights into the evolution of case reporting and backfill dynamics that can be leveraged for “nowcasting” models to enhance real-time surveillance data, ultimately improving outbreak preparedness and response.</description>
     </item>
     <item>
       <title>Intersection is Interaction</title>
@@ -185,7 +241,7 @@ Journal: American Journal of Epidemiology; Article number: kwag140
 Abstract: Abstract Increasing oily fish intake has been proposed as a strategy for Alzheimer’s disease (AD) prevention, but evidence for long-term benefit remains limited. Using observational data from 2012 cognitively healthy adults in the Framingham Heart Study Offspring cohort, we emulated a target trial of seven isocaloric fish intake strategies to estimate 21-year AD risk. We modeled repeated measures of diet and adjusted for pre-baseline diet, baseline covariates, and time-varying confounding using the parametric g-formula. The estimated 21-year AD risk ranged from 10.33% (95% confidence interval [CI]: 8.41%, 12.92%) under no fish intake to 9.98% (95% CI, 6.64%, 13.31%) under ≥ 3 servings/week. Risk ratios relative to no intervention were close to one and risk differences were close to zero across all strategies. Substituting fish for meat yielded similar results. We observed no clear long-term protective effect of sustained fish intake on AD risk, though exploratory analyses suggested a possible protective effect among older participants during earlier follow-up, warranting further investigation. This study illustrates the use of target trial emulation to estimate long-term dietary effects while accounting for time-varying confounding and competing risks in nutritional epidemiology.</description>
     </item>
     <item>
-      <title>The Long Half-Life of Neighborhood Poverty: Duration, Timing, and Biological Aging</title>
+      <title>The long half-life of neighborhood poverty: duration, timing, and biological aging</title>
       <link>https://doi.org/10.1093/aje/kwag182</link>
       <guid isPermaLink="false">10.1093/aje/kwag182</guid>
 
@@ -196,7 +252,7 @@ Abstract: Abstract Increasing oily fish intake has been proposed as a strategy f
 
 Journal: American Journal of Epidemiology; Article number: kwag182
 
-Abstract: Abstract Point-in-time measures of neighborhood poverty exposure suggest a link with physiological aging, but it remains unclear how histories and the timing of residential disadvantage connect to weathering. In this issue, D’Alessio et al. (Am J of Epidemiol. 2026) use 25 years of prospective residential data from the National Longitudinal Study of Adolescent to Adult Health (Add Health) to link neighborhood poverty across adolescence, early adulthood, and early midlife to three epigenetic clocks. They identify selective dose–response relationships. Each additional life stage in a high-poverty tract is associated with accelerated biological aging, and exposure is distributed with sharp racial inequality. The per-stage effect is modest in individual terms but consequential at population scale. Its unequal allocation makes residential segregation a plausible epigenetic mechanism of population-level racial disparities in aging. We argue that—despite its considerable strengths—the study leaves two questions unresolved. First, does health-selective residential mobility drive part of the association? Second, does the prominence of mid-life exposure reflect a true sensitive period, or the fact that mid-life poverty is measured in close proximity to biospecimen collection? We outline potential follow-up work that could address these questions via structured life course methods and better-powered cohorts with tract-linked data, including Add Health.</description>
+Abstract: Abstract Point-in-time measures of neighborhood poverty exposure suggest a link with physiological aging, but it remains unclear how histories and the timing of residential disadvantage connect to weathering. In this issue, D’Alessio et al. (Am J Epidemiol. 2026;kwag176) use 25 years of prospective residential data from the National Longitudinal Study of Adolescent to Adult Health (Add Health) to link neighborhood poverty across adolescence, early adulthood, and early midlife to three epigenetic clocks. They identify selective dose–response relationships. Each additional life stage in a high-poverty tract is associated with accelerated biological aging, and exposure is distributed with sharp racial inequality. The per-stage effect is modest in individual terms but consequential at population scale. Its unequal allocation makes residential segregation a plausible epigenetic mechanism of population-level racial disparities in aging. We argue that—despite its considerable strengths—the study leaves 2 questions unresolved. First, does health-selective residential mobility drive part of the association? Second, does the prominence of midlife exposure reflect a true sensitive period, or the fact that midlife poverty is measured in close proximity to biospecimen collection? We outline potential follow-up work that could address these questions via structured life-course methods and better-powered cohorts with tract-linked data, including Add Health.</description>
     </item>
     <item>
       <title>Health Consequences of Spousal Health Shocks: Evidence from a Matched Event Study in the United States</title>
@@ -299,25 +355,6 @@ Journal: American Journal of Epidemiology; Article number: kwag171
 Abstract: Abstract There is limited research into the impact of takeaway food on metabolic dysfunction-associated steatotic liver disease (MASLD). This study aimed to evaluate the association between takeaway food consumption and MASLD in Chinese TCLSIH cohort (n = 3186) and UK Biobank (n = 99 781), plus 334 Chinese adults with biopsy-proven MASLD in the PERSONS cohort. Takeaway food consumption was assessed via questionnaires. MASLD was identified through liver ultrasonography and cardiometabolic factors (TCLSIH) and hospital records/death registries (UK Biobank). Cox proportional hazards regression models were used to evaluate hazard ratio (HR) and 95% confidence interval (CI). In the TCLSIH cohort, 724 participants developed MASLD within 12 941 person-years; the fully adjusted HRs (95% CIs) for MASLD across takeaway food consumption frequency were 1.00 (reference) for &amp;amp;lt; 1 time/week, 0.92 (0.67, 1.27) for 1-3 times/week, 1.30 (1.07, 1.61) for ≥ 4 times/week in males. In the UK Biobank, 724 participants developed MASLD during 1 033 546 person-years; males eating takeaway food had a fully adjusted HR (95% CI) of 1.66 (1.08, 2.55) compared with non-consumers. In the PERSONS cohort, takeaway food consumption showed positive association with MASLD severity in males. These findings indicated that takeaway food consumption was positively associated with risk and severity of MASLD in adults, particularly among males.</description>
     </item>
     <item>
-      <title>Neighborhood poverty duration, timing, and severity from adolescence to early midlife and biological aging</title>
-      <link>https://doi.org/10.1093/aje/kwag176</link>
-      <guid isPermaLink="false">10.1093/aje/kwag176</guid>
-
-      <dc:creator>Alena Sorensen D’Alessio</dc:creator>
-      <dc:creator>Kathleen Mullan Harris</dc:creator>
-      <dc:creator>Allison E Aiello</dc:creator>
-      <dc:creator>Brandt Levitt</dc:creator>
-      <dc:creator>Sylvie Tuder</dc:creator>
-      <dc:creator>Lauren Gaydosh</dc:creator>
-      <dc:creator>Chantel L Martin</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alena Sorensen D’Alessio, Kathleen Mullan Harris, Allison E Aiello, Brandt Levitt, Sylvie Tuder, Lauren Gaydosh, Chantel L Martin
-
-Journal: American Journal of Epidemiology; Article number: kwag176
-
-Abstract: Abstract Neighborhood socioeconomic disadvantage is linked to accelerated biological aging using DNA methylation; however, limited knowledge exists of the relationship between duration or timing of exposure to neighborhood poverty across life stages and biological aging, measured by epigenetic clocks. Existing research has relied on samples with limited racial and gender diversity. We examined the relationship between multiple dimensions of neighborhood poverty (duration, life stage of first exposure, life stage exposure trajectories, and severity) and biological aging using data from 3637 participants followed for 25 years in the National Longitudinal Study of Adolescent to Adult Health. We employed survey linear regression models to estimate associations for three epigenetic clocks: GrimAge2, PhenoAge, DunedinPACE. In the total sample, only 8% of participants experienced neighborhood poverty across all life stages, which differed starkly by race (Non-Hispanic Blacks: 26% vs. Non-Hispanic Whites: 4%). We found that each additional life stage of exposure to neighborhood poverty was associated with significant biological age acceleration. Experiencing neighborhood poverty in mid-adulthood was consistently associated with accelerated biological aging. Our results suggest a relationship between duration and timing of exposure to neighborhood poverty and accelerated biological aging across key biological clocks, indicating possible lasting cellular level effects of residential context.</description>
-    </item>
-    <item>
       <title>Extreme risk protection order policies and homicide risk among cohabitants of handgun owners</title>
       <link>https://doi.org/10.1093/aje/kwag173</link>
       <guid isPermaLink="false">10.1093/aje/kwag173</guid>
@@ -335,6 +372,25 @@ Abstract: Abstract Neighborhood socioeconomic disadvantage is linked to accelera
 Journal: American Journal of Epidemiology; Article number: kwag173
 
 Abstract: Abstract Extreme Risk Protection Orders (ERPO), known as Gun Violence Restraining Orders in California, are designed to reduce gun violence by allowing courts to temporarily remove firearms from individuals who pose a risk to themselves or others. Population-level evidence on their impacts remains limited. We used the Longitudinal Study of Handgun Ownership and Transfer, which links California voter, mortality, and firearm transaction records, to evaluate the impact of California’s ERPO law on homicide risk among cohabitants of handgun owners who are not themselves handgun owners. Using a difference-in-differences design, we compared changes in 1-year homicide risks before (2012-2015) and after (2016-2021) policy implementation among adults living with handgun owners vs those in households without known handgun owners. We estimated a 1-year difference of -0.42 (95% CI, -1.86 to 1.02) homicide deaths per 100 000 persons among cohabitants of handgun owners who are not themselves handgun owners, with null findings robust across sensitivity analyses. Though our findings did not suggest substantial population-level protective effects, ERPOs may still reduce risk of homicide among cohabitants of ERPO respondents in ways not detectable at the population level. At the population level, their effectiveness may depend on more frequent or better-targeted use.</description>
+    </item>
+    <item>
+      <title>Neighborhood poverty duration, timing, and severity from adolescence to early midlife and biological aging</title>
+      <link>https://doi.org/10.1093/aje/kwag176</link>
+      <guid isPermaLink="false">10.1093/aje/kwag176</guid>
+
+      <dc:creator>Alena Sorensen D’Alessio</dc:creator>
+      <dc:creator>Kathleen Mullan Harris</dc:creator>
+      <dc:creator>Allison E Aiello</dc:creator>
+      <dc:creator>Brandt Levitt</dc:creator>
+      <dc:creator>Sylvie Tuder</dc:creator>
+      <dc:creator>Lauren Gaydosh</dc:creator>
+      <dc:creator>Chantel L Martin</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alena Sorensen D’Alessio, Kathleen Mullan Harris, Allison E Aiello, Brandt Levitt, Sylvie Tuder, Lauren Gaydosh, Chantel L Martin
+
+Journal: American Journal of Epidemiology; Article number: kwag176
+
+Abstract: Abstract Neighborhood socioeconomic disadvantage is linked to accelerated biological aging using DNA methylation; however, limited knowledge exists of the relationship between duration or timing of exposure to neighborhood poverty across life stages and biological aging, measured by epigenetic clocks. Existing research has relied on samples with limited racial and gender diversity. We examined the relationship between multiple dimensions of neighborhood poverty (duration, life stage of first exposure, life stage exposure trajectories, and severity) and biological aging using data from 3637 participants followed for 25 years in the National Longitudinal Study of Adolescent to Adult Health. We employed survey linear regression models to estimate associations for 3 epigenetic clocks: GrimAge2, PhenoAge, and DunedinPACE. In the total sample, only 8% of participants experienced neighborhood poverty across all life stages, which differed starkly by race (non-Hispanic Blacks: 26% vs non-Hispanic Whites: 4%). We found that each additional life stage of exposure to neighborhood poverty was associated with significant biological age acceleration. Experiencing neighborhood poverty in mid-adulthood was consistently associated with accelerated biological aging. Our results suggest a relationship between duration and timing of exposure to neighborhood poverty and accelerated biological aging across key biological clocks, indicating possible lasting cellular level effects of residential context.</description>
     </item>
     <item>
       <title>&lt;b&gt;“&lt;/b&gt;
@@ -1653,53 +1709,6 @@ Abstract: Abstract We estimated the distributional impact of Vietnam-era G.I. Bi
 Journal: American Journal of Epidemiology; Article number: kwag098
 
 Abstract: Abstract Postoperative pulmonary complications (PPCs) are common following head and neck surgeries (HNS), leading to extended hospital stays and increased morbidity. Existing PPC risk prediction models developed for general surgery patients underperform for HNS. This study validates an existing risk prediction model for PPC and extends it for HNS. We assessed the performance of original Gupta model, developed using 2007 ACS-NSQIP (American College of Surgeons-National Surgical Quality Improvement) data, by validating it on 2019 ACS-NSQIP HNS data. We recalibrated, refitted, and extended the model with HNS-specific predictors, followed by temporal validation. Model performance was assessed using scaled Brier score, Nagelkerke’s R 2, discrimination (receiver operating characteristic area under the curve, ROC-AUC), and calibration. The extended model showed improved predictive performance compared to original Gupta model, with scaled Brier score of 0.024 vs –0.056 and R 2 of 0.144 vs –0.196. The ROC-AUC increased from 0.72 to 0.82, and calibration improved from 0.94 to 0.98. Among HNS patients, the extended model showed better performance, discrimination, and calibration in predicting PPC compared to original model. This model could aid clinicians in risk stratification and implement risk reduction strategies. Further validation in external HNS populations is necessary to confirm its generalizability and clinical utility.</description>
-    </item>
-    <item>
-      <title>Recent minimum wage policies and their association with suicide and poisoning deaths</title>
-      <link>https://doi.org/10.1093/aje/kwag084</link>
-      <guid isPermaLink="false">10.1093/aje/kwag084</guid>
-
-      <dc:creator>Yuji Mizushima</dc:creator>
-      <dc:creator>David Powell</dc:creator>
-      <dc:creator>Rosalie Liccardo Pacula</dc:creator>
-      <dc:creator>Margaret Weden</dc:creator>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yuji Mizushima, David Powell, Rosalie Liccardo Pacula, Margaret Weden
-
-Journal: American Journal of Epidemiology; Article number: kwag084
-
-Abstract: Abstract US life expectancy declined after 2014 amid rising drug-poisoning and suicide mortality. We assessed whether recent, large statutory minimum-wage increases affected these outcomes. Using 2010-2019 National Vital Statistics System mortality data, we analyzed adults aged 25 and up and exploited cross-state adoption and differential exposure by education (no college versus at least some college) in a triple-differences framework. To address staggered adoption and treatment heterogeneity, we implemented a two-stage imputation estimator. We studied deaths per capita for poisonings, drug overdoses, opioid-related overdoses, and suicides. Twenty-six states (including Washington, D.C.) enacted statutory minimum wage increases, while 25 did not. Pre-treatment placebo estimates show little evidence of systematic pre-existing trends that would confound the results. Average post-treatment mortality effects associated with minimum wage increases are generally small: poisonings −0.9% (95% CI −6.8%, +5.0%); suicides −1.0% (−7.5%, +5.5%); overdoses +0.5% (−5.2%, +6.2%); opioid-involved overdoses −2.8% (−10.2%, +4.6%). When restricting to states with 50% statutory hikes or higher, we reach similar conclusions. At magnitudes observed during 2010-2019, minimum-wage increases had, at most, modest effects on deaths of despair and are unlikely to meaningfully reduce drug overdose or suicide mortality in the medium term.</description>
-    </item>
-    <item>
-      <title>Improving the description of racial and ethnic variation in socioeconomic health differentials</title>
-      <link>https://doi.org/10.1093/aje/kwag096</link>
-      <guid isPermaLink="false">10.1093/aje/kwag096</guid>
-
-      <dc:creator>Jay S Kaufman</dc:creator>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jay S Kaufman
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 7; Pages: 2109-2110</description>
-    </item>
-    <item>
-      <title>List randomization for prevalence estimation of sensitive behavioral data among women with HIV of reproductive age in Lilongwe, Malawi</title>
-      <link>https://doi.org/10.1093/aje/kwag091</link>
-      <guid isPermaLink="false">10.1093/aje/kwag091</guid>
-
-      <dc:creator>Karen Diepstra</dc:creator>
-      <dc:creator>Daniel Westreich</dc:creator>
-      <dc:creator>Paul N Zivich</dc:creator>
-      <dc:creator>John Chapola</dc:creator>
-      <dc:creator>Clara Lemani</dc:creator>
-      <dc:creator>Agatha Bula</dc:creator>
-      <dc:creator>Chalimba Lusewa</dc:creator>
-      <dc:creator>Jennifer H Tang</dc:creator>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Karen Diepstra, Daniel Westreich, Paul N Zivich, John Chapola, Clara Lemani, Agatha Bula, Chalimba Lusewa, Jennifer H Tang
-
-Journal: American Journal of Epidemiology; Article number: kwag091
-
-Abstract: Abstract Self-reported data are subject to reporting biases, including social desirability bias. List randomization is one method that can help mitigate the impact of such biases. Here, we examined the utility of list randomization among women of reproductive age living with HIV in sub-Saharan Africa. In the Family Planning and Antiretroviral Therapy study, participants were randomized to answer 5 blocks of true/false statements via either direct or list response. Each block contained 3 nonsensitive statements and 1 sensitive statement related to either condom use or HIV disclosure. For each sensitive statement, we calculated the prevalence difference (PD) comparing list response to direct response overall and stratified by socioeconomic status. The PD for 4 of the sensitive statements was negligible. However, we found that self-report of always using a condom was reported by 53.1% at list response visits vs 34.7% at direct response visits (PD, 18.5%; 95% CI, 6.2%-30.7%), a difference that was attenuated among those with higher socioeconomic status. In this setting, list randomization did not meaningfully change the estimated prevalence for most questions, except for one question, which unexpectedly produced a higher estimate for a positive behavior. Examining this method in other settings and populations is warranted.</description>
     </item>
   </channel>
 </rss>

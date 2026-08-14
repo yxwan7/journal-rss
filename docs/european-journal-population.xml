@@ -5,8 +5,28 @@
     <link>https://link.springer.com/journal/10680</link>
     <description>Latest journal articles for European Journal of Population</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:50:38 +0000</lastBuildDate>
 
+    <item>
+      <title>How do Modes of Data Collection Affect the Measurement of Demographic Key Indicators? Findings from a Three-Country Experiment Using the Generations and Gender Survey</title>
+      <link>https://doi.org/10.1007/s10680-026-09777-7</link>
+      <guid isPermaLink="false">10.1007/s10680-026-09777-7</guid>
+
+      <dc:creator>Detlev Lück</dc:creator>
+      <dc:creator>Almut Schumann</dc:creator>
+      <dc:creator>Tom Emery</dc:creator>
+      <dc:creator>Peter Lugtig</dc:creator>
+      <dc:creator>Martin Bujard</dc:creator>
+      <dc:creator>Robert Naderi</dc:creator>
+      <dc:creator>Vera Toepoel</dc:creator>
+      <dc:creator>Susana Cabaço</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Detlev Lück, Almut Schumann, Tom Emery, Peter Lugtig, Martin Bujard, Robert Naderi, Vera Toepoel, Susana Cabaço
+
+Journal: European Journal of Population
+
+Abstract: Abstract Rising survey costs, increasing internet usage, and restrictions during the pandemic have accelerated a shift from face-to-face (Computer Assisted Personal Interviews, or CAPI) to web-based interviews (Computer Assisted Web Interviews, or CAWI). This paper analyses the consequences of this shift for the comparability of survey-based measurements of demographic key indicators. We use data from a unique experiment on the modes of data collection such as CAPI or CAWI (in the following: “modes”), conducted in the Generations and Gender Survey in Germany, Croatia, and Portugal. We calculate mode-specific means and ratios of selected indicators and perform regression analyses to estimate mode effects. In all countries, we find a few distinct mode-selection effects: Less educated people are more underrepresented in CAWI, and urban regions are underrepresented in CAPI mode. Mode-measurement effects vary widely across indicators and country contexts. For sensitive questions, there are less social desirability biases in CAWI. For questions with a high respondent burden, there are less survey satisficing biases in CAPI. Loop questions with a high respondent burden are of particular concern. The mode shift challenges comparability between data collections, in longitudinal analyses and in cross-country comparisons. Data users should use weights for descriptive analyses, control for the mode where possible, and consider mode differences when interpreting results. The unique data source allows insights into mode effects among demographic indicators that were not possible before.</description>
+    </item>
     <item>
       <title>Understanding Asylum-Seeker Approval and Reception Centre Dynamics</title>
       <link>https://doi.org/10.1007/s10680-026-09779-5</link>
@@ -1432,21 +1452,6 @@ Abstract: Abstract Different strands of research analyse gender occupational dif
 Journal: European Journal of Population; Volume: 39; Issue: 1; Article number: 33
 
 Abstract: Abstract Demographic forecasters must be realistic about how well they can predict future populations, and it is important that they include estimates of uncertainty in their forecasts. Here we focus on the future development of the immigrant population of Norway and their Norwegian-born children (“second generation”), grouped by three categories of country background: 1. West European countries plus the United States, Canada, Australia, and New Zealand; 2. Central and East European countries that are members of the European Union; 3. other countries. We show how to use a probabilistic forecast to assess the reliability of projections of the immigrant population and their children. We employ the method of random shares using data for immigrants and their children for 2000–2021. We model their age- and sex-specific shares relative to the whole population. Relational models are used for the age patterns in these shares, and time series models to extrapolate the parameters of the age patterns. We compute a probabilistic forecast for six population sub-groups with immigration background, and one for non-immigrants. The probabilistic forecast is calibrated against Statistics Norway’s official population projection. We find that a few population trends are quite certain: strong increases to 2060 in the size of the immigrant population (more specifically those who belong to country group 3) and of Norwegian-born children of immigrants. However, prediction intervals around the forecasts of immigrants and their children by one-year age groups are so wide that these forecasts are not reliable.</description>
-    </item>
-    <item>
-      <title>Working from Home During Covid-19 Pandemic and Changes to Fertility Intentions Among Parents</title>
-      <link>https://doi.org/10.1007/s10680-023-09678-z</link>
-      <guid isPermaLink="false">10.1007/s10680-023-09678-z</guid>
-
-      <dc:creator>Anna Kurowska</dc:creator>
-      <dc:creator>Anna Matysiak</dc:creator>
-      <dc:creator>Beata Osiewalska</dc:creator>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <description>Authors: Anna Kurowska, Anna Matysiak, Beata Osiewalska
-
-Journal: European Journal of Population; Volume: 39; Issue: 1; Article number: 32
-
-Abstract: Abstract The Covid-19 pandemic and related massive spread of home based work led to substantial changes in the conditions for combining work and childbearing. On the one hand, working from home helped parents to accommodate increased childcare needs during the pandemic. On the other hand, it led to acute experiences of blurred boundaries between work and family life during childcare and school closures. Therefore, the direction of the impact of working from home on fertility intentions during the pandemic is not unequivocal. In this paper, we investigate how working from home was related to change in fertility intentions of mothers and fathers during the pandemic and discuss the complex mechanisms behind these relationships. With the use of unique Familydemic Survey data from a representative sample of parents in Poland, we estimate multinomial logit regressions by gender and consider a set of potential moderators, including financial well-being, gender relations, and occupational characteristics. We find evidence for an overall negative relationship between home based work and fertility intentions for mothers, but we also uncover some positive moderating effects. In particular, we shed light on the unobvious moderating role of gendered division of unpaid labor from before the pandemic.</description>
     </item>
   </channel>
 </rss>
