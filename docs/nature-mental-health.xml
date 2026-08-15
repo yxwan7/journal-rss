@@ -5,8 +5,20 @@
     <link>https://www.nature.com/natmentalhealth/</link>
     <description>Latest journal articles for Nature Mental Health</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 07:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:58:28 +0000</lastBuildDate>
 
+    <item>
+      <title>Governing beyond crisis: toward durable behavioral health reform</title>
+      <link>https://doi.org/10.1038/s44220-026-00694-6</link>
+      <guid isPermaLink="false">10.1038/s44220-026-00694-6</guid>
+
+      <dc:creator>Bennett Allen</dc:creator>
+      <dc:creator>Chirlane I. McCray</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bennett Allen, Chirlane I. McCray
+
+Journal: Nature Mental Health</description>
+    </item>
     <item>
       <title>Depressive symptoms predict divergent trajectories of well-being in US adults</title>
       <link>https://doi.org/10.1038/s44220-026-00705-6</link>
@@ -1551,24 +1563,6 @@ Journal: Nature Mental Health; Volume: 4; Issue: 4; Pages: 594-604</description>
       <description>Authors: Wenjie Hou, Barbara J. Sahakian, Christelle Langley, Yuqing Yang, R. A. I. Bethlehem, Qiang Luo
 
 Journal: Nature Mental Health; Volume: 4; Issue: 4; Pages: 686-686</description>
-    </item>
-    <item>
-      <title>Primary care consultation modality and acute mental health service use in adults</title>
-      <link>https://doi.org/10.1038/s44220-026-00605-9</link>
-      <guid isPermaLink="false">10.1038/s44220-026-00605-9</guid>
-
-      <dc:creator>Liliana Hidalgo-Padilla</dc:creator>
-      <dc:creator>Eoin Gogarty</dc:creator>
-      <dc:creator>Reese Sarkodie</dc:creator>
-      <dc:creator>Fiona Gaughran</dc:creator>
-      <dc:creator>Robert Stewart</dc:creator>
-      <dc:creator>Mariana Pinto da Costa</dc:creator>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Liliana Hidalgo-Padilla, Eoin Gogarty, Reese Sarkodie, Fiona Gaughran, Robert Stewart, Mariana Pinto da Costa
-
-Journal: Nature Mental Health; Volume: 4; Issue: 4; Pages: 574-581
-
-Abstract: Abstract The adoption of remote consultations following the COVID-19 pandemic raised questions about the impact on patient outcomes. Here we assess the relationship between the proportion of remote consultations in primary care and subsequent acute mental health service use, specifically emergency contacts with mental health liaison teams, psychiatric hospital admissions, inpatient bed-days and compulsory admissions under the Mental Health Act. We conducted a retrospective cohort study of patients diagnosed with depression, anxiety or severe mental illness using the Clinical Record Interactive Search platform, which accesses pseudonymized electronic patient records from a large London mental healthcare provider. These records were linked to primary care consultation data from the Lambeth DataNet platform. The study period covered 1 January 2019 to 31 December 2021, spanning prepandemic and pandemic phases. Associations were estimated using generalized estimating equations with a negative binomial distribution to account for overdispersion and clustering by general practice. Multiple imputation by chained equations was used to address missing data. The analytic cohort included 107,993 patients. A higher proportion of remote consultations was associated with a modest increase in the rate of emergency contacts with mental health liaison teams (incidence rate ratio (IRR) 1.04, 95% confidence interval (CI) 1.01–1.07 per 10-percentage-point increase in remote care). By contrast, no significant associations were found between consultation modality and psychiatric hospital admissions (IRR 1.03, 95% CI 1.00–1.07), inpatient bed-days (IRR 1.02, 95% CI 0.95–1.09) or compulsory admissions (IRR 1.03, 95% CI 0.99–1.07). Patients who used remote primary care consultations more frequently, particularly those delivered via telephone, had more emergency contacts with mental health liaison teams, potentially reflecting precautionary referrals or reverse causality. However, remote consulting was not associated with increased psychiatric admissions, longer hospital stays or compulsory detentions, suggesting it is not linked to clinical deterioration requiring hospitalizations.</description>
     </item>
   </channel>
 </rss>
