@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:59:15 +0000</lastBuildDate>
 
     <item>
       <title>Promoter-driven recrystallization affording highly textured ruthenium</title>
@@ -206,20 +206,6 @@ Abstract: Textured piezoelectric ceramics could deliver the ultrahigh piezoelect
 Journal: Science; Volume: 393; Issue: 6812; Pages: 668-668</description>
     </item>
     <item>
-      <title>TTF2 processes sites of incomplete DNA replication during mitosis via sister-chromatid exchanges</title>
-      <link>https://doi.org/10.1126/science.aeh2300</link>
-      <guid isPermaLink="false">10.1126/science.aeh2300</guid>
-
-      <dc:creator>Ryo Fujisawa</dc:creator>
-      <dc:creator>Karim P. M. Labib</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ryo Fujisawa, Karim P. M. Labib
-
-Journal: Science; Volume: 393; Issue: 6812; Article number: eaeh2300
-
-Abstract: Mammalian cells frequently enter mitosis before DNA replication has finished, necessitating the rapid processing of unreplicated loci to facilitate chromosome segregation. The TRAIP ubiquitin ligase induces replisome disassembly during mitosis, triggering the cleavage of DNA replication forks. Until now, the mechanisms that regulate TRAIP and process cleaved DNA replication forks were unclear. In this study, we show that the transcription termination factor 2 (TTF2) adenosine triphosphatase is a new type of phosphoreceptor that binds a conserved phosphorylation site on TRAIP during mitosis. TTF2 couples phosphorylated TRAIP to DNA polymerase ε (Pol ε) in the replisome, leading TRAIP to ubiquitylate the CDC45-MCM-GINS (CMG) helicase. This triggers mitotic replisome disassembly and a repair pathway that produces sister-chromatid exchanges, supporting a model for how fork cleavage promotes the segregation of underreplicated loci in mammalian cells.</description>
-    </item>
-    <item>
       <title>Xylose phosphatase activity of dystroglycan self-regulates its receptor function</title>
       <link>https://doi.org/10.1126/science.adz7427</link>
       <guid isPermaLink="false">10.1126/science.adz7427</guid>
@@ -235,6 +221,20 @@ Abstract: Mammalian cells frequently enter mitosis before DNA replication has fi
 Journal: Science; Volume: 393; Issue: 6812; Pages: 690-695
 
 Abstract: Dystroglycan (DG) is an extracellular matrix receptor crucial for tissue development and pathogen entry. DG harbors a long, complex glycan called matriglycan. Loss of matriglycan or reduction in its length disrupts DG function, causing dystroglycanopathies. However, the mechanism regulating matriglycan length is unknown. In this study, we found that a xylose kinase facilitated the initiation of matriglycan synthesis by adding a phosphate to the xylose of the matriglycan primer. Matriglycan elongation occurred when the phosphate was removed by the N-terminal domain of DG (DGN). DGN has the conserved DXDXT/V active site motif found in haloacid dehalogenase domains of phosphohydrolases. Mutations in this site abolished DGN phosphatase activity, reduced matriglycan length, and caused muscle disease in mice. Thus, DG has an unexpected xylose phosphatase function involved in regulating matriglycan extension.</description>
+    </item>
+    <item>
+      <title>TTF2 processes sites of incomplete DNA replication during mitosis via sister-chromatid exchanges</title>
+      <link>https://doi.org/10.1126/science.aeh2300</link>
+      <guid isPermaLink="false">10.1126/science.aeh2300</guid>
+
+      <dc:creator>Ryo Fujisawa</dc:creator>
+      <dc:creator>Karim P. M. Labib</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ryo Fujisawa, Karim P. M. Labib
+
+Journal: Science; Volume: 393; Issue: 6812; Article number: eaeh2300
+
+Abstract: Mammalian cells frequently enter mitosis before DNA replication has finished, necessitating the rapid processing of unreplicated loci to facilitate chromosome segregation. The TRAIP ubiquitin ligase induces replisome disassembly during mitosis, triggering the cleavage of DNA replication forks. Until now, the mechanisms that regulate TRAIP and process cleaved DNA replication forks were unclear. In this study, we show that the transcription termination factor 2 (TTF2) adenosine triphosphatase is a new type of phosphoreceptor that binds a conserved phosphorylation site on TRAIP during mitosis. TTF2 couples phosphorylated TRAIP to DNA polymerase ε (Pol ε) in the replisome, leading TRAIP to ubiquitylate the CDC45-MCM-GINS (CMG) helicase. This triggers mitotic replisome disassembly and a repair pathway that produces sister-chromatid exchanges, supporting a model for how fork cleavage promotes the segregation of underreplicated loci in mammalian cells.</description>
     </item>
     <item>
       <title>A boost for chemical vaccination against malaria</title>
@@ -719,6 +719,17 @@ Journal: Science; Volume: 393; Issue: 6811; Pages: 551-552
 Abstract: Global ice or ocean changes may explain a mysterious lag in the gas’ rise</description>
     </item>
     <item>
+      <title>The bridge between science and policy: How IPBES redefined global conservation policy and its path to societal impact</title>
+      <link>https://doi.org/10.1126/science.aek0207</link>
+      <guid isPermaLink="false">10.1126/science.aek0207</guid>
+
+      <dc:creator>Patricia Miloslavich</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Patricia Miloslavich
+
+Journal: Science; Volume: 393; Issue: 6811; Article number: eaek0207</description>
+    </item>
+    <item>
       <title>Decadal doubling of Siberian methane emissions due to warming-induced fires and methanogenesis</title>
       <link>https://doi.org/10.1126/science.aea5828</link>
       <guid isPermaLink="false">10.1126/science.aea5828</guid>
@@ -737,17 +748,6 @@ Abstract: Global ice or ocean changes may explain a mysterious lag in the gas’
 Journal: Science; Volume: 393; Issue: 6811; Pages: 615-621
 
 Abstract: The northern permafrost region, which stores double the amount of carbon in the atmosphere, is vulnerable to accelerated warming. Methane emissions from thawing permafrost may eventually result in a climate-carbon feedback. Our analysis of atmospheric methane data shows that Siberian growing-season methane emissions have increased by 12.0 ± 1.9 teragrams of methane (TgCH 4 ) (5% per year) over the period 2010–2023. We reveal contrasting Siberian hydrological trends linked to high-pressure systems and distinct air-sea-land interactions. Warmer, drier conditions over eastern Siberia enhance fire-related emissions (0.7 ± 0.1 TgCH 4 year −2 ), and wetter conditions over western Siberia promote wetland-related emissions (0.4 ± 0.1 TgCH 4 year −2 ). Weakly nonlinear relationships between temperature maxima and emissions suggest that by 2050, higher Siberian emissions could offset about 20% of the global methane reduction required for climate targets, with eastern Siberia dominating the projected increase.</description>
-    </item>
-    <item>
-      <title>The bridge between science and policy: How IPBES redefined global conservation policy and its path to societal impact</title>
-      <link>https://doi.org/10.1126/science.aek0207</link>
-      <guid isPermaLink="false">10.1126/science.aek0207</guid>
-
-      <dc:creator>Patricia Miloslavich</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Patricia Miloslavich
-
-Journal: Science; Volume: 393; Issue: 6811; Article number: eaek0207</description>
     </item>
     <item>
       <title>Change comes for science publishing paradigms
