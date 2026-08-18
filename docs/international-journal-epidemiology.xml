@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:04:15 +0000</lastBuildDate>
 
     <item>
       <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
@@ -28,6 +28,17 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Observational studies have suggested that a younger age at menarche is associated with increased risks of adverse pregnancy and perinatal outcomes. However, it is unclear whether these relationships are causal. Methods We estimated the associations between age at menarche and 13 pre-specified pregnancy outcomes by using two approaches. We estimated observational associations in the Avon Longitudinal Study of Parents and Children (N = 9441) using multivariable regression accounting for educational attainment, ethnicity, maternal age, parity, offspring sex, and adiposity. We conducted two-sample Mendelian randomization (MR) using data from the Mendelian Randomization in Pregnancy (MR-PREG) collaboration (77 683–707 797 pregnancies) and multivariable MR (MVMR) accounting for genetically-proxied adiposity. Results Older age at menarche was associated with lower risks of hypertensive disorders of pregnancy, gestational hypertension, and preeclampsia, but accounting for adiposity attenuated these effects across approaches. For example, per 1-year older age at menarche, the odds ratio (OR) for hypertensive disorders of pregnancy was 0.88 (95% confidence interval (CI) : 0.84, 0.93) in inverse variance weighted MR and 0.95 (95% CI: 0.90, 1.01) in MVMR, while the observational association attenuated from OR = 0.91 (95% CI: 0.87, 0.94) to OR = 0.97 (95% CI: 0.93, 1.01). No clear evidence was found for the effects of age at menarche on small-for-gestational-age, low birthweight, post-term birth, or perinatal depression from either approach. For other outcomes evidence was limited by imprecision (very preterm birth, gestational diabetes) or inconsistent effects in sensitivity analyses (offspring birthweight, large-for-gestational-age, high birthweight, preterm birth). Conclusion We find little robust evidence for causal effects of age at menarche on pregnancy outcomes. Effects of younger menarche on increased risks of hypertensive disorders of pregnancy may be driven by adiposity.</description>
     </item>
     <item>
+      <title>The race variable: how statistical practices reinforce inequality</title>
+      <link>https://doi.org/10.1093/ije/dyag128</link>
+      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
+
+      <dc:creator>Jason Gurney</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jason Gurney
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
+    </item>
+    <item>
       <title>Ambient air pollution and risk of active tuberculosis: a population-based cohort study in Taiwan</title>
       <link>https://doi.org/10.1093/ije/dyag100</link>
       <guid isPermaLink="false">10.1093/ije/dyag100</guid>
@@ -44,17 +55,6 @@ Abstract: Abstract Background Observational studies have suggested that a younge
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag100
 
 Abstract: Abstract Background Available evidence on the relationship between long-term exposure to particulate matter with an aerodynamic diameter of ≤2.5 μm (PM2.5) and tuberculosis has been limited and inconsistent. Methods We conducted a longitudinal cohort study on individuals aged ≥12 years who participated in four rounds of the National Health Interview Survey. PM2.5 exposure was estimated by using data from air-quality monitoring stations and microsensors. Incident tuberculosis was identified based on International Classification of Diseases codes and the prescription of anti-tuberculosis drugs in the National Health Insurance Database. Time-dependent Cox regression analyses were conducted to estimate the linear and nonlinear associations between PM2.5 level and tuberculosis risk. Results Among 55 316 individuals with a median follow-up time of 12 years, 429 cases of incident tuberculosis were identified. The annual mean baseline PM2.5 concentration was 34.5 μg/m3 (interquartile range: 28.7–39.2 μg/m3). After adjustment for age, sex, body mass index, cigarette smoking, alcohol use, education level, income, and tuberculosis history, the adjusted hazard ratio was 1.16 (95% confidence interval: 1.00–1.34) for every 10-μg/m3 increase in the PM2.5 level. The results of the restricted cubic spline Cox regression analysis revealed a potential nonlinear relationship (P for nonlinearity: .04), with the risk of tuberculosis increasing more rapidly when the annual mean concentration of PM2.5 exceeded 30 μg/m3. Conclusion In this large population-based cohort study, a positive association between PM2.5 and tuberculosis was observed, particularly at moderately high concentrations of PM2.5 exposure. These findings highlight the need for air-pollution control strategies to mitigate tuberculosis risk.</description>
-    </item>
-    <item>
-      <title>The race variable: how statistical practices reinforce inequality</title>
-      <link>https://doi.org/10.1093/ije/dyag128</link>
-      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
-
-      <dc:creator>Jason Gurney</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jason Gurney
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
     </item>
     <item>
       <title>Data Resource Profile: Health Insurance Review and Assessment Service Korean nationwide claims OMOP CDM (2015–24) database, HIRA K-OMOP</title>
@@ -615,18 +615,6 @@ Abstract: Abstract Background Colorectal cancer (CRC) screening programmes often
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag115</description>
     </item>
     <item>
-      <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag136</link>
-      <guid isPermaLink="false">10.1093/ije/dyag136</guid>
-
-      <dc:creator>Marco A Peres</dc:creator>
-      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag136</description>
-    </item>
-    <item>
       <title>Cohort Profile: Scotland’s Substance Use and Health Intelligence Linked Dataset (SHIeLD)</title>
       <link>https://doi.org/10.1093/ije/dyag140</link>
       <guid isPermaLink="false">10.1093/ije/dyag140</guid>
@@ -643,6 +631,18 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Lee Barnsdale, Alan Yeung, Megan Glancy, Jaroslaw Lang, Andreas Markoulidakis, Matthew Hickman, Hayley E Jones, Elinor Curnow, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag140</description>
+    </item>
+    <item>
+      <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag136</link>
+      <guid isPermaLink="false">10.1093/ije/dyag136</guid>
+
+      <dc:creator>Marco A Peres</dc:creator>
+      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag136</description>
     </item>
     <item>
       <title>Cohort Profile: The Chongqing Multi-Community Cohort (CMCC)</title>
@@ -1448,19 +1448,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag086</description>
     </item>
     <item>
-      <title>Is morbidity expanding? An epidemiological framework for understanding morbidity expansion and multimorbidity</title>
-      <link>https://doi.org/10.1093/ije/dyag037</link>
-      <guid isPermaLink="false">10.1093/ije/dyag037</guid>
-
-      <dc:creator>Tony Blakely</dc:creator>
-      <dc:creator>Wondmagegn Demsiss</dc:creator>
-      <dc:creator>Daniel Ramsay</dc:creator>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tony Blakely, Wondmagegn Demsiss, Daniel Ramsay
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag037</description>
-    </item>
-    <item>
       <title>Estimating causal effects of C-reactive protein on disease and health outcomes using multivariable Mendelian randomization adjusting for heritable confounding</title>
       <link>https://doi.org/10.1093/ije/dyag049</link>
       <guid isPermaLink="false">10.1093/ije/dyag049</guid>
@@ -1473,6 +1460,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag049
 
 Abstract: Abstract Background C-reactive protein (CRP) is a marker of inflammation associated with autoimmune, cardiovascular, and neuropsychiatric disorders. However, it remains unclear whether CRP causally affects these traits or if observed associations result from reverse causation or confounding. Mendelian randomization (MR) uses genetic variants as instrumental variables to estimate causal effects and avoid the biases present in observational studies. Prior MR studies have suggested causal effects of CRP on several traits, including low-density lipoprotein (LDL) cholesterol, schizophrenia (SCZ), and knee osteoarthritis (OA). However, MR may produce biased results if traits that confound the exposure and outcome are heritable, resulting in horizontal pleiotropy. This is a major concern for studies of CRP, because CRP levels may increase in response to inflammation caused by a wide range of heritable conditions. Methods Multivariable Mendelian randomization (MVMR) can be used to eliminate bias from heritable confounding when genome-wide association study (GWAS) summary data are available for confounders. In this study, we used MVMR to estimate the causal effects of CRP on 16 outcomes with prior evidence of a causal or associational link to CRP. We used a novel computational pipeline to identify a broad set of potential heritable confounders between CRP and each outcome trait from studies in the Medical Research Council Integrative Epidemiology Unit (MRC-IEU) OpenGWAS database. We compared MVMR results with computationally selected confounders to univariable MR results and MVMR adjusting only for body mass index. Results Univariable MR suggests evidence of potential causal effects of CRP on coronary artery disease, high-density lipoprotein (HDL) cholesterol, LDL cholesterol, triglycerides, type 2 diabetes, glycated hemoglobin (HbA1c), rheumatoid arthritis (RA), SCZ and OA at the nominal P &amp;amp;lt; .05 significance level. However, after adjusting for computationally selected heritable confounders, only effects on HDL cholesterol (negative), HbA1c (positive), RA (risk increasing), and SCZ (risk decreasing) remain nominally significant. Using confounder-adjusted MVMR additionally reveals evidence of a protective effect of CRP on bipolar disorder not observed in the univariable analysis. Conclusion These results suggest that univariable MR analyses of CRP may be biased by high levels of heritable confounding, though CRP may indeed play a causal role in development of some diseases, potentially mediated by its role in innate immunity. These results also highlight the potential for automatic confounder selection to improve the robustness of MR analyses.</description>
+    </item>
+    <item>
+      <title>Is morbidity expanding? An epidemiological framework for understanding morbidity expansion and multimorbidity</title>
+      <link>https://doi.org/10.1093/ije/dyag037</link>
+      <guid isPermaLink="false">10.1093/ije/dyag037</guid>
+
+      <dc:creator>Tony Blakely</dc:creator>
+      <dc:creator>Wondmagegn Demsiss</dc:creator>
+      <dc:creator>Daniel Ramsay</dc:creator>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tony Blakely, Wondmagegn Demsiss, Daniel Ramsay
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag037</description>
     </item>
     <item>
       <title>Early-life exposure to ambient temperature and polycystic ovary syndrome: a nationwide cohort study</title>
@@ -1530,20 +1530,6 @@ Abstract: Abstract Introduction Inorganic lead is a common occupational exposure
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag054</description>
     </item>
     <item>
-      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
-      <link>https://doi.org/10.1093/ije/dyag078</link>
-      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
-
-      <dc:creator>Andrea D Olmstead</dc:creator>
-      <dc:creator>Kayla McLean</dc:creator>
-      <dc:creator>Imelda S Wong</dc:creator>
-      <dc:creator>Xibiao Ye</dc:creator>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
-    </item>
-    <item>
       <title>Cohort Profile Update: The 1982 Pelotas (Brazil) Birth Cohort follow-up at 40 years</title>
       <link>https://doi.org/10.1093/ije/dyag075</link>
       <guid isPermaLink="false">10.1093/ije/dyag075</guid>
@@ -1558,6 +1544,20 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
       <description>Authors: Bernardo L Horta, Fernando P Hartwig, Mariane da S. Dias, Riceli R Oliveira, Natália P Lima, Janaina V dos S. Motta
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag075</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
+      <link>https://doi.org/10.1093/ije/dyag078</link>
+      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
+
+      <dc:creator>Andrea D Olmstead</dc:creator>
+      <dc:creator>Kayla McLean</dc:creator>
+      <dc:creator>Imelda S Wong</dc:creator>
+      <dc:creator>Xibiao Ye</dc:creator>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
     </item>
     <item>
       <title>Why can’t epidemiology be automated (yet)? Perhaps it shouldn’t be</title>
