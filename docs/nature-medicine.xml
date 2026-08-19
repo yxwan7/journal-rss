@@ -5,8 +5,31 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:06:03 +0000</lastBuildDate>
 
+    <item>
+      <title>County, district and community-level measles transmission in the United States in 2013−2025</title>
+      <link>https://doi.org/10.1038/s41591-026-04561-w</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04561-w</guid>
+
+      <dc:creator>Siyu Chen</dc:creator>
+      <dc:creator>Ana I. Bento</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Siyu Chen, Ana I. Bento
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Food is medicine: an opportunity to transform nutrition care in oncology</title>
+      <link>https://doi.org/10.1038/s41591-026-04591-4</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04591-4</guid>
+
+      <dc:creator>Fang Fang Zhang</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fang Fang Zhang
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>Emergence and spread of Plasmodium falciparum PX1 polymorphisms associated with decreased susceptibility to antimalarials in Uganda</title>
       <link>https://doi.org/10.1038/s41591-026-04590-5</link>
@@ -515,6 +538,14 @@ Journal: Nature Medicine
 Abstract: Abstract Recent rapid progress in the field of computational pathology has been enabled by foundation models. These models are beginning to move beyond encoding image patches toward whole-slide understanding, but their clinical utility remains limited. Here we present PRISM2, a multimodal slide-level foundation model trained on 2.3 million whole-slide images and 14 million question−answer pairs derived from 700,000 pathology reports. Through clinical dialogue supervision, PRISM2 aligns histomorphology with diagnostic reasoning, yielding representations that support both prompt-based inference and transferable embeddings for downstream tasks. With prompt-based inference, PRISM2 achieves or exceeds ( P &amp;lt; 0.05) the balanced accuracy of clinical-grade products calibrated for cancer detection in the prostate, breast and breast lymph node. Additionally, across comprehensive diagnostic, biomarker and survival benchmarks, PRISM2 embeddings never statistically underperform previous foundation models via linear probing ( P &amp;lt; 0.05). Furthermore, task-specific fine-tuning on survival prediction outperforms training from scratch on the same large survival dataset. PRISM2 demonstrates how language-supervised pretraining provides a scalable, clinically grounded signal for generalizable pathology representations, bridging human diagnostic reasoning and foundation model performance.</description>
     </item>
     <item>
+      <title>Learning from routine health system data builds better neuroimaging AI models</title>
+      <link>https://doi.org/10.1038/s41591-026-04567-4</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04567-4</guid>
+
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2743-2744</description>
+    </item>
+    <item>
       <title>Humanoid robots perform successful surgery in animals</title>
       <link>https://doi.org/10.1038/d41591-026-00038-y</link>
       <guid isPermaLink="false">10.1038/d41591-026-00038-y</guid>
@@ -524,14 +555,6 @@ Abstract: Abstract Recent rapid progress in the field of computational pathology
       <description>Authors: Karen O’Leary
 
 Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Learning from routine health system data builds better neuroimaging AI models</title>
-      <link>https://doi.org/10.1038/s41591-026-04567-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04567-4</guid>
-
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2743-2744</description>
     </item>
     <item>
       <title>Deciphering the role of histidine in cancer</title>
@@ -1111,6 +1134,17 @@ Journal: Nature Medicine
 Abstract: Abstract Parkinson’s disease (PD) is characterized by progressive loss of nigral dopaminergic neurons, resulting in disabling motor symptoms. Intracerebral transplantation of stem cell-derived dopaminergic progenitors to replace lost endogenous dopaminergic neurons offers a new potentially restorative therapeutic approach for PD. Here we report the 12-month primary safety end point and interim efficacy outcomes from a phase 1/2, open-label, multicenter trial evaluating STEM-PD, a cryopreserved, off-the-shelf dopaminergic progenitor product derived from human pluripotent stem cells. Eight individuals with moderate PD underwent bilateral intraputaminal transplantation at two escalating doses ( n = 4 per cohort), followed by 12 months of immunosuppression. Seven participants completed 12-month follow-up; one participant died from a pulmonary infection. No serious adverse events were attributed to the cell product, no graft-induced dyskinesias were observed and serial magnetic resonance imaging showed no evidence of tumor formation. These findings support the feasibility and favorable safety profile of human pluripotent stem cell-derived dopaminergic progenitor transplantation in this early-phase study, with risks primarily associated with the immunosuppression regimen. Ongoing follow-up to 36 months will further evaluate durability, clinical outcomes and graft function. ClinicalTrials.gov identifier: NCT05635409 .</description>
     </item>
     <item>
+      <title>A second chance for gene therapy to restore natural hearing</title>
+      <link>https://doi.org/10.1038/s41591-026-04512-5</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04512-5</guid>
+
+      <dc:creator>Nicola Strenzke</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Nicola Strenzke
+
+Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2735-2737</description>
+    </item>
+    <item>
       <title>Challenges and future directions for multiple sclerosis after the 2024 McDonald diagnostic criteria</title>
       <link>https://doi.org/10.1038/s41591-026-04490-8</link>
       <guid isPermaLink="false">10.1038/s41591-026-04490-8</guid>
@@ -1127,17 +1161,6 @@ Abstract: Abstract Parkinson’s disease (PD) is characterized by progressive lo
       <description>Authors: Jiwon Oh, Frederik Barkhof, Amit Bar-Or, Olga Ciccarrelli, Timothy Coetzee, Massimo Filippi, Cristina Granziera, Yael Hacohen, et al.
 
 Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>A second chance for gene therapy to restore natural hearing</title>
-      <link>https://doi.org/10.1038/s41591-026-04512-5</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04512-5</guid>
-
-      <dc:creator>Nicola Strenzke</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nicola Strenzke
-
-Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2735-2737</description>
     </item>
     <item>
       <title>Global breast cancer survival estimates in 2017–2021 to advance the WHO Global Breast Cancer Initiative</title>
@@ -1430,6 +1453,17 @@ Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2619-2628</description>
 Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2383-2394</description>
     </item>
     <item>
+      <title>When the real world becomes the trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04484-6</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04484-6</guid>
+
+      <dc:creator>Marianne Guenot</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marianne Guenot
+
+Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2324-2327</description>
+    </item>
+    <item>
       <title>A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia</title>
       <link>https://doi.org/10.1038/s41591-026-04498-0</link>
       <guid isPermaLink="false">10.1038/s41591-026-04498-0</guid>
@@ -1448,17 +1482,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2383-2394</description>
 Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2591-2601
 
 Abstract: Abstract Millions of people worldwide are living with movement and sensory impairments owing to spinal cord injury, stroke and other neurological conditions. Here we report a double neural bypass (DNB), a hybrid neuroprosthetic system designed to restore both immediate and lasting gains in movement and sensation after a severe, complete spinal cord injury. The DNB links an intracortical brain–computer interface with targeted and patterned neuromodulation of the spinal cord and cortex. This allows brain signals associated with movement intention to directly control the movement of the user’s own hand in real time while also promoting long-term sensorimotor recovery—even after the system is turned off. The DNB system uses recurrent artificial neural networks and reinforcement learning for fine grasp control, together with patterned spinal cord stimulation and activity-informed intracortical microstimulation (‘cortical mirroring’) to promote neuroplasticity and durable recovery of function. In a participant with chronic C4 sensory/C5 motor complete tetraplegia, this hybrid approach enabled recovery of functional abilities including self-feeding and manipulation of delicate objects, while also producing significant and persistent improvements in elbow flexion and wrist tactile sensation. These findings demonstrate the potential of combining a sensorimotor neuroprosthesis with targeted brain and spinal neuromodulation to restore clinically relevant function in severe paralysis.</description>
-    </item>
-    <item>
-      <title>When the real world becomes the trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04484-6</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04484-6</guid>
-
-      <dc:creator>Marianne Guenot</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marianne Guenot
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2324-2327</description>
     </item>
     <item>
       <title>Oncology must confront hidden side effects</title>
@@ -1560,38 +1583,6 @@ Journal: Nature Medicine</description>
       <description>Authors: Lauren Averett Byers, Byoung Chul Cho, Alissa J. Cooper, Anne C. Chiang, Ji-Youn Han, Muhammad Furqan, Afshin Dowlati, Daniel Morgensztern, et al.
 
 Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 3093-3093</description>
-    </item>
-    <item>
-      <title>Adaptive brain stimulation 2.0 for Parkinsonian gait</title>
-      <link>https://doi.org/10.1038/s41591-026-04489-1</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04489-1</guid>
-
-      <dc:creator>Arjun Balachandar</dc:creator>
-      <dc:creator>Alfonso Fasano</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Arjun Balachandar, Alfonso Fasano
-
-Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2732-2734</description>
-    </item>
-    <item>
-      <title>Immersive virtual reality with synchronous neurostimulation for upper-limb recovery after stroke: a randomized feasibility trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04486-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04486-4</guid>
-
-      <dc:creator>Giuseppe Valerio Aurucci</dc:creator>
-      <dc:creator>Olivera Djordjevic</dc:creator>
-      <dc:creator>Andrea Cimolato</dc:creator>
-      <dc:creator>Natalija Secerovic</dc:creator>
-      <dc:creator>Tijana Dimkic Tomic</dc:creator>
-      <dc:creator>Maria Dolores Ardura Carnicero</dc:creator>
-      <dc:creator>Haotian Yao</dc:creator>
-      <dc:creator>Ljubica Konstantinovic</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Giuseppe Valerio Aurucci, Olivera Djordjevic, Andrea Cimolato, Natalija Secerovic, Tijana Dimkic Tomic, Maria Dolores Ardura Carnicero, Haotian Yao, Ljubica Konstantinovic, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2790-2802
-
-Abstract: Abstract Stroke affects 15 million people annually and leaves 5 million permanently disabled. In the chronic phase (&amp;gt;3 months after stroke), patients often experience persistent sensorimotor deficits and altered body representation, yet rehabilitation delivery remains partial and inconsistent, highlighting an unmet clinical need. Immersive technologies and noninvasive neurostimulation offer potential for scalable, intensive rehabilitation, but clinical evidence supporting multimodal approaches and objective outcome assessments remains limited. In this study, we evaluate the feasibility, clinical efficacy and assessment capabilities of a multimodal platform (MultiSensy) integrating virtual reality with synchronous transcutaneous sensory neurostimulation. Thirty-four patients with chronic stroke were enrolled in a combined pilot study ( n = 9) and randomized, 33-day-long feasibility study ( n = 25), where MultiSensy intervention was evaluated against conventional rehabilitation. Primary endpoints included motor function assessed by Fugl-Meyer Assessment Upper Extremity (FMA-UE) and Action Research Arm Test (ARAT) and self-body representation assessed by the Body Landmark Test. Secondary outcomes included sensory and functional independence evaluation. Continuous kinematic data were collected to derive objective performance markers. Compared to conventional rehabilitation, MultiSensy resulted in greater motor improvement, reflected by higher FMA-UE (13.17 ± 1.30 versus 7.54 ± 1.48; P = 0.01) and ARAT (8.25 ± 1.96 versus 2.44 ± 1.08; P = 0.029) scores. MultiSensy further improved body self-representation and hand tactile acuity. The platform enabled continuous performance monitoring and extraction of objective kinematic markers that tracked rehabilitation progress. These findings pave the way for larger trials and highlight the potential treatment of multiple patients with fewer physiotherapist visits needed or even home-based sensorimotor rehabilitation. ClinicalTrials.gov identifier: NCT06400823 .</description>
     </item>
   </channel>
 </rss>
