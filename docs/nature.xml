@@ -5,8 +5,553 @@
     <link>https://www.nature.com/nature/</link>
     <description>Latest journal articles for Nature</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:05:59 +0000</lastBuildDate>
 
+    <item>
+      <title>Psychedelics align brain activity with context</title>
+      <link>https://doi.org/10.1038/s41586-026-10910-z</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10910-z</guid>
+
+      <dc:creator>Devon Stoliker</dc:creator>
+      <dc:creator>Leonardo Novelli</dc:creator>
+      <dc:creator>Moein Khajehnejad</dc:creator>
+      <dc:creator>Mana Biabani</dc:creator>
+      <dc:creator>Matthew D. Greaves</dc:creator>
+      <dc:creator>Tamrin Barta</dc:creator>
+      <dc:creator>Martin Williams</dc:creator>
+      <dc:creator>Sidhant Chopra</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Devon Stoliker, Leonardo Novelli, Moein Khajehnejad, Mana Biabani, Matthew D. Greaves, Tamrin Barta, Martin Williams, Sidhant Chopra, et al.
+
+Journal: Nature
+
+Abstract: Abstract Psychedelics can profoundly alter consciousness by reorganizing brain connectivity 1,2 , producing acute experiences that shape lasting psychological change 3,4 . Psychedelic dynamics are commonly described as desynchronized or entropically disordered 5,6 , yet the brain organization underlying self-dissolving and boundary-dissolving experiences that participants often report 7 , and how context shapes that organization 8 , remain unresolved. To address this, we acquired the largest single-site psychedelic neuroimaging dataset to date. Sixty-two adults underwent functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) during rest and naturalistic stimuli (meditation, music and movie), before and on the day of psilocybin administration (fMRI ~ 80 min post-dose; EEG ~ 150 min post-dose). Half ranked the experience among the most meaningful of their lives 7 . Here, using machine learning to represent the brain dynamics of each individual as low-dimensional trajectories, we show that psilocybin reorganizes brain activity into structured, context-sensitive patterns that co-vary with the quality of subjective experience, revealing a latent order missed by time-averaged measures. Networks that ordinarily segregate internal and external processing integrated, producing cohesive context-aligned trajectories in participants reporting the felt experience of being continuous with, rather than separate from, the environment, a state we refer to as embeddedness. The strength of this context alignment scaled with both the depth of self-dissolving and boundary-dissolving experience and the next-day mindset change. Our findings recast apparent disorder as latent organization aligned with context, linking neurobiology to subjective experience and behavioural change.</description>
+    </item>
+    <item>
+      <title>Delisted</title>
+      <link>https://doi.org/10.1038/d41586-026-02410-x</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02410-x</guid>
+
+      <dc:creator>Ximing Zhang</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ximing Zhang
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Too much mate choice overwhelms frogs</title>
+      <link>https://doi.org/10.1038/d41586-026-02554-w</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02554-w</guid>
+
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
+    </item>
+    <item>
+      <title>Human brain organoids record the passage of time over multiple years</title>
+      <link>https://doi.org/10.1038/s41586-026-10877-x</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10877-x</guid>
+
+      <dc:creator>Irene Faravelli</dc:creator>
+      <dc:creator>Noelia Antón-Bolaños</dc:creator>
+      <dc:creator>Anqi Wei</dc:creator>
+      <dc:creator>Tyler Faits</dc:creator>
+      <dc:creator>Abhishek Sampath Kumar</dc:creator>
+      <dc:creator>Sophia Andreadis</dc:creator>
+      <dc:creator>Rahel Kastli</dc:creator>
+      <dc:creator>Marta Montero Crespo</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Irene Faravelli, Noelia Antón-Bolaños, Anqi Wei, Tyler Faits, Abhishek Sampath Kumar, Sophia Andreadis, Rahel Kastli, Marta Montero Crespo, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Family genetic designs in MoBa provide insights into health and functioning</title>
+      <link>https://doi.org/10.1038/s41586-026-10926-5</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10926-5</guid>
+
+      <dc:creator>Elizabeth C. Corfield</dc:creator>
+      <dc:creator>Alexey A. Shadrin</dc:creator>
+      <dc:creator>Oleksandr Frei</dc:creator>
+      <dc:creator>Zillur Rahman</dc:creator>
+      <dc:creator>Bayram Cevdet Akdeniz</dc:creator>
+      <dc:creator>Tahir Tekin Filiz</dc:creator>
+      <dc:creator>Aihua Lin</dc:creator>
+      <dc:creator>Isabella Badini</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elizabeth C. Corfield, Alexey A. Shadrin, Oleksandr Frei, Zillur Rahman, Bayram Cevdet Akdeniz, Tahir Tekin Filiz, Aihua Lin, Isabella Badini, et al.
+
+Journal: Nature
+
+Abstract: Abstract Genome-wide association studies using large, population-based samples of unrelated individuals have discovered thousands of genetic associations with health and disease 1 . These studies can help explain genetic and environmental risks. However, increasing evidence suggests that population-based estimates, while precise, can also reflect confounding that affects their use and interpretation. This confounding can be overcome using data from genotyped family members, such as nuclear mother–father–child trios 2,3 . However, samples of genotyped families are rare 4–11 . Here we illustrate some of the advantages of familial data using the Norwegian Mother, Father and Child Cohort Study (MoBa), a population-based cohort of parents and offspring with extensive genotype data ( n ≈ 230,000) (ref. 3 ), along with broad and longitudinal phenotyping of health and functioning. We provide an overview of MoBa and describe the quality control of genotype data tailored to this extensively related sample. We then use trio data to illustrate how family-based genomic designs can identify distinct direct and indirect sources of genetic influence and structural confounding. As examples, we analyse children’s height, educational achievement, depressive symptoms and sleep duration. These demonstrations highlight MoBa as a broadly valuable resource for advancing understanding of health and functioning across the lifecourse and generations.</description>
+    </item>
+    <item>
+      <title>Safety and security of large language models in healthcare</title>
+      <link>https://doi.org/10.1038/s41586-026-10687-1</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10687-1</guid>
+
+      <dc:creator>Jan Clusmann</dc:creator>
+      <dc:creator>Oscar Freyer</dc:creator>
+      <dc:creator>Max Ostermann</dc:creator>
+      <dc:creator>Dyke Ferber</dc:creator>
+      <dc:creator>Narmin Ghaffari Laleh</dc:creator>
+      <dc:creator>Lars Hilgers</dc:creator>
+      <dc:creator>Fiona R. Kolbinger</dc:creator>
+      <dc:creator>Carolin V. Schneider</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jan Clusmann, Oscar Freyer, Max Ostermann, Dyke Ferber, Narmin Ghaffari Laleh, Lars Hilgers, Fiona R. Kolbinger, Carolin V. Schneider, et al.
+
+Journal: Nature; Volume: 656; Issue: 8128; Pages: 577-589</description>
+    </item>
+    <item>
+      <title>Artefacts in single-cell mtDNA analyses misinform phylogenies</title>
+      <link>https://doi.org/10.1038/s41586-026-10777-0</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10777-0</guid>
+
+      <dc:creator>Caleb A. Lareau</dc:creator>
+      <dc:creator>Michael Spencer Chapman</dc:creator>
+      <dc:creator>Livius Penter</dc:creator>
+      <dc:creator>Tal Nawy</dc:creator>
+      <dc:creator>Dana Pe’er</dc:creator>
+      <dc:creator>Leif S. Ludwig</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Caleb A. Lareau, Michael Spencer Chapman, Livius Penter, Tal Nawy, Dana Pe’er, Leif S. Ludwig
+
+Journal: Nature; Volume: 656; Issue: 8128; Pages: E25-E31</description>
+    </item>
+    <item>
+      <title>AI tool lets researchers 'vibe code' in the quantum realm</title>
+      <link>https://doi.org/10.1038/d41586-026-02495-4</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02495-4</guid>
+
+      <dc:creator>Davide Castelvecchi</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Davide Castelvecchi
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Computational ‘gym’ trains AI models to control turbulence</title>
+      <link>https://doi.org/10.1038/d41586-026-02375-x</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02375-x</guid>
+
+      <dc:creator>Clara M. Velte</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Clara M. Velte
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit</title>
+      <link>https://doi.org/10.1038/s41586-026-10933-6</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10933-6</guid>
+
+      <dc:creator>Abigail J. Bracken</dc:creator>
+      <dc:creator>Alexandra P. Lawrie</dc:creator>
+      <dc:creator>Isabella F. Romita</dc:creator>
+      <dc:creator>Mark D. Levin</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Abigail J. Bracken, Alexandra P. Lawrie, Isabella F. Romita, Mark D. Levin
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>An Icelandic pangenome reference</title>
+      <link>https://doi.org/10.1038/s41586-026-10924-7</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10924-7</guid>
+
+      <dc:creator>Guillaume Holley</dc:creator>
+      <dc:creator>Hannes P. Eggertsson</dc:creator>
+      <dc:creator>Snaedis Kristmundsdottir</dc:creator>
+      <dc:creator>Doruk Beyter</dc:creator>
+      <dc:creator>Astros Th Skuladottir</dc:creator>
+      <dc:creator>Kristjan H. S. Moore</dc:creator>
+      <dc:creator>Pall I. Olason</dc:creator>
+      <dc:creator>Arnaldur Gylfason</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Guillaume Holley, Hannes P. Eggertsson, Snaedis Kristmundsdottir, Doruk Beyter, Astros Th Skuladottir, Kristjan H. S. Moore, Pall I. Olason, Arnaldur Gylfason, et al.
+
+Journal: Nature
+
+Abstract: Abstract Reference bias is an issue that affects most genomic studies analysing short reads mapped to a reference genome 1,2 . It can be mitigated by mapping to multiple haplotypes represented in a pangenome 3–5 . Here we introduce two new methods to address reference bias: Emblask for pangenome construction and Weaver for mapping to pangenomes at scale. Emblask is a hybrid long- and short-read haplotype-resolved dual assembly pipeline for parent–offspring trio data. Using Emblask, we assembled 698 Icelandic haplotypes and added them to the Human Pangenome Reference Consortium (HPRC) pangenome 4 to construct an Icelandic pangenome reference (HPRC-ICE) including 51.41 million small variants. We mapped the short reads of 57,630 Icelanders to HPRC-ICE with Weaver and called 98.96 million variants, representing a 6.17% increase over mapping to a linear reference. We uncovered new variants in low-mappability regions, including a pathogenic single nucleotide polymorphism (SNP) in GBA1 that associates with early onset Parkinson’s disease and a missense SNP in CBS that is pathogenic for homocystinuria. We replicated the GBA1 association in the UK Biobank 6 with a targeted remapping of 429,193 British and Irish participants.</description>
+    </item>
+    <item>
+      <title>Increasing CO2 levels fertilize C4 grass production</title>
+      <link>https://doi.org/10.1038/s41586-026-10935-4</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10935-4</guid>
+
+      <dc:creator>Kimberley J. Simpson</dc:creator>
+      <dc:creator>A. Carla Staver</dc:creator>
+      <dc:creator>James A. King</dc:creator>
+      <dc:creator>William J. Bond</dc:creator>
+      <dc:creator>Corli Coetsee</dc:creator>
+      <dc:creator>Nita C. M. Pallett</dc:creator>
+      <dc:creator>Adam F. A. Pellegrini</dc:creator>
+      <dc:creator>Sarah L. Raubenheimer</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kimberley J. Simpson, A. Carla Staver, James A. King, William J. Bond, Corli Coetsee, Nita C. M. Pallett, Adam F. A. Pellegrini, Sarah L. Raubenheimer, et al.
+
+Journal: Nature
+
+Abstract: Abstract Rising atmospheric CO 2 concentrations are impacting the global terrestrial biosphere through indirect climate effects and direct effects on plant performance 1–3 . In tropical forests, long-term monitoring indicates a substantial CO 2 -driven carbon sink 4 . C 4 -grass-dominated tropical and subtropical savannas contribute approximately 30% of terrestrial net primary production 5 , and yet equivalent long-term analyses of CO 2 responses are lacking. Here we show a clear and consistent result across a meta-analysis of 70 CO 2 -addition experiments and 32 years of in situ field observations from southern Africa: CO 2 fertilization of wild C 4 grasses is widespread in dry conditions. In experiments, grasses reduced stomatal conductance under higher levels of CO 2 , limiting water loss while increasing carbon gain. In the field, improved water use efficiency translated into increased C 4 grass biomass production across three decades of observations. Finally, simulations via the Community Land Model 6 suggest that CO 2 fertilization of C 4 grass aboveground productivity may continue to increase under future conditions. Together, these results challenge the view that C 4 grasses are unresponsive to increasing levels of CO 2 , demonstrating instead that annual aboveground production of grasses in the field in southern Africa has increased by 28% over three decades (a CO 2 -driven increase of 75.1 g m −2 (95% confidence interval of 74.5–75.8 g m −2 ) or 0.37 tons C ha −1 of annual production). Although the fate of this carbon is uncertain (depending on feedbacks with fire, herbivory and woody vegetation), effects on the global carbon cycle may be profound.</description>
+    </item>
+    <item>
+      <title>Virus deploys a ‘loose cannon’ enzyme to overpower bacterial defences</title>
+      <link>https://doi.org/10.1038/d41586-026-02537-x</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02537-x</guid>
+
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
+    </item>
+    <item>
+      <title>Wake-activated neuronal populations that regulate sleep drive</title>
+      <link>https://doi.org/10.1038/s41586-026-10928-3</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10928-3</guid>
+
+      <dc:creator>William Joo</dc:creator>
+      <dc:creator>Clare Diester</dc:creator>
+      <dc:creator>Vassilis Bitsikas</dc:creator>
+      <dc:creator>Myrto Panopoulou</dc:creator>
+      <dc:creator>Amelia Hidalgo</dc:creator>
+      <dc:creator>Konstantinos Ntemos</dc:creator>
+      <dc:creator>Rodrigo C. G. Pena</dc:creator>
+      <dc:creator>Fabia Imhof</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: William Joo, Clare Diester, Vassilis Bitsikas, Myrto Panopoulou, Amelia Hidalgo, Konstantinos Ntemos, Rodrigo C. G. Pena, Fabia Imhof, et al.
+
+Journal: Nature
+
+Abstract: Abstract Prolonged wakefulness increases sleep drive and is normally compensated for by increased sleep 1–3 . This homeostatic regulation of sleep shapes our lives profoundly, but the underlying neural circuit mechanisms remain poorly understood. Here, we identify wake-activated neurons that regulate sleep drive in mice, using whole-brain activity mapping, targeted neuronal manipulations and electrophysiology. By comparing whole-brain responses to sleep deprivation, recovery sleep and circadian behaviour, we identify the anterior medial preoptic area and the median raphe as candidate regions that encode sleep deficit. Activating sleep-deprivation-responsive cells in these regions induces increases in sleep duration and intensity that resemble recovery sleep. Conversely, inhibiting deprivation-responsive cells reduces sleep and abolishes the increased sleep propensity usually observed during deprivation. Neurons in the median raphe that are responsive to sleep deprivation project to subcortical sleep-associated regions and act through the preoptic hypothalamus. These deprivation-sensitive cells include serotonergic neurons and a distinct population of GABAergic neurons, whose intrinsic excitability increases during sleep deprivation. Co-activation of GABAergic and serotonergic neurons synergistically promotes sleep, whereas co-inhibition chronically decreases sleep by nearly 70%. Remarkably, most mice survive despite this marked reduction in sleep, without the compensatory increases in sleep drive or the behavioural deficits typically associated with severe sleep deprivation. Together, these results define neuronal populations that are activated during wakefulness and are crucial for sleep drive.</description>
+    </item>
+    <item>
+      <title>Pervasive phosphorylation by phage T7 kinase disarms bacterial defences</title>
+      <link>https://doi.org/10.1038/s41586-026-10934-5</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10934-5</guid>
+
+      <dc:creator>Tara Bartolec</dc:creator>
+      <dc:creator>Karin Mitosch</dc:creator>
+      <dc:creator>Clément Potel</dc:creator>
+      <dc:creator>Federico Corona</dc:creator>
+      <dc:creator>Alessio Ling Jie Yang</dc:creator>
+      <dc:creator>Nicolai Karcher</dc:creator>
+      <dc:creator>Mira Lea Burtscher</dc:creator>
+      <dc:creator>Alexandra Koumoutsi</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tara Bartolec, Karin Mitosch, Clément Potel, Federico Corona, Alessio Ling Jie Yang, Nicolai Karcher, Mira Lea Burtscher, Alexandra Koumoutsi, et al.
+
+Journal: Nature
+
+Abstract: Abstract Bacteria and bacteriophages are in a constant arms race to develop defence and anti-defence systems, respectively. Currently known phage-encoded anti-defence systems are specific to the activity of the targeted bacterial defence system. Here we identify a mechanism by which the T7 bacteriophage broadly counteracts bacterial defences using protein phosphorylation. Its kinase (T7K), which has been reported to redirect the function of a few host proteins 1–5 , is actually a hyperpromiscuous dual-specificity kinase that phosphorylates nearly all host and phage proteins during infection. The scale of phosphorylation vastly exceeds known phosphosites in Escherichia coli , has no sequence motif specificity and results in a higher proteome-wide phosphorylation density than mammalian cells with around 500 kinases. Stoichiometry analysis of phosphorylation sites revealed strong bias in T7K activity towards nucleic-acid-binding substrates mediated by its C-terminal DNA-binding domain. This highly stoichiometric phosphorylation enables the deactivation of DNA-targeting or DNA-containing bacterial defence systems. We provide mechanistic insights into how T7K weakens DNA-containing Retron-Eco9 through specific phosphorylation events, with single phosphomimetic mutations in key sites of the toxin abolishing defence. Moreover, by screening a large collection of E. coli strains, we provide evidence of broad anti-defence abilities of T7K in nature, as counteracted strains contain diverse bacterial defence systems. T7K homologues are found almost exclusively in phages, with hyperpromiscuous kinase activity probably being enabled by a divergent DFG-like motif in the catalytic centre.</description>
+    </item>
+    <item>
+      <title>A global atmospheric methane record from a tropical ice core</title>
+      <link>https://doi.org/10.1038/s41586-026-10938-1</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10938-1</guid>
+
+      <dc:creator>Kara A. Lamantia</dc:creator>
+      <dc:creator>Lonnie G. Thompson</dc:creator>
+      <dc:creator>Mary E. Davis</dc:creator>
+      <dc:creator>Ben Riddell-Young</dc:creator>
+      <dc:creator>Ivo Strawson</dc:creator>
+      <dc:creator>Emilie Beaudon</dc:creator>
+      <dc:creator>Ellen Mosley-Thompson</dc:creator>
+      <dc:creator>Newton Nguyen</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kara A. Lamantia, Lonnie G. Thompson, Mary E. Davis, Ben Riddell-Young, Ivo Strawson, Emilie Beaudon, Ellen Mosley-Thompson, Newton Nguyen, et al.
+
+Journal: Nature
+
+Abstract: Abstract Tropical wetlands are widely considered the largest natural source of atmospheric methane (CH 4 ) 1–4 . However, uncertainties about wetland extent and CH 4 production have led to large variations in modelled CH 4 emission trends 2,3 . Most historical reconstructions rely on data from polar ice cores, which cannot fully resolve the tropical contribution 5,6 to the CH 4 budget. Here we present a 2,000-year record of atmospheric CH 4 concentrations from ice cores drilled from the South Peak summit of Nevado Huascarán (Summit Core A, SCA; −9.122° S, −77.605° W; 6,768 m asl). We find that the trends and magnitudes of our CH 4 record are broadly consistent with polar records 7 . Our δ 13 C-CH 4 measurements (from approximately 1530 CE to 1999 CE) align with isotope values 8 consistent with a dominant tropical CH 4 source. Integration of our record into an atmospheric four-box model suggests a sustained equatorial dominance of CH 4 source strength over the past two millennia. Our findings indicate that equatorial CH 4 emissions are higher than previous estimates based only on polar ice core data, supporting the long-standing hypothesis that low-latitude CH 4 emissions dominated pre-industrial (PI) CH 4 variability 5,6 . These results demonstrate the importance of tropical ice cores on the reconstruction of CH 4 variability and latitudinal distribution.</description>
+    </item>
+    <item>
+      <title>Activity of solar-driven polymer catalysts unleashed to produce a potential green fuel</title>
+      <link>https://doi.org/10.1038/d41586-026-02373-z</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02373-z</guid>
+
+      <dc:creator>Filip Podjaski</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Filip Podjaski
+
+Journal: Nature; Volume: 656; Issue: 8128; Pages: 569-570</description>
+    </item>
+    <item>
+      <title>A biased allosteric modulator is a molecular glue for β2AR dimerization</title>
+      <link>https://doi.org/10.1038/s41586-026-10892-y</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10892-y</guid>
+
+      <dc:creator>Jiemin Shen</dc:creator>
+      <dc:creator>Teja Nikhil Peddada</dc:creator>
+      <dc:creator>Konstantin E. Komolov</dc:creator>
+      <dc:creator>Francesco De Pascali</dc:creator>
+      <dc:creator>Alexander M. Garces</dc:creator>
+      <dc:creator>Haoqing Wang</dc:creator>
+      <dc:creator>Muhammad Ehsan</dc:creator>
+      <dc:creator>Pil Seok Chae</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jiemin Shen, Teja Nikhil Peddada, Konstantin E. Komolov, Francesco De Pascali, Alexander M. Garces, Haoqing Wang, Muhammad Ehsan, Pil Seok Chae, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Asymmetric prefrontal representations for leader–follower dynamics</title>
+      <link>https://doi.org/10.1038/s41586-026-10900-1</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10900-1</guid>
+
+      <dc:creator>Yuan Cheng</dc:creator>
+      <dc:creator>Yusi Chen</dc:creator>
+      <dc:creator>Myungji Kwak</dc:creator>
+      <dc:creator>Ross P. Kempner</dc:creator>
+      <dc:creator>Rudramani Singha</dc:creator>
+      <dc:creator>Jared Winslow</dc:creator>
+      <dc:creator>Runqi Liu</dc:creator>
+      <dc:creator>Umais Khan</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yuan Cheng, Yusi Chen, Myungji Kwak, Ross P. Kempner, Rudramani Singha, Jared Winslow, Runqi Liu, Umais Khan, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Screening babies’ genomes could save lives. Here’s how it would work</title>
+      <link>https://doi.org/10.1038/d41586-026-02528-y</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02528-y</guid>
+
+      <dc:creator>Uzma Rentia</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Uzma Rentia
+
+Journal: Nature; Volume: 656; Issue: 8128; Pages: 554-556</description>
+    </item>
+    <item>
+      <title>Discovery of a star sensitive to the spin of Sagittarius A*</title>
+      <link>https://doi.org/10.1038/s41586-026-10894-w</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10894-w</guid>
+
+      <dc:creator>K. Abd El Dayem</dc:creator>
+      <dc:creator>R. Abuter</dc:creator>
+      <dc:creator>N. Aimar</dc:creator>
+      <dc:creator>P. Amaro-Seoane</dc:creator>
+      <dc:creator>A. Berdeu</dc:creator>
+      <dc:creator>J.-P. Berger</dc:creator>
+      <dc:creator>G. Bourdarot</dc:creator>
+      <dc:creator>W. Brandner</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: K. Abd El Dayem, R. Abuter, N. Aimar, P. Amaro-Seoane, A. Berdeu, J.-P. Berger, G. Bourdarot, W. Brandner, et al.
+
+Journal: Nature
+
+Abstract: Abstract Residing in the centre of the Milky Way, Sagittarius A* (Sgr A*) is the closest massive black hole 1 (MBH). Its vicinity has allowed measuring individual stellar orbits around it 2–4 . The stars act as test particles and probe the gravitational potential around the 4.3 × 10 6 M ⊙ MBH. These observations have determined the central mass to sub-per-cent precision 5 , and the mildly relativistic motions of stars have given access to the dominant relativistic corrections, the gravitational redshift 6,7 , the transverse Doppler effect and the prograde precession imposed by the Schwarzschild metric nature of the potential 8 . These effects are of order β 2 = ( v / c ) 2 (for velocity v and speed of light c ). The Kerr metric for a rotating black hole leads to corrections of order β 3 . Here, we report the discovery of a faint main-sequence star ( m K = 19.3), S301, on an 8.7-year orbit and with small enough a pericentre distance, such that the peak velocity of the star reaches 25,000 km s −1 . Within the measurement abilities of current near-infrared interferometry and future spectroscopy on an extremely large telescope, the motion of S301 is directly sensitive to the spin of Sgr A*. The high eccentricity of S301 suggests that it is the captured component of a binary that was torn apart by the Hills mechanism.</description>
+    </item>
+    <item>
+      <title>Human organoids that mimic brain development grown for years in lab</title>
+      <link>https://doi.org/10.1038/d41586-026-02585-3</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02585-3</guid>
+
+      <dc:creator>Rachel Fieldhouse</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rachel Fieldhouse
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>The Antarctic ice sheet has gained mass — but probably not for long</title>
+      <link>https://doi.org/10.1038/d41586-026-02376-w</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02376-w</guid>
+
+      <dc:creator>Jonathan Wille</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jonathan Wille
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>The HydroGym reinforcement learning platform for fluid dynamics</title>
+      <link>https://doi.org/10.1038/s41586-026-10917-6</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10917-6</guid>
+
+      <dc:creator>Christian Lagemann</dc:creator>
+      <dc:creator>Sajeda Mokbel</dc:creator>
+      <dc:creator>Miro Gondrum</dc:creator>
+      <dc:creator>Mario Rüttgers</dc:creator>
+      <dc:creator>Yuning Wang</dc:creator>
+      <dc:creator>Pol Suárez</dc:creator>
+      <dc:creator>Ludger Paehler</dc:creator>
+      <dc:creator>Deniz A. Bezgin</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Christian Lagemann, Sajeda Mokbel, Miro Gondrum, Mario Rüttgers, Yuning Wang, Pol Suárez, Ludger Paehler, Deniz A. Bezgin, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Observation of conformal field theory spectra in a quantum simulator</title>
+      <link>https://doi.org/10.1038/s41586-026-10904-x</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10904-x</guid>
+
+      <dc:creator>Xiangkai Sun</dc:creator>
+      <dc:creator>Yuan Le</dc:creator>
+      <dc:creator>Stephen Naus</dc:creator>
+      <dc:creator>Richard Bing-Shiun Tsai</dc:creator>
+      <dc:creator>Lewis R. B. Picard</dc:creator>
+      <dc:creator>Sara Murciano</dc:creator>
+      <dc:creator>Michael Knap</dc:creator>
+      <dc:creator>Jason Alicea</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xiangkai Sun, Yuan Le, Stephen Naus, Richard Bing-Shiun Tsai, Lewis R. B. Picard, Sara Murciano, Michael Knap, Jason Alicea, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Atomic-scale double-slit interferometry with a focused electron probe</title>
+      <link>https://doi.org/10.1038/s41586-026-10914-9</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10914-9</guid>
+
+      <dc:creator>Koudai Tabata</dc:creator>
+      <dc:creator>Takehito Seki</dc:creator>
+      <dc:creator>Toma Susi</dc:creator>
+      <dc:creator>Ryo Ishikawa</dc:creator>
+      <dc:creator>Naoya Shibata</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Koudai Tabata, Takehito Seki, Toma Susi, Ryo Ishikawa, Naoya Shibata
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules</title>
+      <link>https://doi.org/10.1038/d41586-026-02610-5</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02610-5</guid>
+
+      <dc:creator>Garnet Kin-Lic Chan</dc:creator>
+      <dc:creator>Kenneth H. Marcus</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Garnet Kin-Lic Chan, Kenneth H. Marcus
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Psychedelics tune the brain to the environment</title>
+      <link>https://doi.org/10.1038/d41586-026-02377-9</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02377-9</guid>
+
+      <dc:creator>Stefan Borgwardt</dc:creator>
+      <dc:creator>Mihai Avram</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Stefan Borgwardt, Mihai Avram
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>A black hole's spin could finally be measured by a high-speed star</title>
+      <link>https://doi.org/10.1038/d41586-026-02607-0</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02607-0</guid>
+
+      <dc:creator>Benjamin Thompson</dc:creator>
+      <dc:creator>Nick Petrić Howe</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Benjamin Thompson, Nick Petrić Howe
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Twenty-two easy ways to power up your lab meetings</title>
+      <link>https://doi.org/10.1038/d41586-026-02037-y</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02037-y</guid>
+
+      <dc:creator>Hannah Docter-Loeb</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hannah Docter-Loeb
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Multiyear tropical warm pool warming drives slowdown in Antarctic mass loss</title>
+      <link>https://doi.org/10.1038/s41586-026-10912-x</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10912-x</guid>
+
+      <dc:creator>Yunhe Wang</dc:creator>
+      <dc:creator>Qinghua Ding</dc:creator>
+      <dc:creator>Xiaofeng Li</dc:creator>
+      <dc:creator>Thomas J. Ballinger</dc:creator>
+      <dc:creator>Yoshihiro Nakayama</dc:creator>
+      <dc:creator>Dániel Topál</dc:creator>
+      <dc:creator>Eric J. Steig</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yunhe Wang, Qinghua Ding, Xiaofeng Li, Thomas J. Ballinger, Yoshihiro Nakayama, Dániel Topál, Eric J. Steig
+
+Journal: Nature
+
+Abstract: Abstract Antarctic mass loss has been a major contributor to global sea-level rise for most of the last few decades, mainly driven by West Antarctica 1 . During 2021–2023, however, a sharp increase in surface mass balance over Queen Mary Land and Wilkes Land in East Antarctica offset West Antarctic loss and slowed the rate of total ice mass loss 2,3 . Although this slowdown is consistent with the expected long-term precipitation response to global warming through poleward-shifted storm tracks and Antarctic moistening 4 , our results point to a different mechanism. Here we show that the recent ice mass gain was linked to a recurrent atmospheric teleconnection driven by sea surface temperature anomalies in the tropical warm pool, which experienced unusually persistent warming from 2021 to 2023 relative to the previous two decades. On the basis of observations and model experiments, we find that tropical warm pool warming excites a poleward-propagating Rossby-wave train that induces a high-pressure anomaly over East Antarctica, enhancing Queen Mary Land and Wilkes Land precipitation and driving the observed mass gain, with moisture primarily sourced from the mid-latitude Indian Ocean. Similar multiyear warming in the tropical warm pool recurs about once per decade in observations and historical simulations, and its influence on precipitation is distinct from the effects of global warming. Therefore, the recent Antarctic Ice Sheet mass gain is probably temporary and does not yet reflect a sustained, global-warming-driven moistening of Antarctica.</description>
+    </item>
+    <item>
+      <title>How do people live beyond 110? Abundance of cancer-killing cells might be key</title>
+      <link>https://doi.org/10.1038/d41586-026-02587-1</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02587-1</guid>
+
+      <dc:creator>Katherine Bourzac</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Katherine Bourzac
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Functional role of skull lymphoid structures in CNS immunosurveillance</title>
+      <link>https://doi.org/10.1038/s41586-026-10951-4</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10951-4</guid>
+
+      <dc:creator>Jang Hyun Park</dc:creator>
+      <dc:creator>Daviti Abramishvili</dc:creator>
+      <dc:creator>Gustavo Gastão Davanzo</dc:creator>
+      <dc:creator>Ruben Silva</dc:creator>
+      <dc:creator>Xingxing Gu</dc:creator>
+      <dc:creator>Siling Du</dc:creator>
+      <dc:creator>Daniel D. Lee</dc:creator>
+      <dc:creator>Bernd H. Zinselmeyer</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jang Hyun Park, Daviti Abramishvili, Gustavo Gastão Davanzo, Ruben Silva, Xingxing Gu, Siling Du, Daniel D. Lee, Bernd H. Zinselmeyer, et al.
+
+Journal: Nature
+
+Abstract: Abstract Accumulating evidence demonstrates that the central nervous system (CNS) is not disconnected from the peripheral immune system; however, precisely how the adaptive immune system surveils the CNS remains a critical question. Recent findings reveal that channels between the skull and the dura mater facilitate the exchange of cerebrospinal fluid and immune cells between the CNS and skull bone marrow of mice under both homeostatic and disease conditions 1–6 . Skull bone marrow functions as a source of immune cells for the CNS 5 , yet its role in CNS antigen-specific adaptive immune responses remains unclear. Here we identify lymphoid structures within the skull bone marrow, featuring germinal-centre-like formations and containing a distinct population of follicular-helper-like T cells that promote B cell activation and humoral immunity through CD40L, IL-21 and IFNγ signalling. Adaptive immune cells within these skull bone marrow lymphoid structures surveil and respond to CNS-derived antigens and contribute to anti-tumour immune responses in mouse brain cancer models. Together, our findings show that the skull bone marrow is a site of CNS immunosurveillance that may influence immune responses across diverse neurological diseases.</description>
+    </item>
+    <item>
+      <title>Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies</title>
+      <link>https://doi.org/10.1038/s41586-026-10776-1</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10776-1</guid>
+
+      <dc:creator>Chen Weng</dc:creator>
+      <dc:creator>Jonathan S. Weissman</dc:creator>
+      <dc:creator>Vijay G. Sankaran</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chen Weng, Jonathan S. Weissman, Vijay G. Sankaran
+
+Journal: Nature; Volume: 656; Issue: 8128; Pages: E32-E38</description>
+    </item>
+    <item>
+      <title>Evidence for vacuum-enhanced superconductivity in NbSe2</title>
+      <link>https://doi.org/10.1038/s41586-026-11037-x</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11037-x</guid>
+
+      <dc:creator>Zheyan Wang</dc:creator>
+      <dc:creator>Gabriel Cardoso</dc:creator>
+      <dc:creator>Liu Yang</dc:creator>
+      <dc:creator>Xun Gong</dc:creator>
+      <dc:creator>Chi Zhang</dc:creator>
+      <dc:creator>Yufei Zhu</dc:creator>
+      <dc:creator>Dongbo Zhang</dc:creator>
+      <dc:creator>Nan Pan</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zheyan Wang, Gabriel Cardoso, Liu Yang, Xun Gong, Chi Zhang, Yufei Zhu, Dongbo Zhang, Nan Pan, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>South Africa’s scientists must register with official body or risk prison, according to draft law</title>
+      <link>https://doi.org/10.1038/d41586-026-02516-2</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02516-2</guid>
+
+      <dc:creator>Sarah Wild</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sarah Wild
+
+Journal: Nature</description>
+    </item>
     <item>
       <title>Treat biological databases as infrastructure, not projects</title>
       <link>https://doi.org/10.1038/d41586-026-02575-5</link>
@@ -63,6 +608,28 @@ Journal: Nature; Volume: 656; Issue: 8128; Pages: 783-784</description>
       <description>Authors: Chris Stokel-Walker
 
 Journal: Nature; Volume: 656; Issue: 8128; Pages: 552-553</description>
+    </item>
+    <item>
+      <title>NIH proposes major revamp of how it scores research grant proposals</title>
+      <link>https://doi.org/10.1038/d41586-026-02584-4</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02584-4</guid>
+
+      <dc:creator>Max Kozlov</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Max Kozlov
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Mathematics holds the secret to ‘ladder-proof’ knitting</title>
+      <link>https://doi.org/10.1038/d41586-026-02466-9</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02466-9</guid>
+
+      <dc:creator>Vishal P. Patil</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Vishal P. Patil
+
+Journal: Nature</description>
     </item>
     <item>
       <title>How the Middle East can become a hub for sustainable aviation fuels</title>
@@ -507,24 +1074,6 @@ Journal: Nature; Volume: 656; Issue: 8128; Pages: 548-549</description>
       <description>Journal: Nature</description>
     </item>
     <item>
-      <title>Superconducting 2D cuprate with a single CuO2 plane</title>
-      <link>https://doi.org/10.1038/s41586-026-10857-1</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10857-1</guid>
-
-      <dc:creator>Hengsheng Luo</dc:creator>
-      <dc:creator>Dongjoon Song</dc:creator>
-      <dc:creator>Yijun Yu</dc:creator>
-      <dc:creator>Liguo Ma</dc:creator>
-      <dc:creator>Peng Cai</dc:creator>
-      <dc:creator>Ruidan Zhong</dc:creator>
-      <dc:creator>Yiwen Chen</dc:creator>
-      <dc:creator>Lin Zhao</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hengsheng Luo, Dongjoon Song, Yijun Yu, Liguo Ma, Peng Cai, Ruidan Zhong, Yiwen Chen, Lin Zhao, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
       <title>Lead carboxylates passivation for meter-scale perovskite solar modules</title>
       <link>https://doi.org/10.1038/s41586-026-10994-7</link>
       <guid isPermaLink="false">10.1038/s41586-026-10994-7</guid>
@@ -549,6 +1098,24 @@ Journal: Nature</description>
 
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <description>Journal: Nature; Volume: 656; Issue: 8128; Pages: 542-542</description>
+    </item>
+    <item>
+      <title>Superconducting 2D cuprate with a single CuO2 plane</title>
+      <link>https://doi.org/10.1038/s41586-026-10857-1</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10857-1</guid>
+
+      <dc:creator>Hengsheng Luo</dc:creator>
+      <dc:creator>Dongjoon Song</dc:creator>
+      <dc:creator>Yijun Yu</dc:creator>
+      <dc:creator>Liguo Ma</dc:creator>
+      <dc:creator>Peng Cai</dc:creator>
+      <dc:creator>Ruidan Zhong</dc:creator>
+      <dc:creator>Yiwen Chen</dc:creator>
+      <dc:creator>Lin Zhao</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hengsheng Luo, Dongjoon Song, Yijun Yu, Liguo Ma, Peng Cai, Ruidan Zhong, Yiwen Chen, Lin Zhao, et al.
+
+Journal: Nature; Volume: 656; Issue: 8128; Pages: 609-615</description>
     </item>
     <item>
       <title>Reply to: Pre-clinical data interpretation requires clinical context</title>
@@ -657,7 +1224,7 @@ Journal: Nature</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <description>Authors: Andrea Kiss, Alberto Viglione, Mariano Barriendos, Silvia Enzi, Martin Bauch, Kris Decker, Nicolas Maughan, Dag Retsö, et al.
 
-Journal: Nature
+Journal: Nature; Volume: 656; Issue: 8128; Pages: 638-645
 
 Abstract: Abstract Europe has experienced extreme floods in recent decades. However, even larger floods are possible and must be considered in flood risk management 1,2 . Their characteristics can be clarified by analysing the largest documented historical floods. In Central Europe, the Magdalena Flood of July 1342 is usually considered the largest of the last millennium; however, knowledge of its characteristics is incomplete 3–7 . Here we show that 16 major flood events occurred across much of Europe between late 1341 and 1343. Four of these events had return periods of 500–1,000 years (the Magdalena, Bartholomew, Candlemas and Jacob Floods). Although Magdalena was thought previously to be the only extreme European flood in 1342 3,7 , our new documentary dataset suggests that it formed part of a broader sequence. The year with the greatest number of extreme floods during the past 700 years was 1342, and 1343 ranks among the top ten. This highly unusual sequence of floods had substantial socio-economic impacts, including a paradigm shift in flood mitigation measures in Europe. A series of volcanic eruptions along with multi-annual Arctic sea ice retreat is a plausible cause of this flood sequence. Clusters of extreme floods occurring within a few months are rarely considered in risk management 8 . Quick and proactive risk strategies are needed that account for this eventuality.</description>
     </item>
@@ -845,490 +1412,6 @@ Abstract: Abstract The dark matter content of ultra-diffuse galaxies (UDGs) is t
       <dc:creator>Marcia Macedo</dc:creator>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <description>Authors: María Uriarte, Marcia Macedo
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Ocean temperatures set to break all-time record: what’s next?</title>
-      <link>https://doi.org/10.1038/d41586-026-02496-3</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02496-3</guid>
-
-      <dc:creator>James Dinneen</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: James Dinneen
-
-Journal: Nature; Volume: 656; Issue: 8128; Pages: 544-545</description>
-    </item>
-    <item>
-      <title>Dataset artefacts can partially drive the measured decline in disruption</title>
-      <link>https://doi.org/10.1038/s41586-026-10787-y</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10787-y</guid>
-
-      <dc:creator>Vincent Holst</dc:creator>
-      <dc:creator>Andres Algaba</dc:creator>
-      <dc:creator>Floriano Tori</dc:creator>
-      <dc:creator>Sylvia Wenmackers</dc:creator>
-      <dc:creator>Vincent Ginis</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Vincent Holst, Andres Algaba, Floriano Tori, Sylvia Wenmackers, Vincent Ginis
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: E7-E13</description>
-    </item>
-    <item>
-      <title>Maternal influences on infant gut microbiome and health</title>
-      <link>https://doi.org/10.1038/s41586-026-10922-9</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10922-9</guid>
-
-      <dc:creator>Trishla Sinha</dc:creator>
-      <dc:creator>Siobhan Brushett</dc:creator>
-      <dc:creator>Asier Fernández-Pato</dc:creator>
-      <dc:creator>Sanzhima Garmaeva</dc:creator>
-      <dc:creator>Sergio Andreu-Sánchez</dc:creator>
-      <dc:creator>Johanne E. Spreckels</dc:creator>
-      <dc:creator>Cyrus A. Mallon</dc:creator>
-      <dc:creator>Nataliia Kuzub</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Trishla Sinha, Siobhan Brushett, Asier Fernández-Pato, Sanzhima Garmaeva, Sergio Andreu-Sánchez, Johanne E. Spreckels, Cyrus A. Mallon, Nataliia Kuzub, et al.
-
-Journal: Nature
-
-Abstract: Abstract The establishment of the infant gut microbiome is critical for later health 1,2 , yet how it is shaped by maternal and early-life factors remains unclear. Here we metagenomically sequenced 4,526 longitudinal faecal samples from 714 mother–infant pairs in the Dutch birth cohort Lifelines NEXT, spanning 12 weeks of pregnancy to 1 year postpartum. We integrated these data with 474 clinical and exposure variables, and with ultra-deep sequencing of breast milk and vaginal microbiomes. We observe that the maternal gut microbiome undergoes only subtle changes during pregnancy and postpartum, influenced by diet, infections and pre-pregnancy smoking. The maternal gut microbiome is a major reservoir for infant gut strains, with only occasional transmission from vaginal and breast milk microbiomes. Mother–infant gut strain sharing is time dependent, and higher maternal gut species abundance increases the likelihood of strain transmission. We find that the maternal gut microbiome is a predictor of infant eczema. Mode of delivery and feeding mode primarily shaped the infant gut microbiome and its functional profiles, with maternal exposures also having a role. Of 585 vaginally delivered infants, 155 were born at home, but home delivery was only moderately associated with infant gut microbiome composition, similar to other birth parameters such as duration of pushing and ruptured membranes. Overall, we highlight the central role of the mother and her microbiome in shaping the infant gut ecosystem and early health outcomes.</description>
-    </item>
-    <item>
-      <title>Giant balloon gives rise to new view of the Milky Way’s centre</title>
-      <link>https://doi.org/10.1038/d41586-026-02463-y</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02463-y</guid>
-
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature; Volume: 656; Issue: 8128; Pages: 542-542</description>
-    </item>
-    <item>
-      <title>The probiotic bacteria engineered to treat diabetes</title>
-      <link>https://doi.org/10.1038/d41586-026-02521-5</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02521-5</guid>
-
-      <dc:creator>Nick Petrić Howe</dc:creator>
-      <dc:creator>Benjamin Thompson</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nick Petrić Howe, Benjamin Thompson
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>A gas-enshrouded and gas-reddened black hole at cosmic dawn</title>
-      <link>https://doi.org/10.1038/s41586-026-10846-4</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10846-4</guid>
-
-      <dc:creator>Rohan P. Naidu</dc:creator>
-      <dc:creator>Jorryt Matthee</dc:creator>
-      <dc:creator>Harley Katz</dc:creator>
-      <dc:creator>Anna de Graaff</dc:creator>
-      <dc:creator>Pascal A. Oesch</dc:creator>
-      <dc:creator>Aaron Smith</dc:creator>
-      <dc:creator>Jenny E. Greene</dc:creator>
-      <dc:creator>Gabriel Brammer</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Rohan P. Naidu, Jorryt Matthee, Harley Katz, Anna de Graaff, Pascal A. Oesch, Aaron Smith, Jenny E. Greene, Gabriel Brammer, et al.
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 329-333
-
-Abstract: Abstract The physical processes that led to the formation of billion-solar-mass black holes within the first 700 million years of cosmic time, a period known as cosmic dawn, remain a puzzle 1 . Several theoretical scenarios have been proposed to seed and rapidly grow black holes 2–4 , but direct observations of these mechanisms remain elusive. Here we present a source 660 million years after the Big Bang that exhibits singular properties: among the largest hydrogen Balmer breaks reported at any redshift, broad multi-peaked Hβ emission, and Balmer line absorption in several transitions. We model this source as an enshrouded black hole in which the Balmer break and absorption features are a result of extremely dense, turbulent gas forming a dust-free envelope around a supermassive black hole 5,6 . This source may provide evidence of an early black hole embedded in dense gas—a theoretical configuration proposed to rapidly grow black holes by super-Eddington accretion 7,8 . Radiation from the black hole seems to dominate almost all observed light, leaving limited room for contribution from its host galaxy. If the source merged with its brighter neighbour, it would resemble the recently discovered ‘little red dots’ with perplexing spectral energy distributions 9–11 . The redness of the black hole is due to gas, not dust 12,13 , and scattering, not kinematics, gives rise to the complex line shapes and luminosities—black hole masses of these sources may therefore be overestimated by orders of magnitude.</description>
-    </item>
-    <item>
-      <title>Human brain stimulation engages different gene programs in different cell types</title>
-      <link>https://doi.org/10.1038/d41586-026-02473-w</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02473-w</guid>
-
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature</description>
-    </item>
-    <item>
-      <title>A particle made of force: physicists say they’ve found mysterious ‘glueball’</title>
-      <link>https://doi.org/10.1038/d41586-026-02498-1</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02498-1</guid>
-
-      <dc:creator>Mohana Basu</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mohana Basu
-
-Journal: Nature; Volume: 656; Issue: 8128; Pages: 547-547</description>
-    </item>
-    <item>
-      <title>Pre-clinical data interpretation requires clinical context</title>
-      <link>https://doi.org/10.1038/s41586-026-10774-3</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10774-3</guid>
-
-      <dc:creator>R. Muirhead</dc:creator>
-      <dc:creator>G. G. Hanna</dc:creator>
-      <dc:creator>F. McDonald</dc:creator>
-      <dc:creator>D. Palma</dc:creator>
-      <dc:creator>S. Siva</dc:creator>
-      <dc:creator>A. Tree</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: R. Muirhead, G. G. Hanna, F. McDonald, D. Palma, S. Siva, A. Tree
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: E3-E4</description>
-    </item>
-    <item>
-      <title>Numerous bow shocks in the outer Helix Nebula</title>
-      <link>https://doi.org/10.1038/s41586-026-10724-z</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10724-z</guid>
-
-      <dc:creator>Pieter van Dokkum</dc:creator>
-      <dc:creator>Roberto Abraham</dc:creator>
-      <dc:creator>William P. Bowman</dc:creator>
-      <dc:creator>Seery Chen</dc:creator>
-      <dc:creator>Steven R. Janssens</dc:creator>
-      <dc:creator>Deborah M. Lokhorst</dc:creator>
-      <dc:creator>Imad Pasha</dc:creator>
-      <dc:creator>Carter Rhea</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Pieter van Dokkum, Roberto Abraham, William P. Bowman, Seery Chen, Steven R. Janssens, Deborah M. Lokhorst, Imad Pasha, Carter Rhea
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 334-337</description>
-    </item>
-    <item>
-      <title>Reply to: Dataset artefacts can partially drive the measured decline in disruption</title>
-      <link>https://doi.org/10.1038/s41586-026-10788-x</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10788-x</guid>
-
-      <dc:creator>Michael Park</dc:creator>
-      <dc:creator>Erin Leahey</dc:creator>
-      <dc:creator>Russell J. Funk</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Michael Park, Erin Leahey, Russell J. Funk
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: E14-E21</description>
-    </item>
-    <item>
-      <title>Heterogeneous climatic controls on tropical-forest biomass</title>
-      <link>https://doi.org/10.1038/s41586-026-10880-2</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10880-2</guid>
-
-      <dc:creator>Matheus Henrique Nunes</dc:creator>
-      <dc:creator>Helene C. Muller-Landau</dc:creator>
-      <dc:creator>Eric Bastos Görgens</dc:creator>
-      <dc:creator>Adrian Pascual</dc:creator>
-      <dc:creator>Ralph Dubayah</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Matheus Henrique Nunes, Helene C. Muller-Landau, Eric Bastos Görgens, Adrian Pascual, Ralph Dubayah
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Towards an equitable future of global photovoltaic waste recycling</title>
-      <link>https://doi.org/10.1038/s41586-026-10905-w</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10905-w</guid>
-
-      <dc:creator>Chen Wang</dc:creator>
-      <dc:creator>Jian Zuo</dc:creator>
-      <dc:creator>Xinyu Chen</dc:creator>
-      <dc:creator>Ruidong Chang</dc:creator>
-      <dc:creator>Pengfei Yuan</dc:creator>
-      <dc:creator>Kuishuang Feng</dc:creator>
-      <dc:creator>Yu Xin</dc:creator>
-      <dc:creator>Xi Liu</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chen Wang, Jian Zuo, Xinyu Chen, Ruidong Chang, Pengfei Yuan, Kuishuang Feng, Yu Xin, Xi Liu, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Species intraspecific variation drives tropical forest drought resistance</title>
-      <link>https://doi.org/10.1038/s41586-026-10870-4</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10870-4</guid>
-
-      <dc:creator>Chris M. Smith-Martin</dc:creator>
-      <dc:creator>Robert Muscarella</dc:creator>
-      <dc:creator>Timothy J. Brodribb</dc:creator>
-      <dc:creator>María Uriarte</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chris M. Smith-Martin, Robert Muscarella, Timothy J. Brodribb, María Uriarte
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>How the human brain can pursue two goals at the same time</title>
-      <link>https://doi.org/10.1038/d41586-026-02395-7</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02395-7</guid>
-
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature</description>
-    </item>
-    <item>
-      <title>The case for responsible scientific activism</title>
-      <link>https://doi.org/10.1038/d41586-026-02464-x</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02464-x</guid>
-
-      <dc:creator>Stuart Capstick</dc:creator>
-      <dc:creator>Charlie Gardner</dc:creator>
-      <dc:creator>Abi Perrin</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Stuart Capstick, Charlie Gardner, Abi Perrin
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 532-532</description>
-    </item>
-    <item>
-      <title>Solar eclipse offers rare chance to solve Sun’s magnetic-field mysteries</title>
-      <link>https://doi.org/10.1038/d41586-026-02142-y</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02142-y</guid>
-
-      <dc:creator>Ignacio Amigo</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ignacio Amigo
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>How escalating costs scuppered a radio telescope at Joddrell Bank</title>
-      <link>https://doi.org/10.1038/d41586-026-02380-0</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02380-0</guid>
-
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature; Volume: 656; Issue: 8127; Pages: 302-302</description>
-    </item>
-    <item>
-      <title>The forgotten 20 million: why is the world neglecting Afghanistan’s girls and women?</title>
-      <link>https://doi.org/10.1038/d41586-026-02454-z</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02454-z</guid>
-
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature; Volume: 656; Issue: 8127; Pages: 273-273</description>
-    </item>
-    <item>
-      <title>NIH limits funding for research on the health effects of public policy</title>
-      <link>https://doi.org/10.1038/d41586-026-02489-2</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02489-2</guid>
-
-      <dc:creator>Max Kozlov</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Max Kozlov
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?</title>
-      <link>https://doi.org/10.1038/d41586-026-02449-w</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02449-w</guid>
-
-      <dc:creator>Quentin Septer</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Quentin Septer
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 290-291</description>
-    </item>
-    <item>
-      <title>Funders should look beyond strict age criteria</title>
-      <link>https://doi.org/10.1038/d41586-026-02492-7</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02492-7</guid>
-
-      <dc:creator>Xiaohui Xia</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xiaohui Xia
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 532-532</description>
-    </item>
-    <item>
-      <title>Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma</title>
-      <link>https://doi.org/10.1038/s41586-026-10947-0</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10947-0</guid>
-
-      <dc:creator>Tongwu Zhang</dc:creator>
-      <dc:creator>Wei Zhao</dc:creator>
-      <dc:creator>Christopher Wirth</dc:creator>
-      <dc:creator>Marcos Díaz-Gay</dc:creator>
-      <dc:creator>Jinhu Yin</dc:creator>
-      <dc:creator>Monia Cecati</dc:creator>
-      <dc:creator>Francesca Marchegiani</dc:creator>
-      <dc:creator>Phuc H. Hoang</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tongwu Zhang, Wei Zhao, Christopher Wirth, Marcos Díaz-Gay, Jinhu Yin, Monia Cecati, Francesca Marchegiani, Phuc H. Hoang, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Phosphine-mediated azine C–H couplings with water and ammonia</title>
-      <link>https://doi.org/10.1038/s41586-026-10991-w</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10991-w</guid>
-
-      <dc:creator>Kyle G. Nottingham</dc:creator>
-      <dc:creator>Dane A. Brunner</dc:creator>
-      <dc:creator>David Dalmau</dc:creator>
-      <dc:creator>Amanda K. Melanese</dc:creator>
-      <dc:creator>Juan V. Alegre-Requena</dc:creator>
-      <dc:creator>Robert S. Paton</dc:creator>
-      <dc:creator>Andrew McNally</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kyle G. Nottingham, Dane A. Brunner, David Dalmau, Amanda K. Melanese, Juan V. Alegre-Requena, Robert S. Paton, Andrew McNally
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Why scientists should lead the shift away from AI mega data centres</title>
-      <link>https://doi.org/10.1038/d41586-026-02451-2</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02451-2</guid>
-
-      <dc:creator>Cassidy K. Buhler</dc:creator>
-      <dc:creator>Fernando Pérez</dc:creator>
-      <dc:creator>Carl Boettiger</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Cassidy K. Buhler, Fernando Pérez, Carl Boettiger
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 296-298</description>
-    </item>
-    <item>
-      <title>HIV vaccines guide rare immune cells to make broadly neutralizing antibodies</title>
-      <link>https://doi.org/10.1038/d41586-026-02374-y</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02374-y</guid>
-
-      <dc:creator>S. Gnanakaran</dc:creator>
-      <dc:creator>Cynthia A. Derdeyn</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: S. Gnanakaran, Cynthia A. Derdeyn
-
-Journal: Nature; Volume: 656; Issue: 8128; Pages: 570-572</description>
-    </item>
-    <item>
-      <title>AI tools speed up analysis, but scientific truths must be grounded in reality</title>
-      <link>https://doi.org/10.1038/d41586-026-02490-9</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02490-9</guid>
-
-      <dc:creator>Weishi Zhang</dc:creator>
-      <dc:creator>Ying Xu</dc:creator>
-      <dc:creator>Yitong Han</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Weishi Zhang, Ying Xu, Yitong Han
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 532-532</description>
-    </item>
-    <item>
-      <title>When the best decision is no decision: the rise of randomization in grant funding</title>
-      <link>https://doi.org/10.1038/d41586-026-02082-7</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02082-7</guid>
-
-      <dc:creator>Max Bennett</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Max Bennett
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Daily briefing: What scientists can learn from a solar eclipse</title>
-      <link>https://doi.org/10.1038/d41586-026-02519-z</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02519-z</guid>
-
-      <dc:creator>Jacob Smith</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jacob Smith
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Will AI make our dreams all look the same?</title>
-      <link>https://doi.org/10.1038/d41586-026-02491-8</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02491-8</guid>
-
-      <dc:creator>Claudio Nastruzzi</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Claudio Nastruzzi
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 532-532</description>
-    </item>
-    <item>
-      <title>Shipping on rivers packs a surprisingly large climate punch</title>
-      <link>https://doi.org/10.1038/d41586-026-02431-6</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02431-6</guid>
-
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature; Volume: 656; Issue: 8128; Pages: 542-542</description>
-    </item>
-    <item>
-      <title>Seven tips for a graceful lab exit</title>
-      <link>https://doi.org/10.1038/d41586-026-02452-1</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02452-1</guid>
-
-      <dc:creator>Stephanie Melchor</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Stephanie Melchor
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 528-529</description>
-    </item>
-    <item>
-      <title>Turning the tide: restoring Mozambican mangroves — in photos</title>
-      <link>https://doi.org/10.1038/d41586-026-02199-9</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02199-9</guid>
-
-      <dc:creator>Melissa Hobson</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Melissa Hobson
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>What to do when you have too many PhD projects on the go</title>
-      <link>https://doi.org/10.1038/d41586-026-01681-8</link>
-      <guid isPermaLink="false">10.1038/d41586-026-01681-8</guid>
-
-      <dc:creator>Zachary Sentell</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zachary Sentell
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Despite global turmoil, Gen Z researchers are not giving up</title>
-      <link>https://doi.org/10.1038/d41586-026-02453-0</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02453-0</guid>
-
-      <dc:creator>Meghie Rodrigues</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Meghie Rodrigues
-
-Journal: Nature; Volume: 656; Issue: 8127; Pages: 525-527</description>
-    </item>
-    <item>
-      <title>Daily briefing: AI agents sniff out decades-old errors in scientific literature</title>
-      <link>https://doi.org/10.1038/d41586-026-02500-w</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02500-w</guid>
-
-      <dc:creator>Jacob Smith</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jacob Smith
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Learning millisecond protein dynamics from what is missing in NMR spectra</title>
-      <link>https://doi.org/10.1038/s41586-026-10989-4</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10989-4</guid>
-
-      <dc:creator>Hannah K. Wayment-Steele</dc:creator>
-      <dc:creator>Gina El Nesr</dc:creator>
-      <dc:creator>Ramith Hettiarachchi</dc:creator>
-      <dc:creator>Adedolapo M. Ojoawo</dc:creator>
-      <dc:creator>Hasindu Kariyawasam</dc:creator>
-      <dc:creator>Sergey Ovchinnikov</dc:creator>
-      <dc:creator>Dorothee Kern</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hannah K. Wayment-Steele, Gina El Nesr, Ramith Hettiarachchi, Adedolapo M. Ojoawo, Hasindu Kariyawasam, Sergey Ovchinnikov, Dorothee Kern
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance</title>
-      <link>https://doi.org/10.1038/s41586-026-10978-7</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10978-7</guid>
-
-      <dc:creator>Lin Shan</dc:creator>
-      <dc:creator>Guang Xu</dc:creator>
-      <dc:creator>Run-Wen Yao</dc:creator>
-      <dc:creator>Peng-Fei Luan</dc:creator>
-      <dc:creator>Youkui Huang</dc:creator>
-      <dc:creator>Pei-Hong Zhang</dc:creator>
-      <dc:creator>Yu-Hang Pan</dc:creator>
-      <dc:creator>Lin Zhang</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lin Shan, Guang Xu, Run-Wen Yao, Peng-Fei Luan, Youkui Huang, Pei-Hong Zhang, Yu-Hang Pan, Lin Zhang, et al.
 
 Journal: Nature</description>
     </item>

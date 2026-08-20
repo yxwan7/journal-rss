@@ -5,8 +5,19 @@
     <link>https://link.springer.com/journal/10680</link>
     <description>Latest journal articles for European Journal of Population</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:06:25 +0000</lastBuildDate>
 
+    <item>
+      <title>Mortality Dynamics in Low-Mortality Countries: An Introduction to the Special Issue</title>
+      <link>https://doi.org/10.1007/s10680-026-09780-y</link>
+      <guid isPermaLink="false">10.1007/s10680-026-09780-y</guid>
+
+      <dc:creator>Sergi Trias-Llimós</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sergi Trias-Llimós
+
+Journal: European Journal of Population; Volume: 42; Issue: 1; Article number: 21</description>
+    </item>
     <item>
       <title>How do Modes of Data Collection Affect the Measurement of Demographic Key Indicators? Findings from a Three-Country Experiment Using the Generations and Gender Survey</title>
       <link>https://doi.org/10.1007/s10680-026-09777-7</link>
@@ -23,7 +34,7 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <description>Authors: Detlev Lück, Almut Schumann, Tom Emery, Peter Lugtig, Martin Bujard, Robert Naderi, Vera Toepoel, Susana Cabaço
 
-Journal: European Journal of Population
+Journal: European Journal of Population; Volume: 42; Issue: 1; Article number: 22
 
 Abstract: Abstract Rising survey costs, increasing internet usage, and restrictions during the pandemic have accelerated a shift from face-to-face (Computer Assisted Personal Interviews, or CAPI) to web-based interviews (Computer Assisted Web Interviews, or CAWI). This paper analyses the consequences of this shift for the comparability of survey-based measurements of demographic key indicators. We use data from a unique experiment on the modes of data collection such as CAPI or CAWI (in the following: “modes”), conducted in the Generations and Gender Survey in Germany, Croatia, and Portugal. We calculate mode-specific means and ratios of selected indicators and perform regression analyses to estimate mode effects. In all countries, we find a few distinct mode-selection effects: Less educated people are more underrepresented in CAWI, and urban regions are underrepresented in CAPI mode. Mode-measurement effects vary widely across indicators and country contexts. For sensitive questions, there are less social desirability biases in CAWI. For questions with a high respondent burden, there are less survey satisficing biases in CAPI. Loop questions with a high respondent burden are of particular concern. The mode shift challenges comparability between data collections, in longitudinal analyses and in cross-country comparisons. Data users should use weights for descriptive analyses, control for the mode where possible, and consider mode differences when interpreting results. The unique data source allows insights into mode effects among demographic indicators that were not possible before.</description>
     </item>
@@ -1439,19 +1450,6 @@ Abstract: Abstract Since WWII, the two most important global trends in family pl
 Journal: European Journal of Population; Volume: 39; Issue: 1; Article number: 34
 
 Abstract: Abstract Different strands of research analyse gender occupational differences and how they relate to differential earnings, especially among parents juggling family demands. We use rich data from PIAAC across a subset of European countries and match occupational characteristics to individuals’ jobs using the O*NET database to analyse, first, whether there are gender differences in the occupational characteristics of jobs, particularly among parents, and second, whether the return to key occupational characteristics varies by gender. Compared to men, women’s jobs generally require more contact with others, less autonomy in decision-making, and less time pressure. In addition, positions held by mothers involve both less leadership expectations and less intensive use of machines than those held by fathers. Further, mothers receive a lower return to both of these occupational characteristics than fathers do. Finally, even though gaps in occupational characteristics such as leadership jointly with the differential sorting of mothers and fathers across sectors explain part of the gender wage gap in Oaxaca–Blinder decomposition models, especially in Continental Europe, a large share remains unexplained particularly in Eastern and Southern European countries.</description>
-    </item>
-    <item>
-      <title>Can We Rely on Projections of the Immigrant Population? The Case of Norway</title>
-      <link>https://doi.org/10.1007/s10680-023-09675-2</link>
-      <guid isPermaLink="false">10.1007/s10680-023-09675-2</guid>
-
-      <dc:creator>Nico Keilman</dc:creator>
-      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-      <description>Authors: Nico Keilman
-
-Journal: European Journal of Population; Volume: 39; Issue: 1; Article number: 33
-
-Abstract: Abstract Demographic forecasters must be realistic about how well they can predict future populations, and it is important that they include estimates of uncertainty in their forecasts. Here we focus on the future development of the immigrant population of Norway and their Norwegian-born children (“second generation”), grouped by three categories of country background: 1. West European countries plus the United States, Canada, Australia, and New Zealand; 2. Central and East European countries that are members of the European Union; 3. other countries. We show how to use a probabilistic forecast to assess the reliability of projections of the immigrant population and their children. We employ the method of random shares using data for immigrants and their children for 2000–2021. We model their age- and sex-specific shares relative to the whole population. Relational models are used for the age patterns in these shares, and time series models to extrapolate the parameters of the age patterns. We compute a probabilistic forecast for six population sub-groups with immigration background, and one for non-immigrants. The probabilistic forecast is calibrated against Statistics Norway’s official population projection. We find that a few population trends are quite certain: strong increases to 2060 in the size of the immigrant population (more specifically those who belong to country group 3) and of Norwegian-born children of immigrants. However, prediction intervals around the forecasts of immigrants and their children by one-year age groups are so wide that these forecasts are not reliable.</description>
     </item>
   </channel>
 </rss>

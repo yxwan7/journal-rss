@@ -5,8 +5,98 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:07:49 +0000</lastBuildDate>
 
+    <item>
+      <title>The px1 locus is linked to declining susceptibility to malaria drugs in Uganda</title>
+      <link>https://doi.org/10.1038/s41591-026-04624-y</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04624-y</guid>
+
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Prospective evaluation of a large language model clinical decision support system in the emergency department</title>
+      <link>https://doi.org/10.1038/s41591-026-04601-5</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04601-5</guid>
+
+      <dc:creator>Liron Leibovitch</dc:creator>
+      <dc:creator>Adi Ahituv</dc:creator>
+      <dc:creator>Alon Gorenshtein</dc:creator>
+      <dc:creator>Dvir Aran</dc:creator>
+      <dc:creator>Moran Sorka</dc:creator>
+      <dc:creator>Keren Miron</dc:creator>
+      <dc:creator>Shahar Shelly</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Liron Leibovitch, Adi Ahituv, Alon Gorenshtein, Dvir Aran, Moran Sorka, Keren Miron, Shahar Shelly
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Large-scale AI-guided liver malignancy diagnosis: multicenter study and a single-arm trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04589-y</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04589-y</guid>
+
+      <dc:creator>Xiaoming Zhang</dc:creator>
+      <dc:creator>Chunli Li</dc:creator>
+      <dc:creator>Xu Han</dc:creator>
+      <dc:creator>Xiaoli Yin</dc:creator>
+      <dc:creator>Chaoya Zhang</dc:creator>
+      <dc:creator>Jian Zhou</dc:creator>
+      <dc:creator>Kai Cao</dc:creator>
+      <dc:creator>Qi Liu</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xiaoming Zhang, Chunli Li, Xu Han, Xiaoli Yin, Chaoya Zhang, Jian Zhou, Kai Cao, Qi Liu, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Waking from the nightmare of PTSD</title>
+      <link>https://doi.org/10.1038/s41591-026-04586-1</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04586-1</guid>
+
+      <dc:creator>Murray B. Stein</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Murray B. Stein
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Intramyocardial injection of allogeneic human induced pluripotent stem cell-derived cardiomyocytes in advanced ischemic heart failure: an early-stage randomized trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04605-1</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04605-1</guid>
+
+      <dc:creator>He Zhang</dc:creator>
+      <dc:creator>Phlippe Menasche</dc:creator>
+      <dc:creator>Jiahao Fan</dc:creator>
+      <dc:creator>Ling Gao</dc:creator>
+      <dc:creator>Hanqing Luo</dc:creator>
+      <dc:creator>Yunxing Xue</dc:creator>
+      <dc:creator>Xiyu Zhu</dc:creator>
+      <dc:creator>Qian Wang</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: He Zhang, Phlippe Menasche, Jiahao Fan, Ling Gao, Hanqing Luo, Yunxing Xue, Xiyu Zhu, Qian Wang, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Traumatic brain injury outcomes across human development index strata in 29 countries</title>
+      <link>https://doi.org/10.1038/s41591-026-04600-6</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04600-6</guid>
+
+      <dc:creator>Joseph G. Nugent</dc:creator>
+      <dc:creator>Hao Tan</dc:creator>
+      <dc:creator>Brittany Stedelin</dc:creator>
+      <dc:creator>Caleb S. Nerison</dc:creator>
+      <dc:creator>Zoe E. Teton</dc:creator>
+      <dc:creator>Saud K. Zaidan</dc:creator>
+      <dc:creator>Andreas K. Demetriades</dc:creator>
+      <dc:creator>Adam A. Dmytriw</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Joseph G. Nugent, Hao Tan, Brittany Stedelin, Caleb S. Nerison, Zoe E. Teton, Saud K. Zaidan, Andreas K. Demetriades, Adam A. Dmytriw, et al.
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>County, district and community-level measles transmission in the United States in 2013−2025</title>
       <link>https://doi.org/10.1038/s41591-026-04561-w</link>
@@ -538,14 +628,6 @@ Journal: Nature Medicine
 Abstract: Abstract Recent rapid progress in the field of computational pathology has been enabled by foundation models. These models are beginning to move beyond encoding image patches toward whole-slide understanding, but their clinical utility remains limited. Here we present PRISM2, a multimodal slide-level foundation model trained on 2.3 million whole-slide images and 14 million question−answer pairs derived from 700,000 pathology reports. Through clinical dialogue supervision, PRISM2 aligns histomorphology with diagnostic reasoning, yielding representations that support both prompt-based inference and transferable embeddings for downstream tasks. With prompt-based inference, PRISM2 achieves or exceeds ( P &amp;lt; 0.05) the balanced accuracy of clinical-grade products calibrated for cancer detection in the prostate, breast and breast lymph node. Additionally, across comprehensive diagnostic, biomarker and survival benchmarks, PRISM2 embeddings never statistically underperform previous foundation models via linear probing ( P &amp;lt; 0.05). Furthermore, task-specific fine-tuning on survival prediction outperforms training from scratch on the same large survival dataset. PRISM2 demonstrates how language-supervised pretraining provides a scalable, clinically grounded signal for generalizable pathology representations, bridging human diagnostic reasoning and foundation model performance.</description>
     </item>
     <item>
-      <title>Learning from routine health system data builds better neuroimaging AI models</title>
-      <link>https://doi.org/10.1038/s41591-026-04567-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04567-4</guid>
-
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2743-2744</description>
-    </item>
-    <item>
       <title>Humanoid robots perform successful surgery in animals</title>
       <link>https://doi.org/10.1038/d41591-026-00038-y</link>
       <guid isPermaLink="false">10.1038/d41591-026-00038-y</guid>
@@ -555,6 +637,14 @@ Abstract: Abstract Recent rapid progress in the field of computational pathology
       <description>Authors: Karen O’Leary
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Learning from routine health system data builds better neuroimaging AI models</title>
+      <link>https://doi.org/10.1038/s41591-026-04567-4</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04567-4</guid>
+
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2743-2744</description>
     </item>
     <item>
       <title>Deciphering the role of histidine in cancer</title>
@@ -1490,99 +1580,6 @@ Abstract: Abstract Millions of people worldwide are living with movement and sen
 
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2321-2321</description>
-    </item>
-    <item>
-      <title>Multi-antigen-targeting T cells in pediatric central nervous system tumors: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04449-9</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04449-9</guid>
-
-      <dc:creator>Stephanie Gomez</dc:creator>
-      <dc:creator>Rachel A. DiCioccio</dc:creator>
-      <dc:creator>Ashley E. Geiger</dc:creator>
-      <dc:creator>Melanie L. Grant</dc:creator>
-      <dc:creator>Emily Reynolds</dc:creator>
-      <dc:creator>Anushree Datar</dc:creator>
-      <dc:creator>Chase D. McCann</dc:creator>
-      <dc:creator>Jay Tanna</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Stephanie Gomez, Rachel A. DiCioccio, Ashley E. Geiger, Melanie L. Grant, Emily Reynolds, Anushree Datar, Chase D. McCann, Jay Tanna, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2481-2493</description>
-    </item>
-    <item>
-      <title>Author Correction: Digital AVATAR therapy for distressing voices in psychosis: the phase 2/3 AVATAR2 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04540-1</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04540-1</guid>
-
-      <dc:creator>Philippa A. Garety</dc:creator>
-      <dc:creator>Clementine J. Edwards</dc:creator>
-      <dc:creator>Hassan Jafari</dc:creator>
-      <dc:creator>Richard Emsley</dc:creator>
-      <dc:creator>Mark Huckvale</dc:creator>
-      <dc:creator>Mar Rus-Calafell</dc:creator>
-      <dc:creator>Miriam Fornells-Ambrojo</dc:creator>
-      <dc:creator>Andrew Gumley</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Philippa A. Garety, Clementine J. Edwards, Hassan Jafari, Richard Emsley, Mark Huckvale, Mar Rus-Calafell, Miriam Fornells-Ambrojo, Andrew Gumley, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2689-2689</description>
-    </item>
-    <item>
-      <title>Clinical decision support in hematological malignancies using a case-grounded AI agent</title>
-      <link>https://doi.org/10.1038/s41591-026-04494-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04494-4</guid>
-
-      <dc:creator>Julian Zoller</dc:creator>
-      <dc:creator>Michael Kalz</dc:creator>
-      <dc:creator>Xuewei Wu</dc:creator>
-      <dc:creator>Sven Cuntz</dc:creator>
-      <dc:creator>Linus Kruk</dc:creator>
-      <dc:creator>Niklas Kehl</dc:creator>
-      <dc:creator>Julius J. Michel</dc:creator>
-      <dc:creator>Cornelius Funk</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Julian Zoller, Michael Kalz, Xuewei Wu, Sven Cuntz, Linus Kruk, Niklas Kehl, Julius J. Michel, Cornelius Funk, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time conditions on commodity hardware with a median latency of 39 s rather than the hours typically required for manual molecular board workflows. In a simulated practice study, agent-assisted resident physicians achieved near-senior concordance and partially outperformed senior physicians in their subspecialty. External validation on 555 independent cases from a second academic center yielded 81.8% concordance across 47 entities, and a prospective 1-month silent trial on 64 consecutive, unselected cases achieved 82.8% concordance. Hallucinations occurred in 2 of 664 evaluated cases (0.3%). Together these data provide evidence that locally deployable, case-grounded large language model agents can deliver auditable clinical decision support across hematological malignancies, with concordance maintained across institutions and under real-time conditions on commodity hardware.</description>
-    </item>
-    <item>
-      <title>Agents AMIE and MIRA advance medical AI capabilities</title>
-      <link>https://doi.org/10.1038/d41591-026-00034-2</link>
-      <guid isPermaLink="false">10.1038/d41591-026-00034-2</guid>
-
-      <dc:creator>Karen O’Leary</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Karen O’Leary
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Delivering the benefits of genomic data reanalysis for diagnosis equitably and at scale</title>
-      <link>https://doi.org/10.1038/s41591-026-04516-1</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04516-1</guid>
-
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2753-2754</description>
-    </item>
-    <item>
-      <title>Author Correction: SEZ6-targeting antibody−drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04544-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04544-x</guid>
-
-      <dc:creator>Lauren Averett Byers</dc:creator>
-      <dc:creator>Byoung Chul Cho</dc:creator>
-      <dc:creator>Alissa J. Cooper</dc:creator>
-      <dc:creator>Anne C. Chiang</dc:creator>
-      <dc:creator>Ji-Youn Han</dc:creator>
-      <dc:creator>Muhammad Furqan</dc:creator>
-      <dc:creator>Afshin Dowlati</dc:creator>
-      <dc:creator>Daniel Morgensztern</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lauren Averett Byers, Byoung Chul Cho, Alissa J. Cooper, Anne C. Chiang, Ji-Youn Han, Muhammad Furqan, Afshin Dowlati, Daniel Morgensztern, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 3093-3093</description>
     </item>
   </channel>
 </rss>
