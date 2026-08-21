@@ -5,8 +5,232 @@
     <link>https://jamanetwork.com/journals/jamanetworkopen</link>
     <description>Latest journal articles for JAMA Network Open</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:07:47 +0000</lastBuildDate>
 
+    <item>
+      <title>An Electronic Health Record–Integrated, Large Language Model–Powered Tool to Triage Surgical Patients</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29579</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29579</guid>
+
+      <dc:creator>Jane Wang</dc:creator>
+      <dc:creator>Timothy Keyes</dc:creator>
+      <dc:creator>April S. Liang</dc:creator>
+      <dc:creator>Stephen P. Ma</dc:creator>
+      <dc:creator>Jason Shen</dc:creator>
+      <dc:creator>Jerry Liu</dc:creator>
+      <dc:creator>Nerissa Ambers</dc:creator>
+      <dc:creator>Abby Pandya</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jane Wang, Timothy Keyes, April S. Liang, Stephen P. Ma, Jason Shen, Jerry Liu, Nerissa Ambers, Abby Pandya, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629579
+
+Abstract: Importance Surgical comanagement (SCM) is an evidence-based care model in which hospitalists jointly manage medically complex perioperative patients alongside surgical teams. Despite its clinical and financial value, effective use of SCM is limited by the need to manually identify eligible patients; large language models (LLMs) are increasingly prevalent in clinical workflows and could be useful in selecting patients for SCM. Objective To assess whether SCM eligibility triage can be automated. Design, Setting, and Participants This prospective, unblinded quality improvement study was conducted at Stanford Health Care from September 2025 to February 2026. An LLM-based, electronic health record (EHR)–integrated, human-in-the-loop surgical triage tool (SCM Navigator) provided SCM triage recommendations, followed by physician review. All SCM attending physicians were invited to participate. Exposure Using preoperative documentation, structured data, and clinical criteria for perioperative morbidity, the tool categorized patients as appropriate, not appropriate, or possibly appropriate for SCM. SCM faculty indicated clinical judgment of SCM appropriateness and provided free-text feedback when they disagreed with the tool. Main Outcomes and Measures The sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) of the tool were measured using physician feedback as a reference. Free-text reasons were thematically categorized. Manual medical record review was conducted on all false-negative cases. For the largest false-positive category, manual medical record reviews were conducted on 15 randomly selected cases subsequently seen by SCM and 15 randomly selected cases not seen by SCM. Results Overall, 14 of 16 SCM attending physicians participated in the study. Among 6193 triaged surgical cases (median [IQR] age, 60.2 [41.6-71.3] years; 3036 [49.0% female]), 1582 (25.5%) were recommended for hospitalist consultation. Using treating physicians’ determinations as the reference standard, the tool had high sensitivity (0.94; 95% CI, 0.91-0.96) and moderate specificity (0.74; 95% CI, 0.71-0.77) for identifying patients appropriate for SCM. Post hoc medical record review suggested that most discrepancies reflected modifiable gaps in clinical criteria, institutional workflow, or physician practice variability rather than LLM misclassification, which accounted for 2 of 19 false-negative cases (11%). Conclusions and Relevance In this prospective quality improvement study of an LLM-powered, EHR-integrated, human-in-the-loop AI system, AI-enabled screening tools accurately augmented surgical patient triage.</description>
+    </item>
+    <item>
+      <title>Reliability of Physical Examination Findings in Youths Diagnosed With Pneumonia</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.30074</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.30074</guid>
+
+      <dc:creator>Shubhada Hooli</dc:creator>
+      <dc:creator>Ron Reeder</dc:creator>
+      <dc:creator>Lauren Cutler</dc:creator>
+      <dc:creator>Laura F. Sartori</dc:creator>
+      <dc:creator>Geoff Capraro</dc:creator>
+      <dc:creator>Amy Y. Cheng</dc:creator>
+      <dc:creator>Allison Cator</dc:creator>
+      <dc:creator>Matthew J. Lipshaw</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shubhada Hooli, Ron Reeder, Lauren Cutler, Laura F. Sartori, Geoff Capraro, Amy Y. Cheng, Allison Cator, Matthew J. Lipshaw, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2630074
+
+Abstract: Importance Community-acquired pneumonia (CAP) accounts for nearly 2 million pediatric outpatient and 375 000 emergency department (ED) visits annually in the US. Guidelines recommend relying on physical examination findings, not imaging, to diagnose CAP in youths who can be treated as outpatients. Objective To determine the interrater reliability (IRR) of physical examination findings in youths diagnosed with CAP in EDs. Design, Setting, and Participants This was a planned analysis from an ongoing prospective cohort study (pediatric CAP severity [PedCAPS]). Youths aged 3 months to 17 years with CAP were recruited at 7 academic pediatric EDs within the US from August 1, 2023, until May 24, 2025; participants had signs of lower respiratory tract infections, fever within 48 hours, and pneumonia on chest radiography, if performed. Youths with chronic pulmonary diseases (except asthma), sickle cell disease, immunodeficiency, cardiac disease, neurological disorders affecting respiration, and aspiration pneumonia were excluded, as were those hospitalized within the preceding 30 days or transferred from other EDs or hospitals. Main Outcomes and Measures Two examiners evaluated the same patient within 60 minutes of each other and independently recorded their findings. IRR of physical examination findings was reported by raw agreement and Fleiss κ. A lower bound of the 95% CI of 0.4 for κ was considered acceptable reliability. Results Among 252 youths with paired physical examinations (median [IQR] age, 5.7 [3.4-8.8] years; 127 female [50.4%]), the most frequent comorbidity was asthma (56 youths [22.2%]). In the overall study population, no physical examination finding met predefined significance for IRR. Wheezing (κ = 0.50; 95% CI, 0.39-0.62) and retractions (κ = 0.49; 95% CI, 0.37-0.60) had the highest IRR. In subanalyses of 124 youths discharged home and 128 youths who were hospitalized, IRRs of physical examinations were similar between the 2 groups. Conclusions and Relevance In this study, individual auscultation findings, such as decreased breath sounds, crackles, or rhonchi, did not demonstrate sufficient reliability to be used alone for diagnosis.</description>
+    </item>
+    <item>
+      <title>Default Hospice Consultation in Comfort Measures Orders and Hospice Engagement</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29973</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29973</guid>
+
+      <dc:creator>L. Scott Sussman</dc:creator>
+      <dc:creator>John M. Henderson</dc:creator>
+      <dc:creator>Nancy Kim</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: L. Scott Sussman, John M. Henderson, Nancy Kim
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629973
+
+Abstract: This quality improvement study examines the association of having a hospice consultation as default for patients given comfort measures orders with hospice engagement.</description>
+    </item>
+    <item>
+      <title>Fecal Occult Blood Screening Outcomes Adjusted for Contamination Bias and Nonadherence</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29856</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29856</guid>
+
+      <dc:creator>Johannes Blom</dc:creator>
+      <dc:creator>Lennarth Nyström</dc:creator>
+      <dc:creator>Håkan Jonsson</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Johannes Blom, Lennarth Nyström, Håkan Jonsson
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629856
+
+Abstract: Importance Population-based colorectal cancer (CRC) screening with fecal occult blood tests (FOBT) is widely implemented. Estimating associations of invitation to and participation in the screening program with CRC mortality is challenging due to lack of valid control groups and uncertainties about optimal follow-up time. Objective To estimate associations of invitation to and participation in screening with CRC mortality reduction when adjusting death from CRC diagnosed more than 2 years after cessation of screening and nonadherence. Design, Setting, and Participants This prospective cohort study was conducted in the Stockholm-Gotland region of Sweden between 2008 and 2021. Yearly birth cohorts of individuals aged 60 to 69 years (born 1938-1954) were randomly assigned to a study group (SG) invited to screen between 2008 and 2012 or to a control group (CG) who were either invited to screen between 2013 and 2015 or were not invited to screen. Analyses were performed between May 2024 and February 2026. Exposure Invitation to and participation in CRC screening, adjusting for contamination in the SG (exposed), invitations in the CG (not exposed), and nonadherence. Main Outcome and Measures CRC-specific mortality, defined as CRC in the Cancer Register (2008-2020) or the Swedish Quality Register for Colorectal Cancer (2021), with CRC as underlying cause of death in the Cause of Death Register. Poisson regression was used to estimate mortality rate ratios (RRs) with 95% CIs, adjusting for follow-up year, attained age at follow-up, contamination from CRC deaths diagnosed more than 2 years after screening in the SG, invitations in the CG, and nonadherence. Results The study included 376 511 individuals, with 203 692 in the SG (99 472 men [48.8%]; mean [SD] age at start of follow-up, 63.6 [3.2] years) and 172 819 in the CG (84 705 men [49.0%]; mean [SD] age at start of follow-up, 62.8 [3.5] years). During follow-up, 856 CRC deaths occurred in the SG and 812 CRC deaths occurred in the CG. After adjustment for CRC deaths diagnosed more than 2 years after the last SG invitation (455 deaths) and invitations in the CG (166 deaths), the RR was 0.74 (95% CI, 0.58-0.94), a 26% reduction. After further adjustment for nonadherence in the SG (196 deaths) and participation in the CG (82 deaths), the RR for participation was 0.57 (95% CI, 0.40-0.80), a 43% reduction. Conclusions and Relevance In this cohort study of population-based FOBT screening, screening invitation was associated with a 26% reduction in CRC mortality and participation was associated with a 43% reduction, after accounting for contamination and nonadherence. These findings suggest that bias adjustment is important when evaluating screening programs, and these findings support efforts to increase screening uptake.</description>
+    </item>
+    <item>
+      <title>Symptom Worsening in Mindfulness-Based Cognitive Therapy</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29946</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29946</guid>
+
+      <dc:creator>Simon B. Goldberg</dc:creator>
+      <dc:creator>Otto Simonsson</dc:creator>
+      <dc:creator>Fiona C. Warren</dc:creator>
+      <dc:creator>James E. Pustejovsky</dc:creator>
+      <dc:creator>Matthew J. Hirshberg</dc:creator>
+      <dc:creator>Shufang Sun</dc:creator>
+      <dc:creator>Françoise Jermann</dc:creator>
+      <dc:creator>Anne Speckens</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Simon B. Goldberg, Otto Simonsson, Fiona C. Warren, James E. Pustejovsky, Matthew J. Hirshberg, Shufang Sun, Françoise Jermann, Anne Speckens, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629946
+
+Abstract: This meta-analysis evaluates individual participant data from randomized clinical trials to investigate whether mindfulness-based cognitive therapy is associated with worsening symptoms of depression.</description>
+    </item>
+    <item>
+      <title>Who Benefits From Accountable Care Organizations?</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.33677</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.33677</guid>
+
+      <dc:creator>Peter M. Hoang</dc:creator>
+      <dc:creator>Elbert S. Huang</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Peter M. Hoang, Elbert S. Huang
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2633677</description>
+    </item>
+    <item>
+      <title>Medicare Shared Savings Program and Disparities for Patients With Low Income</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29369</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29369</guid>
+
+      <dc:creator>Amelia M. Bond</dc:creator>
+      <dc:creator>William L. Schpero</dc:creator>
+      <dc:creator>Yasin Civelek</dc:creator>
+      <dc:creator>Lawrence P. Casalino</dc:creator>
+      <dc:creator>Manyao Zhang</dc:creator>
+      <dc:creator>Reekarl Pierre</dc:creator>
+      <dc:creator>Dhruv Khullar</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Amelia M. Bond, William L. Schpero, Yasin Civelek, Lawrence P. Casalino, Manyao Zhang, Reekarl Pierre, Dhruv Khullar
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629369
+
+Abstract: Importance Little is known about whether accountable care organizations (ACOs) in the Medicare Shared Savings Program (MSSP) have affected socioeconomic health care disparities. Objective To investigate whether attribution to an ACO was associated with greater improvement in outcomes for patients with low vs higher income. Design, Setting, and Participants This cohort study employed triple difference-in-differences analyses using 2010 to 2019 Medicare data to investigate whether quality differences between patients with low income and patients with higher income attributed to ACOs changed after ACO formation relative to patients at non-ACO practices or clinics. In exploratory analysis, we calculated 3-year outcomes (reflecting 1 ACO contract period) for each ACO and examined whether changes in disparities were associated with ACO characteristics such as size, rurality, inclusion of a hospital, share of patients with low income, presence of federally qualified health centers, and level of baseline disparities. Data analyses were performed between January 1, 2025, and February 27, 2026. Exposure Attribution to a medical practice or clinic in an ACO during the first 2 years of ACO tenure. Main Outcomes and Measures Differential changes in utilization-based quality metrics for patients with low vs higher income. Outcomes included potentially avoidable emergency department visits, ambulatory care–sensitive admissions, and 30-day unplanned hospital readmissions. Results There were 585 ACOs in the study. Three years after ACO formation, there was no differential change in outcomes for patients with low vs higher income at ACOs compared with non-ACOs. However, there was considerable variation; 76 ACOs (13.0%) were associated with reduced outcomes disparities in at least 1 quality measure while maintaining or improving quality for patients with higher income; 68 ACOs (11.6%) were associated with worsened outcomes disparities on at least 1 quality measure while maintaining or worsening quality for patients with higher income. ACOs that were associated with reduced disparities had a 0.36 (95% CI, 0.17-0.56; P &amp;amp;amp;lt; .001) higher SD-level z score of baseline disparities (eg, a 16.2% higher disparity in preventable emergency department visits) compared with ACOs that were associated with increased disparities but were similar on other characteristics. Conclusions and Relevance In this cohort study of MSSP ACOs, ACO formation was not associated with reductions in income-based disparities in quality of care during the program’s first decade. However, the differences in quality of care narrowed for patients with low vs higher income at a subset of ACOs.</description>
+    </item>
+    <item>
+      <title>Threshold and Predictive Alerts of Continuous Glucose Monitoring and Glycemic Control in Hospitalized Adults With Diabetes</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29291</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29291</guid>
+
+      <dc:creator>Yaxin Wang</dc:creator>
+      <dc:creator>Li Cao</dc:creator>
+      <dc:creator>Jingyi Lu</dc:creator>
+      <dc:creator>Jingyi Guo</dc:creator>
+      <dc:creator>Jiaying Ni</dc:creator>
+      <dc:creator>Yuan Yao</dc:creator>
+      <dc:creator>Zhouli Shen</dc:creator>
+      <dc:creator>Wei Zhu</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yaxin Wang, Li Cao, Jingyi Lu, Jingyi Guo, Jiaying Ni, Yuan Yao, Zhouli Shen, Wei Zhu, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629291
+
+Abstract: Importance Interest in use of continuous glucose monitoring (CGM) in the hospital is increasing, yet clear guidance on the optimal implementation of CGM glucose alerts is lacking. It also remains unclear if alerts themselves or the fact that sensor values are available in real time are the main reason for improved glucose outcomes observed with inpatient CGM use. Objective To determine the incremental value of CGM threshold and predictive alerts for glucose management among hospitalized adults with diabetes. Design, Setting, and Participants This single-center, open-label, randomized clinical trial was conducted between April 15 and December 9, 2024, at a tertiary hospital. Eligible participants were adults with type 1 or type 2 diabetes admitted to endocrinology wards. Interventions Participants were randomly assigned (1:1:1) to receive 1 of the 3 CGM alert strategies: all alerts off (n = 178), threshold alerts only (n = 177), or threshold plus predictive alerts (n = 178). Main Outcomes and Measures The primary outcome was the percentage of time within the target glucose range of 70 to 180 mg/dL (time in range [TIR]). The primary analysis was conducted on a modified intention-to-treat basis, including all randomized participants except those who were subsequently confirmed not to meet the eligibility criteria. Results Among the 533 randomized participants, 331 (62.1%) were male, the mean (SD) age was 62 (12) years, and the mean (SD) hemoglobin A 1c level was 9.2% (2.1%). The mean (SD) TIR during hospitalization was significantly higher among the group with threshold alerts on than the group with all alerts off (75.1% [16.6%] vs 71.2% [18.1%]; adjusted mean difference, 3.9% [95% CI, 0.1%-7.8%]; Holm-adjusted P = .04). Moreover, time above range (&amp;amp;amp;gt;180 mg/dL) was lower in the group with threshold alerts on than in the group with all alerts off (−3.9% [95% CI, −7.1% to −0.7%]), whereas time below range (&amp;amp;amp;lt;70 mg/dL) did not differ between groups (−0.04% [95% CI, −0.3% to 0.2%]). No differences in primary and secondary outcomes were observed between the group with threshold plus predictive alerts and either of the other 2 groups. Conclusions and Relevance In this randomized clinical trial of hospitalized adults with diabetes, CGM threshold glucose alerts modestly improved glycemic control compared with CGM use without alerts. The addition of predictive alerts did not confer further glycemic benefit beyond threshold alerts alone. Future development of integrated clinical decision support systems or automated insulin delivery technologies may further enhance the effectiveness of CGM among hospitalized patients. Trial Registration ClinicalTrials.gov Identifier: NCT05941286</description>
+    </item>
+    <item>
+      <title>Public Comments and Federal Rulemaking for Menthol Cigarettes and Flavored Cigars</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29962</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29962</guid>
+
+      <dc:creator>Andrea C. Villanti</dc:creator>
+      <dc:creator>Marisa Tomaino</dc:creator>
+      <dc:creator>Amanda Johnson</dc:creator>
+      <dc:creator>Jeannie Garmon</dc:creator>
+      <dc:creator>Aila Altunbilek</dc:creator>
+      <dc:creator>Olivia A. Wackowski</dc:creator>
+      <dc:creator>Ollie Ganz</dc:creator>
+      <dc:creator>Charity A. Ntansah</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrea C. Villanti, Marisa Tomaino, Amanda Johnson, Jeannie Garmon, Aila Altunbilek, Olivia A. Wackowski, Ollie Ganz, Charity A. Ntansah, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629962
+
+Abstract: Importance In May 2022, the US Food and Drug Administration (FDA) requested public comment on proposed rules to ban menthol in cigarettes and characterizing flavors in cigars. In 2024, the US Health and Human Services Secretary noted that a proposed ban on menthol cigarettes (MCs) would take more time given the high volume of public comments submitted. Objective To characterize the comments submitted to these dockets, including the sources and types of submissions and themes present in unique comments. Design, Setting, and Participants In this qualitative study, computer-assisted content analysis was conducted for public comments on the FDA’s MC and flavored cigar (FC) proposed federal rules submitted from May to August 2022. Iterative data processing identified form letters and unique comments for thematic analysis in the MC comments and was applied to the FC comments. Informed by a validated codebook, deductive automated content analysis identified themes in unique comments. Analyses were conducted from October 2023 to December 2024. Main Outcomes and Measures The primary outcomes were identification of comments as form letters, duplicates, or unique, and whether they included arguments for and against the FDA’s proposed rules. Results Of 246 808 comments submitted to these dockets (175 285 comments in the MC docket and 71 523 in the FC docket), most were identified as form letters (169 440 MC comments [97%]; 66 640 FC comments [93%]), with only 4774 comments (2%; 3342 MC comments and 1432 FC comments) identified as unique. Content tied to specific tobacco companies was identified in 44% of comments in the MC docket (77 445 comments) and 10% in the FC docket (6883 comments). Most unique comments opposed these bans (3208 MC comments [96%]; 1418 FC comments [99%]), with themes that addressed loss of revenue and sales (1155 MC comments [35%]; 720 FC comments [49%]), illicit market concern (835 MC comments [25%]; 555 FC comments [38%]), and suggesting more effective routes (607 MC comments [18%]; 420 FC comments [28%]) for action than the proposed policies. Conclusions and Relevance In this study of nearly 250 000 public comments submitted to inform FDA rulemaking, most comments were form letters that reflected tobacco company talking points. These findings raise concerns about corporations co-opting mechanisms for public comment and distorting the prevalence of arguments to influence public health policy.</description>
+    </item>
+    <item>
+      <title>Translating Continuous Glucose Monitoring Alarms Into Clinical Practice—Beyond Efficacy</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29215</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29215</guid>
+
+      <dc:creator>Eileen R. Faulds</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Eileen R. Faulds
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629215</description>
+    </item>
+    <item>
+      <title>Outpatient Parenteral Antimicrobial Therapy Practice Variability Across Veterans Affairs Hospitals</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29952</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29952</guid>
+
+      <dc:creator>Elizabeth A. Scruggs-Wodkowski</dc:creator>
+      <dc:creator>Lauren Gauntlett</dc:creator>
+      <dc:creator>Danielle Helminski</dc:creator>
+      <dc:creator>Amanda C. Blok</dc:creator>
+      <dc:creator>Nicholas Henry</dc:creator>
+      <dc:creator>Sara C. Keller</dc:creator>
+      <dc:creator>Ronald E. Kendall</dc:creator>
+      <dc:creator>Manon Nitta</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elizabeth A. Scruggs-Wodkowski, Lauren Gauntlett, Danielle Helminski, Amanda C. Blok, Nicholas Henry, Sara C. Keller, Ronald E. Kendall, Manon Nitta, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629952
+
+Abstract: Importance Challenges providing outpatient parenteral antimicrobial therapy (OPAT) can compromise patient safety and care quality, yet little is known about how OPAT is delivered by health care systems across the US. Objective To understand and compare OPAT delivery at US Department of Veterans Affairs Medical Centers (VAMCs). Design, Setting, and Participants This qualitative study using a mixed-methods approach was performed from February 6, 2024, through April 15, 2025. Six midwestern VAMCs were purposively selected, identifying physician and pharmacist leaders to participate in qualitative interviews via an antimicrobial stewardship listserv, and other participants involved in OPAT delivery were identified via snowball sampling. The VAMCs for the quantitative survey were identified through the 2020 Veterans Health Administration Antimicrobial Stewardship National Survey. Main Outcomes and Measures Semistructured clinician interviews focused on OPAT decision-making, patient education, care coordination, and postdischarge management. Organizational surveys assessed OPAT program structure, characteristics, and care delivery challenges. After a structured rapid qualitative analysis and generation of descriptive statistics, findings were evaluated together. Results Interviews were conducted with 31 participants from 6 VAMCs. Key informants from 106 of 139 VAMCs (76.3%) completed surveys. All participants were actively engaged in OPAT care at the time of data collection. Interviews showed heterogeneity in OPAT processes across medical centers, with challenges involving communication, coordination, support, and uncertainty about roles and responsibilities, particularly among sites without a designated OPAT team. Of 78 surveyed VAMCs (73.6%) offering OPAT, 60 (76.9%) identified designated persons who managed OPAT. Most facilities evaluated OPAT appropriateness (75 [96.2%]) and used contract pharmacy (72 [92.3%]) and contract nursing (62 [79.5%]) to deliver OPAT care, although primary responsibility for outpatient monitoring varied. Conclusions and Relevance This study found that VAMC OPAT care processes were highly variable. Although a knowledgeable and interdisciplinary team may be ideal, having such a team may not always be possible due to staffing and cost constraints. Developing facility-level OPAT-dedicated processes, including policies and checklists, as well as increased support and protected time for staff may improve safe, effective OPAT delivery in VAMCs.</description>
+    </item>
+    <item>
+      <title>Weight Loss Intervention Promoting an Adapted Mediterranean-Style Dietary Pattern</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29006</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29006</guid>
+
+      <dc:creator>Thomas C. Keyserling</dc:creator>
+      <dc:creator>Qiang Wu</dc:creator>
+      <dc:creator>Alice S. Ammerman</dc:creator>
+      <dc:creator>Seth A. Berkowitz</dc:creator>
+      <dc:creator>John B. Buse</dc:creator>
+      <dc:creator>David J. Couper</dc:creator>
+      <dc:creator>Kelly R. Evenson</dc:creator>
+      <dc:creator>Steven D. Hursting</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Thomas C. Keyserling, Qiang Wu, Alice S. Ammerman, Seth A. Berkowitz, John B. Buse, David J. Couper, Kelly R. Evenson, Steven D. Hursting, et al.
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629006
+
+Abstract: Importance A Mediterranean-style dietary pattern has been shown to reduce chronic disease morbidity yet has been understudied in weight loss intervention trials in the US. Weight loss interventions promoting this pattern may reduce obesity-related morbidity more than interventions primarily focusing on energy restriction. Objective To determine whether a behavioral weight loss intervention promoting a Mediterranean-style dietary pattern yields sustained weight loss at the 24-month follow-up and improves diet quality compared with a control intervention focused on reducing energy intake. Design, Setting, and Participants This randomized clinical trial (Delicious Eating for Life in Southern Homes [DELISH]) recruited patients from 1 academic and 6 community primary care practices in central North Carolina. Electronic health records at these facilities were used to identify potential participants who met the major inclusion criteria of a body mass index of 30 or higher (calculated as weight in kilograms divided by height in meters squared) and age of 18 to 75 years. Primary care practitioners reviewed a list of their identified patients and referred those whom they considered appropriate for the trial. Enrollment spanned June 12, 2020, to May 11, 2022, with final data collected on June 16, 2024. Statistical analyses were conducted from June 6, 2024, to July 19, 2026, using an intention-to-treat approach. Interventions Participants were randomly assigned to receive 1 of 2 interventions—Med-South weight loss program (hereafter Mediterranean-style) or control weight loss program. The Mediterranean-style intervention included 3 phases: phase 1 (months 1-4) focused on improving diet quality, phase 2 (months 5-12) focused on weight loss, and phase 3 (months 13-24) focused on weight loss maintenance. The control intervention included access to the workshop and digital components of the WW program (now WeightWatchers). Participants in each group received the study intervention at no cost, and the interventions provided advice to promote regular, moderate-intensity physical activity. Main Outcomes and Measures The primary outcome was percentage change in body weight between intervention groups at the 24-month follow-up. Secondary outcomes included changes in diet quality, physiological functions, and physical activity, among others. Results A total of 360 participants (182 in the Mediterranean-style group; 178 in the control group) were included, with a baseline mean (SD) age of 54.7 (12.0) years and 200 females (55.6%). The median (IQR) weight and body mass index were 103.2 (93.2-118.8) kg and 35.1 (32.4-40.2), respectively. Follow-up at 24 months was attended by 118 patients (64.8%) in the Mediterranean-style group and 129 (72.5%) in the control group. In the primary analysis with imputation for missing data, the adjusted mean (SE) percentage change in body weight at the 24-month follow-up was −3.40% (0.60%) for Mediterranean-style intervention and −3.51% (0.66%) for the control intervention (difference, −0.11; 95% CI, −1.79 to 1.57; P = .90). Among participants who returned for follow-up visits, the Alternative Healthy Eating Index-2010 score was higher among the Mediterranean-style group compared with the control group (difference, 3.62; 95% CI, 1.11-6.12; P = .005). Conclusions and Relevance In this randomized clinical trial comparing a Mediterranean-style weight loss intervention to a control intervention, there was no material difference in percentage change in body weight at the 24-month follow-up visit between participants in these programs. Trial Registration ClinicalTrials.gov Identifier: NCT04302727</description>
+    </item>
+    <item>
+      <title>Rethinking Auscultation for Pediatric Pneumonia—Do My Ears Deceive Me?</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.30083</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.30083</guid>
+
+      <dc:creator>Susan C. Lipsett</dc:creator>
+      <dc:creator>Mark I. Neuman</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Susan C. Lipsett, Mark I. Neuman
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2630083</description>
+    </item>
     <item>
       <title>Implementation Readiness for National Cancer Survivorship Care Standards</title>
       <link>https://doi.org/10.1001/jamanetworkopen.2026.29351</link>
@@ -153,25 +377,6 @@ Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629355
 Abstract: Importance The VACTERL (vertebral defects, anal atresia, cardiac defects, tracheo-esophageal fistula, renal defects, and limb defects) pattern of birth defects is a complex congenital condition with largely unknown causes. Studies suggest a link between in vitro fertilization (IVF) and birth defects, including VACTERL, but it remains unknown whether IVF has a unique association with VACTERL. Objective To characterize the association between IVF and VACTERL. Design, Setting, and Participants This cohort study included 1 555 936 live births in 4 US States (Massachusetts, New York, North Carolina, and Texas) between January 1, 2004, and December 31, 2018. A total of 175 161 births were IVF conceived, and 1 380 775 naturally conceived children were selected as a 10:1 comparison group. Births were linked to IVF cycle data from the Society for Assisted Reproductive Technology Clinic Outcome Reporting System. Data were analyzed from August 2 to October 30, 2025. Exposures Method of conception (IVF vs natural) and IVF treatment parameter information. Main Outcomes and Measures VACTERL, defined as 3 or more of the defects included in the pattern. Multivariable logistic regression models were used to estimate adjusted odds ratios and 95% CIs. Results A total of 1 555 936 live births were included in the analysis (796 892 males [51.2%]). The naturally conceived group included 1 380 775 children; the IVF-conceived group, 175 161. Approximately half of children were male in both groups, while IVF-conceived children were more often born to older mothers and those with a higher educational level and were from multiple-gestation pregnancies. Two hundred children with VACTERL (41 IVF and 159 non-IVF) were identified. The prevalence of VACTERL among IVF-conceived births was 2.3 (95% CI, 1.7-3.2) per 10 000 live births. After adjusting for demographic, socioeconomic, and pregnancy-related factors, IVF conception was associated with increased odds of VACTERL (adjusted odds ratio, 1.86; 95% CI, 1.16-2.98). Conclusions and Relevance This population-based prospective cohort study identified an association of IVF with the multiple congenital anomaly pattern VACTERL. Although the absolute risk among live births remains low, these findings highlight the need for further investigations of child health outcomes by method of conception.</description>
     </item>
     <item>
-      <title>Smoking Behavior and Major Cardiovascular and Limb Events in Patients With Peripheral Artery Disease</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.29337</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29337</guid>
-
-      <dc:creator>Hyo Kee Kim</dc:creator>
-      <dc:creator>Mi-Sook Kim</dc:creator>
-      <dc:creator>Sanghyun Ahn</dc:creator>
-      <dc:creator>Sangil Min</dc:creator>
-      <dc:creator>Seung-Kee Min</dc:creator>
-      <dc:creator>Jongwon Ha</dc:creator>
-      <dc:creator>Ahram Han</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hyo Kee Kim, Mi-Sook Kim, Sanghyun Ahn, Sangil Min, Seung-Kee Min, Jongwon Ha, Ahram Han
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629337
-
-Abstract: Importance Smoking is the strongest modifiable risk factor for peripheral arterial disease (PAD), yet evidence on how postdiagnosis smoking behavior changes affect clinical outcomes remains limited. Objective To evaluate the association among smoking cessation, reduction, and continuation after PAD diagnosis and subsequent cardiovascular and limb-specific outcomes. Design, Setting, and Participants This nationwide, population-based, retrospective cohort study assessed adults 40 years or older newly diagnosed with PAD from January 1, 2011, to December 31, 2018, with follow-up through 2021, who reported active smoking before diagnosis and completed health examinations before and after diagnosis. Data were from the Korean National Health Insurance Service–National Health Information Database. Data analysis was conducted from December 2023 to November 2025. Exposures Postdiagnosis smoking behavior, classified as quitters (complete cessation), reducers (≥20% decrease in daily cigarette consumption), or maintainers (&amp;amp;amp;lt;20% decrease or any increase in consumption [reference group]). Main Outcomes and Measures Main outcomes were major adverse cardiovascular and cerebrovascular events (MACCEs), including all-cause death, myocardial infarction, coronary revascularization, and ischemic stroke, and major adverse limb events (MALEs), including limb revascularization or major amputation. Inverse probability of treatment-weighted hazard ratios (HRs) were estimated using Cox proportional hazards regression models for MACCEs and Fine-Gray competing risk models for MALEs. Results Among 189 545 active smokers with incident PAD (mean [SD] age, 54.2 [11.8] years; 167 659 [88.5%] male), 38 952 (20.6%) quit smoking, 38 709 (20.4%) reduced consumption, and 111 884 (59.0%) maintained smoking. Compared with maintainers, quitters had significantly lower risks of MACCEs (17.8 vs 20.2 per 1000 person-years; HR, 0.88; 95% CI, 0.84-0.91) and MALEs (1.4 vs 1.8 per 1000 person-years; HR, 0.83; 95% CI, 0.73-0.94). Reducers showed no significant difference in MACCEs (HR, 1.00; 95% CI, 0.96-1.04) or MALEs (HR, 0.92; 95% CI, 0.81-1.04). Dose-response analysis showed risk reduction only with near-complete cessation. Findings were consistent across subgroups, with the largest reductions observed for myocardial infarction. Conclusions and Relevance In this cohort study of 189 545 active smokers with newly diagnosed PAD, complete smoking cessation was associated with lower risks of both cardiovascular and limb-specific adverse events, whereas partial smoking reduction showed no significant benefit. These findings support complete cessation as the primary therapeutic target in patients with PAD.</description>
-    </item>
-    <item>
       <title>Pediatric Intensive Care Utilization and Outcomes in Denmark</title>
       <link>https://doi.org/10.1001/jamanetworkopen.2026.29876</link>
       <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29876</guid>
@@ -190,6 +395,25 @@ Abstract: Importance Smoking is the strongest modifiable risk factor for periphe
 Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629876
 
 Abstract: Importance Population-based estimates of the incidence of children admitted to intensive care units (ICUs) in Denmark, including ICU admission patterns over time, are limited. Objectives To determine how ICU admission, treatment patterns, characteristics, and outcomes of critically ill children have changed between 2019 and 2024. Design, Setting, and Participants This population-based, retrospective cohort study included data from 19 public Danish hospitals from 2019 to 2024.Pediatric ICU patients (aged 0-17 years) were included. Admissions to neonatal ICUs, rehabilitation centers, or psychiatric hospitals were excluded. Exposure Admission to an ICU. Main Outcomes and Measures Data from Danish registers included demographics, diagnoses, ICU interventions, ICU outcomes, and date and time of admission and discharge. International Statistical Classification of Diseases and Related Health Problems, Tenth Revision codes were used to identify diagnoses and comorbidities. Poisson regression was used to evaluate ICU admission and mortality rates, with the log of the annual number of children in Denmark at risk included as an offset. Results The study included 7875 children representing 9458 ICU admissions (median [IQR] age, 6 [1-13] years; 5533 [58.5%] male). Patients with chronic comorbidity accounted for 4918 admissions (52.0%), with congenital malformations being the most common comorbidity (2973 [31.4%]). From 2020 to 2024, the incidence of pediatric hospital admissions decreased from 109.12 (95% CI, 109.12-109.12) per 1000 person-years to 93.79 (95% CI, 93.79-93.79) per 1000 person-years (incidence rate ratio [IRR], 0.86; 95% CI, 0.86-0.86). The incidence of ICU admissions decreased from 1.35 (95% CI, 1.35-1.35) per 1000 person-years to 1.17 (95% CI, 1.17-1.17) per 1000 person-years (IRR, 0.86; 95% CI, 0.86-0.86). Overall all-cause mortality of pediatric ICU patients remained similar (ranging between 50 and 71 [2.9% and 4.4% of all pediatric admissions at an ICU]), as did in-hospital mortality (ranging from 30 to 44 [1.8% to 2.7%]) and 30-day post-discharge mortality (ranging from 17 [1.1%] to 33 [2.1%]). Findings were consistent in sensitivity analyses using 2022 as a post–COVID-19 pandemic reference year. Conclusions and Relevance In this cohort study of 7875 children representing 9458 ICU admissions in Denmark, ICU admission rates declined during the study period from 2019 to 2024 and remained a small proportion of overall pediatric hospitalizations. In-hospital and postdischarge mortality remained stable and low.</description>
+    </item>
+    <item>
+      <title>Smoking Behavior and Major Cardiovascular and Limb Events in Patients With Peripheral Artery Disease</title>
+      <link>https://doi.org/10.1001/jamanetworkopen.2026.29337</link>
+      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.29337</guid>
+
+      <dc:creator>Hyo Kee Kim</dc:creator>
+      <dc:creator>Mi-Sook Kim</dc:creator>
+      <dc:creator>Sanghyun Ahn</dc:creator>
+      <dc:creator>Sangil Min</dc:creator>
+      <dc:creator>Seung-Kee Min</dc:creator>
+      <dc:creator>Jongwon Ha</dc:creator>
+      <dc:creator>Ahram Han</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hyo Kee Kim, Mi-Sook Kim, Sanghyun Ahn, Sangil Min, Seung-Kee Min, Jongwon Ha, Ahram Han
+
+Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2629337
+
+Abstract: Importance Smoking is the strongest modifiable risk factor for peripheral arterial disease (PAD), yet evidence on how postdiagnosis smoking behavior changes affect clinical outcomes remains limited. Objective To evaluate the association among smoking cessation, reduction, and continuation after PAD diagnosis and subsequent cardiovascular and limb-specific outcomes. Design, Setting, and Participants This nationwide, population-based, retrospective cohort study assessed adults 40 years or older newly diagnosed with PAD from January 1, 2011, to December 31, 2018, with follow-up through 2021, who reported active smoking before diagnosis and completed health examinations before and after diagnosis. Data were from the Korean National Health Insurance Service–National Health Information Database. Data analysis was conducted from December 2023 to November 2025. Exposures Postdiagnosis smoking behavior, classified as quitters (complete cessation), reducers (≥20% decrease in daily cigarette consumption), or maintainers (&amp;amp;amp;lt;20% decrease or any increase in consumption [reference group]). Main Outcomes and Measures Main outcomes were major adverse cardiovascular and cerebrovascular events (MACCEs), including all-cause death, myocardial infarction, coronary revascularization, and ischemic stroke, and major adverse limb events (MALEs), including limb revascularization or major amputation. Inverse probability of treatment-weighted hazard ratios (HRs) were estimated using Cox proportional hazards regression models for MACCEs and Fine-Gray competing risk models for MALEs. Results Among 189 545 active smokers with incident PAD (mean [SD] age, 54.2 [11.8] years; 167 659 [88.5%] male), 38 952 (20.6%) quit smoking, 38 709 (20.4%) reduced consumption, and 111 884 (59.0%) maintained smoking. Compared with maintainers, quitters had significantly lower risks of MACCEs (17.8 vs 20.2 per 1000 person-years; HR, 0.88; 95% CI, 0.84-0.91) and MALEs (1.4 vs 1.8 per 1000 person-years; HR, 0.83; 95% CI, 0.73-0.94). Reducers showed no significant difference in MACCEs (HR, 1.00; 95% CI, 0.96-1.04) or MALEs (HR, 0.92; 95% CI, 0.81-1.04). Dose-response analysis showed risk reduction only with near-complete cessation. Findings were consistent across subgroups, with the largest reductions observed for myocardial infarction. Conclusions and Relevance In this cohort study of 189 545 active smokers with newly diagnosed PAD, complete smoking cessation was associated with lower risks of both cardiovascular and limb-specific adverse events, whereas partial smoking reduction showed no significant benefit. These findings support complete cessation as the primary therapeutic target in patients with PAD.</description>
     </item>
     <item>
       <title>Why Smoking Cessation Is a Critical Treatment for Peripheral Artery Disease—Quitting Tobacco Matters</title>
@@ -1506,205 +1730,6 @@ Abstract: Importance Primary health care (PHC) is recognized as pivotal for achi
       <description>Authors: Alejandro A. Rabinstein
 
 Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2626853</description>
-    </item>
-    <item>
-      <title>Intravenous Thrombolysis Beyond the Conventional Time Window for Acute Ischemic Stroke</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.26990</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.26990</guid>
-
-      <dc:creator>Shaan Patel</dc:creator>
-      <dc:creator>Shiva A. Nischal</dc:creator>
-      <dc:creator>Kush M. Kale</dc:creator>
-      <dc:creator>Michael R. Gooch</dc:creator>
-      <dc:creator>Stavropoula I. Tjoumakaris</dc:creator>
-      <dc:creator>Pascal M. Jabbour</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shaan Patel, Shiva A. Nischal, Kush M. Kale, Michael R. Gooch, Stavropoula I. Tjoumakaris, Pascal M. Jabbour
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2626990
-
-Abstract: Importance Intravenous thrombolysis (IVT) is an established therapy for acute ischemic stroke when administered within 4.5 hours of symptom onset. However, many patients present beyond this window or with unknown onset, and recent randomized clinical trials (RCTs) have evaluated whether imaging-selected patients may benefit from thrombolysis in the extended window. Objective To evaluate the functional and safety outcomes associated with IVT administered 4.5 hours or more after stroke onset. Data Sources PubMed, Embase, and Cochrane Central Register of Controlled Trials were systematically searched from database inception through March 3, 2026. Study Selection RCTs enrolling adults with acute ischemic stroke treated with IVT 4.5 hours or more after symptom onset were included. Trials comparing thrombolysis with placebo or standard medical care and reporting functional or safety outcomes were eligible. Data Extraction and Synthesis Data were extracted independently by 2 reviewers following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Risk ratios (RRs) and mean differences with 95% CIs were pooled using random-effects models. Risk of bias was assessed using the Cochrane Risk of Bias 2 tool. Main Outcomes and Measures Primary outcomes were excellent functional outcome (modified Rankin scale scores of 0-1 at 90 days), good functional outcome (modified Rankin scale scores of 0-2 at 90 days), all-cause 90-day mortality, and symptomatic intracerebral hemorrhage (ICH). Results Fourteen RCTs including 4174 patients (2102 in the thrombolysis group and 2072 in the control group) were analyzed, 9 of which were published within the past 5 years. IVT was associated with a higher likelihood of excellent functional outcome (RR, 1.22; 95% CI, 1.14-1.31) and good functional outcome (RR, 1.12; 95% CI, 1.06-1.18) at 90 days. Mortality did not differ between groups (RR, 1.13; 95% CI, 0.93-1.38), but thrombolysis was associated with an increased the risk of symptomatic ICH (RR, 2.44; 95% CI, 1.45-4.09). Absolute treatment effects corresponded to a number needed to treat of 12 to 16 for an additional favorable outcome and a number needed to harm of 62 for symptomatic ICH. Conclusions and Relevance In this systematic review and meta-analysis of 14 RCTs, IVT administered beyond 4.5 hours after stroke onset was associated with improved functional outcomes despite an increased risk of symptomatic ICH, supporting extension of thrombolytic therapy beyond the conventional treatment window in appropriately imaging-selected patients.</description>
-    </item>
-    <item>
-      <title>Melatonin and the Developing Sleep System</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.26852</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.26852</guid>
-
-      <dc:creator>Azizi A. Seixas</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Azizi A. Seixas
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2626852</description>
-    </item>
-    <item>
-      <title>Rural Residence and Postsurgical Outcomes Among Medicare Beneficiaries</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.26959</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.26959</guid>
-
-      <dc:creator>Cody Lendon Mullens</dc:creator>
-      <dc:creator>Adrian Diaz</dc:creator>
-      <dc:creator>Brooke C. Bredbeck</dc:creator>
-      <dc:creator>Nicholas Kunnath</dc:creator>
-      <dc:creator>Justin B. Dimick</dc:creator>
-      <dc:creator>Andrew M. Ibrahim</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Cody Lendon Mullens, Adrian Diaz, Brooke C. Bredbeck, Nicholas Kunnath, Justin B. Dimick, Andrew M. Ibrahim
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2626959
-
-Abstract: Importance Rural hospital-level surgical quality has been extensively evaluated. However, rural people in the US face growing inequities in care, and quality of surgical care experienced by rural patients nationally remains poorly defined. Objective To evaluate surgical quality among rural vs nonrural Medicare beneficiaries undergoing common general surgery procedures. Design, Setting, and Participants This retrospective cohort study used 100% Medicare inpatient claims linked with the American Hospital Association Annual Survey between 2016 and 2023. The cohort included beneficiaries aged 65 to 99 years who underwent admission for appendectomy, cholecystectomy, colectomy, or incisional hernia repair. This analysis was undertaken between August and October 2025. Exposure Rural vs nonrural residence, defined using Rural-Urban Commuting Area codes based on patient home zip code (1-3: nonrural; 4-10: rural). Main Outcomes and Measures Risk-adjusted 30-day mortality, in-hospital mortality, complications, 30-day readmission, discharge disposition, and hospital length of stay. Multivariable logistic regression models adjusted for patient factors, hospital factors, and year of surgery. Results Among 2 317 497 beneficiaries (55.5% female; mean [SD] age, 75.2 [7.2] years), 462 358 (19.9%) were rural. Rural patients were more often male (46.4% vs 44.1%) and traveled longer for surgery (median, 45.0 [IQR, 22.0-77.0] minutes vs 20.0 [IQR, 13.0-31.0] minutes). Rural patients had higher adjusted 30-day mortality (6.78% [95% CI, 6.65%-6.90%] vs 5.84% [95% CI, 5.76%-5.93%]; odds ratio [OR], 1.21 [95% CI, 1.18-1.24]; P &amp;amp;amp;lt; .001), in-hospital mortality (3.65% [95% CI, 3.56%-3.74%] vs 3.20% [95% CI, 3.14%-3.25%]; OR, 1.17 [95% CI, 1.14-1.21]; P &amp;amp;amp;lt; .001), and 30-day readmission (14.31% [95% CI, 14.14%-14.48%] vs 13.57% [95% CI, 13.45%-13.69%]; OR, 1.07 [95% CI, 1.05-1.08]; P &amp;amp;amp;lt; .001). Complication rates were higher (29.31% [95% CI, 29.04%-29.57%] vs 28.58% [95% CI, 28.40%-28.76%]; OR, 1.05 [95% CI, 1.03-1.07]; P &amp;amp;amp;lt; .001). Rural patients were less likely to be discharged home (75.56% [95% CI, 75.24%-75.88%] vs 77.61% [95% CI, 77.36%-77.86%]; OR, 0.85 [95% CI, 0.83-0.88]; P &amp;amp;amp;lt; .001) and more likely to be transferred to another facility (1.40% [95% CI, 1.33%-1.47%] vs 0.70% [95% CI, 0.67%-0.73%]; OR, 2.04 [95% CI, 1.92-2.17]; P &amp;amp;amp;lt; .001). Conclusions and Relevance In this cohort study of Medicare beneficiaries undergoing common general surgery procedures, rural residence was independently associated with worse clinical outcomes across most measures. These findings identify significant opportunities for quality improvement focused on common rural surgical needs.</description>
-    </item>
-    <item>
-      <title>Melatonin Use and Polysomnographic Sleep Architecture in Children</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.26983</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.26983</guid>
-
-      <dc:creator>Alen Juginovic</dc:creator>
-      <dc:creator>Laura Rodman</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alen Juginovic, Laura Rodman
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2626983
-
-Abstract: Importance Melatonin is the most widely used sleep aid in children, yet no large study has examined its association with objective sleep architecture measured by polysomnography (PSG). Objective To assess whether outpatient melatonin use is associated with differences in PSG-derived sleep architecture in a pediatric sleep clinic population. Design, Setting, and Participants This cross-sectional, propensity score–matched study used the Nationwide Children’s Hospital Sleep DataBank, a deidentified dataset of PSG recordings and linked electronic health record data from children evaluated at a single academic pediatric sleep laboratory between 2017 and 2019. Children with at least 1 technically adequate PSG and complete electronic health record data were included; children older than 18 years were excluded. Data were analyzed from January to March 2026. Exposures Outpatient melatonin prescription documented in the medication list. Main Outcomes and Measures The prespecified primary outcome was percentage of rapid eye movement (REM) sleep. Fourteen additional PSG parameters (sleep stages, respiratory indices, arousal index, periodic limb movements, oxygen desaturation index) were exploratory. Propensity score matching (1:1 nearest-neighbor, caliper 0.2 SD of the logit propensity score) on age, sex, body mass index percentile, comorbidity burden, obstructive sleep apnea, and epilepsy yielded 342 matched pairs (684 children). Outcomes were compared with 2-sided Wilcoxon signed-rank tests at α = .05; Benjamini–Hochberg false discovery rate (FDR) correction was applied across the 15 outcomes. Results The analytic cohort constituted 3392 children (mean [SD] age, 8.0 [5.0] years; 1924 male [56.7%]), including 346 melatonin users and 3046 nonusers. The matched cohort constituted 684 children (342 users and 342 nonusers). After matching, all 6 covariates achieved standardized mean differences below 0.10. Melatonin users had a lower median percentage of REM sleep than matched nonusers (16.7% [IQR, 11.6%-22.0%] vs 19.0% [IQR, 14.6%-23.2%]; Hedges g = −0.22 [95% CI, −0.32 to −0.11]; FDR-corrected P = .003). Total sleep time, sleep efficiency, non-REM sleep stages, respiratory indices, arousal index, periodic limb movements, and oxygen desaturation index did not differ (FDR-corrected P &amp;amp;amp;gt; .05 for all 14 exploratory outcomes). The REM association was robust to 1:k matching (each melatonin user matched to 2 or 3 nonusers) and to averaging across repeated PSG nights. After adjusting for 3 psychiatric diagnoses (attention-deficit/hyperactivity disorder, anxiety, depression), REM reduction was preserved with attenuated magnitude (16.6% [IQR, 11.6%-22.0%] vs 18.4% [IQR, 13.4%-22.8%]; Hedges g = −0.17 [95% CI, −0.27 to −0.06]; P = .01). Conclusions and Relevance In this cross-sectional study of 684 propensity score–matched children, outpatient melatonin use was associated with a small reduction in REM sleep percentage and was not associated with differences in total sleep time, non-REM sleep stages, respiratory parameters, arousal architecture, or periodic limb movements. The REM association was attenuated when psychiatric diagnoses were added to the propensity model. Residual confounding cannot be excluded, and prospective studies with documented dose, timing, and adherence are needed to clarify the directionality of this association.</description>
-    </item>
-    <item>
-      <title>Surgical Outcomes for Rural Patients—Opportunities in an Era of Rural Health Reform</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.26849</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.26849</guid>
-
-      <dc:creator>Nina M. Clark</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nina M. Clark
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2626849</description>
-    </item>
-    <item>
-      <title>Vegan Diets and Dietary Energy Density</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.27483</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.27483</guid>
-
-      <dc:creator>Hana Kahleova</dc:creator>
-      <dc:creator>Tatiana Znayenko-Miller</dc:creator>
-      <dc:creator>Cristina Maracine</dc:creator>
-      <dc:creator>Richard Holubkov</dc:creator>
-      <dc:creator>Neal D. Barnard</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hana Kahleova, Tatiana Znayenko-Miller, Cristina Maracine, Richard Holubkov, Neal D. Barnard
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2627483
-
-Abstract: This secondary analysis of randomized clinical trial investigates whether adopting a vegan diet is associated with reduced dietary energy density.</description>
-    </item>
-    <item>
-      <title>Role-Playing–Based Physician Training and Metabolic Outcomes Among Patients With Type 2 Diabetes</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.27376</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.27376</guid>
-
-      <dc:creator>Yifei Zhang</dc:creator>
-      <dc:creator>Ying Peng</dc:creator>
-      <dc:creator>Yufei Chen</dc:creator>
-      <dc:creator>Tingyu Ke</dc:creator>
-      <dc:creator>Fengmei Xu</dc:creator>
-      <dc:creator>Shengli Wu</dc:creator>
-      <dc:creator>Yuancheng Dai</dc:creator>
-      <dc:creator>Lin Sun</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yifei Zhang, Ying Peng, Yufei Chen, Tingyu Ke, Fengmei Xu, Shengli Wu, Yuancheng Dai, Lin Sun, et al.
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2627376
-
-Abstract: Importance Global glycemic control in diabetes is suboptimal, with persistent gaps between guideline recommendations and clinical practice. Objective To evaluate the effectiveness of a role-playing–based intensive training program for physicians in improving glycemic control among patients with type 2 diabetes. Design, Setting, and Participants This was an open-label, 2-arm parallel, cluster randomized clinical trial conducted at 205 centers in China, with enrollment from February 13 to September 19, 2023, and 12-month follow-up completed on October 25, 2024. In phase 1, 205 physicians from qualified diabetes centers across China were enrolled from February 13 to April 29, 2023, and randomly assigned to the intensive training group (n = 103) and the regular training group (n = 102). In phase 2, 2017 patients with type 2 diabetes were enrolled from February 28 to September 19, 2023. Data were analyzed from January 1 to June 1, 2025. Interventions One-week on-site role-playing–based intensive training (involving simulating patient roles in experiencing diabetes-related health examinations, complication scenarios, lifestyle intervention, and face-to-face conversations) vs regular training. Main Outcomes and Measures The proportion of patients achieving a hemoglobin A 1c (HbA 1c ) level of less than 7.0% at 6 months. The primary analysis was based on the intention-to-treat principle. Results A total of 205 physicians (mean [SD] age, 36.2 [5.1] years; 155 women [75.6%]) and 2017 patients (mean [SD] age, 53.0 [7.0] years; 713 women [35.3%] and 1304 men [64.7%]) were enrolled, with 1009 patients in the intensive training group and 1008 patients in the regular training group. At 6 months, a significantly greater proportion of patients in the intensive training group achieved an HbA 1c level less than 7.0% compared with the regular training group (58.0% [476 of 820] vs 42.9% [351 of 818]), with an adjusted between-group difference of 16.6% (95% CI, 7.2%-25.7%; P &amp;amp;amp;lt; .001). At 12 months, the difference between the intensive training group and the regular training group remained significant (60.9% [502 of 824] vs 44.6% [371 of 832]; adjusted between-group difference, 17.0% [95% CI, 7.0%-26.8%]; P &amp;amp;amp;lt; .001). The intensive group had greater reductions in body mass index (adjusted between-group difference, −0.3 [95% CI, −0.5 to −0.1]), waist circumference (adjusted between-group difference, −1.4 cm [95% CI, −2.1 to −0.8 cm]), fasting glucose (adjusted between-group difference, −6.3 mg/dL [95% CI, −10.7 to −1.9 mg/dL]), and systolic blood pressure (adjusted between-group difference, −1.5 mm Hg [95% CI, −2.9 to −0.1 mm Hg]). Serious adverse events were comparable between groups (intensive group, 2.6% [26 of 1009]; regular group, 2.4% [24 of 1008]). Conclusions and Relevance In this cluster randomized clinical trial of role-playing–based intensive training for physicians managing type 2 diabetes, the intervention significantly improved patient glycemic control. These findings suggest a feasible strategy to narrow the guideline-implementation gap in diabetes care. Trial Registration ClinicalTrials.gov Identifier: NCT05715307</description>
-    </item>
-    <item>
-      <title>Patient-Reported Experiences of Abortion Travel</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.27603</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.27603</guid>
-
-      <dc:creator>Tuyet-Mai H. Hoang</dc:creator>
-      <dc:creator>Ainslee Wong</dc:creator>
-      <dc:creator>Hannah Baines</dc:creator>
-      <dc:creator>Radia DeLuna</dc:creator>
-      <dc:creator>Cache Monet Merriweather</dc:creator>
-      <dc:creator>Aaron Santoyo</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tuyet-Mai H. Hoang, Ainslee Wong, Hannah Baines, Radia DeLuna, Cache Monet Merriweather, Aaron Santoyo
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2627603
-
-Abstract: Importance Illinois is an abortion hub serving a high volume of patients who travel from midwestern and southern states for abortion care. To sustain access to quality services and reduce health care barriers, research is needed to understand the experiences of abortion travelers. Objectives To explore the experiences of out-of-state individuals who travel to central and southern Illinois to receive abortion care. Design, Setting, and Participants This qualitative study used purposeful sampling to recruit 208 participants at 2 abortion clinics between November 2024 and August 2025. Participants completed the study at the time of recruitment. Exposure Participants traveled for abortion care based on their state of residence. Main outcomes and measures Using reflexive thematic analysis, both the experiences of out-of-state abortion travelers in central and southern Illinois and the need for reduction in access barriers for those traveling for abortion were examined. Results In this qualitative study of 208 abortion seekers who successfully traveled to Illinois, 128 (61.54%) self-identified as Black, 50 (24.03%) non-Hispanic White, and 30 (14.42%) as women from additional minoritized racial and ethnic groups. Participants’ age ranged from 18 to 45 years. All lived in midwestern or southern states. Participants were interviewed in a private room at the clinic between November 2024 and August 2025. Participants discussed structural, logistical, and emotional challenges. Yet, they described abortion traveling as necessary because of the abortion ban and misinformation, which contributed to increased medical distrust. Medical distrust was already rooted in some participants’ previous experiences of receiving biased reproductive care, and for Black women, it worsened because of historical mistreatment and discrimination. Increased medical distrust likely drove people to travel for abortion care. Conclusions and relevance These findings call for enhanced coordination of care with centralized trusted resources, equitable distribution of funding, mental health support, and attention to reduce biased care for Black women. The results also highlight the need to develop strategies to combat misinformation and increase advocacy efforts to reduce abortion stigma.</description>
-    </item>
-    <item>
-      <title>Mental Health Symptom Changes by Sex or Gender Before and During the COVID-19 Pandemic</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.27595</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.27595</guid>
-
-      <dc:creator>Gabriel Chun Yin Sung</dc:creator>
-      <dc:creator>Yin Wu</dc:creator>
-      <dc:creator>Suiqiong Fan</dc:creator>
-      <dc:creator>Tiffany Dal Santo</dc:creator>
-      <dc:creator>Nadia P. González-Domínguez</dc:creator>
-      <dc:creator>Ying Sun</dc:creator>
-      <dc:creator>Letong Li</dc:creator>
-      <dc:creator>Kexin Li</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gabriel Chun Yin Sung, Yin Wu, Suiqiong Fan, Tiffany Dal Santo, Nadia P. González-Domínguez, Ying Sun, Letong Li, Kexin Li, et al.
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2627595
-
-Abstract: Importance A previous systematic review reported that general mental health and anxiety symptoms, but not depression or stress, worsened more for females or women than for males or men from before to during the COVID-19 pandemic based on 12 studies published up to August 2021. Objective To update a systematic review on sex or gender differences in mental health symptom changes from before to during the COVID-19 pandemic. Data Sources Medline, PsycINFO, CINAHL, Embase, Web of Science, China National Knowledge Infrastructure, Wanfang, medRxiv, and Open Science Framework Preprints were searched from December 31, 2019, to August 31, 2023. Study Selection Eligible studies included data to calculate changes in general mental health, anxiety symptoms, depression symptoms, or stress from before to during the COVID-19 pandemic by sex or gender. Data Extraction and Synthesis Standardized mean differences (SMDs) for continuous changes and proportions for dichotomous changes were used. Two independent reviewers extracted data and evaluated risk of bias. Data were pooled via random-effects models on March 21, 2024. Main Outcomes and Measures The main outcome was the differences in SMD changes and proportions between women or females and men or males of mental health symptoms from before the COVID-19 pandemic to during the COVID-19 pandemic. Results The study included 27 unique cohorts from 14 countries (n = 102-18 127; 31 155 women or females and 30 737 men or males). Differences in SMD change between men and women were minimal and not statistically significant for continuous outcomes of general mental health (0.01 [95% CI, −0.07 to 0.10 and 95% prediction interval (PI), −0.23 to 0.25]; 8 cohorts; 21 762 participants; heterogeneity [ I 2 ] = 81.4%), anxiety (0.09 [95% CI, −0.04 to 0.22 and 95% PI, −0.27 to 0.45]; 7 cohorts; 6039 participants; I 2 = 68.7%), depression (0.10 [95% CI, −0.00 to 0.20 and 95% PI, −0.23 to 0.43]; 12 cohorts; 9750 participants; I 2 = 65.4%), and stress (−0.08 [95% CI, −0.16 to 0.01 and 95% PI, −0.18 to 0.02]; 8 cohorts; 2994 participants; I 2 = 0%). Substantial heterogeneity, high risk of bias, or both were present across analyses. No studies reported changes for gender minority groups (eg, transgender, nonbinary). Conclusion and Relevance In this systematic review and meta-analysis of sex or gender differences in mental health changes from before to during the COVID-19 pandemic, no significant differences were found. However, findings should be interpreted cautiously and may not apply in all settings due to heterogeneity and methodological limitations of included studies.</description>
-    </item>
-    <item>
-      <title>Prioritizing Nursing Home Infection Prevention Through Hypothesis-Driven Research</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.26847</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.26847</guid>
-
-      <dc:creator>L. Leigh Smith</dc:creator>
-      <dc:creator>Mary-Claire Roghmann</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: L. Leigh Smith, Mary-Claire Roghmann
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2626847</description>
-    </item>
-    <item>
-      <title>Rural Background, Training Exposure, and Rural Practice Location Among US Physicians</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.25481</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.25481</guid>
-
-      <dc:creator>Xiaochu Hu</dc:creator>
-      <dc:creator>Davis G. Patterson</dc:creator>
-      <dc:creator>Sarah S. Conrad</dc:creator>
-      <dc:creator>Qian Luo</dc:creator>
-      <dc:creator>Michael J. Dill</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xiaochu Hu, Davis G. Patterson, Sarah S. Conrad, Qian Luo, Michael J. Dill
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2625481
-
-Abstract: This cross-sectional study assesses the interdependence of rural background and training as factors associated with rural practice among US physicians.</description>
-    </item>
-    <item>
-      <title>Preventing Firearm-Related Suicide Deaths Among Youth—Action Is the Antidote to Despair</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.26844</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.26844</guid>
-
-      <dc:creator>Tami D. Benton</dc:creator>
-      <dc:creator>Nadiyah S. Fisher</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tami D. Benton, Nadiyah S. Fisher
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2626844</description>
-    </item>
-    <item>
-      <title>Operationalizing Alternate Care Facilities Before the Next Surge—From Improvisation to Standing Capability</title>
-      <link>https://doi.org/10.1001/jamanetworkopen.2026.26845</link>
-      <guid isPermaLink="false">10.1001/jamanetworkopen.2026.26845</guid>
-
-      <dc:creator>Attila J. Hertelendy</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Attila J. Hertelendy
-
-Journal: JAMA Network Open; Volume: 9; Issue: 8; Pages: e2626845</description>
     </item>
   </channel>
 </rss>
