@@ -5,8 +5,81 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:59:46 +0000</lastBuildDate>
 
+    <item>
+      <title>Dysregulated adult hippocampal neurogenesis in major depressive disorders</title>
+      <link>https://doi.org/10.1038/s41591-026-04571-8</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04571-8</guid>
+
+      <dc:creator>Madeleine S. Peng</dc:creator>
+      <dc:creator>Jialin Jiang</dc:creator>
+      <dc:creator>Lucia Polizzi</dc:creator>
+      <dc:creator>Tiancheng Shi</dc:creator>
+      <dc:creator>Rakshitha Ramkumar</dc:creator>
+      <dc:creator>Victor O. Anosike</dc:creator>
+      <dc:creator>Giulia Guasoni</dc:creator>
+      <dc:creator>Alexandra M. Wamalwa</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Madeleine S. Peng, Jialin Jiang, Lucia Polizzi, Tiancheng Shi, Rakshitha Ramkumar, Victor O. Anosike, Giulia Guasoni, Alexandra M. Wamalwa, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>The trials of translating psilocybin treatment from research to practice</title>
+      <link>https://doi.org/10.1038/s41591-026-04597-y</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04597-y</guid>
+
+      <dc:creator>Liliana Galindo</dc:creator>
+      <dc:creator>Anya Ragnhildstveit</dc:creator>
+      <dc:creator>Benjamin J. G. Illingworth</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Liliana Galindo, Anya Ragnhildstveit, Benjamin J. G. Illingworth
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Responsiveness of epigenetic aging biomarkers to longevity interventions in humans</title>
+      <link>https://doi.org/10.1038/s41591-026-04562-9</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04562-9</guid>
+
+      <dc:creator>Raghav Sehgal</dc:creator>
+      <dc:creator>Daniel Borrus</dc:creator>
+      <dc:creator>Jenel F. Armstrong</dc:creator>
+      <dc:creator>John Gonzalez</dc:creator>
+      <dc:creator>Jessica Kasamoto</dc:creator>
+      <dc:creator>Yaroslav Markov</dc:creator>
+      <dc:creator>Ahana Priyanka</dc:creator>
+      <dc:creator>Ryan Smith</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Raghav Sehgal, Daniel Borrus, Jenel F. Armstrong, John Gonzalez, Jessica Kasamoto, Yaroslav Markov, Ahana Priyanka, Ryan Smith, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Aging biomarkers can potentially allow researchers to rapidly monitor the impact of an aging intervention without the need for decade-spanning trials. However, before the use of aging biomarkers, such as epigenetic clocks, as surrogate endpoints, their responsiveness to interventions that target aging must be tested. Here we curate TranslAGE, a harmonized database of 51 public and private longitudinal interventional studies, and calculate a consistent set of 16 prominent epigenetic clocks for each study, along with 94 other DNA methylation (DNAm) biomarkers that can help explain the changes observed for each clock. Using this database, we discover patterns of responsiveness across a variety of interventions and DNAm biomarkers. For example, clocks trained to predict mortality or pace of aging show the strongest responses across all interventions and show consistent results with one another; pharmacological and lifestyle interventions drive the strongest responses from DNAm biomarkers; and the characteristics of the study population and study duration are key factors in determining the responsiveness of DNAm biomarkers to an intervention. Moreover, clocks with multiple subscores (that is ‘explainable clocks’) provide specificity and greater mechanistic insight into the responsiveness of interventions than single-score clocks. These findings can help to design future clinical trials by guiding the choice of interventions and of specific subsets of DNAm biomarkers to minimize multiple testing, study duration, study population and sample size, with the eventual aim of uncovering DNAm biomarkers that can be used as surrogate aging endpoints.</description>
+    </item>
+    <item>
+      <title>Can traditional medicines go mainstream?</title>
+      <link>https://doi.org/10.1038/s41591-026-04588-z</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04588-z</guid>
+
+      <dc:creator>Ben Deighton</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ben Deighton
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Putting epigenetic aging clocks on trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04524-1</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04524-1</guid>
+
+      <dc:creator>Steve Horvath</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Steve Horvath
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>County surveillance failed to detect that measles transmission reached epidemic threshold in schools</title>
       <link>https://doi.org/10.1038/s41591-026-04612-2</link>
@@ -647,6 +720,14 @@ Journal: Nature Medicine
 Abstract: Abstract Recent rapid progress in the field of computational pathology has been enabled by foundation models. These models are beginning to move beyond encoding image patches toward whole-slide understanding, but their clinical utility remains limited. Here we present PRISM2, a multimodal slide-level foundation model trained on 2.3 million whole-slide images and 14 million question−answer pairs derived from 700,000 pathology reports. Through clinical dialogue supervision, PRISM2 aligns histomorphology with diagnostic reasoning, yielding representations that support both prompt-based inference and transferable embeddings for downstream tasks. With prompt-based inference, PRISM2 achieves or exceeds ( P &amp;lt; 0.05) the balanced accuracy of clinical-grade products calibrated for cancer detection in the prostate, breast and breast lymph node. Additionally, across comprehensive diagnostic, biomarker and survival benchmarks, PRISM2 embeddings never statistically underperform previous foundation models via linear probing ( P &amp;lt; 0.05). Furthermore, task-specific fine-tuning on survival prediction outperforms training from scratch on the same large survival dataset. PRISM2 demonstrates how language-supervised pretraining provides a scalable, clinically grounded signal for generalizable pathology representations, bridging human diagnostic reasoning and foundation model performance.</description>
     </item>
     <item>
+      <title>Learning from routine health system data builds better neuroimaging AI models</title>
+      <link>https://doi.org/10.1038/s41591-026-04567-4</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04567-4</guid>
+
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2743-2744</description>
+    </item>
+    <item>
       <title>Humanoid robots perform successful surgery in animals</title>
       <link>https://doi.org/10.1038/d41591-026-00038-y</link>
       <guid isPermaLink="false">10.1038/d41591-026-00038-y</guid>
@@ -656,14 +737,6 @@ Abstract: Abstract Recent rapid progress in the field of computational pathology
       <description>Authors: Karen O’Leary
 
 Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Learning from routine health system data builds better neuroimaging AI models</title>
-      <link>https://doi.org/10.1038/s41591-026-04567-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04567-4</guid>
-
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2743-2744</description>
     </item>
     <item>
       <title>Deciphering the role of histidine in cancer</title>
@@ -1492,85 +1565,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2401-2404</description>
       <description>Authors: Andrea Cipriano, Jamie Justice, Jesse R. Poganik, Mahdi Moqri, Omar O. Abudayyeh, Jonathan Gootenberg, Laura Haynes, Yotam Levin, et al.
 
 Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2368-2382</description>
-    </item>
-    <item>
-      <title>Author Correction: Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04551-y</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04551-y</guid>
-
-      <dc:creator>Marc S. Raab</dc:creator>
-      <dc:creator>Niels Weinhold</dc:creator>
-      <dc:creator>K. Martin Kortüm</dc:creator>
-      <dc:creator>Jan Krönke</dc:creator>
-      <dc:creator>Roland Fenk</dc:creator>
-      <dc:creator>Katja Weisel</dc:creator>
-      <dc:creator>Lilli Podola</dc:creator>
-      <dc:creator>Uta Bertsch</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marc S. Raab, Niels Weinhold, K. Martin Kortüm, Jan Krönke, Roland Fenk, Katja Weisel, Lilli Podola, Uta Bertsch, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2688-2688</description>
-    </item>
-    <item>
-      <title>Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection</title>
-      <link>https://doi.org/10.1038/s41591-026-04483-7</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04483-7</guid>
-
-      <dc:creator>Loukas Papargyris</dc:creator>
-      <dc:creator>Jiayun Xu</dc:creator>
-      <dc:creator>Claire Broderick</dc:creator>
-      <dc:creator>Ao Huang</dc:creator>
-      <dc:creator>Trupti Gore</dc:creator>
-      <dc:creator>Arnold Reynaldi</dc:creator>
-      <dc:creator>Pete Dayananda</dc:creator>
-      <dc:creator>Ashley M. Collins</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Loukas Papargyris, Jiayun Xu, Claire Broderick, Ao Huang, Trupti Gore, Arnold Reynaldi, Pete Dayananda, Ashley M. Collins, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2556-2569
-
-Abstract: Abstract Controlled human influenza infection studies can uniquely interrogate the early immune factors associated with clinical outcome. In this study, 27 healthy volunteers with low strain-specific serum neutralizing antibody levels were challenged with influenza A/H3N2 virus. Twenty-two became infected, with 18 developing mild-to-moderate symptoms and four remaining asymptomatic. Local and systemic immune profiling revealed innate pathways that engaged more rapidly and to a higher level in symptomatic participants. Earlier monocyte and dendritic cell activation correlated with higher symptom scores but also enhanced natural killer and CD8 + T cell activation thereafter. At baseline, peripheral blood mononuclear cells from symptomatic participants were more responsive to in vitro challenge, indicating a predisposition to divergent immunological outcomes at the time of virus exposure that was subsequently modulated by infection. These results show that human innate cell responsiveness is a predeterminant of both symptomatic disease and cellular immune responses known to promote viral clearance, suggesting potential targets for therapeutic intervention if decoupled.</description>
-    </item>
-    <item>
-      <title>Oligonucleotide–siRNA conjugate for SOD1 amyotrophic lateral sclerosis: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04491-7</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04491-7</guid>
-
-      <dc:creator>Weiqi Chen</dc:creator>
-      <dc:creator>Lingling Jiang</dc:creator>
-      <dc:creator>Chunling Duan</dc:creator>
-      <dc:creator>Moorim Kang</dc:creator>
-      <dc:creator>Jinyi Ye</dc:creator>
-      <dc:creator>Ling Wang</dc:creator>
-      <dc:creator>Yuesong Pan</dc:creator>
-      <dc:creator>Hui Qu</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Weiqi Chen, Lingling Jiang, Chunling Duan, Moorim Kang, Jinyi Ye, Ling Wang, Yuesong Pan, Hui Qu, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2619-2628</description>
-    </item>
-    <item>
-      <title>Biological aging clocks in health and disease</title>
-      <link>https://doi.org/10.1038/s41591-026-04495-3</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04495-3</guid>
-
-      <dc:creator>Tony Wyss-Coray</dc:creator>
-      <dc:creator>Eric J. Topol</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tony Wyss-Coray, Eric J. Topol
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2383-2394</description>
-    </item>
-    <item>
-      <title>When the real world becomes the trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04484-6</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04484-6</guid>
-
-      <dc:creator>Marianne Guenot</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marianne Guenot
-
-Journal: Nature Medicine; Volume: 32; Issue: 7; Pages: 2324-2327</description>
     </item>
   </channel>
 </rss>
