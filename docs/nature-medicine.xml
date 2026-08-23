@@ -5,7 +5,7 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:01:38 +0000</lastBuildDate>
 
     <item>
       <title>Dysregulated adult hippocampal neurogenesis in major depressive disorders</title>
@@ -720,14 +720,6 @@ Journal: Nature Medicine
 Abstract: Abstract Recent rapid progress in the field of computational pathology has been enabled by foundation models. These models are beginning to move beyond encoding image patches toward whole-slide understanding, but their clinical utility remains limited. Here we present PRISM2, a multimodal slide-level foundation model trained on 2.3 million whole-slide images and 14 million question−answer pairs derived from 700,000 pathology reports. Through clinical dialogue supervision, PRISM2 aligns histomorphology with diagnostic reasoning, yielding representations that support both prompt-based inference and transferable embeddings for downstream tasks. With prompt-based inference, PRISM2 achieves or exceeds ( P &amp;lt; 0.05) the balanced accuracy of clinical-grade products calibrated for cancer detection in the prostate, breast and breast lymph node. Additionally, across comprehensive diagnostic, biomarker and survival benchmarks, PRISM2 embeddings never statistically underperform previous foundation models via linear probing ( P &amp;lt; 0.05). Furthermore, task-specific fine-tuning on survival prediction outperforms training from scratch on the same large survival dataset. PRISM2 demonstrates how language-supervised pretraining provides a scalable, clinically grounded signal for generalizable pathology representations, bridging human diagnostic reasoning and foundation model performance.</description>
     </item>
     <item>
-      <title>Learning from routine health system data builds better neuroimaging AI models</title>
-      <link>https://doi.org/10.1038/s41591-026-04567-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04567-4</guid>
-
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2743-2744</description>
-    </item>
-    <item>
       <title>Humanoid robots perform successful surgery in animals</title>
       <link>https://doi.org/10.1038/d41591-026-00038-y</link>
       <guid isPermaLink="false">10.1038/d41591-026-00038-y</guid>
@@ -737,6 +729,14 @@ Abstract: Abstract Recent rapid progress in the field of computational pathology
       <description>Authors: Karen O’Leary
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Learning from routine health system data builds better neuroimaging AI models</title>
+      <link>https://doi.org/10.1038/s41591-026-04567-4</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04567-4</guid>
+
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2743-2744</description>
     </item>
     <item>
       <title>Deciphering the role of histidine in cancer</title>

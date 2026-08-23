@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:01:07 +0000</lastBuildDate>
 
     <item>
       <title>Cohort Profile Update: the Rotterdam Periconceptional Cohort—biomarkers, lifestyle intervention, and artificial intelligence</title>
@@ -79,6 +79,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Under the top-secret Manhattan Project, improperly stored radioactive byproducts from the processing of uranium contaminated Coldwater Creek in north St. Louis County, Missouri. We used the original 1958 Baby Tooth Survey (BTS) linked with the National Death Index (NDI) to investigate whether childhood residential proximity to the creek, as a proxy for radiation exposure, was associated with mortality. Methods There were 43 876 eligible participants from the BTS (those outside Greater St. Louis and/or had incomplete covariates were excluded). In December 2023, the NDI was searched for BTS participants who had died. We estimated the hazard ratio (HR) and 95% confidence intervals between distance to Coldwater Creek (per 10 km) and mortality (all-cause, cancer, and cardiovascular disease) adjusting for sex, birth year, and census tract-level socioeconomic indicators. Results Living closer to Coldwater Creek was associated with a higher rate of all-cause mortality (HR: 1.05; 95% CI: 1.01–1.09; P = .01). There was suggestive evidence of an increased rate for cancer mortality: any cancer (HR: 1.06; 95% CI: 1.00–1.14; P = .06), solid cancer (HR: 1.07, 95% CI: 1.00–1.16; P = .06) and radiosensitive cancer (HR: 1.10; 95% CI: 1.00–1.21; P = .05). There was no association with non-radiosensitive cancer and cardiovascular mortality. Conclusions Our study provides new data that suggest living near Coldwater Creek in childhood was positively associated with the rate of all-cause mortality, and to a lesser extent cancer mortality, but not cardiovascular disease mortality. However, these findings should be interpreted cautiously given the lack of data on internal radiation exposure and individual socioeconomic status.</description>
     </item>
     <item>
+      <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
+      <link>https://doi.org/10.1093/ije/dyag177</link>
+      <guid isPermaLink="false">10.1093/ije/dyag177</guid>
+
+      <dc:creator>Dana E Goin</dc:creator>
+      <dc:creator>Stephanie M Eick</dc:creator>
+      <dc:creator>Patrick J Parsons</dc:creator>
+      <dc:creator>Amy M Padula</dc:creator>
+      <dc:creator>Sarah Dee Geiger</dc:creator>
+      <dc:creator>Susan L Schantz</dc:creator>
+      <dc:creator>Tracey J Woodruff</dc:creator>
+      <dc:creator>Rachel Morello-Frosch</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dana E Goin, Stephanie M Eick, Patrick J Parsons, Amy M Padula, Sarah Dee Geiger, Susan L Schantz, Tracey J Woodruff, Rachel Morello-Frosch
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag177
+
+Abstract: Abstract Background Our goal was to evaluate the relationship between prenatal fluoride exposure and pregnancy outcomes. Methods We measured urinary fluoride collected during the second trimester among pregnant people recruited from California and Illinois from 2014 to 2020 (N = 949). We evaluated risk differences (RDs) of preterm birth (PTB), small-for-gestational age (SGA), large-for-gestational age (LGA), gestational diabetes, and differences in birthweight, birthweight-for-gestational age z-scores, and gestational age associated with a 0.1 mg/l increase in fluoride using linear regression to estimate effects on the additive scale. We also used modified treatment policies with machine learning to estimate the effects of hypothetical interventions to reduce urinary fluoride by 0.1 and 0.5 mg/l on pregnancy outcomes. In the Illinois cohort, we estimated effects by trimester. Results In our main analyses, we found no associations between urinary fluoride levels and pregnancy outcomes. For instance, for a 0.1 mg/l increase in fluoride, we saw no change in the risk of PTB, SGA, or gestational diabetes. We also found no differences associated with hypothetical reductions of prenatal fluoride by 0.1 mg/l or 0.5 mg/l for any outcomes. In the trimester-specific analyses for Illinois participants, we found increased LGA risk during the first (RD = 0.004, 95% CI −0.001, 0.009) and third trimesters (RD = 0.007, 95% CI 0.001, 0.012), and reduced LGA risk during the second trimester (RD = −0.006, 95% CI −0.011, 0.000), associated with 0.1 mg/l higher urinary fluoride. Conclusions Prenatal fluoride exposure does not appear to affect pregnancy outcomes, but preliminary evidence suggests that higher fluoride levels may affect the risk of LGA depending on timing of exposure during pregnancy.</description>
+    </item>
+    <item>
       <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
       <link>https://doi.org/10.1093/ije/dyag148</link>
       <guid isPermaLink="false">10.1093/ije/dyag148</guid>
@@ -88,6 +108,23 @@ Abstract: Abstract Background Under the top-secret Manhattan Project, improperly
       <description>Authors: Cesar Victora
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
+    </item>
+    <item>
+      <title>All covariates are not created equal in regression calibration: a review of methods on using biomarkers to calibrate dietary intake</title>
+      <link>https://doi.org/10.1093/ije/dyag169</link>
+      <guid isPermaLink="false">10.1093/ije/dyag169</guid>
+
+      <dc:creator>Wenze Tang</dc:creator>
+      <dc:creator>Zihan Qian</dc:creator>
+      <dc:creator>Xiao Gu</dc:creator>
+      <dc:creator>Walter C Willett</dc:creator>
+      <dc:creator>Molin Wang</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wenze Tang, Zihan Qian, Xiao Gu, Walter C Willett, Molin Wang
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag169
+
+Abstract: Abstract Regression calibration is a widely used method for correcting bias in regression coefficient estimates caused by measurement error in continuous exposures. In nutritional epidemiology, recent studies often use nutrient-derived biomarkers to calibrate true dietary intakes, which are typically assessed through small feeding studies or weighed dietary records. However, biomarkers may themselves lie on the causal pathway between intake and outcome, violating the surrogacy assumption that underpins the validity of regression calibration. We evaluate regression calibration-based methods that have been applied or proposed for calibrating dietary intake using biomarkers, focusing on their validity and relative efficiency. Our assessment combines analytic bias quantification, simulation studies, and a real-data application. Two approaches are generally valid when using mediators to calibrate the true exposure: (1) the expanded calibration method, which recovers the total effect via the product method from mediation analysis, and (2) the two-stage calibration method. In simulations reflecting realistic scenarios, the expanded calibration method demonstrated superior efficiency for a continuous outcome. Finally, we show that estimating the effect of dietary intake using a calibrated biomarker is valid when the mean biomarker calibration model contains a linear term in true intake with coefficient one, possibly along with additional covariates.</description>
     </item>
     <item>
       <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
@@ -157,20 +194,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Adiposity is associated with increased risk of breast cancer in post-menopausal women, while the association appears to be the inverse among premenopausal women in Western populations, but is unclear for Chinese women. Methods Using data on 284 538 women with no history of cancer, hysterectomy, oophorectomy, or breast surgery at baseline in 2004–8 from the China Kadoorie Biobank (a prospective cohort study), Cox regression was used to estimate adjusted hazard ratios (HRs) for breast cancer and its subtypes by measured body mass index (BMI) and other adiposity measures (waist circumference, fat percentage, waist–hip ratio, fat mass) and by self-reported BMI at age 25 years. Results Mean BMI was 23.8 (3.5 SD) kg/m2 at baseline (mean age 51.4 years) and 21.9 (2.7 SD) kg/m2 at age 25 years. During 10 years of follow-up, there were 2379 incident breast cancer cases. Higher BMI was associated with a higher risk of breast cancer in women who were post-menopausal [HR = 1.35, 95% confidence interval (CI) 1.24–1.47] and premenopausal (HR = 1.13, 95% CI 1.03–1.24) at baseline, but not when censoring at age 50 years to capture mainly premenopausal cancers. Among post-menopausal women, BMI was associated with oestrogen-receptor positive (ER ) (HR = 1.47, 95% CI 1.24–1.74), but not with oestrogen-receptor negative (ER−) breast cancer (HR = 1.02, 95% CI 0.75–1.37). Waist circumference and fat percentage were associated with a higher risk of breast cancer. Conclusion In this cohort of Chinese women, higher levels of general and central adiposity were associated with a higher risk of breast cancer, in both women who were premenopausal and women who were post-menopausal at baseline. Among post-menopausal women, adiposity was associated with ER but not ER − breast cancer.</description>
     </item>
     <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
-
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
-
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
-    </item>
-    <item>
       <title>Elucidating the proteomic pathways linking childhood body mass index with type 2 diabetes: a Mendelian randomization and recall-by-genotype study</title>
       <link>https://doi.org/10.1093/ije/dyag165</link>
       <guid isPermaLink="false">10.1093/ije/dyag165</guid>
@@ -189,6 +212,20 @@ Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag165
 
 Abstract: Abstract Background Increased childhood adiposity contributes to higher type 2 diabetes (T2D) risk, but the underlying mechanisms remain unclear. Furthermore, whether these mechanistic pathways are shared across ethnic groups has not been explored. Methods We conducted a two-step Mendelian randomization (MR) using European-based summary statistics from genome-wide association studies of childhood body mass index (BMI) (n = 61 111), adulthood proteomics (n = 35 559), and later life T2D (cases: 242 283; controls: 1 569 734). We also conducted a recall-by-genotype (RbG) study in a Chinese birth cohort (n = 250) to assess whether childhood BMI was associated with the identified proteomic signals in an East Asian population. Analyses included multi-instrument MR methods (inverse variance weighted and MR-Egger) and, for single-instrument proteins, cis-MR using the Wald ratio, with colocalization validation. Multiple testing was adjusted using false discovery rate (FDR). Results Higher genetically predicted childhood BMI was associated with 1299 proteins (FDR-adjusted P &amp;amp;lt; .05), of which 36 proteins were associated with higher T2D risk. Six proteins were supported by colocalization (PPH4 &amp;amp;gt; 80%). Genetically predicted higher childhood BMI was positively associated with GCKR, RBP1, ENTPD6, and GST A1-1, and inversely associated with PRSS27 and SHBG. The proportion of the BMI-T2D effect mediated by these proteins ranged from 1.87% to 12.92%. However, only SHBG was replicated in Asians in the RbG study. Conclusions Our study identified putative actionable proteins that could reduce the elevated T2D risk attributable to childhood adiposity in Europeans, but their relevance in Asian populations requires further investigation.</description>
+    </item>
+    <item>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
@@ -1661,39 +1698,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag049
 
 Abstract: Abstract Background C-reactive protein (CRP) is a marker of inflammation associated with autoimmune, cardiovascular, and neuropsychiatric disorders. However, it remains unclear whether CRP causally affects these traits or if observed associations result from reverse causation or confounding. Mendelian randomization (MR) uses genetic variants as instrumental variables to estimate causal effects and avoid the biases present in observational studies. Prior MR studies have suggested causal effects of CRP on several traits, including low-density lipoprotein (LDL) cholesterol, schizophrenia (SCZ), and knee osteoarthritis (OA). However, MR may produce biased results if traits that confound the exposure and outcome are heritable, resulting in horizontal pleiotropy. This is a major concern for studies of CRP, because CRP levels may increase in response to inflammation caused by a wide range of heritable conditions. Methods Multivariable Mendelian randomization (MVMR) can be used to eliminate bias from heritable confounding when genome-wide association study (GWAS) summary data are available for confounders. In this study, we used MVMR to estimate the causal effects of CRP on 16 outcomes with prior evidence of a causal or associational link to CRP. We used a novel computational pipeline to identify a broad set of potential heritable confounders between CRP and each outcome trait from studies in the Medical Research Council Integrative Epidemiology Unit (MRC-IEU) OpenGWAS database. We compared MVMR results with computationally selected confounders to univariable MR results and MVMR adjusting only for body mass index. Results Univariable MR suggests evidence of potential causal effects of CRP on coronary artery disease, high-density lipoprotein (HDL) cholesterol, LDL cholesterol, triglycerides, type 2 diabetes, glycated hemoglobin (HbA1c), rheumatoid arthritis (RA), SCZ and OA at the nominal P &amp;amp;lt; .05 significance level. However, after adjusting for computationally selected heritable confounders, only effects on HDL cholesterol (negative), HbA1c (positive), RA (risk increasing), and SCZ (risk decreasing) remain nominally significant. Using confounder-adjusted MVMR additionally reveals evidence of a protective effect of CRP on bipolar disorder not observed in the univariable analysis. Conclusion These results suggest that univariable MR analyses of CRP may be biased by high levels of heritable confounding, though CRP may indeed play a causal role in development of some diseases, potentially mediated by its role in innate immunity. These results also highlight the potential for automatic confounder selection to improve the robustness of MR analyses.</description>
-    </item>
-    <item>
-      <title>Is morbidity expanding? An epidemiological framework for understanding morbidity expansion and multimorbidity</title>
-      <link>https://doi.org/10.1093/ije/dyag037</link>
-      <guid isPermaLink="false">10.1093/ije/dyag037</guid>
-
-      <dc:creator>Tony Blakely</dc:creator>
-      <dc:creator>Wondmagegn Demsiss</dc:creator>
-      <dc:creator>Daniel Ramsay</dc:creator>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tony Blakely, Wondmagegn Demsiss, Daniel Ramsay
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag037</description>
-    </item>
-    <item>
-      <title>Early-life exposure to ambient temperature and polycystic ovary syndrome: a nationwide cohort study</title>
-      <link>https://doi.org/10.1093/ije/dyag082</link>
-      <guid isPermaLink="false">10.1093/ije/dyag082</guid>
-
-      <dc:creator>Boya Zhang</dc:creator>
-      <dc:creator>Makiko Mitsunami</dc:creator>
-      <dc:creator>Elizabeth Peebles</dc:creator>
-      <dc:creator>Brent A Coull</dc:creator>
-      <dc:creator>Tamarra James-Todd</dc:creator>
-      <dc:creator>Jorge E Chavarro</dc:creator>
-      <dc:creator>Jaime E Hart</dc:creator>
-      <dc:creator>Francine Laden</dc:creator>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Boya Zhang, Makiko Mitsunami, Elizabeth Peebles, Brent A Coull, Tamarra James-Todd, Jorge E Chavarro, Jaime E Hart, Francine Laden, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag082
-
-Abstract: Abstract Background Early-life temperature exposure, especially during oogenesis, may impact ovarian function later in life. However, the effect of ambient temperature during sensitive developmental windows on ovulation disorders remains unknown. Methods We investigate the associations of early-life ambient temperature exposure with incident polycystic ovary syndrome (PCOS) in the Growing Up Today Study II, a United States (US) nationwide prospective cohort. We included females born after 1989 with available outcome and exposure data during the preconception (N = 3265), gestation (N = 3265), and childhood period (N = 3521). Monthly average residential mean temperatures were estimated using the PRISM Climate Group data. We considered exposure windows included preconception (3 months prior to conception), gestational (from conception month to birth), individual trimesters, and childhood (from birth to 1 year before age at menarche). PCOS was identified by self-reported clinical diagnosis. We estimated adjusted hazard ratios (HRs) and 95% confidence intervals (CIs) for PCOS per interquartile range (IQR) increase of mean temperature using Cox models. Results We identified 234 (7.2%) PCOS cases over the 14.3 ± 4.2 years from age at menarche to 2021. Higher ambient temperatures during the preconception (HR 1.38 per 13.4°C, 95% CI, 0.84–2.27), gestation (HR 1.08 per 6.4°C, 95% CI, 0.74–1.60), and childhood (HR 1.20 per 4.1°C, 95% CI, 0.91–1.59) periods were suggestively associated with higher risk of PCOS. In gestation period, only the first-trimester temperature was associated with higher risks of PCOS (HR 1.75 per 14.4°C, 95% CI, 1.06–2.87). Conclusion Intervention to mitigate heat exposure during pregnancy, especially in the first trimester, may help reduce the risk of PCOS in offspring. Further research is needed to confirm these associations.</description>
     </item>
   </channel>
 </rss>
