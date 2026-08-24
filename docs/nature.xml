@@ -5,7 +5,7 @@
     <link>https://www.nature.com/nature/</link>
     <description>Latest journal articles for Nature</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:20:27 +0000</lastBuildDate>
 
     <item>
       <title>Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI</title>
@@ -337,14 +337,6 @@ Journal: Nature
 Abstract: Abstract Reference bias is an issue that affects most genomic studies analysing short reads mapped to a reference genome 1,2 . It can be mitigated by mapping to multiple haplotypes represented in a pangenome 3–5 . Here we introduce two new methods to address reference bias: Emblask for pangenome construction and Weaver for mapping to pangenomes at scale. Emblask is a hybrid long- and short-read haplotype-resolved dual assembly pipeline for parent–offspring trio data. Using Emblask, we assembled 698 Icelandic haplotypes and added them to the Human Pangenome Reference Consortium (HPRC) pangenome 4 to construct an Icelandic pangenome reference (HPRC-ICE) including 51.41 million small variants. We mapped the short reads of 57,630 Icelanders to HPRC-ICE with Weaver and called 98.96 million variants, representing a 6.17% increase over mapping to a linear reference. We uncovered new variants in low-mappability regions, including a pathogenic single nucleotide polymorphism (SNP) in GBA1 that associates with early onset Parkinson’s disease and a missense SNP in CBS that is pathogenic for homocystinuria. We replicated the GBA1 association in the UK Biobank 6 with a targeted remapping of 429,193 British and Irish participants.</description>
     </item>
     <item>
-      <title>Virus deploys a ‘loose cannon’ enzyme to overpower bacterial defences</title>
-      <link>https://doi.org/10.1038/d41586-026-02537-x</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02537-x</guid>
-
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature</description>
-    </item>
-    <item>
       <title>Increasing CO2 levels fertilize C4 grass production</title>
       <link>https://doi.org/10.1038/s41586-026-10935-4</link>
       <guid isPermaLink="false">10.1038/s41586-026-10935-4</guid>
@@ -363,6 +355,14 @@ Abstract: Abstract Reference bias is an issue that affects most genomic studies 
 Journal: Nature
 
 Abstract: Abstract Rising atmospheric CO 2 concentrations are impacting the global terrestrial biosphere through indirect climate effects and direct effects on plant performance 1–3 . In tropical forests, long-term monitoring indicates a substantial CO 2 -driven carbon sink 4 . C 4 -grass-dominated tropical and subtropical savannas contribute approximately 30% of terrestrial net primary production 5 , and yet equivalent long-term analyses of CO 2 responses are lacking. Here we show a clear and consistent result across a meta-analysis of 70 CO 2 -addition experiments and 32 years of in situ field observations from southern Africa: CO 2 fertilization of wild C 4 grasses is widespread in dry conditions. In experiments, grasses reduced stomatal conductance under higher levels of CO 2 , limiting water loss while increasing carbon gain. In the field, improved water use efficiency translated into increased C 4 grass biomass production across three decades of observations. Finally, simulations via the Community Land Model 6 suggest that CO 2 fertilization of C 4 grass aboveground productivity may continue to increase under future conditions. Together, these results challenge the view that C 4 grasses are unresponsive to increasing levels of CO 2 , demonstrating instead that annual aboveground production of grasses in the field in southern Africa has increased by 28% over three decades (a CO 2 -driven increase of 75.1 g m −2 (95% confidence interval of 74.5–75.8 g m −2 ) or 0.37 tons C ha −1 of annual production). Although the fate of this carbon is uncertain (depending on feedbacks with fire, herbivory and woody vegetation), effects on the global carbon cycle may be profound.</description>
+    </item>
+    <item>
+      <title>Virus deploys a ‘loose cannon’ enzyme to overpower bacterial defences</title>
+      <link>https://doi.org/10.1038/d41586-026-02537-x</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02537-x</guid>
+
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
     </item>
     <item>
       <title>Wake-activated neuronal populations that regulate sleep drive</title>
@@ -1180,17 +1180,6 @@ Journal: Nature</description>
 Journal: Nature; Volume: 656; Issue: 8128; Pages: 540-540</description>
     </item>
     <item>
-      <title>AI isn’t ready to research itself</title>
-      <link>https://doi.org/10.1038/d41586-026-02494-5</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02494-5</guid>
-
-      <dc:creator>Matthew Hutson</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Matthew Hutson
-
-Journal: Nature</description>
-    </item>
-    <item>
       <title>Ancient rise in CO2 was catastrophic for forests: what that means for today’s plants</title>
       <link>https://doi.org/10.1038/d41586-026-02544-y</link>
       <guid isPermaLink="false">10.1038/d41586-026-02544-y</guid>
@@ -1198,6 +1187,17 @@ Journal: Nature</description>
       <dc:creator>James Dinneen</dc:creator>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <description>Authors: James Dinneen
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>AI isn’t ready to research itself</title>
+      <link>https://doi.org/10.1038/d41586-026-02494-5</link>
+      <guid isPermaLink="false">10.1038/d41586-026-02494-5</guid>
+
+      <dc:creator>Matthew Hutson</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Matthew Hutson
 
 Journal: Nature</description>
     </item>
