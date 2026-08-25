@@ -5,18 +5,43 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:08:31 +0000</lastBuildDate>
 
     <item>
-      <title>From circumstances to efforts: the shifting determinants of health opportunity inequality in China</title>
-      <link>https://doi.org/10.1186/s12963-026-00504-2</link>
-      <guid isPermaLink="false">10.1186/s12963-026-00504-2</guid>
+      <title>National healthcare-associated infections surveillance programs – comparison between provincialand national case definitions in Canada</title>
+      <link>https://doi.org/10.1186/s12963-026-00508-y</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00508-y</guid>
 
-      <dc:creator>Xing Feng</dc:creator>
+      <dc:creator>Etienne Poirier</dc:creator>
+      <dc:creator>Caroline Quach</dc:creator>
+      <dc:creator>Anne MacLaurin</dc:creator>
+      <dc:creator>Janie Coulombe</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Etienne Poirier, Caroline Quach, Anne MacLaurin, Janie Coulombe
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Provincial and national case definitions for healthcare-associated infections (HAI) differ. A key question is the extent to which these differences impact the estimated case proportions. Methods Analyses focused on two infections: Clostridioides difficile infection (CDI) and methicillin-resistant Staphylococcus aureus (MRSA). After identifying divergent elements in definitions, a parametric simulation was conducted using a multivariate Bernoulli model to generate elements, incorporating assumed relationships between them and necessary sample sizes. A reference simulation was performed using the original proportions of elements as reported in the literature. This reference served as a baseline for comparison with simulations in which the proportions of discordant elements varied between provincial and national case definitions. Results Nine discordant elements were identified for CDI and six for MRSA. Simulations showed comparability between provincial and national HAI proportions. The greatest differences between provincial and national proportions occurred for Newfoundland and Labrador (CDI) and Ontario (MRSA). These differences persisted even in the reference simulation. Conclusion Although adopting a standardized case definition would simplify comparisons, provincial case definitions are generally comparable to the national definition. Results should be interpreted with care, especially when estimating case proportions under extreme values for some characteristics, as the joint distributions we used for generating simulated datasets did not necessarily exist nor represent target marginal proportions or associations between elements in some scenarios. To improve comparability, hospitals should calculate both the number of patients with positive CDI or MRSA results and their proportion of all elements used in case definitions to have a better picture of their patient demographics. This information could further help the Canadian Nosocomial Infection Surveillance Program (CNISP) to describe comparability across provinces.</description>
+    </item>
+    <item>
+      <title>Neonatal admissions and mortality: a statistical adjustment approach using birthweight-specific curves to address bias due to underreporting in 65 hospitals in four African countries</title>
+      <link>https://doi.org/10.1186/s12963-026-00496-z</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00496-z</guid>
+
+      <dc:creator>Lucas Malla</dc:creator>
+      <dc:creator>Siu Nam Wong</dc:creator>
+      <dc:creator>Samuel Ngwala</dc:creator>
+      <dc:creator>Evelyn Zimba</dc:creator>
+      <dc:creator>Msandeni Chiume</dc:creator>
+      <dc:creator>Norman Lufesi</dc:creator>
+      <dc:creator>Kondwani Kawaza</dc:creator>
+      <dc:creator>Honorati Masanja</dc:creator>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xing Feng
+      <description>Authors: Lucas Malla, Siu Nam Wong, Samuel Ngwala, Evelyn Zimba, Msandeni Chiume, Norman Lufesi, Kondwani Kawaza, Honorati Masanja, et al.
 
-Journal: Population Health Metrics</description>
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Underreporting of neonatal admissions and deaths – particularly among &amp;lt; 1000 g newborns – compromises the plausibility of in-patient neonatal mortality rate (iNMR) estimates. This limits progress tracking, since 2.3 million neonatal deaths occur annually, and 65 countries are projected to miss the Sustainable Development Goal (SDG) 3.2 target of fewer than 12 deaths per 1000 live births by 2030. Reliable iNMR estimates are essential for national and hospital-level monitoring. This study assessed birthweight-specific adjustment curves developed using simulated data, and extended the approach to routine data from 172,809 neonatal admissions across four African countries in the NEST360 network. Methods Simulated data were generated using birthweight intervals of 500 g from 500 to 5000 g, with 1000 values per category representing 1000 hospitals. Admissions were drawn from a negative binomial distribution and mortality rates from a beta distribution based on published birthweight-specific iNMRs. Adjustment functions were developed using data from 500 hospitals without underreporting and tested on 500 with induced underreporting. This approach was then extended to real data from 65 NEST360 partnering hospitals. The adjustment functions were derived from 26 hospitals with plausible reporting (iNMR ≥ 700 per 1000 for neonates &amp;lt; 1000 g). Results In simulated data, adjusted iNMRs closely matched original values, with median differences ranging from − 4 to 9 deaths per 1000 across birthweight categories. In NEST360 dataset, unadjusted iNMRs were 121 (range 13–272) in Nigeria, 128 (60–214) in Tanzania, 132 (42–234) in Malawi, and 135 (60–250) in Kenya per 1000 admissions. After adjustment, estimates increased to 162 (127–333), 183 (128–233), 174 (120–268), and 172 (123–261), respectively. Variability across hospitals decreased, with standard deviation reducing from 13 to 5 deaths per 1000. Conclusions Birthweight specific adjustment functions provide a practical and scalable approach to improving the plausibility of iNMR estimates where underreporting is common. These methods can be integrated into routine systems (such as Electronic Medical Record Systems and DHIS2) where key data are available, with modest computational demands. Their use can strengthen mortality surveillance and support more reliable policy and planning, while contributing to progress toward SDG 3.2, contingent on continued improvements in data quality and system capacity.</description>
     </item>
     <item>
       <title>Strengthening data, analytic and scientific writing skills: Insights from working with 17 health and demographic surveillance system (HDSS) centres in sub-Saharan Africa and South Asia</title>
@@ -39,24 +64,15 @@ Journal: Population Health Metrics; Volume: 23; Issue: S2; Article number: 80
 Abstract: Abstract In the ever-evolving landscape of global health, Health and Demographic Surveillance Systems (HDSS) generate rare and valuable longitudinal data for understanding health and population dynamics and their determinants in low- and middle-income countries, where vital registration systems are often weak. However, the utility of HDSS centres relies heavily on the capabilities of those responsible for cleaning, describing and analysing the wealth of data they generate. This paper describes our targeted strategy for strengthening the capacity of personnel in HDSS research settings, particularly focusing on data managers and analysts. Additionally, we explore the unique challenges created by the COVID-19 pandemic for HDSS research centres, emphasizing the need for a skilled workforce to navigate complex data dynamics. Our approach involved three in-person workshops dedicated to data preparation, analysis, and scientific writing, supplemented by weekly online check-ins and a 25-week writing program. Each workshop included two representatives from participating sites with skills aligned to the workshops. Following two years of intensive capacity building, this project has yielded 15 original research manuscripts currently under review, forming part of a journal special issue on the impact of COVID-19 on mortality in African and South Asian populations. Open-access aggregated data will complement these papers.</description>
     </item>
     <item>
-      <title>Neonatal admissions and mortality: a statistical adjustment approach using birthweight-specific curves to address bias due to underreporting in 65 hospitals in four African countries</title>
-      <link>https://doi.org/10.1186/s12963-026-00496-z</link>
-      <guid isPermaLink="false">10.1186/s12963-026-00496-z</guid>
+      <title>From circumstances to efforts: the shifting determinants of health opportunity inequality in China</title>
+      <link>https://doi.org/10.1186/s12963-026-00504-2</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00504-2</guid>
 
-      <dc:creator>Lucas Malla</dc:creator>
-      <dc:creator>Siu Nam Wong</dc:creator>
-      <dc:creator>Samuel Ngwala</dc:creator>
-      <dc:creator>Evelyn Zimba</dc:creator>
-      <dc:creator>Msandeni Chiume</dc:creator>
-      <dc:creator>Norman Lufesi</dc:creator>
-      <dc:creator>Kondwani Kawaza</dc:creator>
-      <dc:creator>Honorati Masanja</dc:creator>
+      <dc:creator>Xing Feng</dc:creator>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lucas Malla, Siu Nam Wong, Samuel Ngwala, Evelyn Zimba, Msandeni Chiume, Norman Lufesi, Kondwani Kawaza, Honorati Masanja, et al.
+      <description>Authors: Xing Feng
 
-Journal: Population Health Metrics
-
-Abstract: Abstract Background Underreporting of neonatal admissions and deaths – particularly among &amp;lt; 1000 g newborns – compromises the plausibility of in-patient neonatal mortality rate (iNMR) estimates. This limits progress tracking, since 2.3 million neonatal deaths occur annually, and 65 countries are projected to miss the Sustainable Development Goal (SDG) 3.2 target of fewer than 12 deaths per 1000 live births by 2030. Reliable iNMR estimates are essential for national and hospital-level monitoring. This study assessed birthweight-specific adjustment curves developed using simulated data, and extended the approach to routine data from 172,809 neonatal admissions across four African countries in the NEST360 network. Methods Simulated data were generated using birthweight intervals of 500 g from 500 to 5000 g, with 1000 values per category representing 1000 hospitals. Admissions were drawn from a negative binomial distribution and mortality rates from a beta distribution based on published birthweight-specific iNMRs. Adjustment functions were developed using data from 500 hospitals without underreporting and tested on 500 with induced underreporting. This approach was then extended to real data from 65 NEST360 partnering hospitals. The adjustment functions were derived from 26 hospitals with plausible reporting (iNMR ≥ 700 per 1000 for neonates &amp;lt; 1000 g). Results In simulated data, adjusted iNMRs closely matched original values, with median differences ranging from − 4 to 9 deaths per 1000 across birthweight categories. In NEST360 dataset, unadjusted iNMRs were 121 (range 13–272) in Nigeria, 128 (60–214) in Tanzania, 132 (42–234) in Malawi, and 135 (60–250) in Kenya per 1000 admissions. After adjustment, estimates increased to 162 (127–333), 183 (128–233), 174 (120–268), and 172 (123–261), respectively. Variability across hospitals decreased, with standard deviation reducing from 13 to 5 deaths per 1000. Conclusions Birthweight specific adjustment functions provide a practical and scalable approach to improving the plausibility of iNMR estimates where underreporting is common. These methods can be integrated into routine systems (such as Electronic Medical Record Systems and DHIS2) where key data are available, with modest computational demands. Their use can strengthen mortality surveillance and support more reliable policy and planning, while contributing to progress toward SDG 3.2, contingent on continued improvements in data quality and system capacity.</description>
+Journal: Population Health Metrics</description>
     </item>
     <item>
       <title>Characterizing U.S. community well-being indices: a methodological synthesis and measurement systems perspective</title>
@@ -373,6 +389,18 @@ Journal: Population Health Metrics</description>
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 35</description>
     </item>
     <item>
+      <title>Fertility transition across major Sub-Saharan African cities: the role of proximate determinants</title>
+      <link>https://doi.org/10.1186/s12963-026-00481-6</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00481-6</guid>
+
+      <dc:creator>Yared Mekonnen</dc:creator>
+      <dc:creator>Daniel Telake</dc:creator>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yared Mekonnen, Daniel Telake
+
+Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 45</description>
+    </item>
+    <item>
       <title>Sleep patterns during the pandemic and covid-related stress: a large-scale study in the general population of Serbia and Republic of Srpska (Bosnia and Herzegovina)</title>
       <link>https://doi.org/10.1186/s12963-026-00485-2</link>
       <guid isPermaLink="false">10.1186/s12963-026-00485-2</guid>
@@ -389,18 +417,6 @@ Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 35</de
       <description>Authors: Bojan Joksimovic, Jelena Dotlic, Marija Milic, Milan Kulic, Dejan Bokonjic, Sinisa Ristic, Jasmina Stevanovic, Zorica Stanojevic Ristic, et al.
 
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 46</description>
-    </item>
-    <item>
-      <title>Fertility transition across major Sub-Saharan African cities: the role of proximate determinants</title>
-      <link>https://doi.org/10.1186/s12963-026-00481-6</link>
-      <guid isPermaLink="false">10.1186/s12963-026-00481-6</guid>
-
-      <dc:creator>Yared Mekonnen</dc:creator>
-      <dc:creator>Daniel Telake</dc:creator>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yared Mekonnen, Daniel Telake
-
-Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 45</description>
     </item>
     <item>
       <title>The impacts of the COVID-19 pandemic on burden of global injuries: a counterfactual modeling</title>
@@ -435,17 +451,6 @@ Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 33</de
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 32</description>
     </item>
     <item>
-      <title>Perspectives from the new co‑Editor‑in‑Chief of Population Health Metrics</title>
-      <link>https://doi.org/10.1186/s12963-026-00478-1</link>
-      <guid isPermaLink="false">10.1186/s12963-026-00478-1</guid>
-
-      <dc:creator>Tim Adair</dc:creator>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tim Adair
-
-Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 31</description>
-    </item>
-    <item>
       <title>Development of a comprehensive mortality database in Japan through data linkage of population census and vital statistics</title>
       <link>https://doi.org/10.1186/s12963-026-00479-0</link>
       <guid isPermaLink="false">10.1186/s12963-026-00479-0</guid>
@@ -459,6 +464,17 @@ Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 31</de
       <description>Authors: Hirokazu Tanaka, Kota Katanoda, Tomoki Nakaya, Kayo Togawa, Yasuki Kobayashi
 
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 34</description>
+    </item>
+    <item>
+      <title>Perspectives from the new co‑Editor‑in‑Chief of Population Health Metrics</title>
+      <link>https://doi.org/10.1186/s12963-026-00478-1</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00478-1</guid>
+
+      <dc:creator>Tim Adair</dc:creator>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tim Adair
+
+Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 31</description>
     </item>
     <item>
       <title>Estimating long-term care needs in data-scarce settings: a diagnostic model with evidence from MENA</title>
@@ -565,21 +581,6 @@ Abstract: Abstract Background Hypertension, diabetes and dementia are prevalent 
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 21</description>
     </item>
     <item>
-      <title>Deriving and comparing healthy longevity distributions by gender and health prevalence measures: a statistical moments and maximum entropy approach</title>
-      <link>https://doi.org/10.1186/s12963-026-00470-9</link>
-      <guid isPermaLink="false">10.1186/s12963-026-00470-9</guid>
-
-      <dc:creator>Rami Cosulich</dc:creator>
-      <dc:creator>Vanessa di Lego</dc:creator>
-      <dc:creator>Virginia Zarulli</dc:creator>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Rami Cosulich, Vanessa di Lego, Virginia Zarulli
-
-Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 18
-
-Abstract: Abstract Background The literature on healthy longevity has typically focused on average values (i.e., healthy life expectancy). Recent studies have started to expand this focus by investigating the whole healthy lifespan distribution, especially the standard deviation of healthy longevity, which captures inter-individual variation. Despite these advancements, research gaps remain on how distributions differ by health indicator and sex. This study aimed to compare healthy longevity distributions at age 60 between different health measures and sexes. Methods We used data from the Survey of Health, Ageing and Retirement in Europe and the Human Mortality Database. A Markov chain model was used to estimate the first three statistical moments of healthy longevity distributions. The maximum entropy method was then applied to derive the full distributions. The healthy lifespan outsurvival statistic and the Hellinger distance were used to compare distributions between males and females. Results For most health measures, the probabilities of health loss at younger ages were higher for males than for females, and females had a longer healthy life expectancy. Males had more dispersed distributions with a lower mode. For most health measures, healthy longevity distributions were negatively skewed, with a mode age (i.e., the age with the highest probability of health loss) higher than the healthy life expectancy age. The probability for a man to have a longer healthy lifespan than a female was below 50% for various health measures and was the lowest for living free of cardiovascular disease. In contrast, the probability for a man to live free of arthritis or rheumatism for longer than a female was above 50%. The most similar distributions between males and females were observed with life free of any chronic conditions and life with no more than one chronic condition. Conclusions This study extended the scope of healthy longevity research by complementing a focus on the statistical moments with observations on the mode of the distributions and with formal comparisons based on the healthy lifespan outsurvival statistic and the Hellinger distance, which are applied for the first time in the healthy longevity field.</description>
-    </item>
-    <item>
       <title>Excess mortality and underlying causes of death during the COVID-19 pandemic in rural Bangladesh: insights from the Matlab health and demographic surveillance system</title>
       <link>https://doi.org/10.1186/s12963-025-00447-0</link>
       <guid isPermaLink="false">10.1186/s12963-025-00447-0</guid>
@@ -600,24 +601,19 @@ Journal: Population Health Metrics; Volume: 23; Issue: S2; Article number: 77
 Abstract: Abstract Background Bangladesh, home to 165 million people, reported its first COVID-19 case in March 2020. This prompted a range of public health measures to control the epidemic. However, limited access to COVID-19 testing and incomplete or inaccurate death registration likely obscured the pandemic’s true impact. We use longitudinal data from the Matlab Health and Demographic Surveillance System (HDSS) in Bangladesh to assess excess mortality and underlying causes of death during the COVID-19 pandemic. Methods We analysed mortality among 299,775 individuals residing within the Matlab HDSS catchment area between January 1, 2018 and December 31, 2021. Crude mortality rates were compared between the Pre-COVID-19 (2018–2019) and COVID-19 (2020–2021) periods. Adjusted sub-distribution hazard ratios (SHR) were estimated using the Fine and Gray competing risk model. Causes of death were determined using the WHO 2016 Verbal Autopsy questionnaire with supplementary COVID-19 module. We assessed changes in the distribution of causes of death and calculated cause-specific mortality rates by period and sex. Results Crude mortality rate increased to from 7.4 deaths per 1000 person-years in 2018–2019 (pre–COVID-19 period) to 8.5 deaths per 1000 person-years during the COVID-19 period (2020–2021). Among individuals aged 60 years and above, the COVID-19-related mortality rate was 3.5 deaths per 1000 person-years during the COVID-19 period. Overall mortality rate increased from 44.1 (95% CI: 42.4–45.9) deaths to 50.9 (95% CI: 49.1–52.7) deaths per 1000 person-years, corresponding to an adjusted SHR of 1.19 (95% CI: 1.12–1.25). Compared with the Pre-COVID-19 period, mortality attributable to non-communicable diseases (NCDs) increased by 11% (mortality rate ratio (MRR): 1.11; 95% CI: 1.04–1.18), while mortality from respiratory diseases increased by 82% (MRR: 1.82; 95% CI: 1.24–2.73) during the COVID-19 period. Conclusion During the COVID-19 period, mortality increased in rural Bangladesh, with the sharpest increase observed among older adults with noncommunicable and respiratory diseases. Future pandemic preparedness efforts should prioritise these high-risk subgroups to reduce adverse health outcomes and mortality.</description>
     </item>
     <item>
-      <title>Mortality before and during the COVID-19 pandemic in Manhiça district, Southern Mozambique</title>
-      <link>https://doi.org/10.1186/s12963-025-00449-y</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00449-y</guid>
+      <title>Deriving and comparing healthy longevity distributions by gender and health prevalence measures: a statistical moments and maximum entropy approach</title>
+      <link>https://doi.org/10.1186/s12963-026-00470-9</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00470-9</guid>
 
-      <dc:creator>Charfudin Sacoor</dc:creator>
-      <dc:creator>Arsénio Nhacolo</dc:creator>
-      <dc:creator>Jonathan A. Muir</dc:creator>
-      <dc:creator>Edgar Jamisse</dc:creator>
-      <dc:creator>Beth Tippet Barr</dc:creator>
-      <dc:creator>Ariel Nhacolo</dc:creator>
-      <dc:creator>Chodziwadziwa Kabudula</dc:creator>
-      <dc:creator>Jean Juste Harrisson Bashingwa</dc:creator>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Charfudin Sacoor, Arsénio Nhacolo, Jonathan A. Muir, Edgar Jamisse, Beth Tippet Barr, Ariel Nhacolo, Chodziwadziwa Kabudula, Jean Juste Harrisson Bashingwa, et al.
+      <dc:creator>Rami Cosulich</dc:creator>
+      <dc:creator>Vanessa di Lego</dc:creator>
+      <dc:creator>Virginia Zarulli</dc:creator>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rami Cosulich, Vanessa di Lego, Virginia Zarulli
 
-Journal: Population Health Metrics; Volume: 23; Issue: S2; Article number: 76
+Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 18
 
-Abstract: Abstract Introduction Mozambique reported its first COVID-19 case in March 2020, and the pandemic exposed significant vulnerabilities in its healthcare system. Measuring mortality attributable to COVID-19 in Mozambique, has been challenging due to limitations in health information systems and incomplete death documentation outside health facilities. By mid-2023, a total of 2,234 deaths from 233,334 cases were confirmed but the figures can be much higher. Methods We conducted a trend analysis of mortality using data from the Manhiça Health and Demographic Surveillance System from the periods before (2016-2019) and during the pandemic (2020-2021) to measure sex differences in mortality patterns (life expectancy and mortality rates). Excess mortality ratios during the pandemic were assessed using time series analysis with COVID-19 a generalized additive model. Results From 2019 to 2020, the life expectancy in males increased 5.1%, from 61.3 (95% CI: 60.3–62.2) years to 64.4 (95% CI: 63.5–65.3) years, and 6.1%, from 69.3 (95% CI: 68.5–70.2) years to 73.5 (95% CI: 72.6–74.3) years in females. However, from 2020 to 2021, a decline was observed in both males and females. In males, it dropped 3.1% while in females the life expectancy dropped 3.5%. All-age male mortality rates decreased from 15.3 to 11.2 (26.8%) deaths per 1000 person-years from 2016 to 2020, then rose to approximately 13.4 in 2021. All-age female mortality experienced a similar trend, with an increase of 9.0% from 6.7 deaths per 1000 person-years in 2020 to 7.3 in 2021. During pandemic, the male elderly population (65+ years old) experienced the highest excess mortality in July 2021, reaching a ratio of 1.57 (CI: 1.37–1.84), whereas for females, the highest excess mortality among females was observed in the age group of 05–14 years, with a ratio of 1.86 (CI: 1.44 - 2.17) in January 2021 between the observed and expected deaths. Conclusion Mortality in Manhiça district declined from 2016 until 2019 but increased during COVID-19 pandemic with excess deaths in 2021, particularly among those aged 65 and older. This study highlights the value of robust health and demographic information systems in resource-limited settings for assessing public health impacts.</description>
+Abstract: Abstract Background The literature on healthy longevity has typically focused on average values (i.e., healthy life expectancy). Recent studies have started to expand this focus by investigating the whole healthy lifespan distribution, especially the standard deviation of healthy longevity, which captures inter-individual variation. Despite these advancements, research gaps remain on how distributions differ by health indicator and sex. This study aimed to compare healthy longevity distributions at age 60 between different health measures and sexes. Methods We used data from the Survey of Health, Ageing and Retirement in Europe and the Human Mortality Database. A Markov chain model was used to estimate the first three statistical moments of healthy longevity distributions. The maximum entropy method was then applied to derive the full distributions. The healthy lifespan outsurvival statistic and the Hellinger distance were used to compare distributions between males and females. Results For most health measures, the probabilities of health loss at younger ages were higher for males than for females, and females had a longer healthy life expectancy. Males had more dispersed distributions with a lower mode. For most health measures, healthy longevity distributions were negatively skewed, with a mode age (i.e., the age with the highest probability of health loss) higher than the healthy life expectancy age. The probability for a man to have a longer healthy lifespan than a female was below 50% for various health measures and was the lowest for living free of cardiovascular disease. In contrast, the probability for a man to live free of arthritis or rheumatism for longer than a female was above 50%. The most similar distributions between males and females were observed with life free of any chronic conditions and life with no more than one chronic condition. Conclusions This study extended the scope of healthy longevity research by complementing a focus on the statistical moments with observations on the mode of the distributions and with formal comparisons based on the healthy lifespan outsurvival statistic and the Hellinger distance, which are applied for the first time in the healthy longevity field.</description>
     </item>
     <item>
       <title>Regional and educational disparities in inaccurately coded deaths in Sweden, 1997–2023: a systematic analysis</title>
@@ -638,6 +634,26 @@ Abstract: Abstract Introduction Mozambique reported its first COVID-19 case in M
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 25
 
 Abstract: Abstract Background Accurate underlying cause of death (CoD) data is critical for informing public health policy, but inaccurate CoD assignment, here called garbage code (GC) deaths, compromise CoD research and monitoring. Since 1997, GCs have consistently made up over 20% of all underlying CoDs in Sweden, but the distribution of GC deaths by sociodemographic status of the deceased remains poorly understood. Methods We used the Swedish Cause of Death Register containing 2.50 million death records from 1997 to 2023. We mapped each record to the Global Burden of Disease (GBD) project cause list and categorized GC deaths by disease groups. We calculated the fraction of deaths that were GCs by individual age, sex, region of death, and highest educational attainment. We performed redistribution of GCs onto well-defined CoDs and assessed the odds of GC assignment with a binomial logistic regression. Results Since 1997, Sweden has coded at least 23% of deaths to GCs each year with 25.5% coded to GCs in 2023. The lowest educated consistently received more GC deaths, with 45.8% more GC deaths relative to non-GC deaths between ages 20 and 39 compared to the highest educated, and there were more GC deaths in (1) infections, (2) blood and endocrine diseases, (3) injuries, (4) cancers, and (5) maternal, neonatal, and congenital (MNC) diseases in 2023. GC deaths among the highest educated have continued to increase in infections, injuries, cardiovascular, digestive, and MNC diseases. After redistribution, well-defined death counts among the lowest educated increased by over 20% in 13 of the leading 20 CoDs in Sweden. Our model suggested low education increased the likelihood of having a GC by 12.8% (11.4%-14.2%) compared to the highest educated. This was second to point estimates of standardized age at death (25.2% [24.8%-25.6%]) and exceeded sex (12.1% [11.4%-12.8%] increase for males) and region (at most 7.3% [6.6%-8.1%] decrease for death outside of Stockholm). Conclusions We found consistent trends of high GC level in Sweden with doctors assigning more GCs to the lowest educated. Our results reveal stark sociodemographic disparities in CoD coding in Sweden and it is probable that similar disparities would be found elsewhere. This underscores the need for improving procedures and national guidelines in CoD assignment to correctly represent all social groups in research.</description>
+    </item>
+    <item>
+      <title>Mortality before and during the COVID-19 pandemic in Manhiça district, Southern Mozambique</title>
+      <link>https://doi.org/10.1186/s12963-025-00449-y</link>
+      <guid isPermaLink="false">10.1186/s12963-025-00449-y</guid>
+
+      <dc:creator>Charfudin Sacoor</dc:creator>
+      <dc:creator>Arsénio Nhacolo</dc:creator>
+      <dc:creator>Jonathan A. Muir</dc:creator>
+      <dc:creator>Edgar Jamisse</dc:creator>
+      <dc:creator>Beth Tippet Barr</dc:creator>
+      <dc:creator>Ariel Nhacolo</dc:creator>
+      <dc:creator>Chodziwadziwa Kabudula</dc:creator>
+      <dc:creator>Jean Juste Harrisson Bashingwa</dc:creator>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Charfudin Sacoor, Arsénio Nhacolo, Jonathan A. Muir, Edgar Jamisse, Beth Tippet Barr, Ariel Nhacolo, Chodziwadziwa Kabudula, Jean Juste Harrisson Bashingwa, et al.
+
+Journal: Population Health Metrics; Volume: 23; Issue: S2; Article number: 76
+
+Abstract: Abstract Introduction Mozambique reported its first COVID-19 case in March 2020, and the pandemic exposed significant vulnerabilities in its healthcare system. Measuring mortality attributable to COVID-19 in Mozambique, has been challenging due to limitations in health information systems and incomplete death documentation outside health facilities. By mid-2023, a total of 2,234 deaths from 233,334 cases were confirmed but the figures can be much higher. Methods We conducted a trend analysis of mortality using data from the Manhiça Health and Demographic Surveillance System from the periods before (2016-2019) and during the pandemic (2020-2021) to measure sex differences in mortality patterns (life expectancy and mortality rates). Excess mortality ratios during the pandemic were assessed using time series analysis with COVID-19 a generalized additive model. Results From 2019 to 2020, the life expectancy in males increased 5.1%, from 61.3 (95% CI: 60.3–62.2) years to 64.4 (95% CI: 63.5–65.3) years, and 6.1%, from 69.3 (95% CI: 68.5–70.2) years to 73.5 (95% CI: 72.6–74.3) years in females. However, from 2020 to 2021, a decline was observed in both males and females. In males, it dropped 3.1% while in females the life expectancy dropped 3.5%. All-age male mortality rates decreased from 15.3 to 11.2 (26.8%) deaths per 1000 person-years from 2016 to 2020, then rose to approximately 13.4 in 2021. All-age female mortality experienced a similar trend, with an increase of 9.0% from 6.7 deaths per 1000 person-years in 2020 to 7.3 in 2021. During pandemic, the male elderly population (65+ years old) experienced the highest excess mortality in July 2021, reaching a ratio of 1.57 (CI: 1.37–1.84), whereas for females, the highest excess mortality among females was observed in the age group of 05–14 years, with a ratio of 1.86 (CI: 1.44 - 2.17) in January 2021 between the observed and expected deaths. Conclusion Mortality in Manhiça district declined from 2016 until 2019 but increased during COVID-19 pandemic with excess deaths in 2021, particularly among those aged 65 and older. This study highlights the value of robust health and demographic information systems in resource-limited settings for assessing public health impacts.</description>
     </item>
     <item>
       <title>Past trends, future forecasts and socio-demographic patterns of cigarette smoking in Belgium, 1997 to 2040</title>
@@ -813,6 +829,20 @@ Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 14
 Abstract: Abstract Globally, cardiometabolic diseases (CMDs) are major health issues that affect the health of workforce. This study aimed to investigate the impact of employment status on transition from a healthy state to cardiometabolic multimorbidity in Chinese population. Data from China Health and Retirement Longitudinal Study (2011–2020) was utilised. Analytical sample comprised 7,681 men and women (≥ 45 years) free of CMDs at baseline. A multistate model was applied to investigate the impact of baseline employment status on the transition rates from a healthy state to cardiometabolic mono-morbidity and subsequently to multimorbidity. Inverse probability weighting was applied to account for the complex survey design. During an average follow-up time of 5.7 years, 3,324 (43.28%) participants developed one or more CMDs. After adjusting for age and sex, compared to non-agricultural employees, non-agricultural retirees had significantly higher risks and agricultural self-employed workers had only marginally higher risk of CMDs. After further adjustment for sociodemographic factors, health behaviours, and BMI, non-agricultural retirees remained significantly associated with a higher rate of transition from a healthy state to cardiometabolic mono-morbidity [HR 1.24 (95% CI 1.01–1.54)] compared to non-agricultural employees. There was no statistically significant increase in transition to multimorbidity risk in any group. Control of CMDs in Chinese older population should consider people’s employment characteristics.</description>
     </item>
     <item>
+      <title>Models for analyzing territorial inequalities in hospitals for health sustainability: evidence from Italian regions</title>
+      <link>https://doi.org/10.1186/s12963-026-00455-8</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00455-8</guid>
+
+      <dc:creator>Leonardo Salvatore Alaimo</dc:creator>
+      <dc:creator>Samuela L’Abbate</dc:creator>
+      <dc:creator>Paola Perchinunno</dc:creator>
+      <dc:creator>Anna Argese</dc:creator>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Leonardo Salvatore Alaimo, Samuela L’Abbate, Paola Perchinunno, Anna Argese
+
+Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 13</description>
+    </item>
+    <item>
       <title>Spatiotemporal epidemiology and associated risk factors of tuberculosis incidence and mortality in Indonesia 2017–2022: a nationwide space-time hierarchical analysis</title>
       <link>https://doi.org/10.1186/s12963-026-00458-5</link>
       <guid isPermaLink="false">10.1186/s12963-026-00458-5</guid>
@@ -829,20 +859,6 @@ Abstract: Abstract Globally, cardiometabolic diseases (CMDs) are major health is
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 12
 
 Abstract: Abstract Background Indonesia is the second-highest contributor to global tuberculosis (TB) cases, accounting for 10% of the total. While previous studies have explored TB patterns in specific regions, a comprehensive nationwide analysis at a fine spatial scale is lacking. This study investigated spatiotemporal patterns of TB incidence and mortality, identified geographical hotspots, and examined their association with risk factors to inform public health policy. Methods This retrospective study analyzed notified TB cases and deaths during treatment from Indonesia’s National Tuberculosis Surveillance System across 514 districts between 2017 and 2022. Spatiotemporal Bayesian hierarchical modeling was employed to identify high-risk areas and assess associations with potential risk factors. The best-fitting model was determined by evaluating various spatial and temporal random effect structures and likelihood assumptions. Results TB incidence fluctuated with a trough during the COVID-19 pandemic and an overall increase, while mortality increased over time. Incidence hotspots clustered in urbanized areas, while mortality hotspots were scattered across the country. The best-fitting model to estimate risk factors for both outcomes was Poisson likelihood. This indicated that TB incidence was spatiotemporally positively linked to better healthcare access (RR: 1.016; 95% CI: 1.007–1.025) and higher municipal human development index (MHDI, RR: 1.062; 95% CI: 1.049–1.075). Mortality was associated with low treatment coverage (RR: 0.610; 95% CI: 0.552–0.674) and success rates (RR: 0.595; 95% CI: 0.491–0.721). Conclusions Fluctuating TB incidence, hotspots concentrated in urbanized areas with better healthcare access and higher MHDI as well as increasing mortality linked to poor treatment outcomes underscore the need for targeted public health interventions to expand access to care, improve treatment adherence, and address the socioeconomic disparities driving TB mortality.</description>
-    </item>
-    <item>
-      <title>Models for analyzing territorial inequalities in hospitals for health sustainability: evidence from Italian regions</title>
-      <link>https://doi.org/10.1186/s12963-026-00455-8</link>
-      <guid isPermaLink="false">10.1186/s12963-026-00455-8</guid>
-
-      <dc:creator>Leonardo Salvatore Alaimo</dc:creator>
-      <dc:creator>Samuela L’Abbate</dc:creator>
-      <dc:creator>Paola Perchinunno</dc:creator>
-      <dc:creator>Anna Argese</dc:creator>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Leonardo Salvatore Alaimo, Samuela L’Abbate, Paola Perchinunno, Anna Argese
-
-Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 13</description>
     </item>
     <item>
       <title>Comparing perspectives from experts and individuals with lived experience in the Global North versus the Global South: ICF core sets for deafblindness</title>
@@ -1176,22 +1192,6 @@ Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 66</de
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 67</description>
     </item>
     <item>
-      <title>The assimilation affects research from three days’ social facilitation of eating by using whole network autocorrelation analysis plus multilevel linear modeling: a normative analysis based on prospective cohort study data in the UK</title>
-      <link>https://doi.org/10.1186/s12963-025-00427-4</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00427-4</guid>
-
-      <dc:creator>Qiaohui Wu</dc:creator>
-      <dc:creator>Linjian Wu</dc:creator>
-      <dc:creator>Xueqing Liang</dc:creator>
-      <dc:creator>Yihan Zhang</dc:creator>
-      <dc:creator>Yingmeng Chen</dc:creator>
-      <dc:creator>Zhen Ma</dc:creator>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Qiaohui Wu, Linjian Wu, Xueqing Liang, Yihan Zhang, Yingmeng Chen, Zhen Ma
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 65</description>
-    </item>
-    <item>
       <title>Methods for modelling composite indices of access to healthcare facilities: a systematic literature review</title>
       <link>https://doi.org/10.1186/s12963-025-00432-7</link>
       <guid isPermaLink="false">10.1186/s12963-025-00432-7</guid>
@@ -1221,6 +1221,22 @@ Abstract: Abstract Background Access to quality healthcare services is key to ac
       <description>Authors: Michel L. A. Dückers
 
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 64</description>
+    </item>
+    <item>
+      <title>The assimilation affects research from three days’ social facilitation of eating by using whole network autocorrelation analysis plus multilevel linear modeling: a normative analysis based on prospective cohort study data in the UK</title>
+      <link>https://doi.org/10.1186/s12963-025-00427-4</link>
+      <guid isPermaLink="false">10.1186/s12963-025-00427-4</guid>
+
+      <dc:creator>Qiaohui Wu</dc:creator>
+      <dc:creator>Linjian Wu</dc:creator>
+      <dc:creator>Xueqing Liang</dc:creator>
+      <dc:creator>Yihan Zhang</dc:creator>
+      <dc:creator>Yingmeng Chen</dc:creator>
+      <dc:creator>Zhen Ma</dc:creator>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <description>Authors: Qiaohui Wu, Linjian Wu, Xueqing Liang, Yihan Zhang, Yingmeng Chen, Zhen Ma
+
+Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 65</description>
     </item>
     <item>
       <title>Life-course socioeconomic status and obesity: scoping review</title>
@@ -1440,21 +1456,6 @@ Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 52</de
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 51</description>
     </item>
     <item>
-      <title>Validation of the consumer health activation index (CHAI) among community-dwelling adults in primary care clinics in Singapore</title>
-      <link>https://doi.org/10.1186/s12963-025-00402-z</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00402-z</guid>
-
-      <dc:creator>Justin Guang Jie Lee</dc:creator>
-      <dc:creator>Qin Xiang Ng</dc:creator>
-      <dc:creator>Nan Luo</dc:creator>
-      <dc:creator>Gerald Choon Huat Koh</dc:creator>
-      <dc:creator>Ling Jie Cheng</dc:creator>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Justin Guang Jie Lee, Qin Xiang Ng, Nan Luo, Gerald Choon Huat Koh, Ling Jie Cheng
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 49</description>
-    </item>
-    <item>
       <title>Comparative impact of social isolation on mortality in adults aged 40 years and above with versus without metabolic syndrome: evidence from two large cohorts in the U.S. and U.K.</title>
       <link>https://doi.org/10.1186/s12963-025-00414-9</link>
       <guid isPermaLink="false">10.1186/s12963-025-00414-9</guid>
@@ -1469,6 +1470,21 @@ Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 49</de
       <description>Authors: Siying Liu, Cihang Lu, Bingxin You, Qiqiang Guo, Tingting Liu, Yongze Li
 
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 50</description>
+    </item>
+    <item>
+      <title>Validation of the consumer health activation index (CHAI) among community-dwelling adults in primary care clinics in Singapore</title>
+      <link>https://doi.org/10.1186/s12963-025-00402-z</link>
+      <guid isPermaLink="false">10.1186/s12963-025-00402-z</guid>
+
+      <dc:creator>Justin Guang Jie Lee</dc:creator>
+      <dc:creator>Qin Xiang Ng</dc:creator>
+      <dc:creator>Nan Luo</dc:creator>
+      <dc:creator>Gerald Choon Huat Koh</dc:creator>
+      <dc:creator>Ling Jie Cheng</dc:creator>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <description>Authors: Justin Guang Jie Lee, Qin Xiang Ng, Nan Luo, Gerald Choon Huat Koh, Ling Jie Cheng
+
+Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 49</description>
     </item>
     <item>
       <title>Predictive value of anthropometric indices for incident of dyslipidemia: a large population-based study</title>
@@ -1573,24 +1589,6 @@ Abstract: Abstract The COVID-19 pandemic affected Europe unevenly, with surges i
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 43
 
 Abstract: Abstract Background Despite the high level of economic development in the Group of Seven (G7) countries, injury deaths remain a public health concern in these countries. This paper examines the contribution of injury deaths to changes in life expectancy (LE) and life disparity (LD) in the G7 countries. Methods We used annual data from the WHO mortality database to compute LE and LD during 2001-03 and 2017-19. The contributions of injury deaths to LE and LD changes for each sex were decomposed by age and cause using a continuous-change model. Results Across the G7 countries combined, LE (LD) increased by 2.12 (0.25) and 2.73 (0.16) years for females and males, respectively. While most injury-related deaths contributed to increases in LE and decreases in LD, these gains were offset by negative contributions of unintentional poisoning, resulting in an overall negligible net contributions of injury deaths to changes in LE/LD across the G7 countries combined. The country-specific patterns revealed notable variations. Positive contributions of injury-related causes to changes in LE were more prominent in France (+ 0.38/+0.64 years for females/males), while negative contributions were most evident in the USA (-0.23/-0.42 years for females/males). Transport accidents emerged as the leading contributors to improvements in both LE and LD among both sexes in all countries, with more pronounced effects in males. In contrast, unintentional poisoning had a substantial negative impact, particularly among younger populations in the USA, UK, and Canada. Conclusion Injury deaths made negligible contributions to overall changes in LE and LD across the G7 countries combined during the study period. However, there were important variations by sex, age, cause and country. Specifically, unfavourable contributions of injury deaths were mainly observed in the USA, UK, and Canada. These findings highlight the need for targeted, country-specific injury prevention strategies to mitigate premature and unequal mortality.</description>
-    </item>
-    <item>
-      <title>Quantifying the association of Life’s Crucial 9 with cardiovascular diseases among elderly hypertensive patients managed in primary care settings</title>
-      <link>https://doi.org/10.1186/s12963-025-00407-8</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00407-8</guid>
-
-      <dc:creator>Lipei Zhao</dc:creator>
-      <dc:creator>Quanman Li</dc:creator>
-      <dc:creator>Mingze Ma</dc:creator>
-      <dc:creator>Yifei Feng</dc:creator>
-      <dc:creator>Saiyi Wang</dc:creator>
-      <dc:creator>Zhanlei Shen</dc:creator>
-      <dc:creator>Xinghong Guo</dc:creator>
-      <dc:creator>Yudong Miao</dc:creator>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Lipei Zhao, Quanman Li, Mingze Ma, Yifei Feng, Saiyi Wang, Zhanlei Shen, Xinghong Guo, Yudong Miao, et al.
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 41</description>
     </item>
     <item>
       <title>Patient-centred estimation of multimorbidity in chronic disease populations: a novel approach integrating global burden of disease metrics and healthcare administrative data</title>

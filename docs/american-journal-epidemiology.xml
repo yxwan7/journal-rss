@@ -5,21 +5,64 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:08:26 +0000</lastBuildDate>
 
     <item>
-      <title>IN MEMORIAM: The Enduring Legacy of Dr. Roger Detels (1936–2026)</title>
-      <link>https://doi.org/10.1093/aje/kwag199</link>
-      <guid isPermaLink="false">10.1093/aje/kwag199</guid>
+      <title>Methodological approaches to reducing misclassification bias in exclusive breastfeeding measurement</title>
+      <link>https://doi.org/10.1093/aje/kwag197</link>
+      <guid isPermaLink="false">10.1093/aje/kwag197</guid>
 
-      <dc:creator>Matthew J Mimiaga</dc:creator>
-      <dc:creator>Gilda Noori</dc:creator>
-      <dc:creator>Roger Shih</dc:creator>
-      <dc:creator>Beth D Jamieson</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Matthew J Mimiaga, Gilda Noori, Roger Shih, Beth D Jamieson
+      <dc:creator>Stephanie M Khoury</dc:creator>
+      <dc:creator>Günther Fink</dc:creator>
+      <dc:creator>Marc Grünig</dc:creator>
+      <dc:creator>Anny-Claude Joseph</dc:creator>
+      <dc:creator>Jordyn T Wallenborn</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Stephanie M Khoury, Günther Fink, Marc Grünig, Anny-Claude Joseph, Jordyn T Wallenborn
 
-Journal: American Journal of Epidemiology; Article number: kwag199</description>
+Journal: American Journal of Epidemiology; Article number: kwag197
+
+Abstract: Abstract Exclusive breastfeeding is a key pillar of healthy nutrition in infancy. While the importance of breastfeeding is undisputed, measuring early breastfeeding behavior remains challenging. This study evaluated the impact of addressing missingness in feeding variables, incorporating prelacteal feeding, reducing sampling bias through age weighting, and adjusting measurement periods on estimated exclusive breastfeeding prevalence. We show that imputing missing values reduces estimated prevalence from 42.9% (95% CI, 40.3-45.6) to 41.2% (95% CI, 38.5-44.0). Including prelacteal feeding in the definition further decreases estimates to 32.2% (95% CI, 29.5-34.8), while applying age weights slightly increased the prevalence to 33.6% (95% CI, 31.0-36.3). Measuring exclusive breastfeeding compliance at 6 months, rather than looking at average feeding behavior in the first six months of an infant’s life, yields an estimated exclusive breastfeeding prevalence of 5.9% (95% CI, 4.6-7.6). Given the major differences in exclusive breastfeeding prevalence estimates from different methodological adjustments, a standardized exclusive breastfeeding measurement is urgently needed to accurately assess early-life nutrition and guide policy based on reliable and comparable estimates.</description>
+    </item>
+    <item>
+      <title>Improving Dietary Data Quality in Nutrition Studies: Development and Validation of an Explainable, Reproducible, Open Machine Learning-Assisted Framework for Outlier Detection in 24-Hour Recalls</title>
+      <link>https://doi.org/10.1093/aje/kwag204</link>
+      <guid isPermaLink="false">10.1093/aje/kwag204</guid>
+
+      <dc:creator>Paraskevi Massara</dc:creator>
+      <dc:creator>Stephanie Saab</dc:creator>
+      <dc:creator>Arooj Asrar</dc:creator>
+      <dc:creator>Jessica Omand</dc:creator>
+      <dc:creator>Laura N Anderson</dc:creator>
+      <dc:creator>Charles Keown-Stoneman</dc:creator>
+      <dc:creator>Jonathon L Maguire</dc:creator>
+      <dc:creator>Robert H J Bandsma</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Paraskevi Massara, Stephanie Saab, Arooj Asrar, Jessica Omand, Laura N Anderson, Charles Keown-Stoneman, Jonathon L Maguire, Robert H J Bandsma, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag204
+
+Abstract: Abstract Twenty-four-hour dietary recalls (24HRs) are widely used in nutritional epidemiology, but repeated administration is required to capture within-person variability, introducing temporal dependence and challenges for data cleaning. Existing outlier detection approaches are largely static, manual, and based on adult-centric thresholds, limiting reproducibility and scalability. We developed and validated an explainable, reproducible machine learning (ML)-assisted framework to detect and evaluate implausible intake values in cross-sectional and longitudinal 24HRs and to generate AI-ready dietary datasets. The open pipeline integrates automated statistical detection using digitized National Cancer Institute 5th-95th percentile intake ranges, longitudinal interquartile range-based flagging, and ML-based rule explainability for outlier detection. Validation was conducted using the Microbiota, Growth, and Diet (MiGrowD) study in Ontario, Canada (126 children aged 8-12 years), and data from the 2015 Canadian Community Health Survey-Nutrition, a nationally representative sample of Canadian children and adults with repeated 24HRs (n = 15 216). Across energy intake and seven nutrients, 75 recalls containing at least one potentially implausible value were identified. In longitudinal data, the framework achieved &amp;amp;gt; 77% sensitivity, 97% specificity, and 88% precision, outperforming the static method. This explainable data-driven framework improves data quality, transparency, and reproducibility, supporting scalable epidemiologic analyses using AI-ready dietary data.</description>
+    </item>
+    <item>
+      <title>Early-life and Adulthood Eviction and Risk of Depressive Symptoms in Black Reproductive Age Women: Social Epidemiology to Combat Unjust Residential Evictions (SECURE) Study</title>
+      <link>https://doi.org/10.1093/aje/kwag203</link>
+      <guid isPermaLink="false">10.1093/aje/kwag203</guid>
+
+      <dc:creator>Shawnita Sealy-Jefferson</dc:creator>
+      <dc:creator>Loretta J Ross</dc:creator>
+      <dc:creator>Swati Mishra</dc:creator>
+      <dc:creator>Tamika Anderson-Mays</dc:creator>
+      <dc:creator>Kyra Sanders</dc:creator>
+      <dc:creator>Tamika Anderson</dc:creator>
+      <dc:creator>Jo Ann Booth</dc:creator>
+      <dc:creator>Roquesha O’Neal</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shawnita Sealy-Jefferson, Loretta J Ross, Swati Mishra, Tamika Anderson-Mays, Kyra Sanders, Tamika Anderson, Jo Ann Booth, Roquesha O’Neal, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag203
+
+Abstract: Abstract Residential evictions and chronic depression are worsening public health issues that disproportionately affect Black communities, though few studies have examined their association. Using qualitative and quantitative data from the (ANONYMIZED FOR REVIEW); 2021-2024; n = 1428). We used Poisson regression to estimate risk of high depressive symptoms (Center for Epidemiologic Studies Depression (CESD) score 16+; Cronbach’s alpha: 0.91) associated with 5 measures of eviction, by type, recency, and life-stage. We also used a content analysis methodology to mix responses to an open-ended survey question about the impact of childhood eviction (n = 349) with quantitative data to provide a deeper contextual understanding of the findings. Fifty-four percent (n = 775) of participants had CESD scores indicating they were at risk for clinical depression. We observed between 14-17% higher risk of high depressive symptoms among those who reported childhood eviction and recent and lifetime court-ordered eviction, compared to those who did not, in adjusted models (95% confidence interval range: 1.01-1.28). Qualitative data suggests that childhood eviction may be associated with risk of clinical depression through 5 novel potential mechanisms. The 20-item depressive symptom scale completely aligned with the qualitative themes. Future research, mental health interventions and policy solutions are warranted to achieve health equity goals.</description>
     </item>
     <item>
       <title>Confusion in evaluating research quality comes from lack of clarity: The case for explicit research questions.</title>
@@ -39,33 +82,18 @@ Journal: American Journal of Epidemiology; Article number: kwag201
 Abstract: Abstract A recent news article suggested observational studies confuse correlation and causation. Such confusion often arises from unclear research aims rather than inherent limitations of study design. We use this recent public critique of epidemiologic research to illustrate how ambiguity in study questions contributes to misinterpretation of findings. We argue that epidemiologic studies generally fall into three distinct categories (descriptive, predictive, and causal) and that each has different goals, assumptions, analytic approaches, and criteria for evaluation. Descriptive studies characterize the distribution of health outcomes, predictive studies aim to identify who will experience those outcomes, and causal studies seek to estimate the effects of interventions or exposures under well-defined counterfactual contrasts. Failure to clearly state which of these aims is being pursued makes it difficult to evaluate methods, assess validity, and interpret results. It also creates opportunities for critiques that may mischaracterize study intent or overstate limitations. We emphasize that observational studies can contribute to causal inference when aligned with explicit causal questions and supported by appropriate assumptions and design choices. We conclude that explicitly stating study aims and estimands would improve scientific communication, facilitate more appropriate critique, and strengthen the contribution of epidemiologic evidence to public health decision-making.</description>
     </item>
     <item>
-      <title>Correction to: A hypothetical intervention on the use of hearing aids for the risk of
-dementia in people with hearing loss in UK Biobank</title>
-      <link>https://doi.org/10.1093/aje/kwag190</link>
-      <guid isPermaLink="false">10.1093/aje/kwag190</guid>
+      <title>IN MEMORIAM: The Enduring Legacy of Dr. Roger Detels (1936–2026)</title>
+      <link>https://doi.org/10.1093/aje/kwag199</link>
+      <guid isPermaLink="false">10.1093/aje/kwag199</guid>
 
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Article number: kwag190</description>
-    </item>
-    <item>
-      <title>Prenatal exposure to fluoride in public water and child cognition in the US ECHO cohort, 2006-2019</title>
-      <link>https://doi.org/10.1093/aje/kwag186</link>
-      <guid isPermaLink="false">10.1093/aje/kwag186</guid>
+      <dc:creator>Matthew J Mimiaga</dc:creator>
+      <dc:creator>Gilda Noori</dc:creator>
+      <dc:creator>Roger Shih</dc:creator>
+      <dc:creator>Beth D Jamieson</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Matthew J Mimiaga, Gilda Noori, Roger Shih, Beth D Jamieson
 
-      <dc:creator>Katrina R Simon</dc:creator>
-      <dc:creator>Tessa Bloomquist</dc:creator>
-      <dc:creator>Tushara Rajeev</dc:creator>
-      <dc:creator>Alexis Hernandez</dc:creator>
-      <dc:creator>Sharon Kulali</dc:creator>
-      <dc:creator>Mohamad Burjak</dc:creator>
-      <dc:creator>Amii M Kress</dc:creator>
-      <dc:creator>Meredith Palmore</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Katrina R Simon, Tessa Bloomquist, Tushara Rajeev, Alexis Hernandez, Sharon Kulali, Mohamad Burjak, Amii M Kress, Meredith Palmore, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag186
-
-Abstract: Abstract Prior studies suggest fluoride exposure in drinking water above 1500 μg/L is associated with lower child cognition, but evidence is limited at lower exposure levels and in U.S. populations. We evaluated whether prenatal exposure to fluoride in regulated public drinking water was associated with cognition in a pooled U.S. cohort. We analyzed observational data from the Environmental influences on Child Health Outcomes (ECHO) Cohort, including 2514 children born 2006–2019 across 17 sites in 23 states. Individual prenatal time-weighted average public water fluoride concentrations were estimated by linking census tract-level concentrations to residential addresses across pregnancy. Fluid and crystallized cognition were assessed using NIH Toolbox scores. Generalized estimating equation models estimated adjusted mean differences using restricted cubic spline and linear change-point models. Individual prenatal time-weighted average water fluoride concentrations ranged from &amp;amp;lt; 1.0–1940.0 μg/L (mean = 396.9 μg/L). Cubic spline models showed significant inverse associations for fluid cognition above 1107.0 μg/L. Linear change-point models identified 675 μg/L as the best-fitting change-point for fluid cognition; above this value, fluid scores were 0.67 points lower (95% CI, -0.92, -0.42) per 100 μg/L higher fluoride. These findings indicate that prenatal fluoride exposure in regulated public water is nonlinearly associated with lower fluid cognition scores in U.S. children at concentrations below current WHO and U.S. EPA thresholds.</description>
+Journal: American Journal of Epidemiology; Article number: kwag199</description>
     </item>
     <item>
       <title>Science or Advocacy? The Global Rise of Policy Claims and Calls to Action in Population Health Research (1990-2024)</title>
@@ -106,6 +134,35 @@ Journal: American Journal of Epidemiology; Article number: kwag198
 Abstract: Abstract Health insurance claims-based analyses inform many large epidemiologic studies but may have unmeasured confounding. Electronic health records (EHRs) have more detailed health information, but data may be missing on some individuals. Informed by recent work comparing approaches to address missing data, we selected and applied generalized raking (GR) and multiple imputation (MI) to illustrate how to efficiently combine data from these two sources. We considered a previously conducted claims-based study comparing 90-day arterial thromboembolism (ATE) risk among patients hospitalized with COVID-19 versus influenza, for which body mass index (BMI), a potential confounder, was unavailable. Using linked claims-EHR data, we adjusted for the same covariates as the original study and used GR and MI to additionally control for EHR-ascertained BMI, available for a subset. We included 912 hospitalized Kaiser Permanente Washington patients, 449 with COVID-19 and 463 with influenza (31.0% and 38.5% had EHR-ascertained BMI in the prior 90 days, respectively). Adjusted hazard ratios of ATE were similar with and without adjustment for BMI, in GR and MI analyses. In the setting of a claims-EHR-based study with missing data on a potential confounder, we describe our selection of the missing data approach, and its implementation, to demonstrate a broadly applicable process.</description>
     </item>
     <item>
+      <title>Correction to: A hypothetical intervention on the use of hearing aids for the risk of
+dementia in people with hearing loss in UK Biobank</title>
+      <link>https://doi.org/10.1093/aje/kwag190</link>
+      <guid isPermaLink="false">10.1093/aje/kwag190</guid>
+
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Article number: kwag190</description>
+    </item>
+    <item>
+      <title>Prenatal exposure to fluoride in public water and child cognition in the US ECHO cohort, 2006-2019</title>
+      <link>https://doi.org/10.1093/aje/kwag186</link>
+      <guid isPermaLink="false">10.1093/aje/kwag186</guid>
+
+      <dc:creator>Katrina R Simon</dc:creator>
+      <dc:creator>Tessa Bloomquist</dc:creator>
+      <dc:creator>Tushara Rajeev</dc:creator>
+      <dc:creator>Alexis Hernandez</dc:creator>
+      <dc:creator>Sharon Kulali</dc:creator>
+      <dc:creator>Mohamad Burjak</dc:creator>
+      <dc:creator>Amii M Kress</dc:creator>
+      <dc:creator>Meredith Palmore</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Katrina R Simon, Tessa Bloomquist, Tushara Rajeev, Alexis Hernandez, Sharon Kulali, Mohamad Burjak, Amii M Kress, Meredith Palmore, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag186
+
+Abstract: Abstract Prior studies suggest fluoride exposure in drinking water above 1500 μg/L is associated with lower child cognition, but evidence is limited at lower exposure levels and in U.S. populations. We evaluated whether prenatal exposure to fluoride in regulated public drinking water was associated with cognition in a pooled U.S. cohort. We analyzed observational data from the Environmental influences on Child Health Outcomes (ECHO) Cohort, including 2514 children born 2006–2019 across 17 sites in 23 states. Individual prenatal time-weighted average public water fluoride concentrations were estimated by linking census tract-level concentrations to residential addresses across pregnancy. Fluid and crystallized cognition were assessed using NIH Toolbox scores. Generalized estimating equation models estimated adjusted mean differences using restricted cubic spline and linear change-point models. Individual prenatal time-weighted average water fluoride concentrations ranged from &amp;amp;lt; 1.0–1940.0 μg/L (mean = 396.9 μg/L). Cubic spline models showed significant inverse associations for fluid cognition above 1107.0 μg/L. Linear change-point models identified 675 μg/L as the best-fitting change-point for fluid cognition; above this value, fluid scores were 0.67 points lower (95% CI, -0.92, -0.42) per 100 μg/L higher fluoride. These findings indicate that prenatal fluoride exposure in regulated public water is nonlinearly associated with lower fluid cognition scores in U.S. children at concentrations below current WHO and U.S. EPA thresholds.</description>
+    </item>
+    <item>
       <title>Trends in site of pediatric firearm death in the United States</title>
       <link>https://doi.org/10.1093/aje/kwag192</link>
       <guid isPermaLink="false">10.1093/aje/kwag192</guid>
@@ -120,36 +177,6 @@ Abstract: Abstract Health insurance claims-based analyses inform many large epid
       <description>Authors: Angelin Tresa Mathew, Urvish Jain, Bhav Jain, Edward Christopher Dee, Myron Rolle, Megan Ranney
 
 Journal: American Journal of Epidemiology; Article number: kwag192</description>
-    </item>
-    <item>
-      <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
-      <link>https://doi.org/10.1093/aje/kwag191</link>
-      <guid isPermaLink="false">10.1093/aje/kwag191</guid>
-
-      <dc:creator>Gong Zhang</dc:creator>
-      <dc:creator>Xichen Fan</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gong Zhang, Xichen Fan
-
-Journal: American Journal of Epidemiology; Article number: kwag191</description>
-    </item>
-    <item>
-      <title>What phases of the drug development framework can epidemiological studies emulate?</title>
-      <link>https://doi.org/10.1093/aje/kwag194</link>
-      <guid isPermaLink="false">10.1093/aje/kwag194</guid>
-
-      <dc:creator>Stephen Burgess</dc:creator>
-      <dc:creator>Benjamin Woolf</dc:creator>
-      <dc:creator>Emily Bassett</dc:creator>
-      <dc:creator>David S Robertson</dc:creator>
-      <dc:creator>Sofía Villar</dc:creator>
-      <dc:creator>Jeremy A Labrecque</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Stephen Burgess, Benjamin Woolf, Emily Bassett, David S Robertson, Sofía Villar, Jeremy A Labrecque
-
-Journal: American Journal of Epidemiology; Article number: kwag194
-
-Abstract: Abstract Target trial emulation prompts investigators to frame their analysis question in terms of a hypothetical clinical trial. Although this does not solve the problem of confounding, the framework can protect against other sources of bias. A natural question is this: What kinds of trials can be emulated? In a late-phase trial (phases 3 or 4), the goal is to obtain a well-defined causal estimate that closely approximates the impact of a proposed intervention. In an early-phase trial (phase 2 or earlier), the estimate is a means to an end rather than an end in itself. An early-phase trial provides proof-of-concept evidence on the impact of an intervention in the exposure in terms of efficacy and safety, but the estimand may not correspond to the intervention to be implemented in practice. In a natural experiment where causal inferences rely on a plausibly random (or quasi-random) comparison, the estimand may not be directly translatable to applied practice. In this case, the analysis may be conceptualized as an early-phase target trial. This provides less specific evidence than a late-stage target trial, but in many cases, a more valid but less applicable comparison is preferable to a more applicable comparison that is more susceptible to bias.</description>
     </item>
     <item>
       <title>Meta-analyses of dietary exposures must consider energy adjustment: recommendations from a meta-scientific review</title>
@@ -170,6 +197,36 @@ Abstract: Abstract Target trial emulation prompts investigators to frame their a
 Journal: American Journal of Epidemiology; Article number: kwag188
 
 Abstract: Abstract In observational studies of dietary exposures, the energy adjustment strategy directly alters the effect being estimated. Adjusting for total energy intake or expressing the exposure as a percentage of total energy changes the estimated effect to a substitution. This meta-scientific review aimed to investigate the extent to which meta-analyses of dietary exposures have considered this challenge and whether they might inadvertently pool incomparable effects. We identified all meta-analyses examining the relationship between 1) saturated fat and cardiovascular disease, 2) fish and cardiovascular disease. For each, we examined the two most recent and two most cited meta-analyses, and their constituent studies. We extracted information on research aims, estimated effects, and interpretations. The eight meta-analyses collectively included 82 studies and 144 unique models. 82% (n = 119/144) of models estimated substitution effects, but this was rarely recognised or discussed. Only one meta-analysis explicitly considered the energy adjustment strategy, only to determine eligibility for a sub-group analysis. No meta-analyses acknowledged that they may have pooled estimates for different effects. Such inappropriately pooled estimates result in quantities with obscure interpretations. Based on our findings, we offer recommendations designed to improve the conduct of future meta-analyses and, consequently, the quality of evidence that informs dietary recommendations.</description>
+    </item>
+    <item>
+      <title>What phases of the drug development framework can epidemiological studies emulate?</title>
+      <link>https://doi.org/10.1093/aje/kwag194</link>
+      <guid isPermaLink="false">10.1093/aje/kwag194</guid>
+
+      <dc:creator>Stephen Burgess</dc:creator>
+      <dc:creator>Benjamin Woolf</dc:creator>
+      <dc:creator>Emily Bassett</dc:creator>
+      <dc:creator>David S Robertson</dc:creator>
+      <dc:creator>Sofía Villar</dc:creator>
+      <dc:creator>Jeremy A Labrecque</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Stephen Burgess, Benjamin Woolf, Emily Bassett, David S Robertson, Sofía Villar, Jeremy A Labrecque
+
+Journal: American Journal of Epidemiology; Article number: kwag194
+
+Abstract: Abstract Target trial emulation prompts investigators to frame their analysis question in terms of a hypothetical clinical trial. Although this does not solve the problem of confounding, the framework can protect against other sources of bias. A natural question is this: What kinds of trials can be emulated? In a late-phase trial (phases 3 or 4), the goal is to obtain a well-defined causal estimate that closely approximates the impact of a proposed intervention. In an early-phase trial (phase 2 or earlier), the estimate is a means to an end rather than an end in itself. An early-phase trial provides proof-of-concept evidence on the impact of an intervention in the exposure in terms of efficacy and safety, but the estimand may not correspond to the intervention to be implemented in practice. In a natural experiment where causal inferences rely on a plausibly random (or quasi-random) comparison, the estimand may not be directly translatable to applied practice. In this case, the analysis may be conceptualized as an early-phase target trial. This provides less specific evidence than a late-stage target trial, but in many cases, a more valid but less applicable comparison is preferable to a more applicable comparison that is more susceptible to bias.</description>
+    </item>
+    <item>
+      <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
+      <link>https://doi.org/10.1093/aje/kwag191</link>
+      <guid isPermaLink="false">10.1093/aje/kwag191</guid>
+
+      <dc:creator>Gong Zhang</dc:creator>
+      <dc:creator>Xichen Fan</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gong Zhang, Xichen Fan
+
+Journal: American Journal of Epidemiology; Article number: kwag191</description>
     </item>
     <item>
       <title>The selenium and vitamin E cancer prevention trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration</title>
@@ -251,20 +308,6 @@ Journal: American Journal of Epidemiology; Article number: kwag185
 Abstract: Abstract Estimating transmission potential and risk factors for emerging infections often relies on incomplete surveillance data. When infections are missed or their sources are misclassified, estimates of the effective reproduction number (Rs) and associations between case attributes and infection source may be biased. We developed an analytic framework to quantify and correct these biases, treating imperfect observation and entanglement of transmission chains as forms of misclassification that distort estimates of transmission parameters. The bias depends on the probability of case observation (Pobs) and the extent of concurrent introductions (Rp). We illustrate this framework using surveillance data for mpox in the Democratic Republic of the Congo (1981–1986, 2013–2017), showing that incomplete observation leads to underestimation of Rs, whereas overlapping introductions can cause overestimation. Both types of bias also attenuate odds ratios for traits that distinguish primary (spillover) from secondary (human-tohuman) infections. Accounting for these biases provides context for the global emergence of mpox in 2022 and for how current transmission patterns differ from historical trends. These results demonstrate how standard epidemiologic concepts of misclassification and missingness can clarify bias in transmission studies and improve interpretation of surveillance data for emerging pathogens, including zoonoses and vaccine-preventable infections.</description>
     </item>
     <item>
-      <title>Response to “
-                    &lt;i&gt;Secundum cavere, tertium sanare&lt;/i&gt;
-                    in counterfactual decision-making”</title>
-      <link>https://doi.org/10.1093/aje/kwag184</link>
-      <guid isPermaLink="false">10.1093/aje/kwag184</guid>
-
-      <dc:creator>Amit N Sawant</dc:creator>
-      <dc:creator>Mats J Stensrud</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Amit N Sawant, Mats J Stensrud
-
-Journal: American Journal of Epidemiology; Article number: kwag184</description>
-    </item>
-    <item>
       <title>Coexposure confounding and amplification of bias—an exploration with practical interpretation and perspectives</title>
       <link>https://doi.org/10.1093/aje/kwag183</link>
       <guid isPermaLink="false">10.1093/aje/kwag183</guid>
@@ -282,6 +325,20 @@ Journal: American Journal of Epidemiology; Article number: kwag184</description>
 Journal: American Journal of Epidemiology; Article number: kwag183
 
 Abstract: Abstract Epidemiologists increasingly estimate associations between mixtures of correlated coexposures and health outcomes. We propose an exploratory approach to help differentiate coexposure confounding from coexposure amplification of bias (CAB) for studies considering correlated coexposures using a case example and simulations based on observed relationships. Our example uses associations observed in published studies between co-occurring per- and polyfluoroalkyl substance (PFAS) biomarkers and tetanus antibody concentrations but could apply to any context where statistical modeling is performed with and without inclusion of correlated coexposures. Using directed acyclic graphs (DAGs), to define an assumed causal structure, and simulations of 3 PFAS predicting antibody titers, we show that if researchers can assume 1 component in the exposure mixture is correlated with the other components, but does not cause the outcome, then CAB can be detected by testing whether the estimate for the noncausal component in a multipollutant model is different from zero. In our simulation, the estimate for the noncausal component was zero (95% CI, −0.22, 0.25) when CAB was absent and −0.25 (95% CI, −0.48, 0.00) when present. These results illustrate a possible method to identify CAB and select statistical models that may produce less biased effect estimates if our assumed DAG is correct.</description>
+    </item>
+    <item>
+      <title>Response to “
+                    &lt;i&gt;Secundum cavere, tertium sanare&lt;/i&gt;
+                    in counterfactual decision-making”</title>
+      <link>https://doi.org/10.1093/aje/kwag184</link>
+      <guid isPermaLink="false">10.1093/aje/kwag184</guid>
+
+      <dc:creator>Amit N Sawant</dc:creator>
+      <dc:creator>Mats J Stensrud</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Amit N Sawant, Mats J Stensrud
+
+Journal: American Journal of Epidemiology; Article number: kwag184</description>
     </item>
     <item>
       <title>Sustained fish intake and 21-year Alzheimer’s disease risk: a target trial emulation</title>
@@ -369,6 +426,64 @@ Journal: American Journal of Epidemiology; Article number: kwag180
 Abstract: Abstract We sought to characterize racial identity response transitions among multiparous birthing people who ever identified as American Indian or Alaska Native (AIAN) and assess whether this fluidity alters year-specific statewide AIAN maternal health and birth outcome prevalence estimates. To do so, we used Michigan birth certificates (2014-2022) to identify individuals with $\boldsymbol{\ge}$2 live births who self-reported as AIAN for $\boldsymbol{\ge}\mathbf{1}$ birth (n = 4823). We categorized individuals as having changed or not changed their reported racial identity across births and recalculated AIAN-specific outcome estimates accordingly. Only 23.9% (1155) consistently identified as AIAN across all births, while 76.1% (3668) used different racial identity responses. Among those whose racial identity response changed, transitioning from identifying as AIAN to no longer identifying as AIAN was the most common pattern. Accounting for these transitions had minimal effect on prevalence estimates for preterm birth and gestational diabetes, while there were some prevalence changes for the prevalence of smoking before/during pregnancy. AIAN birthing people in Michigan often shift racial identity responses over time. Although this fluidity had little impact on surveillance of perinatal outcomes, reliance on point-in-time race data may inadequately reflect AIAN identity in public health data.</description>
     </item>
     <item>
+      <title>Extreme risk protection order policies and homicide risk among cohabitants of handgun owners</title>
+      <link>https://doi.org/10.1093/aje/kwag173</link>
+      <guid isPermaLink="false">10.1093/aje/kwag173</guid>
+
+      <dc:creator>Nhan Tran</dc:creator>
+      <dc:creator>Yifan Zhang</dc:creator>
+      <dc:creator>Jessica Handy</dc:creator>
+      <dc:creator>Matthew Miller</dc:creator>
+      <dc:creator>Veronica A Pear</dc:creator>
+      <dc:creator>David M Studdert</dc:creator>
+      <dc:creator>Sonja A Swanson</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Nhan Tran, Yifan Zhang, Jessica Handy, Matthew Miller, Veronica A Pear, David M Studdert, Sonja A Swanson
+
+Journal: American Journal of Epidemiology; Article number: kwag173
+
+Abstract: Abstract Extreme Risk Protection Orders (ERPO), known as Gun Violence Restraining Orders in California, are designed to reduce gun violence by allowing courts to temporarily remove firearms from individuals who pose a risk to themselves or others. Population-level evidence on their impacts remains limited. We used the Longitudinal Study of Handgun Ownership and Transfer, which links California voter, mortality, and firearm transaction records, to evaluate the impact of California’s ERPO law on homicide risk among cohabitants of handgun owners who are not themselves handgun owners. Using a difference-in-differences design, we compared changes in 1-year homicide risks before (2012-2015) and after (2016-2021) policy implementation among adults living with handgun owners vs those in households without known handgun owners. We estimated a 1-year difference of -0.42 (95% CI, -1.86 to 1.02) homicide deaths per 100 000 persons among cohabitants of handgun owners who are not themselves handgun owners, with null findings robust across sensitivity analyses. Though our findings did not suggest substantial population-level protective effects, ERPOs may still reduce risk of homicide among cohabitants of ERPO respondents in ways not detectable at the population level. At the population level, their effectiveness may depend on more frequent or better-targeted use.</description>
+    </item>
+    <item>
+      <title>Depression at the intersection of race/ethnicity, sex/gender, and sexual orientation in a nationally representative sample of US adults: a design-weighted intersectional MAIHDA</title>
+      <link>https://doi.org/10.1093/aje/kwag144</link>
+      <guid isPermaLink="false">10.1093/aje/kwag144</guid>
+
+      <dc:creator>F Hunter McGuire</dc:creator>
+      <dc:creator>Ariel L Beccia</dc:creator>
+      <dc:creator>Ja Niene Peoples</dc:creator>
+      <dc:creator>Matthew R Williams</dc:creator>
+      <dc:creator>Megan S Schuler</dc:creator>
+      <dc:creator>Alexis E Duncan</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: F Hunter McGuire, Ariel L Beccia, Ja Niene Peoples, Matthew R Williams, Megan S Schuler, Alexis E Duncan
+
+Journal: American Journal of Epidemiology; Article number: kwag144
+
+Abstract: Abstract This study examined how race/ethnicity, sex/gender, and sexual orientation intersect under interlocking systems of oppression to socially pattern depression among US adults. With cross-sectional data from the 2015-2020 National Survey on Drug Use and Health (NSDUH; n=234 722), we conducted design-weighted multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA) under an intersectional framework to predict past-year and lifetime major depressive episode (MDE). With 42 intersectional groups constructed from seven race/ethnicity, two sex/gender, and three sexual orientation categories, we estimated age-standardized prevalence and excess/reduced prevalence attributable to two-way or higher interaction effects. Models revealed heterogeneity across groups, with prevalence ranging from 2.9–27.3% (past-year) and 5.9–43.1% (lifetime). Approximately 12.7% (past-year) and 12.5% (lifetime) of total individual variance were attributable to between-group differences, indicating key relevance of intersectional groups in describing the population distribution of depression. Main effects indicated, on average, people who were White, women, gay/lesbian, or bisexual had greater odds of MDE. Main effects explained most between-group variance. Interaction effects (past-year: 10.1%; lifetime: 16.5%) indicated a further source of heterogeneity around averages with groups experiencing excess/reduced prevalence compared to main effects expectations. We extend the MAIHDA framework to calculate nationally representative estimates from complex sample survey data using design-weighted, Bayesian methods.</description>
+    </item>
+    <item>
+      <title>&lt;b&gt;“&lt;/b&gt;
+                    Once thriving”: using Google street view virtual audits to measure neighborhood disinvestment in the Jackson, MS Tri-County area</title>
+      <link>https://doi.org/10.1093/aje/kwag177</link>
+      <guid isPermaLink="false">10.1093/aje/kwag177</guid>
+
+      <dc:creator>Sharrelle Barber</dc:creator>
+      <dc:creator>Dustin Fry</dc:creator>
+      <dc:creator>Jessica Whitley</dc:creator>
+      <dc:creator>Frank Figgers</dc:creator>
+      <dc:creator>David M Coomes</dc:creator>
+      <dc:creator>Janelle R Edwards</dc:creator>
+      <dc:creator>Helen Beady</dc:creator>
+      <dc:creator>Rachel Mayes</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sharrelle Barber, Dustin Fry, Jessica Whitley, Frank Figgers, David M Coomes, Janelle R Edwards, Helen Beady, Rachel Mayes, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag177
+
+Abstract: Abstract Disinvestment in segregated, low-income Black communities is rooted in structural racism and racial capitalism and contributes to racial health inequities. Virtual audits have been used to capture visible signs of neighborhood disinvestment, however, these methods have been primarily used and validated in dense urban cities in the Northeast and Western U.S. We used Google Street View to conduct virtual audits in the Jackson, Mississippi tri-county metropolitan area—a mid-sized, urban area in the U.S. South. Our approach engaged residents and community organizers in conversations to inform our interpretation of the local context and utilized exploratory and confirmatory factor analyses to develop a total disinvestment score for each observed street segment. In select neighborhoods, we also assessed neighborhood disinvestment longitudinally. We found that disinvestment scores were higher in historically Black neighborhoods and within Jackson city limits compared to surrounding, majority-white counties and increased over time in some neighborhoods. Our score was positively associated with housing vacancy, unemployment, residential segregation by race and income, and negatively associated with owner-occupied housing. Virtual audits can be valid tools for measuring physical signs of disinvestment in low-density cities in the US South, and for measuring contributions of the built environment to population health inequities.</description>
+    </item>
+    <item>
       <title>Retraction and replacement of: Depression at the intersection of race/ethnicity, sex/gender, and sexual orientation in a nationally representative sample of US adults: a design-weighted intersectional MAIHDA</title>
       <link>https://doi.org/10.1093/aje/kwag143</link>
       <guid isPermaLink="false">10.1093/aje/kwag143</guid>
@@ -435,64 +550,6 @@ Journal: American Journal of Epidemiology; Article number: kwag176
 Abstract: Abstract Neighborhood socioeconomic disadvantage is linked to accelerated biological aging using DNA methylation; however, limited knowledge exists of the relationship between duration or timing of exposure to neighborhood poverty across life stages and biological aging, measured by epigenetic clocks. Existing research has relied on samples with limited racial and gender diversity. We examined the relationship between multiple dimensions of neighborhood poverty (duration, life stage of first exposure, life stage exposure trajectories, and severity) and biological aging using data from 3637 participants followed for 25 years in the National Longitudinal Study of Adolescent to Adult Health. We employed survey linear regression models to estimate associations for 3 epigenetic clocks: GrimAge2, PhenoAge, and DunedinPACE. In the total sample, only 8% of participants experienced neighborhood poverty across all life stages, which differed starkly by race (non-Hispanic Blacks: 26% vs non-Hispanic Whites: 4%). We found that each additional life stage of exposure to neighborhood poverty was associated with significant biological age acceleration. Experiencing neighborhood poverty in mid-adulthood was consistently associated with accelerated biological aging. Our results suggest a relationship between duration and timing of exposure to neighborhood poverty and accelerated biological aging across key biological clocks, indicating possible lasting cellular level effects of residential context.</description>
     </item>
     <item>
-      <title>Extreme risk protection order policies and homicide risk among cohabitants of handgun owners</title>
-      <link>https://doi.org/10.1093/aje/kwag173</link>
-      <guid isPermaLink="false">10.1093/aje/kwag173</guid>
-
-      <dc:creator>Nhan Tran</dc:creator>
-      <dc:creator>Yifan Zhang</dc:creator>
-      <dc:creator>Jessica Handy</dc:creator>
-      <dc:creator>Matthew Miller</dc:creator>
-      <dc:creator>Veronica A Pear</dc:creator>
-      <dc:creator>David M Studdert</dc:creator>
-      <dc:creator>Sonja A Swanson</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nhan Tran, Yifan Zhang, Jessica Handy, Matthew Miller, Veronica A Pear, David M Studdert, Sonja A Swanson
-
-Journal: American Journal of Epidemiology; Article number: kwag173
-
-Abstract: Abstract Extreme Risk Protection Orders (ERPO), known as Gun Violence Restraining Orders in California, are designed to reduce gun violence by allowing courts to temporarily remove firearms from individuals who pose a risk to themselves or others. Population-level evidence on their impacts remains limited. We used the Longitudinal Study of Handgun Ownership and Transfer, which links California voter, mortality, and firearm transaction records, to evaluate the impact of California’s ERPO law on homicide risk among cohabitants of handgun owners who are not themselves handgun owners. Using a difference-in-differences design, we compared changes in 1-year homicide risks before (2012-2015) and after (2016-2021) policy implementation among adults living with handgun owners vs those in households without known handgun owners. We estimated a 1-year difference of -0.42 (95% CI, -1.86 to 1.02) homicide deaths per 100 000 persons among cohabitants of handgun owners who are not themselves handgun owners, with null findings robust across sensitivity analyses. Though our findings did not suggest substantial population-level protective effects, ERPOs may still reduce risk of homicide among cohabitants of ERPO respondents in ways not detectable at the population level. At the population level, their effectiveness may depend on more frequent or better-targeted use.</description>
-    </item>
-    <item>
-      <title>&lt;b&gt;“&lt;/b&gt;
-                    Once thriving”: using Google street view virtual audits to measure neighborhood disinvestment in the Jackson, MS Tri-County area</title>
-      <link>https://doi.org/10.1093/aje/kwag177</link>
-      <guid isPermaLink="false">10.1093/aje/kwag177</guid>
-
-      <dc:creator>Sharrelle Barber</dc:creator>
-      <dc:creator>Dustin Fry</dc:creator>
-      <dc:creator>Jessica Whitley</dc:creator>
-      <dc:creator>Frank Figgers</dc:creator>
-      <dc:creator>David M Coomes</dc:creator>
-      <dc:creator>Janelle R Edwards</dc:creator>
-      <dc:creator>Helen Beady</dc:creator>
-      <dc:creator>Rachel Mayes</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sharrelle Barber, Dustin Fry, Jessica Whitley, Frank Figgers, David M Coomes, Janelle R Edwards, Helen Beady, Rachel Mayes, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag177
-
-Abstract: Abstract Disinvestment in segregated, low-income Black communities is rooted in structural racism and racial capitalism and contributes to racial health inequities. Virtual audits have been used to capture visible signs of neighborhood disinvestment, however, these methods have been primarily used and validated in dense urban cities in the Northeast and Western U.S. We used Google Street View to conduct virtual audits in the Jackson, Mississippi tri-county metropolitan area—a mid-sized, urban area in the U.S. South. Our approach engaged residents and community organizers in conversations to inform our interpretation of the local context and utilized exploratory and confirmatory factor analyses to develop a total disinvestment score for each observed street segment. In select neighborhoods, we also assessed neighborhood disinvestment longitudinally. We found that disinvestment scores were higher in historically Black neighborhoods and within Jackson city limits compared to surrounding, majority-white counties and increased over time in some neighborhoods. Our score was positively associated with housing vacancy, unemployment, residential segregation by race and income, and negatively associated with owner-occupied housing. Virtual audits can be valid tools for measuring physical signs of disinvestment in low-density cities in the US South, and for measuring contributions of the built environment to population health inequities.</description>
-    </item>
-    <item>
-      <title>Depression at the intersection of race/ethnicity, sex/gender, and sexual orientation in a nationally representative sample of US adults: a design-weighted intersectional MAIHDA</title>
-      <link>https://doi.org/10.1093/aje/kwag144</link>
-      <guid isPermaLink="false">10.1093/aje/kwag144</guid>
-
-      <dc:creator>F Hunter McGuire</dc:creator>
-      <dc:creator>Ariel L Beccia</dc:creator>
-      <dc:creator>Ja Niene Peoples</dc:creator>
-      <dc:creator>Matthew R Williams</dc:creator>
-      <dc:creator>Megan S Schuler</dc:creator>
-      <dc:creator>Alexis E Duncan</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: F Hunter McGuire, Ariel L Beccia, Ja Niene Peoples, Matthew R Williams, Megan S Schuler, Alexis E Duncan
-
-Journal: American Journal of Epidemiology; Article number: kwag144
-
-Abstract: Abstract This study examined how race/ethnicity, sex/gender, and sexual orientation intersect under interlocking systems of oppression to socially pattern depression among US adults. With cross-sectional data from the 2015-2020 National Survey on Drug Use and Health (NSDUH; n=234 722), we conducted design-weighted multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA) under an intersectional framework to predict past-year and lifetime major depressive episode (MDE). With 42 intersectional groups constructed from seven race/ethnicity, two sex/gender, and three sexual orientation categories, we estimated age-standardized prevalence and excess/reduced prevalence attributable to two-way or higher interaction effects. Models revealed heterogeneity across groups, with prevalence ranging from 2.9–27.3% (past-year) and 5.9–43.1% (lifetime). Approximately 12.7% (past-year) and 12.5% (lifetime) of total individual variance were attributable to between-group differences, indicating key relevance of intersectional groups in describing the population distribution of depression. Main effects indicated, on average, people who were White, women, gay/lesbian, or bisexual had greater odds of MDE. Main effects explained most between-group variance. Interaction effects (past-year: 10.1%; lifetime: 16.5%) indicated a further source of heterogeneity around averages with groups experiencing excess/reduced prevalence compared to main effects expectations. We extend the MAIHDA framework to calculate nationally representative estimates from complex sample survey data using design-weighted, Bayesian methods.</description>
-    </item>
-    <item>
       <title>Confidence regions for multiple outcomes, effect modifiers, and other multiple comparisons</title>
       <link>https://doi.org/10.1093/aje/kwag174</link>
       <guid isPermaLink="false">10.1093/aje/kwag174</guid>
@@ -509,14 +566,6 @@ Abstract: Abstract This study examined how race/ethnicity, sex/gender, and sexua
 Journal: American Journal of Epidemiology; Article number: kwag174
 
 Abstract: Abstract Epidemiologists are sometimes interested in estimating multiple parameters. In this context, confidence intervals are not guaranteed to provide simultaneous coverage of more than one parameter. In other words, confidence intervals understate the uncertainty due to random error in these cases. This understated uncertainty can lead to a false sense of precision in the results, potentially leading to irreproducible results or misinformed decisions. To address this challenge, one can use confidence bands, an extension of confidence intervals to multiple parameters. We illustrate the use of confidence bands in three case studies: estimation of multiple causal effects, effect measure modification by a binary variable, and effect measure modification by a continuous variable. Each example uses publicly available data and is accompanied by SAS, R, and Python code. The type of confidence region reported by epidemiologists should depend on whether scientific interest is in one or multiple parameters. For multiple parameters, like in cases where multiple actions or outcomes, effect measure modification, dose–response, or other functions are of interest, sup-t confidence bands are preferred due to their statistical properties, computational simplicity, and ease of presentation.</description>
-    </item>
-    <item>
-      <title>Correction to: Re: “On variance of the treatment effect in the treated when estimated by inverse probability weighting”</title>
-      <link>https://doi.org/10.1093/aje/kwag164</link>
-      <guid isPermaLink="false">10.1093/aje/kwag164</guid>
-
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Article number: kwag164</description>
     </item>
     <item>
       <title>Shifting burden of childhood cancer mortality in the United States: progress and persistent inequities</title>
@@ -537,6 +586,14 @@ Abstract: Abstract Epidemiologists are sometimes interested in estimating multip
 Journal: American Journal of Epidemiology; Article number: kwag169
 
 Abstract: Abstract While 5-year survival following childhood cancer rose greatly from ~60% in the mid-1970s to 85% today, inequities persist and conventional survival metrics obscure the true burden and shifting distribution of deaths. To address this, we used Surveillance, Epidemiology, and End Results registries to evaluate excess mortality rates and counts (AER and AEC), new metrics quantifying mortality attributable to childhood cancer, among 47 545 US children diagnosed before age 20 during 1975-2014, with follow-up through 2018. We quantified trends across subgroups and assessed modification by county-level income and rurality. AER declined across groups but at different magnitudes. From 1975-1979 to 2010-2014, declines were 75% in non-Hispanic White (NHW), 62% in non-Hispanic Black, and ~63% in Hispanic and Asian/Pacific Islander children. Among non-Hispanic American Indian/Alaska Native children, AER fell briefly with no clear improvement subsequently. Absolute burden shifted: AEC fell among NHW (8874 in 1990-1994 to 5134 in 2010-2014) but rose among other subgroups (4826 to 5213). By 2010-2014, non-NHW children accounted for more deaths despite &amp;amp;gt;15 000 fewer diagnoses than NHW children. These findings show a shifting national burden: Despite overall survival gains, persistent and sometimes worsening inequities mean deaths are increasingly concentrated among non-NHW subgroups.</description>
+    </item>
+    <item>
+      <title>Correction to: Re: “On variance of the treatment effect in the treated when estimated by inverse probability weighting”</title>
+      <link>https://doi.org/10.1093/aje/kwag164</link>
+      <guid isPermaLink="false">10.1093/aje/kwag164</guid>
+
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Article number: kwag164</description>
     </item>
     <item>
       <title>Multidimensional social exposure clusters and incident multimorbidity in a population-based cohort</title>
@@ -634,6 +691,19 @@ Abstract: Abstract Comprehensive exams are a standard component of doctoral-leve
 Journal: American Journal of Epidemiology; Article number: kwag167</description>
     </item>
     <item>
+      <title>Clasen et al. respond to “Thyroid autoimmunity in the TEDDY cohort: is HLA 8.1 haplotype the hidden driver?”</title>
+      <link>https://doi.org/10.1093/aje/kwag156</link>
+      <guid isPermaLink="false">10.1093/aje/kwag156</guid>
+
+      <dc:creator>Joanna L Clasen</dc:creator>
+      <dc:creator>Hemang M Parikh</dc:creator>
+      <dc:creator>William A Hagopian</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Joanna L Clasen, Hemang M Parikh, William A Hagopian
+
+Journal: American Journal of Epidemiology; Article number: kwag156</description>
+    </item>
+    <item>
       <title>Pregnancy intentions by sexual orientation among pregnancies across the life course</title>
       <link>https://doi.org/10.1093/aje/kwag165</link>
       <guid isPermaLink="false">10.1093/aje/kwag165</guid>
@@ -652,6 +722,14 @@ Journal: American Journal of Epidemiology; Article number: kwag167</description>
 Journal: American Journal of Epidemiology; Article number: kwag165
 
 Abstract: Abstract Sexual minority (SM) people may be at increased risk of “unintended” pregnancies, but limited research has examined potential disparities. We examined the intention status of lifetime pregnancies by sexual orientation. We pooled data from the Nurses’ Health Study 3 and Growing Up Today Study (N = 36 967 pregnancies 1978-2024). Using multinomial models, we estimated relative risk ratios (RRRs) for pregnancy intention (actively trying/wanted then or sooner, not trying but glad, wanted later but not then, and unwanted then and in the future) among SM groups (completely heterosexual with same-sex experience, mostly heterosexual, bisexual, and lesbian/gay) vs completely heterosexual participants with no same-sex experience. Model-predicted probabilities show that 15%-33% of pregnancies within each sexual orientation group were wanted later/unwanted. Compared to pregnancies to completely heterosexual participants with no same-sex experience, all SM groups had more pregnancies that were wanted later (RRRs from 1.22 [completely heterosexual with same-sex experience] to 2.28 [bisexual]) and unwanted then and in the future (RRRs ranging from 1.74 [completely heterosexual with same-sex experience] to 5.23 [bisexual participants]), compared to pregnancies occurring when participants were actively trying/wanted the pregnancy then or sooner. Our findings suggest that pregnancies among SM groups disproportionately are unwanted or occur too early.</description>
+    </item>
+    <item>
+      <title>Correction to: Sampling for computational efficiency when conducting analyses in big data</title>
+      <link>https://doi.org/10.1093/aje/kwag152</link>
+      <guid isPermaLink="false">10.1093/aje/kwag152</guid>
+
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Article number: kwag152</description>
     </item>
     <item>
       <title>Life-expectancy loss during the COVID-19 pandemic: decomposition using individual-level mortality data</title>
@@ -692,25 +770,28 @@ Abstract: Abstract We study life expectancy loss (LEL) from the COVID-19 pandemi
 Journal: American Journal of Epidemiology; Article number: kwag162</description>
     </item>
     <item>
-      <title>Correction to: Sampling for computational efficiency when conducting analyses in big data</title>
-      <link>https://doi.org/10.1093/aje/kwag152</link>
-      <guid isPermaLink="false">10.1093/aje/kwag152</guid>
+      <title>Correction to: Reduced risk of SARS-CoV-2 infection among household contacts with recent vaccination and past COVID-19 infection: results from 2 multisite case-ascertained household transmission studies</title>
+      <link>https://doi.org/10.1093/aje/kwag151</link>
+      <guid isPermaLink="false">10.1093/aje/kwag151</guid>
 
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Article number: kwag152</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Article number: kwag151</description>
     </item>
     <item>
-      <title>Clasen et al. respond to “Thyroid autoimmunity in the TEDDY cohort: is HLA 8.1 haplotype the hidden driver?”</title>
-      <link>https://doi.org/10.1093/aje/kwag156</link>
-      <guid isPermaLink="false">10.1093/aje/kwag156</guid>
+      <title>Air pollution and healthy aging: a longitudinal inquire on the association of PM2.5 with intrinsic capacity and its domains</title>
+      <link>https://doi.org/10.1093/aje/kwag160</link>
+      <guid isPermaLink="false">10.1093/aje/kwag160</guid>
 
-      <dc:creator>Joanna L Clasen</dc:creator>
-      <dc:creator>Hemang M Parikh</dc:creator>
-      <dc:creator>William A Hagopian</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Joanna L Clasen, Hemang M Parikh, William A Hagopian
+      <dc:creator>Aarón Salinas-Rodríguez</dc:creator>
+      <dc:creator>Susana Román-Pérez</dc:creator>
+      <dc:creator>Mario Efraín Flores-Rodríguez</dc:creator>
+      <dc:creator>Betty Manrique-Espinoza</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Aarón Salinas-Rodríguez, Susana Román-Pérez, Mario Efraín Flores-Rodríguez, Betty Manrique-Espinoza
 
-Journal: American Journal of Epidemiology; Article number: kwag156</description>
+Journal: American Journal of Epidemiology; Article number: kwag160
+
+Abstract: Abstract Air pollution constitutes a major challenge in achieving healthy aging. However, the association between PM2.5 and composite indicators of healthy aging (intrinsic capacity, IC) has not yet been explored. This study aimed to estimate the longitudinal association between long-term exposure to PM2.5 and IC and its domains in a sample of Mexican older people. We used data from 4 waves of the Study on Global Aging and Adult Health in Mexico (2009, 2014, 2017, and 2021). The annual PM2.5 concentration was calculated using satellite data. Longitudinal fixed-effects models were used to estimate the proposed associations. Higher levels of PM2.5 were significantly associated with a decline in IC and the sensory and locomotor domains. While higher PM2.5 values were significantly associated with lower values in the cognitive, vitality, and psychological domains; however, the scores in these domains did not decrease over time. Given that the global population is aging at an accelerated rate and urbanization continues to increase, addressing PM2.5 pollution is crucial for protecting the physical and mental well-being of older people.</description>
     </item>
     <item>
       <title>A comparative analysis of methodological practices used in capture–recapture population size estimation: opioid use disorder prevalence in New York State, 2020</title>
@@ -733,30 +814,6 @@ Journal: American Journal of Epidemiology; Article number: kwag161
 Abstract: Abstract Prevalence estimates for opioid use disorder (OUD) are essential for guiding investments in prevention and treatment. Previous estimates have been produced using modeling approaches including capture–recapture (CRC). Empirical evaluations of CRC are needed to assess population size impacts of methodological practices utilized. We linked administrative data sources including New York State (NYS) adults with OUD by indication between January 1 and December 31, 2020 and applied Bayesian CRC methods to evaluate how methodological practices impact OUD prevalence: (1) using sensitive vs specific case definition characteristics to identify OUD, (2) including vs excluding inferred referrals from emergency medical services to healthcare settings, and (3) including vs excluding overdose mortality as a source list. We estimated OUD prevalence overall and by demographic characteristics and treatment coverage with medications for OUD (MOUD). Across methodological scenarios, OUD prevalence estimates ranged from 4.6% to 9.9%. The largest estimate resulted from a model in which the more sensitive OUD case definition was applied, while the smallest resulted from a model using the more specific case definition. An estimated 4.2% of NYS adults had OUD in 2020, with 20% receiving MOUD. Findings demonstrate that CRC methodological decisions can meaningfully influence OUD prevalence estimates, with recommended methodological practices provided.</description>
     </item>
     <item>
-      <title>Air pollution and healthy aging: a longitudinal inquire on the association of PM2.5 with intrinsic capacity and its domains</title>
-      <link>https://doi.org/10.1093/aje/kwag160</link>
-      <guid isPermaLink="false">10.1093/aje/kwag160</guid>
-
-      <dc:creator>Aarón Salinas-Rodríguez</dc:creator>
-      <dc:creator>Susana Román-Pérez</dc:creator>
-      <dc:creator>Mario Efraín Flores-Rodríguez</dc:creator>
-      <dc:creator>Betty Manrique-Espinoza</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Aarón Salinas-Rodríguez, Susana Román-Pérez, Mario Efraín Flores-Rodríguez, Betty Manrique-Espinoza
-
-Journal: American Journal of Epidemiology; Article number: kwag160
-
-Abstract: Abstract Air pollution constitutes a major challenge in achieving healthy aging. However, the association between PM2.5 and composite indicators of healthy aging (intrinsic capacity, IC) has not yet been explored. This study aimed to estimate the longitudinal association between long-term exposure to PM2.5 and IC and its domains in a sample of Mexican older people. We used data from 4 waves of the Study on Global Aging and Adult Health in Mexico (2009, 2014, 2017, and 2021). The annual PM2.5 concentration was calculated using satellite data. Longitudinal fixed-effects models were used to estimate the proposed associations. Higher levels of PM2.5 were significantly associated with a decline in IC and the sensory and locomotor domains. While higher PM2.5 values were significantly associated with lower values in the cognitive, vitality, and psychological domains; however, the scores in these domains did not decrease over time. Given that the global population is aging at an accelerated rate and urbanization continues to increase, addressing PM2.5 pollution is crucial for protecting the physical and mental well-being of older people.</description>
-    </item>
-    <item>
-      <title>Correction to: Reduced risk of SARS-CoV-2 infection among household contacts with recent vaccination and past COVID-19 infection: results from 2 multisite case-ascertained household transmission studies</title>
-      <link>https://doi.org/10.1093/aje/kwag151</link>
-      <guid isPermaLink="false">10.1093/aje/kwag151</guid>
-
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Article number: kwag151</description>
-    </item>
-    <item>
       <title>Birth certificate measures of maternal morbidity and their limits in abortion policy research</title>
       <link>https://doi.org/10.1093/aje/kwag159</link>
       <guid isPermaLink="false">10.1093/aje/kwag159</guid>
@@ -770,6 +827,23 @@ Abstract: Abstract Air pollution constitutes a major challenge in achieving heal
 Journal: American Journal of Epidemiology; Article number: kwag159
 
 Abstract: Abstract Three indicators of severe maternal morbidity (SMM) available in US birth certificate data are increasingly used in research, yet prior studies suggest they are poorly ascertained. It is unclear whether low validity of these data threatens causal inference in evaluations of policies or shocks that vary across states and over time, including abortion bans enacted after the Supreme Court’s Dobbs decision. Using birth certificate and hospital discharge data from 12 states (2018-2021), we assessed data quality for three SMM indicators (hysterectomy, blood transfusion, and eclampsia) and a composite measure and compared state-year trends across six states that subsequently imposed abortion bans shortly after the Dobbs decision and six that did not, including tests of the parallel trends assumption. Compared with hospitalization data, birth certificates under-ascertained hysterectomy, blood transfusion, and the composite measure while over-ascertaining eclampsia. Composite SMM rates appeared higher in abortion-ban states using birth certificate data but were similar or lower in hospitalization data. Over time, birth certificate ascertainment improved in states with bans but remained flat elsewhere, potentially introducing data artifacts. Violations of the parallel trends assumption were detected in hospitalization but not birth certificate data. Reliance on birth certificate data for policy evaluation can produce erroneous inferences.</description>
+    </item>
+    <item>
+      <title>US cardiovascular mortality before and during COVID-19: CDC WONDER vs GBD comparison</title>
+      <link>https://doi.org/10.1093/aje/kwag153</link>
+      <guid isPermaLink="false">10.1093/aje/kwag153</guid>
+
+      <dc:creator>Mirza Mohammad Ali Baig</dc:creator>
+      <dc:creator>Muhammad Umar</dc:creator>
+      <dc:creator>Carol Wright Becker</dc:creator>
+      <dc:creator>Salim S Virani</dc:creator>
+      <dc:creator>Dmitry Abramov</dc:creator>
+      <dc:creator>Xiaoming Jia</dc:creator>
+      <dc:creator>Abdul Mannan Khan Minhas</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mirza Mohammad Ali Baig, Muhammad Umar, Carol Wright Becker, Salim S Virani, Dmitry Abramov, Xiaoming Jia, Abdul Mannan Khan Minhas
+
+Journal: American Journal of Epidemiology; Article number: kwag153</description>
     </item>
     <item>
       <title>A decision-theoretic framework for uncertainty quantification in epidemiological modelling</title>
@@ -790,23 +864,6 @@ Journal: American Journal of Epidemiology; Article number: kwag154
 Abstract: Abstract Estimating, understanding, and communicating uncertainty is fundamental to statistical epidemiology, where model-based estimates regularly inform real-world decisions. However, sources of uncertainty are rarely formalised, and existing classifications are often inconsistent. This lack of structure hampers interpretation, model comparison, and targeted data collection. Connecting ideas from machine learning, information theory, experimental design, and health economics, we present a first-principles decision-theoretic framework that defines uncertainty as the expected loss incurred by making an estimate using incomplete information, arguing that this is a practically relevant definition for epidemiology. We show how reasoning about future data leads to a notion of expected uncertainty reduction, which induces formal definitions of reducible and irreducible uncertainty. We illustrate our approach with a simple worked example and a case study of SARS-CoV-2 wastewater surveillance in Aotearoa New Zealand, estimating the uncertainty reduction if wastewater surveillance were expanded to the full population. We then connect our framework to relevant literature from adjacent fields, showing how it unifies and extends many of these ideas. Our article serves as a gateway for applying a wide range of approaches to epidemiological models. Altogether, our framework provides a foundation for more reliable, consistent, and policy-relevant uncertainty quantification in infectious disease epidemiology.</description>
     </item>
     <item>
-      <title>US cardiovascular mortality before and during COVID-19: CDC WONDER vs GBD comparison</title>
-      <link>https://doi.org/10.1093/aje/kwag153</link>
-      <guid isPermaLink="false">10.1093/aje/kwag153</guid>
-
-      <dc:creator>Mirza Mohammad Ali Baig</dc:creator>
-      <dc:creator>Muhammad Umar</dc:creator>
-      <dc:creator>Carol Wright Becker</dc:creator>
-      <dc:creator>Salim S Virani</dc:creator>
-      <dc:creator>Dmitry Abramov</dc:creator>
-      <dc:creator>Xiaoming Jia</dc:creator>
-      <dc:creator>Abdul Mannan Khan Minhas</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mirza Mohammad Ali Baig, Muhammad Umar, Carol Wright Becker, Salim S Virani, Dmitry Abramov, Xiaoming Jia, Abdul Mannan Khan Minhas
-
-Journal: American Journal of Epidemiology; Article number: kwag153</description>
-    </item>
-    <item>
       <title>Design and procedures for the greenness, cognitive performance and vascular outcomes in the northern Manhattan study (NOMAS-greenness)</title>
       <link>https://doi.org/10.1093/aje/kwag155</link>
       <guid isPermaLink="false">10.1093/aje/kwag155</guid>
@@ -823,29 +880,6 @@ Journal: American Journal of Epidemiology; Article number: kwag153</description>
       <description>Authors: Scott Charles Brown, Julius Roderik Dewald, Andrew G Rundle, Sarah Tom, Tatjana Rundek, Ruixuan Ma, Yalda Zarnegarnia, Adam A Szpiro, et al.
 
 Journal: American Journal of Epidemiology; Article number: kwag155</description>
-    </item>
-    <item>
-      <title>Correction to: Home dampness and molds and occurrence of respiratory tract infections in the first 27 years of life: the Espoo Cohort Study</title>
-      <link>https://doi.org/10.1093/aje/kwag148</link>
-      <guid isPermaLink="false">10.1093/aje/kwag148</guid>
-
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2326-2326</description>
-    </item>
-    <item>
-      <title>A simple and powerful test of vaccine waning</title>
-      <link>https://doi.org/10.1093/aje/kwag118</link>
-      <guid isPermaLink="false">10.1093/aje/kwag118</guid>
-
-      <dc:creator>Gellért Perényi</dc:creator>
-      <dc:creator>Matias Janvin</dc:creator>
-      <dc:creator>Mats J Stensrud</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gellért Perényi, Matias Janvin, Mats J Stensrud
-
-Journal: American Journal of Epidemiology; Article number: kwag118
-
-Abstract: Abstract Determining whether vaccine efficacy wanes is important for individual and public decision making. Yet, quantification of waning is a subtle task. The classical approaches cannot be interpreted as measures of declining efficacy unless we impose unreasonable assumptions. Recently, formal causal estimands designed to quantify vaccine waning have been proposed. These estimands can be bounded under weaker assumptions, but the bounds are often too wide to make claims about the presence of waning. We propose a different approach: a formal test to assess whether a treatment effect is constant over time at the individual level. This test provides a considerable power gain over existing approaches and is valid under interpretable assumptions in vaccine trials. We illustrate the increase in power through real and simulated examples, using 3 different approaches to compute the test statistics. Two of these approaches are based solely on summary data, accessible from existing clinical trials. Beyond our test, we also give new results that bound the waning effect. We use our methods to reanalyze data from a randomized controlled trial of the BNT162b2 COVID-19 vaccine. While a prior analysis did not establish waning, our test rejects the null hypothesis of no waning.</description>
     </item>
     <item>
       <title>Association Between maternal body mass index, offspring growth and pubertal timing: results from a longitudinal birth cohort study</title>
@@ -866,27 +900,35 @@ Journal: American Journal of Epidemiology; Article number: kwag128
 Abstract: Abstract Earlier pubertal timing has risen alongside increasing childhood obesity, yet evidence linking early-life body mass index (BMI) to earlier pubertal timing, particularly for boys, remains inconsistent. Prior work often relied on single time-point BMI measurements that overlooked growth dynamics and the potential independent effect of maternal pre-pregnancy BMI. Using data from 2982 participants in the Amsterdam Born Children and their Development cohort, we linked pubertal timing ages 11–12 to maternal BMI and children’s dynamic BMI growth curves from birth to age 8. Joint Bayesian models of linear mixed-effects and ordinal logistic regressions, stratified by sex and adjusted for confounders, found that greater BMI deviations from population curves, during infancy and prepuberty, were associated with earlier pubertal timing in girls (infancy POR: 1.11, 95% CI: 1.02–1.20; prepuberty POR: 1.23, 95% CI: 1.12–1.38) and boys (infancy POR: 1.12, 95% CI: 1.03–1.22; prepuberty POR: 1.23, 95% CI: 1.08–1.42), with preschool additionally important for girls (POR: 1.55, 95% CI: 1.22–1.99). Independent of child BMI growth deviations, higher maternal pre-pregnancy BMI was associated with earlier pubertal timing in girls (POR: 1.07, 95% CI: 1.05–1.11) and boys (POR: 1.08, 95% CI: 1.05–1.11). To conclude, findings highlight intergenerational associations and the value of early growth.</description>
     </item>
     <item>
+      <title>A simple and powerful test of vaccine waning</title>
+      <link>https://doi.org/10.1093/aje/kwag118</link>
+      <guid isPermaLink="false">10.1093/aje/kwag118</guid>
+
+      <dc:creator>Gellért Perényi</dc:creator>
+      <dc:creator>Matias Janvin</dc:creator>
+      <dc:creator>Mats J Stensrud</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gellért Perényi, Matias Janvin, Mats J Stensrud
+
+Journal: American Journal of Epidemiology; Article number: kwag118
+
+Abstract: Abstract Determining whether vaccine efficacy wanes is important for individual and public decision making. Yet, quantification of waning is a subtle task. The classical approaches cannot be interpreted as measures of declining efficacy unless we impose unreasonable assumptions. Recently, formal causal estimands designed to quantify vaccine waning have been proposed. These estimands can be bounded under weaker assumptions, but the bounds are often too wide to make claims about the presence of waning. We propose a different approach: a formal test to assess whether a treatment effect is constant over time at the individual level. This test provides a considerable power gain over existing approaches and is valid under interpretable assumptions in vaccine trials. We illustrate the increase in power through real and simulated examples, using 3 different approaches to compute the test statistics. Two of these approaches are based solely on summary data, accessible from existing clinical trials. Beyond our test, we also give new results that bound the waning effect. We use our methods to reanalyze data from a randomized controlled trial of the BNT162b2 COVID-19 vaccine. While a prior analysis did not establish waning, our test rejects the null hypothesis of no waning.</description>
+    </item>
+    <item>
+      <title>Correction to: Home dampness and molds and occurrence of respiratory tract infections in the first 27 years of life: the Espoo Cohort Study</title>
+      <link>https://doi.org/10.1093/aje/kwag148</link>
+      <guid isPermaLink="false">10.1093/aje/kwag148</guid>
+
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2326-2326</description>
+    </item>
+    <item>
       <title>Correction to: Developing a novel algorithm to identify incident and prevalent dementia in Medicare claims—the ARIC Study</title>
       <link>https://doi.org/10.1093/aje/kwag142</link>
       <guid isPermaLink="false">10.1093/aje/kwag142</guid>
 
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2325-2325</description>
-    </item>
-    <item>
-      <title>Re: Advancing observational research on arts and health: theory-informed approaches using the RADIANCE framework</title>
-      <link>https://doi.org/10.1093/aje/kwag149</link>
-      <guid isPermaLink="false">10.1093/aje/kwag149</guid>
-
-      <dc:creator>Julia Peters</dc:creator>
-      <dc:creator>Colleen A Reynolds</dc:creator>
-      <dc:creator>Joost Oude Groeniger</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Julia Peters, Colleen A Reynolds, Joost Oude Groeniger
-
-Journal: American Journal of Epidemiology; Article number: kwag149
-
-Abstract: Abstract</description>
     </item>
     <item>
       <title>Maternal cesarean section and offspring ASD or ADHD risk: a Nurses' Health Study II analysis</title>
@@ -907,6 +949,21 @@ Abstract: Abstract</description>
 Journal: American Journal of Epidemiology; Article number: kwag150
 
 Abstract: Abstract Epidemiological evidence on whether cesarean delivery influences offspring neurodevelopment remains inconsistent. We evaluated the associations between maternal cesarean delivery and childhood autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD) in the Nurses’ Health Study II cohort. We included 29 352 mothers and their children in the ASD analysis and 27 704 in the ADHD analysis. We used generalized estimating equations to estimate the odds ratio (OR) and 95% confidence interval (CI) for the child outcomes according to the mode of delivery. We evaluated confounding effects from maternal demographic and reproductive factors, chronic health and pregnancy complications, previous cesarean delivery, and lifestyle factors. We examined current cesarean delivery in combination with the history of mode of delivery, and we performed a sibling comparison analysis to evaluate the influence of uncontrolled confounding. Despite some suggestions in crude analyses, there was no association between birth by cesarean delivery and child ASD (OR = 1.02, 95% CI, 0.81-1.29) nor ADHD (OR = 1.06, 95% CI, 0.95-1.18) in fully adjusted models. Analyses considering maternal history of cesarean deliveries or comparing the siblings did not change the main findings. Our study does not support the hypothesis that birth by cesarean delivery increases the risk of ASD or ADHD.</description>
+    </item>
+    <item>
+      <title>Re: Advancing observational research on arts and health: theory-informed approaches using the RADIANCE framework</title>
+      <link>https://doi.org/10.1093/aje/kwag149</link>
+      <guid isPermaLink="false">10.1093/aje/kwag149</guid>
+
+      <dc:creator>Julia Peters</dc:creator>
+      <dc:creator>Colleen A Reynolds</dc:creator>
+      <dc:creator>Joost Oude Groeniger</dc:creator>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Julia Peters, Colleen A Reynolds, Joost Oude Groeniger
+
+Journal: American Journal of Epidemiology; Article number: kwag149
+
+Abstract: Abstract</description>
     </item>
     <item>
       <title>Immigration and epigenetic age acceleration in the health and retirement study: differences Between Hispanics and Non-Hispanics</title>
@@ -999,26 +1056,6 @@ Abstract: Abstract Recent studies suggest that attending a Historically Black Co
 Journal: American Journal of Epidemiology; Article number: kwag146</description>
     </item>
     <item>
-      <title>Ultraprocessed foods and incident type 2 diabetes: analysis of the Hispanic Community Health Study/Study of Latinos</title>
-      <link>https://doi.org/10.1093/aje/kwag139</link>
-      <guid isPermaLink="false">10.1093/aje/kwag139</guid>
-
-      <dc:creator>Kenny Mendoza</dc:creator>
-      <dc:creator>Abrania Marrero</dc:creator>
-      <dc:creator>Martha Tamez</dc:creator>
-      <dc:creator>Alan Espinosa</dc:creator>
-      <dc:creator>Daniela Sotres-Alvarez</dc:creator>
-      <dc:creator>Amanda C McClain</dc:creator>
-      <dc:creator>Christina Cordero</dc:creator>
-      <dc:creator>Tali Elfassy</dc:creator>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kenny Mendoza, Abrania Marrero, Martha Tamez, Alan Espinosa, Daniela Sotres-Alvarez, Amanda C McClain, Christina Cordero, Tali Elfassy, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag139
-
-Abstract: Abstract We assessed associations of total and group-specific ultraprocessed food (UPF) intake with type 2 diabetes (T2D) incidence in the Hispanic Community Health Study/Study of Latinos, overall and with a priori stratification by Hispanic/Latino heritage, US nativity, body mass index categories, and diet quality measured by tertiles of the Alternative Healthy Eating Index (AHEI). Data entailed 8010 adults, completing follow-up (2014-2017), and without baseline (2008-2011) diabetes, cardiovascular disease, and/or cancer (mean follow-up: 5.8 years). Baseline 24-hour dietary recalls and food propensity questionnaires assessed UPF intakes (% of diet weight) defined by the Nova framework. Self-report, antidiabetes medications, and standard biomarker thresholds defined incident T2D. Poisson models adjusted for sociodemographic, acculturation, lifestyle, energy intake, and diabetes family history variables estimated incidence rate ratios (95% CI) of T2D per 10 percentage-point increase in total UPF intake and 1-SD increase in inverse normal transformed UPF group intakes. Ultraprocessed food constituted 19.8% of diet weight. Each 10-percentage-point increase in UPF was associated with 1.16 (1.01-1.34) higher T2D incidence overall (1273 cases). In stratified analyses, associations remained only for Puerto Ricans (1.22; 1.01-1.47), US-born persons (1.26; 1.03-1.54), and those with overweight/obesity (1.16; 1.01-1.35). Regarding UPF groups, artificially sweetened beverages and processed poultry/fish were associated with a higher incidence of T2D in the overall sample. Among Puerto Ricans, US-born participants, and persons in the lowest AHEI tertile, ultraprocessed bread/cereals, soft drinks, poultry/fish, and hard liquors were associated with a higher incidence of T2D, whereas ultraprocessed sweet snacks, desserts, and spreads and savory snacks were associated with lower incidence. Limiting UPF is associated with lower T2D incidence among US Hispanics/Latinos, particularly Puerto Rican and US-born participants. Attention to group-specific UPF intake is warranted.</description>
-    </item>
-    <item>
       <title>Identifiability and model misspecification for modelling recurrent infections using routine health care data</title>
       <link>https://doi.org/10.1093/aje/kwag138</link>
       <guid isPermaLink="false">10.1093/aje/kwag138</guid>
@@ -1037,6 +1074,26 @@ Abstract: Abstract We assessed associations of total and group-specific ultrapro
 Journal: American Journal of Epidemiology; Article number: kwag138
 
 Abstract: Abstract For infectious diseases where people can experience multiple infections during their lifetime, the time between observed infections in individuals (or “time to recurrence”) can provide valuable information on infection and transmission dynamics. Routinely collected data, such as electronic health records, are a potential source of time to recurrence data. However, they are challenging to analyse because patients can drop out of the data set in a way that is not visible to the data collection process. Standard epidemiological approaches, such as parametric survival analysis with imputation, cannot be applied to such data. In this study, we explored the feasibility of interrogating routinely collected time to recurrence data by calibrating mechanistic transmission models with explicit dropout mechanisms. We identified model structures and parameter regimes where the method could precisely and accurately estimate important epidemiological quantities. Application of our method to real data of malaria infections routinely collected in Papua, Indonesia, was able to estimate the forces of infection for different malaria species, the rate of dropout and recrudescence for Plasmodium falciparum, and the probability of treatment success. Our method has the potential to increase the value of existing and new data sets for informing public health research.</description>
+    </item>
+    <item>
+      <title>Ultraprocessed foods and incident type 2 diabetes: analysis of the Hispanic Community Health Study/Study of Latinos</title>
+      <link>https://doi.org/10.1093/aje/kwag139</link>
+      <guid isPermaLink="false">10.1093/aje/kwag139</guid>
+
+      <dc:creator>Kenny Mendoza</dc:creator>
+      <dc:creator>Abrania Marrero</dc:creator>
+      <dc:creator>Martha Tamez</dc:creator>
+      <dc:creator>Alan Espinosa</dc:creator>
+      <dc:creator>Daniela Sotres-Alvarez</dc:creator>
+      <dc:creator>Amanda C McClain</dc:creator>
+      <dc:creator>Christina Cordero</dc:creator>
+      <dc:creator>Tali Elfassy</dc:creator>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kenny Mendoza, Abrania Marrero, Martha Tamez, Alan Espinosa, Daniela Sotres-Alvarez, Amanda C McClain, Christina Cordero, Tali Elfassy, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag139
+
+Abstract: Abstract We assessed associations of total and group-specific ultraprocessed food (UPF) intake with type 2 diabetes (T2D) incidence in the Hispanic Community Health Study/Study of Latinos, overall and with a priori stratification by Hispanic/Latino heritage, US nativity, body mass index categories, and diet quality measured by tertiles of the Alternative Healthy Eating Index (AHEI). Data entailed 8010 adults, completing follow-up (2014-2017), and without baseline (2008-2011) diabetes, cardiovascular disease, and/or cancer (mean follow-up: 5.8 years). Baseline 24-hour dietary recalls and food propensity questionnaires assessed UPF intakes (% of diet weight) defined by the Nova framework. Self-report, antidiabetes medications, and standard biomarker thresholds defined incident T2D. Poisson models adjusted for sociodemographic, acculturation, lifestyle, energy intake, and diabetes family history variables estimated incidence rate ratios (95% CI) of T2D per 10 percentage-point increase in total UPF intake and 1-SD increase in inverse normal transformed UPF group intakes. Ultraprocessed food constituted 19.8% of diet weight. Each 10-percentage-point increase in UPF was associated with 1.16 (1.01-1.34) higher T2D incidence overall (1273 cases). In stratified analyses, associations remained only for Puerto Ricans (1.22; 1.01-1.47), US-born persons (1.26; 1.03-1.54), and those with overweight/obesity (1.16; 1.01-1.35). Regarding UPF groups, artificially sweetened beverages and processed poultry/fish were associated with a higher incidence of T2D in the overall sample. Among Puerto Ricans, US-born participants, and persons in the lowest AHEI tertile, ultraprocessed bread/cereals, soft drinks, poultry/fish, and hard liquors were associated with a higher incidence of T2D, whereas ultraprocessed sweet snacks, desserts, and spreads and savory snacks were associated with lower incidence. Limiting UPF is associated with lower T2D incidence among US Hispanics/Latinos, particularly Puerto Rican and US-born participants. Attention to group-specific UPF intake is warranted.</description>
     </item>
     <item>
       <title>Hyperemesis gravidarum and adverse pregnancy outcomes: a population-based cohort study of 2.5 million births in California</title>
@@ -1113,24 +1170,6 @@ Abstract: Abstract Depression has been associated with magnetic resonance imagin
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2323-2324</description>
     </item>
     <item>
-      <title>Postpartum depression in fathers: prevalence and evaluation of selection bias in the HOPE cohort</title>
-      <link>https://doi.org/10.1093/aje/kwag133</link>
-      <guid isPermaLink="false">10.1093/aje/kwag133</guid>
-
-      <dc:creator>Clara Tosti Bæk</dc:creator>
-      <dc:creator>Trine Munk-Olsen</dc:creator>
-      <dc:creator>Merete Lund Mægbæk</dc:creator>
-      <dc:creator>Kathrine Bang Madsen</dc:creator>
-      <dc:creator>Sofie Egsgaard</dc:creator>
-      <dc:creator>Mette-Marie Zacher Kjeldsen</dc:creator>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Clara Tosti Bæk, Trine Munk-Olsen, Merete Lund Mægbæk, Kathrine Bang Madsen, Sofie Egsgaard, Mette-Marie Zacher Kjeldsen
-
-Journal: American Journal of Epidemiology; Article number: kwag133
-
-Abstract: Abstract Postpartum depression (PPD) affects both mothers and fathers, yet research on paternal PPD remains limited. The HOPE cohort includes PPD screenings using the Edinburgh Postnatal Depression Scale (EPDS) from parents in 67 of 98 Danish municipalities (2015-2021). It is the largest cohort to include fathers, and linkage with nationwide health registers provides information on PPD diagnoses, sociodemographic, and health-related factors. This cohort study aimed to evaluate potential selection bias of fathers in the HOPE cohort by comparing selected characteristics with the Danish paternal background population and estimating relative odds ratios (RORs) for 3 perinatal associations using logistic regression. In addition, we report the prevalence of paternal PPD in the HOPE cohort. In the HOPE cohort comprising 46 174 childbirths and 42 680 unique fathers, 3.29% had a positive EPDS screening, 2.69% had a registered PPD diagnosis, and 0.49% had both. Fathers in the cohort resembled the background population (444 339 childbirths) across most characteristics; however, fathers of non-Danish origin were markedly underrepresented. Relative odds ratio showed no substantial differences, indicating minimal selection bias across the examined perinatal associations. Our findings suggest that fathers in the HOPE cohort are representative of fathers in the Danish background population, supporting the cohort’s use for future research related to paternal mental health.</description>
-    </item>
-    <item>
       <title>Evaluating statistical models for overdispersed multiomics data: a multiplex immunofluorescence case study</title>
       <link>https://doi.org/10.1093/aje/kwag127</link>
       <guid isPermaLink="false">10.1093/aje/kwag127</guid>
@@ -1149,6 +1188,24 @@ Abstract: Abstract Postpartum depression (PPD) affects both mothers and fathers,
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2307-2318
 
 Abstract: Abstract Multiomic data analysis poses statistical challenges. We evaluated statistical models for our multiplex immunofluorescence study of T cell subset densities in colorectal cancer. Using 1235 cases, we compared 7 models—ordinal logistic regression, Poisson, quasi-Poisson, quadratic negative binomial (NB), linear NB, zero-inflated NB, and hurdle NB models—assessing associations with a strong (microsatellite instability, MSI) and a weak (calcium intake) exposure. Simulation studies assessed type I error and power. Effect estimates were generally consistent for the strong exposure (MSI) but varied for the weaker exposure (calcium). Simulations revealed inflated false-positive rates for the Poisson and NB-based models, including quadratic NB, zero-inflated, and hurdle, but not for ordinal logistic regression or the linear NB model. The quasi-Poisson model showed modest inflation of low P-values, but the overall P-value distribution remained approximately uniform under the null. Ordinal logistic, linear NB, and quasi-Poisson models achieved the best or near-best power across a range of zero proportions, dispersion levels, and distributions. The ordinal logistic, linear NB, and quasi-Poisson models are useful and robust options for epidemiologic analyses of overdispersed, right-skewed multiomic data with a nontrivial proportion of zero counts.</description>
+    </item>
+    <item>
+      <title>Postpartum depression in fathers: prevalence and evaluation of selection bias in the HOPE cohort</title>
+      <link>https://doi.org/10.1093/aje/kwag133</link>
+      <guid isPermaLink="false">10.1093/aje/kwag133</guid>
+
+      <dc:creator>Clara Tosti Bæk</dc:creator>
+      <dc:creator>Trine Munk-Olsen</dc:creator>
+      <dc:creator>Merete Lund Mægbæk</dc:creator>
+      <dc:creator>Kathrine Bang Madsen</dc:creator>
+      <dc:creator>Sofie Egsgaard</dc:creator>
+      <dc:creator>Mette-Marie Zacher Kjeldsen</dc:creator>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Clara Tosti Bæk, Trine Munk-Olsen, Merete Lund Mægbæk, Kathrine Bang Madsen, Sofie Egsgaard, Mette-Marie Zacher Kjeldsen
+
+Journal: American Journal of Epidemiology; Article number: kwag133
+
+Abstract: Abstract Postpartum depression (PPD) affects both mothers and fathers, yet research on paternal PPD remains limited. The HOPE cohort includes PPD screenings using the Edinburgh Postnatal Depression Scale (EPDS) from parents in 67 of 98 Danish municipalities (2015-2021). It is the largest cohort to include fathers, and linkage with nationwide health registers provides information on PPD diagnoses, sociodemographic, and health-related factors. This cohort study aimed to evaluate potential selection bias of fathers in the HOPE cohort by comparing selected characteristics with the Danish paternal background population and estimating relative odds ratios (RORs) for 3 perinatal associations using logistic regression. In addition, we report the prevalence of paternal PPD in the HOPE cohort. In the HOPE cohort comprising 46 174 childbirths and 42 680 unique fathers, 3.29% had a positive EPDS screening, 2.69% had a registered PPD diagnosis, and 0.49% had both. Fathers in the cohort resembled the background population (444 339 childbirths) across most characteristics; however, fathers of non-Danish origin were markedly underrepresented. Relative odds ratio showed no substantial differences, indicating minimal selection bias across the examined perinatal associations. Our findings suggest that fathers in the HOPE cohort are representative of fathers in the Danish background population, supporting the cohort’s use for future research related to paternal mental health.</description>
     </item>
     <item>
       <title>Antibiotic treatment for non-specific upper respiratory tract infections and exacerbation risk in children with asthma: a target trial emulation study</title>
@@ -1171,26 +1228,6 @@ Journal: American Journal of Epidemiology; Article number: kwag132
 Abstract: Abstract Antibiotics are often prescribed to children with asthma for non-specific upper respiratory tract infections (NS-URTIs), but their association with exacerbation risk in children with pre-existing asthma is unclear. We aimed to determine if antibiotics are associated with asthma exacerbation risk in the 6 months following NS-URTI resolution. Using Quebec administrative health and drug claims data, we emulated a series of target trials among children (0-17 years) with asthma visiting an outpatient physician for an NS-URTI. Treatment strategies were no, narrow-, or broad-spectrum antibiotics initiated within 3 days following the index visit. The primary outcome was exacerbation during the 6 months following an initial 10-day induction period, defined as oral corticosteroid use, emergency department visits, or hospitalizations for asthma. Risk ratios (RR) and differences (RDs) were estimated using inverse probability of treatment weighted log-binomial models. Among 13 646 children (24 139 person-trials), 8.8% and 11.4% received narrow- and broad-spectrum antibiotics, respectively. Compared with no antibiotics, narrow-spectrum antibiotics were associated with an RR of 1.26 (95%CI, 0.99-1.53; RD, 0.07%), while broad-spectrum antibiotics were associated with an RR of 1.28 (95%CI, 1.03-1.54; RD, 0.08%). Broad-spectrum antibiotics were associated with modestly higher exacerbation risks, although absolute RDs were small (&amp;amp;lt;0.1%).</description>
     </item>
     <item>
-      <title>Handling of multicohort data in pooled analysis of environmental exposures: confounding by cohort of the relationship between perfluoroalkyl substances and birthweight in the ECHO Program</title>
-      <link>https://doi.org/10.1093/aje/kwag131</link>
-      <guid isPermaLink="false">10.1093/aje/kwag131</guid>
-
-      <dc:creator>Andreas M Neophytou</dc:creator>
-      <dc:creator>Sheryl Magzamen</dc:creator>
-      <dc:creator>Brianna F Moore</dc:creator>
-      <dc:creator>Akram Alshawabkeh</dc:creator>
-      <dc:creator>Carrie V Breton</dc:creator>
-      <dc:creator>Alison E Hipwell</dc:creator>
-      <dc:creator>Kristen Lyall</dc:creator>
-      <dc:creator>John D Meeker</dc:creator>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andreas M Neophytou, Sheryl Magzamen, Brianna F Moore, Akram Alshawabkeh, Carrie V Breton, Alison E Hipwell, Kristen Lyall, John D Meeker, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag131
-
-Abstract: Abstract The relationship between exposure to perfluoroalkyl substances (PFAS) and birthweight remains unclear. Pooling data across multiple cohorts can increase power, leading to more representative populations and exposure distributions, but confounding by cohort can be a major source of bias. To understand this potential bias, we assessed the relationship between exposure to five PFAS and birthweight utilizing data from 5480 mother-infant dyads across 17 Environmental influences on Child Health Outcomes (ECHO) Cohort sites. The relationship was assessed in several ways: covariate-adjusted models without cohort adjustment as well as adjustment via fixed and random effects. Findings from analysis with cohort adjustment resulted in significantly inverse relationships for four of the five PFAS considered. Adjustment via fixed and random effects produced similar findings. Failure to adjust for cohort resulted in bias of varying direction and magnitude depending on the PFAS considered. Results were supported in simulated data. In this study, we saw evidence of confounding bias by cohort even after adjustment for covariates, while adjustment by both fixed and random effects for cohort resulted in comparable results.</description>
-    </item>
-    <item>
       <title>PEPRVision: a visualization framework for pharmacoepidemiology research</title>
       <link>https://doi.org/10.1093/aje/kwag121</link>
       <guid isPermaLink="false">10.1093/aje/kwag121</guid>
@@ -1209,6 +1246,26 @@ Abstract: Abstract The relationship between exposure to perfluoroalkyl substance
 Journal: American Journal of Epidemiology; Article number: kwag121
 
 Abstract: Abstract Medical chart review is commonly used in epidemiologic research to evaluate health outcomes, refine measurement algorithms, and identify potential study biases. In pharmacoepidemiology research, administrative claims and other structured healthcare databases provide longitudinal detail suitable for similar purposes but are typically presented in tabular formats that are cumbersome to interpret. This study introduces PEPRVision, a visualization framework that transforms structured longitudinal healthcare data into intuitive graphics to support patient-profile review in pharmacoepidemiology research. PEPRVision was developed based on principles of preattentive visual processing, leveraging visual attributes such as color, spatial position, shape, and length to facilitate rapid pattern recognition. We demonstrated PEPRVision using United States administrative claims data through 4 case studies: (1) evaluating a claims-based algorithm for measuring congenital hearing loss, (2) enhancing study design decisions by identifying reverse causation in a drug-safety study, (3) assessing the face validity of signals of potential teratogenicity detected through data mining for triage for advancement to causal inference studies, and (4) identifying mechanisms of inappropriate prenatal exposure to teratogenic medications to inform improvements in risk-mitigation strategies. As a complement to population-based causal inference studies, PEPRVision facilitates review of patient-level variation, enhancing the validity and clinical relevance of pharmacoepidemiology research.</description>
+    </item>
+    <item>
+      <title>Handling of multicohort data in pooled analysis of environmental exposures: confounding by cohort of the relationship between perfluoroalkyl substances and birthweight in the ECHO Program</title>
+      <link>https://doi.org/10.1093/aje/kwag131</link>
+      <guid isPermaLink="false">10.1093/aje/kwag131</guid>
+
+      <dc:creator>Andreas M Neophytou</dc:creator>
+      <dc:creator>Sheryl Magzamen</dc:creator>
+      <dc:creator>Brianna F Moore</dc:creator>
+      <dc:creator>Akram Alshawabkeh</dc:creator>
+      <dc:creator>Carrie V Breton</dc:creator>
+      <dc:creator>Alison E Hipwell</dc:creator>
+      <dc:creator>Kristen Lyall</dc:creator>
+      <dc:creator>John D Meeker</dc:creator>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andreas M Neophytou, Sheryl Magzamen, Brianna F Moore, Akram Alshawabkeh, Carrie V Breton, Alison E Hipwell, Kristen Lyall, John D Meeker, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag131
+
+Abstract: Abstract The relationship between exposure to perfluoroalkyl substances (PFAS) and birthweight remains unclear. Pooling data across multiple cohorts can increase power, leading to more representative populations and exposure distributions, but confounding by cohort can be a major source of bias. To understand this potential bias, we assessed the relationship between exposure to five PFAS and birthweight utilizing data from 5480 mother-infant dyads across 17 Environmental influences on Child Health Outcomes (ECHO) Cohort sites. The relationship was assessed in several ways: covariate-adjusted models without cohort adjustment as well as adjustment via fixed and random effects. Findings from analysis with cohort adjustment resulted in significantly inverse relationships for four of the five PFAS considered. Adjustment via fixed and random effects produced similar findings. Failure to adjust for cohort resulted in bias of varying direction and magnitude depending on the PFAS considered. Results were supported in simulated data. In this study, we saw evidence of confounding bias by cohort even after adjustment for covariates, while adjustment by both fixed and random effects for cohort resulted in comparable results.</description>
     </item>
     <item>
       <title>Streetview greenspace types and dementia risk in older adults: the Multi-Ethnic Study of Atherosclerosis</title>
@@ -1245,24 +1302,6 @@ Abstract: Abstract Greenspace has been associated with lower dementia risk, but 
 Journal: American Journal of Epidemiology; Article number: kwag122</description>
     </item>
     <item>
-      <title>Road traffic crashes after implementation of the Congestion Relief Zone in New York City</title>
-      <link>https://doi.org/10.1093/aje/kwag090</link>
-      <guid isPermaLink="false">10.1093/aje/kwag090</guid>
-
-      <dc:creator>Nicole G Itzkowitz</dc:creator>
-      <dc:creator>Leah Roberts</dc:creator>
-      <dc:creator>Guohua Li</dc:creator>
-      <dc:creator>Andrew G Rundle</dc:creator>
-      <dc:creator>Joyce C Pressley</dc:creator>
-      <dc:creator>Kathryn G Burford</dc:creator>
-      <dc:creator>Siddhesh Zadey</dc:creator>
-      <dc:creator>Adam Whalen</dc:creator>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nicole G Itzkowitz, Leah Roberts, Guohua Li, Andrew G Rundle, Joyce C Pressley, Kathryn G Burford, Siddhesh Zadey, Adam Whalen, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag090</description>
-    </item>
-    <item>
       <title>Bidirectional associations of screen time with externalizing and internalizing behaviors in children: a random intercept cross-lagged panel model</title>
       <link>https://doi.org/10.1093/aje/kwag025</link>
       <guid isPermaLink="false">10.1093/aje/kwag025</guid>
@@ -1283,6 +1322,24 @@ Journal: American Journal of Epidemiology; Article number: kwag025
 Abstract: Abstract We aimed to examine the longitudinal and directional associations of children’s screen time (ST) with their extensive behavior scales at ages 2, 3, 4, and 5. This study was a part of the Tohoku Medical Megabank Project Birth and Three-Generation Cohort Study. Information was gathered prospectively, and 7747 mother–child pairs were included. Analyses using random-intercept cross-lagged panel models were performed for children aged 2, 3, 4, and 5 years. Information on children’s ST at ages 2, 3, 4, and 5 was collected from questionnaires completed by caregivers. We assessed children’s behavior using the Child Behavior Checklist for Ages 1½-5 at ages 2, 3, 4, and 5 years. This study targeted scores on externalizing behavior and its 2 subscales (aggressive behavior and attention problems), and internalizing behavior and its 4 subscales (withdrawal, somatic complaints, anxious/depressed, and emotional responses). As a result, higher than expected ST at age 2 was consistently associated with all behavioral scales at age 3. At later ages, specific bidirectional associations were identified for each behavioral scale and age group. These findings may offer preliminary guidance for future discussions on age-appropriate screen use recommendations and family media practices.</description>
     </item>
     <item>
+      <title>Road traffic crashes after implementation of the Congestion Relief Zone in New York City</title>
+      <link>https://doi.org/10.1093/aje/kwag090</link>
+      <guid isPermaLink="false">10.1093/aje/kwag090</guid>
+
+      <dc:creator>Nicole G Itzkowitz</dc:creator>
+      <dc:creator>Leah Roberts</dc:creator>
+      <dc:creator>Guohua Li</dc:creator>
+      <dc:creator>Andrew G Rundle</dc:creator>
+      <dc:creator>Joyce C Pressley</dc:creator>
+      <dc:creator>Kathryn G Burford</dc:creator>
+      <dc:creator>Siddhesh Zadey</dc:creator>
+      <dc:creator>Adam Whalen</dc:creator>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Nicole G Itzkowitz, Leah Roberts, Guohua Li, Andrew G Rundle, Joyce C Pressley, Kathryn G Burford, Siddhesh Zadey, Adam Whalen, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag090</description>
+    </item>
+    <item>
       <title>The impact of using different random-effects models in meta-analysis: a case study on the cognitive functioning of preterm-born children</title>
       <link>https://doi.org/10.1093/aje/kwag120</link>
       <guid isPermaLink="false">10.1093/aje/kwag120</guid>
@@ -1297,6 +1354,22 @@ Abstract: Abstract We aimed to examine the longitudinal and directional associat
 Journal: American Journal of Epidemiology; Article number: kwag120
 
 Abstract: Abstract Random-effects meta-analysis typically assumes a normal distribution for the underlying effects of the studies. However, under certain conditions, this assumption may not be the most appropriate. Simulation studies comparing several alternative random-effects models have found small differences in bias but larger differences in coverage probabilities and precision. To investigate the impact of using different meta-analysis models, we used a meta-analysis of 58 cohort studies comparing the cognitive functioning between preterm- and term-born children. We compared the results between 7 different random-effects models based on asymmetric distributions, mixtures of distributions, and Dirichlet process (DP) prior. Sensitivity analysis using variations of the 7 main models was also performed. While estimates for mean treatment effect were similar across models, the between-study variance estimates were identical. Asymmetric distribution models indicated studies with extreme effects and a left-shifted random-effects distribution while mixture models were less informative. DP models revealed clusters of studies with similar characteristics, suggesting that the observed heterogeneity may be partially explained by certain methodological and clinical characteristics of the studies. Overall, our study highlights that applying various meta-analysis models might not affect materially the summary estimates but may provide better insights into the underlying effects’ distribution and the explanation of between-study variance.</description>
+    </item>
+    <item>
+      <title>Possible selection bias in Mendelian randomization studies: effect of body mass index on breast cancer as an example</title>
+      <link>https://doi.org/10.1093/aje/kwag125</link>
+      <guid isPermaLink="false">10.1093/aje/kwag125</guid>
+
+      <dc:creator>Kezhen Fei</dc:creator>
+      <dc:creator>Chloe A Teasdale</dc:creator>
+      <dc:creator>Mary Beth Terry</dc:creator>
+      <dc:creator>C Mary Schooling</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kezhen Fei, Chloe A Teasdale, Mary Beth Terry, C Mary Schooling
+
+Journal: American Journal of Epidemiology; Article number: kwag125
+
+Abstract: Abstract The inverse association of body mass index (BMI) with postmenopausal breast cancer (BC) risk observed in Mendelian Randomization (MR) studies contradicts the International Agency for Research on Cancer (IARC) classification of high BMI as a risk factor for postmenopausal BC. We investigated whether this discrepancy stems from survival-driven selection bias in the underlying GWAS. Using summary statistics from three different GWAS, higher genetically predicted BMI was inversely associated with BC risk in the BCAC consortium (odds ratio (OR): 0.74, 95% CI: 0.64, 0.84) and the UK Biobank (OR: 0.70, 95% CI: 0.56, 0.87), but showed no relationship with sibling BC (BCs) risk (OR: 1.00, 95% CI: 0.99, 1.01). These findings demonstrate that previous MR studies may suffer from selection bias driven by survivorship bias. This highlights a critical methodological vulnerability in MR studies when both exposure and outcome cause premature mortality, and the underlying population is not fully captured by current GWAS.</description>
     </item>
     <item>
       <title>Association of cultural racism with breast cancer survival among US adults, 2018-2020</title>
@@ -1316,22 +1389,6 @@ Abstract: Abstract Random-effects meta-analysis typically assumes a normal distr
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2212-2221
 
 Abstract: Abstract There are marked racial/ethnic disparities in breast cancer mortality. Cultural racism, expressed through societal norms, stereotypes, and implicit biases, may contribute. We utilized a previously validated state-level multidomain latent measure, the cultural racism factor (CRF). Using data from the Surveillance, Epidemiology, and End Results Program (2018-2020), we evaluated associations between CRF and risk of death using Cox proportional hazards (PH) model with state as random effect. We examined time-varying effects and conducted race- and ethnicity-stratified analyses. Among 225 991 patients, 63% were non-Hispanic (NH) White, 12% were NH Black, and 16% were Hispanic. In the overall cohort, patients in higher CRF states experienced 8% higher risk of death per unit increase in CRF after adjusting for covariates (aHR = 1.08; 95% CI, 1.05-1.11). Time-varying models revealed strongest effects early in follow-up (baseline HR = 1.30; 95% CI, 1.08-1.57), with attenuation over time (interaction HR = 0.99; 95% CI, 0.99-1.00). NH Black women exhibited a pattern suggestive of early elevated mortality risk that attenuated over follow-up (baseline HR = 1.14; 95% CI, 0.96-1.35; interaction HR = 0.99; 95% CI, 0.97-1.00). In conclusion, cultural racism is associated with breast cancer survival at the population level, with the strongest time-dependent effects observed early in follow-up.</description>
-    </item>
-    <item>
-      <title>Possible selection bias in Mendelian randomization studies: effect of body mass index on breast cancer as an example</title>
-      <link>https://doi.org/10.1093/aje/kwag125</link>
-      <guid isPermaLink="false">10.1093/aje/kwag125</guid>
-
-      <dc:creator>Kezhen Fei</dc:creator>
-      <dc:creator>Chloe A Teasdale</dc:creator>
-      <dc:creator>Mary Beth Terry</dc:creator>
-      <dc:creator>C Mary Schooling</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kezhen Fei, Chloe A Teasdale, Mary Beth Terry, C Mary Schooling
-
-Journal: American Journal of Epidemiology; Article number: kwag125
-
-Abstract: Abstract The inverse association of body mass index (BMI) with postmenopausal breast cancer (BC) risk observed in Mendelian Randomization (MR) studies contradicts the International Agency for Research on Cancer (IARC) classification of high BMI as a risk factor for postmenopausal BC. We investigated whether this discrepancy stems from survival-driven selection bias in the underlying GWAS. Using summary statistics from three different GWAS, higher genetically predicted BMI was inversely associated with BC risk in the BCAC consortium (odds ratio (OR): 0.74, 95% CI: 0.64, 0.84) and the UK Biobank (OR: 0.70, 95% CI: 0.56, 0.87), but showed no relationship with sibling BC (BCs) risk (OR: 1.00, 95% CI: 0.99, 1.01). These findings demonstrate that previous MR studies may suffer from selection bias driven by survivorship bias. This highlights a critical methodological vulnerability in MR studies when both exposure and outcome cause premature mortality, and the underlying population is not fully captured by current GWAS.</description>
     </item>
     <item>
       <title>Longitudinal associations of the gut microbiome with arterial stiffness in US adults: findings from the Baltimore Longitudinal Study of Aging</title>
@@ -1409,6 +1466,23 @@ Journal: American Journal of Epidemiology; Article number: kwag116
 Abstract: Abstract Most people with dementia live in low- and middle-income countries (LMICs), underscoring the need for LMIC-specific identification of high-risk individuals. This study aimed to develop and validate a simple dementia risk prediction model for these settings. Data from 7 10/66 Study sites were analyzed. Over 100 candidate predictors were screened based on existing models and the 2024 Lancet Commission, including LMIC-specific variables (eg, food insecurity and household assets). Predictors were selected using LASSO and modelled with the Fine–Gray method to generate a risk score. Predictive accuracy was pooled via meta-analysis. Eleven thousand one hundred forty-three participants were included, among whom 1069 (9.6%) developed dementia during follow-up. A 5-factor risk score comprising age, social engagement, physical activity, hypertension, and difficulty in handling money was developed. The pooled c-statistic was 0.75 (95% CI, 0.72-0.78), with good calibration across sites. Decision curve analysis showed a modest net benefit, with variation across countries. It is possible to predict incident dementia with reasonable accuracy using a simple model across different LMICs. Our findings support the use of context-specific risk assessment tools to identify individuals at elevated dementia risk in LMIC settings, which may inform resource allocation for dementia care services and public health planning.</description>
     </item>
     <item>
+      <title>Drug treatment and incident sexually transmitted infections among people who use drugs: a prospective analysis of gender differences</title>
+      <link>https://doi.org/10.1093/aje/kwag111</link>
+      <guid isPermaLink="false">10.1093/aje/kwag111</guid>
+
+      <dc:creator>Joy D Scheidell</dc:creator>
+      <dc:creator>Bedis Elkamel</dc:creator>
+      <dc:creator>Anne M Moore</dc:creator>
+      <dc:creator>Ariana Valentin</dc:creator>
+      <dc:creator>Jacob Bleasdale</dc:creator>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Joy D Scheidell, Bedis Elkamel, Anne M Moore, Ariana Valentin, Jacob Bleasdale
+
+Journal: American Journal of Epidemiology; Article number: kwag111
+
+Abstract: Abstract Rates of bacterial sexually transmitted infections (STIs) and substance use–related harms have risen sharply in the United States, yet little is known about whether drug treatment affects STI risk among people who use drugs. We analyzed prospective data from 2142 participants who reported illicit drug use at baseline in Project AWARE recruited from 9 STI clinics nationwide. We examined associations between self-reported drug treatment in the past 6 months at baseline and biologically confirmed incident STI at 6-month follow-up, overall and by gender, using inverse probability of treatment weighting to estimate average treatment effects (ATE) and average treatment effects among the treated (ATT). At baseline, 14% reported drug treatment. In unadjusted models, drug treatment was associated with higher STI risk (RR = 1.43, 95% CI: 1.09, 1.88), driven by laboratory-identified infections. After weighting, the ATE was attenuated (RR = 1.37, 95% CI: 0.91, 2.07) and the ATT was null. Gender-stratified analyses suggested elevated STI risk among women in unadjusted models, but weighted estimates were nonsignificant, although clinically diagnosed STIs were less common among women in drug treatment. Findings indicate complex, gender-specific relationships between drug treatment and STI risk and underscore the need for integrated, gender-responsive STI prevention within drug treatment settings.</description>
+    </item>
+    <item>
       <title>Leveraging electronic health record data to evidence collider stratification bias and inform clinical epidemiology: obesity, diabetes, and rotator cuff tears</title>
       <link>https://doi.org/10.1093/aje/kwag117</link>
       <guid isPermaLink="false">10.1093/aje/kwag117</guid>
@@ -1429,39 +1503,19 @@ Journal: American Journal of Epidemiology; Article number: kwag117
 Abstract: Abstract Electronic health record (EHR) data are increasingly used for case–control investigations. Using multiple control groups in de-identified EHR data, we evidence how conditioning on imaging (descendant of a collider: symptomatology) can perturb exposure estimations enough to reverse conclusions. Because imaging is often required for rotator cuff tear diagnosis, some argue imaging should be required for control selection. We constructed 2 control groups (with vs without imaging) to evaluate selection bias through collider stratification involving metabolic exposures—body mass index (BMI), type 1 diabetes (T1D), and type 2 diabetes (T2D)—and rotator cuff tears. Cases and controls were identified using validated algorithms. We compared baseline characteristics and performed multivariable logistic regression across designs. Cases were older and more likely to have arthritis (57%), ligamentous disease (9%), and prior shoulder injury (99%) than controls. Controls requiring imaging more closely resembled cases than controls not requiring imaging, with more arthritis (9% vs 1%), ligamentous disease (6% vs 2%), and prior shoulder injury (54% vs 7%). T1D prevalence was 3% in cases, 4% in controls with imaging, and 1% in controls without, compared to ~1% nationally. T1D was positively associated with tears using controls without imaging (aOR = 1.78; 95% CI, 1.64-1.92), but inversely using controls with imaging (aOR = 0.75; 0.57-0.97).</description>
     </item>
     <item>
-      <title>Drug treatment and incident sexually transmitted infections among people who use drugs: a prospective analysis of gender differences</title>
-      <link>https://doi.org/10.1093/aje/kwag111</link>
-      <guid isPermaLink="false">10.1093/aje/kwag111</guid>
+      <title>From track to traffic: a natural experiment on speed contagion following Montreal’s F1 Grand Prix</title>
+      <link>https://doi.org/10.1093/aje/kwag115</link>
+      <guid isPermaLink="false">10.1093/aje/kwag115</guid>
 
-      <dc:creator>Joy D Scheidell</dc:creator>
-      <dc:creator>Bedis Elkamel</dc:creator>
-      <dc:creator>Anne M Moore</dc:creator>
-      <dc:creator>Ariana Valentin</dc:creator>
-      <dc:creator>Jacob Bleasdale</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Joy D Scheidell, Bedis Elkamel, Anne M Moore, Ariana Valentin, Jacob Bleasdale
-
-Journal: American Journal of Epidemiology; Article number: kwag111
-
-Abstract: Abstract Rates of bacterial sexually transmitted infections (STIs) and substance use–related harms have risen sharply in the United States, yet little is known about whether drug treatment affects STI risk among people who use drugs. We analyzed prospective data from 2142 participants who reported illicit drug use at baseline in Project AWARE recruited from 9 STI clinics nationwide. We examined associations between self-reported drug treatment in the past 6 months at baseline and biologically confirmed incident STI at 6-month follow-up, overall and by gender, using inverse probability of treatment weighting to estimate average treatment effects (ATE) and average treatment effects among the treated (ATT). At baseline, 14% reported drug treatment. In unadjusted models, drug treatment was associated with higher STI risk (RR = 1.43, 95% CI: 1.09, 1.88), driven by laboratory-identified infections. After weighting, the ATE was attenuated (RR = 1.37, 95% CI: 0.91, 2.07) and the ATT was null. Gender-stratified analyses suggested elevated STI risk among women in unadjusted models, but weighted estimates were nonsignificant, although clinically diagnosed STIs were less common among women in drug treatment. Findings indicate complex, gender-specific relationships between drug treatment and STI risk and underscore the need for integrated, gender-responsive STI prevention within drug treatment settings.</description>
-    </item>
-    <item>
-      <title>Trajectories of reproductive events from menarche to menopause: identifying patterns and differences by childhood maltreatment and socioeconomic position</title>
-      <link>https://doi.org/10.1093/aje/kwag113</link>
-      <guid isPermaLink="false">10.1093/aje/kwag113</guid>
-
-      <dc:creator>Kaitlyn K Stanhope</dc:creator>
-      <dc:creator>Audrey J Gaskins</dc:creator>
-      <dc:creator>Catherine Kim</dc:creator>
-      <dc:creator>Cora E Lewis</dc:creator>
-      <dc:creator>Shakira F Suglia</dc:creator>
-      <dc:creator>Erica P Gunderson</dc:creator>
+      <dc:creator>Andrés González-Santa Cruz</dc:creator>
+      <dc:creator>Alvaro Castillo-Carniglia</dc:creator>
+      <dc:creator>José Ignacio Nazif-Muñoz</dc:creator>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kaitlyn K Stanhope, Audrey J Gaskins, Catherine Kim, Cora E Lewis, Shakira F Suglia, Erica P Gunderson
+      <description>Authors: Andrés González-Santa Cruz, Alvaro Castillo-Carniglia, José Ignacio Nazif-Muñoz
 
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2148-2157
+Journal: American Journal of Epidemiology; Article number: kwag115
 
-Abstract: Abstract To identify unique trajectories of reproductive events across the life course and determine if childhood socioeconomic position (SEP) or childhood maltreatment, independently or jointly, are associated with trajectory membership. We used data from the Coronary Artery Risk Development in Young Adults study (n = 2787). We fit group-based trajectory models for self-reported reproductive events (complicated/uncomplicated pregnancies, irregular menses, contraceptive use) to assign individuals to a reproductive events trajectory. We determined associations with self-reported childhood maltreatment and childhood SEP and their interactions using Poisson regression with robust standard errors controlling for baseline age and self-reported race (Black or White). We identified 3 trajectories (n1 = 1039; n2 = 778; n3 = 970). Group 3 had the youngest age at first pregnancy (mean 20.3 years vs. 28.3 and 31.7 for groups 2 and 1, respectively), highest parity, and lowest risk of complications. Individuals reporting childhood maltreatment and low SEP had 1.48 times the risk of belonging to group 3 versus group 2 (1.48 (1.28, 1.71) compared to those reporting neither. Childhood maltreatment and low childhood SEP were both associated with belonging to an earlier childbearing group.</description>
+Abstract: Abstract Major sporting events may influence traffic safety by affecting driver behavior and collision risk. We examined whether the Montreal Formula 1 Canadian Grand Prix weekend was associated with changes in high-speed motor vehicle collisions in Quebec (2000-2022). Using a space–time–stratified case-crossover-control design, we analyzed police-reported speeding collisions in host (Montreal, Laval, Longueuil) and nonhost municipalities (Quebec City, Sherbrooke). The exposure window was Thursday–Sunday of race weekend vs. the same weekdays two weeks earlier, with 2-day lagged outcomes (ie, Saturday–Tuesday). Conditional quasi-Poisson regression estimated rate ratios (RR), adjusting for temperature and precipitation. Host municipalities showed increased high-speed collisions (RR = 1.37; 95% CI: 1.12-1.69), resulting in 82 cumulative excess collisions (95% CI: 40-133), or four per event, whereas nonhost municipalities showed no change (RR = 1.01; 95% CI: 0.71-1.42). The host vs. nonhost municipality-years comparison yielded a consistent but less precise relative rate ratio (1.36; 95% CI: 0.91-2.04). Limitations include sparse data, small geographical-year units, and the inability to distinguish motorsport-specific from large-event effects. Our findings partially support the hypothesis that speed contagion contributes to collisions during Formula 1. Imprecise estimates warrant higher resolution analyses with additional case studies.</description>
     </item>
     <item>
       <title>Toward the Development of a Multilevel Measure of Structural Racism: Theory and Methods</title>
@@ -1501,19 +1555,22 @@ Journal: American Journal of Epidemiology; Article number: kwag114
 Abstract: Abstract Neurodegenerative diseases (NDDs) represent a growing cause of mortality and disability among aging populations worldwide. However, the relationship between cumulative, multidomain environmental exposures, and NDD mortality remains poorly characterized. This study aimed to examine the association between comprehensive environmental quality and NDD mortality in the United States. We used the environmental quality index (EQI) from 2000 to 2005 to characterize cumulative environmental exposure. Associations between EQI quintiles and NDD mortality, including dementia, Parkinson’s disease (PD), amyotrophic lateral sclerosis, and Huntington’s disease, were examined using Bayesian interval-censored mixed-effects models. During 2006-2020, among 3.66 million NDD deaths, poorer environmental quality (Q5 vs Q1) was associated with mortality rate differences of 24.72 (95% credible intervals [CrI]: 22.43, 27.06) per 100 000 at 5-year lag, 26.74 (95% CrI: 24.34, 29.21) at 10-year lag, and 22.74 (95% CrI: 20.49, 25.13) at 15-year lag. Within each lag period, a clear dose–response pattern was consistently observed across EQI quintiles. Furthermore, associations were most pronounced for the air quality, followed by sociodemographic disadvantage. In addition, demographic and geographic heterogeneity was observed across sex, race, census regions, urbanicity, climate zone, and county economic type. These findings underscore the need for integrated, place-based environmental health policies targeting neurodegeneration prevention.</description>
     </item>
     <item>
-      <title>From track to traffic: a natural experiment on speed contagion following Montreal’s F1 Grand Prix</title>
-      <link>https://doi.org/10.1093/aje/kwag115</link>
-      <guid isPermaLink="false">10.1093/aje/kwag115</guid>
+      <title>Trajectories of reproductive events from menarche to menopause: identifying patterns and differences by childhood maltreatment and socioeconomic position</title>
+      <link>https://doi.org/10.1093/aje/kwag113</link>
+      <guid isPermaLink="false">10.1093/aje/kwag113</guid>
 
-      <dc:creator>Andrés González-Santa Cruz</dc:creator>
-      <dc:creator>Alvaro Castillo-Carniglia</dc:creator>
-      <dc:creator>José Ignacio Nazif-Muñoz</dc:creator>
+      <dc:creator>Kaitlyn K Stanhope</dc:creator>
+      <dc:creator>Audrey J Gaskins</dc:creator>
+      <dc:creator>Catherine Kim</dc:creator>
+      <dc:creator>Cora E Lewis</dc:creator>
+      <dc:creator>Shakira F Suglia</dc:creator>
+      <dc:creator>Erica P Gunderson</dc:creator>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrés González-Santa Cruz, Alvaro Castillo-Carniglia, José Ignacio Nazif-Muñoz
+      <description>Authors: Kaitlyn K Stanhope, Audrey J Gaskins, Catherine Kim, Cora E Lewis, Shakira F Suglia, Erica P Gunderson
 
-Journal: American Journal of Epidemiology; Article number: kwag115
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2148-2157
 
-Abstract: Abstract Major sporting events may influence traffic safety by affecting driver behavior and collision risk. We examined whether the Montreal Formula 1 Canadian Grand Prix weekend was associated with changes in high-speed motor vehicle collisions in Quebec (2000-2022). Using a space–time–stratified case-crossover-control design, we analyzed police-reported speeding collisions in host (Montreal, Laval, Longueuil) and nonhost municipalities (Quebec City, Sherbrooke). The exposure window was Thursday–Sunday of race weekend vs. the same weekdays two weeks earlier, with 2-day lagged outcomes (ie, Saturday–Tuesday). Conditional quasi-Poisson regression estimated rate ratios (RR), adjusting for temperature and precipitation. Host municipalities showed increased high-speed collisions (RR = 1.37; 95% CI: 1.12-1.69), resulting in 82 cumulative excess collisions (95% CI: 40-133), or four per event, whereas nonhost municipalities showed no change (RR = 1.01; 95% CI: 0.71-1.42). The host vs. nonhost municipality-years comparison yielded a consistent but less precise relative rate ratio (1.36; 95% CI: 0.91-2.04). Limitations include sparse data, small geographical-year units, and the inability to distinguish motorsport-specific from large-event effects. Our findings partially support the hypothesis that speed contagion contributes to collisions during Formula 1. Imprecise estimates warrant higher resolution analyses with additional case studies.</description>
+Abstract: Abstract To identify unique trajectories of reproductive events across the life course and determine if childhood socioeconomic position (SEP) or childhood maltreatment, independently or jointly, are associated with trajectory membership. We used data from the Coronary Artery Risk Development in Young Adults study (n = 2787). We fit group-based trajectory models for self-reported reproductive events (complicated/uncomplicated pregnancies, irregular menses, contraceptive use) to assign individuals to a reproductive events trajectory. We determined associations with self-reported childhood maltreatment and childhood SEP and their interactions using Poisson regression with robust standard errors controlling for baseline age and self-reported race (Black or White). We identified 3 trajectories (n1 = 1039; n2 = 778; n3 = 970). Group 3 had the youngest age at first pregnancy (mean 20.3 years vs. 28.3 and 31.7 for groups 2 and 1, respectively), highest parity, and lowest risk of complications. Individuals reporting childhood maltreatment and low SEP had 1.48 times the risk of belonging to group 3 versus group 2 (1.48 (1.28, 1.71) compared to those reporting neither. Childhood maltreatment and low childhood SEP were both associated with belonging to an earlier childbearing group.</description>
     </item>
     <item>
       <title>Prenatal over-the-counter acetaminophen use and birth outcomes in the ECHO Cohort</title>
@@ -1536,49 +1593,24 @@ Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2158-21
 Abstract: Abstract Acetaminophen is among the most common over-the-counter medications used during pregnancy. Given inconsistent findings from both experimental and epidemiological studies on associations between use and adverse health outcomes, further research is warranted. To address this, our objective was to assess the relationship between prenatal acetaminophen use and birth outcomes. We studied 8957 mother–infant pairs from 36 pediatric study sites participating in the Environmental influences on Child Health Outcomes (ECHO) program. After imputation and inverse probability weighting, we used regression models to examine the relationship between acetaminophen during pregnancy and the following outcomes: (1) preterm birth, (2) birthweight, (3) small-for-gestational age (SGA), and (4) large-for-gestational-age (LGA). Approximately 59% of mothers reported using acetaminophen at any point during their pregnancy (n = 5257). After adjustment for relevant covariates, prenatal acetaminophen use was associated with lower odds of LGA (adjusted odds ratio [aOR]: 0.87; 95% CI: 0.79, 0.96). Prenatal acetaminophen use was not associated with preterm birth (aOR: 0.99; 95% CI: 0.86, 1.14), birthweight (aβ: −7.52 g; 95% CI: −27.80, 12.77) or SGA (aOR: 1.02; 95% CI: 0.88, 1.18). Based on these findings, future research should test for dose–response, trimester-specific exposures, and factors affecting individual responses.</description>
     </item>
     <item>
-      <title>Childhood maltreatment and 20-year trajectories of sleep disturbance among midlife women: the Study of Women’s Health Across the Nation</title>
-      <link>https://doi.org/10.1093/aje/kwag102</link>
-      <guid isPermaLink="false">10.1093/aje/kwag102</guid>
+      <title>Mortality risk and loss in life expectancy associated with poor oral health: a population-based epidemiologic follow-up study</title>
+      <link>https://doi.org/10.1093/aje/kwag109</link>
+      <guid isPermaLink="false">10.1093/aje/kwag109</guid>
 
-      <dc:creator>Caroline Y Doyle</dc:creator>
-      <dc:creator>Yuefang Chang</dc:creator>
-      <dc:creator>Howard M Kravitz</dc:creator>
-      <dc:creator>Nancy E Avis</dc:creator>
-      <dc:creator>Rebecca C Thurston</dc:creator>
+      <dc:creator>Ying Zhou</dc:creator>
+      <dc:creator>Juan Wang</dc:creator>
+      <dc:creator>Wen Hu</dc:creator>
+      <dc:creator>Shili Zhou</dc:creator>
+      <dc:creator>Hongkun Di</dc:creator>
+      <dc:creator>Qi Wu</dc:creator>
+      <dc:creator>Tianzhu Qin</dc:creator>
+      <dc:creator>Qingsong Ye</dc:creator>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Caroline Y Doyle, Yuefang Chang, Howard M Kravitz, Nancy E Avis, Rebecca C Thurston
+      <description>Authors: Ying Zhou, Juan Wang, Wen Hu, Shili Zhou, Hongkun Di, Qi Wu, Tianzhu Qin, Qingsong Ye, et al.
 
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2170-2178
+Journal: American Journal of Epidemiology; Article number: kwag109
 
-Abstract: Abstract Childhood maltreatment and adult sleep disturbance are significant, related public health concerns, but the extent to which they are associated over time is unknown. We investigated whether childhood maltreatment is associated with sleep disturbance over 20 years in a large, diverse, community sample of 1654 midlife women from 1996 to 2017 in a multicenter cohort study: The Study of Women’s Health Across the Nation. Childhood maltreatment was assessed via The Childhood Trauma Questionnaire, and insomnia symptoms were assessed via self-report at 14 visits. Insomnia symptom trajectories were derived using group-based trajectory modeling. Associations between childhood maltreatment and insomnia trajectories were evaluated via multinomial logistic regression. Four trajectories of insomnia symptoms were identified: consistently low, increasing, moderate/decreasing, and consistently high symptoms. Childhood maltreatment was associated with higher adjusted odds of moderate/decreasing (odds ratio [OR], 1.40; 95% CI, 1.05-1.87) and consistently high (OR, 2.06; 95% CI, 1.56-2.74) insomnia symptoms, respectively. Both physical and sexual abuse were associated with higher adjusted odds of moderate/decreasing and consistently high insomnia symptoms. Childhood maltreatment, particularly physical and sexual abuse, is associated with higher odds of chronic insomnia symptoms in women across midlife. These findings point to an at-risk population that may warrant early intervention to prevent and reduce disturbed sleep.</description>
-    </item>
-    <item>
-      <title>Taking heterogeneity seriously: Black immigrant life expectancy in the United States</title>
-      <link>https://doi.org/10.1093/aje/kwag108</link>
-      <guid isPermaLink="false">10.1093/aje/kwag108</guid>
-
-      <dc:creator>Elizabeth Wrigley-Field</dc:creator>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elizabeth Wrigley-Field
-
-Journal: American Journal of Epidemiology; Article number: kwag108
-
-Abstract: Abstract The article by Hendi and Clevenstine (Am J Epidemiol. 2025;195(6)) documents notably high life expectancy among US Black immigrants, accounting for almost 15% of the increased Black life expectancy between 1994 and 2019, as well as an extreme rise in mortality among Black immigrants during the COVID-19 pandemic. These results are credible in spite of the significant data and analytic challenges intrinsic to the research question. They suggest the need for new avenues of research, including research that is attentive to substantial changes in Black immigrants’ origins and situations, research that reinterprets Black/White trends in light of a changing population composition, and research into the drivers of pandemic-era mortality. Much of the research on Black/White trends has homogenized the Black population, and these results dramatize the analytical weaknesses of failing to take heterogeneity seriously.</description>
-    </item>
-    <item>
-      <title>A Bayesian bivariate spatial modeling framework for stage-specific cancer incidence and targeting of screening efforts</title>
-      <link>https://doi.org/10.1093/aje/kwag106</link>
-      <guid isPermaLink="false">10.1093/aje/kwag106</guid>
-
-      <dc:creator>Qinyun Lin</dc:creator>
-      <dc:creator>Carl Bonander</dc:creator>
-      <dc:creator>Ulf Strömberg</dc:creator>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Qinyun Lin, Carl Bonander, Ulf Strömberg
-
-Journal: American Journal of Epidemiology; Article number: kwag106
-
-Abstract: Abstract Geographic differences in cancer stage at diagnosis may reflect both variation in underlying cancer risk and variation in the extent of early detection through screening or other diagnostic testing. Mapping both late-stage incidence (as an indicator of disease burden) and late-minus-early difference (as an indicator of insufficient diagnostic activity relative to the underlying disease burden) provides an empirically grounded way to identify small areas (neighborhoods) where enhanced early detection may yield the greatest benefits. We introduce a Bayesian bivariate spatial modeling framework for jointly analyzing early- and late-stage cancer incidence, allowing for both spatial correlation across areas and outcome correlation within areas to improve small-area estimation. Using population-based registry data aggregated at the small-area level, we estimate age-standardized incidence rates of early- and late-stage cancers across the study area and propose an inferential approach to identify priority sub-areas. We compare single-outcome and multivariate spatial formulations via Integrated Nested Laplace Approximation. We demonstrate the approach using Swedish register data on prostate cancer linked to population data at the small area level. The framework can be extended to other diseases with correlated outcomes or multiple severity levels, as well as to other settings.</description>
+Abstract: Abstract Previous studies have shown that oral health is associated with mortality. However, evidence is lacking on the association between comprehensive oral health indicators and mortality and life expectancy. We used data from the National Health and Nutrition Examination Survey from 1999 to 2018 (adults aged ≥40 years). Oral health was assessed based on tooth loss, periodontitis, self-rated oral health, and the decayed, missing, and filled teeth (DMFT) index. Mortality status was linked to the National Death Index up to December 31, 2019. The Cox proportional hazards model was used to estimate the association between oral health and mortality. Life expectancy was calculated using the life tables. Over 8.3 years (mean follow-up), 3345 deaths occurred. Compared to those with 0-1 tooth lost, no periodontitis, good self-rated oral health, and a very low DMFT index, the risk of all-cause mortality for individuals with 22-28 teeth lost, severe periodontitis, poor self-rated oral health, and high DMFT index increased by 59%-89%, resulting in an estimated loss of life expectancy of 4.6-6.4 years at age 50. This study found that poor oral health was associated with a higher risk of mortality and a shorter life expectancy.</description>
     </item>
     <item>
       <title>Impacts of the Pacific Northwest Heat Dome on preterm birth rates in Oregon and Washington State</title>
@@ -1600,42 +1632,49 @@ Journal: American Journal of Epidemiology; Article number: kwag107
 Abstract: Abstract The 2021 Pacific Northwest Heat Dome produced the highest temperatures ever recorded in usually temperate Oregon and Washington State. Under climate change, events as extreme as the Heat Dome are forecasted once to twice per decade rather than once every thousand years. Among other health effects, extreme heat exposure increases risk of preterm birth. However, few studies have evaluated susceptible exposure windows for extreme heat during pregnancy, or quantified effects in historically unexposed populations like those in Oregon and Washington State.We treated the PNW Heat Dome as a natural experiment, and used 2016-2022 vital statistics records to estimate the gestation month-specific impact of the Heat Dome on preterm birth. Using an interrupted time series design with a synthetic control, we compared the observed odds of preterm birth in the exposed (in utero November 2020-July 2021) Oregon and Washington conception cohorts to counterfactual odds had the Heat Dome not happened. Our analysis included 716,096 exposed births across 67 monthly conception cohorts. Odds of preterm birth were higher than expected in cohorts exposed during months 2-3 (11% increase; 95% CI, 1-22) and months 6-7 (14% increase; 95% CI, 5-24) of pregnancy. We found that Heat Dome exposure during all trimesters increased preterm birth risk, and heat exposure in early pregnancy had a delayed effect on preterm birth risk, suggesting interventions to protect pregnant people from heat should span the entire pregnancy.</description>
     </item>
     <item>
-      <title>Mortality risk and loss in life expectancy associated with poor oral health: a population-based epidemiologic follow-up study</title>
-      <link>https://doi.org/10.1093/aje/kwag109</link>
-      <guid isPermaLink="false">10.1093/aje/kwag109</guid>
+      <title>A Bayesian bivariate spatial modeling framework for stage-specific cancer incidence and targeting of screening efforts</title>
+      <link>https://doi.org/10.1093/aje/kwag106</link>
+      <guid isPermaLink="false">10.1093/aje/kwag106</guid>
 
-      <dc:creator>Ying Zhou</dc:creator>
-      <dc:creator>Juan Wang</dc:creator>
-      <dc:creator>Wen Hu</dc:creator>
-      <dc:creator>Shili Zhou</dc:creator>
-      <dc:creator>Hongkun Di</dc:creator>
-      <dc:creator>Qi Wu</dc:creator>
-      <dc:creator>Tianzhu Qin</dc:creator>
-      <dc:creator>Qingsong Ye</dc:creator>
+      <dc:creator>Qinyun Lin</dc:creator>
+      <dc:creator>Carl Bonander</dc:creator>
+      <dc:creator>Ulf Strömberg</dc:creator>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ying Zhou, Juan Wang, Wen Hu, Shili Zhou, Hongkun Di, Qi Wu, Tianzhu Qin, Qingsong Ye, et al.
+      <description>Authors: Qinyun Lin, Carl Bonander, Ulf Strömberg
 
-Journal: American Journal of Epidemiology; Article number: kwag109
+Journal: American Journal of Epidemiology; Article number: kwag106
 
-Abstract: Abstract Previous studies have shown that oral health is associated with mortality. However, evidence is lacking on the association between comprehensive oral health indicators and mortality and life expectancy. We used data from the National Health and Nutrition Examination Survey from 1999 to 2018 (adults aged ≥40 years). Oral health was assessed based on tooth loss, periodontitis, self-rated oral health, and the decayed, missing, and filled teeth (DMFT) index. Mortality status was linked to the National Death Index up to December 31, 2019. The Cox proportional hazards model was used to estimate the association between oral health and mortality. Life expectancy was calculated using the life tables. Over 8.3 years (mean follow-up), 3345 deaths occurred. Compared to those with 0-1 tooth lost, no periodontitis, good self-rated oral health, and a very low DMFT index, the risk of all-cause mortality for individuals with 22-28 teeth lost, severe periodontitis, poor self-rated oral health, and high DMFT index increased by 59%-89%, resulting in an estimated loss of life expectancy of 4.6-6.4 years at age 50. This study found that poor oral health was associated with a higher risk of mortality and a shorter life expectancy.</description>
+Abstract: Abstract Geographic differences in cancer stage at diagnosis may reflect both variation in underlying cancer risk and variation in the extent of early detection through screening or other diagnostic testing. Mapping both late-stage incidence (as an indicator of disease burden) and late-minus-early difference (as an indicator of insufficient diagnostic activity relative to the underlying disease burden) provides an empirically grounded way to identify small areas (neighborhoods) where enhanced early detection may yield the greatest benefits. We introduce a Bayesian bivariate spatial modeling framework for jointly analyzing early- and late-stage cancer incidence, allowing for both spatial correlation across areas and outcome correlation within areas to improve small-area estimation. Using population-based registry data aggregated at the small-area level, we estimate age-standardized incidence rates of early- and late-stage cancers across the study area and propose an inferential approach to identify priority sub-areas. We compare single-outcome and multivariate spatial formulations via Integrated Nested Laplace Approximation. We demonstrate the approach using Swedish register data on prostate cancer linked to population data at the small area level. The framework can be extended to other diseases with correlated outcomes or multiple severity levels, as well as to other settings.</description>
     </item>
     <item>
-      <title>Impact of reminder strategies on survey response in older adults: a randomized trial in Japan</title>
-      <link>https://doi.org/10.1093/aje/kwag080</link>
-      <guid isPermaLink="false">10.1093/aje/kwag080</guid>
+      <title>Taking heterogeneity seriously: Black immigrant life expectancy in the United States</title>
+      <link>https://doi.org/10.1093/aje/kwag108</link>
+      <guid isPermaLink="false">10.1093/aje/kwag108</guid>
 
-      <dc:creator>Yoshihide Terada</dc:creator>
-      <dc:creator>Naoko Takahashi</dc:creator>
-      <dc:creator>Aya Washio</dc:creator>
-      <dc:creator>Yohko Nakamura</dc:creator>
-      <dc:creator>Yoshitaka Hippo</dc:creator>
-      <dc:creator>Nobuaki Michihata</dc:creator>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yoshihide Terada, Naoko Takahashi, Aya Washio, Yohko Nakamura, Yoshitaka Hippo, Nobuaki Michihata
+      <dc:creator>Elizabeth Wrigley-Field</dc:creator>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elizabeth Wrigley-Field
 
-Journal: American Journal of Epidemiology; Article number: kwag080
+Journal: American Journal of Epidemiology; Article number: kwag108
 
-Abstract: Abstract Declining postal survey response rates, especially among older adults, threaten research validity. This study evaluated the effectiveness and cost-effectiveness of 2 reminder strategies—a postcard and a re-sent questionnaire—issued 7 months after initial mailing among older Japanese adults. We conducted a 3-arm randomized controlled trial with 1500 adults aged 48-88 years from the Japan Multi-Institutional Collaborative Cohort Chiba cohort. Non-respondents to a survey mailed 7 months prior were randomized equally to: (1) no reminder, (2) a reminder postcard, or (3) a re-sent questionnaire with a prepaid envelope. The primary outcome was response within 60 days. Logistic regression was used to estimate adjusted odds ratios. The final sample sizes were 492, 486, and 487 participants, with the response rates of 0.8%, 12.1%, and 35.5% for the control, postcard, and re-sent questionnaire groups, respectively (P &amp;amp;lt; .001). Both interventions significantly increased responses, with no evidence of effect modification by age, sex, or educational attainment. Most responses occurred within 2 weeks. Cost per response was ¥867 for postcards vs ¥503 for re-sent questionnaires. Both reminder strategies significantly improved response rates vs no reminder. The re-sent questionnaire achieved the highest response and best cost-effectiveness, when implemented 7 months after the initial mailing. Re-sending questionnaires should be prioritized to enhance participation in surveys targeting aging populations.</description>
+Abstract: Abstract The article by Hendi and Clevenstine (Am J Epidemiol. 2025;195(6)) documents notably high life expectancy among US Black immigrants, accounting for almost 15% of the increased Black life expectancy between 1994 and 2019, as well as an extreme rise in mortality among Black immigrants during the COVID-19 pandemic. These results are credible in spite of the significant data and analytic challenges intrinsic to the research question. They suggest the need for new avenues of research, including research that is attentive to substantial changes in Black immigrants’ origins and situations, research that reinterprets Black/White trends in light of a changing population composition, and research into the drivers of pandemic-era mortality. Much of the research on Black/White trends has homogenized the Black population, and these results dramatize the analytical weaknesses of failing to take heterogeneity seriously.</description>
+    </item>
+    <item>
+      <title>Childhood maltreatment and 20-year trajectories of sleep disturbance among midlife women: the Study of Women’s Health Across the Nation</title>
+      <link>https://doi.org/10.1093/aje/kwag102</link>
+      <guid isPermaLink="false">10.1093/aje/kwag102</guid>
+
+      <dc:creator>Caroline Y Doyle</dc:creator>
+      <dc:creator>Yuefang Chang</dc:creator>
+      <dc:creator>Howard M Kravitz</dc:creator>
+      <dc:creator>Nancy E Avis</dc:creator>
+      <dc:creator>Rebecca C Thurston</dc:creator>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Caroline Y Doyle, Yuefang Chang, Howard M Kravitz, Nancy E Avis, Rebecca C Thurston
+
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2170-2178
+
+Abstract: Abstract Childhood maltreatment and adult sleep disturbance are significant, related public health concerns, but the extent to which they are associated over time is unknown. We investigated whether childhood maltreatment is associated with sleep disturbance over 20 years in a large, diverse, community sample of 1654 midlife women from 1996 to 2017 in a multicenter cohort study: The Study of Women’s Health Across the Nation. Childhood maltreatment was assessed via The Childhood Trauma Questionnaire, and insomnia symptoms were assessed via self-report at 14 visits. Insomnia symptom trajectories were derived using group-based trajectory modeling. Associations between childhood maltreatment and insomnia trajectories were evaluated via multinomial logistic regression. Four trajectories of insomnia symptoms were identified: consistently low, increasing, moderate/decreasing, and consistently high symptoms. Childhood maltreatment was associated with higher adjusted odds of moderate/decreasing (odds ratio [OR], 1.40; 95% CI, 1.05-1.87) and consistently high (OR, 2.06; 95% CI, 1.56-2.74) insomnia symptoms, respectively. Both physical and sexual abuse were associated with higher adjusted odds of moderate/decreasing and consistently high insomnia symptoms. Childhood maltreatment, particularly physical and sexual abuse, is associated with higher odds of chronic insomnia symptoms in women across midlife. These findings point to an at-risk population that may warrant early intervention to prevent and reduce disturbed sleep.</description>
     </item>
     <item>
       <title>COVID-19 vaccination in pregnancy and postpartum and human milk feeding non-initiation and discontinuation</title>
@@ -1658,50 +1697,22 @@ Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2121-21
 Abstract: Abstract Empirical evidence on COVID-19 vaccination and lactation-related outcomes remains limited. We used electronic health record data from 4 US healthcare systems to assess the association between COVID-19 vaccination and milk feeding outcomes. We included pregnant persons with a live birth between December 2020 and September 2022 with infant linkage. We assessed 2 COVID-19 vaccination exposure windows—during pregnancy (≥20 weeks gestation vs no vaccination during pregnancy) or postpartum (&amp;amp;lt;7 months after delivery vs none). We estimated adjusted prevalence ratios (aPR) for COVID-19 vaccination during pregnancy and human milk feeding non-initiation and discontinuation, and we estimated adjusted hazard ratios (aHR) for postpartum COVID-19 vaccination and human milk feeding discontinuation. In the study population used to assess pregnancy exposure (N = 10 757), 4.2% of birthing parents did not initiate human milk feeding. Non-initiation did not differ by vaccination during pregnancy (aPR = 0.99; 95% CI, 0.98-1.01). Antenatal vaccination was not associated with human milk feeding discontinuation at 2 and 6 months after delivery. In the study population used to assess postpartum exposure (N = 17 161), human milk feeding discontinuation did not differ by postpartum vaccination (aHR = 1.03; 95% CI, 0.95-1.11). COVID-19 vaccination in pregnancy and postpartum were not associated with human milk feeding discontinuation.</description>
     </item>
     <item>
-      <title>Invited commentary: quantitative bias analysis for time-to-event data needs good validation data</title>
-      <link>https://doi.org/10.1093/aje/kwag104</link>
-      <guid isPermaLink="false">10.1093/aje/kwag104</guid>
+      <title>Impact of reminder strategies on survey response in older adults: a randomized trial in Japan</title>
+      <link>https://doi.org/10.1093/aje/kwag080</link>
+      <guid isPermaLink="false">10.1093/aje/kwag080</guid>
 
-      <dc:creator>Matthew P Fox</dc:creator>
-      <dc:creator>Richard MacLehose</dc:creator>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Matthew P Fox, Richard MacLehose
+      <dc:creator>Yoshihide Terada</dc:creator>
+      <dc:creator>Naoko Takahashi</dc:creator>
+      <dc:creator>Aya Washio</dc:creator>
+      <dc:creator>Yohko Nakamura</dc:creator>
+      <dc:creator>Yoshitaka Hippo</dc:creator>
+      <dc:creator>Nobuaki Michihata</dc:creator>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yoshihide Terada, Naoko Takahashi, Aya Washio, Yohko Nakamura, Yoshitaka Hippo, Nobuaki Michihata
 
-Journal: American Journal of Epidemiology; Article number: kwag104
+Journal: American Journal of Epidemiology; Article number: kwag080
 
-Abstract: Abstract Quantitative bias analysis offers an approach to estimating and adjusting for the impact of residual systematic error, yet to date, most methods have focused on binary outcomes, leaving methods for time-to-event outcomes underdeveloped. Misclassification in time-to-event analyses is challenging because both the events and person-time may contain errors, which requires additional bias parameters. Recent work by Ackerman et al. (Am J Epidemiol. 0000;000(00):0000-0000) illustrates how methods for addressing misclassification of person-time outcomes can be used even when validation data are limited by using expert-informed ranges and simulation to define bias parameters. Although such approaches are better than qualitative assessments, they remain limited by lack of validation data, particularly data capturing person-time measurement error. Improving quantitative bias analysis will require emphasis on designing, conducting, and publishing validation studies that can generate generalizable estimates of misclassification parameters. It also requires methodological innovation and accessible software for person-time-based outcomes, including extensions of regression calibration and risk-based adjustment. Expanding quantitative bias analysis methods for time-to-event analyses will improve the validity, transparency, and interpretability of epidemiologic research and help ensure quantitative bias analysis becomes a routine component of study design and analysis.</description>
-    </item>
-    <item>
-      <title>Elevated lipid levels and altered semen parameters in men of couples seeking fertility care</title>
-      <link>https://doi.org/10.1093/aje/kwag103</link>
-      <guid isPermaLink="false">10.1093/aje/kwag103</guid>
-
-      <dc:creator>Sonia Marzia Grandi</dc:creator>
-      <dc:creator>Sunni L Mumford</dc:creator>
-      <dc:creator>Stefanie N Hinkle</dc:creator>
-      <dc:creator>Lauren S Tailor</dc:creator>
-      <dc:creator>Lindsey A Sjaarda</dc:creator>
-      <dc:creator>Kerry S Flanagan</dc:creator>
-      <dc:creator>Kenneth I Aston</dc:creator>
-      <dc:creator>Timothy Jenkins</dc:creator>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sonia Marzia Grandi, Sunni L Mumford, Stefanie N Hinkle, Lauren S Tailor, Lindsey A Sjaarda, Kerry S Flanagan, Kenneth I Aston, Timothy Jenkins, et al.
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2179-2190
-
-Abstract: Abstract Elevated lipid levels may adversely impact sperm quality, raising concerns about infertility, amid the rising prevalence of cardiometabolic disease. However, evidence on associations between elevated lipid levels and semen quality parameters is limited, with the need for real-world studies. We examined this association using data from the Folic Acid and Zinc Supplementation Trial (FAZST), a double-blind, placebo-controlled, block-randomized trial from 2013 to 2017. We included 2321 males (≥18 years) in couples seeking infertility treatment who completed baseline questionnaires and provided blood and semen samples. We examined associations between elevated lipid levels, and semen volume, concentration, morphology, count, and total motility at baseline and 6 months, and DNA fragmentation at 6 months. Generalized linear and log-binomial models with inverse probability of treatment and selection weights were used to address confounding and losses to follow-up. At baseline, 1343 (57.9%) men had elevated lipid levels, with a higher likelihood of increased body mass index, comorbidity burden, and male factor infertility. In baseline-adjusted linear models, men with elevated lipid levels had reduced semen volume and altered morphology. Reductions in sperm concentration and count were observed, but they were imprecise. Similar patterns were observed at 6 months, including reduced total motility. These findings suggest that elevated lipid levels may negatively affect semen quality and fertility.</description>
-    </item>
-    <item>
-      <title>&lt;i&gt;Secundum cavere, tertium sanare&lt;/i&gt;
-                    in counterfactual decision-making</title>
-      <link>https://doi.org/10.1093/aje/kwag101</link>
-      <guid isPermaLink="false">10.1093/aje/kwag101</guid>
-
-      <dc:creator>Ali Al-kassab-Córdova</dc:creator>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ali Al-kassab-Córdova
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2321-2322</description>
+Abstract: Abstract Declining postal survey response rates, especially among older adults, threaten research validity. This study evaluated the effectiveness and cost-effectiveness of 2 reminder strategies—a postcard and a re-sent questionnaire—issued 7 months after initial mailing among older Japanese adults. We conducted a 3-arm randomized controlled trial with 1500 adults aged 48-88 years from the Japan Multi-Institutional Collaborative Cohort Chiba cohort. Non-respondents to a survey mailed 7 months prior were randomized equally to: (1) no reminder, (2) a reminder postcard, or (3) a re-sent questionnaire with a prepaid envelope. The primary outcome was response within 60 days. Logistic regression was used to estimate adjusted odds ratios. The final sample sizes were 492, 486, and 487 participants, with the response rates of 0.8%, 12.1%, and 35.5% for the control, postcard, and re-sent questionnaire groups, respectively (P &amp;amp;lt; .001). Both interventions significantly increased responses, with no evidence of effect modification by age, sex, or educational attainment. Most responses occurred within 2 weeks. Cost per response was ¥867 for postcards vs ¥503 for re-sent questionnaires. Both reminder strategies significantly improved response rates vs no reminder. The re-sent questionnaire achieved the highest response and best cost-effectiveness, when implemented 7 months after the initial mailing. Re-sending questionnaires should be prioritized to enhance participation in surveys targeting aging populations.</description>
     </item>
   </channel>
 </rss>
