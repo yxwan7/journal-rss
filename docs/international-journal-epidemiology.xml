@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:08:54 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -48,20 +48,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Increased childhood adiposity contributes to higher type 2 diabetes (T2D) risk, but the underlying mechanisms remain unclear. Furthermore, whether these mechanistic pathways are shared across ethnic groups has not been explored. Methods We conducted a two-step Mendelian randomization (MR) using European-based summary statistics from genome-wide association studies of childhood body mass index (BMI) (n = 61 111), adulthood proteomics (n = 35 559), and later life T2D (cases: 242 283; controls: 1 569 734). We also conducted a recall-by-genotype (RbG) study in a Chinese birth cohort (n = 250) to assess whether childhood BMI was associated with the identified proteomic signals in an East Asian population. Analyses included multi-instrument MR methods (inverse variance weighted and MR-Egger) and, for single-instrument proteins, cis-MR using the Wald ratio, with colocalization validation. Multiple testing was adjusted using false discovery rate (FDR). Results Higher genetically predicted childhood BMI was associated with 1299 proteins (FDR-adjusted P &amp;amp;lt; .05), of which 36 proteins were associated with higher T2D risk. Six proteins were supported by colocalization (PPH4 &amp;amp;gt; 80%). Genetically predicted higher childhood BMI was positively associated with GCKR, RBP1, ENTPD6, and GST A1-1, and inversely associated with PRSS27 and SHBG. The proportion of the BMI-T2D effect mediated by these proteins ranged from 1.87% to 12.92%. However, only SHBG was replicated in Asians in the RbG study. Conclusions Our study identified putative actionable proteins that could reduce the elevated T2D risk attributable to childhood adiposity in Europeans, but their relevance in Asian populations requires further investigation.</description>
     </item>
     <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
-
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
-
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
-    </item>
-    <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
       <link>https://doi.org/10.1093/ije/dyag176</link>
       <guid isPermaLink="false">10.1093/ije/dyag176</guid>
@@ -78,6 +64,20 @@ Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag176
 
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
+    </item>
+    <item>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>Age-specific vulnerability of kidney diseases to temperature: a nationwide case-crossover study</title>
@@ -182,6 +182,17 @@ Abstract: Abstract Background Our goal was to evaluate the relationship between 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag179</description>
     </item>
     <item>
+      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag148</link>
+      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
+
+      <dc:creator>Cesar Victora</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cesar Victora
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
+    </item>
+    <item>
       <title>Dental amalgam exposure and multiple sclerosis: authors’ response</title>
       <link>https://doi.org/10.1093/ije/dyag142</link>
       <guid isPermaLink="false">10.1093/ije/dyag142</guid>
@@ -194,17 +205,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
       <description>Authors: Jie Guo, Tomas Olsson, Lars Alfredsson, Anna Karin Hedström
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag142</description>
-    </item>
-    <item>
-      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag148</link>
-      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
-
-      <dc:creator>Cesar Victora</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Cesar Victora
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
     </item>
     <item>
       <title>Mortality and childhood residence near the radiologically contaminated Coldwater Creek, St. Louis, Missouri</title>
@@ -376,19 +376,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Healthy life years are estimated from national population surveys that assess limitations in daily activities. However, the infrequent timing and limited sample sizes hinder the timely and detailed assessment of regional health conditions. We aimed to develop a novel method to estimate municipal-level healthy life years without activity limitations by using medical claims data. Methods We analysed medical claims data in Kyoto Prefecture, Japan. Outpatient data from May to July in 2016 and 2019 (n = 1 489 920) were used for development and data from the same period in 2022 (n = 739 236) were used for evaluation. A total of 5743 diagnostic codes were aggregated into 40 disease categories. A machine-learning model was employed to produce the probability of activity limitation, which was calibrated by using data from the Comprehensive Survey of Living Conditions and applied to derive age-specific prevalence rates. Healthy life years at the municipal level as of June 2022 were then estimated by incorporating a life table. Results We observed variation in healthy life years among municipalities: 72.1 years across all regions for males, ranging from 67.3 to 75.2 years, and 75.8 years for females, ranging from 71.3 to 77.6 years. Regional disparities were also noted in the prevalence of diseases associated with activity limitations. Conclusion This study provides the first robust, scalable method to estimate healthy life years without activity limitations at the municipal level by using real-world administrative data. Timely monitoring of regional healthy life years will support targeted health-promotion policies and contribute to reducing health disparities.</description>
     </item>
     <item>
-      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
-      <link>https://doi.org/10.1093/ije/dyag149</link>
-      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
-
-      <dc:creator>Dabin Chen</dc:creator>
-      <dc:creator>Jingyuan Li</dc:creator>
-      <dc:creator>Ting Ye</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
-    </item>
-    <item>
       <title>Cohort Profile: The Nanjing Chronic Disease Cohort</title>
       <link>https://doi.org/10.1093/ije/dyag107</link>
       <guid isPermaLink="false">10.1093/ije/dyag107</guid>
@@ -405,6 +392,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Xin Hong, Yuefan Shen, Chenchen Wang, Qing Ye, Weiwei Wang, Yijia Chen, Hao Xu, Jie Wu, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag107</description>
+    </item>
+    <item>
+      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
+      <link>https://doi.org/10.1093/ije/dyag149</link>
+      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
+
+      <dc:creator>Dabin Chen</dc:creator>
+      <dc:creator>Jingyuan Li</dc:creator>
+      <dc:creator>Ting Ye</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
     </item>
     <item>
       <title>The impact of school-based mitigation measures on the transmission of respiratory pathogens: the case of SARS-CoV-2</title>

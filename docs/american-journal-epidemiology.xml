@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:08:55 +0000</lastBuildDate>
 
     <item>
       <title>Methodological approaches to reducing misclassification bias in exclusive breastfeeding measurement</title>
@@ -23,6 +23,19 @@
 Journal: American Journal of Epidemiology; Article number: kwag197
 
 Abstract: Abstract Exclusive breastfeeding is a key pillar of healthy nutrition in infancy. While the importance of breastfeeding is undisputed, measuring early breastfeeding behavior remains challenging. This study evaluated the impact of addressing missingness in feeding variables, incorporating prelacteal feeding, reducing sampling bias through age weighting, and adjusting measurement periods on estimated exclusive breastfeeding prevalence. We show that imputing missing values reduces estimated prevalence from 42.9% (95% CI, 40.3-45.6) to 41.2% (95% CI, 38.5-44.0). Including prelacteal feeding in the definition further decreases estimates to 32.2% (95% CI, 29.5-34.8), while applying age weights slightly increased the prevalence to 33.6% (95% CI, 31.0-36.3). Measuring exclusive breastfeeding compliance at 6 months, rather than looking at average feeding behavior in the first six months of an infant’s life, yields an estimated exclusive breastfeeding prevalence of 5.9% (95% CI, 4.6-7.6). Given the major differences in exclusive breastfeeding prevalence estimates from different methodological adjustments, a standardized exclusive breastfeeding measurement is urgently needed to accurately assess early-life nutrition and guide policy based on reliable and comparable estimates.</description>
+    </item>
+    <item>
+      <title>Limited Added Value of Recall-Derived Dietary Variables for Cardiovascular Disease Classification in NHANES, 2007–2018</title>
+      <link>https://doi.org/10.1093/aje/kwag195</link>
+      <guid isPermaLink="false">10.1093/aje/kwag195</guid>
+
+      <dc:creator>Pınar Erdoğan Sezgen</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Pınar Erdoğan Sezgen
+
+Journal: American Journal of Epidemiology; Article number: kwag195
+
+Abstract: Abstract Short-term recall-derived dietary variables may be relevant to cardiovascular disease, but their classification value after demographic, lifestyle, and clinical markers are observed is unclear in cross-sectional survey data. We analyzed pooled data from 34,388 United States adults in the National Health and Nutrition Examination Survey, 2007–2018, after excluding participants with missing outcome status or current pregnancy. The outcome was a self-reported cardiovascular disease composite defined from coronary heart disease, angina, myocardial infarction, or stroke. We evaluated 3 nested predictor blocks: demographic and lifestyle variables, clinical and laboratory variables, and recall-derived dietary variables. Logistic regression and histogram-based gradient boosting were assessed with 5-fold out-of-fold validation. Adding the clinical block produced the largest discrimination gain (∆ area under the receiver operating characteristic curve 0.031 for logistic regression and 0.032 for gradient boosting; both P &amp;amp;lt;.001). Adding dietary variables after the clinical block produced a 0.002 gain in logistic regression and no material gain in gradient boosting (P = .219). Weighted logistic regression, subgroup, and repeated stochastic imputation sensitivity analyses preserved the same hierarchy. In this setting, recall-derived dietary variables added little classification information once clinical markers were available.</description>
     </item>
     <item>
       <title>Improving Dietary Data Quality in Nutrition Studies: Development and Validation of an Explainable, Reproducible, Open Machine Learning-Assisted Framework for Outlier Detection in 24-Hour Recalls</title>
@@ -1695,24 +1708,6 @@ Abstract: Abstract Childhood maltreatment and adult sleep disturbance are signif
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2121-2130
 
 Abstract: Abstract Empirical evidence on COVID-19 vaccination and lactation-related outcomes remains limited. We used electronic health record data from 4 US healthcare systems to assess the association between COVID-19 vaccination and milk feeding outcomes. We included pregnant persons with a live birth between December 2020 and September 2022 with infant linkage. We assessed 2 COVID-19 vaccination exposure windows—during pregnancy (≥20 weeks gestation vs no vaccination during pregnancy) or postpartum (&amp;amp;lt;7 months after delivery vs none). We estimated adjusted prevalence ratios (aPR) for COVID-19 vaccination during pregnancy and human milk feeding non-initiation and discontinuation, and we estimated adjusted hazard ratios (aHR) for postpartum COVID-19 vaccination and human milk feeding discontinuation. In the study population used to assess pregnancy exposure (N = 10 757), 4.2% of birthing parents did not initiate human milk feeding. Non-initiation did not differ by vaccination during pregnancy (aPR = 0.99; 95% CI, 0.98-1.01). Antenatal vaccination was not associated with human milk feeding discontinuation at 2 and 6 months after delivery. In the study population used to assess postpartum exposure (N = 17 161), human milk feeding discontinuation did not differ by postpartum vaccination (aHR = 1.03; 95% CI, 0.95-1.11). COVID-19 vaccination in pregnancy and postpartum were not associated with human milk feeding discontinuation.</description>
-    </item>
-    <item>
-      <title>Impact of reminder strategies on survey response in older adults: a randomized trial in Japan</title>
-      <link>https://doi.org/10.1093/aje/kwag080</link>
-      <guid isPermaLink="false">10.1093/aje/kwag080</guid>
-
-      <dc:creator>Yoshihide Terada</dc:creator>
-      <dc:creator>Naoko Takahashi</dc:creator>
-      <dc:creator>Aya Washio</dc:creator>
-      <dc:creator>Yohko Nakamura</dc:creator>
-      <dc:creator>Yoshitaka Hippo</dc:creator>
-      <dc:creator>Nobuaki Michihata</dc:creator>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yoshihide Terada, Naoko Takahashi, Aya Washio, Yohko Nakamura, Yoshitaka Hippo, Nobuaki Michihata
-
-Journal: American Journal of Epidemiology; Article number: kwag080
-
-Abstract: Abstract Declining postal survey response rates, especially among older adults, threaten research validity. This study evaluated the effectiveness and cost-effectiveness of 2 reminder strategies—a postcard and a re-sent questionnaire—issued 7 months after initial mailing among older Japanese adults. We conducted a 3-arm randomized controlled trial with 1500 adults aged 48-88 years from the Japan Multi-Institutional Collaborative Cohort Chiba cohort. Non-respondents to a survey mailed 7 months prior were randomized equally to: (1) no reminder, (2) a reminder postcard, or (3) a re-sent questionnaire with a prepaid envelope. The primary outcome was response within 60 days. Logistic regression was used to estimate adjusted odds ratios. The final sample sizes were 492, 486, and 487 participants, with the response rates of 0.8%, 12.1%, and 35.5% for the control, postcard, and re-sent questionnaire groups, respectively (P &amp;amp;lt; .001). Both interventions significantly increased responses, with no evidence of effect modification by age, sex, or educational attainment. Most responses occurred within 2 weeks. Cost per response was ¥867 for postcards vs ¥503 for re-sent questionnaires. Both reminder strategies significantly improved response rates vs no reminder. The re-sent questionnaire achieved the highest response and best cost-effectiveness, when implemented 7 months after the initial mailing. Re-sending questionnaires should be prioritized to enhance participation in surveys targeting aging populations.</description>
     </item>
   </channel>
 </rss>
