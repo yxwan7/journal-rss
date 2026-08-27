@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:08:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:38:34 +0000</lastBuildDate>
 
     <item>
       <title>Methodological approaches to reducing misclassification bias in exclusive breastfeeding measurement</title>
@@ -877,7 +877,7 @@ Journal: American Journal of Epidemiology; Article number: kwag154
 Abstract: Abstract Estimating, understanding, and communicating uncertainty is fundamental to statistical epidemiology, where model-based estimates regularly inform real-world decisions. However, sources of uncertainty are rarely formalised, and existing classifications are often inconsistent. This lack of structure hampers interpretation, model comparison, and targeted data collection. Connecting ideas from machine learning, information theory, experimental design, and health economics, we present a first-principles decision-theoretic framework that defines uncertainty as the expected loss incurred by making an estimate using incomplete information, arguing that this is a practically relevant definition for epidemiology. We show how reasoning about future data leads to a notion of expected uncertainty reduction, which induces formal definitions of reducible and irreducible uncertainty. We illustrate our approach with a simple worked example and a case study of SARS-CoV-2 wastewater surveillance in Aotearoa New Zealand, estimating the uncertainty reduction if wastewater surveillance were expanded to the full population. We then connect our framework to relevant literature from adjacent fields, showing how it unifies and extends many of these ideas. Our article serves as a gateway for applying a wide range of approaches to epidemiological models. Altogether, our framework provides a foundation for more reliable, consistent, and policy-relevant uncertainty quantification in infectious disease epidemiology.</description>
     </item>
     <item>
-      <title>Design and procedures for the greenness, cognitive performance and vascular outcomes in the northern Manhattan study (NOMAS-greenness)</title>
+      <title>Design and procedures for the greenness, cognitive performance and vascular outcomes in the Northern Manhattan Study</title>
       <link>https://doi.org/10.1093/aje/kwag155</link>
       <guid isPermaLink="false">10.1093/aje/kwag155</guid>
 
@@ -892,7 +892,9 @@ Abstract: Abstract Estimating, understanding, and communicating uncertainty is f
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Scott Charles Brown, Julius Roderik Dewald, Andrew G Rundle, Sarah Tom, Tatjana Rundek, Ruixuan Ma, Yalda Zarnegarnia, Adam A Szpiro, et al.
 
-Journal: American Journal of Epidemiology; Article number: kwag155</description>
+Journal: American Journal of Epidemiology; Article number: kwag155
+
+Abstract: Abstract The Greenness, Cognitive Performance, and Vascular Outcomes in the Northern Manhattan Study investigates the protective effects of cumulative residential greenness exposure on cognitive performance and vascular outcomes, from 1993–2023. Greenness is quantified using satellite-derived Normalized Difference Vegetation Index (NDVI) within 250-meter residential buffers. For each participant, up to 35 years of greenness exposure data are used, with a median of 15.7 years of vascular follow-up, (i.e. adjudicated stroke, myocardial infarction, and vascular death) and among those with repeated testing, using comprehensive neurocognitive measures a median of 5.1 between the first and second assessments and 12.3 years between the first and third measures. The main sample's median age was 69.2 years at baseline (range=40–107). The study will prospectively examine: (1) associations of cumulative greenness with cognitive and vascular outcomes; (2) mediation through behavioral, cardiometabolic, inflammatory, and vascular brain imaging biomarkers; and (3) effect modification by individual and neighborhood factors. Additional aims include: (4) longitudinal associations of greenness with brain reserve; (5) moderation by brain reserve in greenness–cognition relationships; and (6) associations with adjudicated Mild Cognitive Impairment, Alzheimer's disease, and related dementias.</description>
     </item>
     <item>
       <title>Association Between maternal body mass index, offspring growth and pubertal timing: results from a longitudinal birth cohort study</title>

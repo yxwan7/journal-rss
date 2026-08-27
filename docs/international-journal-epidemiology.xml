@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:38:32 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -48,6 +48,35 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Increased childhood adiposity contributes to higher type 2 diabetes (T2D) risk, but the underlying mechanisms remain unclear. Furthermore, whether these mechanistic pathways are shared across ethnic groups has not been explored. Methods We conducted a two-step Mendelian randomization (MR) using European-based summary statistics from genome-wide association studies of childhood body mass index (BMI) (n = 61 111), adulthood proteomics (n = 35 559), and later life T2D (cases: 242 283; controls: 1 569 734). We also conducted a recall-by-genotype (RbG) study in a Chinese birth cohort (n = 250) to assess whether childhood BMI was associated with the identified proteomic signals in an East Asian population. Analyses included multi-instrument MR methods (inverse variance weighted and MR-Egger) and, for single-instrument proteins, cis-MR using the Wald ratio, with colocalization validation. Multiple testing was adjusted using false discovery rate (FDR). Results Higher genetically predicted childhood BMI was associated with 1299 proteins (FDR-adjusted P &amp;amp;lt; .05), of which 36 proteins were associated with higher T2D risk. Six proteins were supported by colocalization (PPH4 &amp;amp;gt; 80%). Genetically predicted higher childhood BMI was positively associated with GCKR, RBP1, ENTPD6, and GST A1-1, and inversely associated with PRSS27 and SHBG. The proportion of the BMI-T2D effect mediated by these proteins ranged from 1.87% to 12.92%. However, only SHBG was replicated in Asians in the RbG study. Conclusions Our study identified putative actionable proteins that could reduce the elevated T2D risk attributable to childhood adiposity in Europeans, but their relevance in Asian populations requires further investigation.</description>
     </item>
     <item>
+      <title>When air pollution meets comorbidities: evidence on the causal effect of PM2.5 on COVID-19 hospitalizations and deaths</title>
+      <link>https://doi.org/10.1093/ije/dyag152</link>
+      <guid isPermaLink="false">10.1093/ije/dyag152</guid>
+
+      <dc:creator>Carla Morvan</dc:creator>
+      <dc:creator>Johanna Lepeule</dc:creator>
+      <dc:creator>Emmanuelle Lavaine</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Carla Morvan, Johanna Lepeule, Emmanuelle Lavaine
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag152
+
+Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
+    </item>
+    <item>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
+    </item>
+    <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
       <link>https://doi.org/10.1093/ije/dyag176</link>
       <guid isPermaLink="false">10.1093/ije/dyag176</guid>
@@ -64,20 +93,6 @@ Abstract: Abstract Background Increased childhood adiposity contributes to highe
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag176
 
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
-    </item>
-    <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
-
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
-
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>Age-specific vulnerability of kidney diseases to temperature: a nationwide case-crossover study</title>
@@ -137,17 +152,20 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Adiposity is associated with increased risk of breast cancer in post-menopausal women, while the association appears to be the inverse among premenopausal women in Western populations, but is unclear for Chinese women. Methods Using data on 284 538 women with no history of cancer, hysterectomy, oophorectomy, or breast surgery at baseline in 2004–8 from the China Kadoorie Biobank (a prospective cohort study), Cox regression was used to estimate adjusted hazard ratios (HRs) for breast cancer and its subtypes by measured body mass index (BMI) and other adiposity measures (waist circumference, fat percentage, waist–hip ratio, fat mass) and by self-reported BMI at age 25 years. Results Mean BMI was 23.8 (3.5 SD) kg/m2 at baseline (mean age 51.4 years) and 21.9 (2.7 SD) kg/m2 at age 25 years. During 10 years of follow-up, there were 2379 incident breast cancer cases. Higher BMI was associated with a higher risk of breast cancer in women who were post-menopausal [HR = 1.35, 95% confidence interval (CI) 1.24–1.47] and premenopausal (HR = 1.13, 95% CI 1.03–1.24) at baseline, but not when censoring at age 50 years to capture mainly premenopausal cancers. Among post-menopausal women, BMI was associated with oestrogen-receptor positive (ER ) (HR = 1.47, 95% CI 1.24–1.74), but not with oestrogen-receptor negative (ER−) breast cancer (HR = 1.02, 95% CI 0.75–1.37). Waist circumference and fat percentage were associated with a higher risk of breast cancer. Conclusion In this cohort of Chinese women, higher levels of general and central adiposity were associated with a higher risk of breast cancer, in both women who were premenopausal and women who were post-menopausal at baseline. Among post-menopausal women, adiposity was associated with ER but not ER − breast cancer.</description>
     </item>
     <item>
-      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
-      <link>https://doi.org/10.1093/ije/dyag171</link>
-      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
+      <title>Examining the role of insulin-like growth factor 1 in the pathophysiology of carpal tunnel syndrome: a Mendelian randomization study</title>
+      <link>https://doi.org/10.1093/ije/dyag173</link>
+      <guid isPermaLink="false">10.1093/ije/dyag173</guid>
 
-      <dc:creator>Marco Aurélio Peres</dc:creator>
-      <dc:creator>Pinyan Liu</dc:creator>
-      <dc:creator>John Rong Hao Tay</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
+      <dc:creator>Alex J Wood</dc:creator>
+      <dc:creator>Catherine E Lovegrove</dc:creator>
+      <dc:creator>Dominic Furniss</dc:creator>
+      <dc:creator>Akira Wiberg</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alex J Wood, Catherine E Lovegrove, Dominic Furniss, Akira Wiberg
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
+
+Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
     </item>
     <item>
       <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
@@ -168,6 +186,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag177
 
 Abstract: Abstract Background Our goal was to evaluate the relationship between prenatal fluoride exposure and pregnancy outcomes. Methods We measured urinary fluoride collected during the second trimester among pregnant people recruited from California and Illinois from 2014 to 2020 (N = 949). We evaluated risk differences (RDs) of preterm birth (PTB), small-for-gestational age (SGA), large-for-gestational age (LGA), gestational diabetes, and differences in birthweight, birthweight-for-gestational age z-scores, and gestational age associated with a 0.1 mg/l increase in fluoride using linear regression to estimate effects on the additive scale. We also used modified treatment policies with machine learning to estimate the effects of hypothetical interventions to reduce urinary fluoride by 0.1 and 0.5 mg/l on pregnancy outcomes. In the Illinois cohort, we estimated effects by trimester. Results In our main analyses, we found no associations between urinary fluoride levels and pregnancy outcomes. For instance, for a 0.1 mg/l increase in fluoride, we saw no change in the risk of PTB, SGA, or gestational diabetes. We also found no differences associated with hypothetical reductions of prenatal fluoride by 0.1 mg/l or 0.5 mg/l for any outcomes. In the trimester-specific analyses for Illinois participants, we found increased LGA risk during the first (RD = 0.004, 95% CI −0.001, 0.009) and third trimesters (RD = 0.007, 95% CI 0.001, 0.012), and reduced LGA risk during the second trimester (RD = −0.006, 95% CI −0.011, 0.000), associated with 0.1 mg/l higher urinary fluoride. Conclusions Prenatal fluoride exposure does not appear to affect pregnancy outcomes, but preliminary evidence suggests that higher fluoride levels may affect the risk of LGA depending on timing of exposure during pregnancy.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
+      <link>https://doi.org/10.1093/ije/dyag171</link>
+      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
+
+      <dc:creator>Marco Aurélio Peres</dc:creator>
+      <dc:creator>Pinyan Liu</dc:creator>
+      <dc:creator>John Rong Hao Tay</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
     </item>
     <item>
       <title>Can paternal snus use shape offspring’s asthma risk? Implications, epidemiological insights, and gaps in epigenetic evidence</title>
@@ -205,6 +236,23 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
       <description>Authors: Jie Guo, Tomas Olsson, Lars Alfredsson, Anna Karin Hedström
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag142</description>
+    </item>
+    <item>
+      <title>Peripubertal pregnancies and associations with health and developmental outcomes in offspring during late adolescence and adulthood: sibling-comparison register study</title>
+      <link>https://doi.org/10.1093/ije/dyag153</link>
+      <guid isPermaLink="false">10.1093/ije/dyag153</guid>
+
+      <dc:creator>Vasudha Ahuja</dc:creator>
+      <dc:creator>Ayako Hiyoshi</dc:creator>
+      <dc:creator>Helena Backman</dc:creator>
+      <dc:creator>David Simmons</dc:creator>
+      <dc:creator>Scott Montgomery</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Vasudha Ahuja, Ayako Hiyoshi, Helena Backman, David Simmons, Scott Montgomery
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag153
+
+Abstract: Abstract Background We examined the association of peripubertal pregnancies with long-term health and developmental outcomes in adult offspring and strengthened causal inference using sibling-comparison methods. Methods Using linked Swedish register data from 1964 to 2018, we conducted a cohort study to estimate associations of pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years, with body mass index (BMI), systolic blood pressure (SBP), cognitive function, and stress resilience among 943 444 male offspring aged 17–21 years in the Military Conscription Register. We further assessed associations with type 2 diabetes (T2D), depression, and anxiety among 2 461 510 male and female offspring aged 18–73 years using population-wide registers. Linear, multinomial, and survival models were used. Sibling fixed-effect models were used to account for unmeasured confounding shared among siblings. Results Offspring from pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years had lower SBP (β − 1.12; 95% confidence interval [CI] − 1.97 to −0.26), poorer cognitive function (β − 0.54; 95% CI −0.67 to −0.40), and poorer stress resilience (β −0.24; 95% CI −0.38, −0.10). There was no increased risk of being underweight or overweight compared with normal weight. There was a lower risk of anxiety (hazard ratio 0.87; 95% CI 0.80 to 0.95) and no increased risk of T2D or depression. Sibling-comparison analyses attenuated deleterious associations to null or reversed them and amplified associations with markers of better health. Conclusion Pregnancies before age 16 years may not be causally associated with adverse long-term health and developmental outcomes in adolescent and adult offspring. The adverse associations in conventional analyses appear attributable to shared familial characteristics.</description>
     </item>
     <item>
       <title>Mortality and childhood residence near the radiologically contaminated Coldwater Creek, St. Louis, Missouri</title>
@@ -376,6 +424,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Healthy life years are estimated from national population surveys that assess limitations in daily activities. However, the infrequent timing and limited sample sizes hinder the timely and detailed assessment of regional health conditions. We aimed to develop a novel method to estimate municipal-level healthy life years without activity limitations by using medical claims data. Methods We analysed medical claims data in Kyoto Prefecture, Japan. Outpatient data from May to July in 2016 and 2019 (n = 1 489 920) were used for development and data from the same period in 2022 (n = 739 236) were used for evaluation. A total of 5743 diagnostic codes were aggregated into 40 disease categories. A machine-learning model was employed to produce the probability of activity limitation, which was calibrated by using data from the Comprehensive Survey of Living Conditions and applied to derive age-specific prevalence rates. Healthy life years at the municipal level as of June 2022 were then estimated by incorporating a life table. Results We observed variation in healthy life years among municipalities: 72.1 years across all regions for males, ranging from 67.3 to 75.2 years, and 75.8 years for females, ranging from 71.3 to 77.6 years. Regional disparities were also noted in the prevalence of diseases associated with activity limitations. Conclusion This study provides the first robust, scalable method to estimate healthy life years without activity limitations at the municipal level by using real-world administrative data. Timely monitoring of regional healthy life years will support targeted health-promotion policies and contribute to reducing health disparities.</description>
     </item>
     <item>
+      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
+      <link>https://doi.org/10.1093/ije/dyag149</link>
+      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
+
+      <dc:creator>Dabin Chen</dc:creator>
+      <dc:creator>Jingyuan Li</dc:creator>
+      <dc:creator>Ting Ye</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
+    </item>
+    <item>
       <title>Cohort Profile: The Nanjing Chronic Disease Cohort</title>
       <link>https://doi.org/10.1093/ije/dyag107</link>
       <guid isPermaLink="false">10.1093/ije/dyag107</guid>
@@ -392,19 +453,6 @@ Abstract: Abstract Background Healthy life years are estimated from national pop
       <description>Authors: Xin Hong, Yuefan Shen, Chenchen Wang, Qing Ye, Weiwei Wang, Yijia Chen, Hao Xu, Jie Wu, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag107</description>
-    </item>
-    <item>
-      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
-      <link>https://doi.org/10.1093/ije/dyag149</link>
-      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
-
-      <dc:creator>Dabin Chen</dc:creator>
-      <dc:creator>Jingyuan Li</dc:creator>
-      <dc:creator>Ting Ye</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
     </item>
     <item>
       <title>The impact of school-based mitigation measures on the transmission of respiratory pathogens: the case of SARS-CoV-2</title>
@@ -1628,63 +1676,6 @@ Abstract: Abstract Background Chronic kidney disease (CKD) and chronic inflammat
       <description>Authors: Marta Favara, Maria De Los Ángeles Molina, Alan Sánchez, Kauser Mohsini, Tassew Woldehanna, Alula Pankhurst, Ellanki Revathi, Antonio Campos, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag087</description>
-    </item>
-    <item>
-      <title>Mortality in relation to smoke exposure 9 years after the Hazelwood coal mine fire</title>
-      <link>https://doi.org/10.1093/ije/dyag071</link>
-      <guid isPermaLink="false">10.1093/ije/dyag071</guid>
-
-      <dc:creator>Karen Walker-Bone</dc:creator>
-      <dc:creator>Caroline X Gao</dc:creator>
-      <dc:creator>Catherine L Smith</dc:creator>
-      <dc:creator>Tingting Ye</dc:creator>
-      <dc:creator>David Brown</dc:creator>
-      <dc:creator>Natasha Kinsman</dc:creator>
-      <dc:creator>Jillian F Ikin</dc:creator>
-      <dc:creator>Matthew Carroll</dc:creator>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Karen Walker-Bone, Caroline X Gao, Catherine L Smith, Tingting Ye, David Brown, Natasha Kinsman, Jillian F Ikin, Matthew Carroll, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag071
-
-Abstract: Abstract Background In 2014, a coal mine fire in rural Australia shrouded nearby towns in smoke for several weeks. In response to community concerns and a lack of available evidence, the Victorian Department of Health commissioned a long-term health study. This article evaluates smoke effects on mortality 9 years after the fire. Methods In 2016–17, 2872 individuals living near the mine during the fire were recruited into a cohort study and consented to linkage of their data. Time-location diaries were blended with estimates of hourly fire-related fine particulate matter ≤2.5 µm (PM2.5) to generate individual exposure measures. Mortality data were obtained up to mid-2023 by linkage with the National Death Index. Cardiac, cancer, and respiratory-related deaths were identifiable up to December 2021 and predicted thereafter to mid-2023. All-cause mortality effects were evaluated with Cox proportional-hazards models and cause-specific mortality with a competing risk survival model. Results Nine years post-fire, 318 (11%) of the sample had died. All-cause mortality was not associated with PM2.5 exposure. There was no detectable effect on cancer deaths. However, a 10 µg/m3 increase in daily mean exposure to fire-related PM2.5 was associated with an 18% (95% CI: 2%–37%) higher risk of cardiac mortality, while PM2.5 exacerbated risk of respiratory mortality from tobacco use. Conclusion Fire-related PM2.5 increased cardiac mortality and smoking effects on respiratory mortality years after the event. These findings concord with a growing body of evidence on the deadly risks of wildfire smoke. Protecting communities and individuals from smoke during and after large fire events should be a public health priority.</description>
-    </item>
-    <item>
-      <title>Covariates as Random Effects (CaRE): An approach to modeling high-dimensional confounding and effect heterogeneity.</title>
-      <link>https://doi.org/10.1093/ije/dyag073</link>
-      <guid isPermaLink="false">10.1093/ije/dyag073</guid>
-
-      <dc:creator>Soohyeon Ko</dc:creator>
-      <dc:creator>George Leckie</dc:creator>
-      <dc:creator>Clare Evans</dc:creator>
-      <dc:creator>Rockli Kim</dc:creator>
-      <dc:creator>S V Subramanian</dc:creator>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Soohyeon Ko, George Leckie, Clare Evans, Rockli Kim, S V Subramanian
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag073
-
-Abstract: Abstract Conventional single-level regression models estimate exposure–outcome associations by including covariates as main effects to account for potential confounding, but they rest on the additivity assumption—that each covariate contributes independently, without interactions. This assumption may yield misspecified models and misleading estimates of conditional associations and obscure variation across subgroups, particularly in high-dimensional settings with complex confounding structures. To address these challenges, we present a Covariates as Random Effects (CaRE) approach that treats combinations of covariates as strata, allowing for a parsimonious representation of both main effects and interactions. In this approach, stratum-level random intercepts provide a flexible alternative to strictly additive specifications by representing interactions between covariates through stratification and partial pooling, especially in settings with high-dimensional covariates. In addition, random slopes can be incorporated to explore how the exposure–outcome association varies across strata. To illustrate this approach, we use data from a sample of older adults in India, examining the association between years of education and cognitive function. We compare conventional single-level models with multilevel specifications and show that the multilevel approach yields similar average associations while offering a more compact representation of complex covariate structures and highlighting variability across strata. This approach illustrates how multilevel regression can serve as an alternative for covariate adjustment and the assessment of effect heterogeneity in epidemiologic research.</description>
-    </item>
-    <item>
-      <title>Reductions in malaria cases after deployment of dual-active ingredient insecticide-treated nets in Ghana—a Bayesian interrupted time series analysis</title>
-      <link>https://doi.org/10.1093/ije/dyag067</link>
-      <guid isPermaLink="false">10.1093/ije/dyag067</guid>
-
-      <dc:creator>Samuel Kweku Oppong</dc:creator>
-      <dc:creator>Otubea Owusu-Akrofi</dc:creator>
-      <dc:creator>Christian Atta-Obeng</dc:creator>
-      <dc:creator>Sylvester Coleman</dc:creator>
-      <dc:creator>Punam Amratia</dc:creator>
-      <dc:creator>Tasmin L Symons</dc:creator>
-      <dc:creator>Kefyalew Addis Alene</dc:creator>
-      <dc:creator>Nana Yaw Peprah</dc:creator>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Samuel Kweku Oppong, Otubea Owusu-Akrofi, Christian Atta-Obeng, Sylvester Coleman, Punam Amratia, Tasmin L Symons, Kefyalew Addis Alene, Nana Yaw Peprah, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag067
-
-Abstract: Abstract Background Insecticide-treated nets (ITNs) represent a key tool in reducing human vector contact for malaria control. However, increasing insecticide resistance of malaria vectors threatens the effectiveness of pyrethroid-only nets in reducing malaria risk. Next-generation nets, such as those with dual-active ingredients, have been recommended for use in areas with high malaria burden and confirmed pyrethroid resistance. Here, we assessed the impact of the distribution of Interceptor® G2 (IG2) ITNs on malaria cases in the Western North Region of Ghana distributed in 2021. Methods We analysed monthly numbers of confirmed malaria cases reported by health facilities in the Western North Region from 2018 to 2023. To control for possible confounding effects of climate, monthly mean values of modelled vector habitat suitability and temperature suitability were included. Bayesian Poisson regression time series models were developed to assess the immediate and sustained impact of IG2 ITNs on malaria case trends measured as odds ratio (OR) with their corresponding credible intervals (CrI). Results Malaria cases reduced by 30% (OR, 0.696; CrI, 0.623–0.778) immediately after the distribution of IG2 ITNs in the Western North Region. This effect was sustained at 6 months up to 30 months post-intervention, where cases reduced by 26% (OR, 0.739; CrI, 0.653–0.837) and 40% (OR, 0.594; CrI, 0.492–0.718), respectively. The intervention was also strongly associated with reductions in malaria cases in seven of the nine districts in the region, after controlling for climatic factors. Conclusion This study demonstrates the effectiveness of dual-active Interceptor® G2 ITNs in the Western North Region, an area with confirmed pyrethroid resistance. The findings support the scale-up of next-generation nets by National Malaria Programs and highlight the need for further research to explore the utility of these nets in other high-burden malaria areas with region-specific insecticide resistance profiles.</description>
     </item>
   </channel>
 </rss>
