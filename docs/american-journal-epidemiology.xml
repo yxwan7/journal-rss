@@ -5,8 +5,38 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:43:03 +0000</lastBuildDate>
 
+    <item>
+      <title>Neighborhood Church Closure Density and Self-Reported Mental Health Diagnoses in Southeastern Pennsylvania: A Population-Based Analysis</title>
+      <link>https://doi.org/10.1093/aje/kwag206</link>
+      <guid isPermaLink="false">10.1093/aje/kwag206</guid>
+
+      <dc:creator>Yu-Tien Hsu</dc:creator>
+      <dc:creator>Taylor J Robinson</dc:creator>
+      <dc:creator>Insang Song</dc:creator>
+      <dc:creator>Hui Luan</dc:creator>
+      <dc:creator>Yusuf Ransome</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yu-Tien Hsu, Taylor J Robinson, Insang Song, Hui Luan, Yusuf Ransome
+
+Journal: American Journal of Epidemiology; Article number: kwag206</description>
+    </item>
+    <item>
+      <title>Structural Limitations of Early–Late Treatment Comparisons Under Target Trial Emulation: A Simulation Study</title>
+      <link>https://doi.org/10.1093/aje/kwag208</link>
+      <guid isPermaLink="false">10.1093/aje/kwag208</guid>
+
+      <dc:creator>Atsushi Takayama</dc:creator>
+      <dc:creator>Shiro Tanaka</dc:creator>
+      <dc:creator>Koji Kawakami</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Atsushi Takayama, Shiro Tanaka, Koji Kawakami
+
+Journal: American Journal of Epidemiology; Article number: kwag208
+
+Abstract: Abstract Early versus Late (E–L) treatment initiation comparisons, which are prone to immortal time bias, are widely considered amenable to causal inference through target trial emulation (TTE) using clone–censor–weighting (CCW). However, whether standard CCW yields a well-defined causal estimand for the E–L comparison under ideal implementation conditions has not been formally examined. We conducted a structural simulation study to evaluate CCW-based TTE for E–L comparisons. The design varied along three dimensions: treatment-initiation mechanisms (random versus baseline-confounded timing), benefit–harm structures governing delayed-treatment harm and post-treatment benefit, and five distinct E–L initiation-window configurations. We implemented CCW as conventionally recommended and summarized estimated 12-month marginal risk ratios across settings. Depending on the placement and structure of the initiation windows, estimated risk ratios exhibited systematic window-dependent variation, including direction reversals across window specifications, even in settings where the true marginal causal contrast was 1 by design. These patterns were not consistently explained by weight instability or lack of support overlap. Our findings indicate that, in E–L comparisons, the window-defined strategy contrast estimated using CCW-based TTE can be strongly shaped by risk accumulated before treatment initiation under the specified windows, underscoring the need for caution when interpreting E–L analyses.</description>
+    </item>
     <item>
       <title>Methodological approaches to reducing misclassification bias in exclusive breastfeeding measurement</title>
       <link>https://doi.org/10.1093/aje/kwag197</link>
@@ -95,7 +125,7 @@ Journal: American Journal of Epidemiology; Article number: kwag201
 Abstract: Abstract A recent news article suggested observational studies confuse correlation and causation. Such confusion often arises from unclear research aims rather than inherent limitations of study design. We use this recent public critique of epidemiologic research to illustrate how ambiguity in study questions contributes to misinterpretation of findings. We argue that epidemiologic studies generally fall into three distinct categories (descriptive, predictive, and causal) and that each has different goals, assumptions, analytic approaches, and criteria for evaluation. Descriptive studies characterize the distribution of health outcomes, predictive studies aim to identify who will experience those outcomes, and causal studies seek to estimate the effects of interventions or exposures under well-defined counterfactual contrasts. Failure to clearly state which of these aims is being pursued makes it difficult to evaluate methods, assess validity, and interpret results. It also creates opportunities for critiques that may mischaracterize study intent or overstate limitations. We emphasize that observational studies can contribute to causal inference when aligned with explicit causal questions and supported by appropriate assumptions and design choices. We conclude that explicitly stating study aims and estimands would improve scientific communication, facilitate more appropriate critique, and strengthen the contribution of epidemiologic evidence to public health decision-making.</description>
     </item>
     <item>
-      <title>IN MEMORIAM: The Enduring Legacy of Dr. Roger Detels (1936–2026)</title>
+      <title>In Memoriam: the enduring legacy of Dr. Roger Detels (1936-2026)</title>
       <link>https://doi.org/10.1093/aje/kwag199</link>
       <guid isPermaLink="false">10.1093/aje/kwag199</guid>
 
@@ -242,7 +272,7 @@ Abstract: Abstract Target trial emulation prompts investigators to frame their a
 Journal: American Journal of Epidemiology; Article number: kwag191</description>
     </item>
     <item>
-      <title>The selenium and vitamin E cancer prevention trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration</title>
+      <title>The Selenium and Vitamin E Cancer Prevention Trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration</title>
       <link>https://doi.org/10.1093/aje/kwag189</link>
       <guid isPermaLink="false">10.1093/aje/kwag189</guid>
 
@@ -251,13 +281,13 @@ Journal: American Journal of Epidemiology; Article number: kwag191</description>
       <dc:creator>Phyllis J Goodman</dc:creator>
       <dc:creator>Tommaso Filippini</dc:creator>
       <dc:creator>Kenneth J Rothman</dc:creator>
-      <dc:creator>Ian M Thompson Jr</dc:creator>
+      <dc:creator>Ian M Thompson Jr.</dc:creator>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco Vinceti, Cathee Till, Phyllis J Goodman, Tommaso Filippini, Kenneth J Rothman, Ian M Thompson Jr
+      <description>Authors: Marco Vinceti, Cathee Till, Phyllis J Goodman, Tommaso Filippini, Kenneth J Rothman, Ian M Thompson Jr.
 
 Journal: American Journal of Epidemiology; Article number: kwag189
 
-Abstract: Abstract The potential for trace amounts of selenium supplements to prevent prostate cancer and other neoplasms was studied in SELECT, a randomized trial conducted in North America for 7-12 years. 34 887 eligible men age 55 or older were assigned to take either 200 μg selenium from L-selenomethionine, 400 IU vitamin E, both selenium and vitamin E, or placebo. The trial was stopped for futility and concerns about adverse effects. Subsequently, we used incidence and mortality data from Medicare through 2019 and the National Death Index through 2024 to investigate the extent to which selenium administration was associated with increased long-term risk of cancer and neurodegenerative disease, during 341 697 person-years of follow-up. Lung cancer showed little increased risk. Associations were near null for leukemia, non-Hodgkin lymphoma and Parkinson’s disease, and there was a lower risk for melanoma and colorectal cancer. In contrast, we found a higher risk for Hodgkin lymphoma, multiple myeloma and amyotrophic lateral sclerosis, which has been associated with selenium overexposure in some nonexperimental studies. Though these latter associations were based on few cases, they were consistent with findings from a range of other studies, possibly indicating long-term adverse effects of this organic selenium compound. (Registration no. NCT00006392).</description>
+Abstract: Abstract The potential for trace amounts of selenium supplements to prevent prostate cancer and other neoplasms was studied in the Selenium and Vitamin E Prevention Trial, a randomized trial conducted in North America for 7-12 years. A total of 34 887 eligible men aged 55 or older were assigned to take either 200 μg selenium from L-selenomethionine, 400 IU vitamin E, both selenium and vitamin E, or placebo. The trial was stopped for futility and concerns about adverse effects. Subsequently, we used incidence and mortality data from Medicare through 2019 and the National Death Index through 2024 to investigate the extent to which selenium administration was associated with increased long-term risk of cancer and neurodegenerative disease, during 341 697 person-years of follow-up. Lung cancer showed little increased risk. Associations were near null for leukemia, non–Hodgkin lymphoma, and Parkinson’s disease, and there was a lower risk for melanoma and colorectal cancer. In contrast, we found a higher risk for Hodgkin lymphoma, multiple myeloma, and amyotrophic lateral sclerosis, which has been associated with selenium overexposure in some nonexperimental studies. Though these latter associations were based on few cases, they were consistent with findings from a range of other studies, possibly indicating long–term adverse effects of this organic selenium compound (registration no. NCT00006392).</description>
     </item>
     <item>
       <title>Leveraging limited testing data for early detection of emerging infectious disease outbreaks</title>
@@ -1673,43 +1703,6 @@ Abstract: Abstract Geographic differences in cancer stage at diagnosis may refle
 Journal: American Journal of Epidemiology; Article number: kwag108
 
 Abstract: Abstract The article by Hendi and Clevenstine (Am J Epidemiol. 2025;195(6)) documents notably high life expectancy among US Black immigrants, accounting for almost 15% of the increased Black life expectancy between 1994 and 2019, as well as an extreme rise in mortality among Black immigrants during the COVID-19 pandemic. These results are credible in spite of the significant data and analytic challenges intrinsic to the research question. They suggest the need for new avenues of research, including research that is attentive to substantial changes in Black immigrants’ origins and situations, research that reinterprets Black/White trends in light of a changing population composition, and research into the drivers of pandemic-era mortality. Much of the research on Black/White trends has homogenized the Black population, and these results dramatize the analytical weaknesses of failing to take heterogeneity seriously.</description>
-    </item>
-    <item>
-      <title>Childhood maltreatment and 20-year trajectories of sleep disturbance among midlife women: the Study of Women’s Health Across the Nation</title>
-      <link>https://doi.org/10.1093/aje/kwag102</link>
-      <guid isPermaLink="false">10.1093/aje/kwag102</guid>
-
-      <dc:creator>Caroline Y Doyle</dc:creator>
-      <dc:creator>Yuefang Chang</dc:creator>
-      <dc:creator>Howard M Kravitz</dc:creator>
-      <dc:creator>Nancy E Avis</dc:creator>
-      <dc:creator>Rebecca C Thurston</dc:creator>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Caroline Y Doyle, Yuefang Chang, Howard M Kravitz, Nancy E Avis, Rebecca C Thurston
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2170-2178
-
-Abstract: Abstract Childhood maltreatment and adult sleep disturbance are significant, related public health concerns, but the extent to which they are associated over time is unknown. We investigated whether childhood maltreatment is associated with sleep disturbance over 20 years in a large, diverse, community sample of 1654 midlife women from 1996 to 2017 in a multicenter cohort study: The Study of Women’s Health Across the Nation. Childhood maltreatment was assessed via The Childhood Trauma Questionnaire, and insomnia symptoms were assessed via self-report at 14 visits. Insomnia symptom trajectories were derived using group-based trajectory modeling. Associations between childhood maltreatment and insomnia trajectories were evaluated via multinomial logistic regression. Four trajectories of insomnia symptoms were identified: consistently low, increasing, moderate/decreasing, and consistently high symptoms. Childhood maltreatment was associated with higher adjusted odds of moderate/decreasing (odds ratio [OR], 1.40; 95% CI, 1.05-1.87) and consistently high (OR, 2.06; 95% CI, 1.56-2.74) insomnia symptoms, respectively. Both physical and sexual abuse were associated with higher adjusted odds of moderate/decreasing and consistently high insomnia symptoms. Childhood maltreatment, particularly physical and sexual abuse, is associated with higher odds of chronic insomnia symptoms in women across midlife. These findings point to an at-risk population that may warrant early intervention to prevent and reduce disturbed sleep.</description>
-    </item>
-    <item>
-      <title>COVID-19 vaccination in pregnancy and postpartum and human milk feeding non-initiation and discontinuation</title>
-      <link>https://doi.org/10.1093/aje/kwag105</link>
-      <guid isPermaLink="false">10.1093/aje/kwag105</guid>
-
-      <dc:creator>Elisabeth Brandstetter Figueroa</dc:creator>
-      <dc:creator>Gabriela Vazquez-Benitez</dc:creator>
-      <dc:creator>Kirsten Ehresmann</dc:creator>
-      <dc:creator>Elisabeth M Seburg</dc:creator>
-      <dc:creator>Yihe G Daida</dc:creator>
-      <dc:creator>Kimberly K Vesco</dc:creator>
-      <dc:creator>Abbey Sidebottom</dc:creator>
-      <dc:creator>Heather S Lipkind</dc:creator>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elisabeth Brandstetter Figueroa, Gabriela Vazquez-Benitez, Kirsten Ehresmann, Elisabeth M Seburg, Yihe G Daida, Kimberly K Vesco, Abbey Sidebottom, Heather S Lipkind, et al.
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2121-2130
-
-Abstract: Abstract Empirical evidence on COVID-19 vaccination and lactation-related outcomes remains limited. We used electronic health record data from 4 US healthcare systems to assess the association between COVID-19 vaccination and milk feeding outcomes. We included pregnant persons with a live birth between December 2020 and September 2022 with infant linkage. We assessed 2 COVID-19 vaccination exposure windows—during pregnancy (≥20 weeks gestation vs no vaccination during pregnancy) or postpartum (&amp;amp;lt;7 months after delivery vs none). We estimated adjusted prevalence ratios (aPR) for COVID-19 vaccination during pregnancy and human milk feeding non-initiation and discontinuation, and we estimated adjusted hazard ratios (aHR) for postpartum COVID-19 vaccination and human milk feeding discontinuation. In the study population used to assess pregnancy exposure (N = 10 757), 4.2% of birthing parents did not initiate human milk feeding. Non-initiation did not differ by vaccination during pregnancy (aPR = 0.99; 95% CI, 0.98-1.01). Antenatal vaccination was not associated with human milk feeding discontinuation at 2 and 6 months after delivery. In the study population used to assess postpartum exposure (N = 17 161), human milk feeding discontinuation did not differ by postpartum vaccination (aHR = 1.03; 95% CI, 0.95-1.11). COVID-19 vaccination in pregnancy and postpartum were not associated with human milk feeding discontinuation.</description>
     </item>
   </channel>
 </rss>

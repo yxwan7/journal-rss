@@ -5,8 +5,72 @@
     <link>https://jamanetwork.com/journals/jamacardiology</link>
     <description>Latest journal articles for JAMA Cardiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:43:31 +0000</lastBuildDate>
 
+    <item>
+      <title>Artificial Intelligence–Enabled Acquisition and Interpretation for Screening Aortic Stenosis</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3829</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3829</guid>
+
+      <dc:creator>Eunjung Lee</dc:creator>
+      <dc:creator>Jwan A. Naser</dc:creator>
+      <dc:creator>Conor J. Kane</dc:creator>
+      <dc:creator>Jude L. Kovac</dc:creator>
+      <dc:creator>Christie Greason</dc:creator>
+      <dc:creator>Méabh M. Killalea</dc:creator>
+      <dc:creator>Mayari A. Gulati</dc:creator>
+      <dc:creator>John I. Jackson</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Eunjung Lee, Jwan A. Naser, Conor J. Kane, Jude L. Kovac, Christie Greason, Méabh M. Killalea, Mayari A. Gulati, John I. Jackson, et al.
+
+Journal: JAMA Cardiology
+
+Abstract: Importance Timely identification of aortic stenosis (AS) is essential for appropriate clinical management, yet screening remains limited by dependence on comprehensive echocardiography and trained imaging personnel. Objective To develop and validate a deep learning algorithm for detection of moderate or greater AS and prospectively evaluate its performance using artificial intelligence (AI)–guided focused cardiac ultrasound (FoCUS) acquired by novice operators. Design, Setting, and Participants This diagnostic study included retrospective algorithm development and validation and prospective evaluation of AI-guided FoCUS across Mayo Clinic sites in the Midwest, Arizona, and Florida. The model was developed using 6753 patients and evaluated in internal validation (n = 852), internal test (n = 844), and validation (n = 1912) cohorts. Performance was assessed on FoCUS acquired by experienced sonographers (n = 602) and prospectively by novice operators (n = 1302). The retrospective model development and validation cohorts comprised studies performed from January 2005 through September 2022. Prospective study was conducted in 2 enrollment periods from June to August 2024 and from June to September 2025. Participants from both periods were combined to comprise the final prospective cohort. Exposure AI-guided FoCUS acquisition and automated deep learning–based assessment for detection of moderate or greater AS. Main Outcomes and Measures Detection of moderate or greater AS. Performance was assessed using area under the receiver operating characteristic curve (AUROC), sensitivity, specificity, and positive predictive value. Results The model demonstrated excellent discrimination in the internal test cohort (AUROC, 0.99; 95% CI, 0.98-1.00) and geographically distinct validation cohorts in Arizona (AUROC, 0.99; 95% CI, 0.97-1.00) and Florida (AUROC, 0.99; 95% CI, 0.96-1.00). Among FoCUS examinations acquired by experienced sonographers, sensitivity was 95% (95% CI, 82-99) and specificity was 97% (95% CI, 95-98). In the prospective novice-operator cohort, 1258 of 1302 examinations (96.6%) were suitable for automated analysis. Sensitivity was 93% (95% CI, 82-99) and specificity was 96% (95% CI, 95-97). Expert review of AI-positive and uninterpretable examinations increased the positive predictive value from 49.4% to 91.1%, with sensitivity of 85.4%. Conclusions and Relevance A deep learning algorithm accurately detected moderate or greater AS across validation cohorts in this study. In prospective evaluation, novice operators were able to acquire AI-guided FoCUS examinations that enabled accurate detection of moderate or greater AS. These findings support a scalable strategy that may expand access to AS detection in settings with limited echocardiography resources.</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence for Acquisition and Interpretation of Echocardiography—Closing the Loop</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3877</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3877</guid>
+
+      <dc:creator>Thomas H. Marwick</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Thomas H. Marwick
+
+Journal: JAMA Cardiology</description>
+    </item>
+    <item>
+      <title>Machine Learning–Driven Risk Prediction Model in Transthyretin Amyloid Cardiomyopathy</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3496</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3496</guid>
+
+      <dc:creator>Giovanni Baj</dc:creator>
+      <dc:creator>Nicola Ciocca</dc:creator>
+      <dc:creator>Pooya Mohammadi Kazaj</dc:creator>
+      <dc:creator>Xuan Ma</dc:creator>
+      <dc:creator>Annina A. Studer Bruengger</dc:creator>
+      <dc:creator>Simon F. Stämpfli</dc:creator>
+      <dc:creator>Niklas F. Ehl</dc:creator>
+      <dc:creator>Sarah Hugelshofer</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Giovanni Baj, Nicola Ciocca, Pooya Mohammadi Kazaj, Xuan Ma, Annina A. Studer Bruengger, Simon F. Stämpfli, Niklas F. Ehl, Sarah Hugelshofer, et al.
+
+Journal: JAMA Cardiology
+
+Abstract: Importance Transthyretin cardiac amyloidosis (ATTR-CM) is associated with poor prognosis and significant morbidity and mortality, yet existing staging systems have limited ability to accurately predict outcomes in contemporary patient populations. Objective To develop and validate a machine learning (ML)–based prognostic model for patients with ATTR-CM. Design, Setting, and Participants This multicenter cohort study, including specialized referral centers for cardiac amyloidosis, used data from patients with confirmed ATTR-CM in the Swiss Cardiac Amyloidosis Registry (February 2018 to November 2025) and the Cardiac Amyloidosis Registry of the Medical University of Vienna (July 2014 to February 2025). A random survival forest model was developed and evaluated through internal-external cross-validation, with each center iteratively held out for validation. The model was compared with the National Amyloidosis Centre and Mayo Clinic staging systems. Data analysis was conducted from December 2025 to February 2026. Exposure Clinical, demographic, medication, laboratory, and echocardiographic variables were used to train an ML-based time-to-event prediction model. Main Outcomes and Measures The primary outcome was defined as a composite event of all-cause mortality and hospitalization for heart failure. Results A total of 850 patients (median [IQR] age, 79 [74-83] years; 750 [88.2%] male) were included across 3 cohorts (from Bern, Switzerland [Bern-Swiss cohort], n = 352; the other centers from Switzerland combined [Other-Swiss cohort], n = 260; and Vienna, Austria [Vienna cohort], n = 238). The random survival forest model demonstrated good discrimination across all held-out cohorts, with Harrell concordance indices of 0.74 (95% CI, 0.69-0.78), 0.77 (95% CI, 0.69-0.83), and 0.72 (95% CI, 0.67-0.77) for the Bern-Swiss, Other-Swiss, and Vienna cohorts, respectively, and 3-year area under the curve (AUC) of 0.73 (95% CI, 0.66-0.80), 0.80 (95% CI, 0.70-0.88), and 0.75 (95% CI, 0.67-0.83), respectively. The model showed improved discrimination compared with the National Amyloidosis Centre and Mayo Clinic staging systems, with Harrell concordance indices 2% to 10% higher and 3-year AUC improvements ranging from 3% to 19% across cohorts and scoring systems. Calibration was generally acceptable across cohorts and time points. Model performance remained satisfactory in the subgroup of patients receiving disease-modifying therapy. Explainability analyses identified clinically plausible drivers of risk. Conclusions and Relevance An ML-based time-to-event prediction model demonstrated promising predictive performance and showed improved discrimination compared with established staging systems in patients with ATTR-CM, supporting its potential for individualized prognostication.</description>
+    </item>
+    <item>
+      <title>From Static Staging to Dynamic Risk Prediction in Transthyretin Amyloid Cardiomyopathy</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3503</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3503</guid>
+
+      <dc:creator>Marianna Fontana</dc:creator>
+      <dc:creator>Julian D. Gillmore</dc:creator>
+      <dc:creator>Scott David Solomon</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marianna Fontana, Julian D. Gillmore, Scott David Solomon
+
+Journal: JAMA Cardiology</description>
+    </item>
     <item>
       <title>Cardiac Decompensation and Skin Lesions in a Patient in His 40s</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3106</link>
@@ -1296,6 +1360,25 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 7; Pages: 669
 Abstract: Importance Non–high-density-lipoprotein (non-HDL) cholesterol and apolipoprotein B (apoB) are better markers of atherosclerotic cardiovascular disease (ASCVD) risk than low-density-lipoprotein cholesterol, but whether non-HDL cholesterol or apoB is superior to the other is less clear. Objective To assess if non-HDL cholesterol provides information on ASCVD beyond apoB, and vice versa. Design, Setting, and Participants The Copenhagen General Population Study, a population-based contemporary cohort study in Danish individuals recruited in 2003-2015 with a median of 13.2 (IQR, 10.3-15.8) years of follow-up, included women and men not taking lipid-lowering medication and with non-HDL cholesterol and apoB measurements at baseline. Data were analyzed from January 3 through June 23, 2025. Exposures Continuous non-HDL cholesterol and apoB assessed as absolute levels and SDs as well as categories of concordance/discordance between non-HDL cholesterol and apoB defined by medians—(1) concordant low: non-HDL cholesterol and apoB less than the median; (2) discordant high apoB: non-HDL cholesterol less than the median and apoB greater than the median; (3) discordant high non-HDL cholesterol: non-HDL cholesterol greater than the median and apoB less than the median; and (4) concordant high: non-HDL cholesterol and apoB greater than median values. Main Outcomes and Measures Myocardial infarction and ASCVD events estimated by Cox proportional hazards regressions using age as 19 years the underlying time scale and delayed entry (left truncation) at baseline. Results This cohort study in 94 398 individuals (53 042 women [56%]) with a total of 2462 first myocardial infarction (MI) and 5723 first ASCVD events found that any higher levels of non-HDL cholesterol or apoB on continuous scales were associated with similar increased risk of MI and ASCVD; for 1-SD higher levels, the multivariable-adjusted hazard ratio (HR) for ASCVD was 1.16 (95% CI, 1.13-1.19) for non-HDL cholesterol (39 mg/dL) and 1.14 (95% CI, 1.12-1.17) for apoB (30 mg/dL). Further adjusting for non-HDL cholesterol in the apoB model, and vice versa, attenuated the HRs, although the findings were still significant. Compared with concordant low non-HDL cholesterol and apoB, the HR for MI was 1.32 (95% CI, 1.10-1.59) for discordant high apoB, 1.30 (95% CI, 1.05-1.60) for discordant high non-HDL cholesterol, and 1.69 (95% CI, 1.53-1.85) for concordant high non-HDL cholesterol and apoB; corresponding values for ASCVD were 1.14 (95% CI, 1.01-1.29), 1.21 (95% CI, 1.06-1.38), and 1.36 (95% CI, 1.28-1.44). Conclusions and Relevance In this study, in individuals not taking lipid-lowering medication, non-HDL cholesterol provides information on ASCVD risk beyond apoB, and vice versa, indicating that both cholesterol content and particle number are important for risk.</description>
     </item>
     <item>
+      <title>Efficacy and Safety of Prasugrel, Ticagrelor, or Clopidogrel After Percutaneous Coronary Intervention</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.1128</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.1128</guid>
+
+      <dc:creator>M. Haisum Maqsood</dc:creator>
+      <dc:creator>Frederick Feit</dc:creator>
+      <dc:creator>Upendra Kaul</dc:creator>
+      <dc:creator>Sunil V. Rao</dc:creator>
+      <dc:creator>Daniele Giacoppo</dc:creator>
+      <dc:creator>Adnan Kastrati</dc:creator>
+      <dc:creator>Sripal Bangalore</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: M. Haisum Maqsood, Frederick Feit, Upendra Kaul, Sunil V. Rao, Daniele Giacoppo, Adnan Kastrati, Sripal Bangalore
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 7; Pages: 651
+
+Abstract: Importance The relative efficacy and safety of oral P2Y purinergic receptor 12 (P2Y 12 ) inhibitors (clopidogrel, ticagrelor, or prasugrel) after percutaneous coronary intervention (PCI) are not well defined. Objective To assess the efficacy and safety of oral P2Y 12 inhibitors in patients who underwent PCI. Data Sources and Study Selection PubMed and Embase were searched until November 15, 2025, for randomized clinical trials comparing at least 2 of the 3 agents. Data Extraction and Synthesis Data were abstracted by 2 independent authors according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses ( PRISMA ) reporting guidelines. Random-effects odds ratios (ORs) and 95% confidence intervals were calculated. Data were analyzed in December 2025. Main Outcomes and Measures The primary efficacy outcome was major adverse cardiovascular events (MACE), while the primary safety outcome was major bleeding. The primary analysis compared prasugrel and ticagrelor in reference to clopidogrel using a mixed treatment comparison meta-analysis. Results Data were analyzed from 15 randomized clinical trials that included 48 904 patients (mean [SD] age, 63.2 [4.21] years; 13 330 female patients [27.3%]). Compared with clopidogrel, there was a lower risk of MACE (OR, 0.80; 95% CI, 0.69-0.93) driven by lower myocardial infarction (OR, 0.71; 95% CI, 0.62-0.82) and stent thrombosis (OR, 0.48; 95% CI, 0.37-0.62) with prasugrel. MACE was not reduced with ticagrelor compared with clopidogrel, although there was lower stent thrombosis (OR, 0.73; 95% CI, 0.59-0.91). Furthermore, there was lower risk of MACE with prasugrel compared to ticagrelor (OR, 0.83; 95% CI, 0.70-0.98) driven by lower myocardial infarction (OR, 0.78; 95% CI, 0.65-0.94) and stent thrombosis (OR, 0.66; 95% CI, 0.49-0.88). There was a higher risk of major bleeding with ticagrelor vs clopidogrel (OR, 1.24; 95% CI, 1.01-1.52) driven by higher intracranial hemorrhage (OR, 1.89; 95% CI, 1.08-3.33). Prasugrel ranked first, followed by ticagrelor and clopidogrel, for MACE, myocardial infarction, and stent thrombosis. Conclusions and Relevance In this systematic review and meta-analysis of 15 randomized clinical trials in patients who underwent PCI, prasugrel provided the optimal balance between efficacy and safety compared with ticagrelor and clopidogrel.</description>
+    </item>
+    <item>
       <title>JAMA Cardiology</title>
       <link>https://doi.org/10.1001/jamacardio.2025.3553</link>
       <guid isPermaLink="false">10.1001/jamacardio.2025.3553</guid>
@@ -1315,25 +1398,6 @@ Abstract: Importance Non–high-density-lipoprotein (non-HDL) cholesterol and ap
       <description>Authors: Xiaofeng Hu, Xu Liu, Xumin Hou
 
 Journal: JAMA Cardiology; Volume: 11; Issue: 7; Pages: 693</description>
-    </item>
-    <item>
-      <title>Efficacy and Safety of Prasugrel, Ticagrelor, or Clopidogrel After Percutaneous Coronary Intervention</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.1128</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.1128</guid>
-
-      <dc:creator>M. Haisum Maqsood</dc:creator>
-      <dc:creator>Frederick Feit</dc:creator>
-      <dc:creator>Upendra Kaul</dc:creator>
-      <dc:creator>Sunil V. Rao</dc:creator>
-      <dc:creator>Daniele Giacoppo</dc:creator>
-      <dc:creator>Adnan Kastrati</dc:creator>
-      <dc:creator>Sripal Bangalore</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: M. Haisum Maqsood, Frederick Feit, Upendra Kaul, Sunil V. Rao, Daniele Giacoppo, Adnan Kastrati, Sripal Bangalore
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 7; Pages: 651
-
-Abstract: Importance The relative efficacy and safety of oral P2Y purinergic receptor 12 (P2Y 12 ) inhibitors (clopidogrel, ticagrelor, or prasugrel) after percutaneous coronary intervention (PCI) are not well defined. Objective To assess the efficacy and safety of oral P2Y 12 inhibitors in patients who underwent PCI. Data Sources and Study Selection PubMed and Embase were searched until November 15, 2025, for randomized clinical trials comparing at least 2 of the 3 agents. Data Extraction and Synthesis Data were abstracted by 2 independent authors according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses ( PRISMA ) reporting guidelines. Random-effects odds ratios (ORs) and 95% confidence intervals were calculated. Data were analyzed in December 2025. Main Outcomes and Measures The primary efficacy outcome was major adverse cardiovascular events (MACE), while the primary safety outcome was major bleeding. The primary analysis compared prasugrel and ticagrelor in reference to clopidogrel using a mixed treatment comparison meta-analysis. Results Data were analyzed from 15 randomized clinical trials that included 48 904 patients (mean [SD] age, 63.2 [4.21] years; 13 330 female patients [27.3%]). Compared with clopidogrel, there was a lower risk of MACE (OR, 0.80; 95% CI, 0.69-0.93) driven by lower myocardial infarction (OR, 0.71; 95% CI, 0.62-0.82) and stent thrombosis (OR, 0.48; 95% CI, 0.37-0.62) with prasugrel. MACE was not reduced with ticagrelor compared with clopidogrel, although there was lower stent thrombosis (OR, 0.73; 95% CI, 0.59-0.91). Furthermore, there was lower risk of MACE with prasugrel compared to ticagrelor (OR, 0.83; 95% CI, 0.70-0.98) driven by lower myocardial infarction (OR, 0.78; 95% CI, 0.65-0.94) and stent thrombosis (OR, 0.66; 95% CI, 0.49-0.88). There was a higher risk of major bleeding with ticagrelor vs clopidogrel (OR, 1.24; 95% CI, 1.01-1.52) driven by higher intracranial hemorrhage (OR, 1.89; 95% CI, 1.08-3.33). Prasugrel ranked first, followed by ticagrelor and clopidogrel, for MACE, myocardial infarction, and stent thrombosis. Conclusions and Relevance In this systematic review and meta-analysis of 15 randomized clinical trials in patients who underwent PCI, prasugrel provided the optimal balance between efficacy and safety compared with ticagrelor and clopidogrel.</description>
     </item>
     <item>
       <title>Warming Planet, Aging Population, and Cardiovascular Crisis</title>
@@ -1451,65 +1515,6 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 6; Pages: 563</description>
       <description>Authors: Sadiya S. Khan, Chiadi E. Ndumele, Donald M. Lloyd-Jones
 
 Journal: JAMA Cardiology; Volume: 11; Issue: 6; Pages: 610</description>
-    </item>
-    <item>
-      <title>Cardiorenal Outcomes With Tirzepatide Compared With Dulaglutide in Patients With Diabetes and Cardiovascular Disease</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.0767</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.0767</guid>
-
-      <dc:creator>Steven E. Nissen</dc:creator>
-      <dc:creator>Kathy Wolski</dc:creator>
-      <dc:creator>David D’Alessio</dc:creator>
-      <dc:creator>Govinda Weerakkody</dc:creator>
-      <dc:creator>Jacek Kiljanski</dc:creator>
-      <dc:creator>Russell J. Wiese</dc:creator>
-      <dc:creator>Imre Pavo</dc:creator>
-      <dc:creator>Bertrand Cariou</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Steven E. Nissen, Kathy Wolski, David D’Alessio, Govinda Weerakkody, Jacek Kiljanski, Russell J. Wiese, Imre Pavo, Bertrand Cariou, et al.
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 6; Pages: 544
-
-Abstract: Importance The dual glucagon-like peptide 1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) agonist tirzepatide was noninferior to a GLP-1 agonist, dulaglutide, for effects on the composite outcome of cardiovascular death, myocardial infarction (MI), or stroke. However, comparison for a comprehensive range of major adverse cardiovascular and kidney outcomes has not been reported. Objective To perform a post hoc analysis for an expanded range of adverse outcomes in a completed randomized clinical trial comparing the effects of tirzepatide and dulaglutide in patients with type 2 diabetes and cardiovascular disease. Design, Setting, and Participants This parallel-design double-blind trial enrolled patients with diabetes and preexisting cardiovascular disease (from May 29, 2020, to June 27, 2022) at 640 centers in North and South America, Europe, Asia, and Oceania. Data were analyzed from July 2025 to February 2026. Interventions Participants were randomized to receive subcutaneous tirzepatide up to 15 mg (n = 6586) or a fixed dose of dulaglutide, 1.5 mg (n = 6579), administered weekly. Main Outcomes and Measures The primary efficacy measure was time from randomization to first occurrence of a 6-component composite of cardiorenal adverse outcomes, including all-cause mortality, MI, stroke, coronary revascularization, hospitalization for heart failure, and a composite of adverse kidney outcomes. Results Among the 13 165 patients enrolled, the mean (SD) age was 64 (8.8) years; 9348 patients (71.0%) were male and 3817 were female (29.0%). The mean (SD) hemoglobin A 1c was 8.4% (0.93). After a median (IQR) treatment duration of 46.9 (34.6-50.6) months, the primary cardiorenal end point occurred in 1559 tirzepatide-treated patients (23.7%) and 1803 dulaglutide-treated patients (27.4%; hazard ratio [HR], 0.84; 95% CI, 0.79-0.90; P &amp;amp;amp;lt; .001). Sensitivity analyses showed similar hazard ratios for a narrower 5-component end point (without the kidney composite outcomes: HR, 0.86; 95% CI, 0.80-0.93) and the 4-component composite (without either kidney or heart failure end points: HR, 0.86; 95% CI, 0.80-0.93). Gastrointestinal adverse events were more common with tirzepatide (2827 patients [42.5%]) than dulaglutide (2387 patients [35.9%]) treatment. Other adverse events were similar. Conclusions In this post hoc analysis, the dual GLP-1 and GIP agonist tirzepatide, compared with the GLP-1 agonist dulaglutide, was associated with a lower incidence of a broad 6-component composite cardiovascular and kidney end point in patients with diabetes and established cardiovascular disease. Trial Registration ClinicalTrials.gov Identifier: NCT04255433</description>
-    </item>
-    <item>
-      <title>Antiplatelet Therapy After CABG—Toward a Mechanistic Approach</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.0840</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.0840</guid>
-
-      <dc:creator>Sigrid Sandner</dc:creator>
-      <dc:creator>Raffaele De Caterina</dc:creator>
-      <dc:creator>Mario Gaudino</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sigrid Sandner, Raffaele De Caterina, Mario Gaudino
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 6; Pages: 489
-
-Abstract: This Viewpoint discusses a novel, biology-driven concept aligning antiplatelet therapy with evolving thrombotic risk after coronary artery bypass graft (CABG) surgery.</description>
-    </item>
-    <item>
-      <title>AI Electrocardiogram as a Potential Surrogate for Septal Fibrosis</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.0350</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.0350</guid>
-
-      <dc:creator>Yin Ge</dc:creator>
-      <dc:creator>Ioannis Skalidis</dc:creator>
-      <dc:creator>Panagiotis Antiochos</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yin Ge, Ioannis Skalidis, Panagiotis Antiochos
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 6; Pages: 608</description>
-    </item>
-    <item>
-      <title>Rethinking Sudden Death in Heart Failure With Mildly Reduced or Preserved Ejection Fraction</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.0692</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.0692</guid>
-
-      <dc:creator>Gregg C. Fonarow</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gregg C. Fonarow
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 6; Pages: 582</description>
     </item>
   </channel>
 </rss>
