@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:41:22 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -63,20 +63,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
     </item>
     <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
-
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
-
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
-    </item>
-    <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
       <link>https://doi.org/10.1093/ije/dyag176</link>
       <guid isPermaLink="false">10.1093/ije/dyag176</guid>
@@ -93,6 +79,20 @@ Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag176
 
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
+    </item>
+    <item>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>Age-specific vulnerability of kidney diseases to temperature: a nationwide case-crossover study</title>
@@ -168,6 +168,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
     </item>
     <item>
+      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
+      <link>https://doi.org/10.1093/ije/dyag171</link>
+      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
+
+      <dc:creator>Marco Aurélio Peres</dc:creator>
+      <dc:creator>Pinyan Liu</dc:creator>
+      <dc:creator>John Rong Hao Tay</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
+    </item>
+    <item>
       <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
       <link>https://doi.org/10.1093/ije/dyag177</link>
       <guid isPermaLink="false">10.1093/ije/dyag177</guid>
@@ -188,17 +201,23 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Our goal was to evaluate the relationship between prenatal fluoride exposure and pregnancy outcomes. Methods We measured urinary fluoride collected during the second trimester among pregnant people recruited from California and Illinois from 2014 to 2020 (N = 949). We evaluated risk differences (RDs) of preterm birth (PTB), small-for-gestational age (SGA), large-for-gestational age (LGA), gestational diabetes, and differences in birthweight, birthweight-for-gestational age z-scores, and gestational age associated with a 0.1 mg/l increase in fluoride using linear regression to estimate effects on the additive scale. We also used modified treatment policies with machine learning to estimate the effects of hypothetical interventions to reduce urinary fluoride by 0.1 and 0.5 mg/l on pregnancy outcomes. In the Illinois cohort, we estimated effects by trimester. Results In our main analyses, we found no associations between urinary fluoride levels and pregnancy outcomes. For instance, for a 0.1 mg/l increase in fluoride, we saw no change in the risk of PTB, SGA, or gestational diabetes. We also found no differences associated with hypothetical reductions of prenatal fluoride by 0.1 mg/l or 0.5 mg/l for any outcomes. In the trimester-specific analyses for Illinois participants, we found increased LGA risk during the first (RD = 0.004, 95% CI −0.001, 0.009) and third trimesters (RD = 0.007, 95% CI 0.001, 0.012), and reduced LGA risk during the second trimester (RD = −0.006, 95% CI −0.011, 0.000), associated with 0.1 mg/l higher urinary fluoride. Conclusions Prenatal fluoride exposure does not appear to affect pregnancy outcomes, but preliminary evidence suggests that higher fluoride levels may affect the risk of LGA depending on timing of exposure during pregnancy.</description>
     </item>
     <item>
-      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
-      <link>https://doi.org/10.1093/ije/dyag171</link>
-      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
+      <title>Total moderate-to-vigorous physical activity across the adult life course and the risk of invasive ovarian cancer</title>
+      <link>https://doi.org/10.1093/ije/dyag160</link>
+      <guid isPermaLink="false">10.1093/ije/dyag160</guid>
 
-      <dc:creator>Marco Aurélio Peres</dc:creator>
-      <dc:creator>Pinyan Liu</dc:creator>
-      <dc:creator>John Rong Hao Tay</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
+      <dc:creator>Jennifer A Ritonja</dc:creator>
+      <dc:creator>Sreenath Madathil</dc:creator>
+      <dc:creator>Belinda Nicolau</dc:creator>
+      <dc:creator>Lisa Leung</dc:creator>
+      <dc:creator>Vikki Ho</dc:creator>
+      <dc:creator>Michal Abrahamowicz</dc:creator>
+      <dc:creator>Anita Koushik</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jennifer A Ritonja, Sreenath Madathil, Belinda Nicolau, Lisa Leung, Vikki Ho, Michal Abrahamowicz, Anita Koushik
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag160
+
+Abstract: Abstract Background Previous research on moderate-to-vigorous physical activity (MVPA) and ovarian cancer risk have shown inconsistent results. Most studies measured recreational MVPA once during late adulthood, which does not consider the way in which timing may differently influence risk or account for MVPA from other activities. Life-course epidemiology models (critical-period, sensitive-period, and accumulation) can evaluate whether the timing and cumulative burden of total MVPA across the lifespan influences risk. Here, we identify which model best describes the association between total MVPA, encompassing recreational, occupational, household, and transportation activities, and invasive ovarian cancer risk. Methods A population-based case–control study of ovarian cancer in Montreal, Canada (2011–16) included 268 invasive cases and 668 controls aged ≥52 years. Total MVPA was determined by using recalled information on the frequency and duration of various physical activities across adulthood. A Bayesian relevant life course exposure model was used to estimate the relative importance of total MVPA, represented as average energy expenditure in units of metabolic equivalent (MET)-hours/week, during three pre-specified periods (early reproductive years, late reproductive years/perimenopause, and postmenopause) on invasive ovarian cancer risk. Results The lifetime-effect odds ratio comparing ≥50 vs &amp;amp;lt;50 MET-hours/week across adulthood was 0.59 (95% credible interval: 0.35–0.93). MVPA during late reproductive years/perimenopause showed the highest relative importance, suggesting that this may be a sensitive period. Associations were similar for serous and non-serous subtypes. Conclusion Our results support that higher MVPA across the adult life course is associated with a reduced invasive ovarian cancer risk and mid-adulthood, represented by late reproductive years/perimenopause, may be a sensitive period.</description>
     </item>
     <item>
       <title>Can paternal snus use shape offspring’s asthma risk? Implications, epidemiological insights, and gaps in epigenetic evidence</title>
@@ -424,19 +443,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Healthy life years are estimated from national population surveys that assess limitations in daily activities. However, the infrequent timing and limited sample sizes hinder the timely and detailed assessment of regional health conditions. We aimed to develop a novel method to estimate municipal-level healthy life years without activity limitations by using medical claims data. Methods We analysed medical claims data in Kyoto Prefecture, Japan. Outpatient data from May to July in 2016 and 2019 (n = 1 489 920) were used for development and data from the same period in 2022 (n = 739 236) were used for evaluation. A total of 5743 diagnostic codes were aggregated into 40 disease categories. A machine-learning model was employed to produce the probability of activity limitation, which was calibrated by using data from the Comprehensive Survey of Living Conditions and applied to derive age-specific prevalence rates. Healthy life years at the municipal level as of June 2022 were then estimated by incorporating a life table. Results We observed variation in healthy life years among municipalities: 72.1 years across all regions for males, ranging from 67.3 to 75.2 years, and 75.8 years for females, ranging from 71.3 to 77.6 years. Regional disparities were also noted in the prevalence of diseases associated with activity limitations. Conclusion This study provides the first robust, scalable method to estimate healthy life years without activity limitations at the municipal level by using real-world administrative data. Timely monitoring of regional healthy life years will support targeted health-promotion policies and contribute to reducing health disparities.</description>
     </item>
     <item>
-      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
-      <link>https://doi.org/10.1093/ije/dyag149</link>
-      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
-
-      <dc:creator>Dabin Chen</dc:creator>
-      <dc:creator>Jingyuan Li</dc:creator>
-      <dc:creator>Ting Ye</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
-    </item>
-    <item>
       <title>Cohort Profile: The Nanjing Chronic Disease Cohort</title>
       <link>https://doi.org/10.1093/ije/dyag107</link>
       <guid isPermaLink="false">10.1093/ije/dyag107</guid>
@@ -453,6 +459,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Xin Hong, Yuefan Shen, Chenchen Wang, Qing Ye, Weiwei Wang, Yijia Chen, Hao Xu, Jie Wu, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag107</description>
+    </item>
+    <item>
+      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
+      <link>https://doi.org/10.1093/ije/dyag149</link>
+      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
+
+      <dc:creator>Dabin Chen</dc:creator>
+      <dc:creator>Jingyuan Li</dc:creator>
+      <dc:creator>Ting Ye</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
     </item>
     <item>
       <title>The impact of school-based mitigation measures on the transmission of respiratory pathogens: the case of SARS-CoV-2</title>
@@ -1658,24 +1677,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag057
 
 Abstract: Abstract Background Chronic kidney disease (CKD) and chronic inflammation are highly prevalent in African populations, yet their relationship remains understudied. We examined the association between acute-phase reactants (C-reactive protein and ferritin) as markers of acute and chronic inflammation and the incidence of CKD 6 years later in a prospective Ghanaian population-based cohort. Methods Data from the prospective Research on Obesity and Diabetes among African Migrants (RODAM-Pros) cohort were analysed and included participants living in rural and urban Ghana and Ghanaian migrants in the Netherlands. Acute-phase reactants were assessed between 2012 and 2015, while CKD incidence was assessed between 2019 and 2021 by using the race-free Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) 2021 equation. Robust Poisson regression models adjusted for potential confounders were used to assess associations. We explored interactions with age, sex, education, and geographical location, and stratified C-reactive protein (CRP) analyses by using established clinical cutoffs. The role of ferritin as an iron-storage marker was also evaluated. Results Among 1435 participants, the baseline CRP was not associated with CKD incidence at follow-up [adjusted incidence rate ratio (aIRR) 1.02; 95% confidence interval (CI): 0.84–1.15]. Higher ferritin levels were associated with increased CKD risk (aIRR 3.53; 95% CI: 2.42–5.01) and albuminuria (aIRR 4.22; 95% CI: 2.87–6.10), but not with reduced estimated glomerular filtration rate (aIRR 0.99; 95% CI: 0.92–1.05). No effect modification was observed by age, sex, education, or geographical location. We found no evidence that iron overload or deficiency contributed to the ferritin–CKD relationship. Conclusion Elevated ferritin levels, but not CRP levels, were associated with future CKD risk in Ghanaians. Multi-population prospective studies with repeated ferritin measurements are needed to better understand the links between ferritin, iron status, and CKD in African populations.</description>
-    </item>
-    <item>
-      <title>Cohort Profile Update: The Young Lives study</title>
-      <link>https://doi.org/10.1093/ije/dyag087</link>
-      <guid isPermaLink="false">10.1093/ije/dyag087</guid>
-
-      <dc:creator>Marta Favara</dc:creator>
-      <dc:creator>Maria De Los Ángeles Molina</dc:creator>
-      <dc:creator>Alan Sánchez</dc:creator>
-      <dc:creator>Kauser Mohsini</dc:creator>
-      <dc:creator>Tassew Woldehanna</dc:creator>
-      <dc:creator>Alula Pankhurst</dc:creator>
-      <dc:creator>Ellanki Revathi</dc:creator>
-      <dc:creator>Antonio Campos</dc:creator>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marta Favara, Maria De Los Ángeles Molina, Alan Sánchez, Kauser Mohsini, Tassew Woldehanna, Alula Pankhurst, Ellanki Revathi, Antonio Campos, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag087</description>
     </item>
   </channel>
 </rss>
