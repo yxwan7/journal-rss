@@ -5,8 +5,19 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:55:52 +0000</lastBuildDate>
 
+    <item>
+      <title>Obesity medicines as disruptive innovation</title>
+      <link>https://doi.org/10.1038/s41591-026-04594-1</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04594-1</guid>
+
+      <dc:creator>Naveed Sattar</dc:creator>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Naveed Sattar
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>Dual antithrombotic therapy using potent antiplatelet inhibitors in atrial fibrillation and acute coronary syndrome: a randomized controlled trial</title>
       <link>https://doi.org/10.1038/s41591-026-04629-7</link>
@@ -641,6 +652,20 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
+      <title>Lessons from deploying the ChatEHR system at Stanford Medicine</title>
+      <link>https://doi.org/10.1038/s41591-026-04574-5</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04574-5</guid>
+
+      <dc:creator>Nigam H. Shah</dc:creator>
+      <dc:creator>Niraj Sehgal</dc:creator>
+      <dc:creator>Euan A. Ashley</dc:creator>
+      <dc:creator>Michael A. Pfeffer</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Nigam H. Shah, Niraj Sehgal, Euan A. Ashley, Michael A. Pfeffer
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
       <title>Emergence of a Bundibugyo virus variant in the 2026 outbreak in the Democratic Republic of the Congo and Uganda</title>
       <link>https://doi.org/10.1038/s41591-026-04628-8</link>
       <guid isPermaLink="false">10.1038/s41591-026-04628-8</guid>
@@ -655,20 +680,6 @@ Journal: Nature Medicine</description>
       <dc:creator>Stephen Kanyerezi</dc:creator>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <description>Authors: Adrienne Amuri-Aziza, Gradi Luakanda-Ndelemo, Alisen Ayitewala, Daan Jansen, Pascal Adroba-Tandele, Andrew Tebba, Eddy Kinganda-Lusamaki, Stephen Kanyerezi, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Lessons from deploying the ChatEHR system at Stanford Medicine</title>
-      <link>https://doi.org/10.1038/s41591-026-04574-5</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04574-5</guid>
-
-      <dc:creator>Nigam H. Shah</dc:creator>
-      <dc:creator>Niraj Sehgal</dc:creator>
-      <dc:creator>Euan A. Ashley</dc:creator>
-      <dc:creator>Michael A. Pfeffer</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nigam H. Shah, Niraj Sehgal, Euan A. Ashley, Michael A. Pfeffer
 
 Journal: Nature Medicine</description>
     </item>
@@ -1547,24 +1558,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2831-2837
 
 Abstract: Abstract Frontier artificial intelligence (AI) models have advanced rapidly through training on internet-scale public data, yet such systems lack access to private clinical data. Neuroimaging is underrepresented in the public domain due to identifiable facial features within magnetic resonance imaging (MRI) and computed tomography (CT) scans, restricting model performance in clinical medicine. Here we show that frontier models underperform on neuroimaging tasks and that learning directly from uncurated data generated during routine clinical care at health systems, a paradigm we call ‘health system learning’, yields high-performance, generalist neuroimaging models. We introduce NeuroVFM, a visual foundation model trained on 5.24 million clinical MRI and CT volumes using a scalable volumetric predictive architecture. NeuroVFM learns comprehensive representations of brain anatomy and pathology, achieving state-of-the-art performance across multiple clinical tasks, including radiologic diagnosis and report generation. The model embeds MRI and CT scans into a shared neuroanatomic latent space and grounds diagnostic findings. When paired with open-source language models, NeuroVFM generates radiology reports that surpass frontier models in accuracy, clinical triage and expert preference. NeuroVFM reduces hallucinated findings and critical errors, offering safer clinical decision support. These results establish health system learning as a paradigm for building generalist medical AI and provide a scalable framework for clinical foundation models.</description>
-    </item>
-    <item>
-      <title>Challenges and future directions for multiple sclerosis after the 2024 McDonald diagnostic criteria</title>
-      <link>https://doi.org/10.1038/s41591-026-04490-8</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04490-8</guid>
-
-      <dc:creator>Jiwon Oh</dc:creator>
-      <dc:creator>Frederik Barkhof</dc:creator>
-      <dc:creator>Amit Bar-Or</dc:creator>
-      <dc:creator>Olga Ciccarrelli</dc:creator>
-      <dc:creator>Timothy Coetzee</dc:creator>
-      <dc:creator>Massimo Filippi</dc:creator>
-      <dc:creator>Cristina Granziera</dc:creator>
-      <dc:creator>Yael Hacohen</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jiwon Oh, Frederik Barkhof, Amit Bar-Or, Olga Ciccarrelli, Timothy Coetzee, Massimo Filippi, Cristina Granziera, Yael Hacohen, et al.
-
-Journal: Nature Medicine</description>
     </item>
   </channel>
 </rss>
