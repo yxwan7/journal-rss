@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:51:18 +0000</lastBuildDate>
 
     <item>
       <title>Foreshock productivity and rupture nucleation in injection-induced earthquakes in western Canada</title>
@@ -28,6 +28,23 @@ Journal: Science; Volume: 393; Issue: 6814; Article number: eaed9893
 Abstract: Foreshock activity is a key consideration in traffic-light protocol (TLP) to mitigate seismic risk from injection-induced earthquakes (IIEs). However, the seismogenic processes of IIE foreshocks remain poorly understood. Using an enhanced western Canada catalog (2014–2024), we analyzed 77 IIE sequences to statistically delineate foreshock patterns before local magnitude ( M L ) ≥ 3 mainshocks. We found that 92% are preceded by foreshocks and that foreshock productivity and spatiotemporal patterns reflect the interplay among fluid injection, the seismogenic index, and the fault stress state. Sequence-specific analyses elucidate three nucleation models: fluid-driven preslip with weakened source asperity, fluid-driven preslip with intact source asperity, and fluid-driven cascade, highlighting the central role of fluids in enabling aseismic slip and interevent stress transfer before mainshock rupture. These results imply that IIE monitoring strategies should be spatially conditioned according to foreshock productivity.</description>
     </item>
     <item>
+      <title>Recovering signatures of archaic hominin introgression using ancestral recombination graphs</title>
+      <link>https://doi.org/10.1126/science.aef8874</link>
+      <guid isPermaLink="false">10.1126/science.aef8874</guid>
+
+      <dc:creator>Yulin Zhang</dc:creator>
+      <dc:creator>Arjun Biddanda</dc:creator>
+      <dc:creator>Sarah A. Johnson</dc:creator>
+      <dc:creator>Colm O’Dushlaine</dc:creator>
+      <dc:creator>Priya Moorjani</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yulin Zhang, Arjun Biddanda, Sarah A. Johnson, Colm O’Dushlaine, Priya Moorjani
+
+Journal: Science; Volume: 393; Issue: 6814; Article number: eaef8874
+
+Abstract: Admixture between modern humans and extinct hominins has shaped the genomes of present-day individuals, but reconstructing this history has been constrained by the scarcity of archaic samples and unadmixed outgroup populations. We introduce TRACE, a reference- and outgroup-free approach that uses features of ancestral recombination graphs to identify archaic ancestry. Simulations demonstrate that TRACE achieves high precision and low false discovery rates. Applied to 1000 genomes, TRACE recovers known Neanderthal and Denisovan introgression and uncovers ghost admixture from uncharacterized hominins in both Africans and non-Africans. Ghost ancestry persists in Neanderthal and Denisovan ancestry deserts, challenging their interpretation as Homo sapiens –specific regions. In Oceanians, TRACE finds that deep lineages are enriched in Denisovan compared with Neanderthal regions, supporting super-archaic introgression. TRACE enables mapping of archaic introgression without archaic reference genomes.</description>
+    </item>
+    <item>
       <title>Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord</title>
       <link>https://doi.org/10.1126/science.ady2660</link>
       <guid isPermaLink="false">10.1126/science.ady2660</guid>
@@ -46,23 +63,6 @@ Abstract: Foreshock activity is a key consideration in traffic-light protocol (T
 Journal: Science; Article number: eady2660
 
 Abstract: The Pacific El Niño–Southern Oscillation (ENSO) generates climate extremes that endanger ecosystems, infrastructure, and human well-being worldwide. The response of this system to climate warming is poorly constrained, due both to data scarcity and uncertainties in climate models. The geochemistry of Galápagos coral skeletons across the past millennium reveals a large recent increase in interannual variability of sea surface temperature in the eastern equatorial Pacific compared to existing paleorecords that exceeds simulated natural variability. This increase parallels rising global temperature and results from stronger El Niño events. Central Pacific coral data also show increased variability, although less distinctly than in the Galápagos. Our results provide long-term context for understanding ENSO variability trends, with troubling implications for climate extremes.</description>
-    </item>
-    <item>
-      <title>Recovering signatures of archaic hominin introgression using ancestral recombination graphs</title>
-      <link>https://doi.org/10.1126/science.aef8874</link>
-      <guid isPermaLink="false">10.1126/science.aef8874</guid>
-
-      <dc:creator>Yulin Zhang</dc:creator>
-      <dc:creator>Arjun Biddanda</dc:creator>
-      <dc:creator>Sarah A. Johnson</dc:creator>
-      <dc:creator>Colm O’Dushlaine</dc:creator>
-      <dc:creator>Priya Moorjani</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yulin Zhang, Arjun Biddanda, Sarah A. Johnson, Colm O’Dushlaine, Priya Moorjani
-
-Journal: Science; Volume: 393; Issue: 6814; Article number: eaef8874
-
-Abstract: Admixture between modern humans and extinct hominins has shaped the genomes of present-day individuals, but reconstructing this history has been constrained by the scarcity of archaic samples and unadmixed outgroup populations. We introduce TRACE, a reference- and outgroup-free approach that uses features of ancestral recombination graphs to identify archaic ancestry. Simulations demonstrate that TRACE achieves high precision and low false discovery rates. Applied to 1000 genomes, TRACE recovers known Neanderthal and Denisovan introgression and uncovers ghost admixture from uncharacterized hominins in both Africans and non-Africans. Ghost ancestry persists in Neanderthal and Denisovan ancestry deserts, challenging their interpretation as Homo sapiens –specific regions. In Oceanians, TRACE finds that deep lineages are enriched in Denisovan compared with Neanderthal regions, supporting super-archaic introgression. TRACE enables mapping of archaic introgression without archaic reference genomes.</description>
     </item>
     <item>
       <title>Desert flooding highlights a critical gap in climate change adaptation</title>
@@ -1253,14 +1253,6 @@ Journal: Science; Volume: 393; Issue: 6813; Pages: 760-761
 Abstract: Sensory inputs influence different blood vessel networks, affecting the precision of brain scans</description>
     </item>
     <item>
-      <title>Erratum for the Report “Senolysis by glutaminolysis inhibition ameliorates various age-associated disorders”</title>
-      <link>https://doi.org/10.1126/science.aek6651</link>
-      <guid isPermaLink="false">10.1126/science.aek6651</guid>
-
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Science; Volume: 393; Issue: 6813; Article number: eaek6651</description>
-    </item>
-    <item>
       <title>Technology is not a replacement for democracy
                     &lt;b&gt;The Rise and Fall of the Artificial State&lt;/b&gt;
                     &lt;i&gt;Jill Lepore&lt;/i&gt;
@@ -1275,6 +1267,14 @@ Abstract: Sensory inputs influence different blood vessel networks, affecting th
 Journal: Science; Volume: 393; Issue: 6813; Pages: 765-765
 
 Abstract: A government run by machines is not inevitable—we have been here and rejected it before</description>
+    </item>
+    <item>
+      <title>Erratum for the Report “Senolysis by glutaminolysis inhibition ameliorates various age-associated disorders”</title>
+      <link>https://doi.org/10.1126/science.aek6651</link>
+      <guid isPermaLink="false">10.1126/science.aek6651</guid>
+
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Science; Volume: 393; Issue: 6813; Article number: eaek6651</description>
     </item>
     <item>
       <title>Modality-specific neurovascular coupling via layer-segregated arteriole networks</title>

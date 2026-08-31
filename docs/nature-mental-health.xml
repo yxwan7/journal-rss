@@ -5,8 +5,65 @@
     <link>https://www.nature.com/natmentalhealth/</link>
     <description>Latest journal articles for Nature Mental Health</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:55:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:52:41 +0000</lastBuildDate>
 
+    <item>
+      <title>Magnetoencephalography oscillation-based functional connectivity identifies clinically relevant depression phenotypes</title>
+      <link>https://doi.org/10.1038/s44220-026-00723-4</link>
+      <guid isPermaLink="false">10.1038/s44220-026-00723-4</guid>
+
+      <dc:creator>Wenya Liu</dc:creator>
+      <dc:creator>Maria Vesterinen</dc:creator>
+      <dc:creator>Alexandra Andersson</dc:creator>
+      <dc:creator>Paula Partanen</dc:creator>
+      <dc:creator>Samanta Knapič</dc:creator>
+      <dc:creator>Joonas J. Juvonen</dc:creator>
+      <dc:creator>Felix Siebenhühner</dc:creator>
+      <dc:creator>Antti Salonen</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wenya Liu, Maria Vesterinen, Alexandra Andersson, Paula Partanen, Samanta Knapič, Joonas J. Juvonen, Felix Siebenhühner, Antti Salonen, et al.
+
+Journal: Nature Mental Health
+
+Abstract: Abstract Heterogeneity in clinical presentation and mechanisms of major depressive disorder (MDD) probably contributes to limited responses to current treatments in many patients. Identifying biologically meaningful phenotypes would constitute a major step towards the development of personalized treatment approaches. Brain-activity-based phenotyping offers a promising route toward this goal. In particular, brain oscillations—rhythmic patterns of neural activity that support information processing—have been implicated in depression but have not previously been used to define biological phenotypes of the disorder. Yet, no studies have used brain oscillations to identify biological depression phenotypes. Here we report data-driven identification of oscillation phenotypes for MDD. We conducted a cross-sectional study and collected resting-state magnetoencephalography (MEG), structural magnetic resonance imaging and clinical symptom data from 263 patients with MDD and 75 healthy controls. We assessed oscillation-based functional connectivity from source-reconstructed MEG data with two coupling-mode measures and computed their low-dimensional brain–symptom associations to obtain latent components. Using clustering methods on these components, we identified five depression phenotypes that were characterized by distinct spectral and spatial patterns and differentiated clinically unique symptom profiles. These findings suggest that MEG-based oscillatory connectivity captures clinically relevant heterogeneity in MDD and provides candidate mechanistic phenotypes for future validation and treatment-stratification studies.</description>
+    </item>
+    <item>
+      <title>Representativeness and inclusivity in pharmacological and nutraceutical interventions in youth mental health disorders: a systematic review and meta-analysis</title>
+      <link>https://doi.org/10.1038/s44220-026-00722-5</link>
+      <guid isPermaLink="false">10.1038/s44220-026-00722-5</guid>
+
+      <dc:creator>Claudia Aymerich</dc:creator>
+      <dc:creator>Javier Torres-Cortés</dc:creator>
+      <dc:creator>Antonio Melillo</dc:creator>
+      <dc:creator>Borja Pedruzo</dc:creator>
+      <dc:creator>Ana Catalan</dc:creator>
+      <dc:creator>Olatz Ibarretxe</dc:creator>
+      <dc:creator>Chiara Nosarti</dc:creator>
+      <dc:creator>Katya Rubia</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Claudia Aymerich, Javier Torres-Cortés, Antonio Melillo, Borja Pedruzo, Ana Catalan, Olatz Ibarretxe, Chiara Nosarti, Katya Rubia, et al.
+
+Journal: Nature Mental Health
+
+Abstract: Abstract Randomized controlled trials (RCTs) guide treatment decisions in youth with mental health disorders, yet concerns remain about their generalizability. Here we conducted a Preferred Reporting Items for Systematic Reviews and Meta-Analyses-compliant systematic review and meta-analysis (CRD42024629137) to assess the inclusivity and representativeness of RCTs on pharmacological and nutraceutical interventions in children and adolescents with Diagnostic and Statistical Manual of Mental Disorders and/or International Classification of Diseases-defined mental disorders. Random-effects meta-analyses were conducted by disorder, and temporal trends were assessed. Primary outcomes were the representativeness of RCTs with respect to sex (pooled proportion of female participants) and race/ethnicity (distribution of racial and ethnic groups); secondary outcomes included the exclusion of key clinical populations (for example, autistic individuals, those with intellectual disability and those with suicide risk). A total of 397 RCTs (46,989 participants; mean age 10.2 ± 3.1 years) were included, mostly targeting attention deficit hyperactivity disorder (34.5%) or autism spectrum disorder (29.7%). Female participants represented 28.3%. Only 53.7% of RCTs reported racial data; 75.0% were white, 10.1% Black, 6.2% Hispanic and 2.0% Asian. Autistic individuals and those with learning disabilities were excluded in 56.5% and 44.3% of trials, respectively; 76.0% of depression RCTs excluded participants at suicide risk. There is a persistent mismatch between the youth most affected by mental health disorders and those included in RCTs. Some vulnerable populations including people of colour, women and special populations seem to be under-represented, requiring more inclusive practice to support equitable and effective care.</description>
+    </item>
+    <item>
+      <title>Long-term cardiorenal illness trajectories after initiation of antihypertensive medications in adults with and without ADHD: a nationwide cohort study</title>
+      <link>https://doi.org/10.1038/s44220-026-00718-1</link>
+      <guid isPermaLink="false">10.1038/s44220-026-00718-1</guid>
+
+      <dc:creator>Yiling Zhou</dc:creator>
+      <dc:creator>Douwe Postmus</dc:creator>
+      <dc:creator>Sheyu Li</dc:creator>
+      <dc:creator>Anne van Lammeren</dc:creator>
+      <dc:creator>Casper F. M. Franssen</dc:creator>
+      <dc:creator>Harold Snieder</dc:creator>
+      <dc:creator>Catharina A. Hartman</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yiling Zhou, Douwe Postmus, Sheyu Li, Anne van Lammeren, Casper F. M. Franssen, Harold Snieder, Catharina A. Hartman
+
+Journal: Nature Mental Health</description>
+    </item>
     <item>
       <title>Vision science and oculomics in psychiatry: retinal biomarkers, visual circuits, and field consolidation</title>
       <link>https://doi.org/10.1038/s44220-026-00724-3</link>
@@ -1513,55 +1570,6 @@ Journal: Nature Mental Health; Volume: 4; Issue: 4; Pages: 675-685</description>
       <description>Authors: Kamilla Woznica Miskowiak, Hanne Lie Kjærstad, Eduard Vieta, Lakshmi N. Yatham
 
 Journal: Nature Mental Health; Volume: 4; Issue: 4; Pages: 521-539</description>
-    </item>
-    <item>
-      <title>Classic psychedelics in obsessive–compulsive disorder: a circuit-based framework</title>
-      <link>https://doi.org/10.1038/s44220-026-00626-4</link>
-      <guid isPermaLink="false">10.1038/s44220-026-00626-4</guid>
-
-      <dc:creator>Saif S. Ali</dc:creator>
-      <dc:creator>Robin L. Carhart-Harris</dc:creator>
-      <dc:creator>Karl G. Sieg</dc:creator>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Saif S. Ali, Robin L. Carhart-Harris, Karl G. Sieg
-
-Journal: Nature Mental Health; Volume: 4; Issue: 4; Pages: 540-550</description>
-    </item>
-    <item>
-      <title>A systematic review and meta-analysis of clozapine response rates in schizophrenia</title>
-      <link>https://doi.org/10.1038/s44220-026-00604-w</link>
-      <guid isPermaLink="false">10.1038/s44220-026-00604-w</guid>
-
-      <dc:creator>Myrto Samara</dc:creator>
-      <dc:creator>Eleni Glarou</dc:creator>
-      <dc:creator>Elisavet Pinioti</dc:creator>
-      <dc:creator>Adriani Nikolakopoulou</dc:creator>
-      <dc:creator>Spyridon Siafis</dc:creator>
-      <dc:creator>Nikos Christodoulou</dc:creator>
-      <dc:creator>Stefan Leucht</dc:creator>
-      <dc:creator>Andreas S. Lappas</dc:creator>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Myrto Samara, Eleni Glarou, Elisavet Pinioti, Adriani Nikolakopoulou, Spyridon Siafis, Nikos Christodoulou, Stefan Leucht, Andreas S. Lappas
-
-Journal: Nature Mental Health; Volume: 4; Issue: 4; Pages: 664-674</description>
-    </item>
-    <item>
-      <title>Metabolic psychiatry targeting metabolic dysregulation in mental health</title>
-      <link>https://doi.org/10.1038/s44220-026-00609-5</link>
-      <guid isPermaLink="false">10.1038/s44220-026-00609-5</guid>
-
-      <dc:creator>Shebani Sethi</dc:creator>
-      <dc:creator>Michael Berk</dc:creator>
-      <dc:creator>Ana Cristina Andreazza</dc:creator>
-      <dc:creator>Lilianne Rivka Mujica-Parodi</dc:creator>
-      <dc:creator>Iain Campbell</dc:creator>
-      <dc:creator>Harry Campbell</dc:creator>
-      <dc:creator>Calogero Longhitano</dc:creator>
-      <dc:creator>Natalie Rasgon</dc:creator>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shebani Sethi, Michael Berk, Ana Cristina Andreazza, Lilianne Rivka Mujica-Parodi, Iain Campbell, Harry Campbell, Calogero Longhitano, Natalie Rasgon, et al.
-
-Journal: Nature Mental Health; Volume: 4; Issue: 4; Pages: 508-520</description>
     </item>
   </channel>
 </rss>

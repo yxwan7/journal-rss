@@ -5,8 +5,39 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:51:44 +0000</lastBuildDate>
 
+    <item>
+      <title>The association between perceived neighborhood social cohesion and incident hypertension among older adults in the US Health and Retirement Study</title>
+      <link>https://doi.org/10.1093/aje/kwag210</link>
+      <guid isPermaLink="false">10.1093/aje/kwag210</guid>
+
+      <dc:creator>Roma Dhingra</dc:creator>
+      <dc:creator>Kosuke Tamura</dc:creator>
+      <dc:creator>Tiffany M Powell-Wiley</dc:creator>
+      <dc:creator>Allana T Forde</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Roma Dhingra, Kosuke Tamura, Tiffany M Powell-Wiley, Allana T Forde
+
+Journal: American Journal of Epidemiology; Article number: kwag210
+
+Abstract: Abstract Background: Despite the association between lower perceived neighborhood social cohesion (PNSC) and higher risk of hypertension, there is limited research on this relationship. This population-based study examined the association between PNSC and incident hypertension among a nationally representative population of older adults across racial and/or ethnic groups and sex. Methods: Data were obtained from 2,998 US older adult participants (mean age=62.5 years, SD=8.12) from the Health and Retirement Study. Normotensive participants at baseline (2006 or 2008) were assessed for hypertension incidence at 4- and 8-year follow-up visits. PNSC was classified into tertiles. Weighted Cox proportional hazards regression was used to estimate the association between PNSC and incident hypertension. Interaction terms (PNSC and racial and/or ethnic group, PNSC and sex) were included in models adjusted for appropriate covariates (sex, racial and/or ethnic group, education, body mass index, alcohol use, cigarette smoking status), and models were stratified by racial and/or ethnic group and sex. Results: Overall, 40.5% of the study population developed hypertension. Low perceived neighborhood social cohesion (versus high) was associated with increased hypertension risk (HR=1.22, 95% CI: 1.08-1.37). This association was the strongest among Black adults (HR=2.28, 95% CI: 1.23-4.25) and Black females (HR=3.40, 95% CI: 1.34-8.62), though the interaction terms were not statistically significant (p-values for interaction &amp;amp;gt;0.05). Conclusions: Individuals perceiving low neighborhood social cohesion may have increased hypertension risk, particularly among Black females. Future studies could test potential underlying mechanisms that explain this association and implement community-based interventions promoting cohesive communities as a potential strategy for reducing disparities in hypertension risk.</description>
+    </item>
+    <item>
+      <title>Assessing and Adjusting for Selection Bias in Mendelian Randomization: the Effects of Body Mass Index, Education, and C-reactive Protein on Depression in UK Biobank</title>
+      <link>https://doi.org/10.1093/aje/kwag211</link>
+      <guid isPermaLink="false">10.1093/aje/kwag211</guid>
+
+      <dc:creator>Yaxin Luo</dc:creator>
+      <dc:creator>Kate Tilling</dc:creator>
+      <dc:creator>Apostolos Gkatzionis</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yaxin Luo, Kate Tilling, Apostolos Gkatzionis
+
+Journal: American Journal of Epidemiology; Article number: kwag211
+
+Abstract: Abstract Depression analyses in UK Biobank may be affected by selection bias due to incomplete participation in the optional Mental Health Questionnaire. We used one-sample Mendelian randomization (MR) to assess the causal effects of BMI, educational attainment (EA), and CRP on depression, applying inverse probability of selection weighting (IPW) and the instrumental variable for selection (IVsel) to adjust for selection into the MHQ sample. Sensitivity analyses included the use of psychiatrist consultation as a proxy outcome. MR analyses indicated that higher BMI increased the risk of depression (OR=1.09 [1.05, 1.13]), EA was protective (OR=0.81 [0.75, 0.88]), and there was limited evidence that CRP affected depression (OR=1.01 [0.92, 1.10]). Estimates obtained using IPW and IVsel were broadly consistent, although with IVsel estimates closer to the null, within BMI (ORIPW = 1.10 [1.05, 1.15], ORIVsel = 1.04 [1.02, 1.06]), EA (ORIPW = 0.81 [0.74, 0.88], ORIVsel = 0.93 [0.90, 0.96]) and CRP (ORIPW = 1.03 [0.92, 1.15], ORIVsel = 1.00 [0.97, 1.04]). Proxy outcome analyses suggested similar patterns of selection bias, supporting their utility for assessing potential bias in MHQ-restricted analyses. Bias-adjustment methods and sensitivity analyses provide a framework to assess the impact of selection bias in large cohort studies with optional components.</description>
+    </item>
     <item>
       <title>Neighborhood Church Closure Density and Self-Reported Mental Health Diagnoses in Southeastern Pennsylvania: A Population-Based Analysis</title>
       <link>https://doi.org/10.1093/aje/kwag206</link>
@@ -260,18 +291,6 @@ Journal: American Journal of Epidemiology; Article number: kwag194
 Abstract: Abstract Target trial emulation prompts investigators to frame their analysis question in terms of a hypothetical clinical trial. Although this does not solve the problem of confounding, the framework can protect against other sources of bias. A natural question is this: What kinds of trials can be emulated? In a late-phase trial (phases 3 or 4), the goal is to obtain a well-defined causal estimate that closely approximates the impact of a proposed intervention. In an early-phase trial (phase 2 or earlier), the estimate is a means to an end rather than an end in itself. An early-phase trial provides proof-of-concept evidence on the impact of an intervention in the exposure in terms of efficacy and safety, but the estimand may not correspond to the intervention to be implemented in practice. In a natural experiment where causal inferences rely on a plausibly random (or quasi-random) comparison, the estimand may not be directly translatable to applied practice. In this case, the analysis may be conceptualized as an early-phase target trial. This provides less specific evidence than a late-stage target trial, but in many cases, a more valid but less applicable comparison is preferable to a more applicable comparison that is more susceptible to bias.</description>
     </item>
     <item>
-      <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
-      <link>https://doi.org/10.1093/aje/kwag191</link>
-      <guid isPermaLink="false">10.1093/aje/kwag191</guid>
-
-      <dc:creator>Gong Zhang</dc:creator>
-      <dc:creator>Xichen Fan</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gong Zhang, Xichen Fan
-
-Journal: American Journal of Epidemiology; Article number: kwag191</description>
-    </item>
-    <item>
       <title>The Selenium and Vitamin E Cancer Prevention Trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration</title>
       <link>https://doi.org/10.1093/aje/kwag189</link>
       <guid isPermaLink="false">10.1093/aje/kwag189</guid>
@@ -288,6 +307,18 @@ Journal: American Journal of Epidemiology; Article number: kwag191</description>
 Journal: American Journal of Epidemiology; Article number: kwag189
 
 Abstract: Abstract The potential for trace amounts of selenium supplements to prevent prostate cancer and other neoplasms was studied in the Selenium and Vitamin E Prevention Trial, a randomized trial conducted in North America for 7-12 years. A total of 34 887 eligible men aged 55 or older were assigned to take either 200 μg selenium from L-selenomethionine, 400 IU vitamin E, both selenium and vitamin E, or placebo. The trial was stopped for futility and concerns about adverse effects. Subsequently, we used incidence and mortality data from Medicare through 2019 and the National Death Index through 2024 to investigate the extent to which selenium administration was associated with increased long-term risk of cancer and neurodegenerative disease, during 341 697 person-years of follow-up. Lung cancer showed little increased risk. Associations were near null for leukemia, non–Hodgkin lymphoma, and Parkinson’s disease, and there was a lower risk for melanoma and colorectal cancer. In contrast, we found a higher risk for Hodgkin lymphoma, multiple myeloma, and amyotrophic lateral sclerosis, which has been associated with selenium overexposure in some nonexperimental studies. Though these latter associations were based on few cases, they were consistent with findings from a range of other studies, possibly indicating long–term adverse effects of this organic selenium compound (registration no. NCT00006392).</description>
+    </item>
+    <item>
+      <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
+      <link>https://doi.org/10.1093/aje/kwag191</link>
+      <guid isPermaLink="false">10.1093/aje/kwag191</guid>
+
+      <dc:creator>Gong Zhang</dc:creator>
+      <dc:creator>Xichen Fan</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gong Zhang, Xichen Fan
+
+Journal: American Journal of Epidemiology; Article number: kwag191</description>
     </item>
     <item>
       <title>Leveraging limited testing data for early detection of emerging infectious disease outbreaks</title>
@@ -1675,34 +1706,6 @@ Abstract: Abstract Previous studies have shown that oral health is associated wi
 Journal: American Journal of Epidemiology; Article number: kwag107
 
 Abstract: Abstract The 2021 Pacific Northwest Heat Dome produced the highest temperatures ever recorded in usually temperate Oregon and Washington State. Under climate change, events as extreme as the Heat Dome are forecasted once to twice per decade rather than once every thousand years. Among other health effects, extreme heat exposure increases risk of preterm birth. However, few studies have evaluated susceptible exposure windows for extreme heat during pregnancy, or quantified effects in historically unexposed populations like those in Oregon and Washington State.We treated the PNW Heat Dome as a natural experiment, and used 2016-2022 vital statistics records to estimate the gestation month-specific impact of the Heat Dome on preterm birth. Using an interrupted time series design with a synthetic control, we compared the observed odds of preterm birth in the exposed (in utero November 2020-July 2021) Oregon and Washington conception cohorts to counterfactual odds had the Heat Dome not happened. Our analysis included 716,096 exposed births across 67 monthly conception cohorts. Odds of preterm birth were higher than expected in cohorts exposed during months 2-3 (11% increase; 95% CI, 1-22) and months 6-7 (14% increase; 95% CI, 5-24) of pregnancy. We found that Heat Dome exposure during all trimesters increased preterm birth risk, and heat exposure in early pregnancy had a delayed effect on preterm birth risk, suggesting interventions to protect pregnant people from heat should span the entire pregnancy.</description>
-    </item>
-    <item>
-      <title>A Bayesian bivariate spatial modeling framework for stage-specific cancer incidence and targeting of screening efforts</title>
-      <link>https://doi.org/10.1093/aje/kwag106</link>
-      <guid isPermaLink="false">10.1093/aje/kwag106</guid>
-
-      <dc:creator>Qinyun Lin</dc:creator>
-      <dc:creator>Carl Bonander</dc:creator>
-      <dc:creator>Ulf Strömberg</dc:creator>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Qinyun Lin, Carl Bonander, Ulf Strömberg
-
-Journal: American Journal of Epidemiology; Article number: kwag106
-
-Abstract: Abstract Geographic differences in cancer stage at diagnosis may reflect both variation in underlying cancer risk and variation in the extent of early detection through screening or other diagnostic testing. Mapping both late-stage incidence (as an indicator of disease burden) and late-minus-early difference (as an indicator of insufficient diagnostic activity relative to the underlying disease burden) provides an empirically grounded way to identify small areas (neighborhoods) where enhanced early detection may yield the greatest benefits. We introduce a Bayesian bivariate spatial modeling framework for jointly analyzing early- and late-stage cancer incidence, allowing for both spatial correlation across areas and outcome correlation within areas to improve small-area estimation. Using population-based registry data aggregated at the small-area level, we estimate age-standardized incidence rates of early- and late-stage cancers across the study area and propose an inferential approach to identify priority sub-areas. We compare single-outcome and multivariate spatial formulations via Integrated Nested Laplace Approximation. We demonstrate the approach using Swedish register data on prostate cancer linked to population data at the small area level. The framework can be extended to other diseases with correlated outcomes or multiple severity levels, as well as to other settings.</description>
-    </item>
-    <item>
-      <title>Taking heterogeneity seriously: Black immigrant life expectancy in the United States</title>
-      <link>https://doi.org/10.1093/aje/kwag108</link>
-      <guid isPermaLink="false">10.1093/aje/kwag108</guid>
-
-      <dc:creator>Elizabeth Wrigley-Field</dc:creator>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elizabeth Wrigley-Field
-
-Journal: American Journal of Epidemiology; Article number: kwag108
-
-Abstract: Abstract The article by Hendi and Clevenstine (Am J Epidemiol. 2025;195(6)) documents notably high life expectancy among US Black immigrants, accounting for almost 15% of the increased Black life expectancy between 1994 and 2019, as well as an extreme rise in mortality among Black immigrants during the COVID-19 pandemic. These results are credible in spite of the significant data and analytic challenges intrinsic to the research question. They suggest the need for new avenues of research, including research that is attentive to substantial changes in Black immigrants’ origins and situations, research that reinterprets Black/White trends in light of a changing population composition, and research into the drivers of pandemic-era mortality. Much of the research on Black/White trends has homogenized the Black population, and these results dramatize the analytical weaknesses of failing to take heterogeneity seriously.</description>
     </item>
   </channel>
 </rss>
