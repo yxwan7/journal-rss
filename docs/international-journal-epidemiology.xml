@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:39:38 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -63,20 +63,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
     </item>
     <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
-
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
-
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
-    </item>
-    <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
       <link>https://doi.org/10.1093/ije/dyag176</link>
       <guid isPermaLink="false">10.1093/ije/dyag176</guid>
@@ -93,6 +79,20 @@ Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag176
 
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
+    </item>
+    <item>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>Negative controls and how to use them: a guidance paper</title>
@@ -187,6 +187,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
     </item>
     <item>
+      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
+      <link>https://doi.org/10.1093/ije/dyag171</link>
+      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
+
+      <dc:creator>Marco Aurélio Peres</dc:creator>
+      <dc:creator>Pinyan Liu</dc:creator>
+      <dc:creator>John Rong Hao Tay</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
+    </item>
+    <item>
       <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
       <link>https://doi.org/10.1093/ije/dyag177</link>
       <guid isPermaLink="false">10.1093/ije/dyag177</guid>
@@ -205,19 +218,6 @@ Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disab
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag177
 
 Abstract: Abstract Background Our goal was to evaluate the relationship between prenatal fluoride exposure and pregnancy outcomes. Methods We measured urinary fluoride collected during the second trimester among pregnant people recruited from California and Illinois from 2014 to 2020 (N = 949). We evaluated risk differences (RDs) of preterm birth (PTB), small-for-gestational age (SGA), large-for-gestational age (LGA), gestational diabetes, and differences in birthweight, birthweight-for-gestational age z-scores, and gestational age associated with a 0.1 mg/l increase in fluoride using linear regression to estimate effects on the additive scale. We also used modified treatment policies with machine learning to estimate the effects of hypothetical interventions to reduce urinary fluoride by 0.1 and 0.5 mg/l on pregnancy outcomes. In the Illinois cohort, we estimated effects by trimester. Results In our main analyses, we found no associations between urinary fluoride levels and pregnancy outcomes. For instance, for a 0.1 mg/l increase in fluoride, we saw no change in the risk of PTB, SGA, or gestational diabetes. We also found no differences associated with hypothetical reductions of prenatal fluoride by 0.1 mg/l or 0.5 mg/l for any outcomes. In the trimester-specific analyses for Illinois participants, we found increased LGA risk during the first (RD = 0.004, 95% CI −0.001, 0.009) and third trimesters (RD = 0.007, 95% CI 0.001, 0.012), and reduced LGA risk during the second trimester (RD = −0.006, 95% CI −0.011, 0.000), associated with 0.1 mg/l higher urinary fluoride. Conclusions Prenatal fluoride exposure does not appear to affect pregnancy outcomes, but preliminary evidence suggests that higher fluoride levels may affect the risk of LGA depending on timing of exposure during pregnancy.</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
-      <link>https://doi.org/10.1093/ije/dyag171</link>
-      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
-
-      <dc:creator>Marco Aurélio Peres</dc:creator>
-      <dc:creator>Pinyan Liu</dc:creator>
-      <dc:creator>John Rong Hao Tay</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
     </item>
     <item>
       <title>Total moderate-to-vigorous physical activity across the adult life course and the risk of invasive ovarian cancer</title>
@@ -366,6 +366,26 @@ Abstract: Abstract Regression calibration is a widely used method for correcting
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag154</description>
     </item>
     <item>
+      <title>Exposure to extreme temperatures may increase the risk of preterm birth: findings from a contemporary US cohort</title>
+      <link>https://doi.org/10.1093/ije/dyag145</link>
+      <guid isPermaLink="false">10.1093/ije/dyag145</guid>
+
+      <dc:creator>Neil J Perkins</dc:creator>
+      <dc:creator>Siddharth Rawat</dc:creator>
+      <dc:creator>Elizabeth A DeVilbiss</dc:creator>
+      <dc:creator>Elizabeth H Scholl</dc:creator>
+      <dc:creator>Taylor Petty</dc:creator>
+      <dc:creator>Brian Kidd</dc:creator>
+      <dc:creator>Deepak Mav</dc:creator>
+      <dc:creator>Shyamal D Peddada</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Neil J Perkins, Siddharth Rawat, Elizabeth A DeVilbiss, Elizabeth H Scholl, Taylor Petty, Brian Kidd, Deepak Mav, Shyamal D Peddada, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag145
+
+Abstract: Abstract Background The frequency and severity of extreme temperatures have been increasing and are expected to continue to escalate in the coming decades. Relationships between extreme temperatures and early deliveries are not well understood. Methods Data were obtained from 201 759 pregnancies with gestational age (GA) of &amp;amp;gt;27 weeks in the Consortium on Safe Labor retrospective cohort study from 19 hospitals across the USA for 2002–8. Location-specific bulk temperatures were obtained from the Parameter-Elevation Regressions on Independent Slopes Model (4-km resolution), from which participants were linked to minimum, maximum, and mean daily temperatures across each day of pregnancy. Days were categorized for each site as cold (both minimum and maximum temperatures ≤ 20th percentile), hot (both minimum and maximum temperatures ≥ 80th percentile), or neither for each pregnancy. Cold and hot days were then analysed individually or as the proportion within specific pregnancy windows by using Cox regression and fetuses-at-risk logistic regression models. Results Detrimental relations in fetuses-at-risk models were consistently observed between exposure to chronic cold and chronic heat and early delivery: odds ratio (ORcold)= 1.66, 1.40, and 1.16; ORheat = 1.20, 1.13, and 1.32 for early-preterm (GA &amp;amp;lt; 34 weeks), preterm (34 ≤ GA &amp;amp;lt; 37 weeks), and early-term (37 ≤ GA &amp;amp;lt; 39), respectively. Associations for exposures in Trimesters 1 and 2 were mixed but clearly more detrimental in Trimester 1. The likelihood of early delivery increased with daily exposure to extreme temperatures after 27 weeks. Conclusion Future work should seek to elucidate the underlying mechanisms and to validate these findings by using more recent diverse global data.</description>
+    </item>
+    <item>
       <title>Cohort Profile: The European Occupational Exposome Mega Cohort Consortium (OMega-X)</title>
       <link>https://doi.org/10.1093/ije/dyag151</link>
       <guid isPermaLink="false">10.1093/ije/dyag151</guid>
@@ -482,19 +502,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Healthy life years are estimated from national population surveys that assess limitations in daily activities. However, the infrequent timing and limited sample sizes hinder the timely and detailed assessment of regional health conditions. We aimed to develop a novel method to estimate municipal-level healthy life years without activity limitations by using medical claims data. Methods We analysed medical claims data in Kyoto Prefecture, Japan. Outpatient data from May to July in 2016 and 2019 (n = 1 489 920) were used for development and data from the same period in 2022 (n = 739 236) were used for evaluation. A total of 5743 diagnostic codes were aggregated into 40 disease categories. A machine-learning model was employed to produce the probability of activity limitation, which was calibrated by using data from the Comprehensive Survey of Living Conditions and applied to derive age-specific prevalence rates. Healthy life years at the municipal level as of June 2022 were then estimated by incorporating a life table. Results We observed variation in healthy life years among municipalities: 72.1 years across all regions for males, ranging from 67.3 to 75.2 years, and 75.8 years for females, ranging from 71.3 to 77.6 years. Regional disparities were also noted in the prevalence of diseases associated with activity limitations. Conclusion This study provides the first robust, scalable method to estimate healthy life years without activity limitations at the municipal level by using real-world administrative data. Timely monitoring of regional healthy life years will support targeted health-promotion policies and contribute to reducing health disparities.</description>
     </item>
     <item>
-      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
-      <link>https://doi.org/10.1093/ije/dyag149</link>
-      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
-
-      <dc:creator>Dabin Chen</dc:creator>
-      <dc:creator>Jingyuan Li</dc:creator>
-      <dc:creator>Ting Ye</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
-    </item>
-    <item>
       <title>Cohort Profile: The Nanjing Chronic Disease Cohort</title>
       <link>https://doi.org/10.1093/ije/dyag107</link>
       <guid isPermaLink="false">10.1093/ije/dyag107</guid>
@@ -511,6 +518,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Xin Hong, Yuefan Shen, Chenchen Wang, Qing Ye, Weiwei Wang, Yijia Chen, Hao Xu, Jie Wu, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag107</description>
+    </item>
+    <item>
+      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
+      <link>https://doi.org/10.1093/ije/dyag149</link>
+      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
+
+      <dc:creator>Dabin Chen</dc:creator>
+      <dc:creator>Jingyuan Li</dc:creator>
+      <dc:creator>Ting Ye</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
     </item>
     <item>
       <title>The impact of school-based mitigation measures on the transmission of respiratory pathogens: the case of SARS-CoV-2</title>
@@ -948,6 +968,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Survival is a long-standing source of confounding, selection bias, and effect modification that is often overlooked. Here, we describe how it can occur and when it can be averted. Methods Directed acyclic graphs were used to illustrate how survival could cause confounding and selection bias. Selection diagrams were used to illustrate how survival could cause effect modification by factors such as age or health status. Results Survival can be a confounder that biases towards favouring the exposure when exposure allocation starts or changes after recruitment. Survival can be a source of Type 1 selection bias that attenuates or reverses estimates when the exposure and outcome, or the exposure and a competing risk of the outcome, affect survival before recruitment. Confounding and selection bias by survival can largely be averted by ensuring exposure allocation coincides with recruitment. Given survival is usually most relevant to older or sicker people, confounding and selection bias due to survival are likely more evident with advancing age or poorer health status. Conclusions Confounding by survival should be considered when exposure allocation starts or changes after recruitment. Type 1 selection bias from survival should be considered when the exposure starts before recruitment. Given that long-term exposures are often of interest, and confounding as well as selection bias are difficult to address, study designs less open to these biases might be preferable.</description>
     </item>
     <item>
+      <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
+      <link>https://doi.org/10.1093/ije/dyag080</link>
+      <guid isPermaLink="false">10.1093/ije/dyag080</guid>
+
+      <dc:creator>Chitra Sharma</dc:creator>
+      <dc:creator>Ana Goncalves Soares</dc:creator>
+      <dc:creator>Bharati Kulkarni</dc:creator>
+      <dc:creator>Nuala M Byrne</dc:creator>
+      <dc:creator>Santhi Bhogadi</dc:creator>
+      <dc:creator>Poppy Alice Carson Mallinson</dc:creator>
+      <dc:creator>Judith Lieber</dc:creator>
+      <dc:creator>Kramadhati V Rameshwar Sarma</dc:creator>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chitra Sharma, Ana Goncalves Soares, Bharati Kulkarni, Nuala M Byrne, Santhi Bhogadi, Poppy Alice Carson Mallinson, Judith Lieber, Kramadhati V Rameshwar Sarma, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag080
+
+Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
+    </item>
+    <item>
       <title>First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis</title>
       <link>https://doi.org/10.1093/ije/dyag121</link>
       <guid isPermaLink="false">10.1093/ije/dyag121</guid>
@@ -986,26 +1026,6 @@ Abstract: Abstract Background Climate change is increasing the frequency and sev
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag127
 
 Abstract: Abstract Background Preterm (&amp;amp;lt;37 weeks), early-term (37–38 weeks), or post-term (42 weeks) birth may elevate the risk of mental, neurodevelopmental, and cardiopulmonary disease in adulthood, potentially impacting work capacity. Methods We examined the association between gestational age and early disability pension (DP) among 228 572 Finnish individuals born between 1 January 1987 and 30 September 1990. We identified the first DP decision from ages 16 to ∼32 years (2003–20) by using linked birth and DP records, including timing and diagnosis. Adjusted hazard ratios (HRs) with 95% confidence intervals were estimated by using Cox regression, with full-term birth (39–41 weeks) as the reference. Results A total of 9224 individuals (4.0%) received DPs. Adjusted for sex and birth year, the HRs for DP by gestational age groups of 23–31, 32–33, 34–36, 37–38, and 42 weeks were 5.20 (4.52–5.99), 2.47 (2.04–3.00), 1.55 (1.41–1.70), 1.22 (1.16–1.29), and 1.12 (1.01–1.25). Among preterm adults, the most common diagnoses included cerebral palsy, intellectual disability, depression, and schizophrenia. For early-term and post-term adults, depression and schizophrenia were the most frequent. Conclusion Preterm, early-term, and post-term births were associated with early DPs, with slightly different diagnostic profiles. The risk was highest among those born very preterm (&amp;amp;lt;32 weeks). High-quality perinatological care is crucial regarding future careers and societal costs.</description>
-    </item>
-    <item>
-      <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
-      <link>https://doi.org/10.1093/ije/dyag080</link>
-      <guid isPermaLink="false">10.1093/ije/dyag080</guid>
-
-      <dc:creator>Chitra Sharma</dc:creator>
-      <dc:creator>Ana Goncalves Soares</dc:creator>
-      <dc:creator>Bharati Kulkarni</dc:creator>
-      <dc:creator>Nuala M Byrne</dc:creator>
-      <dc:creator>Santhi Bhogadi</dc:creator>
-      <dc:creator>Poppy Alice Carson Mallinson</dc:creator>
-      <dc:creator>Judith Lieber</dc:creator>
-      <dc:creator>Kramadhati V Rameshwar Sarma</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chitra Sharma, Ana Goncalves Soares, Bharati Kulkarni, Nuala M Byrne, Santhi Bhogadi, Poppy Alice Carson Mallinson, Judith Lieber, Kramadhati V Rameshwar Sarma, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag080
-
-Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
     </item>
     <item>
       <title>Fractions and number of cancer cases attributable to excess body fat in South Korea</title>
@@ -1663,21 +1683,6 @@ Abstract: Abstract Background Cataract is a well-established radiogenic conditio
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag093
 
 Abstract: Abstract Background In the USA, higher forced vital capacity (FVC) is linked with longer survival, and FVC is associated with survival independently of ethnicity. The implications for the low FVC values in parts of Asia and Africa are unknown. Methods We used data from 16 sites of the multinational Burden of Obstructive Lung Disease (BOLD) study that completed follow-up of participants between 2019 and 2021 and reported at least five deaths between baseline and follow-up. We assessed the association of mortality with FVC and Forced Expiratory Volume in 1 second (FEV1)/FVC ratio within each site using Cox proportional hazards models. These models were adjusted for age, smoking, height, and weight. Effect estimates from all sites were combined using meta-analysis. Systematic regional differences were investigated. Results Of 9927 study participants with follow-up data, 1120 (11.3%) had died [mean follow-up = 8.7 years, standard deviation (SD) = 3.3 years]. Baseline post-bronchodilator FVC and FEV1/FVC were inversely associated with mortality. When both FVC and FEV1/FVC were mutually adjusted for each other, the decreased mortality rates were more pronounced for each SD higher FVC at baseline [44% (95% confidence interval (CI): 25%, 58%) for men and 28% (95% CI: 11%, 41%) for women] than for FEV1/FVC at baseline [14% (95% CI: 8%, 20%) for men and 7% (95% CI: −10%, 21%) for women]. The probability of true regional differences was low. Conclusions People with a higher FVC adjusted for age, sex, and height have a longer survival. Regional adjustments to lung function standards are inappropriate when assessing prognosis.</description>
-    </item>
-    <item>
-      <title>Mortality and cancer incidence in a large cohort of lead-exposed workers</title>
-      <link>https://doi.org/10.1093/ije/dyag048</link>
-      <guid isPermaLink="false">10.1093/ije/dyag048</guid>
-
-      <dc:creator>Kyle Steenland</dc:creator>
-      <dc:creator>Youran Tan</dc:creator>
-      <dc:creator>Kaitlin Kelly-Reif</dc:creator>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kyle Steenland, Youran Tan, Kaitlin Kelly-Reif
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag048
-
-Abstract: Abstract Introduction Inorganic lead is a common occupational exposure and a probable carcinogen (International Agency for Research on Cancer, group 2A). Here, we analyse mortality and cancer incidence in a large cohort of US workers with measured blood lead levels. Methods We updated the mortality follow-up for a cohort of 58 000 male lead-exposed workers and followed a subset of 36 000 for cancer incidence, both through 2021. The highest recorded blood lead was used as the exposure metric in internal exposure–response analyses via Cox regression. Time at risk began at the first blood lead test. Results The median birth year was 1959 and the average year of the first blood test was 1998. The mean highest blood lead was 26 µg/dL. There were 8832 deaths. The mortality results showed strong positive associations between blood lead and lung cancer, pancreatic cancer, heart disease, chronic obstructive pulmonary disease, and chronic renal disease. There were 6125 incident cancers. The lung cancer incidence showed a marked positive trend with higher lead levels; the liver cancer incidence also had a significant positive trend. Thyroid and prostate cancer showed marked negative trends. Conclusion High blood lead levels were associated with several causes of mortality and cancer incidence, most markedly lung cancer. While lung cancer trends might be related to smoking, there is no a priori reason why workers with higher blood lead would have smoked more and, in a subset of 200 workers with smoking data, there was no such evidence. The lung cancer rate ratios in the order of 2.0–2.5 are also very unlikely to be explained by smoking differences.</description>
     </item>
   </channel>
 </rss>

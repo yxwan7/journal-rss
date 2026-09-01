@@ -5,8 +5,34 @@
     <link>https://www.nature.com/nathumbehav/</link>
     <description>Latest journal articles for Nature Human Behaviour</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:40:17 +0000</lastBuildDate>
 
+    <item>
+      <title>Improving computational reproducibility in the social sciences</title>
+      <link>https://doi.org/10.1038/s41562-026-02570-w</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02570-w</guid>
+
+      <dc:creator>Michael V. Reiss</dc:creator>
+      <dc:creator>Susanne J. Adler</dc:creator>
+      <dc:creator>Christopher Barrie</dc:creator>
+      <dc:creator>Jana B. Berkessel</dc:creator>
+      <dc:creator>Johannes Breuer</dc:creator>
+      <dc:creator>Abel Brodeur</dc:creator>
+      <dc:creator>Garret Christensen</dc:creator>
+      <dc:creator>Tobias Dienlin</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michael V. Reiss, Susanne J. Adler, Christopher Barrie, Jana B. Berkessel, Johannes Breuer, Abel Brodeur, Garret Christensen, Tobias Dienlin, et al.
+
+Journal: Nature Human Behaviour</description>
+    </item>
+    <item>
+      <title>Causal overclaiming is widespread in the social sciences</title>
+      <link>https://doi.org/10.1038/s41562-026-02552-y</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02552-y</guid>
+
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Human Behaviour</description>
+    </item>
     <item>
       <title>Anatomical white matter tracts span the cortical hierarchy to support cognitive diversity</title>
       <link>https://doi.org/10.1038/s41562-026-02559-5</link>
@@ -1439,32 +1465,6 @@ Abstract: Abstract Public health disparities provide an important lens for under
 Journal: Nature Human Behaviour; Volume: 10; Issue: 7; Pages: 1340-1355
 
 Abstract: Abstract A key goal of visual neuroscience is to explain how our brains infer object properties such as colour, curvature or gloss. Here we used machine learning to identify computations underlying human gloss judgements—traditionally considered a challenging inference. We rendered thousands of objects with varied shapes using a Ward reflectance model across lighting and viewpoints, then obtained gloss ratings for each image. Observers’ judgements were consistent with one another, yet systematically deviated from reality. We compared these ratings with neural networks trained either to estimate physical reflectance (‘ground-truth networks’) or to reproduce human judgements (‘human-like networks’). While estimating physical reflectance required deep networks, shallow networks accurately replicated human judgements. Remarkably, even a single-filter network could predict human judgements better than the best ground-truth network and generalized to known gloss illusions. These results suggest that gloss perception relies on simple general-purpose computations, and demonstrate the power of interpretable ‘tiny‘ networks in understanding cognition.</description>
-    </item>
-    <item>
-      <title>Social functioning in autism: a systematic review and meta-analysis</title>
-      <link>https://doi.org/10.1038/s41562-026-02457-w</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02457-w</guid>
-
-      <dc:creator>Siyi Li</dc:creator>
-      <dc:creator>Huanqing Wang</dc:creator>
-      <dc:creator>Guoqiu Chen</dc:creator>
-      <dc:creator>Xi Cheng</dc:creator>
-      <dc:creator>Yuxi Wang</dc:creator>
-      <dc:creator>Wanyan Hu</dc:creator>
-      <dc:creator>Antonia Hamilton</dc:creator>
-      <dc:creator>Leonhard Schilbach</dc:creator>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Siyi Li, Huanqing Wang, Guoqiu Chen, Xi Cheng, Yuxi Wang, Wanyan Hu, Antonia Hamilton, Leonhard Schilbach, et al.
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 7; Pages: 1260-1273</description>
-    </item>
-    <item>
-      <title>Children reach consensus using flexible imitation and emergent roles in networks</title>
-      <link>https://doi.org/10.1038/s41562-026-02450-3</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02450-3</guid>
-
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 6; Pages: 1024-1025</description>
     </item>
   </channel>
 </rss>
