@@ -5,7 +5,7 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:39:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:18:54 +0000</lastBuildDate>
 
     <item>
       <title>Excess mortality and associated sociodemographic factors during the COVID-19 pandemic in rural Pune Maharashtra, India: a retrospective data analysis from the Vadu health and demographic surveillance system</title>
@@ -23,12 +23,12 @@
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <description>Authors: Uddhavi Kand, Chodziwadziwa Kabudula, Bharat Choudhari, Tapas Kumar Mohanty, Sandeep Bhujbal, Arunkumar Gondhali, Jean J. H. Bashingwa, Beth A. Tippett Barr, et al.
 
-Journal: Population Health Metrics
+Journal: Population Health Metrics; Volume: 23; Issue: S2; Article number: 81
 
 Abstract: Abstract Background Between January 2020 and August 2023, India documented over 450 million confirmed cases of COVID-19 and nearly 0.5 million COVID-19 deaths. While reported mortality rates in India appeared lower than expected, the actual mortality may be higher due to underreporting and disparities in healthcare access. This study aimed to compare mortality before and during the COVID-19 pandemic and identify associated socio-demographic factors in rural Pune, Maharashtra, India using longitudinal population-based data from the Vadu Health and Demographic Surveillance System. Methods Individual and mortality data from the Vadu HDSS, India were collected from 2018 to 2021. Descriptive analyses were conducted to examine the variation in mortality by sociodemographic factors during pre-COVID-19 [2018–2019] and COVID-19 [2020–2021] periods. Cox regression with hazard ratios [HR] and 95% confidence intervals [CI] were used to measure the association between socio-demographic factors and mortality. Results There were 2039 deaths that occurred between 2018 and 2021, of which 40.6% [828/2039] were female. The overall risk of mortality increased during COVID-19 [HR1.2,95%CI:1.1–1.3], but this varied by sociodemographic characteristics. The risk of death was greater [HR1.8,95%CI:1.5–2.2] among individuals living in single-person households compared to those living in 2–5 member households, and there was a strong trend of increased mortality risk with older age. Widowed individuals had a greater risk of mortality than those who were married [HR2.1,95%CI:1.9–2.4]. Education was strongly protective against mortality; those who had any level of education had a lower risk of dying than those with no education [HR0.4,95%CI:0.3–0.5]. Conclusion Increased COVID-19 mortality in India was associated with older age, widowhood, and living alone. These findings highlight the need for targeted vaccination, early clinical care, and community outreach for vulnerable populations during future pandemics.</description>
     </item>
     <item>
-      <title>National healthcare-associated infections surveillance programs – comparison between provincialand national case definitions in Canada</title>
+      <title>National healthcare-associated infections surveillance programs – comparison between provincial and national case definitions in Canada</title>
       <link>https://doi.org/10.1186/s12963-026-00508-y</link>
       <guid isPermaLink="false">10.1186/s12963-026-00508-y</guid>
 
@@ -39,7 +39,7 @@ Abstract: Abstract Background Between January 2020 and August 2023, India docume
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
       <description>Authors: Etienne Poirier, Caroline Quach, Anne MacLaurin, Janie Coulombe
 
-Journal: Population Health Metrics
+Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 53
 
 Abstract: Abstract Background Provincial and national case definitions for healthcare-associated infections (HAI) differ. A key question is the extent to which these differences impact the estimated case proportions. Methods Analyses focused on two infections: Clostridioides difficile infection (CDI) and methicillin-resistant Staphylococcus aureus (MRSA). After identifying divergent elements in definitions, a parametric simulation was conducted using a multivariate Bernoulli model to generate elements, incorporating assumed relationships between them and necessary sample sizes. A reference simulation was performed using the original proportions of elements as reported in the literature. This reference served as a baseline for comparison with simulations in which the proportions of discordant elements varied between provincial and national case definitions. Results Nine discordant elements were identified for CDI and six for MRSA. Simulations showed comparability between provincial and national HAI proportions. The greatest differences between provincial and national proportions occurred for Newfoundland and Labrador (CDI) and Ontario (MRSA). These differences persisted even in the reference simulation. Conclusion Although adopting a standardized case definition would simplify comparisons, provincial case definitions are generally comparable to the national definition. Results should be interpreted with care, especially when estimating case proportions under extreme values for some characteristics, as the joint distributions we used for generating simulated datasets did not necessarily exist nor represent target marginal proportions or associations between elements in some scenarios. To improve comparability, hospitals should calculate both the number of patients with positive CDI or MRSA results and their proportion of all elements used in case definitions to have a better picture of their patient demographics. This information could further help the Canadian Nosocomial Infection Surveillance Program (CNISP) to describe comparability across provinces.</description>
     </item>

@@ -5,8 +5,40 @@
     <link>https://www.nature.com/nathumbehav/</link>
     <description>Latest journal articles for Nature Human Behaviour</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:19:16 +0000</lastBuildDate>
 
+    <item>
+      <title>Saturation of moral language predicts lower content engagement on social media</title>
+      <link>https://doi.org/10.1038/s41562-026-02560-y</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02560-y</guid>
+
+      <dc:creator>Cristian Candia</dc:creator>
+      <dc:creator>Mohammad Atari</dc:creator>
+      <dc:creator>Nour Kteily</dc:creator>
+      <dc:creator>Brian Uzzi</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cristian Candia, Mohammad Atari, Nour Kteily, Brian Uzzi
+
+Journal: Nature Human Behaviour</description>
+    </item>
+    <item>
+      <title>Turning biometrics into a commodity raises privacy and governance risks</title>
+      <link>https://doi.org/10.1038/s41562-026-02587-1</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02587-1</guid>
+
+      <dc:creator>Ángel Judel</dc:creator>
+      <dc:creator>José M. Muñoz</dc:creator>
+      <dc:creator>Carlos Amunátegui Perelló</dc:creator>
+      <dc:creator>Diego Borbón</dc:creator>
+      <dc:creator>José Antonio Iglesias</dc:creator>
+      <dc:creator>José Ángel Marinaro</dc:creator>
+      <dc:creator>Natalia Monti</dc:creator>
+      <dc:creator>Moisés Sánchez</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ángel Judel, José M. Muñoz, Carlos Amunátegui Perelló, Diego Borbón, José Antonio Iglesias, José Ángel Marinaro, Natalia Monti, Moisés Sánchez, et al.
+
+Journal: Nature Human Behaviour</description>
+    </item>
     <item>
       <title>Improving computational reproducibility in the social sciences</title>
       <link>https://doi.org/10.1038/s41562-026-02570-w</link>
@@ -1438,33 +1470,6 @@ Abstract: Abstract Public health disparities provide an important lens for under
 
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 7; Pages: 1191-1192</description>
-    </item>
-    <item>
-      <title>Developing multifaceted metacognition</title>
-      <link>https://doi.org/10.1038/s41562-026-02444-1</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02444-1</guid>
-
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 7; Pages: 1193-1194</description>
-    </item>
-    <item>
-      <title>Human gloss perception reproduced by tiny neural networks</title>
-      <link>https://doi.org/10.1038/s41562-026-02445-0</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02445-0</guid>
-
-      <dc:creator>Takuma Morimoto</dc:creator>
-      <dc:creator>Arash Akbarinia</dc:creator>
-      <dc:creator>Katherine R. Storrs</dc:creator>
-      <dc:creator>Jacob R. Cheeseman</dc:creator>
-      <dc:creator>Hannah E. Smithson</dc:creator>
-      <dc:creator>Karl R. Gegenfurtner</dc:creator>
-      <dc:creator>Roland W. Fleming</dc:creator>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Takuma Morimoto, Arash Akbarinia, Katherine R. Storrs, Jacob R. Cheeseman, Hannah E. Smithson, Karl R. Gegenfurtner, Roland W. Fleming
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 7; Pages: 1340-1355
-
-Abstract: Abstract A key goal of visual neuroscience is to explain how our brains infer object properties such as colour, curvature or gloss. Here we used machine learning to identify computations underlying human gloss judgements—traditionally considered a challenging inference. We rendered thousands of objects with varied shapes using a Ward reflectance model across lighting and viewpoints, then obtained gloss ratings for each image. Observers’ judgements were consistent with one another, yet systematically deviated from reality. We compared these ratings with neural networks trained either to estimate physical reflectance (‘ground-truth networks’) or to reproduce human judgements (‘human-like networks’). While estimating physical reflectance required deep networks, shallow networks accurately replicated human judgements. Remarkably, even a single-filter network could predict human judgements better than the best ground-truth network and generalized to known gloss illusions. These results suggest that gloss perception relies on simple general-purpose computations, and demonstrate the power of interpretable ‘tiny‘ networks in understanding cognition.</description>
     </item>
   </channel>
 </rss>

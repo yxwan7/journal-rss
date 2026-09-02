@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:18:49 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -239,6 +239,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Previous research on moderate-to-vigorous physical activity (MVPA) and ovarian cancer risk have shown inconsistent results. Most studies measured recreational MVPA once during late adulthood, which does not consider the way in which timing may differently influence risk or account for MVPA from other activities. Life-course epidemiology models (critical-period, sensitive-period, and accumulation) can evaluate whether the timing and cumulative burden of total MVPA across the lifespan influences risk. Here, we identify which model best describes the association between total MVPA, encompassing recreational, occupational, household, and transportation activities, and invasive ovarian cancer risk. Methods A population-based case–control study of ovarian cancer in Montreal, Canada (2011–16) included 268 invasive cases and 668 controls aged ≥52 years. Total MVPA was determined by using recalled information on the frequency and duration of various physical activities across adulthood. A Bayesian relevant life course exposure model was used to estimate the relative importance of total MVPA, represented as average energy expenditure in units of metabolic equivalent (MET)-hours/week, during three pre-specified periods (early reproductive years, late reproductive years/perimenopause, and postmenopause) on invasive ovarian cancer risk. Results The lifetime-effect odds ratio comparing ≥50 vs &amp;amp;lt;50 MET-hours/week across adulthood was 0.59 (95% credible interval: 0.35–0.93). MVPA during late reproductive years/perimenopause showed the highest relative importance, suggesting that this may be a sensitive period. Associations were similar for serous and non-serous subtypes. Conclusion Our results support that higher MVPA across the adult life course is associated with a reduced invasive ovarian cancer risk and mid-adulthood, represented by late reproductive years/perimenopause, may be a sensitive period.</description>
     </item>
     <item>
+      <title>Redefining the public health problem in epidemiology:
+                    &lt;i&gt;Clarifying operational boundaries for a post‑pandemic discipline&lt;/i&gt;</title>
+      <link>https://doi.org/10.1093/ije/dyag193</link>
+      <guid isPermaLink="false">10.1093/ije/dyag193</guid>
+
+      <dc:creator>Jose Leopoldo Ferreira Antunes</dc:creator>
+      <dc:creator>Marco A Peres</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jose Leopoldo Ferreira Antunes, Marco A Peres
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag193</description>
+    </item>
+    <item>
       <title>Can paternal snus use shape offspring’s asthma risk? Implications, epidemiological insights, and gaps in epigenetic evidence</title>
       <link>https://doi.org/10.1093/ije/dyag179</link>
       <guid isPermaLink="false">10.1093/ije/dyag179</guid>
@@ -249,17 +262,6 @@ Abstract: Abstract Background Previous research on moderate-to-vigorous physical
       <description>Authors: Mohammad Talaei, Belinda Nedjai
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag179</description>
-    </item>
-    <item>
-      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag148</link>
-      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
-
-      <dc:creator>Cesar Victora</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Cesar Victora
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
     </item>
     <item>
       <title>Dental amalgam exposure and multiple sclerosis: authors’ response</title>
@@ -274,6 +276,17 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
       <description>Authors: Jie Guo, Tomas Olsson, Lars Alfredsson, Anna Karin Hedström
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag142</description>
+    </item>
+    <item>
+      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag148</link>
+      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
+
+      <dc:creator>Cesar Victora</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cesar Victora
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
     </item>
     <item>
       <title>Peripubertal pregnancies and associations with health and developmental outcomes in offspring during late adolescence and adulthood: sibling-comparison register study</title>
@@ -331,6 +344,23 @@ Abstract: Abstract Background Under the top-secret Manhattan Project, improperly
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag164
 
 Abstract: Abstract Background Synthetic data hold substantial potential to address practical challenges in epidemiology due to restricted data access and privacy concerns. However, many current methods suffer from limited quality, high computational demands, and complexity for non-experts. Furthermore, common evaluation strategies for synthetic data often fail to directly reflect statistical utility and measure privacy risks sufficiently. Against this background, a critical underexplored question is whether synthetic data can reliably reproduce key findings from epidemiological research while preserving privacy. Methods We propose adversarial random forests (ARF) as an efficient and convenient method for synthesizing tabular epidemiological data. To evaluate its performance, we replicated statistical analyses from six epidemiological publications covering blood pressure, anthropometry, myocardial infarction, accelerometry, loneliness, and diabetes, from the German National Cohort (NAKO Gesundheitsstudie), the Bremen STEMI Registry U45 Study, and the Guelph Family Health Study. We further assessed how dataset dimensionality and variable complexity affect the quality of synthetic data, and contextualized ARF’s performance by comparison with commonly used tabular data synthesizers in terms of utility, privacy, generalization, and runtime. Results Across all replicated studies, results on ARF-generated synthetic data consistently aligned with original findings. Even for datasets with relatively low sample size-to-dimensionality ratios, replication outcomes closely matched the original results across descriptive and inferential analyses. Reduced dimensionality and variable complexity further enhanced synthesis quality. ARF demonstrated favourable performance regarding utility, privacy preservation, and generalization relative to other synthesizers and superior computational efficiency. Conclusions In summary, ARF reliably generates high-quality synthetic data that replicate diverse epidemiological analyses while offering a competitive privacy–utility trade-off.</description>
+    </item>
+    <item>
+      <title>Cohort Profile Update: cognition and ageing in the Survey of Health, Ageing and Retirement in Europe Harmonized Cognitive Assessment Protocol (SHARE-HCAP)</title>
+      <link>https://doi.org/10.1093/ije/dyag184</link>
+      <guid isPermaLink="false">10.1093/ije/dyag184</guid>
+
+      <dc:creator>Salima Douhou</dc:creator>
+      <dc:creator>Michael Bergmann</dc:creator>
+      <dc:creator>Yuri Pettinicchi</dc:creator>
+      <dc:creator>Marcela C Otero</dc:creator>
+      <dc:creator>Arne Bethmann</dc:creator>
+      <dc:creator>Giuseppe De Luca</dc:creator>
+      <dc:creator>Axel Börsch-Supan</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Salima Douhou, Michael Bergmann, Yuri Pettinicchi, Marcela C Otero, Arne Bethmann, Giuseppe De Luca, Axel Börsch-Supan
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag184</description>
     </item>
     <item>
       <title>All covariates are not created equal in regression calibration: a review of methods on using biomarkers to calibrate dietary intake</title>
@@ -1643,46 +1673,6 @@ Abstract: Abstract Background Oil and gas development—a highly prevalent indus
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag068
 
 Abstract: Abstract Background Overall and abdominal obesity are associated with increased risks of various chronic diseases. A comprehensive understanding of nationwide trends and contributing factors is necessary to reduce obesity burdens. Methods We conducted hierarchical age-period-cohort analyses using cross-classified random-effects models on measured body mass index (BMI) and waist circumference (WC) data from a nationally representative sample of 86 806 Korean adults aged 19–79 years in the Korea National Health and Nutrition Examination Survey 2007–2022. Results In 2007–2022, there were overall increasing trends in age-standardized mean BMI and WC and prevalence of overall and abdominal obesity. When stratified by sex, the age-standardized mean BMI and WC increased among men (BMI: from 24.1 to 25.2 kg/m2; WC: from 84.6 to 88.6 cm), whereas only small changes were observed among women (BMI: from 23.1 to 23.2 kg/m2; WC: from 78.8 to 77.9 cm). Mean BMI and WC increased with age through middle adulthood in men and late adulthood in women. After controlling for age and period effects, mean BMI and WC were lowest among the birth cohorts of the late 1950s and 1970s and increased in more recent birth cohorts. Among men, mean BMI and WC were higher in higher socioeconomic subgroups (higher income, higher education, urban areas), but, among women, mean BMI and WC were higher in lower socioeconomic subgroups. Conclusions To reduce obesity-related disease burdens in Korea, tailored interventions are needed to target the most vulnerable populations, such as younger generations, men of higher socioeconomic subgroups, and women of lower socioeconomic subgroups.</description>
-    </item>
-    <item>
-      <title>Low-dose radiation exposure and risk of self-reported cataract in Fukushima nuclear emergency workers</title>
-      <link>https://doi.org/10.1093/ije/dyag063</link>
-      <guid isPermaLink="false">10.1093/ije/dyag063</guid>
-
-      <dc:creator>Huan Hu</dc:creator>
-      <dc:creator>Natsuko Hatsusaka</dc:creator>
-      <dc:creator>Mark P Little</dc:creator>
-      <dc:creator>Osamu Kurihara</dc:creator>
-      <dc:creator>Eunjoo Kim</dc:creator>
-      <dc:creator>Hiroshi Sasaki</dc:creator>
-      <dc:creator>Tetsuya Mizoue</dc:creator>
-      <dc:creator>Toshiteru Okubo</dc:creator>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Huan Hu, Natsuko Hatsusaka, Mark P Little, Osamu Kurihara, Eunjoo Kim, Hiroshi Sasaki, Tetsuya Mizoue, Toshiteru Okubo
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag063
-
-Abstract: Abstract Background Cataract is a well-established radiogenic condition and recent evidence suggests an increased risk even at radiation doses of &amp;amp;lt;100 mGy. Following the 2011 Fukushima Daiichi Nuclear Power Plant accident, ∼20 000 workers participated in emergency operations. This study aimed to investigate the association between cumulative low-dose occupational radiation exposure and the risk of cataract among workers enrolled in the Epidemiological Study of Health Effects in Fukushima Nuclear Emergency Workers. Methods Data from 5773 nuclear emergency workers participating in the cohort were analysed. The cumulative lifetime occupational radiation dose was estimated by combining pre-2011 individual dose records from a nationwide nuclear radiation worker dose registry with radiation doses received during the 2011 emergency-work period. Self-reported, physician-diagnosed cataract was identified through baseline and first follow-up questionnaires. A Cox proportional hazards model was applied to estimate hazard ratios (HRs) with 95% confidence intervals (CIs) for incident cataract, with adjustments for major covariates. Results More than 90% of the participants had cumulative occupational radiation exposure of &amp;amp;lt;100 mSv, including doses received both prior to the accident and during the emergency period (March–November 2011). During 52 921 person-years of follow-up from 2012 to 2024 (mean, 9.2 years), 310 participants reported new-onset cataract. The risk of cataract increased with lifetime occupational exposure up to November 2011, with an HR of 1.03 per 10-mSv increase (95% CI, 1.02, 1.05). This association persisted after excluding participants with doses of ≥100 mSv. For exposure during the emergency period (March–November 2011), the HR was 1.06 per 10-mSv increase (95% CI, 1.03, 1.09). When the cumulative lifetime occupational radiation dose was recalculated by using 2-year and 5-year lag periods before diagnosis or censoring, the HRs per 10-mSv increase were 1.03 (95% CI, 1.01, 1.04) and 1.01 (95% CI, 0.99, 1.04), respectively. Conclusion This study suggests an excess risk of cataract at doses of &amp;amp;lt;100 mSv and adds to the evidence base suggesting an association between low-dose occupational radiation exposure and cataract risk.</description>
-    </item>
-    <item>
-      <title>A cohort study of forced vital capacity, airway obstruction, and survival in the multinational Burden of Obstructive Lung Disease study</title>
-      <link>https://doi.org/10.1093/ije/dyag093</link>
-      <guid isPermaLink="false">10.1093/ije/dyag093</guid>
-
-      <dc:creator>Peter G J Burney</dc:creator>
-      <dc:creator>Emmanouil Bagkeris</dc:creator>
-      <dc:creator>James Potts</dc:creator>
-      <dc:creator>Rune Nielsen</dc:creator>
-      <dc:creator>Graham Devereux</dc:creator>
-      <dc:creator>Karima El Rhazi</dc:creator>
-      <dc:creator>Althea Aquart-Stewart</dc:creator>
-      <dc:creator>Asaad A Nafees</dc:creator>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Peter G J Burney, Emmanouil Bagkeris, James Potts, Rune Nielsen, Graham Devereux, Karima El Rhazi, Althea Aquart-Stewart, Asaad A Nafees, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag093
-
-Abstract: Abstract Background In the USA, higher forced vital capacity (FVC) is linked with longer survival, and FVC is associated with survival independently of ethnicity. The implications for the low FVC values in parts of Asia and Africa are unknown. Methods We used data from 16 sites of the multinational Burden of Obstructive Lung Disease (BOLD) study that completed follow-up of participants between 2019 and 2021 and reported at least five deaths between baseline and follow-up. We assessed the association of mortality with FVC and Forced Expiratory Volume in 1 second (FEV1)/FVC ratio within each site using Cox proportional hazards models. These models were adjusted for age, smoking, height, and weight. Effect estimates from all sites were combined using meta-analysis. Systematic regional differences were investigated. Results Of 9927 study participants with follow-up data, 1120 (11.3%) had died [mean follow-up = 8.7 years, standard deviation (SD) = 3.3 years]. Baseline post-bronchodilator FVC and FEV1/FVC were inversely associated with mortality. When both FVC and FEV1/FVC were mutually adjusted for each other, the decreased mortality rates were more pronounced for each SD higher FVC at baseline [44% (95% confidence interval (CI): 25%, 58%) for men and 28% (95% CI: 11%, 41%) for women] than for FEV1/FVC at baseline [14% (95% CI: 8%, 20%) for men and 7% (95% CI: −10%, 21%) for women]. The probability of true regional differences was low. Conclusions People with a higher FVC adjusted for age, sex, and height have a longer survival. Regional adjustments to lung function standards are inappropriate when assessing prognosis.</description>
     </item>
   </channel>
 </rss>
