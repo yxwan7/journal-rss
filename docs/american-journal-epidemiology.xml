@@ -5,8 +5,27 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:15:05 +0000</lastBuildDate>
 
+    <item>
+      <title>Leveraging Google location history data to assess the impact of activities, locations, and time spent in green space on mental health during the COVID-19 pandemic</title>
+      <link>https://doi.org/10.1093/aje/kwag209</link>
+      <guid isPermaLink="false">10.1093/aje/kwag209</guid>
+
+      <dc:creator>Solmaz Amiri</dc:creator>
+      <dc:creator>Ofer Amram</dc:creator>
+      <dc:creator>Funso Oje</dc:creator>
+      <dc:creator>Ally R Avery</dc:creator>
+      <dc:creator>Assefaw Gebremedhin</dc:creator>
+      <dc:creator>Glen E Duncan</dc:creator>
+      <dc:creator>Perry Hystad</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Solmaz Amiri, Ofer Amram, Funso Oje, Ally R Avery, Assefaw Gebremedhin, Glen E Duncan, Perry Hystad
+
+Journal: American Journal of Epidemiology; Article number: kwag209
+
+Abstract: Abstract The COVID-19 pandemic led to stay-at-home orders, resulting in sudden changes in movement patterns and social restrictions that impacted mental health. This study examined changes in individual behaviors during the pandemic using detailed smartphone-based activity data and determined whether behaviors and green space exposure buffered against mental health concerns. A total of 224 twins from the Washington State Twin Registry provided smartphone location data and completed a baseline survey and up to seven waves of follow-up surveys on mental health outcomes (ie, anxiety, depression, and stress). Objective measures of activities, locations, and time spent in green space were collected using Google Location History. Green space exposures were assessed using all location data. Associations between activities, locations, green space, and each mental health outcome were assessed using linear mixed models. There were changes in activities and locations from baseline to wave 1; by wave 7, the direction and magnitude of changes varied across measures, with some remaining above and others below their baseline levels. Mental health outcomes were associated with a subset of locations, activities, and green space measures although associations were not observed consistently across all exposure–outcome combinations examined.</description>
+    </item>
     <item>
       <title>Correction to: The PARLONSMAAT study: protocol for a participatory longitudinal study of the impacts of gender-affirming care among transgender and gender-diverse adolescents</title>
       <link>https://doi.org/10.1093/aje/kwag200</link>
@@ -299,6 +318,18 @@ Journal: American Journal of Epidemiology; Article number: kwag194
 Abstract: Abstract Target trial emulation prompts investigators to frame their analysis question in terms of a hypothetical clinical trial. Although this does not solve the problem of confounding, the framework can protect against other sources of bias. A natural question is this: What kinds of trials can be emulated? In a late-phase trial (phases 3 or 4), the goal is to obtain a well-defined causal estimate that closely approximates the impact of a proposed intervention. In an early-phase trial (phase 2 or earlier), the estimate is a means to an end rather than an end in itself. An early-phase trial provides proof-of-concept evidence on the impact of an intervention in the exposure in terms of efficacy and safety, but the estimand may not correspond to the intervention to be implemented in practice. In a natural experiment where causal inferences rely on a plausibly random (or quasi-random) comparison, the estimand may not be directly translatable to applied practice. In this case, the analysis may be conceptualized as an early-phase target trial. This provides less specific evidence than a late-stage target trial, but in many cases, a more valid but less applicable comparison is preferable to a more applicable comparison that is more susceptible to bias.</description>
     </item>
     <item>
+      <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
+      <link>https://doi.org/10.1093/aje/kwag191</link>
+      <guid isPermaLink="false">10.1093/aje/kwag191</guid>
+
+      <dc:creator>Gong Zhang</dc:creator>
+      <dc:creator>Xichen Fan</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gong Zhang, Xichen Fan
+
+Journal: American Journal of Epidemiology; Article number: kwag191</description>
+    </item>
+    <item>
       <title>The Selenium and Vitamin E Cancer Prevention Trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration</title>
       <link>https://doi.org/10.1093/aje/kwag189</link>
       <guid isPermaLink="false">10.1093/aje/kwag189</guid>
@@ -315,18 +346,6 @@ Abstract: Abstract Target trial emulation prompts investigators to frame their a
 Journal: American Journal of Epidemiology; Article number: kwag189
 
 Abstract: Abstract The potential for trace amounts of selenium supplements to prevent prostate cancer and other neoplasms was studied in the Selenium and Vitamin E Prevention Trial, a randomized trial conducted in North America for 7-12 years. A total of 34 887 eligible men aged 55 or older were assigned to take either 200 μg selenium from L-selenomethionine, 400 IU vitamin E, both selenium and vitamin E, or placebo. The trial was stopped for futility and concerns about adverse effects. Subsequently, we used incidence and mortality data from Medicare through 2019 and the National Death Index through 2024 to investigate the extent to which selenium administration was associated with increased long-term risk of cancer and neurodegenerative disease, during 341 697 person-years of follow-up. Lung cancer showed little increased risk. Associations were near null for leukemia, non–Hodgkin lymphoma, and Parkinson’s disease, and there was a lower risk for melanoma and colorectal cancer. In contrast, we found a higher risk for Hodgkin lymphoma, multiple myeloma, and amyotrophic lateral sclerosis, which has been associated with selenium overexposure in some nonexperimental studies. Though these latter associations were based on few cases, they were consistent with findings from a range of other studies, possibly indicating long–term adverse effects of this organic selenium compound (registration no. NCT00006392).</description>
-    </item>
-    <item>
-      <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
-      <link>https://doi.org/10.1093/aje/kwag191</link>
-      <guid isPermaLink="false">10.1093/aje/kwag191</guid>
-
-      <dc:creator>Gong Zhang</dc:creator>
-      <dc:creator>Xichen Fan</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gong Zhang, Xichen Fan
-
-Journal: American Journal of Epidemiology; Article number: kwag191</description>
     </item>
     <item>
       <title>Leveraging limited testing data for early detection of emerging infectious disease outbreaks</title>
@@ -675,7 +694,7 @@ Abstract: Abstract While 5-year survival following childhood cancer rose greatly
       <guid isPermaLink="false">10.1093/aje/kwag164</guid>
 
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Article number: kwag164</description>
+      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2507-2507</description>
     </item>
     <item>
       <title>Multidimensional social exposure clusters and incident multimorbidity in a population-based cohort</title>
@@ -702,7 +721,7 @@ Abstract: Abstract Multimorbidity follows a strong social gradient, yet how the 
       <guid isPermaLink="false">10.1093/aje/kwag163</guid>
 
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Article number: kwag163</description>
+      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2506-2506</description>
     </item>
     <item>
       <title>Time trends in susceptibility to scams in community-dwelling older adults</title>
@@ -720,7 +739,7 @@ Abstract: Abstract Multimorbidity follows a strong social gradient, yet how the 
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Lei Yu, Lianlian Du, Tianhao Wang, Gary Mottola, Christopher C Stewart, Peter A Lichtenberg, Francine Grodstein, David A Bennett, et al.
 
-Journal: American Journal of Epidemiology; Article number: kwag168
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2327-2333
 
 Abstract: Abstract This study examined the time trends of susceptibility to scams across 4 birth cohorts in the United States that span between 1925 and 1944. Data came from community-dwelling older adults without dementia participating in an epidemiologic cohort study of aging and dementia. A 5-item instrument for scam susceptibility assessed participants’ scam-related behaviors and perceptions, such as how they manage phone calls from telemarketers, and whether they agree with claims that are unrealistically good. To capture time trends, age- and education-standardized mean scam susceptibility score was computed for each birth cohort and compared across the cohorts. Of the 1037 participants included, 280 were born between 1925 and 1929, 248 between 1930 and 1934, 279 between 1935 and 1939, and 230 between 1940 and 1944. The mean scam susceptibility scores trended downward monotonically from the earliest to the most recent cohorts. The results are robust to age distributions, analytic approaches, or cognitive impairment status. In conclusion, older adults of more recent birth cohorts report fewer behaviors linked to scam susceptibility. This study suggests that scam susceptibility appears to be a function not only of individual-level factors but also reflective of shared life experiences. More broadly, scam susceptibility is amenable to interventions effective at the population level.</description>
     </item>
@@ -783,7 +802,7 @@ Journal: American Journal of Epidemiology; Article number: kwag167</description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Joanna L Clasen, Hemang M Parikh, William A Hagopian
 
-Journal: American Journal of Epidemiology; Article number: kwag156</description>
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2502-2503</description>
     </item>
     <item>
       <title>Pregnancy intentions by sexual orientation among pregnancies across the life course</title>
@@ -811,7 +830,7 @@ Abstract: Abstract Sexual minority (SM) people may be at increased risk of “un
       <guid isPermaLink="false">10.1093/aje/kwag152</guid>
 
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Article number: kwag152</description>
+      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2505-2505</description>
     </item>
     <item>
       <title>Life-expectancy loss during the COVID-19 pandemic: decomposition using individual-level mortality data</title>
@@ -857,7 +876,7 @@ Journal: American Journal of Epidemiology; Article number: kwag162</description>
       <guid isPermaLink="false">10.1093/aje/kwag151</guid>
 
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Article number: kwag151</description>
+      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2504-2504</description>
     </item>
     <item>
       <title>Air pollution and healthy aging: a longitudinal inquire on the association of PM2.5 with intrinsic capacity and its domains</title>
@@ -994,7 +1013,7 @@ Abstract: Abstract Earlier pubertal timing has risen alongside increasing childh
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <description>Authors: Gellért Perényi, Matias Janvin, Mats J Stensrud
 
-Journal: American Journal of Epidemiology; Article number: kwag118
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2469-2475
 
 Abstract: Abstract Determining whether vaccine efficacy wanes is important for individual and public decision making. Yet, quantification of waning is a subtle task. The classical approaches cannot be interpreted as measures of declining efficacy unless we impose unreasonable assumptions. Recently, formal causal estimands designed to quantify vaccine waning have been proposed. These estimands can be bounded under weaker assumptions, but the bounds are often too wide to make claims about the presence of waning. We propose a different approach: a formal test to assess whether a treatment effect is constant over time at the individual level. This test provides a considerable power gain over existing approaches and is valid under interpretable assumptions in vaccine trials. We illustrate the increase in power through real and simulated examples, using 3 different approaches to compute the test statistics. Two of these approaches are based solely on summary data, accessible from existing clinical trials. Beyond our test, we also give new results that bound the waning effect. We use our methods to reanalyze data from a randomized controlled trial of the BNT162b2 COVID-19 vaccine. While a prior analysis did not establish waning, our test rejects the null hypothesis of no waning.</description>
     </item>
@@ -1045,7 +1064,7 @@ Abstract: Abstract Epidemiological evidence on whether cesarean delivery influen
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Julia Peters, Colleen A Reynolds, Joost Oude Groeniger
 
-Journal: American Journal of Epidemiology; Article number: kwag149
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2496-2497
 
 Abstract: Abstract</description>
     </item>
@@ -1102,7 +1121,7 @@ Abstract: Abstract We conducted an age-period-cohort (APC) analysis to distingui
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Talha Rafiq, Lauren E Griffith, Parminder Raina, Christina Wolfson, Susan A Kirkland, Cynthia Balion, Andrew P Costa, Varun Chaudhary, et al.
 
-Journal: American Journal of Epidemiology; Article number: kwag137
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2391-2398
 
 Abstract: Abstract Longitudinal studies are essential for understanding health trajectories, but necessary upgrades to measurement instruments over time may compromise data comparability. The Canadian Longitudinal Study on Aging conducted a measurement comparability study to quantify systematic differences between instruments and derive conversion equations to correct for any differences. Overall, 50 participants aged ≥45 years (52% female) underwent repeated assessments with old and new instruments, including the blood pressure monitor, electrocardiogram (ECG), carotid ultrasound, spirometer, audiometer, tonometer, and dynamometer. Linear mixed-effects models were used to identify systematic differences. Cohen’s d was used to assess standardized mean difference, Bland–Altman plots evaluated agreement between instruments, and repeatability was assessed within instruments. Mixed-effects models showed no clinically meaningful difference across instruments, except for systolic blood pressure (SBP), which was on average 5.19 mmHg (95% CI, 2.64-7.74) higher using the new instrument. Cohen’s d demonstrated moderate systematic differences for several measures. Repeatability estimates showed good-to-excellent reliability for most measures; however, certain ECG and tonometer parameters showed moderate or poor precision. The results support the utility of conversion equations to account for systematic differences between instruments. The difference in SBP warrants the implementation of a conversion equation, whereas it is unclear for measures with moderate differences.</description>
     </item>
@@ -1155,7 +1174,7 @@ Journal: American Journal of Epidemiology; Article number: kwag146</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Ada W C Yan, Jennifer A Flegg, Jeanne Rini Poespoprodjo, Nicholas M Douglas, Ric N Price, Angela Devine, David J Price, Rebecca H Chisholm
 
-Journal: American Journal of Epidemiology; Article number: kwag138
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2458-2468
 
 Abstract: Abstract For infectious diseases where people can experience multiple infections during their lifetime, the time between observed infections in individuals (or “time to recurrence”) can provide valuable information on infection and transmission dynamics. Routinely collected data, such as electronic health records, are a potential source of time to recurrence data. However, they are challenging to analyse because patients can drop out of the data set in a way that is not visible to the data collection process. Standard epidemiological approaches, such as parametric survival analysis with imputation, cannot be applied to such data. In this study, we explored the feasibility of interrogating routinely collected time to recurrence data by calibrating mechanistic transmission models with explicit dropout mechanisms. We identified model structures and parameter regimes where the method could precisely and accurately estimate important epidemiological quantities. Application of our method to real data of malaria infections routinely collected in Papua, Indonesia, was able to estimate the forces of infection for different malaria species, the rate of dropout and recrudescence for Plasmodium falciparum, and the probability of treatment success. Our method has the potential to increase the value of existing and new data sets for informing public health research.</description>
     </item>
@@ -1192,7 +1211,7 @@ Abstract: Abstract We assessed associations of total and group-specific ultrapro
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Rebecca M Gardner, Jonathan A Mayo, Virginia D Winn, Gary M Shaw, Julia F Simard
 
-Journal: American Journal of Epidemiology; Article number: kwag134
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2373-2382
 
 Abstract: Abstract Hyperemesis gravidarum (HG)—severe nausea and vomiting during pregnancy—affects 1%-3% of pregnancies and is the leading cause of early pregnancy hospitalization. Significant maternal undernutrition in HG pregnancy is hypothesized to lead to abnormal placental development and function, resulting in higher risk for select adverse pregnancy outcomes (APOs). Population data investigating this association are largely from Europe; the only prior US population-based study (1999) did not adjust for confounding. We evaluated the association between HG and APOs in a US population-based cohort of 2.5 million singleton live births in California (2007-2011). We defined HG based on primary diagnosis codes present in prenatal hospitalization or emergency department records (n = 53 681; 2.2%). After adjusting for confounders, HG was associated with higher risks of pre-eclampsia (aRR 1.18, 95% CI, 1.13-1.23), gestational hypertension (1.15, 1.09-1.22), preterm birth (1.25, 1.22-1.29), small for gestational age (1.19, 1.16-1.22), placental abruption (1.14, 1.05-1.25), and anemia (1.37, 1.33-1.40). Risks were generally higher among women with first HG hospitalization in the second trimester (eg, pre-eclampsia: 1.41, 1.30-1.52), and elevated risks were observed across nearly all strata examined. In this large US population-based cohort, HG was associated with increased risk of multiple APOs.</description>
     </item>
@@ -1212,7 +1231,7 @@ Abstract: Abstract Hyperemesis gravidarum (HG)—severe nausea and vomiting duri
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Andrea R Titus, Tarik Benmarhnia, Rania Kanchi, Byoungjun Kim, Rosana Aguilera, Jay Pendse, José O Aléman, Lorna E Thorpe
 
-Journal: American Journal of Epidemiology; Article number: kwag130
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2347-2354
 
 Abstract: Abstract Air pollution remains a leading cause of mortality. Few studies have leveraged residential relocation to examine impacts of intraindividual changes in PM2.5 exposure. As the largest integrated health system in the United States, the Veterans Health Administration (VA) is an ideal setting to examine relocation-induced changes in air pollution. We constructed a cohort of veterans who relocated from one ZIP code to another between 2011 and 2017 (N = 762 905). We linked spatially averaged annual PM2.5 estimates to each person based on residential address. We examined relocation-induced PM2.5 changes and post-move mortality in discrete-time models, accounting for individual-level and area-level confounding variables. We estimated pooled odds ratios (ORs) over 5 years of follow-up and examined effect-measure modification by age (&amp;amp;lt;65, 65+), sex, and neighborhood-level poverty. The pooled OR associated with a 2 μg/m3 increase in PM2.5 levels between the origin and destination areas was 1.03 (95% CI = 1.01-1.03). Associations appeared more pronounced among older individuals when assessing potential additive effect-measure modification. Examining intraindividual changes in PM2.5 exposure and subsequent health outcomes can elucidate potential impacts of air pollution and pollution-reduction policies. Results suggest survival benefits from policies that further reduce PM2.5 levels.</description>
     </item>
@@ -1232,7 +1251,7 @@ Abstract: Abstract Air pollution remains a leading cause of mortality. Few studi
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Tara E Jenson, Emma L Gause, Jingxuan Wang, Sarah F Ackley, Jennifer Manly, Evan Fletcher, Paola Gilsanz, Rachel A Whitmer, et al.
 
-Journal: American Journal of Epidemiology; Article number: kwag135
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2355-2363
 
 Abstract: Abstract Depression has been associated with magnetic resonance imaging (MRI) measures of larger white matter hyperintensity (WMH) volumes and smaller cerebral gray matter volumes (GMV) in predominantly White samples. Recent findings suggest that some race/ethnicity groups may experience more severe health consequences due to depression when it is present, compared with depression in White populations. We investigated the association of depressive symptoms with WMH and GMV by race/ethnicity, using a continuous measure of depressive symptoms to capture participants’ experience of depression more expansively versus clinical diagnosis alone. A diverse sample of older, northern California Kaiser Healthy Aging and Diverse Life Experiences and the Study of Healthy Aging in African Americans participants (n = 550) underwent MRI neuroimaging 2017-2022. Baseline depressive symptoms were measured in 2017 using the National Institutes of Health Patient-Reported Outcomes Measurement Information System toolbox. We conducted a literature-informed Bayesian analysis, stratified by race/ethnicity, to examine the association between baseline depressive symptoms and post-baseline WMH and GMV. Our sample was 14% Asian, 54% Black, 16% Latino, and 17% White. Overall, we did not observe an association between depressive symptoms and log(WMH; 0.06, 95% credible interval [CrI]: −0.09, 0.22) or GMV (−0.74, 95% CrI: −1.62, 0.16). In stratified analyses, 1 SD higher depressive symptoms were associated with larger log(WMH) volume (0.21, 95% CrI: 0.002, 0.42) among Black participants and smaller GMV among Latino participants (−2.92, 95% CrI: −4.31, −1.52). Unexpectedly, depressive symptoms were associated with larger GMV in Asian participants (2.41, 95% CrI: 0.87, 3.95). More severe depressive symptoms were associated with MRI markers of brain aging among Black and Latino participants.</description>
     </item>
@@ -1287,7 +1306,7 @@ Abstract: Abstract Multiomic data analysis poses statistical challenges. We eval
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Clara Tosti Bæk, Trine Munk-Olsen, Merete Lund Mægbæk, Kathrine Bang Madsen, Sofie Egsgaard, Mette-Marie Zacher Kjeldsen
 
-Journal: American Journal of Epidemiology; Article number: kwag133
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2450-2457
 
 Abstract: Abstract Postpartum depression (PPD) affects both mothers and fathers, yet research on paternal PPD remains limited. The HOPE cohort includes PPD screenings using the Edinburgh Postnatal Depression Scale (EPDS) from parents in 67 of 98 Danish municipalities (2015-2021). It is the largest cohort to include fathers, and linkage with nationwide health registers provides information on PPD diagnoses, sociodemographic, and health-related factors. This cohort study aimed to evaluate potential selection bias of fathers in the HOPE cohort by comparing selected characteristics with the Danish paternal background population and estimating relative odds ratios (RORs) for 3 perinatal associations using logistic regression. In addition, we report the prevalence of paternal PPD in the HOPE cohort. In the HOPE cohort comprising 46 174 childbirths and 42 680 unique fathers, 3.29% had a positive EPDS screening, 2.69% had a registered PPD diagnosis, and 0.49% had both. Fathers in the cohort resembled the background population (444 339 childbirths) across most characteristics; however, fathers of non-Danish origin were markedly underrepresented. Relative odds ratio showed no substantial differences, indicating minimal selection bias across the examined perinatal associations. Our findings suggest that fathers in the HOPE cohort are representative of fathers in the Danish background population, supporting the cohort’s use for future research related to paternal mental health.</description>
     </item>
@@ -1307,7 +1326,7 @@ Abstract: Abstract Postpartum depression (PPD) affects both mothers and fathers,
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Carmen Cañete Ramirez, Albina Tskhay, Ana C Blanchard, Amélie Forget, Marie-Élaine Métras, Tibor Schuster, Lucie Blais, Cristina Longo
 
-Journal: American Journal of Epidemiology; Article number: kwag132
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2334-2346
 
 Abstract: Abstract Antibiotics are often prescribed to children with asthma for non-specific upper respiratory tract infections (NS-URTIs), but their association with exacerbation risk in children with pre-existing asthma is unclear. We aimed to determine if antibiotics are associated with asthma exacerbation risk in the 6 months following NS-URTI resolution. Using Quebec administrative health and drug claims data, we emulated a series of target trials among children (0-17 years) with asthma visiting an outpatient physician for an NS-URTI. Treatment strategies were no, narrow-, or broad-spectrum antibiotics initiated within 3 days following the index visit. The primary outcome was exacerbation during the 6 months following an initial 10-day induction period, defined as oral corticosteroid use, emergency department visits, or hospitalizations for asthma. Risk ratios (RR) and differences (RDs) were estimated using inverse probability of treatment weighted log-binomial models. Among 13 646 children (24 139 person-trials), 8.8% and 11.4% received narrow- and broad-spectrum antibiotics, respectively. Compared with no antibiotics, narrow-spectrum antibiotics were associated with an RR of 1.26 (95%CI, 0.99-1.53; RD, 0.07%), while broad-spectrum antibiotics were associated with an RR of 1.28 (95%CI, 1.03-1.54; RD, 0.08%). Broad-spectrum antibiotics were associated with modestly higher exacerbation risks, although absolute RDs were small (&amp;amp;lt;0.1%).</description>
     </item>
@@ -1367,7 +1386,7 @@ Abstract: Abstract The relationship between exposure to perfluoroalkyl substance
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Marcia Pescador Jimenez, Liliana Paloma Rojas-Saunero, Cameron J Reimer, Esra Suel, Pi-I Debby Lin, Perry Hystad, Francine Grodstein, Ana V Diez-Roux, et al.
 
-Journal: American Journal of Epidemiology; Article number: kwag129
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2383-2390
 
 Abstract: Abstract Greenspace has been associated with lower dementia risk, but most studies have used satellite-derived measures that cannot distinguish vegetation types. We used streetview (SV)-based metrics of greenspace from an on-the-ground perspective to examine greenspace types that may be relevant for dementia risk. We followed 6761 participants from the Multi-Ethnic Study of Atherosclerosis, 2000-2018. Using deep learning algorithms applied to SV images, we measured %trees, %grass, %other green (plants/flowers/fields) in the 500 m area around participants’ residences. We examined the controlled direct effect of greenspace with dementia accounting for death as a censoring event, using a weighted Kaplan–Meier survival estimator, with the product of exposure weights and inverse-probability-of-censoring by death. We ran models separately per greenspace type. Mean baseline age was 62 years (SD, 10). Participants exposed to lowest levels of %trees were more likely to have a household income &amp;amp;lt; $24 999. We observed 585 (8.7%) dementia cases and 1437 (21.3%) deaths over follow-up. We observed a direct effect of high exposure to %grass on 19-year dementia risk had death been prevented of −4.57 (95% CI, -8.15, −0.40) percentage points. No associations were observed for %trees (−0.07; 95% CI, −2.29 to 2.11) and %other green (−0.03, 95% CI, −1.59 to 1.48). Higher percentage of grass may reduce dementia risk.</description>
     </item>
@@ -1421,7 +1440,7 @@ Abstract: Abstract We aimed to examine the longitudinal and directional associat
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <description>Authors: Nicole G Itzkowitz, Leah Roberts, Guohua Li, Andrew G Rundle, Joyce C Pressley, Kathryn G Burford, Siddhesh Zadey, Adam Whalen, et al.
 
-Journal: American Journal of Epidemiology; Article number: kwag090</description>
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2487-2490</description>
     </item>
     <item>
       <title>The impact of using different random-effects models in meta-analysis: a case study on the cognitive functioning of preterm-born children</title>
@@ -1634,7 +1653,7 @@ Abstract: Abstract Structural racism adversely affects the health and well-being
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <description>Authors: Guoli Ma, Yu Shi, Junlan Qiu, Chao Ren, Konglan Shao, Xiaochen Shu
 
-Journal: American Journal of Epidemiology; Article number: kwag114
+Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2440-2449
 
 Abstract: Abstract Neurodegenerative diseases (NDDs) represent a growing cause of mortality and disability among aging populations worldwide. However, the relationship between cumulative, multidomain environmental exposures, and NDD mortality remains poorly characterized. This study aimed to examine the association between comprehensive environmental quality and NDD mortality in the United States. We used the environmental quality index (EQI) from 2000 to 2005 to characterize cumulative environmental exposure. Associations between EQI quintiles and NDD mortality, including dementia, Parkinson’s disease (PD), amyotrophic lateral sclerosis, and Huntington’s disease, were examined using Bayesian interval-censored mixed-effects models. During 2006-2020, among 3.66 million NDD deaths, poorer environmental quality (Q5 vs Q1) was associated with mortality rate differences of 24.72 (95% credible intervals [CrI]: 22.43, 27.06) per 100 000 at 5-year lag, 26.74 (95% CrI: 24.34, 29.21) at 10-year lag, and 22.74 (95% CrI: 20.49, 25.13) at 15-year lag. Within each lag period, a clear dose–response pattern was consistently observed across EQI quintiles. Furthermore, associations were most pronounced for the air quality, followed by sociodemographic disadvantage. In addition, demographic and geographic heterogeneity was observed across sex, race, census regions, urbanicity, climate zone, and county economic type. These findings underscore the need for integrated, place-based environmental health policies targeting neurodegeneration prevention.</description>
     </item>
@@ -1675,26 +1694,6 @@ Abstract: Abstract To identify unique trajectories of reproductive events across
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2158-2169
 
 Abstract: Abstract Acetaminophen is among the most common over-the-counter medications used during pregnancy. Given inconsistent findings from both experimental and epidemiological studies on associations between use and adverse health outcomes, further research is warranted. To address this, our objective was to assess the relationship between prenatal acetaminophen use and birth outcomes. We studied 8957 mother–infant pairs from 36 pediatric study sites participating in the Environmental influences on Child Health Outcomes (ECHO) program. After imputation and inverse probability weighting, we used regression models to examine the relationship between acetaminophen during pregnancy and the following outcomes: (1) preterm birth, (2) birthweight, (3) small-for-gestational age (SGA), and (4) large-for-gestational-age (LGA). Approximately 59% of mothers reported using acetaminophen at any point during their pregnancy (n = 5257). After adjustment for relevant covariates, prenatal acetaminophen use was associated with lower odds of LGA (adjusted odds ratio [aOR]: 0.87; 95% CI: 0.79, 0.96). Prenatal acetaminophen use was not associated with preterm birth (aOR: 0.99; 95% CI: 0.86, 1.14), birthweight (aβ: −7.52 g; 95% CI: −27.80, 12.77) or SGA (aOR: 1.02; 95% CI: 0.88, 1.18). Based on these findings, future research should test for dose–response, trimester-specific exposures, and factors affecting individual responses.</description>
-    </item>
-    <item>
-      <title>Mortality risk and loss in life expectancy associated with poor oral health: a population-based epidemiologic follow-up study</title>
-      <link>https://doi.org/10.1093/aje/kwag109</link>
-      <guid isPermaLink="false">10.1093/aje/kwag109</guid>
-
-      <dc:creator>Ying Zhou</dc:creator>
-      <dc:creator>Juan Wang</dc:creator>
-      <dc:creator>Wen Hu</dc:creator>
-      <dc:creator>Shili Zhou</dc:creator>
-      <dc:creator>Hongkun Di</dc:creator>
-      <dc:creator>Qi Wu</dc:creator>
-      <dc:creator>Tianzhu Qin</dc:creator>
-      <dc:creator>Qingsong Ye</dc:creator>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ying Zhou, Juan Wang, Wen Hu, Shili Zhou, Hongkun Di, Qi Wu, Tianzhu Qin, Qingsong Ye, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag109
-
-Abstract: Abstract Previous studies have shown that oral health is associated with mortality. However, evidence is lacking on the association between comprehensive oral health indicators and mortality and life expectancy. We used data from the National Health and Nutrition Examination Survey from 1999 to 2018 (adults aged ≥40 years). Oral health was assessed based on tooth loss, periodontitis, self-rated oral health, and the decayed, missing, and filled teeth (DMFT) index. Mortality status was linked to the National Death Index up to December 31, 2019. The Cox proportional hazards model was used to estimate the association between oral health and mortality. Life expectancy was calculated using the life tables. Over 8.3 years (mean follow-up), 3345 deaths occurred. Compared to those with 0-1 tooth lost, no periodontitis, good self-rated oral health, and a very low DMFT index, the risk of all-cause mortality for individuals with 22-28 teeth lost, severe periodontitis, poor self-rated oral health, and high DMFT index increased by 59%-89%, resulting in an estimated loss of life expectancy of 4.6-6.4 years at age 50. This study found that poor oral health was associated with a higher risk of mortality and a shorter life expectancy.</description>
     </item>
   </channel>
 </rss>

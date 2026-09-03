@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:14:46 +0000</lastBuildDate>
 
     <item>
       <title>Foreshock productivity and rupture nucleation in injection-induced earthquakes in western Canada</title>
@@ -28,6 +28,23 @@ Journal: Science; Volume: 393; Issue: 6814; Article number: eaed9893
 Abstract: Foreshock activity is a key consideration in traffic-light protocol (TLP) to mitigate seismic risk from injection-induced earthquakes (IIEs). However, the seismogenic processes of IIE foreshocks remain poorly understood. Using an enhanced western Canada catalog (2014–2024), we analyzed 77 IIE sequences to statistically delineate foreshock patterns before local magnitude ( M L ) ≥ 3 mainshocks. We found that 92% are preceded by foreshocks and that foreshock productivity and spatiotemporal patterns reflect the interplay among fluid injection, the seismogenic index, and the fault stress state. Sequence-specific analyses elucidate three nucleation models: fluid-driven preslip with weakened source asperity, fluid-driven preslip with intact source asperity, and fluid-driven cascade, highlighting the central role of fluids in enabling aseismic slip and interevent stress transfer before mainshock rupture. These results imply that IIE monitoring strategies should be spatially conditioned according to foreshock productivity.</description>
     </item>
     <item>
+      <title>Recovering signatures of archaic hominin introgression using ancestral recombination graphs</title>
+      <link>https://doi.org/10.1126/science.aef8874</link>
+      <guid isPermaLink="false">10.1126/science.aef8874</guid>
+
+      <dc:creator>Yulin Zhang</dc:creator>
+      <dc:creator>Arjun Biddanda</dc:creator>
+      <dc:creator>Sarah A. Johnson</dc:creator>
+      <dc:creator>Colm O’Dushlaine</dc:creator>
+      <dc:creator>Priya Moorjani</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yulin Zhang, Arjun Biddanda, Sarah A. Johnson, Colm O’Dushlaine, Priya Moorjani
+
+Journal: Science; Volume: 393; Issue: 6814; Article number: eaef8874
+
+Abstract: Admixture between modern humans and extinct hominins has shaped the genomes of present-day individuals, but reconstructing this history has been constrained by the scarcity of archaic samples and unadmixed outgroup populations. We introduce TRACE, a reference- and outgroup-free approach that uses features of ancestral recombination graphs to identify archaic ancestry. Simulations demonstrate that TRACE achieves high precision and low false discovery rates. Applied to 1000 genomes, TRACE recovers known Neanderthal and Denisovan introgression and uncovers ghost admixture from uncharacterized hominins in both Africans and non-Africans. Ghost ancestry persists in Neanderthal and Denisovan ancestry deserts, challenging their interpretation as Homo sapiens –specific regions. In Oceanians, TRACE finds that deep lineages are enriched in Denisovan compared with Neanderthal regions, supporting super-archaic introgression. TRACE enables mapping of archaic introgression without archaic reference genomes.</description>
+    </item>
+    <item>
       <title>Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord</title>
       <link>https://doi.org/10.1126/science.ady2660</link>
       <guid isPermaLink="false">10.1126/science.ady2660</guid>
@@ -46,23 +63,6 @@ Abstract: Foreshock activity is a key consideration in traffic-light protocol (T
 Journal: Science; Article number: eady2660
 
 Abstract: The Pacific El Niño–Southern Oscillation (ENSO) generates climate extremes that endanger ecosystems, infrastructure, and human well-being worldwide. The response of this system to climate warming is poorly constrained, due both to data scarcity and uncertainties in climate models. The geochemistry of Galápagos coral skeletons across the past millennium reveals a large recent increase in interannual variability of sea surface temperature in the eastern equatorial Pacific compared to existing paleorecords that exceeds simulated natural variability. This increase parallels rising global temperature and results from stronger El Niño events. Central Pacific coral data also show increased variability, although less distinctly than in the Galápagos. Our results provide long-term context for understanding ENSO variability trends, with troubling implications for climate extremes.</description>
-    </item>
-    <item>
-      <title>Recovering signatures of archaic hominin introgression using ancestral recombination graphs</title>
-      <link>https://doi.org/10.1126/science.aef8874</link>
-      <guid isPermaLink="false">10.1126/science.aef8874</guid>
-
-      <dc:creator>Yulin Zhang</dc:creator>
-      <dc:creator>Arjun Biddanda</dc:creator>
-      <dc:creator>Sarah A. Johnson</dc:creator>
-      <dc:creator>Colm O’Dushlaine</dc:creator>
-      <dc:creator>Priya Moorjani</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yulin Zhang, Arjun Biddanda, Sarah A. Johnson, Colm O’Dushlaine, Priya Moorjani
-
-Journal: Science; Volume: 393; Issue: 6814; Article number: eaef8874
-
-Abstract: Admixture between modern humans and extinct hominins has shaped the genomes of present-day individuals, but reconstructing this history has been constrained by the scarcity of archaic samples and unadmixed outgroup populations. We introduce TRACE, a reference- and outgroup-free approach that uses features of ancestral recombination graphs to identify archaic ancestry. Simulations demonstrate that TRACE achieves high precision and low false discovery rates. Applied to 1000 genomes, TRACE recovers known Neanderthal and Denisovan introgression and uncovers ghost admixture from uncharacterized hominins in both Africans and non-Africans. Ghost ancestry persists in Neanderthal and Denisovan ancestry deserts, challenging their interpretation as Homo sapiens –specific regions. In Oceanians, TRACE finds that deep lineages are enriched in Denisovan compared with Neanderthal regions, supporting super-archaic introgression. TRACE enables mapping of archaic introgression without archaic reference genomes.</description>
     </item>
     <item>
       <title>Desert flooding highlights a critical gap in climate change adaptation</title>
@@ -996,26 +996,6 @@ Journal: Science; Volume: 393; Issue: 6813; Pages: 748-749
 Abstract: Conflicting data prompt spat, and last-minute publication delay, in prominent journal</description>
     </item>
     <item>
-      <title>Autonomous biomedical research with an artificial intelligence agent</title>
-      <link>https://doi.org/10.1126/science.adz4351</link>
-      <guid isPermaLink="false">10.1126/science.adz4351</guid>
-
-      <dc:creator>Kexin Huang</dc:creator>
-      <dc:creator>Serena Zhang</dc:creator>
-      <dc:creator>Hanchen Wang</dc:creator>
-      <dc:creator>Yuanhao Qu</dc:creator>
-      <dc:creator>Yingzhou Lu</dc:creator>
-      <dc:creator>Ryan Li</dc:creator>
-      <dc:creator>Yusuf Roohani</dc:creator>
-      <dc:creator>Lin Qiu</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kexin Huang, Serena Zhang, Hanchen Wang, Yuanhao Qu, Yingzhou Lu, Ryan Li, Yusuf Roohani, Lin Qiu, et al.
-
-Journal: Science; Volume: 393; Issue: 6813; Article number: eadz4351
-
-Abstract: Biomedical research is increasingly constrained by repetitive, fragmented workflows that slow discovery. We introduce Biomni, a general-purpose biomedical artificial intelligence agent that autonomously executes diverse research tasks. To map the biomedical action space, Biomni’s action-discovery agent mines tools, databases, and protocols from thousands of publications across 25 domains, building a unified agentic environment. Its general-purpose architecture integrates large language model reasoning with retrieval-augmented planning and code-based execution, dynamically composing workflows without predefined templates. Systematic benchmarking shows strong generalization across heterogeneous tasks—causal gene prioritization, drug repurposing, rare-disease diagnosis, microbiome analysis, and molecular cloning—without task-specific tuning. Real-world case studies demonstrate Biomni interpreting multimodal datasets, optimizing protein stability, orchestrating wet-lab instruments, and generating experimentally testable protocols. Biomni envisions artificial intelligence augmenting human scientists and accelerating discovery.</description>
-    </item>
-    <item>
       <title>De novo design of orthogonal far-red, orange, and green fluorophore-binding proteins for multiplexed imaging</title>
       <link>https://doi.org/10.1126/science.aeb0822</link>
       <guid isPermaLink="false">10.1126/science.aeb0822</guid>
@@ -1034,6 +1014,26 @@ Abstract: Biomedical research is increasingly constrained by repetitive, fragmen
 Journal: Science; Volume: 393; Issue: 6813; Pages: 813-819
 
 Abstract: Fluorescent proteins and small-molecule dyes offer complementary advantages for biological imaging: Proteins are amenable to genetic tagging, whereas dyes provide superior brightness and photostability. To combine these strengths, we used de novo protein design to generate small, nanomolar-affinity, high-selectivity binders (NovoTags) for three cell-permeable dyes spanning the visible spectrum. We show that the NovoTag fluorescent lifetimes can be tuned and demonstrate their application in lifetime- and wavelength-based multiplexed fluorescence imaging. We also designed a two-chain version (NovoSplit) that functions as a chemically induced dimerization system with fluorescent readout in living cells or as a minimally perturbing proximity probe in fixed cells. Our approach combines the advantages of fluorescent proteins and small-molecule dyes, thus expanding the toolkit for cellular imaging.</description>
+    </item>
+    <item>
+      <title>Autonomous biomedical research with an artificial intelligence agent</title>
+      <link>https://doi.org/10.1126/science.adz4351</link>
+      <guid isPermaLink="false">10.1126/science.adz4351</guid>
+
+      <dc:creator>Kexin Huang</dc:creator>
+      <dc:creator>Serena Zhang</dc:creator>
+      <dc:creator>Hanchen Wang</dc:creator>
+      <dc:creator>Yuanhao Qu</dc:creator>
+      <dc:creator>Yingzhou Lu</dc:creator>
+      <dc:creator>Ryan Li</dc:creator>
+      <dc:creator>Yusuf Roohani</dc:creator>
+      <dc:creator>Lin Qiu</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kexin Huang, Serena Zhang, Hanchen Wang, Yuanhao Qu, Yingzhou Lu, Ryan Li, Yusuf Roohani, Lin Qiu, et al.
+
+Journal: Science; Volume: 393; Issue: 6813; Article number: eadz4351
+
+Abstract: Biomedical research is increasingly constrained by repetitive, fragmented workflows that slow discovery. We introduce Biomni, a general-purpose biomedical artificial intelligence agent that autonomously executes diverse research tasks. To map the biomedical action space, Biomni’s action-discovery agent mines tools, databases, and protocols from thousands of publications across 25 domains, building a unified agentic environment. Its general-purpose architecture integrates large language model reasoning with retrieval-augmented planning and code-based execution, dynamically composing workflows without predefined templates. Systematic benchmarking shows strong generalization across heterogeneous tasks—causal gene prioritization, drug repurposing, rare-disease diagnosis, microbiome analysis, and molecular cloning—without task-specific tuning. Real-world case studies demonstrate Biomni interpreting multimodal datasets, optimizing protein stability, orchestrating wet-lab instruments, and generating experimentally testable protocols. Biomni envisions artificial intelligence augmenting human scientists and accelerating discovery.</description>
     </item>
     <item>
       <title>Laser Mössbauer spectroscopy of
@@ -1253,14 +1253,6 @@ Journal: Science; Volume: 393; Issue: 6813; Pages: 760-761
 Abstract: Sensory inputs influence different blood vessel networks, affecting the precision of brain scans</description>
     </item>
     <item>
-      <title>Erratum for the Report “Senolysis by glutaminolysis inhibition ameliorates various age-associated disorders”</title>
-      <link>https://doi.org/10.1126/science.aek6651</link>
-      <guid isPermaLink="false">10.1126/science.aek6651</guid>
-
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Science; Volume: 393; Issue: 6813; Article number: eaek6651</description>
-    </item>
-    <item>
       <title>Technology is not a replacement for democracy
                     &lt;b&gt;The Rise and Fall of the Artificial State&lt;/b&gt;
                     &lt;i&gt;Jill Lepore&lt;/i&gt;
@@ -1275,6 +1267,14 @@ Abstract: Sensory inputs influence different blood vessel networks, affecting th
 Journal: Science; Volume: 393; Issue: 6813; Pages: 765-765
 
 Abstract: A government run by machines is not inevitable—we have been here and rejected it before</description>
+    </item>
+    <item>
+      <title>Erratum for the Report “Senolysis by glutaminolysis inhibition ameliorates various age-associated disorders”</title>
+      <link>https://doi.org/10.1126/science.aek6651</link>
+      <guid isPermaLink="false">10.1126/science.aek6651</guid>
+
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Science; Volume: 393; Issue: 6813; Article number: eaek6651</description>
     </item>
     <item>
       <title>Modality-specific neurovascular coupling via layer-segregated arteriole networks</title>
