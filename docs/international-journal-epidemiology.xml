@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:36:10 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -63,6 +63,20 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
     </item>
     <item>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
+    </item>
+    <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
       <link>https://doi.org/10.1093/ije/dyag176</link>
       <guid isPermaLink="false">10.1093/ije/dyag176</guid>
@@ -79,20 +93,6 @@ Abstract: Abstract Background Despite growing evidence on the health effects of 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag176
 
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
-    </item>
-    <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
-
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
-
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>Negative controls and how to use them: a guidance paper</title>
@@ -205,19 +205,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
     </item>
     <item>
-      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
-      <link>https://doi.org/10.1093/ije/dyag171</link>
-      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
-
-      <dc:creator>Marco Aurélio Peres</dc:creator>
-      <dc:creator>Pinyan Liu</dc:creator>
-      <dc:creator>John Rong Hao Tay</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
-    </item>
-    <item>
       <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
       <link>https://doi.org/10.1093/ije/dyag177</link>
       <guid isPermaLink="false">10.1093/ije/dyag177</guid>
@@ -236,6 +223,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag177
 
 Abstract: Abstract Background Our goal was to evaluate the relationship between prenatal fluoride exposure and pregnancy outcomes. Methods We measured urinary fluoride collected during the second trimester among pregnant people recruited from California and Illinois from 2014 to 2020 (N = 949). We evaluated risk differences (RDs) of preterm birth (PTB), small-for-gestational age (SGA), large-for-gestational age (LGA), gestational diabetes, and differences in birthweight, birthweight-for-gestational age z-scores, and gestational age associated with a 0.1 mg/l increase in fluoride using linear regression to estimate effects on the additive scale. We also used modified treatment policies with machine learning to estimate the effects of hypothetical interventions to reduce urinary fluoride by 0.1 and 0.5 mg/l on pregnancy outcomes. In the Illinois cohort, we estimated effects by trimester. Results In our main analyses, we found no associations between urinary fluoride levels and pregnancy outcomes. For instance, for a 0.1 mg/l increase in fluoride, we saw no change in the risk of PTB, SGA, or gestational diabetes. We also found no differences associated with hypothetical reductions of prenatal fluoride by 0.1 mg/l or 0.5 mg/l for any outcomes. In the trimester-specific analyses for Illinois participants, we found increased LGA risk during the first (RD = 0.004, 95% CI −0.001, 0.009) and third trimesters (RD = 0.007, 95% CI 0.001, 0.012), and reduced LGA risk during the second trimester (RD = −0.006, 95% CI −0.011, 0.000), associated with 0.1 mg/l higher urinary fluoride. Conclusions Prenatal fluoride exposure does not appear to affect pregnancy outcomes, but preliminary evidence suggests that higher fluoride levels may affect the risk of LGA depending on timing of exposure during pregnancy.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
+      <link>https://doi.org/10.1093/ije/dyag171</link>
+      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
+
+      <dc:creator>Marco Aurélio Peres</dc:creator>
+      <dc:creator>Pinyan Liu</dc:creator>
+      <dc:creator>John Rong Hao Tay</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
     </item>
     <item>
       <title>Total moderate-to-vigorous physical activity across the adult life course and the risk of invasive ovarian cancer</title>
@@ -313,6 +313,37 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Physical activity is recommended for obesity prevention, but the evidence is limited by possible biases from reverse causation and confounding, and there are limited data on the long-term effects of physical activity through middle age on the development of obesity. Methods We emulated a target trial by using 10 waves of observational data from the 1946–51 Australian Longitudinal Study on Women’s Health collected between 1996 and 2022. The target trial would determine the effect of randomizing women to either meeting or not meeting the World Health Organization’s recommended level of physical activity over an 18-year period on the 21-year incidence of obesity. Targeted maximum-likelihood estimation controlling for time-constant and time-varying confounders was used to emulate the target trial, assuming conditional exchangeability, positivity, consistency, and no interference. Results In total, 779 women aged 47–52 years at study entry were included. The cumulative incidence of obesity was 9.9% [99.5% confidence interval (CI): 8.6%, 11.1%] in the scenario with 18-year adherence to the recommendation and 15.1% (99.5% CI: 12.8%, 17.4%) with consistent non-adherence (risk ratio: 1.5, 99.5% CI: 1.2, 1.9; risk difference: 5.3%-point, 99.5% CI: 2.3%, 8.3%). Each additional survey with non-adherence increased the risk of obesity (risk ratio: 1.1, 99.5% CI: 1.0, 1.1). There was no additional benefit of meeting a higher physical-activity target. Conclusion The results of our analysis, designed specifically to address the key limitations of previous evidence, underscore the benefits of long-term adherence to the recommended ≥150 minutes of moderate-to-vigorous physical activity per week for obesity prevention in middle-aged women.</description>
     </item>
     <item>
+      <title>Prenatal exposure to PM2.5 components and fetal growth: identifying critical gestational weeks and key toxic components in a Chinese birth cohort</title>
+      <link>https://doi.org/10.1093/ije/dyag185</link>
+      <guid isPermaLink="false">10.1093/ije/dyag185</guid>
+
+      <dc:creator>Qiannan Wei</dc:creator>
+      <dc:creator>Li Wen</dc:creator>
+      <dc:creator>Jianling Shen</dc:creator>
+      <dc:creator>Qingqing Wang</dc:creator>
+      <dc:creator>Wenzhuo Li</dc:creator>
+      <dc:creator>Yan Jin</dc:creator>
+      <dc:creator>Xueting Liu</dc:creator>
+      <dc:creator>Peiyao Chen</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Qiannan Wei, Li Wen, Jianling Shen, Qingqing Wang, Wenzhuo Li, Yan Jin, Xueting Liu, Peiyao Chen, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag185
+
+Abstract: Abstract Background Current evidence remains inconclusive regarding the developmental toxicity of specific fine particulate matter (PM2.5) components during critical fetal growth periods, particularly concerning key toxic components and exposure windows. Methods This prospective birth cohort included 2680 mother–newborn pairs with 9339 growth ultrasound measurements [abdominal circumference, head circumference (HC), femur length (FL), estimated fetal weight (EFW)] in Guangzhou, China, from 2017 to 2020. Weekly exposures to PM2.5 components—black carbon (BC), organic matter (OM), nitrate (NO3−), sulfate (SO42−), and ammonium (NH4+)—were quantified by using the Tracking Air Pollution in China database (TAP) real-time air-pollutant-exposure model. Distributed lag models with generalized estimating equations were employed to identify critical exposure windows and machine-learning approaches were used to assess constituent mixture effects and identify dominant toxic components. Results FL, HC, and EFW demonstrated component-specific vulnerability. FL reduction at gestational Weeks 12–15 was most strongly associated with BC exposure, followed by OM and SO42−; HC deficits in Weeks 5–12 and 22–24 were predominantly linked to NO3− exposure; EFW reductions during Weeks 6–8 were most sensitive to NO3− exposure. BC and NO3− were identified as the most impactful constituents. Conclusion Our findings identify gestational Weeks 12–15 for BC exposure and Weeks 5–12 and 22–24 for NO3− exposure as critical vulnerable windows for adverse fetal development associated with PM2.5 components. These results support the need for further research into component-specific air-quality guidelines targeting sensitive gestational periods.</description>
+    </item>
+    <item>
+      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag148</link>
+      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
+
+      <dc:creator>Cesar Victora</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cesar Victora
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
+    </item>
+    <item>
       <title>Dental amalgam exposure and multiple sclerosis: authors’ response</title>
       <link>https://doi.org/10.1093/ije/dyag142</link>
       <guid isPermaLink="false">10.1093/ije/dyag142</guid>
@@ -325,17 +356,6 @@ Abstract: Abstract Background Physical activity is recommended for obesity preve
       <description>Authors: Jie Guo, Tomas Olsson, Lars Alfredsson, Anna Karin Hedström
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag142</description>
-    </item>
-    <item>
-      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag148</link>
-      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
-
-      <dc:creator>Cesar Victora</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Cesar Victora
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
     </item>
     <item>
       <title>Peripubertal pregnancies and associations with health and developmental outcomes in offspring during late adolescence and adulthood: sibling-comparison register study</title>
@@ -601,6 +621,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Healthy life years are estimated from national population surveys that assess limitations in daily activities. However, the infrequent timing and limited sample sizes hinder the timely and detailed assessment of regional health conditions. We aimed to develop a novel method to estimate municipal-level healthy life years without activity limitations by using medical claims data. Methods We analysed medical claims data in Kyoto Prefecture, Japan. Outpatient data from May to July in 2016 and 2019 (n = 1 489 920) were used for development and data from the same period in 2022 (n = 739 236) were used for evaluation. A total of 5743 diagnostic codes were aggregated into 40 disease categories. A machine-learning model was employed to produce the probability of activity limitation, which was calibrated by using data from the Comprehensive Survey of Living Conditions and applied to derive age-specific prevalence rates. Healthy life years at the municipal level as of June 2022 were then estimated by incorporating a life table. Results We observed variation in healthy life years among municipalities: 72.1 years across all regions for males, ranging from 67.3 to 75.2 years, and 75.8 years for females, ranging from 71.3 to 77.6 years. Regional disparities were also noted in the prevalence of diseases associated with activity limitations. Conclusion This study provides the first robust, scalable method to estimate healthy life years without activity limitations at the municipal level by using real-world administrative data. Timely monitoring of regional healthy life years will support targeted health-promotion policies and contribute to reducing health disparities.</description>
     </item>
     <item>
+      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
+      <link>https://doi.org/10.1093/ije/dyag149</link>
+      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
+
+      <dc:creator>Dabin Chen</dc:creator>
+      <dc:creator>Jingyuan Li</dc:creator>
+      <dc:creator>Ting Ye</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
+    </item>
+    <item>
       <title>Cohort Profile: The Nanjing Chronic Disease Cohort</title>
       <link>https://doi.org/10.1093/ije/dyag107</link>
       <guid isPermaLink="false">10.1093/ije/dyag107</guid>
@@ -617,19 +650,6 @@ Abstract: Abstract Background Healthy life years are estimated from national pop
       <description>Authors: Xin Hong, Yuefan Shen, Chenchen Wang, Qing Ye, Weiwei Wang, Yijia Chen, Hao Xu, Jie Wu, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag107</description>
-    </item>
-    <item>
-      <title>Comments on “Threshold and sex-specific associations of prenatal low-level lead exposure with neonatal birth outcomes: a Chinese prospective birth cohort study”</title>
-      <link>https://doi.org/10.1093/ije/dyag149</link>
-      <guid isPermaLink="false">10.1093/ije/dyag149</guid>
-
-      <dc:creator>Dabin Chen</dc:creator>
-      <dc:creator>Jingyuan Li</dc:creator>
-      <dc:creator>Ting Ye</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
     </item>
     <item>
       <title>The impact of school-based mitigation measures on the transmission of respiratory pathogens: the case of SARS-CoV-2</title>
@@ -1648,26 +1668,6 @@ Abstract: Abstract Background Early-life temperature exposure, especially during
       <description>Authors: David Bann, Ed Lowther, Liam Wright, Yevgeniya Kovalchuk
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag066</description>
-    </item>
-    <item>
-      <title>Associations of ambient temperature exposure with embryonic and early fetal development</title>
-      <link>https://doi.org/10.1093/ije/dyag060</link>
-      <guid isPermaLink="false">10.1093/ije/dyag060</guid>
-
-      <dc:creator>Esmée Essers</dc:creator>
-      <dc:creator>Jasmin M de Groot</dc:creator>
-      <dc:creator>Naomi Graafland</dc:creator>
-      <dc:creator>Romy Gonçalves</dc:creator>
-      <dc:creator>Carmen Iñiguez</dc:creator>
-      <dc:creator>Sami Petricola</dc:creator>
-      <dc:creator>Vincent Jaddoe</dc:creator>
-      <dc:creator>Hanan El Marroun</dc:creator>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Esmée Essers, Jasmin M de Groot, Naomi Graafland, Romy Gonçalves, Carmen Iñiguez, Sami Petricola, Vincent Jaddoe, Hanan El Marroun, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag060
-
-Abstract: Abstract Background Exposure to heat and cold are associated with adverse birth outcomes, but whether ambient temperature affects embryonic and early fetal development remains unclear. We aimed to examine the association between ambient temperature exposure during early pregnancy and crown–rump length (CRL). Methods Data from the Generation R Next Study (2017–2021) were analysed, with findings replicated in the Generation R Study (2002–2006), both population-based cohorts based in Rotterdam, The Netherlands. Weekly mean temperatures were modeled from the last menstrual period onward at a spatial resolution of 100 × 100 m by using the UrbClim™ model. The CRL was measured via 2D ultrasound at approximately 8, 10, and 12 weeks’ gestation in pregnancies with regular menstrual cycles. Distributed lag nonlinear models were applied. Results In Generation R Next (N = 1378; mean maternal age 31.9 years), higher temperatures during the first 9 weeks were associated with a smaller CRL at 12 weeks {e.g. −7.2 mm [95% confidence interval (CI) −12.0, −2.3] at 19.2 vs 9.0°C during weeks 1–6}. Colder exposures during the first 11 weeks were also associated with a smaller CRL [−7.6 mm (95% CI −11.9, −3.3) at 3.6 vs 9.0°C during weeks 1–11]. No associations were observed for CRL at 8 or 10 weeks. Similar associations with cold, but not heat, were observed in the replication cohort (N = 1520). Conclusion Moderate cold and heat exposure during early pregnancy may affect fetal development as early as the first trimester. These findings indicate that early gestational development may be sensitive to ambient temperature and, as environmental conditions shift, may have potential clinical implications for birth outcomes and long-term health.</description>
     </item>
   </channel>
 </rss>

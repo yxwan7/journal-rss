@@ -5,8 +5,39 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:36:13 +0000</lastBuildDate>
 
+    <item>
+      <title>Changes in COVID-19-related death certification practices and quality of cause-of-death reporting in the United States from 2020 to 2023</title>
+      <link>https://doi.org/10.1093/aje/kwag215</link>
+      <guid isPermaLink="false">10.1093/aje/kwag215</guid>
+
+      <dc:creator>Shu-Yu Tai</dc:creator>
+      <dc:creator>Yu-Wen Chien</dc:creator>
+      <dc:creator>Ichiro Kawachi</dc:creator>
+      <dc:creator>Tsung-Hsueh Lu</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shu-Yu Tai, Yu-Wen Chien, Ichiro Kawachi, Tsung-Hsueh Lu
+
+Journal: American Journal of Epidemiology; Article number: kwag215
+
+Abstract: Abstract This study examined changes in COVID-19-related death certification practices (ie, reporting COVID-19 in Part I of the death certificate) and the quality of cause-of-death (COD) reporting (acceptable and rejected causal sequences) in the United States from 2020 to 2023. In 2020, 2021, 2022, and 2023, 385 293, 463 273, 246 196, and 76 024 death certificates, respectively, mentioned COVID-19. COVID-19 was selected as the underlying COD in 91%, 90%, 76%, and 65% of these certificates, corresponding to reporting COVID-19 in Part I in 93%, 91%, 78%, and 67% of certificates, respectively. Acceptable causal sequences were reported in 51%, 51%, 45%, and 41% of certificates, whereas rejected causal sequences were reported in 21%, 22%, 23%, and 23%, respectively. Using 2020 as the reference year, the adjusted odds ratios (95% confidence intervals) for 2023 were 0.18 (0.18, 0.18) for reporting COVID-19 in Part I, 0.77 (0.76, 0.78) for reporting acceptable causal sequences, and 1.14 (1.12, 1.16) for reporting rejected causal sequences. In conclusion, COVID-19-related death certification practices changed substantially over the study period, paralleling the decline in the virulence of SARS-CoV-2. The quality of COVID-19-related COD reporting declined modestly from 2020 to 2023.</description>
+    </item>
+    <item>
+      <title>Doubly Robust Methods for Recurrent Event Outcomes: Causal Effects of Blood Pressure Medications on Acute Kidney Injuries</title>
+      <link>https://doi.org/10.1093/aje/kwag214</link>
+      <guid isPermaLink="false">10.1093/aje/kwag214</guid>
+
+      <dc:creator>Wenling hang</dc:creator>
+      <dc:creator>Cecilia A Cotton</dc:creator>
+      <dc:creator>Lan Wen</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wenling hang, Cecilia A Cotton, Lan Wen
+
+Journal: American Journal of Epidemiology; Article number: kwag214
+
+Abstract: Abstract Evaluating the average causal effects of treatment strategies on recurrent event outcomes, such as heart attacks or renal failure, is important in clinical and medical research. However, the analysis becomes increasingly complex as multiple interacting factors are considered within a longitudinal setting. In this paper, we use advanced methodologies to estimate the average causal effects of standard versus intensive blood pressure–lowering therapies on acute kidney injury recurrences. We address time-varying treatment and confounding, and model misspecification during the identification and estimation processes for the effect estimands. We analyze the Systolic Blood Pressure Intervention Trial data set using our proposed method, accounting for medication adherence and the (semi-)competing risk of death observed in the data.</description>
+    </item>
     <item>
       <title>Correction to: How to identify the healthy worker survivor effect empirically and how to interpret results from published studies: the National Institute for Occupational Safety and Health ethylene oxide cohort as a case study</title>
       <link>https://doi.org/10.1093/aje/kwag202</link>
@@ -1646,42 +1677,6 @@ Abstract: Abstract Major sporting events may influence traffic safety by affecti
 Journal: American Journal of Epidemiology; Article number: kwag112
 
 Abstract: Abstract Structural racism adversely affects the health and well-being of many Black and Hispanic/Latino Americans. This study sought to establish a theoretical foundation for developing a novel multilevel structural racism measure for use within Black and Hispanic/Latino communities in the United States (US). Based on a framework developed by the National Institute on Minority Health and Health Disparities (NIMHD), a content development team (n = 4 social epidemiologists) pre-selected 68 candidate indicators to be included in the ecological level index based on published literature. Subsequently, an expert panel consisting of leaders of community organizations (n = 3), health equity researchers (n = 5), and social stratification researchers (n = 2) participated in a modified three-phase Delphi panel process. This process yielded thirty-eight ecological-level indicators earmarked for inclusion, 30 for elimination, and 76 newly proposed. After revision of the newly proposed indicators, the final list included 71 indicators for structural racism measurement and spanned various domains of the NIMHD framework. This study sets the stage for a practical tool that can help researchers, clinicians, and policymakers identify structural racism’s effects and guide efforts toward equity and justice in healthcare and beyond.</description>
-    </item>
-    <item>
-      <title>Cumulative environmental burden and neurodegenerative disease mortality: a national ecological study in the United States</title>
-      <link>https://doi.org/10.1093/aje/kwag114</link>
-      <guid isPermaLink="false">10.1093/aje/kwag114</guid>
-
-      <dc:creator>Guoli Ma</dc:creator>
-      <dc:creator>Yu Shi</dc:creator>
-      <dc:creator>Junlan Qiu</dc:creator>
-      <dc:creator>Chao Ren</dc:creator>
-      <dc:creator>Konglan Shao</dc:creator>
-      <dc:creator>Xiaochen Shu</dc:creator>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Guoli Ma, Yu Shi, Junlan Qiu, Chao Ren, Konglan Shao, Xiaochen Shu
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2440-2449
-
-Abstract: Abstract Neurodegenerative diseases (NDDs) represent a growing cause of mortality and disability among aging populations worldwide. However, the relationship between cumulative, multidomain environmental exposures, and NDD mortality remains poorly characterized. This study aimed to examine the association between comprehensive environmental quality and NDD mortality in the United States. We used the environmental quality index (EQI) from 2000 to 2005 to characterize cumulative environmental exposure. Associations between EQI quintiles and NDD mortality, including dementia, Parkinson’s disease (PD), amyotrophic lateral sclerosis, and Huntington’s disease, were examined using Bayesian interval-censored mixed-effects models. During 2006-2020, among 3.66 million NDD deaths, poorer environmental quality (Q5 vs Q1) was associated with mortality rate differences of 24.72 (95% credible intervals [CrI]: 22.43, 27.06) per 100 000 at 5-year lag, 26.74 (95% CrI: 24.34, 29.21) at 10-year lag, and 22.74 (95% CrI: 20.49, 25.13) at 15-year lag. Within each lag period, a clear dose–response pattern was consistently observed across EQI quintiles. Furthermore, associations were most pronounced for the air quality, followed by sociodemographic disadvantage. In addition, demographic and geographic heterogeneity was observed across sex, race, census regions, urbanicity, climate zone, and county economic type. These findings underscore the need for integrated, place-based environmental health policies targeting neurodegeneration prevention.</description>
-    </item>
-    <item>
-      <title>Trajectories of reproductive events from menarche to menopause: identifying patterns and differences by childhood maltreatment and socioeconomic position</title>
-      <link>https://doi.org/10.1093/aje/kwag113</link>
-      <guid isPermaLink="false">10.1093/aje/kwag113</guid>
-
-      <dc:creator>Kaitlyn K Stanhope</dc:creator>
-      <dc:creator>Audrey J Gaskins</dc:creator>
-      <dc:creator>Catherine Kim</dc:creator>
-      <dc:creator>Cora E Lewis</dc:creator>
-      <dc:creator>Shakira F Suglia</dc:creator>
-      <dc:creator>Erica P Gunderson</dc:creator>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kaitlyn K Stanhope, Audrey J Gaskins, Catherine Kim, Cora E Lewis, Shakira F Suglia, Erica P Gunderson
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2148-2157
-
-Abstract: Abstract To identify unique trajectories of reproductive events across the life course and determine if childhood socioeconomic position (SEP) or childhood maltreatment, independently or jointly, are associated with trajectory membership. We used data from the Coronary Artery Risk Development in Young Adults study (n = 2787). We fit group-based trajectory models for self-reported reproductive events (complicated/uncomplicated pregnancies, irregular menses, contraceptive use) to assign individuals to a reproductive events trajectory. We determined associations with self-reported childhood maltreatment and childhood SEP and their interactions using Poisson regression with robust standard errors controlling for baseline age and self-reported race (Black or White). We identified 3 trajectories (n1 = 1039; n2 = 778; n3 = 970). Group 3 had the youngest age at first pregnancy (mean 20.3 years vs. 28.3 and 31.7 for groups 2 and 1, respectively), highest parity, and lowest risk of complications. Individuals reporting childhood maltreatment and low SEP had 1.48 times the risk of belonging to group 3 versus group 2 (1.48 (1.28, 1.71) compared to those reporting neither. Childhood maltreatment and low childhood SEP were both associated with belonging to an earlier childbearing group.</description>
     </item>
   </channel>
 </rss>
