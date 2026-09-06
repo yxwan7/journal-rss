@@ -5,8 +5,26 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:57:34 +0000</lastBuildDate>
 
+    <item>
+      <title>Conceptual and statistical considerations for producing global estimates of health indicators: learnings from perinatal health estimates</title>
+      <link>https://doi.org/10.1186/s12963-026-00501-5</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00501-5</guid>
+
+      <dc:creator>Ellen Bradley</dc:creator>
+      <dc:creator>Alexandra Lewin</dc:creator>
+      <dc:creator>Hannah Blencowe</dc:creator>
+      <dc:creator>Yemisrach B Okwaraji</dc:creator>
+      <dc:creator>Joy E Lawn</dc:creator>
+      <dc:creator>Eric O Ohuma</dc:creator>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ellen Bradley, Alexandra Lewin, Hannah Blencowe, Yemisrach B Okwaraji, Joy E Lawn, Eric O Ohuma
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Global estimates are esssential for tracking international targets such as the Sustainable Development Goals (SDGs), therefore vital for planning and priority setting. Modelling and estimation of health indicators vary greatly in aspects of methodology, assumptions, data sources, data quality, and data availability. To aid with consistent reporting of global estimates, a reporting guideline; The Guidance for Accurate and Transparent Health Estimates Reporting (GATHER) was developed in 2016. However, the GATHER statement does not detail the process or statistical considerations for developing global estimates of health indicators. There is no standard statistical framework and methods for producing global estimates of health indicators, even for the same indicator such as low birthweight or preterm birth. This poses challenges for making direct comparisons and trends over time for assessing progress achieved by countries. Methods We developed a framework for conceptual and statistical considerations in an iterative process. An informal review of the methodology used the produce global estimates of perinatal health was conducted and summarised, and expert consultative groups were convened regularly to develop methodologies for the low birthweight and preterm birth estimates (2020). The meetings occurred regularly throughout the estimation process, with methods reviewed and updated accordingly. Following the publication of the estimates, the authors critically reviewed the process and summarised the analytical framework described in the results. Results In this paper, we discuss key considerations for producing global estimates of health indicators to ensure a standardised approach. We focus on: conceptual framework, input data, assessment of data quality, statistical model considerations, and publication of global estimates. We define each concept and give practical examples of how each consideration could be identified and included for global estimate modelling. In addition, we provide a checklist with examples from our recent modelling of global estimates for low birthweight.</description>
+    </item>
     <item>
       <title>Excess mortality and associated sociodemographic factors during the COVID-19 pandemic in rural Pune Maharashtra, India: a retrospective data analysis from the Vadu health and demographic surveillance system</title>
       <link>https://doi.org/10.1186/s12963-026-00509-x</link>
@@ -1594,21 +1612,6 @@ Abstract: Abstract Background The prevalence of mental illness, substance use di
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 44
 
 Abstract: Abstract The COVID-19 pandemic affected Europe unevenly, with surges in infections and deaths fluctuating across different regions and time periods. Hyper-localised hotspots and staggered timelines created intense, asynchronous waves of infections and deaths that distort country-level and cumulative data, obscuring the pandemic’s spatiotemporal dynamics through aggregation. Despite extensive research comparing states and analysing subnational variance within individual countries, the detailed subnational and transnational dynamics of the COVID-19 pandemic across Europe as a whole have not been comprehensively described. Here we show that time-series clustering, applied to weekly excess mortality estimates for subnational NUTS3 administrative regions of 27 countries in Europe, identifies five distinct pandemic trajectories which map to spatial patterns. The trajectories comprise two subgroups, representing contrasting pandemic dynamics in eastern and western Europe. Western Europe exhibits concentric arrangements of mortality impact, with secondary and tertiary impact zones surrounding outbreak epicenters. Eastern Europe exhibits internally homogeneous spatial dynamics, possibly due to the deferral of the first major mortality wave.</description>
-    </item>
-    <item>
-      <title>Contributions of injury deaths to changes in life expectancy and disparity: A comparative analysis of G7 countries over two decades</title>
-      <link>https://doi.org/10.1186/s12963-025-00409-6</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00409-6</guid>
-
-      <dc:creator>Firoozeh Bairami</dc:creator>
-      <dc:creator>Mohammad Hajizadeh</dc:creator>
-      <dc:creator>Ali Kiadaliri</dc:creator>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Firoozeh Bairami, Mohammad Hajizadeh, Ali Kiadaliri
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 43
-
-Abstract: Abstract Background Despite the high level of economic development in the Group of Seven (G7) countries, injury deaths remain a public health concern in these countries. This paper examines the contribution of injury deaths to changes in life expectancy (LE) and life disparity (LD) in the G7 countries. Methods We used annual data from the WHO mortality database to compute LE and LD during 2001-03 and 2017-19. The contributions of injury deaths to LE and LD changes for each sex were decomposed by age and cause using a continuous-change model. Results Across the G7 countries combined, LE (LD) increased by 2.12 (0.25) and 2.73 (0.16) years for females and males, respectively. While most injury-related deaths contributed to increases in LE and decreases in LD, these gains were offset by negative contributions of unintentional poisoning, resulting in an overall negligible net contributions of injury deaths to changes in LE/LD across the G7 countries combined. The country-specific patterns revealed notable variations. Positive contributions of injury-related causes to changes in LE were more prominent in France (+ 0.38/+0.64 years for females/males), while negative contributions were most evident in the USA (-0.23/-0.42 years for females/males). Transport accidents emerged as the leading contributors to improvements in both LE and LD among both sexes in all countries, with more pronounced effects in males. In contrast, unintentional poisoning had a substantial negative impact, particularly among younger populations in the USA, UK, and Canada. Conclusion Injury deaths made negligible contributions to overall changes in LE and LD across the G7 countries combined during the study period. However, there were important variations by sex, age, cause and country. Specifically, unfavourable contributions of injury deaths were mainly observed in the USA, UK, and Canada. These findings highlight the need for targeted, country-specific injury prevention strategies to mitigate premature and unequal mortality.</description>
     </item>
   </channel>
 </rss>

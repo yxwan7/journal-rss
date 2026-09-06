@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:57:10 +0000</lastBuildDate>
 
     <item>
       <title>Supermale fish become new tactic for vanquishing invaders</title>
@@ -61,19 +61,6 @@ Journal: Science; Volume: 393; Issue: 6815; Pages: 1036-1044
 Abstract: Reactive oxygen species (ROS) promote genomic instability and fuel oncogenic signaling in cancer, but antioxidant therapies have so far failed to improve, or worsen, cancer outcomes. Emerging data suggest that T cells depend on ROS for signal transduction. In this study, we show that tumors exploit this dependency, releasing antioxidant enzymes into the tumor environment to suppress T cell–mediated antitumor immunity. The interstitial fluid of tumors possesses potent antioxidant activity, associated with enrichment of the antioxidant enzyme peroxiredoxin 1 (PRDX1). Extracellular PRDX1 deprives T cells of ROS, preventing oxidative inactivation of phosphatases required for T cell receptor–driven kinase signaling and effector function. Prdx1 is up-regulated upon cancer immunoediting, and loss of PRDX1 within tumors enhances antitumor immunity and immunotherapy responses. These findings define a redox-dependent mechanism of tumor immunosuppression that is potentially amenable to therapeutic intervention.</description>
     </item>
     <item>
-      <title>Ready for the robot reviewers?</title>
-      <link>https://doi.org/10.1126/science.aem0443</link>
-      <guid isPermaLink="false">10.1126/science.aem0443</guid>
-
-      <dc:creator>Jeffrey Brainard</dc:creator>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jeffrey Brainard
-
-Journal: Science; Volume: 393; Issue: 6815; Pages: 963-967
-
-Abstract: As AI’s capabilities grow, researchers and publishers are exploring how it can support peer review—and where it still falls short</description>
-    </item>
-    <item>
       <title>High-capacity associative memory in a quantum-optical spin glass</title>
       <link>https://doi.org/10.1126/science.aec3917</link>
       <guid isPermaLink="false">10.1126/science.aec3917</guid>
@@ -92,6 +79,19 @@ Abstract: As AI’s capabilities grow, researchers and publishers are exploring 
 Journal: Science; Article number: eaec3917
 
 Abstract: The Hopfield neural network stores memories using all-to-all-coupled spins and recalls those memories through equilibrium dynamics. Storing too many hampers recall because frustration causes an exponential number of spurious patterns to arise as the network becomes a spin glass. Despite this, memory recall can be restored, and even enhanced, under quantum-optical nonequilibrium dynamics because spurious patterns can now serve as reliable memories. We experimentally observe associative memory with high storage capacity in a driven-dissipative spin glass made of atoms and photons. The capacity surpasses that of the Hopfield model under Hebbian learning by up to seven-fold in a sixteen-spin network. Atomic motion boosts capacity by dynamically modifying connectivity akin to short-term synaptic plasticity in neural networks, realizing a precursor to learning in a quantum-optical system.</description>
+    </item>
+    <item>
+      <title>Ready for the robot reviewers?</title>
+      <link>https://doi.org/10.1126/science.aem0443</link>
+      <guid isPermaLink="false">10.1126/science.aem0443</guid>
+
+      <dc:creator>Jeffrey Brainard</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jeffrey Brainard
+
+Journal: Science; Volume: 393; Issue: 6815; Pages: 963-967
+
+Abstract: As AI’s capabilities grow, researchers and publishers are exploring how it can support peer review—and where it still falls short</description>
     </item>
     <item>
       <title>(Un)intended consequences of mass-prescribing GLP-1s</title>
@@ -718,23 +718,6 @@ Journal: Science; Volume: 393; Issue: 6814; Article number: eaed9893
 Abstract: Foreshock activity is a key consideration in traffic-light protocol (TLP) to mitigate seismic risk from injection-induced earthquakes (IIEs). However, the seismogenic processes of IIE foreshocks remain poorly understood. Using an enhanced western Canada catalog (2014–2024), we analyzed 77 IIE sequences to statistically delineate foreshock patterns before local magnitude ( M L ) ≥ 3 mainshocks. We found that 92% are preceded by foreshocks and that foreshock productivity and spatiotemporal patterns reflect the interplay among fluid injection, the seismogenic index, and the fault stress state. Sequence-specific analyses elucidate three nucleation models: fluid-driven preslip with weakened source asperity, fluid-driven preslip with intact source asperity, and fluid-driven cascade, highlighting the central role of fluids in enabling aseismic slip and interevent stress transfer before mainshock rupture. These results imply that IIE monitoring strategies should be spatially conditioned according to foreshock productivity.</description>
     </item>
     <item>
-      <title>Recovering signatures of archaic hominin introgression using ancestral recombination graphs</title>
-      <link>https://doi.org/10.1126/science.aef8874</link>
-      <guid isPermaLink="false">10.1126/science.aef8874</guid>
-
-      <dc:creator>Yulin Zhang</dc:creator>
-      <dc:creator>Arjun Biddanda</dc:creator>
-      <dc:creator>Sarah A. Johnson</dc:creator>
-      <dc:creator>Colm O’Dushlaine</dc:creator>
-      <dc:creator>Priya Moorjani</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yulin Zhang, Arjun Biddanda, Sarah A. Johnson, Colm O’Dushlaine, Priya Moorjani
-
-Journal: Science; Volume: 393; Issue: 6814; Article number: eaef8874
-
-Abstract: Admixture between modern humans and extinct hominins has shaped the genomes of present-day individuals, but reconstructing this history has been constrained by the scarcity of archaic samples and unadmixed outgroup populations. We introduce TRACE, a reference- and outgroup-free approach that uses features of ancestral recombination graphs to identify archaic ancestry. Simulations demonstrate that TRACE achieves high precision and low false discovery rates. Applied to 1000 genomes, TRACE recovers known Neanderthal and Denisovan introgression and uncovers ghost admixture from uncharacterized hominins in both Africans and non-Africans. Ghost ancestry persists in Neanderthal and Denisovan ancestry deserts, challenging their interpretation as Homo sapiens –specific regions. In Oceanians, TRACE finds that deep lineages are enriched in Denisovan compared with Neanderthal regions, supporting super-archaic introgression. TRACE enables mapping of archaic introgression without archaic reference genomes.</description>
-    </item>
-    <item>
       <title>Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord</title>
       <link>https://doi.org/10.1126/science.ady2660</link>
       <guid isPermaLink="false">10.1126/science.ady2660</guid>
@@ -753,6 +736,23 @@ Abstract: Admixture between modern humans and extinct hominins has shaped the ge
 Journal: Science; Article number: eady2660
 
 Abstract: The Pacific El Niño–Southern Oscillation (ENSO) generates climate extremes that endanger ecosystems, infrastructure, and human well-being worldwide. The response of this system to climate warming is poorly constrained, due both to data scarcity and uncertainties in climate models. The geochemistry of Galápagos coral skeletons across the past millennium reveals a large recent increase in interannual variability of sea surface temperature in the eastern equatorial Pacific compared to existing paleorecords that exceeds simulated natural variability. This increase parallels rising global temperature and results from stronger El Niño events. Central Pacific coral data also show increased variability, although less distinctly than in the Galápagos. Our results provide long-term context for understanding ENSO variability trends, with troubling implications for climate extremes.</description>
+    </item>
+    <item>
+      <title>Recovering signatures of archaic hominin introgression using ancestral recombination graphs</title>
+      <link>https://doi.org/10.1126/science.aef8874</link>
+      <guid isPermaLink="false">10.1126/science.aef8874</guid>
+
+      <dc:creator>Yulin Zhang</dc:creator>
+      <dc:creator>Arjun Biddanda</dc:creator>
+      <dc:creator>Sarah A. Johnson</dc:creator>
+      <dc:creator>Colm O’Dushlaine</dc:creator>
+      <dc:creator>Priya Moorjani</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yulin Zhang, Arjun Biddanda, Sarah A. Johnson, Colm O’Dushlaine, Priya Moorjani
+
+Journal: Science; Volume: 393; Issue: 6814; Article number: eaef8874
+
+Abstract: Admixture between modern humans and extinct hominins has shaped the genomes of present-day individuals, but reconstructing this history has been constrained by the scarcity of archaic samples and unadmixed outgroup populations. We introduce TRACE, a reference- and outgroup-free approach that uses features of ancestral recombination graphs to identify archaic ancestry. Simulations demonstrate that TRACE achieves high precision and low false discovery rates. Applied to 1000 genomes, TRACE recovers known Neanderthal and Denisovan introgression and uncovers ghost admixture from uncharacterized hominins in both Africans and non-Africans. Ghost ancestry persists in Neanderthal and Denisovan ancestry deserts, challenging their interpretation as Homo sapiens –specific regions. In Oceanians, TRACE finds that deep lineages are enriched in Denisovan compared with Neanderthal regions, supporting super-archaic introgression. TRACE enables mapping of archaic introgression without archaic reference genomes.</description>
     </item>
     <item>
       <title>Desert flooding highlights a critical gap in climate change adaptation</title>

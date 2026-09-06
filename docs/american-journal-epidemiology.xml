@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:36:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:57:29 +0000</lastBuildDate>
 
     <item>
       <title>Changes in COVID-19-related death certification practices and quality of cause-of-death reporting in the United States from 2020 to 2023</title>
@@ -357,6 +357,18 @@ Journal: American Journal of Epidemiology; Article number: kwag194
 Abstract: Abstract Target trial emulation prompts investigators to frame their analysis question in terms of a hypothetical clinical trial. Although this does not solve the problem of confounding, the framework can protect against other sources of bias. A natural question is this: What kinds of trials can be emulated? In a late-phase trial (phases 3 or 4), the goal is to obtain a well-defined causal estimate that closely approximates the impact of a proposed intervention. In an early-phase trial (phase 2 or earlier), the estimate is a means to an end rather than an end in itself. An early-phase trial provides proof-of-concept evidence on the impact of an intervention in the exposure in terms of efficacy and safety, but the estimand may not correspond to the intervention to be implemented in practice. In a natural experiment where causal inferences rely on a plausibly random (or quasi-random) comparison, the estimand may not be directly translatable to applied practice. In this case, the analysis may be conceptualized as an early-phase target trial. This provides less specific evidence than a late-stage target trial, but in many cases, a more valid but less applicable comparison is preferable to a more applicable comparison that is more susceptible to bias.</description>
     </item>
     <item>
+      <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
+      <link>https://doi.org/10.1093/aje/kwag191</link>
+      <guid isPermaLink="false">10.1093/aje/kwag191</guid>
+
+      <dc:creator>Gong Zhang</dc:creator>
+      <dc:creator>Xichen Fan</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gong Zhang, Xichen Fan
+
+Journal: American Journal of Epidemiology; Article number: kwag191</description>
+    </item>
+    <item>
       <title>The Selenium and Vitamin E Cancer Prevention Trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration</title>
       <link>https://doi.org/10.1093/aje/kwag189</link>
       <guid isPermaLink="false">10.1093/aje/kwag189</guid>
@@ -373,18 +385,6 @@ Abstract: Abstract Target trial emulation prompts investigators to frame their a
 Journal: American Journal of Epidemiology; Article number: kwag189
 
 Abstract: Abstract The potential for trace amounts of selenium supplements to prevent prostate cancer and other neoplasms was studied in the Selenium and Vitamin E Prevention Trial, a randomized trial conducted in North America for 7-12 years. A total of 34 887 eligible men aged 55 or older were assigned to take either 200 μg selenium from L-selenomethionine, 400 IU vitamin E, both selenium and vitamin E, or placebo. The trial was stopped for futility and concerns about adverse effects. Subsequently, we used incidence and mortality data from Medicare through 2019 and the National Death Index through 2024 to investigate the extent to which selenium administration was associated with increased long-term risk of cancer and neurodegenerative disease, during 341 697 person-years of follow-up. Lung cancer showed little increased risk. Associations were near null for leukemia, non–Hodgkin lymphoma, and Parkinson’s disease, and there was a lower risk for melanoma and colorectal cancer. In contrast, we found a higher risk for Hodgkin lymphoma, multiple myeloma, and amyotrophic lateral sclerosis, which has been associated with selenium overexposure in some nonexperimental studies. Though these latter associations were based on few cases, they were consistent with findings from a range of other studies, possibly indicating long–term adverse effects of this organic selenium compound (registration no. NCT00006392).</description>
-    </item>
-    <item>
-      <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
-      <link>https://doi.org/10.1093/aje/kwag191</link>
-      <guid isPermaLink="false">10.1093/aje/kwag191</guid>
-
-      <dc:creator>Gong Zhang</dc:creator>
-      <dc:creator>Xichen Fan</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gong Zhang, Xichen Fan
-
-Journal: American Journal of Epidemiology; Article number: kwag191</description>
     </item>
     <item>
       <title>Leveraging limited testing data for early detection of emerging infectious disease outbreaks</title>
