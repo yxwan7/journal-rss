@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:19:55 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -391,6 +391,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag153
 
 Abstract: Abstract Background We examined the association of peripubertal pregnancies with long-term health and developmental outcomes in adult offspring and strengthened causal inference using sibling-comparison methods. Methods Using linked Swedish register data from 1964 to 2018, we conducted a cohort study to estimate associations of pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years, with body mass index (BMI), systolic blood pressure (SBP), cognitive function, and stress resilience among 943 444 male offspring aged 17–21 years in the Military Conscription Register. We further assessed associations with type 2 diabetes (T2D), depression, and anxiety among 2 461 510 male and female offspring aged 18–73 years using population-wide registers. Linear, multinomial, and survival models were used. Sibling fixed-effect models were used to account for unmeasured confounding shared among siblings. Results Offspring from pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years had lower SBP (β − 1.12; 95% confidence interval [CI] − 1.97 to −0.26), poorer cognitive function (β − 0.54; 95% CI −0.67 to −0.40), and poorer stress resilience (β −0.24; 95% CI −0.38, −0.10). There was no increased risk of being underweight or overweight compared with normal weight. There was a lower risk of anxiety (hazard ratio 0.87; 95% CI 0.80 to 0.95) and no increased risk of T2D or depression. Sibling-comparison analyses attenuated deleterious associations to null or reversed them and amplified associations with markers of better health. Conclusion Pregnancies before age 16 years may not be causally associated with adverse long-term health and developmental outcomes in adolescent and adult offspring. The adverse associations in conventional analyses appear attributable to shared familial characteristics.</description>
+    </item>
+    <item>
+      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
+      <link>https://doi.org/10.1093/ije/dyag199</link>
+      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
+
+      <dc:creator>Xueyan Zheng</dc:creator>
+      <dc:creator>Christian Bottomley</dc:creator>
+      <dc:creator>Woojoo Lee</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
+
+Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
     </item>
     <item>
       <title>Mortality and childhood residence near the radiologically contaminated Coldwater Creek, St. Louis, Missouri</title>
@@ -971,6 +986,18 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag120</description>
     </item>
     <item>
+      <title>Confounding effects of oral health in studying dental-amalgam exposure and multiple sclerosis</title>
+      <link>https://doi.org/10.1093/ije/dyag139</link>
+      <guid isPermaLink="false">10.1093/ije/dyag139</guid>
+
+      <dc:creator>John Rong Hao Tay</dc:creator>
+      <dc:creator>Robin Blythe</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: John Rong Hao Tay, Robin Blythe
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag139</description>
+    </item>
+    <item>
       <title>Trends, determinants, and anthropometric consequences of low birthweight in Indian children: a prospective analysis of national data</title>
       <link>https://doi.org/10.1093/ije/dyag106</link>
       <guid isPermaLink="false">10.1093/ije/dyag106</guid>
@@ -1105,6 +1132,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Survival is a long-standing source of confounding, selection bias, and effect modification that is often overlooked. Here, we describe how it can occur and when it can be averted. Methods Directed acyclic graphs were used to illustrate how survival could cause confounding and selection bias. Selection diagrams were used to illustrate how survival could cause effect modification by factors such as age or health status. Results Survival can be a confounder that biases towards favouring the exposure when exposure allocation starts or changes after recruitment. Survival can be a source of Type 1 selection bias that attenuates or reverses estimates when the exposure and outcome, or the exposure and a competing risk of the outcome, affect survival before recruitment. Confounding and selection bias by survival can largely be averted by ensuring exposure allocation coincides with recruitment. Given survival is usually most relevant to older or sicker people, confounding and selection bias due to survival are likely more evident with advancing age or poorer health status. Conclusions Confounding by survival should be considered when exposure allocation starts or changes after recruitment. Type 1 selection bias from survival should be considered when the exposure starts before recruitment. Given that long-term exposures are often of interest, and confounding as well as selection bias are difficult to address, study designs less open to these biases might be preferable.</description>
     </item>
     <item>
+      <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
+      <link>https://doi.org/10.1093/ije/dyag080</link>
+      <guid isPermaLink="false">10.1093/ije/dyag080</guid>
+
+      <dc:creator>Chitra Sharma</dc:creator>
+      <dc:creator>Ana Goncalves Soares</dc:creator>
+      <dc:creator>Bharati Kulkarni</dc:creator>
+      <dc:creator>Nuala M Byrne</dc:creator>
+      <dc:creator>Santhi Bhogadi</dc:creator>
+      <dc:creator>Poppy Alice Carson Mallinson</dc:creator>
+      <dc:creator>Judith Lieber</dc:creator>
+      <dc:creator>Kramadhati V Rameshwar Sarma</dc:creator>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chitra Sharma, Ana Goncalves Soares, Bharati Kulkarni, Nuala M Byrne, Santhi Bhogadi, Poppy Alice Carson Mallinson, Judith Lieber, Kramadhati V Rameshwar Sarma, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag080
+
+Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
+    </item>
+    <item>
       <title>First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis</title>
       <link>https://doi.org/10.1093/ije/dyag121</link>
       <guid isPermaLink="false">10.1093/ije/dyag121</guid>
@@ -1143,26 +1190,6 @@ Abstract: Abstract Background Climate change is increasing the frequency and sev
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag127
 
 Abstract: Abstract Background Preterm (&amp;amp;lt;37 weeks), early-term (37–38 weeks), or post-term (42 weeks) birth may elevate the risk of mental, neurodevelopmental, and cardiopulmonary disease in adulthood, potentially impacting work capacity. Methods We examined the association between gestational age and early disability pension (DP) among 228 572 Finnish individuals born between 1 January 1987 and 30 September 1990. We identified the first DP decision from ages 16 to ∼32 years (2003–20) by using linked birth and DP records, including timing and diagnosis. Adjusted hazard ratios (HRs) with 95% confidence intervals were estimated by using Cox regression, with full-term birth (39–41 weeks) as the reference. Results A total of 9224 individuals (4.0%) received DPs. Adjusted for sex and birth year, the HRs for DP by gestational age groups of 23–31, 32–33, 34–36, 37–38, and 42 weeks were 5.20 (4.52–5.99), 2.47 (2.04–3.00), 1.55 (1.41–1.70), 1.22 (1.16–1.29), and 1.12 (1.01–1.25). Among preterm adults, the most common diagnoses included cerebral palsy, intellectual disability, depression, and schizophrenia. For early-term and post-term adults, depression and schizophrenia were the most frequent. Conclusion Preterm, early-term, and post-term births were associated with early DPs, with slightly different diagnostic profiles. The risk was highest among those born very preterm (&amp;amp;lt;32 weeks). High-quality perinatological care is crucial regarding future careers and societal costs.</description>
-    </item>
-    <item>
-      <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
-      <link>https://doi.org/10.1093/ije/dyag080</link>
-      <guid isPermaLink="false">10.1093/ije/dyag080</guid>
-
-      <dc:creator>Chitra Sharma</dc:creator>
-      <dc:creator>Ana Goncalves Soares</dc:creator>
-      <dc:creator>Bharati Kulkarni</dc:creator>
-      <dc:creator>Nuala M Byrne</dc:creator>
-      <dc:creator>Santhi Bhogadi</dc:creator>
-      <dc:creator>Poppy Alice Carson Mallinson</dc:creator>
-      <dc:creator>Judith Lieber</dc:creator>
-      <dc:creator>Kramadhati V Rameshwar Sarma</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chitra Sharma, Ana Goncalves Soares, Bharati Kulkarni, Nuala M Byrne, Santhi Bhogadi, Poppy Alice Carson Mallinson, Judith Lieber, Kramadhati V Rameshwar Sarma, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag080
-
-Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
     </item>
     <item>
       <title>Fractions and number of cancer cases attributable to excess body fat in South Korea</title>
@@ -1640,38 +1667,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag092
 
 Abstract: Abstract Machine learning-based heterogeneous treatment effect (HTE) estimation and discovery have recently received substantial attention in the healthcare literature. In particular, meta-learner frameworks and causal forests have been widely used in estimating the conditional average treatment effect (CATE). Such advances in HTE estimation and discovery have allowed researchers to assess HTE patterns in their data. Here, we provide a comprehensive and practical guide as well as statistical codes for researchers to implement these models effectively. Specifically, we provide an overview of core motivations for HTE analysis. Then, we describe a methodological overview of popular machine learning algorithms for CATE estimation and how to calibrate their model fit. After demonstrating an application example using a national sample of US older adults, we discuss some critical and practical considerations of HTE analysis with highly granular CATE. Finally, we discuss the assessment of HTE, including the scale and reference point, as well as the interpretation of CATE. Overall, this paper aims to equip researchers with both the conceptual understanding and practical tools necessary to apply machine learning-based HTE analysis in epidemiological research, including both randomized controlled trials and observational studies.</description>
-    </item>
-    <item>
-      <title>From risk to structure: reframing health inequities as population phenomena</title>
-      <link>https://doi.org/10.1093/ije/dyag053</link>
-      <guid isPermaLink="false">10.1093/ije/dyag053</guid>
-
-      <dc:creator>María José Monsalves</dc:creator>
-      <dc:creator>Franco Mascayano</dc:creator>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Authors: María José Monsalves, Franco Mascayano
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag053</description>
-    </item>
-    <item>
-      <title>Early-life exposure to ambient temperature and polycystic ovary syndrome: a nationwide cohort study</title>
-      <link>https://doi.org/10.1093/ije/dyag082</link>
-      <guid isPermaLink="false">10.1093/ije/dyag082</guid>
-
-      <dc:creator>Boya Zhang</dc:creator>
-      <dc:creator>Makiko Mitsunami</dc:creator>
-      <dc:creator>Elizabeth Peebles</dc:creator>
-      <dc:creator>Brent A Coull</dc:creator>
-      <dc:creator>Tamarra James-Todd</dc:creator>
-      <dc:creator>Jorge E Chavarro</dc:creator>
-      <dc:creator>Jaime E Hart</dc:creator>
-      <dc:creator>Francine Laden</dc:creator>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Boya Zhang, Makiko Mitsunami, Elizabeth Peebles, Brent A Coull, Tamarra James-Todd, Jorge E Chavarro, Jaime E Hart, Francine Laden, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag082
-
-Abstract: Abstract Background Early-life temperature exposure, especially during oogenesis, may impact ovarian function later in life. However, the effect of ambient temperature during sensitive developmental windows on ovulation disorders remains unknown. Methods We investigate the associations of early-life ambient temperature exposure with incident polycystic ovary syndrome (PCOS) in the Growing Up Today Study II, a United States (US) nationwide prospective cohort. We included females born after 1989 with available outcome and exposure data during the preconception (N = 3265), gestation (N = 3265), and childhood period (N = 3521). Monthly average residential mean temperatures were estimated using the PRISM Climate Group data. We considered exposure windows included preconception (3 months prior to conception), gestational (from conception month to birth), individual trimesters, and childhood (from birth to 1 year before age at menarche). PCOS was identified by self-reported clinical diagnosis. We estimated adjusted hazard ratios (HRs) and 95% confidence intervals (CIs) for PCOS per interquartile range (IQR) increase of mean temperature using Cox models. Results We identified 234 (7.2%) PCOS cases over the 14.3 ± 4.2 years from age at menarche to 2021. Higher ambient temperatures during the preconception (HR 1.38 per 13.4°C, 95% CI, 0.84–2.27), gestation (HR 1.08 per 6.4°C, 95% CI, 0.74–1.60), and childhood (HR 1.20 per 4.1°C, 95% CI, 0.91–1.59) periods were suggestively associated with higher risk of PCOS. In gestation period, only the first-trimester temperature was associated with higher risks of PCOS (HR 1.75 per 14.4°C, 95% CI, 1.06–2.87). Conclusion Intervention to mitigate heat exposure during pregnancy, especially in the first trimester, may help reduce the risk of PCOS in offspring. Further research is needed to confirm these associations.</description>
     </item>
   </channel>
 </rss>
