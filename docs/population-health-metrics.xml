@@ -5,8 +5,22 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:23:58 +0000</lastBuildDate>
 
+    <item>
+      <title>Life satisfaction among older migrants in urban Zhejiang: comparing the roles of family and community social capital across later-life migration pathways</title>
+      <link>https://doi.org/10.1186/s12963-026-00506-0</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00506-0</guid>
+
+      <dc:creator>Wusi Zhou</dc:creator>
+      <dc:creator>Yixi Xu</dc:creator>
+      <dc:creator>Man Li</dc:creator>
+      <dc:creator>Xiangjing Zhang</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wusi Zhou, Yixi Xu, Man Li, Xiangjing Zhang
+
+Journal: Population Health Metrics</description>
+    </item>
     <item>
       <title>Conceptual and statistical considerations for producing global estimates of health indicators: learnings from perinatal health estimates</title>
       <link>https://doi.org/10.1186/s12963-026-00501-5</link>
@@ -1592,26 +1606,6 @@ Abstract: Abstract Background In the United States, over half of all deaths are 
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 45
 
 Abstract: Abstract Background The prevalence of mental illness, substance use disorders, and their dual diagnosis is disproportionately high among people in prisons compared to the community. Accurate prevalence estimates are required to inform resourcing of prison health services and reduce the risk of harm to people experiencing these conditions. Existing estimates, where available, often rely on only one data source. Method We used three data sources – self-reported history of diagnoses, in-prison medical records, and administrative data to estimate the prevalence of mental illness, substance use disorder, and dual diagnosis among two large cohorts of non-Indigenous and Aboriginal and Torres Strait Islander people in Australian prisons. We calculated population-weighted proportions of the samples with each condition. Inter-rater reliability metrics inform data source agreement. Results The prevalence of mental illness only, substance use disorder only, and dual diagnosis was 17.0% (95%CI 12.0–24.5), 14.8% (95%CI 9.6–18.1), and 44.2% (95%CI 33.2–54.7), respectively, for incarcerated, non-Indigenous adults. For incarcerated Aboriginal and Torres Strait Islander adults, our corresponding estimates were 7.0% (95%CI 4.3–11.5), 26.8% (95%CI 18.9–33.5), and 40.9% (95%CI 30.1–48.2). These estimates differed significantly from those derived from singular data sources. Individual data sources’ agreement was weakest for substance use disorder diagnoses and strongest for dual diagnoses. Conclusions Individual data sources likely have high specificity and low sensitivity, thus under-ascertaining diagnoses. We recommend using multiple data sources to estimate prevalence to ensure adequate ascertainment of these conditions among people in prison and to ensure in-prison and transitional health services are appropriately resourced.</description>
-    </item>
-    <item>
-      <title>The spatiotemporal dynamics of COVID-19 in Europe: time-series clustering maps 5 distinct trajectories to spatial patterns</title>
-      <link>https://doi.org/10.1186/s12963-025-00405-w</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00405-w</guid>
-
-      <dc:creator>Sarah Habershon</dc:creator>
-      <dc:creator>Kolja Nenoff</dc:creator>
-      <dc:creator>Guido Kraemer</dc:creator>
-      <dc:creator>Lennart Schüler</dc:creator>
-      <dc:creator>Heinrich Zozmann</dc:creator>
-      <dc:creator>Justin M. Calabrese</dc:creator>
-      <dc:creator>Sabine Attinger</dc:creator>
-      <dc:creator>Miguel D. Mahecha</dc:creator>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Sarah Habershon, Kolja Nenoff, Guido Kraemer, Lennart Schüler, Heinrich Zozmann, Justin M. Calabrese, Sabine Attinger, Miguel D. Mahecha
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 44
-
-Abstract: Abstract The COVID-19 pandemic affected Europe unevenly, with surges in infections and deaths fluctuating across different regions and time periods. Hyper-localised hotspots and staggered timelines created intense, asynchronous waves of infections and deaths that distort country-level and cumulative data, obscuring the pandemic’s spatiotemporal dynamics through aggregation. Despite extensive research comparing states and analysing subnational variance within individual countries, the detailed subnational and transnational dynamics of the COVID-19 pandemic across Europe as a whole have not been comprehensively described. Here we show that time-series clustering, applied to weekly excess mortality estimates for subnational NUTS3 administrative regions of 27 countries in Europe, identifies five distinct pandemic trajectories which map to spatial patterns. The trajectories comprise two subgroups, representing contrasting pandemic dynamics in eastern and western Europe. Western Europe exhibits concentric arrangements of mortality impact, with secondary and tertiary impact zones surrounding outbreak epicenters. Eastern Europe exhibits internally homogeneous spatial dynamics, possibly due to the deferral of the first major mortality wave.</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:23:48 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -448,6 +448,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Synthetic data hold substantial potential to address practical challenges in epidemiology due to restricted data access and privacy concerns. However, many current methods suffer from limited quality, high computational demands, and complexity for non-experts. Furthermore, common evaluation strategies for synthetic data often fail to directly reflect statistical utility and measure privacy risks sufficiently. Against this background, a critical underexplored question is whether synthetic data can reliably reproduce key findings from epidemiological research while preserving privacy. Methods We propose adversarial random forests (ARF) as an efficient and convenient method for synthesizing tabular epidemiological data. To evaluate its performance, we replicated statistical analyses from six epidemiological publications covering blood pressure, anthropometry, myocardial infarction, accelerometry, loneliness, and diabetes, from the German National Cohort (NAKO Gesundheitsstudie), the Bremen STEMI Registry U45 Study, and the Guelph Family Health Study. We further assessed how dataset dimensionality and variable complexity affect the quality of synthetic data, and contextualized ARF’s performance by comparison with commonly used tabular data synthesizers in terms of utility, privacy, generalization, and runtime. Results Across all replicated studies, results on ARF-generated synthetic data consistently aligned with original findings. Even for datasets with relatively low sample size-to-dimensionality ratios, replication outcomes closely matched the original results across descriptive and inferential analyses. Reduced dimensionality and variable complexity further enhanced synthesis quality. ARF demonstrated favourable performance regarding utility, privacy preservation, and generalization relative to other synthesizers and superior computational efficiency. Conclusions In summary, ARF reliably generates high-quality synthetic data that replicate diverse epidemiological analyses while offering a competitive privacy–utility trade-off.</description>
     </item>
     <item>
+      <title>Cohort Profile Update: Survey of Health, Ageing and Retirement in Europe—biomarker data for age-related health conditions</title>
+      <link>https://doi.org/10.1093/ije/dyag161</link>
+      <guid isPermaLink="false">10.1093/ije/dyag161</guid>
+
+      <dc:creator>Martina Börsch-Supan</dc:creator>
+      <dc:creator>Axel Börsch-Supan</dc:creator>
+      <dc:creator>Karen Andersen-Ranberg</dc:creator>
+      <dc:creator>Nis Borbye-Lorenzen</dc:creator>
+      <dc:creator>Jake Cofferen</dc:creator>
+      <dc:creator>Yacila I Deza-Lougovski</dc:creator>
+      <dc:creator>Rebecca Groh</dc:creator>
+      <dc:creator>Solveig Holmgaard</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Martina Börsch-Supan, Axel Börsch-Supan, Karen Andersen-Ranberg, Nis Borbye-Lorenzen, Jake Cofferen, Yacila I Deza-Lougovski, Rebecca Groh, Solveig Holmgaard, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag161</description>
+    </item>
+    <item>
       <title>Cohort Profile Update: cognition and ageing in the Survey of Health, Ageing and Retirement in Europe Harmonized Cognitive Assessment Protocol (SHARE-HCAP)</title>
       <link>https://doi.org/10.1093/ije/dyag184</link>
       <guid isPermaLink="false">10.1093/ije/dyag184</guid>
@@ -534,6 +552,21 @@ Abstract: Abstract Background The frequency and severity of extreme temperatures
       <description>Authors: Michelle C Turner, Anjoeka Pronk, Hanifa Bouziri, Ute Bültmann, Daniel Falkstedt, Anne Helene Garde, Henrik A Kolstad, Steinar Krokstad, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag151</description>
+    </item>
+    <item>
+      <title>Gestational misalignment with fixed exposure windows: the potential dangers of zero-filling in distributed lag models</title>
+      <link>https://doi.org/10.1093/ije/dyag162</link>
+      <guid isPermaLink="false">10.1093/ije/dyag162</guid>
+
+      <dc:creator>Michael Leung</dc:creator>
+      <dc:creator>Andreas M Neophytou</dc:creator>
+      <dc:creator>Ander Wilson</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michael Leung, Andreas M Neophytou, Ander Wilson
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag162
+
+Abstract: Abstract Background Distributed lag models (DLMs) are widely used in perinatal epidemiology to identify critical windows during pregnancy in which environmental exposures influence pregnancy/birth outcomes. A well-known complication of fitting DLMs in this context is that they require the same length of exposure history for every individual even though not all pregnancies are of the same duration. This misalignment often leads researchers to artificially extend exposure histories to a fixed length and fill post-birth weeks with zeroes (i.e. “zero-filling”). Despite its widespread use, the implications of zero-filling have not been formally evaluated. Methods We demonstrate conceptually that zero-filling induces a spurious association between gestational age and late-pregnancy exposures, thus introducing confounding that was otherwise not present in the observed data. We then conducted a simulation study and a real data application using air pollution and birth weight data from a Colorado-based cohort to compare zero-filling with alternative approaches to handle the misalignment between exposure window and gestation. Results In our simulations, we found that zero-filling produced the largest bias, poorest coverage, and highest root mean squared error. In the analysis of the Colorado birth data, zero-filling produced implausibly strong associations. Adjusting for gestational age attenuated this bias. Alternative approaches of carrying forward the last pre-birth exposure value, using observed post-birth exposures, and, in some situations, truncation at 37 weeks eliminate this bias. Conclusion Zero-filling can cause bias in the estimated associations when using distributed lag models.</description>
     </item>
     <item>
       <title>Association between ozone and emergency department visits in people with disabilities in South Korea: a nationwide case-crossover study</title>
@@ -1132,26 +1165,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Survival is a long-standing source of confounding, selection bias, and effect modification that is often overlooked. Here, we describe how it can occur and when it can be averted. Methods Directed acyclic graphs were used to illustrate how survival could cause confounding and selection bias. Selection diagrams were used to illustrate how survival could cause effect modification by factors such as age or health status. Results Survival can be a confounder that biases towards favouring the exposure when exposure allocation starts or changes after recruitment. Survival can be a source of Type 1 selection bias that attenuates or reverses estimates when the exposure and outcome, or the exposure and a competing risk of the outcome, affect survival before recruitment. Confounding and selection bias by survival can largely be averted by ensuring exposure allocation coincides with recruitment. Given survival is usually most relevant to older or sicker people, confounding and selection bias due to survival are likely more evident with advancing age or poorer health status. Conclusions Confounding by survival should be considered when exposure allocation starts or changes after recruitment. Type 1 selection bias from survival should be considered when the exposure starts before recruitment. Given that long-term exposures are often of interest, and confounding as well as selection bias are difficult to address, study designs less open to these biases might be preferable.</description>
     </item>
     <item>
-      <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
-      <link>https://doi.org/10.1093/ije/dyag080</link>
-      <guid isPermaLink="false">10.1093/ije/dyag080</guid>
-
-      <dc:creator>Chitra Sharma</dc:creator>
-      <dc:creator>Ana Goncalves Soares</dc:creator>
-      <dc:creator>Bharati Kulkarni</dc:creator>
-      <dc:creator>Nuala M Byrne</dc:creator>
-      <dc:creator>Santhi Bhogadi</dc:creator>
-      <dc:creator>Poppy Alice Carson Mallinson</dc:creator>
-      <dc:creator>Judith Lieber</dc:creator>
-      <dc:creator>Kramadhati V Rameshwar Sarma</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chitra Sharma, Ana Goncalves Soares, Bharati Kulkarni, Nuala M Byrne, Santhi Bhogadi, Poppy Alice Carson Mallinson, Judith Lieber, Kramadhati V Rameshwar Sarma, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag080
-
-Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
-    </item>
-    <item>
       <title>First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis</title>
       <link>https://doi.org/10.1093/ije/dyag121</link>
       <guid isPermaLink="false">10.1093/ije/dyag121</guid>
@@ -1190,6 +1203,26 @@ Abstract: Abstract Background Climate change is increasing the frequency and sev
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag127
 
 Abstract: Abstract Background Preterm (&amp;amp;lt;37 weeks), early-term (37–38 weeks), or post-term (42 weeks) birth may elevate the risk of mental, neurodevelopmental, and cardiopulmonary disease in adulthood, potentially impacting work capacity. Methods We examined the association between gestational age and early disability pension (DP) among 228 572 Finnish individuals born between 1 January 1987 and 30 September 1990. We identified the first DP decision from ages 16 to ∼32 years (2003–20) by using linked birth and DP records, including timing and diagnosis. Adjusted hazard ratios (HRs) with 95% confidence intervals were estimated by using Cox regression, with full-term birth (39–41 weeks) as the reference. Results A total of 9224 individuals (4.0%) received DPs. Adjusted for sex and birth year, the HRs for DP by gestational age groups of 23–31, 32–33, 34–36, 37–38, and 42 weeks were 5.20 (4.52–5.99), 2.47 (2.04–3.00), 1.55 (1.41–1.70), 1.22 (1.16–1.29), and 1.12 (1.01–1.25). Among preterm adults, the most common diagnoses included cerebral palsy, intellectual disability, depression, and schizophrenia. For early-term and post-term adults, depression and schizophrenia were the most frequent. Conclusion Preterm, early-term, and post-term births were associated with early DPs, with slightly different diagnostic profiles. The risk was highest among those born very preterm (&amp;amp;lt;32 weeks). High-quality perinatological care is crucial regarding future careers and societal costs.</description>
+    </item>
+    <item>
+      <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
+      <link>https://doi.org/10.1093/ije/dyag080</link>
+      <guid isPermaLink="false">10.1093/ije/dyag080</guid>
+
+      <dc:creator>Chitra Sharma</dc:creator>
+      <dc:creator>Ana Goncalves Soares</dc:creator>
+      <dc:creator>Bharati Kulkarni</dc:creator>
+      <dc:creator>Nuala M Byrne</dc:creator>
+      <dc:creator>Santhi Bhogadi</dc:creator>
+      <dc:creator>Poppy Alice Carson Mallinson</dc:creator>
+      <dc:creator>Judith Lieber</dc:creator>
+      <dc:creator>Kramadhati V Rameshwar Sarma</dc:creator>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chitra Sharma, Ana Goncalves Soares, Bharati Kulkarni, Nuala M Byrne, Santhi Bhogadi, Poppy Alice Carson Mallinson, Judith Lieber, Kramadhati V Rameshwar Sarma, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag080
+
+Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
     </item>
     <item>
       <title>Fractions and number of cancer cases attributable to excess body fat in South Korea</title>
@@ -1639,34 +1672,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag076
 
 Abstract: Abstract Background The measles, mumps, and rubella (MMR) vaccine is generally considered to provide lifelong immunity against measles and rubella. However, occasional measles outbreaks in countries with high vaccine coverage have raised concerns about waning immunity. In this study, we aimed to estimate the duration of vaccine-induced immunity following MMR2 vaccination in settings where measles and rubella have been eliminated. Methods Using 2019 national serosurvey data, this study estimated antibody waning (decay) rates for each antigen after MMR2 vaccination, with age as a proxy for time since vaccination. In South Korea, MMR2 coverage has exceeded 95% from the 1995 birth cohort, and no significant measles or rubella outbreaks have occurred since 2001, allowing for homogeneous cohorts. Additionally, the time required for the geometric mean titers of each antibody to reach the seronegative cutoff levels was calculated. Results The average antibody decay rates for MMR were 8.71%, 12.02%, and 5.48% per year, respectively, after MMR2 vaccination. The duration of vaccine-induced immunity was estimated to be 19 years for measles, 9.71 years for mumps, and 31.57 years for rubella when equivocal results were considered negative. If equivocal results were considered positive, the duration would be 27.32 years for measles, 15.25 years for mumps, and 39.77 years for rubella. Conclusion Here, we found that individuals who have not experienced natural infection exhibited age-dependent waning of vaccine-induced immunity. While vaccination remains the most effective way to prevent disease, continued vigilance is necessary even in countries with high vaccine coverage.</description>
-    </item>
-    <item>
-      <title>From siege to spillover: how Gaza’s health crisis threatens global infection spread</title>
-      <link>https://doi.org/10.1093/ije/dyag072</link>
-      <guid isPermaLink="false">10.1093/ije/dyag072</guid>
-
-      <dc:creator>Muna Abed Alah</dc:creator>
-      <dc:creator>Peter Valentine Coyle</dc:creator>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Muna Abed Alah, Peter Valentine Coyle
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag072</description>
-    </item>
-    <item>
-      <title>Estimating and discovering heterogeneous treatment effects using machine learning in epidemiological studies: a practical guide</title>
-      <link>https://doi.org/10.1093/ije/dyag092</link>
-      <guid isPermaLink="false">10.1093/ije/dyag092</guid>
-
-      <dc:creator>Toshiaki Komura</dc:creator>
-      <dc:creator>Falco J Bargagli-Stoffi</dc:creator>
-      <dc:creator>Onyebuchi A Arah</dc:creator>
-      <dc:creator>Kosuke Inoue</dc:creator>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Toshiaki Komura, Falco J Bargagli-Stoffi, Onyebuchi A Arah, Kosuke Inoue
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag092
-
-Abstract: Abstract Machine learning-based heterogeneous treatment effect (HTE) estimation and discovery have recently received substantial attention in the healthcare literature. In particular, meta-learner frameworks and causal forests have been widely used in estimating the conditional average treatment effect (CATE). Such advances in HTE estimation and discovery have allowed researchers to assess HTE patterns in their data. Here, we provide a comprehensive and practical guide as well as statistical codes for researchers to implement these models effectively. Specifically, we provide an overview of core motivations for HTE analysis. Then, we describe a methodological overview of popular machine learning algorithms for CATE estimation and how to calibrate their model fit. After demonstrating an application example using a national sample of US older adults, we discuss some critical and practical considerations of HTE analysis with highly granular CATE. Finally, we discuss the assessment of HTE, including the scale and reference point, as well as the interpretation of CATE. Overall, this paper aims to equip researchers with both the conceptual understanding and practical tools necessary to apply machine learning-based HTE analysis in epidemiological research, including both randomized controlled trials and observational studies.</description>
     </item>
   </channel>
 </rss>
