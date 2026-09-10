@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:19:55 +0000</lastBuildDate>
 
     <item>
       <title>Stereoselective polysubstituted bicyclo[1.1.0]butane synthesis by rhodium-catalyzed kinetic resolution</title>
@@ -81,19 +81,6 @@ Journal: Science; Volume: 393; Issue: 6815; Pages: 1036-1044
 Abstract: Reactive oxygen species (ROS) promote genomic instability and fuel oncogenic signaling in cancer, but antioxidant therapies have so far failed to improve, or worsen, cancer outcomes. Emerging data suggest that T cells depend on ROS for signal transduction. In this study, we show that tumors exploit this dependency, releasing antioxidant enzymes into the tumor environment to suppress T cell–mediated antitumor immunity. The interstitial fluid of tumors possesses potent antioxidant activity, associated with enrichment of the antioxidant enzyme peroxiredoxin 1 (PRDX1). Extracellular PRDX1 deprives T cells of ROS, preventing oxidative inactivation of phosphatases required for T cell receptor–driven kinase signaling and effector function. Prdx1 is up-regulated upon cancer immunoediting, and loss of PRDX1 within tumors enhances antitumor immunity and immunotherapy responses. These findings define a redox-dependent mechanism of tumor immunosuppression that is potentially amenable to therapeutic intervention.</description>
     </item>
     <item>
-      <title>Ready for the robot reviewers?</title>
-      <link>https://doi.org/10.1126/science.aem0443</link>
-      <guid isPermaLink="false">10.1126/science.aem0443</guid>
-
-      <dc:creator>Jeffrey Brainard</dc:creator>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jeffrey Brainard
-
-Journal: Science; Volume: 393; Issue: 6815; Pages: 963-967
-
-Abstract: As AI’s capabilities grow, researchers and publishers are exploring how it can support peer review—and where it still falls short</description>
-    </item>
-    <item>
       <title>High-capacity associative memory in a quantum-optical spin glass</title>
       <link>https://doi.org/10.1126/science.aec3917</link>
       <guid isPermaLink="false">10.1126/science.aec3917</guid>
@@ -112,6 +99,19 @@ Abstract: As AI’s capabilities grow, researchers and publishers are exploring 
 Journal: Science; Article number: eaec3917
 
 Abstract: The Hopfield neural network stores memories using all-to-all-coupled spins and recalls those memories through equilibrium dynamics. Storing too many hampers recall because frustration causes an exponential number of spurious patterns to arise as the network becomes a spin glass. Despite this, memory recall can be restored, and even enhanced, under quantum-optical nonequilibrium dynamics because spurious patterns can now serve as reliable memories. We experimentally observe associative memory with high storage capacity in a driven-dissipative spin glass made of atoms and photons. The capacity surpasses that of the Hopfield model under Hebbian learning by up to seven-fold in a sixteen-spin network. Atomic motion boosts capacity by dynamically modifying connectivity akin to short-term synaptic plasticity in neural networks, realizing a precursor to learning in a quantum-optical system.</description>
+    </item>
+    <item>
+      <title>Ready for the robot reviewers?</title>
+      <link>https://doi.org/10.1126/science.aem0443</link>
+      <guid isPermaLink="false">10.1126/science.aem0443</guid>
+
+      <dc:creator>Jeffrey Brainard</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jeffrey Brainard
+
+Journal: Science; Volume: 393; Issue: 6815; Pages: 963-967
+
+Abstract: As AI’s capabilities grow, researchers and publishers are exploring how it can support peer review—and where it still falls short</description>
     </item>
     <item>
       <title>(Un)intended consequences of mass-prescribing GLP-1s</title>

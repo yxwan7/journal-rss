@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:20:24 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -275,6 +275,22 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Previous research on moderate-to-vigorous physical activity (MVPA) and ovarian cancer risk have shown inconsistent results. Most studies measured recreational MVPA once during late adulthood, which does not consider the way in which timing may differently influence risk or account for MVPA from other activities. Life-course epidemiology models (critical-period, sensitive-period, and accumulation) can evaluate whether the timing and cumulative burden of total MVPA across the lifespan influences risk. Here, we identify which model best describes the association between total MVPA, encompassing recreational, occupational, household, and transportation activities, and invasive ovarian cancer risk. Methods A population-based case–control study of ovarian cancer in Montreal, Canada (2011–16) included 268 invasive cases and 668 controls aged ≥52 years. Total MVPA was determined by using recalled information on the frequency and duration of various physical activities across adulthood. A Bayesian relevant life course exposure model was used to estimate the relative importance of total MVPA, represented as average energy expenditure in units of metabolic equivalent (MET)-hours/week, during three pre-specified periods (early reproductive years, late reproductive years/perimenopause, and postmenopause) on invasive ovarian cancer risk. Results The lifetime-effect odds ratio comparing ≥50 vs &amp;amp;lt;50 MET-hours/week across adulthood was 0.59 (95% credible interval: 0.35–0.93). MVPA during late reproductive years/perimenopause showed the highest relative importance, suggesting that this may be a sensitive period. Associations were similar for serous and non-serous subtypes. Conclusion Our results support that higher MVPA across the adult life course is associated with a reduced invasive ovarian cancer risk and mid-adulthood, represented by late reproductive years/perimenopause, may be a sensitive period.</description>
     </item>
     <item>
+      <title>Comparing genome-wide significant and chemosensory variants as instruments for dietary patterns in Mendelian randomization</title>
+      <link>https://doi.org/10.1093/ije/dyag186</link>
+      <guid isPermaLink="false">10.1093/ije/dyag186</guid>
+
+      <dc:creator>Phoebe S C Hui</dc:creator>
+      <dc:creator>Brooke L Devlin</dc:creator>
+      <dc:creator>David M Evans</dc:creator>
+      <dc:creator>Liang-Dar Hwang</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Phoebe S C Hui, Brooke L Devlin, David M Evans, Liang-Dar Hwang
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
+
+Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
+    </item>
+    <item>
       <title>Redefining the public health problem in epidemiology:
                     &lt;i&gt;Clarifying operational boundaries for a post‑pandemic discipline&lt;/i&gt;</title>
       <link>https://doi.org/10.1093/ije/dyag193</link>
@@ -534,6 +550,22 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag145
 
 Abstract: Abstract Background The frequency and severity of extreme temperatures have been increasing and are expected to continue to escalate in the coming decades. Relationships between extreme temperatures and early deliveries are not well understood. Methods Data were obtained from 201 759 pregnancies with gestational age (GA) of &amp;amp;gt;27 weeks in the Consortium on Safe Labor retrospective cohort study from 19 hospitals across the USA for 2002–8. Location-specific bulk temperatures were obtained from the Parameter-Elevation Regressions on Independent Slopes Model (4-km resolution), from which participants were linked to minimum, maximum, and mean daily temperatures across each day of pregnancy. Days were categorized for each site as cold (both minimum and maximum temperatures ≤ 20th percentile), hot (both minimum and maximum temperatures ≥ 80th percentile), or neither for each pregnancy. Cold and hot days were then analysed individually or as the proportion within specific pregnancy windows by using Cox regression and fetuses-at-risk logistic regression models. Results Detrimental relations in fetuses-at-risk models were consistently observed between exposure to chronic cold and chronic heat and early delivery: odds ratio (ORcold)= 1.66, 1.40, and 1.16; ORheat = 1.20, 1.13, and 1.32 for early-preterm (GA &amp;amp;lt; 34 weeks), preterm (34 ≤ GA &amp;amp;lt; 37 weeks), and early-term (37 ≤ GA &amp;amp;lt; 39), respectively. Associations for exposures in Trimesters 1 and 2 were mixed but clearly more detrimental in Trimester 1. The likelihood of early delivery increased with daily exposure to extreme temperatures after 27 weeks. Conclusion Future work should seek to elucidate the underlying mechanisms and to validate these findings by using more recent diverse global data.</description>
+    </item>
+    <item>
+      <title>Misspecified seasonality adjustment in temperature and preterm birth studies may introduce severe bias: a real birth cohort-based simulation</title>
+      <link>https://doi.org/10.1093/ije/dyag201</link>
+      <guid isPermaLink="false">10.1093/ije/dyag201</guid>
+
+      <dc:creator>Selin Girgin</dc:creator>
+      <dc:creator>Daniel Nevo</dc:creator>
+      <dc:creator>Offer Erez</dc:creator>
+      <dc:creator>Raanan Raz</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Selin Girgin, Daniel Nevo, Offer Erez, Raanan Raz
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag201
+
+Abstract: Abstract Background Seasonality is typically controlled for to mitigate potential confounding by seasonally varying variables in environmental epidemiology research. We aimed to illustrate that correctly specifying the seasonality variable is crucial for effectively controlling confounding by seasonality in the context of prenatal temperature exposure and preterm birth. Methods We conducted a simulation study based on an Israeli birth cohort of 131 599 births in Southern Israel, 2005–19. Weekly mean temperature exposures throughout pregnancy and last menstrual period (LMP) date were taken from the original cohort, while gestational age at birth was simulated using a Cox model under four causal scenarios: no seasonal confounding and no effect of temperature; seasonal confounding only; causal effect of temperature only; and seasonal confounding and a causal effect. Within each scenario, we compared four seasonality-adjustment approaches: no adjustment; fixed birthdate-based adjustment; fixed LMP-based adjustment; and time-varying seasonal adjustment. Finally, we compared these methods using our original cohort analysis to examine their divergence in real epidemiological study settings. Results Birthdate-based adjustment induced strong collider bias across all scenarios and in the real study setting. In the absence of seasonal confounding, the other three adjustment methods were comparable and produced valid estimates. In the presence of seasonal confounding, however, fixed LMP-based adjustment was inferior to the use of a time-varying seasonal covariate. Conclusion Birthdate-based seasonal adjustment in studies of temperature and birth outcomes may introduce severe collider bias and should be avoided, particularly when examining outcomes strongly associated with the duration of pregnancy.</description>
     </item>
     <item>
       <title>Cohort Profile: The European Occupational Exposome Mega Cohort Consortium (OMega-X)</title>
@@ -1165,6 +1197,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Survival is a long-standing source of confounding, selection bias, and effect modification that is often overlooked. Here, we describe how it can occur and when it can be averted. Methods Directed acyclic graphs were used to illustrate how survival could cause confounding and selection bias. Selection diagrams were used to illustrate how survival could cause effect modification by factors such as age or health status. Results Survival can be a confounder that biases towards favouring the exposure when exposure allocation starts or changes after recruitment. Survival can be a source of Type 1 selection bias that attenuates or reverses estimates when the exposure and outcome, or the exposure and a competing risk of the outcome, affect survival before recruitment. Confounding and selection bias by survival can largely be averted by ensuring exposure allocation coincides with recruitment. Given survival is usually most relevant to older or sicker people, confounding and selection bias due to survival are likely more evident with advancing age or poorer health status. Conclusions Confounding by survival should be considered when exposure allocation starts or changes after recruitment. Type 1 selection bias from survival should be considered when the exposure starts before recruitment. Given that long-term exposures are often of interest, and confounding as well as selection bias are difficult to address, study designs less open to these biases might be preferable.</description>
     </item>
     <item>
+      <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
+      <link>https://doi.org/10.1093/ije/dyag080</link>
+      <guid isPermaLink="false">10.1093/ije/dyag080</guid>
+
+      <dc:creator>Chitra Sharma</dc:creator>
+      <dc:creator>Ana Goncalves Soares</dc:creator>
+      <dc:creator>Bharati Kulkarni</dc:creator>
+      <dc:creator>Nuala M Byrne</dc:creator>
+      <dc:creator>Santhi Bhogadi</dc:creator>
+      <dc:creator>Poppy Alice Carson Mallinson</dc:creator>
+      <dc:creator>Judith Lieber</dc:creator>
+      <dc:creator>Kramadhati V Rameshwar Sarma</dc:creator>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chitra Sharma, Ana Goncalves Soares, Bharati Kulkarni, Nuala M Byrne, Santhi Bhogadi, Poppy Alice Carson Mallinson, Judith Lieber, Kramadhati V Rameshwar Sarma, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag080
+
+Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
+    </item>
+    <item>
       <title>First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis</title>
       <link>https://doi.org/10.1093/ije/dyag121</link>
       <guid isPermaLink="false">10.1093/ije/dyag121</guid>
@@ -1203,26 +1255,6 @@ Abstract: Abstract Background Climate change is increasing the frequency and sev
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag127
 
 Abstract: Abstract Background Preterm (&amp;amp;lt;37 weeks), early-term (37–38 weeks), or post-term (42 weeks) birth may elevate the risk of mental, neurodevelopmental, and cardiopulmonary disease in adulthood, potentially impacting work capacity. Methods We examined the association between gestational age and early disability pension (DP) among 228 572 Finnish individuals born between 1 January 1987 and 30 September 1990. We identified the first DP decision from ages 16 to ∼32 years (2003–20) by using linked birth and DP records, including timing and diagnosis. Adjusted hazard ratios (HRs) with 95% confidence intervals were estimated by using Cox regression, with full-term birth (39–41 weeks) as the reference. Results A total of 9224 individuals (4.0%) received DPs. Adjusted for sex and birth year, the HRs for DP by gestational age groups of 23–31, 32–33, 34–36, 37–38, and 42 weeks were 5.20 (4.52–5.99), 2.47 (2.04–3.00), 1.55 (1.41–1.70), 1.22 (1.16–1.29), and 1.12 (1.01–1.25). Among preterm adults, the most common diagnoses included cerebral palsy, intellectual disability, depression, and schizophrenia. For early-term and post-term adults, depression and schizophrenia were the most frequent. Conclusion Preterm, early-term, and post-term births were associated with early DPs, with slightly different diagnostic profiles. The risk was highest among those born very preterm (&amp;amp;lt;32 weeks). High-quality perinatological care is crucial regarding future careers and societal costs.</description>
-    </item>
-    <item>
-      <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
-      <link>https://doi.org/10.1093/ije/dyag080</link>
-      <guid isPermaLink="false">10.1093/ije/dyag080</guid>
-
-      <dc:creator>Chitra Sharma</dc:creator>
-      <dc:creator>Ana Goncalves Soares</dc:creator>
-      <dc:creator>Bharati Kulkarni</dc:creator>
-      <dc:creator>Nuala M Byrne</dc:creator>
-      <dc:creator>Santhi Bhogadi</dc:creator>
-      <dc:creator>Poppy Alice Carson Mallinson</dc:creator>
-      <dc:creator>Judith Lieber</dc:creator>
-      <dc:creator>Kramadhati V Rameshwar Sarma</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chitra Sharma, Ana Goncalves Soares, Bharati Kulkarni, Nuala M Byrne, Santhi Bhogadi, Poppy Alice Carson Mallinson, Judith Lieber, Kramadhati V Rameshwar Sarma, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag080
-
-Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
     </item>
     <item>
       <title>Fractions and number of cancer cases attributable to excess body fat in South Korea</title>
@@ -1641,37 +1673,6 @@ Abstract: Abstract Background Digital devices have become a major aspect of chil
       <description>Authors: Roemer J Janse, Amber Meulenbeld
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag065</description>
-    </item>
-    <item>
-      <title>On contributions made by methodological research to applied epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag086</link>
-      <guid isPermaLink="false">10.1093/ije/dyag086</guid>
-
-      <dc:creator>Bronner P Gonçalves</dc:creator>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bronner P Gonçalves
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag086</description>
-    </item>
-    <item>
-      <title>Duration of vaccine-induced immunity following MMR2 vaccination in a measles and rubella-eliminated country</title>
-      <link>https://doi.org/10.1093/ije/dyag076</link>
-      <guid isPermaLink="false">10.1093/ije/dyag076</guid>
-
-      <dc:creator>June Young Chun</dc:creator>
-      <dc:creator>Ah-Ra Kim</dc:creator>
-      <dc:creator>Hwichang Jeong</dc:creator>
-      <dc:creator>You-Jin Kim</dc:creator>
-      <dc:creator>Hae Ji Kang</dc:creator>
-      <dc:creator>Hye-Sook Jeong</dc:creator>
-      <dc:creator>Gi-Eun Rhie</dc:creator>
-      <dc:creator>Youngmee Jee</dc:creator>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: June Young Chun, Ah-Ra Kim, Hwichang Jeong, You-Jin Kim, Hae Ji Kang, Hye-Sook Jeong, Gi-Eun Rhie, Youngmee Jee, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag076
-
-Abstract: Abstract Background The measles, mumps, and rubella (MMR) vaccine is generally considered to provide lifelong immunity against measles and rubella. However, occasional measles outbreaks in countries with high vaccine coverage have raised concerns about waning immunity. In this study, we aimed to estimate the duration of vaccine-induced immunity following MMR2 vaccination in settings where measles and rubella have been eliminated. Methods Using 2019 national serosurvey data, this study estimated antibody waning (decay) rates for each antigen after MMR2 vaccination, with age as a proxy for time since vaccination. In South Korea, MMR2 coverage has exceeded 95% from the 1995 birth cohort, and no significant measles or rubella outbreaks have occurred since 2001, allowing for homogeneous cohorts. Additionally, the time required for the geometric mean titers of each antibody to reach the seronegative cutoff levels was calculated. Results The average antibody decay rates for MMR were 8.71%, 12.02%, and 5.48% per year, respectively, after MMR2 vaccination. The duration of vaccine-induced immunity was estimated to be 19 years for measles, 9.71 years for mumps, and 31.57 years for rubella when equivocal results were considered negative. If equivocal results were considered positive, the duration would be 27.32 years for measles, 15.25 years for mumps, and 39.77 years for rubella. Conclusion Here, we found that individuals who have not experienced natural infection exhibited age-dependent waning of vaccine-induced immunity. While vaccination remains the most effective way to prevent disease, continued vigilance is necessary even in countries with high vaccine coverage.</description>
     </item>
   </channel>
 </rss>
