@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:53:01 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -48,6 +48,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background The causal relevance of different adiposity markers to infection-related death remains uncertain. We estimated the lifelong associations of genetically predicted adiposity traits with infection-related mortality among 126 491 Mexican adults. Methods Mendelian randomization (MR) using trans-ancestry instruments for body mass index (BMI), fat-mass percentage (FM%), and waist and hip circumference was used to estimate causal effects on infection-related mortality at ages 35–74 years, overall and across six infection subtypes. Multivariable MR was used to assess independent associations. Results Genetic instruments explained 1.6%–3.5% of the variance in adiposity markers and the strengths of their associations with the markers were similar in men and women. Over 20 years, 2592 infection-related deaths occurred at ages 35–74 years. Genetically predicted adiposity was strongly associated with infection mortality, with the strongest association for FM% [hazard ratio (HR) per 1-SD higher level: 2.54; 95% confidence interval (CI) 1.91–3.38] and the weakest for hip circumference (HR 1.61; 95% CI 1.30–2.01). Associations were consistent across six subtypes: respiratory; urinary tract; gastrointestinal; sepsis; skin, bone, and connective tissue; and other infections. For BMI and FM%, mutual adjustment for waist and hip circumference reduced the associations by nearly one-third. For waist circumference, adjustment for BMI and hip circumference reduced the association by more than half, while, for hip circumference, mutual adjustment for BMI and waist circumference almost eliminated its association. Sensitivity analyses supported the main conclusions. Conclusion Higher adiposity is causally associated with a higher risk of infection-related mortality in Mexican adults. Strategies to reduce the population levels of adiposity in Mexico could contribute to lowering mortality from infection.</description>
     </item>
     <item>
+      <title>When air pollution meets comorbidities: evidence on the causal effect of PM2.5 on COVID-19 hospitalizations and deaths</title>
+      <link>https://doi.org/10.1093/ije/dyag152</link>
+      <guid isPermaLink="false">10.1093/ije/dyag152</guid>
+
+      <dc:creator>Carla Morvan</dc:creator>
+      <dc:creator>Johanna Lepeule</dc:creator>
+      <dc:creator>Emmanuelle Lavaine</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Carla Morvan, Johanna Lepeule, Emmanuelle Lavaine
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag152
+
+Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
+    </item>
+    <item>
       <title>Elucidating the proteomic pathways linking childhood body mass index with type 2 diabetes: a Mendelian randomization and recall-by-genotype study</title>
       <link>https://doi.org/10.1093/ije/dyag165</link>
       <guid isPermaLink="false">10.1093/ije/dyag165</guid>
@@ -68,19 +83,18 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Increased childhood adiposity contributes to higher type 2 diabetes (T2D) risk, but the underlying mechanisms remain unclear. Furthermore, whether these mechanistic pathways are shared across ethnic groups has not been explored. Methods We conducted a two-step Mendelian randomization (MR) using European-based summary statistics from genome-wide association studies of childhood body mass index (BMI) (n = 61 111), adulthood proteomics (n = 35 559), and later life T2D (cases: 242 283; controls: 1 569 734). We also conducted a recall-by-genotype (RbG) study in a Chinese birth cohort (n = 250) to assess whether childhood BMI was associated with the identified proteomic signals in an East Asian population. Analyses included multi-instrument MR methods (inverse variance weighted and MR-Egger) and, for single-instrument proteins, cis-MR using the Wald ratio, with colocalization validation. Multiple testing was adjusted using false discovery rate (FDR). Results Higher genetically predicted childhood BMI was associated with 1299 proteins (FDR-adjusted P &amp;amp;lt; .05), of which 36 proteins were associated with higher T2D risk. Six proteins were supported by colocalization (PPH4 &amp;amp;gt; 80%). Genetically predicted higher childhood BMI was positively associated with GCKR, RBP1, ENTPD6, and GST A1-1, and inversely associated with PRSS27 and SHBG. The proportion of the BMI-T2D effect mediated by these proteins ranged from 1.87% to 12.92%. However, only SHBG was replicated in Asians in the RbG study. Conclusions Our study identified putative actionable proteins that could reduce the elevated T2D risk attributable to childhood adiposity in Europeans, but their relevance in Asian populations requires further investigation.</description>
     </item>
     <item>
-      <title>When air pollution meets comorbidities: evidence on the causal effect of PM2.5 on COVID-19 hospitalizations and deaths</title>
-      <link>https://doi.org/10.1093/ije/dyag152</link>
-      <guid isPermaLink="false">10.1093/ije/dyag152</guid>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
 
-      <dc:creator>Carla Morvan</dc:creator>
-      <dc:creator>Johanna Lepeule</dc:creator>
-      <dc:creator>Emmanuelle Lavaine</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Carla Morvan, Johanna Lepeule, Emmanuelle Lavaine
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag152
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
 
-Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
@@ -99,20 +113,6 @@ Abstract: Abstract Background Despite growing evidence on the health effects of 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag176
 
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
-    </item>
-    <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
-
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
-
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>Negative controls and how to use them: a guidance paper</title>
@@ -473,6 +473,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background The COVID-19 pandemic caused a large health burden that disproportionally fell on people with a lower socio-economic status. Not much is known about the role of structural differences in pre-existing health and vaccination uptake in explaining these inequalities. We aim to disentangle these factors and quantify their contribution to income-related inequality in COVID-19 mortality. Methods Using linked Dutch administrative microdata (N = 6 619 699), we model the risk of COVID-19 death based on pre-existing health and vaccination status for the entire population above the age of 50 years in 2021. Health is proxied by individual-level remaining life expectancy based on predictions by income using detailed information on demographics, specific outpatient medication(s), and hospital records. Building on this, we then quantify the extent to which differences in pre-existing health and vaccination status between lower and higher incomes explain income-related differences in COVID-19 deaths. Results We find strong income-related differences in COVID-19 mortality. In 2021, individuals of the poorest income quintile were about three times more likely to die of COVID-19 than those in the richest quintile. Differences in pre-existing health are more important than differences in vaccination uptake in explaining this gap. For the poorest males/females, 67%/46% can be explained by differences in health and 14%/19% by vaccination status. Conclusion Differences in pre-existing health by income are likely the most important determinant of income-related inequality in COVID-19 mortality. These findings signal that policies focused on reducing existing inequalities in health might lessen the burden of future health crises.</description>
     </item>
     <item>
+      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
+      <link>https://doi.org/10.1093/ije/dyag199</link>
+      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
+
+      <dc:creator>Xueyan Zheng</dc:creator>
+      <dc:creator>Christian Bottomley</dc:creator>
+      <dc:creator>Woojoo Lee</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
+
+Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
+    </item>
+    <item>
       <title>Peripubertal pregnancies and associations with health and developmental outcomes in offspring during late adolescence and adulthood: sibling-comparison register study</title>
       <link>https://doi.org/10.1093/ije/dyag153</link>
       <guid isPermaLink="false">10.1093/ije/dyag153</guid>
@@ -488,21 +503,6 @@ Abstract: Abstract Background The COVID-19 pandemic caused a large health burden
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag153
 
 Abstract: Abstract Background We examined the association of peripubertal pregnancies with long-term health and developmental outcomes in adult offspring and strengthened causal inference using sibling-comparison methods. Methods Using linked Swedish register data from 1964 to 2018, we conducted a cohort study to estimate associations of pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years, with body mass index (BMI), systolic blood pressure (SBP), cognitive function, and stress resilience among 943 444 male offspring aged 17–21 years in the Military Conscription Register. We further assessed associations with type 2 diabetes (T2D), depression, and anxiety among 2 461 510 male and female offspring aged 18–73 years using population-wide registers. Linear, multinomial, and survival models were used. Sibling fixed-effect models were used to account for unmeasured confounding shared among siblings. Results Offspring from pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years had lower SBP (β − 1.12; 95% confidence interval [CI] − 1.97 to −0.26), poorer cognitive function (β − 0.54; 95% CI −0.67 to −0.40), and poorer stress resilience (β −0.24; 95% CI −0.38, −0.10). There was no increased risk of being underweight or overweight compared with normal weight. There was a lower risk of anxiety (hazard ratio 0.87; 95% CI 0.80 to 0.95) and no increased risk of T2D or depression. Sibling-comparison analyses attenuated deleterious associations to null or reversed them and amplified associations with markers of better health. Conclusion Pregnancies before age 16 years may not be causally associated with adverse long-term health and developmental outcomes in adolescent and adult offspring. The adverse associations in conventional analyses appear attributable to shared familial characteristics.</description>
-    </item>
-    <item>
-      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
-      <link>https://doi.org/10.1093/ije/dyag199</link>
-      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
-
-      <dc:creator>Xueyan Zheng</dc:creator>
-      <dc:creator>Christian Bottomley</dc:creator>
-      <dc:creator>Woojoo Lee</dc:creator>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
-
-Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
     </item>
     <item>
       <title>Mortality and childhood residence near the radiologically contaminated Coldwater Creek, St. Louis, Missouri</title>
@@ -918,24 +918,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag101</description>
     </item>
     <item>
-      <title>Cohort Profile: Gilgel-Gibe Health and Demographic Surveillance System (Gilgel-Gibe HDSS), Jimma, Southwest Ethiopia</title>
-      <link>https://doi.org/10.1093/ije/dyag116</link>
-      <guid isPermaLink="false">10.1093/ije/dyag116</guid>
-
-      <dc:creator>Fasil Tessema</dc:creator>
-      <dc:creator>Assefa Legesse Sisay</dc:creator>
-      <dc:creator>Muluemebet Abera</dc:creator>
-      <dc:creator>M Sanni Ali</dc:creator>
-      <dc:creator>Kora Tushune</dc:creator>
-      <dc:creator>Esayas Alemayehu</dc:creator>
-      <dc:creator>Bikila Regassa Feyisa</dc:creator>
-      <dc:creator>Desalegn Shiferaw</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fasil Tessema, Assefa Legesse Sisay, Muluemebet Abera, M Sanni Ali, Kora Tushune, Esayas Alemayehu, Bikila Regassa Feyisa, Desalegn Shiferaw, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag116</description>
-    </item>
-    <item>
       <title>Data Resource Profile: EST-Health-30</title>
       <link>https://doi.org/10.1093/ije/dyag113</link>
       <guid isPermaLink="false">10.1093/ije/dyag113</guid>
@@ -970,6 +952,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Shenglin Zhao, Bingjie Zhou, Jia Du, Yan Zhang, Zhikai Yu, Hong Zhou, Zhengyu Yang, Wenzhong Huang, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag110</description>
+    </item>
+    <item>
+      <title>Cohort Profile: Gilgel-Gibe Health and Demographic Surveillance System (Gilgel-Gibe HDSS), Jimma, Southwest Ethiopia</title>
+      <link>https://doi.org/10.1093/ije/dyag116</link>
+      <guid isPermaLink="false">10.1093/ije/dyag116</guid>
+
+      <dc:creator>Fasil Tessema</dc:creator>
+      <dc:creator>Assefa Legesse Sisay</dc:creator>
+      <dc:creator>Muluemebet Abera</dc:creator>
+      <dc:creator>M Sanni Ali</dc:creator>
+      <dc:creator>Kora Tushune</dc:creator>
+      <dc:creator>Esayas Alemayehu</dc:creator>
+      <dc:creator>Bikila Regassa Feyisa</dc:creator>
+      <dc:creator>Desalegn Shiferaw</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fasil Tessema, Assefa Legesse Sisay, Muluemebet Abera, M Sanni Ali, Kora Tushune, Esayas Alemayehu, Bikila Regassa Feyisa, Desalegn Shiferaw, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag116</description>
     </item>
     <item>
       <title>Ten- and thirty-year cardiovascular disease risks using PREVENT equation in Koreans from 2001 to 2021</title>
@@ -1145,15 +1145,16 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Available evidence on the relationship between long-term exposure to particulate matter with an aerodynamic diameter of ≤2.5 μm (PM2.5) and tuberculosis has been limited and inconsistent. Methods We conducted a longitudinal cohort study on individuals aged ≥12 years who participated in four rounds of the National Health Interview Survey. PM2.5 exposure was estimated by using data from air-quality monitoring stations and microsensors. Incident tuberculosis was identified based on International Classification of Diseases codes and the prescription of anti-tuberculosis drugs in the National Health Insurance Database. Time-dependent Cox regression analyses were conducted to estimate the linear and nonlinear associations between PM2.5 level and tuberculosis risk. Results Among 55 316 individuals with a median follow-up time of 12 years, 429 cases of incident tuberculosis were identified. The annual mean baseline PM2.5 concentration was 34.5 μg/m3 (interquartile range: 28.7–39.2 μg/m3). After adjustment for age, sex, body mass index, cigarette smoking, alcohol use, education level, income, and tuberculosis history, the adjusted hazard ratio was 1.16 (95% confidence interval: 1.00–1.34) for every 10-μg/m3 increase in the PM2.5 level. The results of the restricted cubic spline Cox regression analysis revealed a potential nonlinear relationship (P for nonlinearity: .04), with the risk of tuberculosis increasing more rapidly when the annual mean concentration of PM2.5 exceeded 30 μg/m3. Conclusion In this large population-based cohort study, a positive association between PM2.5 and tuberculosis was observed, particularly at moderately high concentrations of PM2.5 exposure. These findings highlight the need for air-pollution control strategies to mitigate tuberculosis risk.</description>
     </item>
     <item>
-      <title>Commentary: Cataract risk among nuclear emergency workers exposed to radiation following the Fukushima nuclear power plant accident</title>
-      <link>https://doi.org/10.1093/ije/dyag135</link>
-      <guid isPermaLink="false">10.1093/ije/dyag135</guid>
+      <title>Confounding effects of oral health in studying dental-amalgam exposure and multiple sclerosis</title>
+      <link>https://doi.org/10.1093/ije/dyag139</link>
+      <guid isPermaLink="false">10.1093/ije/dyag139</guid>
 
-      <dc:creator>Elizabeth K Cahoon</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elizabeth K Cahoon
+      <dc:creator>John Rong Hao Tay</dc:creator>
+      <dc:creator>Robin Blythe</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: John Rong Hao Tay, Robin Blythe
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag135</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag139</description>
     </item>
     <item>
       <title>Cohort Profile Update: The Doetinchem Cohort Study 1987–2028––capturing four decades of health and disease</title>
@@ -1170,16 +1171,15 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag120</description>
     </item>
     <item>
-      <title>Confounding effects of oral health in studying dental-amalgam exposure and multiple sclerosis</title>
-      <link>https://doi.org/10.1093/ije/dyag139</link>
-      <guid isPermaLink="false">10.1093/ije/dyag139</guid>
+      <title>Commentary: Cataract risk among nuclear emergency workers exposed to radiation following the Fukushima nuclear power plant accident</title>
+      <link>https://doi.org/10.1093/ije/dyag135</link>
+      <guid isPermaLink="false">10.1093/ije/dyag135</guid>
 
-      <dc:creator>John Rong Hao Tay</dc:creator>
-      <dc:creator>Robin Blythe</dc:creator>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: John Rong Hao Tay, Robin Blythe
+      <dc:creator>Elizabeth K Cahoon</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elizabeth K Cahoon
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag139</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag135</description>
     </item>
     <item>
       <title>Trends, determinants, and anthropometric consequences of low birthweight in Indian children: a prospective analysis of national data</title>
@@ -1270,18 +1270,6 @@ Abstract: Abstract Background Colorectal cancer (CRC) screening programmes often
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag140</description>
     </item>
     <item>
-      <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag136</link>
-      <guid isPermaLink="false">10.1093/ije/dyag136</guid>
-
-      <dc:creator>Marco A Peres</dc:creator>
-      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag136</description>
-    </item>
-    <item>
       <title>Acute maternal stress in pregnancy and cardiovascular risk factors in adolescent offspring: a birth-cohort study</title>
       <link>https://doi.org/10.1093/ije/dyag111</link>
       <guid isPermaLink="false">10.1093/ije/dyag111</guid>
@@ -1302,6 +1290,18 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Cardiometabolic risk factors are major contributors to poor health outcomes and premature mortality. While the effect of prenatal exposure to stress on cardiometabolic outcomes has been examined, the findings remain inconsistent across studies, and even more so with regard to the timing of exposure. In the present study, we aimed to explore the association of short-term prenatal exposure to the acute stress of the 1967 Six-Day War with cardiovascular and anthropometric risk factors in adolescent offspring. Methods Using a population-based birth cohort, we examined data from 61 237 offspring born in Jerusalem during 1964–76, linked to their military-draft records at age 17 years. These provided information on those exposed to acute prenatal stress and the timing of exposure within the pregnancy (N = 2471) as well as on height, weight, heart rate (HR), and blood pressure (BP) in adolescence. Linear regression models estimated the associations between prenatal stress and measurements at age 17 years, controlling for potential confounders. Results Prenatal exposure to acute stress was associated with increased systolic blood pressure (SBP) and diastolic blood pressure (DBP) [SBP: B = 1.85, 95% confidence interval (CI): 1.15, 2.56; DBP: B = 1.89, 95% CI: 1.40, 2.38] and a decreased HR (B = –1.39, CI: –1.88, –0.91) but not with anthropometric outcomes. Furthermore, gestational age at exposure modified these associations: the associations with DBP and mean arterial pressure tended to increase and with HR to decrease the later the exposure occurred during the pregnancy. Conclusion Findings suggest that acute maternal stress during pregnancy is associated with cardiovascular risk factors in offspring in adolescence and is modulated by the timing of the exposure.</description>
     </item>
     <item>
+      <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag136</link>
+      <guid isPermaLink="false">10.1093/ije/dyag136</guid>
+
+      <dc:creator>Marco A Peres</dc:creator>
+      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag136</description>
+    </item>
+    <item>
       <title>Survival as a source of confounding, selection bias, and effect modification</title>
       <link>https://doi.org/10.1093/ije/dyag099</link>
       <guid isPermaLink="false">10.1093/ije/dyag099</guid>
@@ -1314,6 +1314,26 @@ Abstract: Abstract Background Cardiometabolic risk factors are major contributor
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag099
 
 Abstract: Abstract Background Survival is a long-standing source of confounding, selection bias, and effect modification that is often overlooked. Here, we describe how it can occur and when it can be averted. Methods Directed acyclic graphs were used to illustrate how survival could cause confounding and selection bias. Selection diagrams were used to illustrate how survival could cause effect modification by factors such as age or health status. Results Survival can be a confounder that biases towards favouring the exposure when exposure allocation starts or changes after recruitment. Survival can be a source of Type 1 selection bias that attenuates or reverses estimates when the exposure and outcome, or the exposure and a competing risk of the outcome, affect survival before recruitment. Confounding and selection bias by survival can largely be averted by ensuring exposure allocation coincides with recruitment. Given survival is usually most relevant to older or sicker people, confounding and selection bias due to survival are likely more evident with advancing age or poorer health status. Conclusions Confounding by survival should be considered when exposure allocation starts or changes after recruitment. Type 1 selection bias from survival should be considered when the exposure starts before recruitment. Given that long-term exposures are often of interest, and confounding as well as selection bias are difficult to address, study designs less open to these biases might be preferable.</description>
+    </item>
+    <item>
+      <title>Gestational age at birth and the risk of disability pension in early adulthood: a whole-population register study of people born in Finland in 1987–90</title>
+      <link>https://doi.org/10.1093/ije/dyag127</link>
+      <guid isPermaLink="false">10.1093/ije/dyag127</guid>
+
+      <dc:creator>Oksanen Päivi</dc:creator>
+      <dc:creator>Tikanmäki Marjaana</dc:creator>
+      <dc:creator>Alenius Suvi</dc:creator>
+      <dc:creator>Metsälä Johanna</dc:creator>
+      <dc:creator>Gissler Mika</dc:creator>
+      <dc:creator>Lahti-Pulkkinen Marius</dc:creator>
+      <dc:creator>Heikkilä Katriina</dc:creator>
+      <dc:creator>Räikkönen Katri</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Oksanen Päivi, Tikanmäki Marjaana, Alenius Suvi, Metsälä Johanna, Gissler Mika, Lahti-Pulkkinen Marius, Heikkilä Katriina, Räikkönen Katri, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag127
+
+Abstract: Abstract Background Preterm (&amp;amp;lt;37 weeks), early-term (37–38 weeks), or post-term (42 weeks) birth may elevate the risk of mental, neurodevelopmental, and cardiopulmonary disease in adulthood, potentially impacting work capacity. Methods We examined the association between gestational age and early disability pension (DP) among 228 572 Finnish individuals born between 1 January 1987 and 30 September 1990. We identified the first DP decision from ages 16 to ∼32 years (2003–20) by using linked birth and DP records, including timing and diagnosis. Adjusted hazard ratios (HRs) with 95% confidence intervals were estimated by using Cox regression, with full-term birth (39–41 weeks) as the reference. Results A total of 9224 individuals (4.0%) received DPs. Adjusted for sex and birth year, the HRs for DP by gestational age groups of 23–31, 32–33, 34–36, 37–38, and 42 weeks were 5.20 (4.52–5.99), 2.47 (2.04–3.00), 1.55 (1.41–1.70), 1.22 (1.16–1.29), and 1.12 (1.01–1.25). Among preterm adults, the most common diagnoses included cerebral palsy, intellectual disability, depression, and schizophrenia. For early-term and post-term adults, depression and schizophrenia were the most frequent. Conclusion Preterm, early-term, and post-term births were associated with early DPs, with slightly different diagnostic profiles. The risk was highest among those born very preterm (&amp;amp;lt;32 weeks). High-quality perinatological care is crucial regarding future careers and societal costs.</description>
     </item>
     <item>
       <title>Life-course trajectories of cardiovascular disease risk factors in rural India: Andhra Pradesh Children and Parents Study (APCAPS) 2003–2023</title>
@@ -1356,24 +1376,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Climate change is increasing the frequency and severity of non-optimal temperatures and heatwaves, posing risks to public health, especially for children and young people. We performed a systematic review and meta-analysis to assess the impacts of (i) non-optimal ambient temperatures and (ii) heatwaves on mental health outcomes in this group globally. Methods We searched five databases for studies published between 2000 and 2024. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we selected studies by using the population–exposure–comparison–outcome (PECO) framework (PROSPERO protocol ID CRD42024524650). We performed a random-effects meta-analysis, assessed the risk of bias, and examined variation by age, gender, income, and climate zones. Results Of 23 included studies, 19 examined ambient temperature and 4 examined heatwaves. A 1°C increase in daily ambient temperature was associated with a 0.9% increase in morbidity-related mental health outcomes across varied healthcare encounters and diagnoses (relative risk = 1.009; 95% confidence interval: 1.003–1.016). Children aged 5–18 years were most vulnerable, with a 1.5% increased risk associated with high temperatures (1.005–1.026) and 25% increased risk during heatwaves (1.006–1.561). Climate-zone analyses showed that children and young people in humid subtropical and hot-summer continental zones had the highest risks from high temperatures (1.004–1.036 and 1.004–1.038, respectively). Conclusion High temperatures and heatwaves were associated with adverse mental health risks in children and young people. Data were lacking for some of the hottest and most socio-economically disadvantaged regions globally. Future research should prioritize these regions, explore mechanistic pathways, and generate disaggregated data.</description>
     </item>
     <item>
-      <title>Gestational age at birth and the risk of disability pension in early adulthood: a whole-population register study of people born in Finland in 1987–90</title>
-      <link>https://doi.org/10.1093/ije/dyag127</link>
-      <guid isPermaLink="false">10.1093/ije/dyag127</guid>
+      <title>The impact of improved air quality on low birth weight and health inequalities in Spain from 2010 to 2018</title>
+      <link>https://doi.org/10.1093/ije/dyag130</link>
+      <guid isPermaLink="false">10.1093/ije/dyag130</guid>
 
-      <dc:creator>Oksanen Päivi</dc:creator>
-      <dc:creator>Tikanmäki Marjaana</dc:creator>
-      <dc:creator>Alenius Suvi</dc:creator>
-      <dc:creator>Metsälä Johanna</dc:creator>
-      <dc:creator>Gissler Mika</dc:creator>
-      <dc:creator>Lahti-Pulkkinen Marius</dc:creator>
-      <dc:creator>Heikkilä Katriina</dc:creator>
-      <dc:creator>Räikkönen Katri</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Oksanen Päivi, Tikanmäki Marjaana, Alenius Suvi, Metsälä Johanna, Gissler Mika, Lahti-Pulkkinen Marius, Heikkilä Katriina, Räikkönen Katri, et al.
+      <dc:creator>Stefan Sieber</dc:creator>
+      <dc:creator>Joan Ballester</dc:creator>
+      <dc:creator>Mark Nieuwenhuijsen</dc:creator>
+      <dc:creator>Andrea Pozzer</dc:creator>
+      <dc:creator>Cathryn Tonne</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Stefan Sieber, Joan Ballester, Mark Nieuwenhuijsen, Andrea Pozzer, Cathryn Tonne
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag127
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag130
 
-Abstract: Abstract Background Preterm (&amp;amp;lt;37 weeks), early-term (37–38 weeks), or post-term (42 weeks) birth may elevate the risk of mental, neurodevelopmental, and cardiopulmonary disease in adulthood, potentially impacting work capacity. Methods We examined the association between gestational age and early disability pension (DP) among 228 572 Finnish individuals born between 1 January 1987 and 30 September 1990. We identified the first DP decision from ages 16 to ∼32 years (2003–20) by using linked birth and DP records, including timing and diagnosis. Adjusted hazard ratios (HRs) with 95% confidence intervals were estimated by using Cox regression, with full-term birth (39–41 weeks) as the reference. Results A total of 9224 individuals (4.0%) received DPs. Adjusted for sex and birth year, the HRs for DP by gestational age groups of 23–31, 32–33, 34–36, 37–38, and 42 weeks were 5.20 (4.52–5.99), 2.47 (2.04–3.00), 1.55 (1.41–1.70), 1.22 (1.16–1.29), and 1.12 (1.01–1.25). Among preterm adults, the most common diagnoses included cerebral palsy, intellectual disability, depression, and schizophrenia. For early-term and post-term adults, depression and schizophrenia were the most frequent. Conclusion Preterm, early-term, and post-term births were associated with early DPs, with slightly different diagnostic profiles. The risk was highest among those born very preterm (&amp;amp;lt;32 weeks). High-quality perinatological care is crucial regarding future careers and societal costs.</description>
+Abstract: Abstract Background We aimed to estimate the association of air pollution and term low birth weight (LBW) by maternal education and assess the distributional impact of meeting European Union and World Health Organization air pollution targets and universal tertiary maternal education on LBW cases. Methods We analyzed administrative data on 1 409 084 term births in Spain (2010–18) and high spatial resolution estimates of maternal particulate matter with a diameter of 2.5 micrometers or less (PM2.5) and nitrogen dioxide (NO2) exposure. Single-exposure distributed lag non-linear models were used to estimate exposure–response functions (ERF) for LBW (&amp;amp;lt;2500 g) overall and by maternal education. We then applied G-computation to estimate changes in LBW cases under counterfactual scenarios: target levels of PM2.5 (10 and 5 µg/m³) and NO2 (20 and 10 µg/m³), and universal tertiary maternal education. Results A 10 µg/m³ increase in PM2.5 and NO2 was associated with 6% [95% confidence interval (CI): 0%–11%] and 1% (95% CI: 0%–3%) higher odds of LBW. Relative to tertiary education, secondary and primary education were associated with increased LBW odds [1.32 (95% CI: 1.30–1.35); 1.76 (95% CI: 1.71–1.82)]. Meeting the 10 and 5 µg/m³ PM2.5 limits would have prevented 662 (95% CI: −4 to 1271) and 2032 (95% CI: −74 to 3900) LBW cases in 2010–18. Meeting the 20 and 10 µg/m³ NO2 limits would have prevented 432 (95% CI: −16 to 848) and 938 (95% CI: −50 to 1860) LBW cases in 2010–18. Universal attainment of tertiary education would have prevented over 9200 LBW cases. The primary maternal education group showed the highest shares of LBW cases, but they also experienced the largest relative reductions under air pollution intervention scenarios. Conclusions Expanding access to higher education may yield large reductions in the burden of LBW. Reducing air pollution exposure could also meaningfully reduce LBW burden, particularly among infants from lower educated mothers, and contribute to narrowing related health inequalities.</description>
     </item>
     <item>
       <title>Fractions and number of cancer cases attributable to excess body fat in South Korea</title>
@@ -1396,23 +1413,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Excess body fat (EBF) is a major cancer risk factor, yet its impact in Asians remains underexplored. We estimated the population-attributable fraction (PAF) of EBF for various cancers in Korea, comparing estimates based on body mass index (BMI) and waist circumference (WC). Methods Relative risks were derived from Korean National Health Insurance Service data of 4 441 103 adults screened in 2012, with 242 243 cancer cases identified through 2020. PAFs were calculated by using 2022 national obesity prevalence and cancer registry data. Sensitivity analyses were conducted among never smokers. Results The PAFs for 13 established obesity-associated cancers reached 5.48% (BMI) and 7.65% (WC) in men, 5.48% (BMI) and 6.68% (WC) in women aged &amp;amp;lt;50 years, and 6.86% (BMI) and 9.34% (WC) in women aged ≥50 years. This translates into 16 534.2 avoidable-cancer cases in 2022 via BMI and 22 486.9 via WC. In sensitivity analyses, positive associations between obesity and cancer risk were more pronounced among never smokers, suggesting that smoking may mask the true impact of EBF in the general population. Conclusion EBF significantly contributes to the cancer burden in Korea. Using BMI as the sole measure may substantially underestimate this burden compared with WC, which captures visceral adiposity more effectively. Our findings emphasize the importance of abdominal obesity management and support evidence-based public health policies for cancer prevention in Asian populations.</description>
     </item>
     <item>
-      <title>The impact of improved air quality on low birth weight and health inequalities in Spain from 2010 to 2018</title>
-      <link>https://doi.org/10.1093/ije/dyag130</link>
-      <guid isPermaLink="false">10.1093/ije/dyag130</guid>
-
-      <dc:creator>Stefan Sieber</dc:creator>
-      <dc:creator>Joan Ballester</dc:creator>
-      <dc:creator>Mark Nieuwenhuijsen</dc:creator>
-      <dc:creator>Andrea Pozzer</dc:creator>
-      <dc:creator>Cathryn Tonne</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Stefan Sieber, Joan Ballester, Mark Nieuwenhuijsen, Andrea Pozzer, Cathryn Tonne
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag130
-
-Abstract: Abstract Background We aimed to estimate the association of air pollution and term low birth weight (LBW) by maternal education and assess the distributional impact of meeting European Union and World Health Organization air pollution targets and universal tertiary maternal education on LBW cases. Methods We analyzed administrative data on 1 409 084 term births in Spain (2010–18) and high spatial resolution estimates of maternal particulate matter with a diameter of 2.5 micrometers or less (PM2.5) and nitrogen dioxide (NO2) exposure. Single-exposure distributed lag non-linear models were used to estimate exposure–response functions (ERF) for LBW (&amp;amp;lt;2500 g) overall and by maternal education. We then applied G-computation to estimate changes in LBW cases under counterfactual scenarios: target levels of PM2.5 (10 and 5 µg/m³) and NO2 (20 and 10 µg/m³), and universal tertiary maternal education. Results A 10 µg/m³ increase in PM2.5 and NO2 was associated with 6% [95% confidence interval (CI): 0%–11%] and 1% (95% CI: 0%–3%) higher odds of LBW. Relative to tertiary education, secondary and primary education were associated with increased LBW odds [1.32 (95% CI: 1.30–1.35); 1.76 (95% CI: 1.71–1.82)]. Meeting the 10 and 5 µg/m³ PM2.5 limits would have prevented 662 (95% CI: −4 to 1271) and 2032 (95% CI: −74 to 3900) LBW cases in 2010–18. Meeting the 20 and 10 µg/m³ NO2 limits would have prevented 432 (95% CI: −16 to 848) and 938 (95% CI: −50 to 1860) LBW cases in 2010–18. Universal attainment of tertiary education would have prevented over 9200 LBW cases. The primary maternal education group showed the highest shares of LBW cases, but they also experienced the largest relative reductions under air pollution intervention scenarios. Conclusions Expanding access to higher education may yield large reductions in the burden of LBW. Reducing air pollution exposure could also meaningfully reduce LBW burden, particularly among infants from lower educated mothers, and contribute to narrowing related health inequalities.</description>
-    </item>
-    <item>
       <title>Asbestos, open burning, and cancer risk in Gaza</title>
       <link>https://doi.org/10.1093/ije/dyag137</link>
       <guid isPermaLink="false">10.1093/ije/dyag137</guid>
@@ -1422,20 +1422,6 @@ Abstract: Abstract Background We aimed to estimate the association of air pollut
       <description>Authors: Fatima Nadeem
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag137</description>
-    </item>
-    <item>
-      <title>To whom do our observational studies apply? Representativeness and selection bias in cohort studies</title>
-      <link>https://doi.org/10.1093/ije/dyag150</link>
-      <guid isPermaLink="false">10.1093/ije/dyag150</guid>
-
-      <dc:creator>Haidong Lu</dc:creator>
-      <dc:creator>Zeyan Liew</dc:creator>
-      <dc:creator>Mollie E Wood</dc:creator>
-      <dc:creator>Bhramar Mukherjee</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Haidong Lu, Zeyan Liew, Mollie E Wood, Bhramar Mukherjee
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag150</description>
     </item>
     <item>
       <title>Cohort profile: The Japan Environment and Children’s Study</title>
@@ -1456,6 +1442,38 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag146</description>
     </item>
     <item>
+      <title>To whom do our observational studies apply? Representativeness and selection bias in cohort studies</title>
+      <link>https://doi.org/10.1093/ije/dyag150</link>
+      <guid isPermaLink="false">10.1093/ije/dyag150</guid>
+
+      <dc:creator>Haidong Lu</dc:creator>
+      <dc:creator>Zeyan Liew</dc:creator>
+      <dc:creator>Mollie E Wood</dc:creator>
+      <dc:creator>Bhramar Mukherjee</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Haidong Lu, Zeyan Liew, Mollie E Wood, Bhramar Mukherjee
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag150</description>
+    </item>
+    <item>
+      <title>Cohort Profile: The North East London Diabetes Study (NELDS)</title>
+      <link>https://doi.org/10.1093/ije/dyag117</link>
+      <guid isPermaLink="false">10.1093/ije/dyag117</guid>
+
+      <dc:creator>Abraham Olvera-Barrios</dc:creator>
+      <dc:creator>Alasdair N Warwick</dc:creator>
+      <dc:creator>Matilda Pitt</dc:creator>
+      <dc:creator>Zeinab Schaefer</dc:creator>
+      <dc:creator>Schanhave Santhirasekaran</dc:creator>
+      <dc:creator>Ryan Chambers</dc:creator>
+      <dc:creator>Louis Bolter</dc:creator>
+      <dc:creator>John Anderson</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Abraham Olvera-Barrios, Alasdair N Warwick, Matilda Pitt, Zeinab Schaefer, Schanhave Santhirasekaran, Ryan Chambers, Louis Bolter, John Anderson, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag117</description>
+    </item>
+    <item>
       <title>Association of severe maternal morbidity with epilepsy diagnosis in children: a population-based birth cohort study</title>
       <link>https://doi.org/10.1093/ije/dyag097</link>
       <guid isPermaLink="false">10.1093/ije/dyag097</guid>
@@ -1472,6 +1490,17 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag097
 
 Abstract: Abstract Background Severe maternal morbidity (SMM) is associated with adverse perinatal outcomes. However, its association with longer-term offspring outcomes, including neurodevelopment disorders, is poorly understood. This study aims to examine the association between SMM and the risk of epilepsy in offspring. Methods A retrospective birth cohort study of all singleton hospital births between 2002 and 2018 in Ontario, Canada was followed up until March 2020. SMM (20 weeks’ gestation to 42 days postpartum) and epilepsy diagnosed before 18 years of age in offspring were identified by using administrative health records. The risk of epilepsy associated with SMM was estimated by using Cox proportional hazard models and the robustness of the results was examined by using quantitative bias analyses (outcome and exposure misclassification and residual or unmeasured confounding). Results Of 2 060 668 children with a median follow-up time of 10 years, 40 830 (2%) were exposed to severe maternal morbidity and 16 992 (0.8%) were diagnosed with epilepsy (1.2% among those exposed to SMM and 0.8% among those unexposed). After adjustment for maternal, birth, and socioeconomic characteristics, children exposed to SMM had a 45% increased risk of epilepsy diagnosis compared with those unexposed [hazard ratio (HR) 1.45, 95% confidence interval (CI) 1.33–1.59]. This increase was similar across the subtypes of SMM. Estimates accounting for potential misclassification biases and residual or unmeasured confounding (by obesity or maternal education) showed increased risks (HR 1.91, 95% CI 1.50–2.42). Conclusion An increased risk of epilepsy was found in children exposed to SMM, suggesting a perinatal etiology and underlining the importance of ensuring a healthy pregnancy.</description>
+    </item>
+    <item>
+      <title>A skills-first revival for professional public health education</title>
+      <link>https://doi.org/10.1093/ije/dyag138</link>
+      <guid isPermaLink="false">10.1093/ije/dyag138</guid>
+
+      <dc:creator>Charles C Branas</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Charles C Branas
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag138</description>
     </item>
     <item>
       <title>Mechanisms underlying the effect of adiposity on risk of post-menopausal oestrogen receptor-positive breast cancer: an interventional mediation analysis</title>
@@ -1492,35 +1521,6 @@ Abstract: Abstract Background Severe maternal morbidity (SMM) is associated with
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag141
 
 Abstract: Abstract Background Adiposity increases the risk of post-menopausal oestrogen receptor (ER)-positive breast cancer. Inflammation, insulin, and insulin-like growth factors and sex-steroid hormones may explain this effect. We performed interventional mediation analysis to estimate the effects of hypothetical interventions targeting these pathways in females with obesity on reducing their excess risk of post-menopausal ER-positive breast cancer relative to females with normal weight. Methods The mediation analysis included 1260 post-menopausal females (352 with ER-positive breast cancer) from a case–cohort within the Melbourne Collaborative Cohort Study. A Monte Carlo g-computation approach with non-parametric bootstrapping was used to estimate the risk differences (RDs) and 95% confidence intervals (CIs) for interventional direct and indirect effects of hypothetical interventions that shift the joint distribution of inflammation, insulin, and sex-steroid hormone biomarkers in females with obesity to the levels observed in females with normal weight. Results The estimated RD for the total effect of obesity relative to normal weight on post-menopausal ER-positive breast cancer was 16.1 (95% CI: 3.3, 30.4) per 1000 females. The RDs for indirect effects through inflammation, insulin, and sex-steroid hormones were 16.4 (95% CI: 4.3, 27.2), −8.4 (95% CI: −23.4, 1.2), and 13.0 (95% CI: 3.3, 23.7) per 1000 females, respectively. The − RD for the direct effect not via any of these three pathways was −5.3 (95% CI: −17.4, 10.6) per 1000 females. Conclusion Inflammation and sex-steroid hormones, but not insulin, contributed to the detrimental effect of adiposity on the risk of post-menopausal ER-positive breast cancer. Interventions targeting these pathways may reduce the risk for females with obesity.</description>
-    </item>
-    <item>
-      <title>A skills-first revival for professional public health education</title>
-      <link>https://doi.org/10.1093/ije/dyag138</link>
-      <guid isPermaLink="false">10.1093/ije/dyag138</guid>
-
-      <dc:creator>Charles C Branas</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Charles C Branas
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag138</description>
-    </item>
-    <item>
-      <title>Cohort Profile: The North East London Diabetes Study (NELDS)</title>
-      <link>https://doi.org/10.1093/ije/dyag117</link>
-      <guid isPermaLink="false">10.1093/ije/dyag117</guid>
-
-      <dc:creator>Abraham Olvera-Barrios</dc:creator>
-      <dc:creator>Alasdair N Warwick</dc:creator>
-      <dc:creator>Matilda Pitt</dc:creator>
-      <dc:creator>Zeinab Schaefer</dc:creator>
-      <dc:creator>Schanhave Santhirasekaran</dc:creator>
-      <dc:creator>Ryan Chambers</dc:creator>
-      <dc:creator>Louis Bolter</dc:creator>
-      <dc:creator>John Anderson</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Abraham Olvera-Barrios, Alasdair N Warwick, Matilda Pitt, Zeinab Schaefer, Schanhave Santhirasekaran, Ryan Chambers, Louis Bolter, John Anderson, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag117</description>
     </item>
     <item>
       <title>Colorectal cancer screening participation in childhood cancer survivors: a report from the French Childhood Cancer Survivors Study (FCCSS)</title>

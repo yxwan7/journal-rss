@@ -5,8 +5,40 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:48:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:53:43 +0000</lastBuildDate>
 
+    <item>
+      <title>Clinical usability of an explainable AI decision support tool and evaluation of multimodal models in NSCLC</title>
+      <link>https://doi.org/10.1038/s41591-026-04488-2</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04488-2</guid>
+
+      <dc:creator>Arsela Prelaj</dc:creator>
+      <dc:creator>Vanja Miskovic</dc:creator>
+      <dc:creator>Matteo Sacco</dc:creator>
+      <dc:creator>Alberto Ferrarin</dc:creator>
+      <dc:creator>Cristina Maria Licciardello</dc:creator>
+      <dc:creator>Leonardo Provenzano</dc:creator>
+      <dc:creator>Margherita Favali</dc:creator>
+      <dc:creator>Ludovica Lerma</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Arsela Prelaj, Vanja Miskovic, Matteo Sacco, Alberto Ferrarin, Cristina Maria Licciardello, Leonardo Provenzano, Margherita Favali, Ludovica Lerma, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Despite a decade in, immunotherapy (IO) treatment selection in non-small cell lung cancer (NSCLC) remains largely guided by subgroup analyses and imperfect programmed death ligand 1 (PD-L1) and clinical scores. To our knowledge, I 3 LUNG ( NCT05537922 ) is currently the largest international, real-world, multimodal, artificial intelligence (AI)-based study, enrolling 2,396 patients. We integrated real-world clinical and blood (CB) data, computed tomography (CT) images, digital pathology (DP), and genomics into machine learning early fusion (MLEF) and deep learning intermediate fusion (DLIF) models. Machine learning (ML) and deep learning (DL) CB-only models achieved consistent performance across outcomes with area under the curve (AUC) up to 0.77 in the test (TEST) set. Performance drop in external validation (EXVAL) likely reflects population differences (AUC range: 0.55–0.72). AI models significantly surpassed PD-L1, Eastern Cooperative Oncology Group performance status (ECOG PS), neutrophil-to-lymphocyte ratio (NLR), lactate dehydrogenase (LDH) and Lung Immune Prognostic Index (LIPI) score in the independent TEST set. The clinical usability study showed that lung expert and nonexpert physicians improved their prediction with the explainable AI (XAI) ML CB-only based tool. Although multimodal integration with MLEF (CB+CT+DP) was associated with higher performance, its incremental benefit remains uncertain, not translated in TEST and EXVAL. The I 3 LUNG project is a pioneering framework showing the clinical usefulness of AI tools. A prospective validation of the decision support system (both CB and multimodal) is currently undergoing in more than 2,000 patients.</description>
+    </item>
+    <item>
+      <title>A multimodal murmuration for immunotherapy</title>
+      <link>https://doi.org/10.1038/s41591-026-04587-0</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04587-0</guid>
+
+      <dc:creator>Raquel Perez-Lopez</dc:creator>
+      <dc:creator>Mireia Crispin-Ortuzar</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Raquel Perez-Lopez, Mireia Crispin-Ortuzar
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>Teclistamab versus lenalidomide-dexamethasone in high-risk smoldering multiple myeloma: a randomized phase 2 trial</title>
       <link>https://doi.org/10.1038/s41591-026-04642-w</link>
@@ -349,14 +381,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>Gene alteration in human brain suggests genetic and epigenetic roots of major depression</title>
-      <link>https://doi.org/10.1038/s41591-026-04682-2</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04682-2</guid>
-
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>Reply to: Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison</title>
       <link>https://doi.org/10.1038/s41591-026-04637-7</link>
       <guid isPermaLink="false">10.1038/s41591-026-04637-7</guid>
@@ -380,6 +404,14 @@ Journal: Nature Medicine</description>
       <description>Authors: Brett Beaulieu-Jones, Shamim Nemati
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Gene alteration in human brain suggests genetic and epigenetic roots of major depression</title>
+      <link>https://doi.org/10.1038/s41591-026-04682-2</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04682-2</guid>
+
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine</description>
     </item>
     <item>
       <title>Induced proximity comes of age</title>
@@ -1510,28 +1542,6 @@ Abstract: Abstract Daraxonrasib is an orally bioavailable RAS(ON) multi-selectiv
 Journal: Nature Medicine
 
 Abstract: Abstract Recent rapid progress in the field of computational pathology has been enabled by foundation models. These models are beginning to move beyond encoding image patches toward whole-slide understanding, but their clinical utility remains limited. Here we present PRISM2, a multimodal slide-level foundation model trained on 2.3 million whole-slide images and 14 million question−answer pairs derived from 700,000 pathology reports. Through clinical dialogue supervision, PRISM2 aligns histomorphology with diagnostic reasoning, yielding representations that support both prompt-based inference and transferable embeddings for downstream tasks. With prompt-based inference, PRISM2 achieves or exceeds ( P &amp;lt; 0.05) the balanced accuracy of clinical-grade products calibrated for cancer detection in the prostate, breast and breast lymph node. Additionally, across comprehensive diagnostic, biomarker and survival benchmarks, PRISM2 embeddings never statistically underperform previous foundation models via linear probing ( P &amp;lt; 0.05). Furthermore, task-specific fine-tuning on survival prediction outperforms training from scratch on the same large survival dataset. PRISM2 demonstrates how language-supervised pretraining provides a scalable, clinically grounded signal for generalizable pathology representations, bridging human diagnostic reasoning and foundation model performance.</description>
-    </item>
-    <item>
-      <title>‘Heading’ the ball linked to spikes in neural damage biomarkers</title>
-      <link>https://doi.org/10.1038/d41591-026-00039-x</link>
-      <guid isPermaLink="false">10.1038/d41591-026-00039-x</guid>
-
-      <dc:creator>Karen O’Leary</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Karen O’Leary
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Humanoid robots perform successful surgery in animals</title>
-      <link>https://doi.org/10.1038/d41591-026-00038-y</link>
-      <guid isPermaLink="false">10.1038/d41591-026-00038-y</guid>
-
-      <dc:creator>Karen O’Leary</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Karen O’Leary
-
-Journal: Nature Medicine</description>
     </item>
   </channel>
 </rss>
