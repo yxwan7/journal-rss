@@ -5,8 +5,36 @@
     <link>https://www.nature.com/nataging/</link>
     <description>Latest journal articles for Nature Aging</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 11:53:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:49:21 +0000</lastBuildDate>
 
+    <item>
+      <title>A microprotein atlas of the human frontal cortex in Alzheimer’s disease</title>
+      <link>https://doi.org/10.1038/s43587-026-01207-x</link>
+      <guid isPermaLink="false">10.1038/s43587-026-01207-x</guid>
+
+      <dc:creator>Brendan Miller</dc:creator>
+      <dc:creator>Eduardo Vieira de Souza</dc:creator>
+      <dc:creator>Calvin Lau</dc:creator>
+      <dc:creator>Joan M. Vaughan</dc:creator>
+      <dc:creator>Victor J. Pai</dc:creator>
+      <dc:creator>Servando Giraldez</dc:creator>
+      <dc:creator>Andréa Rocha</dc:creator>
+      <dc:creator>Jolene K. Diedrich</dc:creator>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Brendan Miller, Eduardo Vieira de Souza, Calvin Lau, Joan M. Vaughan, Victor J. Pai, Servando Giraldez, Andréa Rocha, Jolene K. Diedrich, et al.
+
+Journal: Nature Aging
+
+Abstract: Abstract Understanding the molecular basis of neurodegeneration requires a comprehensive map of the genome’s protein-coding output. Although thousands of small open reading frames (ORFs) are translated in the human brain, proteomic evidence for their encoded microproteins (MPs) (≤150 amino acids (aa)) remains limited. Here, we present a brain MP atlas that integrates transcriptomics, mass spectrometry and deep-learning-predicted spectra across more than 600 postmortem frontal cortex samples with and without Alzheimer’s disease (AD). We identified 1,067 MPs absent from reviewed UniProtKB entries with high-confidence spectral support. A subset is differentially expressed in AD independently of the annotated main ORF at the same locus. A small ORF expressed by MKKS encodes a 63-amino-acid MP that is the locus’s predominant translation product and is downregulated in AD; its loss impairs microglial mitochondrial respiration, implicating it in microglial bioenergetics. This atlas expands the annotated brain proteome and provides a resource for studying MPs in aging and neurodegeneration.</description>
+    </item>
+    <item>
+      <title>Large-scale mapping of microproteins in the aged human brain</title>
+      <link>https://doi.org/10.1038/s43587-026-01215-x</link>
+      <guid isPermaLink="false">10.1038/s43587-026-01215-x</guid>
+
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Aging</description>
+    </item>
     <item>
       <title>Fibronectin mediates APOE4-driven blood–brain barrier dysfunction in Alzheimer’s disease</title>
       <link>https://doi.org/10.1038/s43587-026-01204-0</link>
@@ -582,6 +610,20 @@ Journal: Nature Aging; Volume: 6; Issue: 8; Pages: 1684-1694</description>
 Journal: Nature Aging; Volume: 6; Issue: 8; Pages: 1647-1666</description>
     </item>
     <item>
+      <title>Bioengineering strategies to interrogate and modulate the aging immune system</title>
+      <link>https://doi.org/10.1038/s43587-026-01187-y</link>
+      <guid isPermaLink="false">10.1038/s43587-026-01187-y</guid>
+
+      <dc:creator>Janko Ž. Nikolich</dc:creator>
+      <dc:creator>Matthew T. Wolf</dc:creator>
+      <dc:creator>Rebecca R. Pompano</dc:creator>
+      <dc:creator>Katharina Maisel</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Janko Ž. Nikolich, Matthew T. Wolf, Rebecca R. Pompano, Katharina Maisel
+
+Journal: Nature Aging; Volume: 6; Issue: 8; Pages: 1554-1564</description>
+    </item>
+    <item>
       <title>Senotypes define the diverse landscape of senescent cells</title>
       <link>https://doi.org/10.1038/s43587-026-01148-5</link>
       <guid isPermaLink="false">10.1038/s43587-026-01148-5</guid>
@@ -598,20 +640,6 @@ Journal: Nature Aging; Volume: 6; Issue: 8; Pages: 1647-1666</description>
       <description>Authors: Marissa J. Schafer, Nathan Basisty, Ann V. Hertzel, Alexandra N. Rindone, Jennifer H. Elisseeff, Vidyani Suryadevara, Constantin Aliferis, Paul D. Robbins, et al.
 
 Journal: Nature Aging</description>
-    </item>
-    <item>
-      <title>Bioengineering strategies to interrogate and modulate the aging immune system</title>
-      <link>https://doi.org/10.1038/s43587-026-01187-y</link>
-      <guid isPermaLink="false">10.1038/s43587-026-01187-y</guid>
-
-      <dc:creator>Janko Ž. Nikolich</dc:creator>
-      <dc:creator>Matthew T. Wolf</dc:creator>
-      <dc:creator>Rebecca R. Pompano</dc:creator>
-      <dc:creator>Katharina Maisel</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Janko Ž. Nikolich, Matthew T. Wolf, Rebecca R. Pompano, Katharina Maisel
-
-Journal: Nature Aging; Volume: 6; Issue: 8; Pages: 1554-1564</description>
     </item>
     <item>
       <title>The SenNet Collection</title>
@@ -1531,30 +1559,6 @@ Journal: Nature Aging; Volume: 6; Issue: 5; Pages: 956-956</description>
       <description>Authors: Hannah Walters
 
 Journal: Nature Aging; Volume: 6; Issue: 5; Pages: 957-957</description>
-    </item>
-    <item>
-      <title>Mitigating the Hawthorne effect in aging research</title>
-      <link>https://doi.org/10.1038/s43587-026-01126-x</link>
-      <guid isPermaLink="false">10.1038/s43587-026-01126-x</guid>
-
-      <dc:creator>David Furman</dc:creator>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: David Furman
-
-Journal: Nature Aging; Volume: 6; Issue: 5; Pages: 951-955</description>
-    </item>
-    <item>
-      <title>The aging extracellular matrix as a missing link in senescent cell accumulation and persistence</title>
-      <link>https://doi.org/10.1038/s43587-026-01127-w</link>
-      <guid isPermaLink="false">10.1038/s43587-026-01127-w</guid>
-
-      <dc:creator>Natalia Hernández-Bellido</dc:creator>
-      <dc:creator>Aida Perramon-Güell</dc:creator>
-      <dc:creator>Carlos Anerillas</dc:creator>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Natalia Hernández-Bellido, Aida Perramon-Güell, Carlos Anerillas
-
-Journal: Nature Aging; Volume: 6; Issue: 8; Pages: 1537-1541</description>
     </item>
   </channel>
 </rss>

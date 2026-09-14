@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 11:53:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:48:09 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -83,20 +83,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Increased childhood adiposity contributes to higher type 2 diabetes (T2D) risk, but the underlying mechanisms remain unclear. Furthermore, whether these mechanistic pathways are shared across ethnic groups has not been explored. Methods We conducted a two-step Mendelian randomization (MR) using European-based summary statistics from genome-wide association studies of childhood body mass index (BMI) (n = 61 111), adulthood proteomics (n = 35 559), and later life T2D (cases: 242 283; controls: 1 569 734). We also conducted a recall-by-genotype (RbG) study in a Chinese birth cohort (n = 250) to assess whether childhood BMI was associated with the identified proteomic signals in an East Asian population. Analyses included multi-instrument MR methods (inverse variance weighted and MR-Egger) and, for single-instrument proteins, cis-MR using the Wald ratio, with colocalization validation. Multiple testing was adjusted using false discovery rate (FDR). Results Higher genetically predicted childhood BMI was associated with 1299 proteins (FDR-adjusted P &amp;amp;lt; .05), of which 36 proteins were associated with higher T2D risk. Six proteins were supported by colocalization (PPH4 &amp;amp;gt; 80%). Genetically predicted higher childhood BMI was positively associated with GCKR, RBP1, ENTPD6, and GST A1-1, and inversely associated with PRSS27 and SHBG. The proportion of the BMI-T2D effect mediated by these proteins ranged from 1.87% to 12.92%. However, only SHBG was replicated in Asians in the RbG study. Conclusions Our study identified putative actionable proteins that could reduce the elevated T2D risk attributable to childhood adiposity in Europeans, but their relevance in Asian populations requires further investigation.</description>
     </item>
     <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
-
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
-
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
-    </item>
-    <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
       <link>https://doi.org/10.1093/ije/dyag176</link>
       <guid isPermaLink="false">10.1093/ije/dyag176</guid>
@@ -113,6 +99,20 @@ Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag176
 
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
+    </item>
+    <item>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>Negative controls and how to use them: a guidance paper</title>
@@ -225,6 +225,22 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag200</description>
     </item>
     <item>
+      <title>Examining the role of insulin-like growth factor 1 in the pathophysiology of carpal tunnel syndrome: a Mendelian randomization study</title>
+      <link>https://doi.org/10.1093/ije/dyag173</link>
+      <guid isPermaLink="false">10.1093/ije/dyag173</guid>
+
+      <dc:creator>Alex J Wood</dc:creator>
+      <dc:creator>Catherine E Lovegrove</dc:creator>
+      <dc:creator>Dominic Furniss</dc:creator>
+      <dc:creator>Akira Wiberg</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alex J Wood, Catherine E Lovegrove, Dominic Furniss, Akira Wiberg
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
+
+Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
+    </item>
+    <item>
       <title>Adiposity and risk of breast cancer in 280 000 Chinese women: a prospective cohort study</title>
       <link>https://doi.org/10.1093/ije/dyag155</link>
       <guid isPermaLink="false">10.1093/ije/dyag155</guid>
@@ -245,35 +261,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Adiposity is associated with increased risk of breast cancer in post-menopausal women, while the association appears to be the inverse among premenopausal women in Western populations, but is unclear for Chinese women. Methods Using data on 284 538 women with no history of cancer, hysterectomy, oophorectomy, or breast surgery at baseline in 2004–8 from the China Kadoorie Biobank (a prospective cohort study), Cox regression was used to estimate adjusted hazard ratios (HRs) for breast cancer and its subtypes by measured body mass index (BMI) and other adiposity measures (waist circumference, fat percentage, waist–hip ratio, fat mass) and by self-reported BMI at age 25 years. Results Mean BMI was 23.8 (3.5 SD) kg/m2 at baseline (mean age 51.4 years) and 21.9 (2.7 SD) kg/m2 at age 25 years. During 10 years of follow-up, there were 2379 incident breast cancer cases. Higher BMI was associated with a higher risk of breast cancer in women who were post-menopausal [HR = 1.35, 95% confidence interval (CI) 1.24–1.47] and premenopausal (HR = 1.13, 95% CI 1.03–1.24) at baseline, but not when censoring at age 50 years to capture mainly premenopausal cancers. Among post-menopausal women, BMI was associated with oestrogen-receptor positive (ER ) (HR = 1.47, 95% CI 1.24–1.74), but not with oestrogen-receptor negative (ER−) breast cancer (HR = 1.02, 95% CI 0.75–1.37). Waist circumference and fat percentage were associated with a higher risk of breast cancer. Conclusion In this cohort of Chinese women, higher levels of general and central adiposity were associated with a higher risk of breast cancer, in both women who were premenopausal and women who were post-menopausal at baseline. Among post-menopausal women, adiposity was associated with ER but not ER − breast cancer.</description>
     </item>
     <item>
-      <title>Examining the role of insulin-like growth factor 1 in the pathophysiology of carpal tunnel syndrome: a Mendelian randomization study</title>
-      <link>https://doi.org/10.1093/ije/dyag173</link>
-      <guid isPermaLink="false">10.1093/ije/dyag173</guid>
-
-      <dc:creator>Alex J Wood</dc:creator>
-      <dc:creator>Catherine E Lovegrove</dc:creator>
-      <dc:creator>Dominic Furniss</dc:creator>
-      <dc:creator>Akira Wiberg</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alex J Wood, Catherine E Lovegrove, Dominic Furniss, Akira Wiberg
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
-
-Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
-      <link>https://doi.org/10.1093/ije/dyag171</link>
-      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
-
-      <dc:creator>Marco Aurélio Peres</dc:creator>
-      <dc:creator>Pinyan Liu</dc:creator>
-      <dc:creator>John Rong Hao Tay</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
-    </item>
-    <item>
       <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
       <link>https://doi.org/10.1093/ije/dyag177</link>
       <guid isPermaLink="false">10.1093/ije/dyag177</guid>
@@ -292,6 +279,19 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag177
 
 Abstract: Abstract Background Our goal was to evaluate the relationship between prenatal fluoride exposure and pregnancy outcomes. Methods We measured urinary fluoride collected during the second trimester among pregnant people recruited from California and Illinois from 2014 to 2020 (N = 949). We evaluated risk differences (RDs) of preterm birth (PTB), small-for-gestational age (SGA), large-for-gestational age (LGA), gestational diabetes, and differences in birthweight, birthweight-for-gestational age z-scores, and gestational age associated with a 0.1 mg/l increase in fluoride using linear regression to estimate effects on the additive scale. We also used modified treatment policies with machine learning to estimate the effects of hypothetical interventions to reduce urinary fluoride by 0.1 and 0.5 mg/l on pregnancy outcomes. In the Illinois cohort, we estimated effects by trimester. Results In our main analyses, we found no associations between urinary fluoride levels and pregnancy outcomes. For instance, for a 0.1 mg/l increase in fluoride, we saw no change in the risk of PTB, SGA, or gestational diabetes. We also found no differences associated with hypothetical reductions of prenatal fluoride by 0.1 mg/l or 0.5 mg/l for any outcomes. In the trimester-specific analyses for Illinois participants, we found increased LGA risk during the first (RD = 0.004, 95% CI −0.001, 0.009) and third trimesters (RD = 0.007, 95% CI 0.001, 0.012), and reduced LGA risk during the second trimester (RD = −0.006, 95% CI −0.011, 0.000), associated with 0.1 mg/l higher urinary fluoride. Conclusions Prenatal fluoride exposure does not appear to affect pregnancy outcomes, but preliminary evidence suggests that higher fluoride levels may affect the risk of LGA depending on timing of exposure during pregnancy.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
+      <link>https://doi.org/10.1093/ije/dyag171</link>
+      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
+
+      <dc:creator>Marco Aurélio Peres</dc:creator>
+      <dc:creator>Pinyan Liu</dc:creator>
+      <dc:creator>John Rong Hao Tay</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
     </item>
     <item>
       <title>Total moderate-to-vigorous physical activity across the adult life course and the risk of invasive ovarian cancer</title>
@@ -1413,17 +1413,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Excess body fat (EBF) is a major cancer risk factor, yet its impact in Asians remains underexplored. We estimated the population-attributable fraction (PAF) of EBF for various cancers in Korea, comparing estimates based on body mass index (BMI) and waist circumference (WC). Methods Relative risks were derived from Korean National Health Insurance Service data of 4 441 103 adults screened in 2012, with 242 243 cancer cases identified through 2020. PAFs were calculated by using 2022 national obesity prevalence and cancer registry data. Sensitivity analyses were conducted among never smokers. Results The PAFs for 13 established obesity-associated cancers reached 5.48% (BMI) and 7.65% (WC) in men, 5.48% (BMI) and 6.68% (WC) in women aged &amp;amp;lt;50 years, and 6.86% (BMI) and 9.34% (WC) in women aged ≥50 years. This translates into 16 534.2 avoidable-cancer cases in 2022 via BMI and 22 486.9 via WC. In sensitivity analyses, positive associations between obesity and cancer risk were more pronounced among never smokers, suggesting that smoking may mask the true impact of EBF in the general population. Conclusion EBF significantly contributes to the cancer burden in Korea. Using BMI as the sole measure may substantially underestimate this burden compared with WC, which captures visceral adiposity more effectively. Our findings emphasize the importance of abdominal obesity management and support evidence-based public health policies for cancer prevention in Asian populations.</description>
     </item>
     <item>
-      <title>Asbestos, open burning, and cancer risk in Gaza</title>
-      <link>https://doi.org/10.1093/ije/dyag137</link>
-      <guid isPermaLink="false">10.1093/ije/dyag137</guid>
-
-      <dc:creator>Fatima Nadeem</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fatima Nadeem
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag137</description>
-    </item>
-    <item>
       <title>Cohort profile: The Japan Environment and Children’s Study</title>
       <link>https://doi.org/10.1093/ije/dyag146</link>
       <guid isPermaLink="false">10.1093/ije/dyag146</guid>
@@ -1454,6 +1443,17 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Haidong Lu, Zeyan Liew, Mollie E Wood, Bhramar Mukherjee
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag150</description>
+    </item>
+    <item>
+      <title>Asbestos, open burning, and cancer risk in Gaza</title>
+      <link>https://doi.org/10.1093/ije/dyag137</link>
+      <guid isPermaLink="false">10.1093/ije/dyag137</guid>
+
+      <dc:creator>Fatima Nadeem</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fatima Nadeem
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag137</description>
     </item>
     <item>
       <title>Cohort Profile: The North East London Diabetes Study (NELDS)</title>
