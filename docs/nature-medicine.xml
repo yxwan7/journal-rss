@@ -5,8 +5,56 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:45:44 +0000</lastBuildDate>
 
+    <item>
+      <title>On-premise medical AI agents for reliable clinical decision-making</title>
+      <link>https://doi.org/10.1038/s41591-026-04609-x</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04609-x</guid>
+
+      <dc:creator>Li Zhang</dc:creator>
+      <dc:creator>Georg Wölflein</dc:creator>
+      <dc:creator>Dyke Ferber</dc:creator>
+      <dc:creator>Junhao Liang</dc:creator>
+      <dc:creator>Zunamys I. Carrero</dc:creator>
+      <dc:creator>Xuewei Wu</dc:creator>
+      <dc:creator>Julien Vibert</dc:creator>
+      <dc:creator>Jan Clusmann</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Li Zhang, Georg Wölflein, Dyke Ferber, Junhao Liang, Zunamys I. Carrero, Xuewei Wu, Julien Vibert, Jan Clusmann, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Autonomous clinical artificial intelligence (AI) agents powered by large language models (LLMs), meaning systems that can complete a diagnostic workflow without continuous human input, are increasingly capable of supporting complex reasoning and decision-making. Clinical translation, however, remains limited by two unmet requirements: institutionally governed deployment and reliable decision-time uncertainty estimation. Here we developed and evaluated a fully on-premise clinical agent that couples local operational control with a multi-perspective reliability framework to support selective autonomy. Across two Medical Information Mart for Intensive Care IV (MIMIC-IV)-derived benchmarks, the agent achieved 90.04% accuracy on a seven-disease task and 83.8% accuracy on a four-disease task, approaching a cloud baseline on the primary benchmark. To assess decision-time reliability, we quantified internal-likelihood, language-based and behavioral-stability measures for diagnosis and reasoning. Diagnostic behavioral consistency provided the strongest discrimination of correctness (area under the curve (AUC) = 0.860) and remained informative under stress testing (AUC = 0.875). At a consistency threshold of 0.90, 49.4% of cases were retained at 98.9% diagnostic accuracy. These findings support a practical framework for institutionally governed clinical agents in which decision-time reliability signals identify a lower-risk subset for autonomous handling and defer the remainder for review.</description>
+    </item>
+    <item>
+      <title>Broadly neutralizing antibodies in adult males living with HIV undergoing analytical treatment interruption: secondary and exploratory outcomes of the phase II randomized controlled RIO trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04644-8</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04644-8</guid>
+
+      <dc:creator>Marcilio J. Fumagalli</dc:creator>
+      <dc:creator>Anna Kaczynska</dc:creator>
+      <dc:creator>Marius Allombert</dc:creator>
+      <dc:creator>Ágata Lopes-Ribeiro</dc:creator>
+      <dc:creator>Mariângela de Oliveira Silva</dc:creator>
+      <dc:creator>Brianna J. Hernandez</dc:creator>
+      <dc:creator>Christy Lavine</dc:creator>
+      <dc:creator>Sebastian M. Espinosa</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marcilio J. Fumagalli, Anna Kaczynska, Marius Allombert, Ágata Lopes-Ribeiro, Mariângela de Oliveira Silva, Brianna J. Hernandez, Christy Lavine, Sebastian M. Espinosa, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract RIO is an ongoing phase 2 double-blind randomized placebo-controlled human trial. Sixty-eight adult men living with human immunodeficiency virus (HIV), who were predominantly white and initiated antiretroviral therapy (ART) during primary or early-stage infection, underwent treatment interruption and were randomly assigned to a group receiving one or two doses of two long-acting broadly neutralizing antibodies (bNAbs) 3BNC117-LS and 10-1074-LS (arm A, n = 34) or saline (arm B, n = 34). The primary clinical study met its primary endpoint and was published elsewhere, demonstrating significantly delayed viral rebound and prolonged ART-free control in participants receiving bNAbs compared with placebo. The infusions were generally safe and well tolerated, with no study-related serious adverse events reported. The most common reported treatment-related adverse events were fatigue, lethargy and somnolence. Here we report on prespecified secondary analyses examining viral rebound, antibody sensitivity and reservoir dynamics, as well as prespecified exploratory analyses of rebound virus evolution and autologous antibody activity. Preinfusion reservoir measurements showed low levels of intact proviral HIV-1 DNA in circulating CD4 + T cells in both arms. The rebounding viruses in participants who received the antibodies showed significant selection for resistance to 10-1074-LS but not to 3BNC117-LS. Notably, there was a significant correlation between greater initial reservoir sensitivity to autologous antibodies and 10-1074 and time to rebound. Finally, comparison of preinfusion and prerebound HIV-1 proviral reservoir showed a decrease in intact but not defective proviruses in arm A but not in arm B. Together, these findings suggest that baseline humoral immunity and prolonged exposure to LS-bNAbs jointly shape post-treatment viral rebound dynamics in individuals who initiate ART during primary infection. ClinicalTrials.gov identifier: NCT04319367 .</description>
+    </item>
+    <item>
+      <title>De novo mutations bridge parental reproductive factors and offspring health</title>
+      <link>https://doi.org/10.1038/s41591-026-04676-0</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04676-0</guid>
+
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>Rethinking the global health system for a new international order</title>
       <link>https://doi.org/10.1038/s41591-026-04622-0</link>
@@ -179,24 +227,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>A bispecific CD3×CD19 antibody for systemic lupus erythematosus: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04572-7</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04572-7</guid>
-
-      <dc:creator>Jason Xu</dc:creator>
-      <dc:creator>Chunli Mei</dc:creator>
-      <dc:creator>Xin Guan</dc:creator>
-      <dc:creator>Rong Du</dc:creator>
-      <dc:creator>Bin Wu</dc:creator>
-      <dc:creator>Di Wu</dc:creator>
-      <dc:creator>Mengjiao Li</dc:creator>
-      <dc:creator>Jingna Li</dc:creator>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jason Xu, Chunli Mei, Xin Guan, Rong Du, Bin Wu, Di Wu, Mengjiao Li, Jingna Li, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>Computable longitudinal patient journeys from structured and unstructured EHR data</title>
       <link>https://doi.org/10.1038/s41591-026-04695-x</link>
       <guid isPermaLink="false">10.1038/s41591-026-04695-x</guid>
@@ -211,6 +241,24 @@ Journal: Nature Medicine</description>
       <dc:creator>Charles B. Cairns</dc:creator>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <description>Authors: Edward Kim, Richard Foty, Avnesh S. Thakor, Jay S. Skyler, Lucy F. Robinson, James D. Park, Monica Kraft, Charles B. Cairns, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>A bispecific CD3×CD19 antibody for systemic lupus erythematosus: a phase 1 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04572-7</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04572-7</guid>
+
+      <dc:creator>Jason Xu</dc:creator>
+      <dc:creator>Chunli Mei</dc:creator>
+      <dc:creator>Xin Guan</dc:creator>
+      <dc:creator>Rong Du</dc:creator>
+      <dc:creator>Bin Wu</dc:creator>
+      <dc:creator>Di Wu</dc:creator>
+      <dc:creator>Mengjiao Li</dc:creator>
+      <dc:creator>Jingna Li</dc:creator>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jason Xu, Chunli Mei, Xin Guan, Rong Du, Bin Wu, Di Wu, Mengjiao Li, Jingna Li, et al.
 
 Journal: Nature Medicine</description>
     </item>
@@ -417,14 +465,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>Gene alteration in human brain suggests genetic and epigenetic roots of major depression</title>
-      <link>https://doi.org/10.1038/s41591-026-04682-2</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04682-2</guid>
-
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>Reply to: Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison</title>
       <link>https://doi.org/10.1038/s41591-026-04637-7</link>
       <guid isPermaLink="false">10.1038/s41591-026-04637-7</guid>
@@ -448,6 +488,14 @@ Journal: Nature Medicine</description>
       <description>Authors: Brett Beaulieu-Jones, Shamim Nemati
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Gene alteration in human brain suggests genetic and epigenetic roots of major depression</title>
+      <link>https://doi.org/10.1038/s41591-026-04682-2</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04682-2</guid>
+
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine</description>
     </item>
     <item>
       <title>Induced proximity comes of age</title>
@@ -1509,47 +1557,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2774-2785</description>
 
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2747-2748</description>
-    </item>
-    <item>
-      <title>From RAS inhibitor resistance to rational combination strategies</title>
-      <link>https://doi.org/10.1038/s41591-026-04529-w</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04529-w</guid>
-
-      <dc:creator>Paula Lynch</dc:creator>
-      <dc:creator>Teresa Macarulla</dc:creator>
-      <dc:creator>Grainne M. O’Kane</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Paula Lynch, Teresa Macarulla, Grainne M. O’Kane
-
-Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2738-2740</description>
-    </item>
-    <item>
-      <title>Anti-aging interventions need less hype and more clinical evidence</title>
-      <link>https://doi.org/10.1038/s41591-026-04611-3</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04611-3</guid>
-
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2693-2693</description>
-    </item>
-    <item>
-      <title>Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer</title>
-      <link>https://doi.org/10.1038/s41591-026-04537-w</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04537-w</guid>
-
-      <dc:creator>Ida Aronchik</dc:creator>
-      <dc:creator>Sumit Kar</dc:creator>
-      <dc:creator>Yongxian Zhuang</dc:creator>
-      <dc:creator>Ethan Ahler</dc:creator>
-      <dc:creator>Lick Pui Lai</dc:creator>
-      <dc:creator>Vidya Seshadri</dc:creator>
-      <dc:creator>Yu Chi Yang</dc:creator>
-      <dc:creator>Ashenafi Bulle</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ida Aronchik, Sumit Kar, Yongxian Zhuang, Ethan Ahler, Lick Pui Lai, Vidya Seshadri, Yu Chi Yang, Ashenafi Bulle, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 8; Pages: 2865-2877
-
-Abstract: Abstract Daraxonrasib is an orally bioavailable RAS(ON) multi-selective tri-complex inhibitor of the oncogenic mutant and wild-type variants of N, H and KRAS. We previously reported encouraging efficacy in a phase 1/2 clinical trial evaluating daraxonrasib monotherapy at clinically active dose levels in patients with previously treated, RAS mutant metastatic pancreatic adenocarcinoma (PDAC), providing the basis for confirmatory evaluation in the randomized phase 3 RASolute 302 clinical trial. Here we report mechanisms of acquired resistance to daraxonrasib monotherapy observed through targeted sequencing of over 800 genes in paired pretreatment and end of treatment circulating tumor DNA samples from 44 patients in the phase 1/2 clinical trial. Treatment-emergent genomic alterations in the RAS signaling pathway were observed in more than half (26 of 44; 59%) of these patients, including, most notably, mutant KRAS amplifications in one-third (16 of 44; 36%), as well as alterations in receptor tyrosine kinase (RTK) (4 of 44; 9%), MAPK (11 of 44; 25%) and PI3K (4 of 44; 9%) pathways. Notably, no acquired secondary KRAS mutations were observed, distinct from resistance profiles of mutant-selective KRAS G12C(OFF) inhibitors. To corroborate these clinical findings, we found, or mechanistically established, concordant mechanisms of daraxonrasib resistance in human and murine preclinical models of PDAC, including mutant KRAS and MYC amplification and RTK upregulation, with these alterations guiding various combination therapy concepts. Notably, daraxonrasib combined with agents targeting DNA damage response, RTKs or the mutant-selective RAS(ON) G12D inhibitor zoldonrasib averted resistance in preclinical models. Collectively, these results show that most daraxonrasib genomic resistance mechanisms drive reactivation of RAS pathway signaling and guide potential combination strategies in PDAC for further investigation.</description>
     </item>
   </channel>
 </rss>

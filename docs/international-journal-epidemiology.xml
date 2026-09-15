@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:44:45 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -48,21 +48,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background The causal relevance of different adiposity markers to infection-related death remains uncertain. We estimated the lifelong associations of genetically predicted adiposity traits with infection-related mortality among 126 491 Mexican adults. Methods Mendelian randomization (MR) using trans-ancestry instruments for body mass index (BMI), fat-mass percentage (FM%), and waist and hip circumference was used to estimate causal effects on infection-related mortality at ages 35–74 years, overall and across six infection subtypes. Multivariable MR was used to assess independent associations. Results Genetic instruments explained 1.6%–3.5% of the variance in adiposity markers and the strengths of their associations with the markers were similar in men and women. Over 20 years, 2592 infection-related deaths occurred at ages 35–74 years. Genetically predicted adiposity was strongly associated with infection mortality, with the strongest association for FM% [hazard ratio (HR) per 1-SD higher level: 2.54; 95% confidence interval (CI) 1.91–3.38] and the weakest for hip circumference (HR 1.61; 95% CI 1.30–2.01). Associations were consistent across six subtypes: respiratory; urinary tract; gastrointestinal; sepsis; skin, bone, and connective tissue; and other infections. For BMI and FM%, mutual adjustment for waist and hip circumference reduced the associations by nearly one-third. For waist circumference, adjustment for BMI and hip circumference reduced the association by more than half, while, for hip circumference, mutual adjustment for BMI and waist circumference almost eliminated its association. Sensitivity analyses supported the main conclusions. Conclusion Higher adiposity is causally associated with a higher risk of infection-related mortality in Mexican adults. Strategies to reduce the population levels of adiposity in Mexico could contribute to lowering mortality from infection.</description>
     </item>
     <item>
-      <title>When air pollution meets comorbidities: evidence on the causal effect of PM2.5 on COVID-19 hospitalizations and deaths</title>
-      <link>https://doi.org/10.1093/ije/dyag152</link>
-      <guid isPermaLink="false">10.1093/ije/dyag152</guid>
-
-      <dc:creator>Carla Morvan</dc:creator>
-      <dc:creator>Johanna Lepeule</dc:creator>
-      <dc:creator>Emmanuelle Lavaine</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Carla Morvan, Johanna Lepeule, Emmanuelle Lavaine
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag152
-
-Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
-    </item>
-    <item>
       <title>Elucidating the proteomic pathways linking childhood body mass index with type 2 diabetes: a Mendelian randomization and recall-by-genotype study</title>
       <link>https://doi.org/10.1093/ije/dyag165</link>
       <guid isPermaLink="false">10.1093/ije/dyag165</guid>
@@ -81,6 +66,21 @@ Abstract: Abstract Background Despite growing evidence on the health effects of 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag165
 
 Abstract: Abstract Background Increased childhood adiposity contributes to higher type 2 diabetes (T2D) risk, but the underlying mechanisms remain unclear. Furthermore, whether these mechanistic pathways are shared across ethnic groups has not been explored. Methods We conducted a two-step Mendelian randomization (MR) using European-based summary statistics from genome-wide association studies of childhood body mass index (BMI) (n = 61 111), adulthood proteomics (n = 35 559), and later life T2D (cases: 242 283; controls: 1 569 734). We also conducted a recall-by-genotype (RbG) study in a Chinese birth cohort (n = 250) to assess whether childhood BMI was associated with the identified proteomic signals in an East Asian population. Analyses included multi-instrument MR methods (inverse variance weighted and MR-Egger) and, for single-instrument proteins, cis-MR using the Wald ratio, with colocalization validation. Multiple testing was adjusted using false discovery rate (FDR). Results Higher genetically predicted childhood BMI was associated with 1299 proteins (FDR-adjusted P &amp;amp;lt; .05), of which 36 proteins were associated with higher T2D risk. Six proteins were supported by colocalization (PPH4 &amp;amp;gt; 80%). Genetically predicted higher childhood BMI was positively associated with GCKR, RBP1, ENTPD6, and GST A1-1, and inversely associated with PRSS27 and SHBG. The proportion of the BMI-T2D effect mediated by these proteins ranged from 1.87% to 12.92%. However, only SHBG was replicated in Asians in the RbG study. Conclusions Our study identified putative actionable proteins that could reduce the elevated T2D risk attributable to childhood adiposity in Europeans, but their relevance in Asian populations requires further investigation.</description>
+    </item>
+    <item>
+      <title>When air pollution meets comorbidities: evidence on the causal effect of PM2.5 on COVID-19 hospitalizations and deaths</title>
+      <link>https://doi.org/10.1093/ije/dyag152</link>
+      <guid isPermaLink="false">10.1093/ije/dyag152</guid>
+
+      <dc:creator>Carla Morvan</dc:creator>
+      <dc:creator>Johanna Lepeule</dc:creator>
+      <dc:creator>Emmanuelle Lavaine</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Carla Morvan, Johanna Lepeule, Emmanuelle Lavaine
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag152
+
+Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
     </item>
     <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
@@ -189,6 +189,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Extreme temperatures are projected to increase; however, comprehensive mapping of associations between temperature extremes and kidney diseases across age groups and disease subtypes remains limited. Methods Data were collected for all emergency department (ED) visits for kidney diseases across all ages from South Korea’s national health insurance claims between 2011 and 2019. A time-stratified case-crossover design was used to assess the association between ambient temperature and ED visits for kidney diseases. Results The study included around 1.9 million ED visits due to kidney diseases. Heat-related risks of kidney disease–related ED visits (99th vs. 75th percentile) were highest among adults aged 50–59 years [odds ratio (OR): 1.28, 95% confidence interval (CI): 1.22–1.34), while cold-related risks (1st vs. 25th percentile) were highest among those aged 30–39 years (OR: 1.13, 95% CI: 1.05–1.20). Heat-related hospitalization risk was primarily driven by urinary tract infection among individuals in their 30s (OR: 1.37; 95% CI: 1.09–1.72) and by acute kidney injury among those in their 40s (OR: 2.29; 95% CI: 1.52–3.44). From a cost-burden perspective, urinary tract infections among adults aged ≥70 years contributed the largest medical cost burden attributable to high and low temperatures. Conclusions This nationwide study demonstrated age- and disease subtype-specific heterogeneity in temperature-related kidney disease risks. Our findings suggest that, in addition to older adults, younger and middle-aged populations should also be primarily considered in climate change adaptation strategies targeting kidney health.</description>
     </item>
     <item>
+      <title>Have Australians become more lonely and socially isolated? A longitudinal analysis of the Household, Income and Labour Dynamics in Australia study</title>
+      <link>https://doi.org/10.1093/ije/dyag143</link>
+      <guid isPermaLink="false">10.1093/ije/dyag143</guid>
+
+      <dc:creator>Neta Hagani</dc:creator>
+      <dc:creator>Philip J Clare</dc:creator>
+      <dc:creator>Katherine B Owen</dc:creator>
+      <dc:creator>Mengyun Luo</dc:creator>
+      <dc:creator>Daniel L Surkalim</dc:creator>
+      <dc:creator>Karine E Manera</dc:creator>
+      <dc:creator>Michelle H Lim</dc:creator>
+      <dc:creator>Ben J Smith</dc:creator>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Neta Hagani, Philip J Clare, Katherine B Owen, Mengyun Luo, Daniel L Surkalim, Karine E Manera, Michelle H Lim, Ben J Smith, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag143
+
+Abstract: Abstract Background This study aimed to examine temporal trends in episodic and chronic loneliness and social isolation in the Australian population from 2001 to 2023. Methods We conducted a population-based longitudinal cohort study (n = 13 120). Data were drawn from the Household, Income and Labour Dynamics in Australia (HILDA) survey. Episodic (at least one wave) and chronic (at least two consecutive waves) loneliness and social isolation were assessed using validated measures. Mixed-effects logistic regression models estimated marginal predicted probabilities over time and across demographic subgroups. Sensitivity analyses were conducted to test the robustness of the findings. Results Loneliness remained relatively stable overall, with a slight early decline followed by a modest increase and a gradual rise in chronic loneliness from the late 2000s. In contrast, social isolation increased substantially over time, with chronic isolation roughly doubling across the study period. Loneliness trends generally followed a decline during the 2000s and a rise from the 2010s onwards across most demographic groups, although the magnitude and timing varied between subgroups. In contrast, social isolation increased over time across most populations, with particularly marked increases among older adults and individuals in the lowest education and highest area-level disadvantage. Conclusions Social isolation increased substantially in Australia over the past two decades, while loneliness showed a moderate increase, disproportionately affecting vulnerable populations. Findings underscore the need for ongoing public health interventions that address the structural and social determinants of loneliness and social isolation.</description>
+    </item>
+    <item>
       <title>Cohort Profile Update: the Rotterdam Periconceptional Cohort—biomarkers, lifestyle intervention, and artificial intelligence</title>
       <link>https://doi.org/10.1093/ije/dyag156</link>
       <guid isPermaLink="false">10.1093/ije/dyag156</guid>
@@ -225,22 +245,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag200</description>
     </item>
     <item>
-      <title>Examining the role of insulin-like growth factor 1 in the pathophysiology of carpal tunnel syndrome: a Mendelian randomization study</title>
-      <link>https://doi.org/10.1093/ije/dyag173</link>
-      <guid isPermaLink="false">10.1093/ije/dyag173</guid>
-
-      <dc:creator>Alex J Wood</dc:creator>
-      <dc:creator>Catherine E Lovegrove</dc:creator>
-      <dc:creator>Dominic Furniss</dc:creator>
-      <dc:creator>Akira Wiberg</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alex J Wood, Catherine E Lovegrove, Dominic Furniss, Akira Wiberg
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
-
-Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
-    </item>
-    <item>
       <title>Adiposity and risk of breast cancer in 280 000 Chinese women: a prospective cohort study</title>
       <link>https://doi.org/10.1093/ije/dyag155</link>
       <guid isPermaLink="false">10.1093/ije/dyag155</guid>
@@ -261,6 +265,35 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Adiposity is associated with increased risk of breast cancer in post-menopausal women, while the association appears to be the inverse among premenopausal women in Western populations, but is unclear for Chinese women. Methods Using data on 284 538 women with no history of cancer, hysterectomy, oophorectomy, or breast surgery at baseline in 2004–8 from the China Kadoorie Biobank (a prospective cohort study), Cox regression was used to estimate adjusted hazard ratios (HRs) for breast cancer and its subtypes by measured body mass index (BMI) and other adiposity measures (waist circumference, fat percentage, waist–hip ratio, fat mass) and by self-reported BMI at age 25 years. Results Mean BMI was 23.8 (3.5 SD) kg/m2 at baseline (mean age 51.4 years) and 21.9 (2.7 SD) kg/m2 at age 25 years. During 10 years of follow-up, there were 2379 incident breast cancer cases. Higher BMI was associated with a higher risk of breast cancer in women who were post-menopausal [HR = 1.35, 95% confidence interval (CI) 1.24–1.47] and premenopausal (HR = 1.13, 95% CI 1.03–1.24) at baseline, but not when censoring at age 50 years to capture mainly premenopausal cancers. Among post-menopausal women, BMI was associated with oestrogen-receptor positive (ER ) (HR = 1.47, 95% CI 1.24–1.74), but not with oestrogen-receptor negative (ER−) breast cancer (HR = 1.02, 95% CI 0.75–1.37). Waist circumference and fat percentage were associated with a higher risk of breast cancer. Conclusion In this cohort of Chinese women, higher levels of general and central adiposity were associated with a higher risk of breast cancer, in both women who were premenopausal and women who were post-menopausal at baseline. Among post-menopausal women, adiposity was associated with ER but not ER − breast cancer.</description>
     </item>
     <item>
+      <title>Examining the role of insulin-like growth factor 1 in the pathophysiology of carpal tunnel syndrome: a Mendelian randomization study</title>
+      <link>https://doi.org/10.1093/ije/dyag173</link>
+      <guid isPermaLink="false">10.1093/ije/dyag173</guid>
+
+      <dc:creator>Alex J Wood</dc:creator>
+      <dc:creator>Catherine E Lovegrove</dc:creator>
+      <dc:creator>Dominic Furniss</dc:creator>
+      <dc:creator>Akira Wiberg</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alex J Wood, Catherine E Lovegrove, Dominic Furniss, Akira Wiberg
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
+
+Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
+      <link>https://doi.org/10.1093/ije/dyag171</link>
+      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
+
+      <dc:creator>Marco Aurélio Peres</dc:creator>
+      <dc:creator>Pinyan Liu</dc:creator>
+      <dc:creator>John Rong Hao Tay</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
+    </item>
+    <item>
       <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
       <link>https://doi.org/10.1093/ije/dyag177</link>
       <guid isPermaLink="false">10.1093/ije/dyag177</guid>
@@ -279,19 +312,6 @@ Abstract: Abstract Background Adiposity is associated with increased risk of bre
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag177
 
 Abstract: Abstract Background Our goal was to evaluate the relationship between prenatal fluoride exposure and pregnancy outcomes. Methods We measured urinary fluoride collected during the second trimester among pregnant people recruited from California and Illinois from 2014 to 2020 (N = 949). We evaluated risk differences (RDs) of preterm birth (PTB), small-for-gestational age (SGA), large-for-gestational age (LGA), gestational diabetes, and differences in birthweight, birthweight-for-gestational age z-scores, and gestational age associated with a 0.1 mg/l increase in fluoride using linear regression to estimate effects on the additive scale. We also used modified treatment policies with machine learning to estimate the effects of hypothetical interventions to reduce urinary fluoride by 0.1 and 0.5 mg/l on pregnancy outcomes. In the Illinois cohort, we estimated effects by trimester. Results In our main analyses, we found no associations between urinary fluoride levels and pregnancy outcomes. For instance, for a 0.1 mg/l increase in fluoride, we saw no change in the risk of PTB, SGA, or gestational diabetes. We also found no differences associated with hypothetical reductions of prenatal fluoride by 0.1 mg/l or 0.5 mg/l for any outcomes. In the trimester-specific analyses for Illinois participants, we found increased LGA risk during the first (RD = 0.004, 95% CI −0.001, 0.009) and third trimesters (RD = 0.007, 95% CI 0.001, 0.012), and reduced LGA risk during the second trimester (RD = −0.006, 95% CI −0.011, 0.000), associated with 0.1 mg/l higher urinary fluoride. Conclusions Prenatal fluoride exposure does not appear to affect pregnancy outcomes, but preliminary evidence suggests that higher fluoride levels may affect the risk of LGA depending on timing of exposure during pregnancy.</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: The National Dental Centre Singapore Oral Disease Registry (NDCS-ODR)</title>
-      <link>https://doi.org/10.1093/ije/dyag171</link>
-      <guid isPermaLink="false">10.1093/ije/dyag171</guid>
-
-      <dc:creator>Marco Aurélio Peres</dc:creator>
-      <dc:creator>Pinyan Liu</dc:creator>
-      <dc:creator>John Rong Hao Tay</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco Aurélio Peres, Pinyan Liu, John Rong Hao Tay
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
     </item>
     <item>
       <title>Total moderate-to-vigorous physical activity across the adult life course and the risk of invasive ovarian cancer</title>
@@ -340,6 +360,21 @@ Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabol
       <description>Authors: Jose Leopoldo Ferreira Antunes, Marco A Peres
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag193</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: Australia’s Person Level Integrated Data Asset (PLIDA)</title>
+      <link>https://doi.org/10.1093/ije/dyag202</link>
+      <guid isPermaLink="false">10.1093/ije/dyag202</guid>
+
+      <dc:creator>Carrie Samuels</dc:creator>
+      <dc:creator>Rosemary J Korda</dc:creator>
+      <dc:creator>Sergey Timonin</dc:creator>
+      <dc:creator>Phillip Gould</dc:creator>
+      <dc:creator>Jennifer Welsh</dc:creator>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Carrie Samuels, Rosemary J Korda, Sergey Timonin, Phillip Gould, Jennifer Welsh
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag202</description>
     </item>
     <item>
       <title>Can paternal snus use shape offspring’s asthma risk? Implications, epidemiological insights, and gaps in epigenetic evidence</title>
@@ -432,6 +467,17 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag181</description>
     </item>
     <item>
+      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag148</link>
+      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
+
+      <dc:creator>Cesar Victora</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cesar Victora
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
+    </item>
+    <item>
       <title>Dental amalgam exposure and multiple sclerosis: authors’ response</title>
       <link>https://doi.org/10.1093/ije/dyag142</link>
       <guid isPermaLink="false">10.1093/ije/dyag142</guid>
@@ -444,17 +490,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
       <description>Authors: Jie Guo, Tomas Olsson, Lars Alfredsson, Anna Karin Hedström
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag142</description>
-    </item>
-    <item>
-      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag148</link>
-      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
-
-      <dc:creator>Cesar Victora</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Cesar Victora
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
     </item>
     <item>
       <title>Contributions of prior health and vaccination to inequality in COVID-19 mortality by income: analysis of administrative microdata for the non-institutionalized Dutch population</title>
@@ -473,21 +508,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background The COVID-19 pandemic caused a large health burden that disproportionally fell on people with a lower socio-economic status. Not much is known about the role of structural differences in pre-existing health and vaccination uptake in explaining these inequalities. We aim to disentangle these factors and quantify their contribution to income-related inequality in COVID-19 mortality. Methods Using linked Dutch administrative microdata (N = 6 619 699), we model the risk of COVID-19 death based on pre-existing health and vaccination status for the entire population above the age of 50 years in 2021. Health is proxied by individual-level remaining life expectancy based on predictions by income using detailed information on demographics, specific outpatient medication(s), and hospital records. Building on this, we then quantify the extent to which differences in pre-existing health and vaccination status between lower and higher incomes explain income-related differences in COVID-19 deaths. Results We find strong income-related differences in COVID-19 mortality. In 2021, individuals of the poorest income quintile were about three times more likely to die of COVID-19 than those in the richest quintile. Differences in pre-existing health are more important than differences in vaccination uptake in explaining this gap. For the poorest males/females, 67%/46% can be explained by differences in health and 14%/19% by vaccination status. Conclusion Differences in pre-existing health by income are likely the most important determinant of income-related inequality in COVID-19 mortality. These findings signal that policies focused on reducing existing inequalities in health might lessen the burden of future health crises.</description>
     </item>
     <item>
-      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
-      <link>https://doi.org/10.1093/ije/dyag199</link>
-      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
-
-      <dc:creator>Xueyan Zheng</dc:creator>
-      <dc:creator>Christian Bottomley</dc:creator>
-      <dc:creator>Woojoo Lee</dc:creator>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
-
-Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
-    </item>
-    <item>
       <title>Peripubertal pregnancies and associations with health and developmental outcomes in offspring during late adolescence and adulthood: sibling-comparison register study</title>
       <link>https://doi.org/10.1093/ije/dyag153</link>
       <guid isPermaLink="false">10.1093/ije/dyag153</guid>
@@ -503,6 +523,21 @@ Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag153
 
 Abstract: Abstract Background We examined the association of peripubertal pregnancies with long-term health and developmental outcomes in adult offspring and strengthened causal inference using sibling-comparison methods. Methods Using linked Swedish register data from 1964 to 2018, we conducted a cohort study to estimate associations of pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years, with body mass index (BMI), systolic blood pressure (SBP), cognitive function, and stress resilience among 943 444 male offspring aged 17–21 years in the Military Conscription Register. We further assessed associations with type 2 diabetes (T2D), depression, and anxiety among 2 461 510 male and female offspring aged 18–73 years using population-wide registers. Linear, multinomial, and survival models were used. Sibling fixed-effect models were used to account for unmeasured confounding shared among siblings. Results Offspring from pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years had lower SBP (β − 1.12; 95% confidence interval [CI] − 1.97 to −0.26), poorer cognitive function (β − 0.54; 95% CI −0.67 to −0.40), and poorer stress resilience (β −0.24; 95% CI −0.38, −0.10). There was no increased risk of being underweight or overweight compared with normal weight. There was a lower risk of anxiety (hazard ratio 0.87; 95% CI 0.80 to 0.95) and no increased risk of T2D or depression. Sibling-comparison analyses attenuated deleterious associations to null or reversed them and amplified associations with markers of better health. Conclusion Pregnancies before age 16 years may not be causally associated with adverse long-term health and developmental outcomes in adolescent and adult offspring. The adverse associations in conventional analyses appear attributable to shared familial characteristics.</description>
+    </item>
+    <item>
+      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
+      <link>https://doi.org/10.1093/ije/dyag199</link>
+      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
+
+      <dc:creator>Xueyan Zheng</dc:creator>
+      <dc:creator>Christian Bottomley</dc:creator>
+      <dc:creator>Woojoo Lee</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
+
+Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
     </item>
     <item>
       <title>Mortality and childhood residence near the radiologically contaminated Coldwater Creek, St. Louis, Missouri</title>
@@ -543,6 +578,20 @@ Abstract: Abstract Background Under the top-secret Manhattan Project, improperly
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag164
 
 Abstract: Abstract Background Synthetic data hold substantial potential to address practical challenges in epidemiology due to restricted data access and privacy concerns. However, many current methods suffer from limited quality, high computational demands, and complexity for non-experts. Furthermore, common evaluation strategies for synthetic data often fail to directly reflect statistical utility and measure privacy risks sufficiently. Against this background, a critical underexplored question is whether synthetic data can reliably reproduce key findings from epidemiological research while preserving privacy. Methods We propose adversarial random forests (ARF) as an efficient and convenient method for synthesizing tabular epidemiological data. To evaluate its performance, we replicated statistical analyses from six epidemiological publications covering blood pressure, anthropometry, myocardial infarction, accelerometry, loneliness, and diabetes, from the German National Cohort (NAKO Gesundheitsstudie), the Bremen STEMI Registry U45 Study, and the Guelph Family Health Study. We further assessed how dataset dimensionality and variable complexity affect the quality of synthetic data, and contextualized ARF’s performance by comparison with commonly used tabular data synthesizers in terms of utility, privacy, generalization, and runtime. Results Across all replicated studies, results on ARF-generated synthetic data consistently aligned with original findings. Even for datasets with relatively low sample size-to-dimensionality ratios, replication outcomes closely matched the original results across descriptive and inferential analyses. Reduced dimensionality and variable complexity further enhanced synthesis quality. ARF demonstrated favourable performance regarding utility, privacy preservation, and generalization relative to other synthesizers and superior computational efficiency. Conclusions In summary, ARF reliably generates high-quality synthetic data that replicate diverse epidemiological analyses while offering a competitive privacy–utility trade-off.</description>
+    </item>
+    <item>
+      <title>Using directed acyclic graphs to illustrate common sources of bias in diagnostic test accuracy studies</title>
+      <link>https://doi.org/10.1093/ije/dyag170</link>
+      <guid isPermaLink="false">10.1093/ije/dyag170</guid>
+
+      <dc:creator>Yang Lu</dc:creator>
+      <dc:creator>Nandini Dendukuri</dc:creator>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yang Lu, Nandini Dendukuri
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag170
+
+Abstract: Abstract Background Diagnostic test accuracy (DTA) studies, like aetiological studies, are susceptible to various sources of bias, including imperfect reference standard, partial verification, spectrum effect, confounding, and misassumption of conditional independence. While directed acyclic graphs (DAGs) are widely used in aetiological research to identify and illustrate biasing structures, they have not been systematically applied to DTA studies. Methods We developed DAGs to illustrate causal mechanisms underlying common sources of bias in DTA studies. For each source, we also illustrate its equivalent in aetiological studies. Real-world examples are used for illustration. Results We present DAGs for five major sources of bias in DTA studies with structural parallels to aetiological studies: imperfect reference standard corresponds to exposure misclassification, misassumption of conditional independence creates spurious correlations similar to ignoring unmeasured confounding, spectrum effect parallels effect modification, confounding operates through backdoor paths in both settings, and partial verification acts through selection mechanisms that can induce selection bias. These DAG representations help reveal causal mechanisms underlying each source of bias and suggest appropriate adjustment strategies. Conclusion DAGs provide a valuable framework for understanding sources of bias in DTA studies and should complement existing reporting and quality-assessment tools such as the Standards for Reporting of Diagnostic Accuracy (STARD) and Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2). We recommend incorporating DAGs in the conduct and reporting of primary DTA studies, systematic reviews, and meta-analyses to identify potential sources of bias and enhance transparency. DAG construction requires interdisciplinary collaboration and sensitivity analyses examining alternative causal structures.</description>
     </item>
     <item>
       <title>Cohort Profile Update: Survey of Health, Ageing and Retirement in Europe—biomarker data for age-related health conditions</title>
@@ -740,6 +789,20 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Ozone is known to have harmful health impacts, and its concentration is projected to rise with climate change; however, little is known about how ozone impacts the health of people with disabilities and its interaction with temperature. We aimed to estimate the association between ozone exposure and emergency department (ED) visits, stratified by disability status and type. Methods ED visit data spanning 2015–19 and 2022–23 were collected from the Korean National Health Insurance Service. We included the 3-day moving average (the same day, 1 day prior, and 2 days prior; lag 0–2) ozone concentration at the 8-hour maximum and adjusted for daily mean temperature and national holidays. Using a time-stratified case-crossover design and conditional logistic regression, we estimated the association between ozone concentration and natural-cause ED visits. Furthermore, an interaction term between temperature strata and ozone was included to assess potential effect modification across temperature value. Results Overall, 3 484 877 ED visits were recorded. An interquartile range (∼22 ppb) increase in daily 8-hour maximum ozone (lag 0–2) was associated with a 1.94% increase [95% confidence interval (CI): 1.64–2.25] and a 1.93% increase (95% CI: 1.62–2.25) in ED visits during the warm season (April–September) and the entire year (January–December), respectively, among persons with disabilities. These estimates were higher than those observed among persons without disabilities [1.36% (95% CI: 0.92–1.80) and 1.42% (95% CI: 1.03–1.82) during the warm season and the entire year, respectively]. Greater risks were observed in brain lesion disorders, developmental and mental disabilities, ED visits due to respiratory diseases during June, and on days with high temperatures. Conclusions These findings underscore the importance of tailoring strategies to specific disability types and early-season public health interventions—beginning in April or May—incorporating both ozone levels and daily temperature to effectively mitigate the heightened risks identified in this population.</description>
     </item>
     <item>
+      <title>Repeated sampling of different individuals within the same clusters to improve precision of longitudinal estimators: the DISC design</title>
+      <link>https://doi.org/10.1093/ije/dyag108</link>
+      <guid isPermaLink="false">10.1093/ije/dyag108</guid>
+
+      <dc:creator>Jordan Downey</dc:creator>
+      <dc:creator>Avi Kenny</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jordan Downey, Avi Kenny
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag108
+
+Abstract: Abstract Background Longitudinal studies often involve repeated cluster sampling of a population at multiple time points, such as in difference-in-differences (DID) studies. Although cohort designs typically lead to more efficient estimators relative to repeated cross-sectional (RCS) designs, they are often impractical. Methods We describe the DISC (Different Individuals, Same Clusters) design, a sampling scheme that improves the precision of estimators in these settings. The DISC design represents a hybrid between a cohort and an RCS design, in which the researcher takes a single sample of clusters at baseline, but takes different cross-sectional samples of individuals within clusters at each time point. Results We show analytically that the DISC design yields DID estimators with much higher precision relative to an RCS design, particularly if cluster effects are present. For example, for a design with two surveys, 40 clusters, and 25 individuals per cluster, the variance of a commonly used DID treatment effect estimator is 2.3 times higher in the RCS design for an intraclass correlation coefficient (ICC) of 0.05 and 3.8 times higher for an ICC of 0.1. We also present results of a simulation study comparing the RCS and DISC designs, using both a simple DID estimator and a more complex doubly-robust DID estimator that leverages covariate information, and show gains in precision for both estimators when using the DISC design. Additionally, we illustrate DISC sampling using a household survey dataset from South Africa. Conclusions Use of the DISC design can result in estimators that have substantially lower variance than the analogous estimator resulting from an RCS design.</description>
+    </item>
+    <item>
       <title>Data Resource Profile: Health Insurance Review and Assessment Service Korean nationwide claims OMOP CDM (2015–24) database, HIRA K-OMOP</title>
       <link>https://doi.org/10.1093/ije/dyag131</link>
       <guid isPermaLink="false">10.1093/ije/dyag131</guid>
@@ -755,20 +818,6 @@ Abstract: Abstract Background Ozone is known to have harmful health impacts, and
       <description>Authors: Dong Han Yu, Sun Mi Lim, Hyun Chul Shin, Moosung Kim, Seng Chan You, Rae Woong Park, Chungsoo Kim
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag131</description>
-    </item>
-    <item>
-      <title>Repeated sampling of different individuals within the same clusters to improve precision of longitudinal estimators: the DISC design</title>
-      <link>https://doi.org/10.1093/ije/dyag108</link>
-      <guid isPermaLink="false">10.1093/ije/dyag108</guid>
-
-      <dc:creator>Jordan Downey</dc:creator>
-      <dc:creator>Avi Kenny</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jordan Downey, Avi Kenny
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag108
-
-Abstract: Abstract Background Longitudinal studies often involve repeated cluster sampling of a population at multiple time points, such as in difference-in-differences (DID) studies. Although cohort designs typically lead to more efficient estimators relative to repeated cross-sectional (RCS) designs, they are often impractical. Methods We describe the DISC (Different Individuals, Same Clusters) design, a sampling scheme that improves the precision of estimators in these settings. The DISC design represents a hybrid between a cohort and an RCS design, in which the researcher takes a single sample of clusters at baseline, but takes different cross-sectional samples of individuals within clusters at each time point. Results We show analytically that the DISC design yields DID estimators with much higher precision relative to an RCS design, particularly if cluster effects are present. For example, for a design with two surveys, 40 clusters, and 25 individuals per cluster, the variance of a commonly used DID treatment effect estimator is 2.3 times higher in the RCS design for an intraclass correlation coefficient (ICC) of 0.05 and 3.8 times higher for an ICC of 0.1. We also present results of a simulation study comparing the RCS and DISC designs, using both a simple DID estimator and a more complex doubly-robust DID estimator that leverages covariate information, and show gains in precision for both estimators when using the DISC design. Additionally, we illustrate DISC sampling using a household survey dataset from South Africa. Conclusions Use of the DISC design can result in estimators that have substantially lower variance than the analogous estimator resulting from an RCS design.</description>
     </item>
     <item>
       <title>Data Resource Profile: Multimorbidity in Africa Digital Innovation, Visualisation and Application (MADIVA) research hub</title>
@@ -918,24 +967,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag101</description>
     </item>
     <item>
-      <title>Data Resource Profile: EST-Health-30</title>
-      <link>https://doi.org/10.1093/ije/dyag113</link>
-      <guid isPermaLink="false">10.1093/ije/dyag113</guid>
-
-      <dc:creator>Sulev Reisberg</dc:creator>
-      <dc:creator>Marek Oja</dc:creator>
-      <dc:creator>Kerli Mooses</dc:creator>
-      <dc:creator>Sirli Tamm</dc:creator>
-      <dc:creator>Ami Sild</dc:creator>
-      <dc:creator>Harry-Anton Talvik</dc:creator>
-      <dc:creator>Sven Laur</dc:creator>
-      <dc:creator>Raivo Kolde</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sulev Reisberg, Marek Oja, Kerli Mooses, Sirli Tamm, Ami Sild, Harry-Anton Talvik, Sven Laur, Raivo Kolde, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag113</description>
-    </item>
-    <item>
       <title>Cohort Profile: The Chongqing Multi-Community Cohort (CMCC)</title>
       <link>https://doi.org/10.1093/ije/dyag110</link>
       <guid isPermaLink="false">10.1093/ije/dyag110</guid>
@@ -987,6 +1018,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag104
 
 Abstract: Abstract Background Cardiovascular disease (CVD) remains a major global health burden, with risk factors evolving alongside socioeconomic and lifestyle changes. The PREVENT equation provides race-free estimates of 10- and 30-year CVD risk, but its utility in Asian populations remains underexplored. This study assessed long-term trends in CVD risk among Korean adults and identified key contributing factors. Methods This cross-sectional analysis used nationally representative data from the Korea National Health and Nutrition Examination Survey (KNHANES), spanning 2001–2021. Adults aged ≥30 years with relevant clinical and laboratory data were included. The PREVENT equation was used to calculate 10- and 30-year CVD risk. Trends in risk estimates were examined by year and sex. Results The estimated 10-year risk of total CVD increased from 4.6% ± 7.1% (mean ± SD) in 2001 to 7.9% ± 9.0% in 2021, and the estimated 30-year risk for total CVD climbed from 15.8% ± 14.6% to 22.9% ± 14.5% over the same period. Key contributors to this upward trend included worsening glycemic control (mean glucose: 97 ± 17 mg/dl in 2001 vs 103 ± 22 mg/dl in 2021) and increased antihypertensive medication use. In contrast, rising high-density lipoprotein cholesterol levels and declining male smoking rates (47.9% in 2001 to 28.9% in 2021) may have mitigated some risk. Conclusions Over two decades, estimated CVD risk has increased in the Korean population, highlighting the need for targeted prevention efforts. As countries undergo rapid economic and demographic transitions, long-term CVD risk estimation using the PREVENT equation may inform public health strategies to mitigate cardiovascular burden.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: EST-Health-30</title>
+      <link>https://doi.org/10.1093/ije/dyag113</link>
+      <guid isPermaLink="false">10.1093/ije/dyag113</guid>
+
+      <dc:creator>Sulev Reisberg</dc:creator>
+      <dc:creator>Marek Oja</dc:creator>
+      <dc:creator>Kerli Mooses</dc:creator>
+      <dc:creator>Sirli Tamm</dc:creator>
+      <dc:creator>Ami Sild</dc:creator>
+      <dc:creator>Harry-Anton Talvik</dc:creator>
+      <dc:creator>Sven Laur</dc:creator>
+      <dc:creator>Raivo Kolde</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sulev Reisberg, Marek Oja, Kerli Mooses, Sirli Tamm, Ami Sild, Harry-Anton Talvik, Sven Laur, Raivo Kolde, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag113</description>
     </item>
     <item>
       <title>The Fukushima Daiichi Nuclear Power Plant accident did not increase the incidence of cryptorchidism: an interrupted time series analysis</title>
@@ -1316,6 +1365,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Survival is a long-standing source of confounding, selection bias, and effect modification that is often overlooked. Here, we describe how it can occur and when it can be averted. Methods Directed acyclic graphs were used to illustrate how survival could cause confounding and selection bias. Selection diagrams were used to illustrate how survival could cause effect modification by factors such as age or health status. Results Survival can be a confounder that biases towards favouring the exposure when exposure allocation starts or changes after recruitment. Survival can be a source of Type 1 selection bias that attenuates or reverses estimates when the exposure and outcome, or the exposure and a competing risk of the outcome, affect survival before recruitment. Confounding and selection bias by survival can largely be averted by ensuring exposure allocation coincides with recruitment. Given survival is usually most relevant to older or sicker people, confounding and selection bias due to survival are likely more evident with advancing age or poorer health status. Conclusions Confounding by survival should be considered when exposure allocation starts or changes after recruitment. Type 1 selection bias from survival should be considered when the exposure starts before recruitment. Given that long-term exposures are often of interest, and confounding as well as selection bias are difficult to address, study designs less open to these biases might be preferable.</description>
     </item>
     <item>
+      <title>First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis</title>
+      <link>https://doi.org/10.1093/ije/dyag121</link>
+      <guid isPermaLink="false">10.1093/ije/dyag121</guid>
+
+      <dc:creator>Shevonne Kwan</dc:creator>
+      <dc:creator>Jacqueline Stephens</dc:creator>
+      <dc:creator>Corey J A Bradshaw</dc:creator>
+      <dc:creator>Blesson M Varghese</dc:creator>
+      <dc:creator>Kirrilly Thompson</dc:creator>
+      <dc:creator>Melinda A Judge</dc:creator>
+      <dc:creator>Peter N Le Souëf</dc:creator>
+      <dc:creator>Syeda H Fatima</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shevonne Kwan, Jacqueline Stephens, Corey J A Bradshaw, Blesson M Varghese, Kirrilly Thompson, Melinda A Judge, Peter N Le Souëf, Syeda H Fatima
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag121
+
+Abstract: Abstract Background Climate change is increasing the frequency and severity of non-optimal temperatures and heatwaves, posing risks to public health, especially for children and young people. We performed a systematic review and meta-analysis to assess the impacts of (i) non-optimal ambient temperatures and (ii) heatwaves on mental health outcomes in this group globally. Methods We searched five databases for studies published between 2000 and 2024. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we selected studies by using the population–exposure–comparison–outcome (PECO) framework (PROSPERO protocol ID CRD42024524650). We performed a random-effects meta-analysis, assessed the risk of bias, and examined variation by age, gender, income, and climate zones. Results Of 23 included studies, 19 examined ambient temperature and 4 examined heatwaves. A 1°C increase in daily ambient temperature was associated with a 0.9% increase in morbidity-related mental health outcomes across varied healthcare encounters and diagnoses (relative risk = 1.009; 95% confidence interval: 1.003–1.016). Children aged 5–18 years were most vulnerable, with a 1.5% increased risk associated with high temperatures (1.005–1.026) and 25% increased risk during heatwaves (1.006–1.561). Climate-zone analyses showed that children and young people in humid subtropical and hot-summer continental zones had the highest risks from high temperatures (1.004–1.036 and 1.004–1.038, respectively). Conclusion High temperatures and heatwaves were associated with adverse mental health risks in children and young people. Data were lacking for some of the hottest and most socio-economically disadvantaged regions globally. Future research should prioritize these regions, explore mechanistic pathways, and generate disaggregated data.</description>
+    </item>
+    <item>
       <title>Gestational age at birth and the risk of disability pension in early adulthood: a whole-population register study of people born in Finland in 1987–90</title>
       <link>https://doi.org/10.1093/ije/dyag127</link>
       <guid isPermaLink="false">10.1093/ije/dyag127</guid>
@@ -1356,43 +1425,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
     </item>
     <item>
-      <title>First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis</title>
-      <link>https://doi.org/10.1093/ije/dyag121</link>
-      <guid isPermaLink="false">10.1093/ije/dyag121</guid>
-
-      <dc:creator>Shevonne Kwan</dc:creator>
-      <dc:creator>Jacqueline Stephens</dc:creator>
-      <dc:creator>Corey J A Bradshaw</dc:creator>
-      <dc:creator>Blesson M Varghese</dc:creator>
-      <dc:creator>Kirrilly Thompson</dc:creator>
-      <dc:creator>Melinda A Judge</dc:creator>
-      <dc:creator>Peter N Le Souëf</dc:creator>
-      <dc:creator>Syeda H Fatima</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shevonne Kwan, Jacqueline Stephens, Corey J A Bradshaw, Blesson M Varghese, Kirrilly Thompson, Melinda A Judge, Peter N Le Souëf, Syeda H Fatima
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag121
-
-Abstract: Abstract Background Climate change is increasing the frequency and severity of non-optimal temperatures and heatwaves, posing risks to public health, especially for children and young people. We performed a systematic review and meta-analysis to assess the impacts of (i) non-optimal ambient temperatures and (ii) heatwaves on mental health outcomes in this group globally. Methods We searched five databases for studies published between 2000 and 2024. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we selected studies by using the population–exposure–comparison–outcome (PECO) framework (PROSPERO protocol ID CRD42024524650). We performed a random-effects meta-analysis, assessed the risk of bias, and examined variation by age, gender, income, and climate zones. Results Of 23 included studies, 19 examined ambient temperature and 4 examined heatwaves. A 1°C increase in daily ambient temperature was associated with a 0.9% increase in morbidity-related mental health outcomes across varied healthcare encounters and diagnoses (relative risk = 1.009; 95% confidence interval: 1.003–1.016). Children aged 5–18 years were most vulnerable, with a 1.5% increased risk associated with high temperatures (1.005–1.026) and 25% increased risk during heatwaves (1.006–1.561). Climate-zone analyses showed that children and young people in humid subtropical and hot-summer continental zones had the highest risks from high temperatures (1.004–1.036 and 1.004–1.038, respectively). Conclusion High temperatures and heatwaves were associated with adverse mental health risks in children and young people. Data were lacking for some of the hottest and most socio-economically disadvantaged regions globally. Future research should prioritize these regions, explore mechanistic pathways, and generate disaggregated data.</description>
-    </item>
-    <item>
-      <title>The impact of improved air quality on low birth weight and health inequalities in Spain from 2010 to 2018</title>
-      <link>https://doi.org/10.1093/ije/dyag130</link>
-      <guid isPermaLink="false">10.1093/ije/dyag130</guid>
-
-      <dc:creator>Stefan Sieber</dc:creator>
-      <dc:creator>Joan Ballester</dc:creator>
-      <dc:creator>Mark Nieuwenhuijsen</dc:creator>
-      <dc:creator>Andrea Pozzer</dc:creator>
-      <dc:creator>Cathryn Tonne</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Stefan Sieber, Joan Ballester, Mark Nieuwenhuijsen, Andrea Pozzer, Cathryn Tonne
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag130
-
-Abstract: Abstract Background We aimed to estimate the association of air pollution and term low birth weight (LBW) by maternal education and assess the distributional impact of meeting European Union and World Health Organization air pollution targets and universal tertiary maternal education on LBW cases. Methods We analyzed administrative data on 1 409 084 term births in Spain (2010–18) and high spatial resolution estimates of maternal particulate matter with a diameter of 2.5 micrometers or less (PM2.5) and nitrogen dioxide (NO2) exposure. Single-exposure distributed lag non-linear models were used to estimate exposure–response functions (ERF) for LBW (&amp;amp;lt;2500 g) overall and by maternal education. We then applied G-computation to estimate changes in LBW cases under counterfactual scenarios: target levels of PM2.5 (10 and 5 µg/m³) and NO2 (20 and 10 µg/m³), and universal tertiary maternal education. Results A 10 µg/m³ increase in PM2.5 and NO2 was associated with 6% [95% confidence interval (CI): 0%–11%] and 1% (95% CI: 0%–3%) higher odds of LBW. Relative to tertiary education, secondary and primary education were associated with increased LBW odds [1.32 (95% CI: 1.30–1.35); 1.76 (95% CI: 1.71–1.82)]. Meeting the 10 and 5 µg/m³ PM2.5 limits would have prevented 662 (95% CI: −4 to 1271) and 2032 (95% CI: −74 to 3900) LBW cases in 2010–18. Meeting the 20 and 10 µg/m³ NO2 limits would have prevented 432 (95% CI: −16 to 848) and 938 (95% CI: −50 to 1860) LBW cases in 2010–18. Universal attainment of tertiary education would have prevented over 9200 LBW cases. The primary maternal education group showed the highest shares of LBW cases, but they also experienced the largest relative reductions under air pollution intervention scenarios. Conclusions Expanding access to higher education may yield large reductions in the burden of LBW. Reducing air pollution exposure could also meaningfully reduce LBW burden, particularly among infants from lower educated mothers, and contribute to narrowing related health inequalities.</description>
-    </item>
-    <item>
       <title>Fractions and number of cancer cases attributable to excess body fat in South Korea</title>
       <link>https://doi.org/10.1093/ije/dyag119</link>
       <guid isPermaLink="false">10.1093/ije/dyag119</guid>
@@ -1411,6 +1443,23 @@ Abstract: Abstract Background We aimed to estimate the association of air pollut
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag119
 
 Abstract: Abstract Background Excess body fat (EBF) is a major cancer risk factor, yet its impact in Asians remains underexplored. We estimated the population-attributable fraction (PAF) of EBF for various cancers in Korea, comparing estimates based on body mass index (BMI) and waist circumference (WC). Methods Relative risks were derived from Korean National Health Insurance Service data of 4 441 103 adults screened in 2012, with 242 243 cancer cases identified through 2020. PAFs were calculated by using 2022 national obesity prevalence and cancer registry data. Sensitivity analyses were conducted among never smokers. Results The PAFs for 13 established obesity-associated cancers reached 5.48% (BMI) and 7.65% (WC) in men, 5.48% (BMI) and 6.68% (WC) in women aged &amp;amp;lt;50 years, and 6.86% (BMI) and 9.34% (WC) in women aged ≥50 years. This translates into 16 534.2 avoidable-cancer cases in 2022 via BMI and 22 486.9 via WC. In sensitivity analyses, positive associations between obesity and cancer risk were more pronounced among never smokers, suggesting that smoking may mask the true impact of EBF in the general population. Conclusion EBF significantly contributes to the cancer burden in Korea. Using BMI as the sole measure may substantially underestimate this burden compared with WC, which captures visceral adiposity more effectively. Our findings emphasize the importance of abdominal obesity management and support evidence-based public health policies for cancer prevention in Asian populations.</description>
+    </item>
+    <item>
+      <title>The impact of improved air quality on low birth weight and health inequalities in Spain from 2010 to 2018</title>
+      <link>https://doi.org/10.1093/ije/dyag130</link>
+      <guid isPermaLink="false">10.1093/ije/dyag130</guid>
+
+      <dc:creator>Stefan Sieber</dc:creator>
+      <dc:creator>Joan Ballester</dc:creator>
+      <dc:creator>Mark Nieuwenhuijsen</dc:creator>
+      <dc:creator>Andrea Pozzer</dc:creator>
+      <dc:creator>Cathryn Tonne</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Stefan Sieber, Joan Ballester, Mark Nieuwenhuijsen, Andrea Pozzer, Cathryn Tonne
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag130
+
+Abstract: Abstract Background We aimed to estimate the association of air pollution and term low birth weight (LBW) by maternal education and assess the distributional impact of meeting European Union and World Health Organization air pollution targets and universal tertiary maternal education on LBW cases. Methods We analyzed administrative data on 1 409 084 term births in Spain (2010–18) and high spatial resolution estimates of maternal particulate matter with a diameter of 2.5 micrometers or less (PM2.5) and nitrogen dioxide (NO2) exposure. Single-exposure distributed lag non-linear models were used to estimate exposure–response functions (ERF) for LBW (&amp;amp;lt;2500 g) overall and by maternal education. We then applied G-computation to estimate changes in LBW cases under counterfactual scenarios: target levels of PM2.5 (10 and 5 µg/m³) and NO2 (20 and 10 µg/m³), and universal tertiary maternal education. Results A 10 µg/m³ increase in PM2.5 and NO2 was associated with 6% [95% confidence interval (CI): 0%–11%] and 1% (95% CI: 0%–3%) higher odds of LBW. Relative to tertiary education, secondary and primary education were associated with increased LBW odds [1.32 (95% CI: 1.30–1.35); 1.76 (95% CI: 1.71–1.82)]. Meeting the 10 and 5 µg/m³ PM2.5 limits would have prevented 662 (95% CI: −4 to 1271) and 2032 (95% CI: −74 to 3900) LBW cases in 2010–18. Meeting the 20 and 10 µg/m³ NO2 limits would have prevented 432 (95% CI: −16 to 848) and 938 (95% CI: −50 to 1860) LBW cases in 2010–18. Universal attainment of tertiary education would have prevented over 9200 LBW cases. The primary maternal education group showed the highest shares of LBW cases, but they also experienced the largest relative reductions under air pollution intervention scenarios. Conclusions Expanding access to higher education may yield large reductions in the burden of LBW. Reducing air pollution exposure could also meaningfully reduce LBW burden, particularly among infants from lower educated mothers, and contribute to narrowing related health inequalities.</description>
     </item>
     <item>
       <title>Cohort profile: The Japan Environment and Children’s Study</title>
@@ -1454,24 +1503,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Fatima Nadeem
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag137</description>
-    </item>
-    <item>
-      <title>Cohort Profile: The North East London Diabetes Study (NELDS)</title>
-      <link>https://doi.org/10.1093/ije/dyag117</link>
-      <guid isPermaLink="false">10.1093/ije/dyag117</guid>
-
-      <dc:creator>Abraham Olvera-Barrios</dc:creator>
-      <dc:creator>Alasdair N Warwick</dc:creator>
-      <dc:creator>Matilda Pitt</dc:creator>
-      <dc:creator>Zeinab Schaefer</dc:creator>
-      <dc:creator>Schanhave Santhirasekaran</dc:creator>
-      <dc:creator>Ryan Chambers</dc:creator>
-      <dc:creator>Louis Bolter</dc:creator>
-      <dc:creator>John Anderson</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Abraham Olvera-Barrios, Alasdair N Warwick, Matilda Pitt, Zeinab Schaefer, Schanhave Santhirasekaran, Ryan Chambers, Louis Bolter, John Anderson, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag117</description>
     </item>
     <item>
       <title>Association of severe maternal morbidity with epilepsy diagnosis in children: a population-based birth cohort study</title>
@@ -1521,6 +1552,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag141
 
 Abstract: Abstract Background Adiposity increases the risk of post-menopausal oestrogen receptor (ER)-positive breast cancer. Inflammation, insulin, and insulin-like growth factors and sex-steroid hormones may explain this effect. We performed interventional mediation analysis to estimate the effects of hypothetical interventions targeting these pathways in females with obesity on reducing their excess risk of post-menopausal ER-positive breast cancer relative to females with normal weight. Methods The mediation analysis included 1260 post-menopausal females (352 with ER-positive breast cancer) from a case–cohort within the Melbourne Collaborative Cohort Study. A Monte Carlo g-computation approach with non-parametric bootstrapping was used to estimate the risk differences (RDs) and 95% confidence intervals (CIs) for interventional direct and indirect effects of hypothetical interventions that shift the joint distribution of inflammation, insulin, and sex-steroid hormone biomarkers in females with obesity to the levels observed in females with normal weight. Results The estimated RD for the total effect of obesity relative to normal weight on post-menopausal ER-positive breast cancer was 16.1 (95% CI: 3.3, 30.4) per 1000 females. The RDs for indirect effects through inflammation, insulin, and sex-steroid hormones were 16.4 (95% CI: 4.3, 27.2), −8.4 (95% CI: −23.4, 1.2), and 13.0 (95% CI: 3.3, 23.7) per 1000 females, respectively. The − RD for the direct effect not via any of these three pathways was −5.3 (95% CI: −17.4, 10.6) per 1000 females. Conclusion Inflammation and sex-steroid hormones, but not insulin, contributed to the detrimental effect of adiposity on the risk of post-menopausal ER-positive breast cancer. Interventions targeting these pathways may reduce the risk for females with obesity.</description>
+    </item>
+    <item>
+      <title>Cohort Profile: The North East London Diabetes Study (NELDS)</title>
+      <link>https://doi.org/10.1093/ije/dyag117</link>
+      <guid isPermaLink="false">10.1093/ije/dyag117</guid>
+
+      <dc:creator>Abraham Olvera-Barrios</dc:creator>
+      <dc:creator>Alasdair N Warwick</dc:creator>
+      <dc:creator>Matilda Pitt</dc:creator>
+      <dc:creator>Zeinab Schaefer</dc:creator>
+      <dc:creator>Schanhave Santhirasekaran</dc:creator>
+      <dc:creator>Ryan Chambers</dc:creator>
+      <dc:creator>Louis Bolter</dc:creator>
+      <dc:creator>John Anderson</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Abraham Olvera-Barrios, Alasdair N Warwick, Matilda Pitt, Zeinab Schaefer, Schanhave Santhirasekaran, Ryan Chambers, Louis Bolter, John Anderson, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag117</description>
     </item>
     <item>
       <title>Colorectal cancer screening participation in childhood cancer survivors: a report from the French Childhood Cancer Survivors Study (FCCSS)</title>
@@ -1627,62 +1676,6 @@ Abstract: Abstract Background Uptake of the measles–mumps–rubella vaccine in
       <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
-    </item>
-    <item>
-      <title>Comorbidity of asthma and attention deficit hyperactivity disorder in childhood: causal, shared early-life risk factors, or shared genetic liability?</title>
-      <link>https://doi.org/10.1093/ije/dyag074</link>
-      <guid isPermaLink="false">10.1093/ije/dyag074</guid>
-
-      <dc:creator>Mohammad Talaei</dc:creator>
-      <dc:creator>Panagiota Pagoni</dc:creator>
-      <dc:creator>Evie Stergiakouli</dc:creator>
-      <dc:creator>Seif O Shaheen</dc:creator>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mohammad Talaei, Panagiota Pagoni, Evie Stergiakouli, Seif O Shaheen
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag074
-
-Abstract: Abstract Background The positive association between childhood asthma and attention deficit hyperactivity disorder (ADHD) has not been adequately explained. We aimed to investigate whether it is causal or whether shared genetics and/or shared early-life risk factors explain the link. Methods We used a two-sample Mendelian randomization (MR) to test whether there is a causal relationship between asthma and ADHD. In the Avon Longitudinal Study of Parents and Children (ALSPAC), we defined doctor-diagnosed asthma, its endotypes according to atopy determined by skin-prick tests, and the risk of ADHD by using the Strengths and Difficulties Questionnaire, all at 7 years of age. We explored whether the asthma–ADHD association was attenuated when controlling for an extensive number of early-life risk factors (N = 7165). Child polygenic risk scores (PRSs) for asthma and ADHD were calculated by using published genome-wide association studies across seven P-value thresholds (&amp;amp;lt;5 × 10−8 to &amp;amp;lt;.5) (N = 5425–5503). Results We found little evidence of a causal effect between asthma and ADHD in both directions. In ALSPAC, asthma [odds ratio (OR) 1.35, 95% confidence interval (CI) 1.10 − 1.65], particularly non-atopic asthma (OR 1.51, 95% CI 1.09 − 2.08), was associated with ADHD in crude models, while atopic asthma was not (OR 1.00, 95% CI 0.69 − 1.45). These associations were largely attenuated after adjusting for 15 shared early-life risk factors (OR 1.14, 95% CI 0.92 − 1.41 for asthma and OR 1.24, 95% CI 0.88 − 1.74 for non-atopic asthma). There was little evidence of association between asthma PRSs and ADHD at any P-value threshold. We found evidence of an association between ADHD PRSs and asthma and non-atopic asthma at most thresholds; the strongest association was at P &amp;amp;lt; 5 × 10−3 (OR 1.12, 95% CI 1.04 − 1.22, P = .004) for asthma and at P &amp;amp;lt; 5 × 10−2 (OR 1.18, 95% CI 1.04 − 1.34, P = .01) for non-atopic asthma. Conclusion The association between asthma and ADHD in childhood is unlikely to be causal and is largely explained by shared early-life risk factors, with some evidence for a shared genetic background.</description>
-    </item>
-    <item>
-      <title>Development and validation of an epidemiological risk score for early detection of pancreatic cancer in high-risk individuals within the IMAGene project</title>
-      <link>https://doi.org/10.1093/ije/dyag064</link>
-      <guid isPermaLink="false">10.1093/ije/dyag064</guid>
-
-      <dc:creator>Lois Riobó-Mayo</dc:creator>
-      <dc:creator>Lluis Salvador</dc:creator>
-      <dc:creator>Alex Teulé</dc:creator>
-      <dc:creator>Elisabet Guinó</dc:creator>
-      <dc:creator>Laura Layos</dc:creator>
-      <dc:creator>Serena Oliveri</dc:creator>
-      <dc:creator>Clizia Cincidda</dc:creator>
-      <dc:creator>Giulia Ongaro</dc:creator>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lois Riobó-Mayo, Lluis Salvador, Alex Teulé, Elisabet Guinó, Laura Layos, Serena Oliveri, Clizia Cincidda, Giulia Ongaro, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag064
-
-Abstract: Abstract Background Early detection is critical in pancreatic ductal adenocarcinoma (PDAC)—one of the most lethal malignancies due to its typically late diagnosis. Methods In this study, we aimed to validate an epidemiological risk score (ERS) designed to identify individuals at increased risk of developing PDAC prior to the use of imaging or other diagnostic procedures. The ERS was constructed through a meta-analysis of 24 well-established epidemiological risk factors. We applied this score to a prospective cohort of 178 high-risk individuals with a family history of PDAC within the IMAGene project (ClinicalTrials.gov registration code: NCT06334458). To evaluate the predictive value of the ERS, all participants underwent whole-body or abdominal magnetic resonance imaging (MRI) and the findings were classified according to the Oncologically Relevant Findings Reporting and Data System criteria to identify and categorize lesions based on their malignant potential. External validation was conducted by using a subset of the UK Biobank (UKB) cohort (≈300 000 individuals), among whom 1648 were diagnosed with PDAC. Results Higher ERS values were associated with the presence of potentially malignant lesions on MRI. Both pancreatic and extra-pancreatic malignant lesions were more frequent among individuals with higher ERS scores (P = .01 and P = .02 respectively) compared with controls. External validation in PDAC cases within the UKB cohort confirmed these associations. Conclusion Our findings support the integration of the ERS as a feasible, low-cost tool for PDAC risk stratification, with the potential to facilitate earlier detection and improve clinical outcomes.</description>
-    </item>
-    <item>
-      <title>Loneliness and health-related quality of life by chronic disease: a nationally representative survey</title>
-      <link>https://doi.org/10.1093/ije/dyag051</link>
-      <guid isPermaLink="false">10.1093/ije/dyag051</guid>
-
-      <dc:creator>Jihye Heo</dc:creator>
-      <dc:creator>Hyeonjin Cho</dc:creator>
-      <dc:creator>Jiseon Lee</dc:creator>
-      <dc:creator>Yeonjung Lim</dc:creator>
-      <dc:creator>Mangyeong Lee</dc:creator>
-      <dc:creator>Taeyoun Jo</dc:creator>
-      <dc:creator>Danbee Kang</dc:creator>
-      <dc:creator>Juhee Cho</dc:creator>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jihye Heo, Hyeonjin Cho, Jiseon Lee, Yeonjung Lim, Mangyeong Lee, Taeyoun Jo, Danbee Kang, Juhee Cho
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag051
-
-Abstract: Abstract Background Patients with chronic diseases may be vulnerable to loneliness, but previous studies are inconsistent. Furthermore, the impact of loneliness may differ depending on the type of chronic disease. However, previous studies have focused on single diseases. Thus, this study aims to evaluate the prevalence and impact on health-related quality of life (HRQoL) of different chronic diseases. Methods This is a cross-sectional study. We included from the Korean general population, participants with cardiovascular, musculoskeletal, respiratory, endocrine/metabolic, ear/eye, urologic/reproductive, gastrointestinal, mental, and cerebrovascular diseases, and cancer. Loneliness was assessed by using the third revised version of the UCLA Loneliness Scale. HRQoL was assessed by using the Patient-Reported Outcomes Measurement Information System Global Health v1.2. Results A total of 2699 participants were enrolled, of whom 1755 (65.0%) had at least one chronic disease. Participants with chronic conditions (27.5%) were more likely to experience high levels of loneliness than healthy individuals (22.1%). The highest levels of loneliness were found in mental disorders (57.4%), followed by cerebrovascular (36.7%) and ear/eye (35.8%) diseases. High levels of loneliness were associated with poor psychological health (prevalence ratio [PR] 3.55, 95% confidence interval [CI] 3.05, 4.13) and physical health (PR 1.73, 95% CI 1.55, 1.93). In participants with cancer, the PR for poor psychological health was 5.89 (95% CI 3.32, 10.46), but this estimate is imprecise and should be interpreted cautiously due to the small subgroup (n = 87). Conclusion Participants with chronic conditions had higher loneliness than the general population, especially those with mental, cerebrovascular, and ear/eye diseases. Loneliness not only affects psychological health, but also has a significant impact on physical health.</description>
     </item>
   </channel>
 </rss>
