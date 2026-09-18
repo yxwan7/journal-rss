@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:42:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:15:52 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -48,6 +48,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background The causal relevance of different adiposity markers to infection-related death remains uncertain. We estimated the lifelong associations of genetically predicted adiposity traits with infection-related mortality among 126 491 Mexican adults. Methods Mendelian randomization (MR) using trans-ancestry instruments for body mass index (BMI), fat-mass percentage (FM%), and waist and hip circumference was used to estimate causal effects on infection-related mortality at ages 35–74 years, overall and across six infection subtypes. Multivariable MR was used to assess independent associations. Results Genetic instruments explained 1.6%–3.5% of the variance in adiposity markers and the strengths of their associations with the markers were similar in men and women. Over 20 years, 2592 infection-related deaths occurred at ages 35–74 years. Genetically predicted adiposity was strongly associated with infection mortality, with the strongest association for FM% [hazard ratio (HR) per 1-SD higher level: 2.54; 95% confidence interval (CI) 1.91–3.38] and the weakest for hip circumference (HR 1.61; 95% CI 1.30–2.01). Associations were consistent across six subtypes: respiratory; urinary tract; gastrointestinal; sepsis; skin, bone, and connective tissue; and other infections. For BMI and FM%, mutual adjustment for waist and hip circumference reduced the associations by nearly one-third. For waist circumference, adjustment for BMI and hip circumference reduced the association by more than half, while, for hip circumference, mutual adjustment for BMI and waist circumference almost eliminated its association. Sensitivity analyses supported the main conclusions. Conclusion Higher adiposity is causally associated with a higher risk of infection-related mortality in Mexican adults. Strategies to reduce the population levels of adiposity in Mexico could contribute to lowering mortality from infection.</description>
     </item>
     <item>
+      <title>When air pollution meets comorbidities: evidence on the causal effect of PM2.5 on COVID-19 hospitalizations and deaths</title>
+      <link>https://doi.org/10.1093/ije/dyag152</link>
+      <guid isPermaLink="false">10.1093/ije/dyag152</guid>
+
+      <dc:creator>Carla Morvan</dc:creator>
+      <dc:creator>Johanna Lepeule</dc:creator>
+      <dc:creator>Emmanuelle Lavaine</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Carla Morvan, Johanna Lepeule, Emmanuelle Lavaine
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag152
+
+Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
+    </item>
+    <item>
       <title>Elucidating the proteomic pathways linking childhood body mass index with type 2 diabetes: a Mendelian randomization and recall-by-genotype study</title>
       <link>https://doi.org/10.1093/ije/dyag165</link>
       <guid isPermaLink="false">10.1093/ije/dyag165</guid>
@@ -66,21 +81,6 @@ Abstract: Abstract Background The causal relevance of different adiposity marker
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag165
 
 Abstract: Abstract Background Increased childhood adiposity contributes to higher type 2 diabetes (T2D) risk, but the underlying mechanisms remain unclear. Furthermore, whether these mechanistic pathways are shared across ethnic groups has not been explored. Methods We conducted a two-step Mendelian randomization (MR) using European-based summary statistics from genome-wide association studies of childhood body mass index (BMI) (n = 61 111), adulthood proteomics (n = 35 559), and later life T2D (cases: 242 283; controls: 1 569 734). We also conducted a recall-by-genotype (RbG) study in a Chinese birth cohort (n = 250) to assess whether childhood BMI was associated with the identified proteomic signals in an East Asian population. Analyses included multi-instrument MR methods (inverse variance weighted and MR-Egger) and, for single-instrument proteins, cis-MR using the Wald ratio, with colocalization validation. Multiple testing was adjusted using false discovery rate (FDR). Results Higher genetically predicted childhood BMI was associated with 1299 proteins (FDR-adjusted P &amp;amp;lt; .05), of which 36 proteins were associated with higher T2D risk. Six proteins were supported by colocalization (PPH4 &amp;amp;gt; 80%). Genetically predicted higher childhood BMI was positively associated with GCKR, RBP1, ENTPD6, and GST A1-1, and inversely associated with PRSS27 and SHBG. The proportion of the BMI-T2D effect mediated by these proteins ranged from 1.87% to 12.92%. However, only SHBG was replicated in Asians in the RbG study. Conclusions Our study identified putative actionable proteins that could reduce the elevated T2D risk attributable to childhood adiposity in Europeans, but their relevance in Asian populations requires further investigation.</description>
-    </item>
-    <item>
-      <title>When air pollution meets comorbidities: evidence on the causal effect of PM2.5 on COVID-19 hospitalizations and deaths</title>
-      <link>https://doi.org/10.1093/ije/dyag152</link>
-      <guid isPermaLink="false">10.1093/ije/dyag152</guid>
-
-      <dc:creator>Carla Morvan</dc:creator>
-      <dc:creator>Johanna Lepeule</dc:creator>
-      <dc:creator>Emmanuelle Lavaine</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Carla Morvan, Johanna Lepeule, Emmanuelle Lavaine
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag152
-
-Abstract: Abstract Background Despite growing evidence on the health effects of air pollution, few studies have examined its impact on COVID-19 hospitalizations and deaths, and none have explicitly accounted for preexisting comorbidities in a causal framework. This study addresses this gap by investigating the relationship between PM2.5 exposure and COVID-19 severity. We place particular emphasis on the role of comorbidities, which can increase vulnerability to COVID-19 and may interact with air pollution exposure. Methods We use an exhaustive dataset covering the entire French territory over 2020–1, totaling more than 3.5 million weekly observations. The data include information on COVID-19 mortality and hospitalizations, disaggregated by age, sex, and municipality, along with detailed records on preexisting conditions. To address endogeneity, we employ a two-stage least squares approach, using wind direction as an instrument for local PM2.5 concentrations. Results We find no significant effect of PM2.5 exposure on COVID-19 mortality or hospitalizations among individuals without preexisting conditions. However, when accounting for comorbidities, a 10 μg/m3 increase in PM 2.5 was associated with higher COVID-19 mortality rates (1.5 per 100 000, 95% CI: 0.8–2.2), particularly among patients with respiratory (0.9 per 100 000, 95% CI: 0.4–1.4), and cardiovascular diseases (0.6 per 100 000, 95% CI: 0.1–1.1). Conclusions These findings underscore the importance of incorporating comorbidities when assessing the health effects of air pollution during a pandemic. Our results also show that the effects of PM2.5 are driven by the oldest age groups, who are both more vulnerable to COVID-19 and more likely to have comorbidities.</description>
     </item>
     <item>
       <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
@@ -227,6 +227,26 @@ Abstract: Abstract Background This study aimed to examine temporal trends in epi
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag156</description>
     </item>
     <item>
+      <title>Mortality in people experiencing homelessness: a systematic review and meta-analysis</title>
+      <link>https://doi.org/10.1093/ije/dyag129</link>
+      <guid isPermaLink="false">10.1093/ije/dyag129</guid>
+
+      <dc:creator>James White</dc:creator>
+      <dc:creator>Yvonne Moriarty</dc:creator>
+      <dc:creator>Mandy Lau</dc:creator>
+      <dc:creator>Rebecca Cannings-John</dc:creator>
+      <dc:creator>Abigail Palmer</dc:creator>
+      <dc:creator>Alison L Weightman</dc:creator>
+      <dc:creator>Meg Kiseleva</dc:creator>
+      <dc:creator>G David Batty</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: James White, Yvonne Moriarty, Mandy Lau, Rebecca Cannings-John, Abigail Palmer, Alison L Weightman, Meg Kiseleva, G David Batty
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag129
+
+Abstract: Abstract Background The association between homelessness and the type of homeless experience with all-cause and cause-specific mortality is uncertain. Methods Published studies were retrieved through a systematic search of MEDLINE, Embase PsycINFO, and Scopus from inception to December 2024. Unpublished data were identified from open-access data archives. We used random-effects meta-analysis to combine the effect estimates from published and unpublished data from 116 studies comprising 2 563 633 homeless people and 129 292 553 population controls. This review is registered at PROSPERO (CRD42023430984). Results The risk of all-cause mortality was increased in people exposed to homelessness compared with those unexposed [relative risk (RR) 2.21, 95% confidence interval (CI) 1.91–2.57, P &amp;amp;lt; .001, I2 = 99.7], with risks similar in men (RR 4.04, 95% CI 2.87–5.21) and women (RR 3.58, 95% CI 2.35–4.82). Risks were higher in people who had slept rough (RR 7.63, 95% CI 3.29–11.97) than in those who had slept in homeless hostels/shelters (RR 3.44, 95% CI 2.10–4.77) and also elevated for people staying in low-cost hotels (RR 5.18, 95% CI 1.14–9.23). Summary RR estimates were elevated for 33 of the 36 (92%) causes of death. The highest risk of death was apparent for psychoactive-substance-use disorder (RR 21.38, 95% CI 14.44–31.67), accidental injuries (RR 13.15, 95% CI 5.46–31.69), and drug overdose (RR 11.65, 95% CI 6.97–19.48). Around half of the studies (57%) were of high quality. No studies were found in low-income countries. There was no evidence of publication bias. Conclusion Compared with the general population, homeless people experience an increased risk of premature mortality. The most extreme inequalities were from deaths through psychoactive-substance-use disorder, accidents, and drug overdose. There are evidence-based treatments for psychoactive substance use and drug overdose, suggesting that some of these deaths are avoidable.</description>
+    </item>
+    <item>
       <title>Cohort Profile Update: the Shanghai Preconception Cohort on parental one‑carbon metabolism and offspring health</title>
       <link>https://doi.org/10.1093/ije/dyag200</link>
       <guid isPermaLink="false">10.1093/ije/dyag200</guid>
@@ -347,6 +367,24 @@ Abstract: Abstract Background Previous research on moderate-to-vigorous physical
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
 
 Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
+    </item>
+    <item>
+      <title>Clinical and social determinants of COVID-19 lethality and ICU admission across variant waves in the Brazilian Amazon</title>
+      <link>https://doi.org/10.1093/ije/dyag190</link>
+      <guid isPermaLink="false">10.1093/ije/dyag190</guid>
+
+      <dc:creator>Maria Gabriela Almeida Rodrigues</dc:creator>
+      <dc:creator>Patrícia Carvalho Silva Balieiro</dc:creator>
+      <dc:creator>Alexandre Vilhena Silva-Neto</dc:creator>
+      <dc:creator>Fernando Almeida-Val</dc:creator>
+      <dc:creator>Patrícia Takako Endo</dc:creator>
+      <dc:creator>Vanderson de Souza Sampaio</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Maria Gabriela Almeida Rodrigues, Patrícia Carvalho Silva Balieiro, Alexandre Vilhena Silva-Neto, Fernando Almeida-Val, Patrícia Takako Endo, Vanderson de Souza Sampaio
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag190
+
+Abstract: Abstract Background The state of Amazonas, located in the Brazilian Amazon, was disproportionately affected during the first waves of the COVID-19 pandemic. Methods We conducted a population-based cohort study including all confirmed COVID-19 cases (2020–2) in the state of Amazonas, located in northern Brazil, linking data from three surveillance systems with cases of influenza-like illness (ILI) and severe acute respiratory syndrome (SARS). Outcomes included death, intensive care unit (ICU) admission, and a composite severity outcome. Results Among 420 819 cases, 378 142 (89.9%) had ILI and 42 677 (10.1%) had SARS. A substantial burden of severe outcomes was observed among SARS cases, with ∼25% (n = 8910/35 909) of patients admitted to the ICU, 21.1% (n = 7229/34 323) requiring invasive mechanical ventilation, and 36.7% (n = 14 971/40 837) dying. Male sex [odds ratio (OR) = 1.23; 95% confidence interval (CI): 1.15–1.31; P &amp;amp;lt; .001], age of ≥70 years (OR = 13.73; 95% CI: 11.97–15.76; P &amp;amp;lt; .001), Indigenous ethnicity (OR = 2.32; 95% CI: 1.85–2.91; P &amp;amp;lt; .001), dyspnea (OR = 1.99; 95% CI: 1.82–2.19; P &amp;amp;lt; .001), loss of smell (OR = 1.54; 95% CI: 1.31–1.81; P &amp;amp;lt; .001), and comorbidities, including chronic kidney disease (OR = 1.94; 95% CI: 1.58–2.39; P &amp;amp;lt; .001), chronic respiratory disease (OR = 1.38; 95% CI: 1.08–1.77; P &amp;amp;lt; .05), diabetes (OR = 1.12; 95% CI: 1.03–1.22; P &amp;amp;lt; .05), obesity (OR = 1.31; 95% CI: 1.13–1.51; P &amp;amp;lt; .001), and immunosuppression (OR = 1.90; 95% CI: 1.48–2.44; P &amp;amp;lt; .001), were independently associated with a higher risk of death. Lethality increased significantly during the Gamma wave (OR = 3.76; 95% CI: 3.34–4.24; P &amp;amp;lt; .001). Conclusion The severity of COVID-19 in Amazonas was shaped by biological, structural, and viral factors, highlighting the need for equitable strengthening of the health system.</description>
     </item>
     <item>
       <title>Redefining the public health problem in epidemiology:
@@ -594,6 +632,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Synthetic data hold substantial potential to address practical challenges in epidemiology due to restricted data access and privacy concerns. However, many current methods suffer from limited quality, high computational demands, and complexity for non-experts. Furthermore, common evaluation strategies for synthetic data often fail to directly reflect statistical utility and measure privacy risks sufficiently. Against this background, a critical underexplored question is whether synthetic data can reliably reproduce key findings from epidemiological research while preserving privacy. Methods We propose adversarial random forests (ARF) as an efficient and convenient method for synthesizing tabular epidemiological data. To evaluate its performance, we replicated statistical analyses from six epidemiological publications covering blood pressure, anthropometry, myocardial infarction, accelerometry, loneliness, and diabetes, from the German National Cohort (NAKO Gesundheitsstudie), the Bremen STEMI Registry U45 Study, and the Guelph Family Health Study. We further assessed how dataset dimensionality and variable complexity affect the quality of synthetic data, and contextualized ARF’s performance by comparison with commonly used tabular data synthesizers in terms of utility, privacy, generalization, and runtime. Results Across all replicated studies, results on ARF-generated synthetic data consistently aligned with original findings. Even for datasets with relatively low sample size-to-dimensionality ratios, replication outcomes closely matched the original results across descriptive and inferential analyses. Reduced dimensionality and variable complexity further enhanced synthesis quality. ARF demonstrated favourable performance regarding utility, privacy preservation, and generalization relative to other synthesizers and superior computational efficiency. Conclusions In summary, ARF reliably generates high-quality synthetic data that replicate diverse epidemiological analyses while offering a competitive privacy–utility trade-off.</description>
     </item>
     <item>
+      <title>Ambient temperature and exclusive breastfeeding: a nationwide cohort study in Brazil</title>
+      <link>https://doi.org/10.1093/ije/dyag205</link>
+      <guid isPermaLink="false">10.1093/ije/dyag205</guid>
+
+      <dc:creator>Rita de Cássia Ribeiro-Silva</dc:creator>
+      <dc:creator>Taísa Rodrigues Cortes</dc:creator>
+      <dc:creator>Laís Silva Sacramento</dc:creator>
+      <dc:creator>Lais Helena Leandro Ribeiro</dc:creator>
+      <dc:creator>Otavio T Ranzani</dc:creator>
+      <dc:creator>Paulo Cerqueira Junior</dc:creator>
+      <dc:creator>Danielson Delgado</dc:creator>
+      <dc:creator>Ismael H Silveira</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rita de Cássia Ribeiro-Silva, Taísa Rodrigues Cortes, Laís Silva Sacramento, Lais Helena Leandro Ribeiro, Otavio T Ranzani, Paulo Cerqueira Junior, Danielson Delgado, Ismael H Silveira, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag205
+
+Abstract: Abstract Background The climate crisis presents an emerging global challenge with potential implications for breastfeeding. We estimated the association between ambient temperatures (both heat and cold) and interruption of exclusive breastfeeding (EBF) in a nationwide cohort in Brazil. Methods The population-based longitudinal study was conducted using data from the Food and Nutrition Surveillance System (SISVAN-Web) between 2015 and 2019. EBF was defined as the consumption of breast milk only on the day of the visit, with no intake of any other liquids or foods. Daily minimum and maximum ambient temperatures and relative humidity were derived from the Brazilian Daily Weather Gridded Data (BR-DWGD). The association between ambient temperature and time to interruption of EBF was assessed using Cox proportional hazards models combined with distributed lag non-linear models (DLNMs). Results A total of 397 239 children aged 0 to &amp;amp;lt;6 months were included in the study. Nationally, low temperatures were not significantly associated with EBF interruption (hazard ratio [HR] 1.01, 95% confidence interval [CI] 0.98–1.05), whereas heat exposure was associated with a 10% higher risk (HR 1.10, 95% CI 1.08–1.14). The increased risk associated with heat exposure was similar across infant age groups, child sex, and levels of municipal material deprivation. In contrast, we found no association between cold temperatures and EBF interruption at the national level. However, our findings suggest that cold-related effects may differ across infant age and municipal deprivation levels. Conclusion Our findings highlight the importance of strengthening breastfeeding support during periods of elevated heat and integrating climate-sensitive approaches into maternal and child health policies.</description>
+    </item>
+    <item>
       <title>Cohort Profile Update: Survey of Health, Ageing and Retirement in Europe—biomarker data for age-related health conditions</title>
       <link>https://doi.org/10.1093/ije/dyag161</link>
       <guid isPermaLink="false">10.1093/ije/dyag161</guid>
@@ -610,6 +668,23 @@ Abstract: Abstract Background Synthetic data hold substantial potential to addre
       <description>Authors: Martina Börsch-Supan, Axel Börsch-Supan, Karen Andersen-Ranberg, Nis Borbye-Lorenzen, Jake Cofferen, Yacila I Deza-Lougovski, Rebecca Groh, Solveig Holmgaard, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag161</description>
+    </item>
+    <item>
+      <title>Cohort Profile Update: The Korean Genome and Epidemiology Study (KoGES)</title>
+      <link>https://doi.org/10.1093/ije/dyag192</link>
+      <guid isPermaLink="false">10.1093/ije/dyag192</guid>
+
+      <dc:creator>Jieun Lyu</dc:creator>
+      <dc:creator>Joong-Yeon Lim</dc:creator>
+      <dc:creator>Joong Won Lee</dc:creator>
+      <dc:creator>Hye-Kyoung Kwak</dc:creator>
+      <dc:creator>Hyun-Young Park</dc:creator>
+      <dc:creator>Jae-Pil Jeon</dc:creator>
+      <dc:creator>Chol Shin</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jieun Lyu, Joong-Yeon Lim, Joong Won Lee, Hye-Kyoung Kwak, Hyun-Young Park, Jae-Pil Jeon, Chol Shin, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag192</description>
     </item>
     <item>
       <title>Cohort Profile Update: cognition and ageing in the Survey of Health, Ageing and Retirement in Europe Harmonized Cognitive Assessment Protocol (SHARE-HCAP)</title>
@@ -769,6 +844,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Distributed lag models (DLMs) are widely used in perinatal epidemiology to identify critical windows during pregnancy in which environmental exposures influence pregnancy/birth outcomes. A well-known complication of fitting DLMs in this context is that they require the same length of exposure history for every individual even though not all pregnancies are of the same duration. This misalignment often leads researchers to artificially extend exposure histories to a fixed length and fill post-birth weeks with zeroes (i.e. “zero-filling”). Despite its widespread use, the implications of zero-filling have not been formally evaluated. Methods We demonstrate conceptually that zero-filling induces a spurious association between gestational age and late-pregnancy exposures, thus introducing confounding that was otherwise not present in the observed data. We then conducted a simulation study and a real data application using air pollution and birth weight data from a Colorado-based cohort to compare zero-filling with alternative approaches to handle the misalignment between exposure window and gestation. Results In our simulations, we found that zero-filling produced the largest bias, poorest coverage, and highest root mean squared error. In the analysis of the Colorado birth data, zero-filling produced implausibly strong associations. Adjusting for gestational age attenuated this bias. Alternative approaches of carrying forward the last pre-birth exposure value, using observed post-birth exposures, and, in some situations, truncation at 37 weeks eliminate this bias. Conclusion Zero-filling can cause bias in the estimated associations when using distributed lag models.</description>
     </item>
     <item>
+      <title>Data Resource Profile: Medicines in Acute and Chronic Care in Scotland (MACCS)</title>
+      <link>https://doi.org/10.1093/ije/dyag187</link>
+      <guid isPermaLink="false">10.1093/ije/dyag187</guid>
+
+      <dc:creator>Cosmika Goswami</dc:creator>
+      <dc:creator>Tanja Mueller</dc:creator>
+      <dc:creator>Amanj Kurdi</dc:creator>
+      <dc:creator>Ewan Pearson</dc:creator>
+      <dc:creator>Khaled Bedir</dc:creator>
+      <dc:creator>Alexandra Tolfrey</dc:creator>
+      <dc:creator>Hazel Close</dc:creator>
+      <dc:creator>Marion Bennie</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cosmika Goswami, Tanja Mueller, Amanj Kurdi, Ewan Pearson, Khaled Bedir, Alexandra Tolfrey, Hazel Close, Marion Bennie
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag187</description>
+    </item>
+    <item>
       <title>Association between ozone and emergency department visits in people with disabilities in South Korea: a nationwide case-crossover study</title>
       <link>https://doi.org/10.1093/ije/dyag189</link>
       <guid isPermaLink="false">10.1093/ije/dyag189</guid>
@@ -789,20 +882,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Ozone is known to have harmful health impacts, and its concentration is projected to rise with climate change; however, little is known about how ozone impacts the health of people with disabilities and its interaction with temperature. We aimed to estimate the association between ozone exposure and emergency department (ED) visits, stratified by disability status and type. Methods ED visit data spanning 2015–19 and 2022–23 were collected from the Korean National Health Insurance Service. We included the 3-day moving average (the same day, 1 day prior, and 2 days prior; lag 0–2) ozone concentration at the 8-hour maximum and adjusted for daily mean temperature and national holidays. Using a time-stratified case-crossover design and conditional logistic regression, we estimated the association between ozone concentration and natural-cause ED visits. Furthermore, an interaction term between temperature strata and ozone was included to assess potential effect modification across temperature value. Results Overall, 3 484 877 ED visits were recorded. An interquartile range (∼22 ppb) increase in daily 8-hour maximum ozone (lag 0–2) was associated with a 1.94% increase [95% confidence interval (CI): 1.64–2.25] and a 1.93% increase (95% CI: 1.62–2.25) in ED visits during the warm season (April–September) and the entire year (January–December), respectively, among persons with disabilities. These estimates were higher than those observed among persons without disabilities [1.36% (95% CI: 0.92–1.80) and 1.42% (95% CI: 1.03–1.82) during the warm season and the entire year, respectively]. Greater risks were observed in brain lesion disorders, developmental and mental disabilities, ED visits due to respiratory diseases during June, and on days with high temperatures. Conclusions These findings underscore the importance of tailoring strategies to specific disability types and early-season public health interventions—beginning in April or May—incorporating both ozone levels and daily temperature to effectively mitigate the heightened risks identified in this population.</description>
     </item>
     <item>
-      <title>Repeated sampling of different individuals within the same clusters to improve precision of longitudinal estimators: the DISC design</title>
-      <link>https://doi.org/10.1093/ije/dyag108</link>
-      <guid isPermaLink="false">10.1093/ije/dyag108</guid>
-
-      <dc:creator>Jordan Downey</dc:creator>
-      <dc:creator>Avi Kenny</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jordan Downey, Avi Kenny
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag108
-
-Abstract: Abstract Background Longitudinal studies often involve repeated cluster sampling of a population at multiple time points, such as in difference-in-differences (DID) studies. Although cohort designs typically lead to more efficient estimators relative to repeated cross-sectional (RCS) designs, they are often impractical. Methods We describe the DISC (Different Individuals, Same Clusters) design, a sampling scheme that improves the precision of estimators in these settings. The DISC design represents a hybrid between a cohort and an RCS design, in which the researcher takes a single sample of clusters at baseline, but takes different cross-sectional samples of individuals within clusters at each time point. Results We show analytically that the DISC design yields DID estimators with much higher precision relative to an RCS design, particularly if cluster effects are present. For example, for a design with two surveys, 40 clusters, and 25 individuals per cluster, the variance of a commonly used DID treatment effect estimator is 2.3 times higher in the RCS design for an intraclass correlation coefficient (ICC) of 0.05 and 3.8 times higher for an ICC of 0.1. We also present results of a simulation study comparing the RCS and DISC designs, using both a simple DID estimator and a more complex doubly-robust DID estimator that leverages covariate information, and show gains in precision for both estimators when using the DISC design. Additionally, we illustrate DISC sampling using a household survey dataset from South Africa. Conclusions Use of the DISC design can result in estimators that have substantially lower variance than the analogous estimator resulting from an RCS design.</description>
-    </item>
-    <item>
       <title>Data Resource Profile: Health Insurance Review and Assessment Service Korean nationwide claims OMOP CDM (2015–24) database, HIRA K-OMOP</title>
       <link>https://doi.org/10.1093/ije/dyag131</link>
       <guid isPermaLink="false">10.1093/ije/dyag131</guid>
@@ -818,6 +897,20 @@ Abstract: Abstract Background Longitudinal studies often involve repeated cluste
       <description>Authors: Dong Han Yu, Sun Mi Lim, Hyun Chul Shin, Moosung Kim, Seng Chan You, Rae Woong Park, Chungsoo Kim
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag131</description>
+    </item>
+    <item>
+      <title>Repeated sampling of different individuals within the same clusters to improve precision of longitudinal estimators: the DISC design</title>
+      <link>https://doi.org/10.1093/ije/dyag108</link>
+      <guid isPermaLink="false">10.1093/ije/dyag108</guid>
+
+      <dc:creator>Jordan Downey</dc:creator>
+      <dc:creator>Avi Kenny</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jordan Downey, Avi Kenny
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag108
+
+Abstract: Abstract Background Longitudinal studies often involve repeated cluster sampling of a population at multiple time points, such as in difference-in-differences (DID) studies. Although cohort designs typically lead to more efficient estimators relative to repeated cross-sectional (RCS) designs, they are often impractical. Methods We describe the DISC (Different Individuals, Same Clusters) design, a sampling scheme that improves the precision of estimators in these settings. The DISC design represents a hybrid between a cohort and an RCS design, in which the researcher takes a single sample of clusters at baseline, but takes different cross-sectional samples of individuals within clusters at each time point. Results We show analytically that the DISC design yields DID estimators with much higher precision relative to an RCS design, particularly if cluster effects are present. For example, for a design with two surveys, 40 clusters, and 25 individuals per cluster, the variance of a commonly used DID treatment effect estimator is 2.3 times higher in the RCS design for an intraclass correlation coefficient (ICC) of 0.05 and 3.8 times higher for an ICC of 0.1. We also present results of a simulation study comparing the RCS and DISC designs, using both a simple DID estimator and a more complex doubly-robust DID estimator that leverages covariate information, and show gains in precision for both estimators when using the DISC design. Additionally, we illustrate DISC sampling using a household survey dataset from South Africa. Conclusions Use of the DISC design can result in estimators that have substantially lower variance than the analogous estimator resulting from an RCS design.</description>
     </item>
     <item>
       <title>Data Resource Profile: Multimorbidity in Africa Digital Innovation, Visualisation and Application (MADIVA) research hub</title>
@@ -1365,6 +1458,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Survival is a long-standing source of confounding, selection bias, and effect modification that is often overlooked. Here, we describe how it can occur and when it can be averted. Methods Directed acyclic graphs were used to illustrate how survival could cause confounding and selection bias. Selection diagrams were used to illustrate how survival could cause effect modification by factors such as age or health status. Results Survival can be a confounder that biases towards favouring the exposure when exposure allocation starts or changes after recruitment. Survival can be a source of Type 1 selection bias that attenuates or reverses estimates when the exposure and outcome, or the exposure and a competing risk of the outcome, affect survival before recruitment. Confounding and selection bias by survival can largely be averted by ensuring exposure allocation coincides with recruitment. Given survival is usually most relevant to older or sicker people, confounding and selection bias due to survival are likely more evident with advancing age or poorer health status. Conclusions Confounding by survival should be considered when exposure allocation starts or changes after recruitment. Type 1 selection bias from survival should be considered when the exposure starts before recruitment. Given that long-term exposures are often of interest, and confounding as well as selection bias are difficult to address, study designs less open to these biases might be preferable.</description>
     </item>
     <item>
+      <title>First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis</title>
+      <link>https://doi.org/10.1093/ije/dyag121</link>
+      <guid isPermaLink="false">10.1093/ije/dyag121</guid>
+
+      <dc:creator>Shevonne Kwan</dc:creator>
+      <dc:creator>Jacqueline Stephens</dc:creator>
+      <dc:creator>Corey J A Bradshaw</dc:creator>
+      <dc:creator>Blesson M Varghese</dc:creator>
+      <dc:creator>Kirrilly Thompson</dc:creator>
+      <dc:creator>Melinda A Judge</dc:creator>
+      <dc:creator>Peter N Le Souëf</dc:creator>
+      <dc:creator>Syeda H Fatima</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shevonne Kwan, Jacqueline Stephens, Corey J A Bradshaw, Blesson M Varghese, Kirrilly Thompson, Melinda A Judge, Peter N Le Souëf, Syeda H Fatima
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag121
+
+Abstract: Abstract Background Climate change is increasing the frequency and severity of non-optimal temperatures and heatwaves, posing risks to public health, especially for children and young people. We performed a systematic review and meta-analysis to assess the impacts of (i) non-optimal ambient temperatures and (ii) heatwaves on mental health outcomes in this group globally. Methods We searched five databases for studies published between 2000 and 2024. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we selected studies by using the population–exposure–comparison–outcome (PECO) framework (PROSPERO protocol ID CRD42024524650). We performed a random-effects meta-analysis, assessed the risk of bias, and examined variation by age, gender, income, and climate zones. Results Of 23 included studies, 19 examined ambient temperature and 4 examined heatwaves. A 1°C increase in daily ambient temperature was associated with a 0.9% increase in morbidity-related mental health outcomes across varied healthcare encounters and diagnoses (relative risk = 1.009; 95% confidence interval: 1.003–1.016). Children aged 5–18 years were most vulnerable, with a 1.5% increased risk associated with high temperatures (1.005–1.026) and 25% increased risk during heatwaves (1.006–1.561). Climate-zone analyses showed that children and young people in humid subtropical and hot-summer continental zones had the highest risks from high temperatures (1.004–1.036 and 1.004–1.038, respectively). Conclusion High temperatures and heatwaves were associated with adverse mental health risks in children and young people. Data were lacking for some of the hottest and most socio-economically disadvantaged regions globally. Future research should prioritize these regions, explore mechanistic pathways, and generate disaggregated data.</description>
+    </item>
+    <item>
       <title>Gestational age at birth and the risk of disability pension in early adulthood: a whole-population register study of people born in Finland in 1987–90</title>
       <link>https://doi.org/10.1093/ije/dyag127</link>
       <guid isPermaLink="false">10.1093/ije/dyag127</guid>
@@ -1403,26 +1516,6 @@ Abstract: Abstract Background Preterm (&amp;amp;lt;37 weeks), early-term (37–3
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag080
 
 Abstract: Abstract Background Cardiovascular disease (CVD) is the leading cause of disability-adjusted life years in South Asia, with adverse trends in CVD risk seen in rural residents in recent decades. Assessment of life-course trajectories of CVD risk factors is important to understand CVD aetiology. Methods The Andhra Pradesh Children and Parents cohort Study included all children (n = 2601) born during 1987–90 and their mothers (n = 1963) residing in 29 villages of South India. Participants were followed up in 2003–05, 2009–10, 2010–12, and 2021–23. Children (n = 4777 observations, 35% female) were assessed for body mass index (BMI), waist circumference, waist–hip ratio, waist–height ratio, fasting glucose, and central and peripheral skinfolds. For mothers (n = 3830 observations), repeated measures of BMI were available. Linear mixed-effect models with a random slope were used to model trajectories of CVD risk factors. Results BMI increased with age and the predicted mean BMI reached the World Health Organization’s increased risk action point for adult South Asians (≥23 kg/m2) at 28 years for male and 31 years for female children, while, for mothers, it was much later at 43–65 years. In male children compared with females, there was a faster progression to prediabetes, higher abdominal fat deposition, and a higher rate of increase in subscapular skinfolds. Conclusion South Asians living in rural areas showed increasing trajectories of several CVD risk factors, particularly in males. This highlights the need for interventions to mitigate the potential CVD burden.</description>
-    </item>
-    <item>
-      <title>First global synthesis of heat-related mental health impacts in children and young people: a systematic review and meta-analysis</title>
-      <link>https://doi.org/10.1093/ije/dyag121</link>
-      <guid isPermaLink="false">10.1093/ije/dyag121</guid>
-
-      <dc:creator>Shevonne Kwan</dc:creator>
-      <dc:creator>Jacqueline Stephens</dc:creator>
-      <dc:creator>Corey J A Bradshaw</dc:creator>
-      <dc:creator>Blesson M Varghese</dc:creator>
-      <dc:creator>Kirrilly Thompson</dc:creator>
-      <dc:creator>Melinda A Judge</dc:creator>
-      <dc:creator>Peter N Le Souëf</dc:creator>
-      <dc:creator>Syeda H Fatima</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shevonne Kwan, Jacqueline Stephens, Corey J A Bradshaw, Blesson M Varghese, Kirrilly Thompson, Melinda A Judge, Peter N Le Souëf, Syeda H Fatima
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag121
-
-Abstract: Abstract Background Climate change is increasing the frequency and severity of non-optimal temperatures and heatwaves, posing risks to public health, especially for children and young people. We performed a systematic review and meta-analysis to assess the impacts of (i) non-optimal ambient temperatures and (ii) heatwaves on mental health outcomes in this group globally. Methods We searched five databases for studies published between 2000 and 2024. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we selected studies by using the population–exposure–comparison–outcome (PECO) framework (PROSPERO protocol ID CRD42024524650). We performed a random-effects meta-analysis, assessed the risk of bias, and examined variation by age, gender, income, and climate zones. Results Of 23 included studies, 19 examined ambient temperature and 4 examined heatwaves. A 1°C increase in daily ambient temperature was associated with a 0.9% increase in morbidity-related mental health outcomes across varied healthcare encounters and diagnoses (relative risk = 1.009; 95% confidence interval: 1.003–1.016). Children aged 5–18 years were most vulnerable, with a 1.5% increased risk associated with high temperatures (1.005–1.026) and 25% increased risk during heatwaves (1.006–1.561). Climate-zone analyses showed that children and young people in humid subtropical and hot-summer continental zones had the highest risks from high temperatures (1.004–1.036 and 1.004–1.038, respectively). Conclusion High temperatures and heatwaves were associated with adverse mental health risks in children and young people. Data were lacking for some of the hottest and most socio-economically disadvantaged regions globally. Future research should prioritize these regions, explore mechanistic pathways, and generate disaggregated data.</description>
     </item>
     <item>
       <title>Fractions and number of cancer cases attributable to excess body fat in South Korea</title>
@@ -1602,80 +1695,6 @@ Abstract: Abstract Background Colorectal cancer (CRC) risk is increased in child
       <description>Authors: Stephen Leeder, Alistair Woodward
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag095</description>
-    </item>
-    <item>
-      <title>A tutorial on conducting sample size and power calculations for detecting treatment effect heterogeneity in cluster randomized trials with linear mixed models</title>
-      <link>https://doi.org/10.1093/ije/dyag069</link>
-      <guid isPermaLink="false">10.1093/ije/dyag069</guid>
-
-      <dc:creator>Mary Ryan Baumann</dc:creator>
-      <dc:creator>Monica Taljaard</dc:creator>
-      <dc:creator>Patrick J Heagerty</dc:creator>
-      <dc:creator>Michael O Harhay</dc:creator>
-      <dc:creator>Guangyu Tong</dc:creator>
-      <dc:creator>Rui Wang</dc:creator>
-      <dc:creator>Fan Li</dc:creator>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mary Ryan Baumann, Monica Taljaard, Patrick J Heagerty, Michael O Harhay, Guangyu Tong, Rui Wang, Fan Li
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag069
-
-Abstract: Abstract Cluster-randomized trials (CRTs) are a well-established class of designs for evaluating community-based interventions. An essential task in planning these trials is determining the number of clusters and cluster sizes needed to achieve sufficient statistical power for detecting a clinically relevant effect size. While methods for evaluating the average treatment effect (ATE) for the entire study population are well-established, sample size methods for testing heterogeneity of treatment effects (HTEs), i.e. treatment–covariate interaction or difference in subpopulation-specific treatment effects, in CRTs have only recently been developed. For pre-specified analyses of HTEs in CRTs, effect-modifying covariates should, ideally, be accompanied by sample size or power calculations to ensure the trial has adequate power for the planned analyses. Power analysis for testing HTEs is more complex than for ATEs due to the additional design parameters that must be specified. Power and sample size formulas for testing HTEs via linear mixed-effects models have been separately derived for different cluster-randomized designs, including single and multi-period parallel designs, crossover designs, and stepped-wedge designs, and for continuous and binary outcomes. This tutorial provides a consolidated reference guide for these methods and enhances their accessibility through an online R Shiny Calculator. We further discuss key considerations for conducting sample size and power calculations to test pre-specified HTE hypotheses in CRTs, highlighting the importance of specifying advanced estimates of intracluster correlation coefficients for both outcomes and covariates and their implications for power. The sample size methodology and calculator functionality are demonstrated through a real CRT example.</description>
-    </item>
-    <item>
-      <title>Cohort Profile Update: The 1982 Pelotas (Brazil) Birth Cohort follow-up at 40 years</title>
-      <link>https://doi.org/10.1093/ije/dyag075</link>
-      <guid isPermaLink="false">10.1093/ije/dyag075</guid>
-
-      <dc:creator>Bernardo L Horta</dc:creator>
-      <dc:creator>Fernando P Hartwig</dc:creator>
-      <dc:creator>Mariane da S. Dias</dc:creator>
-      <dc:creator>Riceli R Oliveira</dc:creator>
-      <dc:creator>Natália P Lima</dc:creator>
-      <dc:creator>Janaina V dos S. Motta</dc:creator>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bernardo L Horta, Fernando P Hartwig, Mariane da S. Dias, Riceli R Oliveira, Natália P Lima, Janaina V dos S. Motta
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag075</description>
-    </item>
-    <item>
-      <title>Correction to: What makes a study design quasi-experimental? The case of difference-in-differences</title>
-      <link>https://doi.org/10.1093/ije/dyag062</link>
-      <guid isPermaLink="false">10.1093/ije/dyag062</guid>
-
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag062</description>
-    </item>
-    <item>
-      <title>Estimates of vaccine effectiveness against measles and mumps: 14 years follow-up of a large cohort in Wales, UK</title>
-      <link>https://doi.org/10.1093/ije/dyag083</link>
-      <guid isPermaLink="false">10.1093/ije/dyag083</guid>
-
-      <dc:creator>Malorie Perry</dc:creator>
-      <dc:creator>Michael B Gravenor</dc:creator>
-      <dc:creator>Simon Cottrell</dc:creator>
-      <dc:creator>Catherine Moore</dc:creator>
-      <dc:creator>Lucy J Griffiths</dc:creator>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Malorie Perry, Michael B Gravenor, Simon Cottrell, Catherine Moore, Lucy J Griffiths
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag083
-
-Abstract: Abstract Background Uptake of the measles–mumps–rubella vaccine in Wales is high. However, sporadic measles cases still occur and there are large mumps outbreaks every few years. In this study, the long-term vaccine effectiveness (VE) of vaccines containing measles and mumps is assessed. Methods A retrospective cohort of 822 116 individuals aged 1–30 years were followed up between 1 January 2007 and 31 December 2020. Welsh Demographic Service data were linked to vaccination status from the national vaccination register and primary care records. Outcomes were identified by linking to laboratory confirmations (measles and mumps) and notifications (mumps) data. Complications were sourced from hospital admissions and primary care data. Extended Cox regression was used to calculate hazard ratios. Results The adjusted VE (aVE) against confirmed measles after two doses remained high after 15 years 99.7% [95% confidence interval (CI) 99.2–99.9]. The aVE for confirmed mumps was lower, with decline over time: 93.6% (95% CI 90.2–95.8) in the first 5 years after vaccination with dose two and 49.9% (95% CI 34.4–61.8) after ≥15 years. A third dose of mumps vaccine temporarily increases protection (87.6%, 95% CI 71.7–94.6). The aVE estimates for mumps were lower when based on clinical suspicion. The VE was high against complications for both infections. Conclusion The high, sustained VE for measles strengthens evidence that elimination remains possible and the high VE against mumps complications is encouraging. Evidence for the waning of mumps immunity may be important when deciding to implement a third dose in outbreak settings. With the increased use of data linkage, studies should be conducted to corroborate these findings.</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: the British Columbia Chronic Disease Registry (BCCDR)</title>
-      <link>https://doi.org/10.1093/ije/dyag078</link>
-      <guid isPermaLink="false">10.1093/ije/dyag078</guid>
-
-      <dc:creator>Andrea D Olmstead</dc:creator>
-      <dc:creator>Kayla McLean</dc:creator>
-      <dc:creator>Imelda S Wong</dc:creator>
-      <dc:creator>Xibiao Ye</dc:creator>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Andrea D Olmstead, Kayla McLean, Imelda S Wong, Xibiao Ye
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 3; Article number: dyag078</description>
     </item>
   </channel>
 </rss>
