@@ -5,8 +5,37 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:17:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:00:43 +0000</lastBuildDate>
 
+    <item>
+      <title>Editorial Expression of Concern: SWI/SNF-mutant cancers depend on catalytic and non-catalytic activity of EZH2</title>
+      <link>https://doi.org/10.1038/s41591-026-04708-9</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04708-9</guid>
+
+      <dc:creator>Kimberly H. Kim</dc:creator>
+      <dc:creator>Woojin Kim</dc:creator>
+      <dc:creator>Thomas P. Howard</dc:creator>
+      <dc:creator>Francisca Vazquez</dc:creator>
+      <dc:creator>Aviad Tsherniak</dc:creator>
+      <dc:creator>Jennifer N. Wu</dc:creator>
+      <dc:creator>Weishan Wang</dc:creator>
+      <dc:creator>Jeffrey R. Haswell</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kimberly H. Kim, Woojin Kim, Thomas P. Howard, Francisca Vazquez, Aviad Tsherniak, Jennifer N. Wu, Weishan Wang, Jeffrey R. Haswell, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>How genes shape personality and experience</title>
+      <link>https://doi.org/10.1038/d41591-026-00046-y</link>
+      <guid isPermaLink="false">10.1038/d41591-026-00046-y</guid>
+
+      <dc:creator>Karen O’Leary</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Karen O’Leary
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>Levetiracetam therapeutically targets GABAergic synapses in diffuse midline glioma</title>
       <link>https://doi.org/10.1038/s41591-026-04646-6</link>
@@ -1541,44 +1570,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine
 
 Abstract: Abstract Millions of users turn to consumer artificial intelligence chatbots to discuss emotional, behavioral and mental-health concerns, creating an urgent need for rigorous and scalable safety evaluations. Here we introduce simulated (SIM) vulnerability-amplifying interaction loops (VAILs) (SIM-VAIL), a clinically validated framework for auditing chatbot behavior in mental-health contexts. SIM-VAIL simulates users with specific psychiatric vulnerabilities and conversational intents, engages them in multi-turn conversations with frontier artificial intelligence chatbots (including Claude, ChatGPT, Gemini, Grok and Llama models) and scores each exchange across 13 clinically grounded risk dimensions. Across 810 conversations, spanning 9 target chatbots and 30 simulated user profiles, concerning behavior in target chatbots was widespread, albeit reduced in newer models. Concerning behavior varied by user vulnerability and conversational intent, accumulated over turns, and could be reduced by interventions at early escalation points. Risk was highest when otherwise supportive chatbot behaviors reinforced the psychological mechanisms underlying the simulated user’s vulnerability, a pattern we term a VAIL. SIM-VAIL provides a scalable framework for mapping mental-health risk across users, chatbots and conversational trajectories, offering a foundation for targeted safety improvements.</description>
-    </item>
-    <item>
-      <title>Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04541-0</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04541-0</guid>
-
-      <dc:creator>James J. Rucker</dc:creator>
-      <dc:creator>Tim Mantingh</dc:creator>
-      <dc:creator>Jess Kerr-Gaffney</dc:creator>
-      <dc:creator>Catherine Bird</dc:creator>
-      <dc:creator>Petrina Chu</dc:creator>
-      <dc:creator>Nadav Liam Modlin</dc:creator>
-      <dc:creator>Kete Campbell-Coker</dc:creator>
-      <dc:creator>Sadie Hambleton</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: James J. Rucker, Tim Mantingh, Jess Kerr-Gaffney, Catherine Bird, Petrina Chu, Nadav Liam Modlin, Kete Campbell-Coker, Sadie Hambleton, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 9; Pages: 3430-3437
-
-Abstract: Abstract Psilocybin-assisted therapy may be a promising new treatment for treatment-resistant depression. We examined the feasibility of administering a single 25-mg dose of psilocybin or placebo with psychological support in a randomized controlled trial design with 6 weeks of follow-up. A two-arm, double-blind, randomized, placebo-controlled feasibility trial was conducted at one National Health Service (NHS) site in England. Eligible participants met Diagnostic and Statistical Manual of Mental Disorders , Fifth Edition (DSM-5) criteria for major depressive disorder and had an inadequate response to ≥2 antidepressant treatments or ≥1 antidepressant plus ≥1 psychotherapy. Participants received 25-mg psilocybin or placebo with preparation, dosing support and integration. Primary outcomes were recruitment, retention and estimation of the Montgomery−Åsberg Depression Rating Scale (MADRS) variance. A multilevel regression analysis with an intention-to-treat population was used. Sixty participants were randomized (1:1), balanced by age, sex and prior psilocybin exposure, and 59 of 60 participants completed the MADRS at all follow-up visits. The adjusted between-group difference at week 3 on the MADRS was −10.41 (95% confidence interval: −14.86 to −5.95; Cohen’s d = −1.70), favoring psilocybin, which was sustained at week 6. In total, 123 and 164 nonserious adverse events occurred in the placebo and psilocybin arms, respectively. Findings support a future confirmatory trial. EudraCT no.: 2018-003573-97 .</description>
-    </item>
-    <item>
-      <title>Intracranial delivery of B7-H3-targeting CAR-T cells for recurrent glioblastoma: a phase 1 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04557-6</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04557-6</guid>
-
-      <dc:creator>Yang Zhang</dc:creator>
-      <dc:creator>Xiaohan Chi</dc:creator>
-      <dc:creator>Rui Feng</dc:creator>
-      <dc:creator>Na Xian</dc:creator>
-      <dc:creator>Na Huang</dc:creator>
-      <dc:creator>Shengjun Sun</dc:creator>
-      <dc:creator>Xiaobin Zhao</dc:creator>
-      <dc:creator>Peng Zhang</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yang Zhang, Xiaohan Chi, Rui Feng, Na Xian, Na Huang, Shengjun Sun, Xiaobin Zhao, Peng Zhang, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 9; Pages: 3268-3275</description>
     </item>
   </channel>
 </rss>
