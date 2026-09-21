@@ -5,16 +5,23 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 11:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:50:34 +0000</lastBuildDate>
 
     <item>
-      <title>How genes shape personality and experience</title>
-      <link>https://doi.org/10.1038/d41591-026-00046-y</link>
-      <guid isPermaLink="false">10.1038/d41591-026-00046-y</guid>
+      <title>A consensus-based guideline for personalized bacteriophage therapy</title>
+      <link>https://doi.org/10.1038/s41591-026-04654-6</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04654-6</guid>
 
-      <dc:creator>Karen O’Leary</dc:creator>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Karen O’Leary
+      <dc:creator>Silvia Würstle</dc:creator>
+      <dc:creator>Simone C. Lieberknecht-Jouy</dc:creator>
+      <dc:creator>Anja Düchting</dc:creator>
+      <dc:creator>Holger Lößner</dc:creator>
+      <dc:creator>Pieter-Jan Ceyssens</dc:creator>
+      <dc:creator>Jean-Paul Pirnay</dc:creator>
+      <dc:creator>Mathieu de Jode</dc:creator>
+      <dc:creator>Shawna McCallin</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Silvia Würstle, Simone C. Lieberknecht-Jouy, Anja Düchting, Holger Lößner, Pieter-Jan Ceyssens, Jean-Paul Pirnay, Mathieu de Jode, Shawna McCallin, et al.
 
 Journal: Nature Medicine</description>
     </item>
@@ -33,6 +40,17 @@ Journal: Nature Medicine</description>
       <dc:creator>Jeffrey R. Haswell</dc:creator>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>Authors: Kimberly H. Kim, Woojin Kim, Thomas P. Howard, Francisca Vazquez, Aviad Tsherniak, Jennifer N. Wu, Weishan Wang, Jeffrey R. Haswell, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>How genes shape personality and experience</title>
+      <link>https://doi.org/10.1038/d41591-026-00046-y</link>
+      <guid isPermaLink="false">10.1038/d41591-026-00046-y</guid>
+
+      <dc:creator>Karen O’Leary</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Karen O’Leary
 
 Journal: Nature Medicine</description>
     </item>
@@ -473,14 +491,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>Gene alteration in human brain suggests genetic and epigenetic roots of major depression</title>
-      <link>https://doi.org/10.1038/s41591-026-04682-2</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04682-2</guid>
-
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>Reply to: Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison</title>
       <link>https://doi.org/10.1038/s41591-026-04637-7</link>
       <guid isPermaLink="false">10.1038/s41591-026-04637-7</guid>
@@ -504,6 +514,14 @@ Journal: Nature Medicine</description>
       <description>Authors: Brett Beaulieu-Jones, Shamim Nemati
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Gene alteration in human brain suggests genetic and epigenetic roots of major depression</title>
+      <link>https://doi.org/10.1038/s41591-026-04682-2</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04682-2</guid>
+
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine</description>
     </item>
     <item>
       <title>Induced proximity comes of age</title>
@@ -1552,24 +1570,6 @@ Journal: Nature Medicine</description>
       <description>Authors: Na Qin, Juncheng Dai, Yue Jiang, Yuan Xie, Hong Lv, Jun Zhou, Xiao Wang, Yangqian Jiang, et al.
 
 Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>A clinically validated framework for auditing AI chatbot behavior in mental health interactions</title>
-      <link>https://doi.org/10.1038/s41591-026-04577-2</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04577-2</guid>
-
-      <dc:creator>Veith Weilnhammer</dc:creator>
-      <dc:creator>Kevin YC Hou</dc:creator>
-      <dc:creator>Lennart Luettgau</dc:creator>
-      <dc:creator>Christopher Summerfield</dc:creator>
-      <dc:creator>Raymond Dolan</dc:creator>
-      <dc:creator>Matthew M. Nour</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Veith Weilnhammer, Kevin YC Hou, Lennart Luettgau, Christopher Summerfield, Raymond Dolan, Matthew M. Nour
-
-Journal: Nature Medicine
-
-Abstract: Abstract Millions of users turn to consumer artificial intelligence chatbots to discuss emotional, behavioral and mental-health concerns, creating an urgent need for rigorous and scalable safety evaluations. Here we introduce simulated (SIM) vulnerability-amplifying interaction loops (VAILs) (SIM-VAIL), a clinically validated framework for auditing chatbot behavior in mental-health contexts. SIM-VAIL simulates users with specific psychiatric vulnerabilities and conversational intents, engages them in multi-turn conversations with frontier artificial intelligence chatbots (including Claude, ChatGPT, Gemini, Grok and Llama models) and scores each exchange across 13 clinically grounded risk dimensions. Across 810 conversations, spanning 9 target chatbots and 30 simulated user profiles, concerning behavior in target chatbots was widespread, albeit reduced in newer models. Concerning behavior varied by user vulnerability and conversational intent, accumulated over turns, and could be reduced by interventions at early escalation points. Risk was highest when otherwise supportive chatbot behaviors reinforced the psychological mechanisms underlying the simulated user’s vulnerability, a pattern we term a VAIL. SIM-VAIL provides a scalable framework for mapping mental-health risk across users, chatbots and conversational trajectories, offering a foundation for targeted safety improvements.</description>
     </item>
   </channel>
 </rss>
