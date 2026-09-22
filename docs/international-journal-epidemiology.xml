@@ -5,28 +5,8 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:49:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:39:28 +0000</lastBuildDate>
 
-    <item>
-      <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
-      <link>https://doi.org/10.1093/ije/dyag158</link>
-      <guid isPermaLink="false">10.1093/ije/dyag158</guid>
-
-      <dc:creator>Solomon Keflie Assefa</dc:creator>
-      <dc:creator>Adem Tsegaw Zegeye</dc:creator>
-      <dc:creator>Belayneh Jejaw Abate</dc:creator>
-      <dc:creator>Dejen Kahsay Asgedom</dc:creator>
-      <dc:creator>Eliyas Addisu Taye</dc:creator>
-      <dc:creator>Endalew Minwuye Andargie</dc:creator>
-      <dc:creator>Eyob Akalewold Alemu</dc:creator>
-      <dc:creator>Halima Ayalew Kebede</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Solomon Keflie Assefa, Adem Tsegaw Zegeye, Belayneh Jejaw Abate, Dejen Kahsay Asgedom, Eliyas Addisu Taye, Endalew Minwuye Andargie, Eyob Akalewold Alemu, Halima Ayalew Kebede, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag158
-
-Abstract: Abstract Background Ethiopia has achieved substantial reductions in under-five mortality, but national estimates mask important subnational variation. Reliable zonal estimates are needed to identify high-burden areas and guide local health planning. This study estimated under-five mortality across Ethiopian zones by using a Bayesian spatial small-area estimation (SAE) approach with geospatial covariates. Methods An ecological analysis was conducted by using data from the 2019 Mini-Ethiopian Demographic and Health Survey. Under-five mortality risk was estimated at the zonal level through a Bayesian hierarchical spatial SAE model. Associations with selected area-level covariates were assessed. Smoothed relative risks (RRs) with corresponding 95% credible intervals (CrIs) were reported. Results Marked geographic heterogeneity in under-five mortality was observed. Elevated risks were concentrated in peripheral lowland regions, particularly Somali, Afar, Benishangul-Gumuz, and Gambella. High-burden zones included Afar (Zones 1, 2, and 3), Metekel in Benishangul-Gumuz, Anguak and Nuer in Gambella, and Dollo, Faftan, and Liben in Somali. Population density was inversely associated with mortality (RR: 0.83, 95% CrI: 0.77–0.98), whereas longer travel time to the nearest city was associated with higher under-five mortality (RR: 1.24, 95% CrI: 1.02–1.44). Conclusion Under-five mortality remains unevenly distributed across Ethiopia, with persistent hotspots in remote and underserved regions. Improving geographic access to health services in these areas may help reduce inequalities in child survival and support progress toward the 2030 Sustainable Development Goals.</description>
-    </item>
     <item>
       <title>Adiposity and infection-related mortality: Mendelian randomization study of 126 000 Mexican adults</title>
       <link>https://doi.org/10.1093/ije/dyag197</link>
@@ -46,6 +26,26 @@ Abstract: Abstract Background Ethiopia has achieved substantial reductions in un
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag197
 
 Abstract: Abstract Background The causal relevance of different adiposity markers to infection-related death remains uncertain. We estimated the lifelong associations of genetically predicted adiposity traits with infection-related mortality among 126 491 Mexican adults. Methods Mendelian randomization (MR) using trans-ancestry instruments for body mass index (BMI), fat-mass percentage (FM%), and waist and hip circumference was used to estimate causal effects on infection-related mortality at ages 35–74 years, overall and across six infection subtypes. Multivariable MR was used to assess independent associations. Results Genetic instruments explained 1.6%–3.5% of the variance in adiposity markers and the strengths of their associations with the markers were similar in men and women. Over 20 years, 2592 infection-related deaths occurred at ages 35–74 years. Genetically predicted adiposity was strongly associated with infection mortality, with the strongest association for FM% [hazard ratio (HR) per 1-SD higher level: 2.54; 95% confidence interval (CI) 1.91–3.38] and the weakest for hip circumference (HR 1.61; 95% CI 1.30–2.01). Associations were consistent across six subtypes: respiratory; urinary tract; gastrointestinal; sepsis; skin, bone, and connective tissue; and other infections. For BMI and FM%, mutual adjustment for waist and hip circumference reduced the associations by nearly one-third. For waist circumference, adjustment for BMI and hip circumference reduced the association by more than half, while, for hip circumference, mutual adjustment for BMI and waist circumference almost eliminated its association. Sensitivity analyses supported the main conclusions. Conclusion Higher adiposity is causally associated with a higher risk of infection-related mortality in Mexican adults. Strategies to reduce the population levels of adiposity in Mexico could contribute to lowering mortality from infection.</description>
+    </item>
+    <item>
+      <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
+      <link>https://doi.org/10.1093/ije/dyag158</link>
+      <guid isPermaLink="false">10.1093/ije/dyag158</guid>
+
+      <dc:creator>Solomon Keflie Assefa</dc:creator>
+      <dc:creator>Adem Tsegaw Zegeye</dc:creator>
+      <dc:creator>Belayneh Jejaw Abate</dc:creator>
+      <dc:creator>Dejen Kahsay Asgedom</dc:creator>
+      <dc:creator>Eliyas Addisu Taye</dc:creator>
+      <dc:creator>Endalew Minwuye Andargie</dc:creator>
+      <dc:creator>Eyob Akalewold Alemu</dc:creator>
+      <dc:creator>Halima Ayalew Kebede</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Solomon Keflie Assefa, Adem Tsegaw Zegeye, Belayneh Jejaw Abate, Dejen Kahsay Asgedom, Eliyas Addisu Taye, Endalew Minwuye Andargie, Eyob Akalewold Alemu, Halima Ayalew Kebede, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag158
+
+Abstract: Abstract Background Ethiopia has achieved substantial reductions in under-five mortality, but national estimates mask important subnational variation. Reliable zonal estimates are needed to identify high-burden areas and guide local health planning. This study estimated under-five mortality across Ethiopian zones by using a Bayesian spatial small-area estimation (SAE) approach with geospatial covariates. Methods An ecological analysis was conducted by using data from the 2019 Mini-Ethiopian Demographic and Health Survey. Under-five mortality risk was estimated at the zonal level through a Bayesian hierarchical spatial SAE model. Associations with selected area-level covariates were assessed. Smoothed relative risks (RRs) with corresponding 95% credible intervals (CrIs) were reported. Results Marked geographic heterogeneity in under-five mortality was observed. Elevated risks were concentrated in peripheral lowland regions, particularly Somali, Afar, Benishangul-Gumuz, and Gambella. High-burden zones included Afar (Zones 1, 2, and 3), Metekel in Benishangul-Gumuz, Anguak and Nuer in Gambella, and Dollo, Faftan, and Liben in Somali. Population density was inversely associated with mortality (RR: 0.83, 95% CrI: 0.77–0.98), whereas longer travel time to the nearest city was associated with higher under-five mortality (RR: 1.24, 95% CrI: 1.02–1.44). Conclusion Under-five mortality remains unevenly distributed across Ethiopia, with persistent hotspots in remote and underserved regions. Improving geographic access to health services in these areas may help reduce inequalities in child survival and support progress toward the 2030 Sustainable Development Goals.</description>
     </item>
     <item>
       <title>When air pollution meets comorbidities: evidence on the causal effect of PM2.5 on COVID-19 hospitalizations and deaths</title>
@@ -83,20 +83,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Increased childhood adiposity contributes to higher type 2 diabetes (T2D) risk, but the underlying mechanisms remain unclear. Furthermore, whether these mechanistic pathways are shared across ethnic groups has not been explored. Methods We conducted a two-step Mendelian randomization (MR) using European-based summary statistics from genome-wide association studies of childhood body mass index (BMI) (n = 61 111), adulthood proteomics (n = 35 559), and later life T2D (cases: 242 283; controls: 1 569 734). We also conducted a recall-by-genotype (RbG) study in a Chinese birth cohort (n = 250) to assess whether childhood BMI was associated with the identified proteomic signals in an East Asian population. Analyses included multi-instrument MR methods (inverse variance weighted and MR-Egger) and, for single-instrument proteins, cis-MR using the Wald ratio, with colocalization validation. Multiple testing was adjusted using false discovery rate (FDR). Results Higher genetically predicted childhood BMI was associated with 1299 proteins (FDR-adjusted P &amp;amp;lt; .05), of which 36 proteins were associated with higher T2D risk. Six proteins were supported by colocalization (PPH4 &amp;amp;gt; 80%). Genetically predicted higher childhood BMI was positively associated with GCKR, RBP1, ENTPD6, and GST A1-1, and inversely associated with PRSS27 and SHBG. The proportion of the BMI-T2D effect mediated by these proteins ranged from 1.87% to 12.92%. However, only SHBG was replicated in Asians in the RbG study. Conclusions Our study identified putative actionable proteins that could reduce the elevated T2D risk attributable to childhood adiposity in Europeans, but their relevance in Asian populations requires further investigation.</description>
     </item>
     <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
-
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
-
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
-    </item>
-    <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
       <link>https://doi.org/10.1093/ije/dyag176</link>
       <guid isPermaLink="false">10.1093/ije/dyag176</guid>
@@ -113,6 +99,20 @@ Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag176
 
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
+    </item>
+    <item>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
     </item>
     <item>
       <title>Negative controls and how to use them: a guidance paper</title>
@@ -281,22 +281,6 @@ Abstract: Abstract Background The association between homelessness and the type 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag200</description>
     </item>
     <item>
-      <title>Examining the role of insulin-like growth factor 1 in the pathophysiology of carpal tunnel syndrome: a Mendelian randomization study</title>
-      <link>https://doi.org/10.1093/ije/dyag173</link>
-      <guid isPermaLink="false">10.1093/ije/dyag173</guid>
-
-      <dc:creator>Alex J Wood</dc:creator>
-      <dc:creator>Catherine E Lovegrove</dc:creator>
-      <dc:creator>Dominic Furniss</dc:creator>
-      <dc:creator>Akira Wiberg</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alex J Wood, Catherine E Lovegrove, Dominic Furniss, Akira Wiberg
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
-
-Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
-    </item>
-    <item>
       <title>Adiposity and risk of breast cancer in 280 000 Chinese women: a prospective cohort study</title>
       <link>https://doi.org/10.1093/ije/dyag155</link>
       <guid isPermaLink="false">10.1093/ije/dyag155</guid>
@@ -315,6 +299,22 @@ Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disab
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag155
 
 Abstract: Abstract Background Adiposity is associated with increased risk of breast cancer in post-menopausal women, while the association appears to be the inverse among premenopausal women in Western populations, but is unclear for Chinese women. Methods Using data on 284 538 women with no history of cancer, hysterectomy, oophorectomy, or breast surgery at baseline in 2004–8 from the China Kadoorie Biobank (a prospective cohort study), Cox regression was used to estimate adjusted hazard ratios (HRs) for breast cancer and its subtypes by measured body mass index (BMI) and other adiposity measures (waist circumference, fat percentage, waist–hip ratio, fat mass) and by self-reported BMI at age 25 years. Results Mean BMI was 23.8 (3.5 SD) kg/m2 at baseline (mean age 51.4 years) and 21.9 (2.7 SD) kg/m2 at age 25 years. During 10 years of follow-up, there were 2379 incident breast cancer cases. Higher BMI was associated with a higher risk of breast cancer in women who were post-menopausal [HR = 1.35, 95% confidence interval (CI) 1.24–1.47] and premenopausal (HR = 1.13, 95% CI 1.03–1.24) at baseline, but not when censoring at age 50 years to capture mainly premenopausal cancers. Among post-menopausal women, BMI was associated with oestrogen-receptor positive (ER ) (HR = 1.47, 95% CI 1.24–1.74), but not with oestrogen-receptor negative (ER−) breast cancer (HR = 1.02, 95% CI 0.75–1.37). Waist circumference and fat percentage were associated with a higher risk of breast cancer. Conclusion In this cohort of Chinese women, higher levels of general and central adiposity were associated with a higher risk of breast cancer, in both women who were premenopausal and women who were post-menopausal at baseline. Among post-menopausal women, adiposity was associated with ER but not ER − breast cancer.</description>
+    </item>
+    <item>
+      <title>Examining the role of insulin-like growth factor 1 in the pathophysiology of carpal tunnel syndrome: a Mendelian randomization study</title>
+      <link>https://doi.org/10.1093/ije/dyag173</link>
+      <guid isPermaLink="false">10.1093/ije/dyag173</guid>
+
+      <dc:creator>Alex J Wood</dc:creator>
+      <dc:creator>Catherine E Lovegrove</dc:creator>
+      <dc:creator>Dominic Furniss</dc:creator>
+      <dc:creator>Akira Wiberg</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alex J Wood, Catherine E Lovegrove, Dominic Furniss, Akira Wiberg
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
+
+Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
     </item>
     <item>
       <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
@@ -369,22 +369,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Previous research on moderate-to-vigorous physical activity (MVPA) and ovarian cancer risk have shown inconsistent results. Most studies measured recreational MVPA once during late adulthood, which does not consider the way in which timing may differently influence risk or account for MVPA from other activities. Life-course epidemiology models (critical-period, sensitive-period, and accumulation) can evaluate whether the timing and cumulative burden of total MVPA across the lifespan influences risk. Here, we identify which model best describes the association between total MVPA, encompassing recreational, occupational, household, and transportation activities, and invasive ovarian cancer risk. Methods A population-based case–control study of ovarian cancer in Montreal, Canada (2011–16) included 268 invasive cases and 668 controls aged ≥52 years. Total MVPA was determined by using recalled information on the frequency and duration of various physical activities across adulthood. A Bayesian relevant life course exposure model was used to estimate the relative importance of total MVPA, represented as average energy expenditure in units of metabolic equivalent (MET)-hours/week, during three pre-specified periods (early reproductive years, late reproductive years/perimenopause, and postmenopause) on invasive ovarian cancer risk. Results The lifetime-effect odds ratio comparing ≥50 vs &amp;amp;lt;50 MET-hours/week across adulthood was 0.59 (95% credible interval: 0.35–0.93). MVPA during late reproductive years/perimenopause showed the highest relative importance, suggesting that this may be a sensitive period. Associations were similar for serous and non-serous subtypes. Conclusion Our results support that higher MVPA across the adult life course is associated with a reduced invasive ovarian cancer risk and mid-adulthood, represented by late reproductive years/perimenopause, may be a sensitive period.</description>
     </item>
     <item>
-      <title>Comparing genome-wide significant and chemosensory variants as instruments for dietary patterns in Mendelian randomization</title>
-      <link>https://doi.org/10.1093/ije/dyag186</link>
-      <guid isPermaLink="false">10.1093/ije/dyag186</guid>
-
-      <dc:creator>Phoebe S C Hui</dc:creator>
-      <dc:creator>Brooke L Devlin</dc:creator>
-      <dc:creator>David M Evans</dc:creator>
-      <dc:creator>Liang-Dar Hwang</dc:creator>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Phoebe S C Hui, Brooke L Devlin, David M Evans, Liang-Dar Hwang
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
-
-Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
-    </item>
-    <item>
       <title>Clinical and social determinants of COVID-19 lethality and ICU admission across variant waves in the Brazilian Amazon</title>
       <link>https://doi.org/10.1093/ije/dyag190</link>
       <guid isPermaLink="false">10.1093/ije/dyag190</guid>
@@ -401,6 +385,22 @@ Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabol
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag190
 
 Abstract: Abstract Background The state of Amazonas, located in the Brazilian Amazon, was disproportionately affected during the first waves of the COVID-19 pandemic. Methods We conducted a population-based cohort study including all confirmed COVID-19 cases (2020–2) in the state of Amazonas, located in northern Brazil, linking data from three surveillance systems with cases of influenza-like illness (ILI) and severe acute respiratory syndrome (SARS). Outcomes included death, intensive care unit (ICU) admission, and a composite severity outcome. Results Among 420 819 cases, 378 142 (89.9%) had ILI and 42 677 (10.1%) had SARS. A substantial burden of severe outcomes was observed among SARS cases, with ∼25% (n = 8910/35 909) of patients admitted to the ICU, 21.1% (n = 7229/34 323) requiring invasive mechanical ventilation, and 36.7% (n = 14 971/40 837) dying. Male sex [odds ratio (OR) = 1.23; 95% confidence interval (CI): 1.15–1.31; P &amp;amp;lt; .001], age of ≥70 years (OR = 13.73; 95% CI: 11.97–15.76; P &amp;amp;lt; .001), Indigenous ethnicity (OR = 2.32; 95% CI: 1.85–2.91; P &amp;amp;lt; .001), dyspnea (OR = 1.99; 95% CI: 1.82–2.19; P &amp;amp;lt; .001), loss of smell (OR = 1.54; 95% CI: 1.31–1.81; P &amp;amp;lt; .001), and comorbidities, including chronic kidney disease (OR = 1.94; 95% CI: 1.58–2.39; P &amp;amp;lt; .001), chronic respiratory disease (OR = 1.38; 95% CI: 1.08–1.77; P &amp;amp;lt; .05), diabetes (OR = 1.12; 95% CI: 1.03–1.22; P &amp;amp;lt; .05), obesity (OR = 1.31; 95% CI: 1.13–1.51; P &amp;amp;lt; .001), and immunosuppression (OR = 1.90; 95% CI: 1.48–2.44; P &amp;amp;lt; .001), were independently associated with a higher risk of death. Lethality increased significantly during the Gamma wave (OR = 3.76; 95% CI: 3.34–4.24; P &amp;amp;lt; .001). Conclusion The severity of COVID-19 in Amazonas was shaped by biological, structural, and viral factors, highlighting the need for equitable strengthening of the health system.</description>
+    </item>
+    <item>
+      <title>Comparing genome-wide significant and chemosensory variants as instruments for dietary patterns in Mendelian randomization</title>
+      <link>https://doi.org/10.1093/ije/dyag186</link>
+      <guid isPermaLink="false">10.1093/ije/dyag186</guid>
+
+      <dc:creator>Phoebe S C Hui</dc:creator>
+      <dc:creator>Brooke L Devlin</dc:creator>
+      <dc:creator>David M Evans</dc:creator>
+      <dc:creator>Liang-Dar Hwang</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Phoebe S C Hui, Brooke L Devlin, David M Evans, Liang-Dar Hwang
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
+
+Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
     </item>
     <item>
       <title>Redefining the public health problem in epidemiology:
@@ -521,17 +521,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag181</description>
     </item>
     <item>
-      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag148</link>
-      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
-
-      <dc:creator>Cesar Victora</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Cesar Victora
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
-    </item>
-    <item>
       <title>Dental amalgam exposure and multiple sclerosis: authors’ response</title>
       <link>https://doi.org/10.1093/ije/dyag142</link>
       <guid isPermaLink="false">10.1093/ije/dyag142</guid>
@@ -544,6 +533,17 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
       <description>Authors: Jie Guo, Tomas Olsson, Lars Alfredsson, Anna Karin Hedström
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag142</description>
+    </item>
+    <item>
+      <title>Miquel Porta’s seventh edition of the Dictionary of Epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag148</link>
+      <guid isPermaLink="false">10.1093/ije/dyag148</guid>
+
+      <dc:creator>Cesar Victora</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cesar Victora
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag148</description>
     </item>
     <item>
       <title>Contributions of prior health and vaccination to inequality in COVID-19 mortality by income: analysis of administrative microdata for the non-institutionalized Dutch population</title>
@@ -562,6 +562,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background The COVID-19 pandemic caused a large health burden that disproportionally fell on people with a lower socio-economic status. Not much is known about the role of structural differences in pre-existing health and vaccination uptake in explaining these inequalities. We aim to disentangle these factors and quantify their contribution to income-related inequality in COVID-19 mortality. Methods Using linked Dutch administrative microdata (N = 6 619 699), we model the risk of COVID-19 death based on pre-existing health and vaccination status for the entire population above the age of 50 years in 2021. Health is proxied by individual-level remaining life expectancy based on predictions by income using detailed information on demographics, specific outpatient medication(s), and hospital records. Building on this, we then quantify the extent to which differences in pre-existing health and vaccination status between lower and higher incomes explain income-related differences in COVID-19 deaths. Results We find strong income-related differences in COVID-19 mortality. In 2021, individuals of the poorest income quintile were about three times more likely to die of COVID-19 than those in the richest quintile. Differences in pre-existing health are more important than differences in vaccination uptake in explaining this gap. For the poorest males/females, 67%/46% can be explained by differences in health and 14%/19% by vaccination status. Conclusion Differences in pre-existing health by income are likely the most important determinant of income-related inequality in COVID-19 mortality. These findings signal that policies focused on reducing existing inequalities in health might lessen the burden of future health crises.</description>
     </item>
     <item>
+      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
+      <link>https://doi.org/10.1093/ije/dyag199</link>
+      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
+
+      <dc:creator>Xueyan Zheng</dc:creator>
+      <dc:creator>Christian Bottomley</dc:creator>
+      <dc:creator>Woojoo Lee</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
+
+Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
+    </item>
+    <item>
       <title>Peripubertal pregnancies and associations with health and developmental outcomes in offspring during late adolescence and adulthood: sibling-comparison register study</title>
       <link>https://doi.org/10.1093/ije/dyag153</link>
       <guid isPermaLink="false">10.1093/ije/dyag153</guid>
@@ -577,21 +592,6 @@ Abstract: Abstract Background The COVID-19 pandemic caused a large health burden
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag153
 
 Abstract: Abstract Background We examined the association of peripubertal pregnancies with long-term health and developmental outcomes in adult offspring and strengthened causal inference using sibling-comparison methods. Methods Using linked Swedish register data from 1964 to 2018, we conducted a cohort study to estimate associations of pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years, with body mass index (BMI), systolic blood pressure (SBP), cognitive function, and stress resilience among 943 444 male offspring aged 17–21 years in the Military Conscription Register. We further assessed associations with type 2 diabetes (T2D), depression, and anxiety among 2 461 510 male and female offspring aged 18–73 years using population-wide registers. Linear, multinomial, and survival models were used. Sibling fixed-effect models were used to account for unmeasured confounding shared among siblings. Results Offspring from pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years had lower SBP (β − 1.12; 95% confidence interval [CI] − 1.97 to −0.26), poorer cognitive function (β − 0.54; 95% CI −0.67 to −0.40), and poorer stress resilience (β −0.24; 95% CI −0.38, −0.10). There was no increased risk of being underweight or overweight compared with normal weight. There was a lower risk of anxiety (hazard ratio 0.87; 95% CI 0.80 to 0.95) and no increased risk of T2D or depression. Sibling-comparison analyses attenuated deleterious associations to null or reversed them and amplified associations with markers of better health. Conclusion Pregnancies before age 16 years may not be causally associated with adverse long-term health and developmental outcomes in adolescent and adult offspring. The adverse associations in conventional analyses appear attributable to shared familial characteristics.</description>
-    </item>
-    <item>
-      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
-      <link>https://doi.org/10.1093/ije/dyag199</link>
-      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
-
-      <dc:creator>Xueyan Zheng</dc:creator>
-      <dc:creator>Christian Bottomley</dc:creator>
-      <dc:creator>Woojoo Lee</dc:creator>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
-
-Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
     </item>
     <item>
       <title>The impact of temporal trends in stroke event rates and 30-day case fatality on trends in stroke mortality: an international comparative study</title>
@@ -634,20 +634,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Under the top-secret Manhattan Project, improperly stored radioactive byproducts from the processing of uranium contaminated Coldwater Creek in north St. Louis County, Missouri. We used the original 1958 Baby Tooth Survey (BTS) linked with the National Death Index (NDI) to investigate whether childhood residential proximity to the creek, as a proxy for radiation exposure, was associated with mortality. Methods There were 43 876 eligible participants from the BTS (those outside Greater St. Louis and/or had incomplete covariates were excluded). In December 2023, the NDI was searched for BTS participants who had died. We estimated the hazard ratio (HR) and 95% confidence intervals between distance to Coldwater Creek (per 10 km) and mortality (all-cause, cancer, and cardiovascular disease) adjusting for sex, birth year, and census tract-level socioeconomic indicators. Results Living closer to Coldwater Creek was associated with a higher rate of all-cause mortality (HR: 1.05; 95% CI: 1.01–1.09; P = .01). There was suggestive evidence of an increased rate for cancer mortality: any cancer (HR: 1.06; 95% CI: 1.00–1.14; P = .06), solid cancer (HR: 1.07, 95% CI: 1.00–1.16; P = .06) and radiosensitive cancer (HR: 1.10; 95% CI: 1.00–1.21; P = .05). There was no association with non-radiosensitive cancer and cardiovascular mortality. Conclusions Our study provides new data that suggest living near Coldwater Creek in childhood was positively associated with the rate of all-cause mortality, and to a lesser extent cancer mortality, but not cardiovascular disease mortality. However, these findings should be interpreted cautiously given the lack of data on internal radiation exposure and individual socioeconomic status.</description>
     </item>
     <item>
-      <title>Using directed acyclic graphs to illustrate common sources of bias in diagnostic test accuracy studies</title>
-      <link>https://doi.org/10.1093/ije/dyag170</link>
-      <guid isPermaLink="false">10.1093/ije/dyag170</guid>
-
-      <dc:creator>Yang Lu</dc:creator>
-      <dc:creator>Nandini Dendukuri</dc:creator>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yang Lu, Nandini Dendukuri
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag170
-
-Abstract: Abstract Background Diagnostic test accuracy (DTA) studies, like aetiological studies, are susceptible to various sources of bias, including imperfect reference standard, partial verification, spectrum effect, confounding, and misassumption of conditional independence. While directed acyclic graphs (DAGs) are widely used in aetiological research to identify and illustrate biasing structures, they have not been systematically applied to DTA studies. Methods We developed DAGs to illustrate causal mechanisms underlying common sources of bias in DTA studies. For each source, we also illustrate its equivalent in aetiological studies. Real-world examples are used for illustration. Results We present DAGs for five major sources of bias in DTA studies with structural parallels to aetiological studies: imperfect reference standard corresponds to exposure misclassification, misassumption of conditional independence creates spurious correlations similar to ignoring unmeasured confounding, spectrum effect parallels effect modification, confounding operates through backdoor paths in both settings, and partial verification acts through selection mechanisms that can induce selection bias. These DAG representations help reveal causal mechanisms underlying each source of bias and suggest appropriate adjustment strategies. Conclusion DAGs provide a valuable framework for understanding sources of bias in DTA studies and should complement existing reporting and quality-assessment tools such as the Standards for Reporting of Diagnostic Accuracy (STARD) and Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2). We recommend incorporating DAGs in the conduct and reporting of primary DTA studies, systematic reviews, and meta-analyses to identify potential sources of bias and enhance transparency. DAG construction requires interdisciplinary collaboration and sensitivity analyses examining alternative causal structures.</description>
-    </item>
-    <item>
       <title>Can synthetic data reproduce real-world findings in epidemiology? A replication study using adversarial random forests</title>
       <link>https://doi.org/10.1093/ije/dyag164</link>
       <guid isPermaLink="false">10.1093/ije/dyag164</guid>
@@ -686,6 +672,20 @@ Abstract: Abstract Background Synthetic data hold substantial potential to addre
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag205
 
 Abstract: Abstract Background The climate crisis presents an emerging global challenge with potential implications for breastfeeding. We estimated the association between ambient temperatures (both heat and cold) and interruption of exclusive breastfeeding (EBF) in a nationwide cohort in Brazil. Methods The population-based longitudinal study was conducted using data from the Food and Nutrition Surveillance System (SISVAN-Web) between 2015 and 2019. EBF was defined as the consumption of breast milk only on the day of the visit, with no intake of any other liquids or foods. Daily minimum and maximum ambient temperatures and relative humidity were derived from the Brazilian Daily Weather Gridded Data (BR-DWGD). The association between ambient temperature and time to interruption of EBF was assessed using Cox proportional hazards models combined with distributed lag non-linear models (DLNMs). Results A total of 397 239 children aged 0 to &amp;amp;lt;6 months were included in the study. Nationally, low temperatures were not significantly associated with EBF interruption (hazard ratio [HR] 1.01, 95% confidence interval [CI] 0.98–1.05), whereas heat exposure was associated with a 10% higher risk (HR 1.10, 95% CI 1.08–1.14). The increased risk associated with heat exposure was similar across infant age groups, child sex, and levels of municipal material deprivation. In contrast, we found no association between cold temperatures and EBF interruption at the national level. However, our findings suggest that cold-related effects may differ across infant age and municipal deprivation levels. Conclusion Our findings highlight the importance of strengthening breastfeeding support during periods of elevated heat and integrating climate-sensitive approaches into maternal and child health policies.</description>
+    </item>
+    <item>
+      <title>Using directed acyclic graphs to illustrate common sources of bias in diagnostic test accuracy studies</title>
+      <link>https://doi.org/10.1093/ije/dyag170</link>
+      <guid isPermaLink="false">10.1093/ije/dyag170</guid>
+
+      <dc:creator>Yang Lu</dc:creator>
+      <dc:creator>Nandini Dendukuri</dc:creator>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yang Lu, Nandini Dendukuri
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag170
+
+Abstract: Abstract Background Diagnostic test accuracy (DTA) studies, like aetiological studies, are susceptible to various sources of bias, including imperfect reference standard, partial verification, spectrum effect, confounding, and misassumption of conditional independence. While directed acyclic graphs (DAGs) are widely used in aetiological research to identify and illustrate biasing structures, they have not been systematically applied to DTA studies. Methods We developed DAGs to illustrate causal mechanisms underlying common sources of bias in DTA studies. For each source, we also illustrate its equivalent in aetiological studies. Real-world examples are used for illustration. Results We present DAGs for five major sources of bias in DTA studies with structural parallels to aetiological studies: imperfect reference standard corresponds to exposure misclassification, misassumption of conditional independence creates spurious correlations similar to ignoring unmeasured confounding, spectrum effect parallels effect modification, confounding operates through backdoor paths in both settings, and partial verification acts through selection mechanisms that can induce selection bias. These DAG representations help reveal causal mechanisms underlying each source of bias and suggest appropriate adjustment strategies. Conclusion DAGs provide a valuable framework for understanding sources of bias in DTA studies and should complement existing reporting and quality-assessment tools such as the Standards for Reporting of Diagnostic Accuracy (STARD) and Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2). We recommend incorporating DAGs in the conduct and reporting of primary DTA studies, systematic reviews, and meta-analyses to identify potential sources of bias and enhance transparency. DAG construction requires interdisciplinary collaboration and sensitivity analyses examining alternative causal structures.</description>
     </item>
     <item>
       <title>Cohort Profile Update: Survey of Health, Ageing and Retirement in Europe—biomarker data for age-related health conditions</title>
@@ -865,6 +865,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background In birth-cohort studies, response rates generally decline over time. We aimed to evaluate representativeness and identify predictors of retention up to young adulthood in a population-based birth cohort originally focused on asthma and allergies. Methods The Barn/Child, Allergy, Milieu, Stockholm, Epidemiology (BAMSE) birth cohort was established in 1994–6 in Stockholm, Sweden. We utilized data from questionnaires and Swedish registers to compare the characteristics of participants at age 24 years (n = 3064) with those of the original cohort (n = 4089) and the general population born in 1994–6 in Stockholm county (n = 68 378) and Sweden (n = 310 976). Logistic regression was used to identify predictors of retention at age 24 years. Results The response rate declined over time and was higher in females than in males in adolescence and young adulthood (80.0% versus 70.0% at age 24 years). Compared with the original cohort, participants at age 24 years more often had dispensed asthma medications (6.6% versus 5.8%) and university education (52.6% versus 47.8%), but had less often a mother who smoked during pregnancy (9.6% versus 10.8%). Similar patterns were observed in comparisons with the general population. Female sex [odds ratio (OR) 1.75, 95% confidence interval (CI) 1.49–2.05] and high parental education (OR 1.33, 95% CI 1.12–1.59) were the predominant predictors of retention in the cohort. Conclusion Female sex, higher socio-economic status, and asthma were predictive factors of retention in the cohort after 24 years. This may have influenced the observed prevalence rates of asthma and allergies, and associations between potential risk factors and outcomes associated with retention.</description>
     </item>
     <item>
+      <title>Gestational misalignment with fixed exposure windows: the potential dangers of zero-filling in distributed lag models</title>
+      <link>https://doi.org/10.1093/ije/dyag162</link>
+      <guid isPermaLink="false">10.1093/ije/dyag162</guid>
+
+      <dc:creator>Michael Leung</dc:creator>
+      <dc:creator>Andreas M Neophytou</dc:creator>
+      <dc:creator>Ander Wilson</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michael Leung, Andreas M Neophytou, Ander Wilson
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag162
+
+Abstract: Abstract Background Distributed lag models (DLMs) are widely used in perinatal epidemiology to identify critical windows during pregnancy in which environmental exposures influence pregnancy/birth outcomes. A well-known complication of fitting DLMs in this context is that they require the same length of exposure history for every individual even though not all pregnancies are of the same duration. This misalignment often leads researchers to artificially extend exposure histories to a fixed length and fill post-birth weeks with zeroes (i.e. “zero-filling”). Despite its widespread use, the implications of zero-filling have not been formally evaluated. Methods We demonstrate conceptually that zero-filling induces a spurious association between gestational age and late-pregnancy exposures, thus introducing confounding that was otherwise not present in the observed data. We then conducted a simulation study and a real data application using air pollution and birth weight data from a Colorado-based cohort to compare zero-filling with alternative approaches to handle the misalignment between exposure window and gestation. Results In our simulations, we found that zero-filling produced the largest bias, poorest coverage, and highest root mean squared error. In the analysis of the Colorado birth data, zero-filling produced implausibly strong associations. Adjusting for gestational age attenuated this bias. Alternative approaches of carrying forward the last pre-birth exposure value, using observed post-birth exposures, and, in some situations, truncation at 37 weeks eliminate this bias. Conclusion Zero-filling can cause bias in the estimated associations when using distributed lag models.</description>
+    </item>
+    <item>
       <title>Data Resource Profile: Medicines in Acute and Chronic Care in Scotland (MACCS)</title>
       <link>https://doi.org/10.1093/ije/dyag187</link>
       <guid isPermaLink="false">10.1093/ije/dyag187</guid>
@@ -881,21 +896,6 @@ Abstract: Abstract Background In birth-cohort studies, response rates generally 
       <description>Authors: Cosmika Goswami, Tanja Mueller, Amanj Kurdi, Ewan Pearson, Khaled Bedir, Alexandra Tolfrey, Hazel Close, Marion Bennie
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag187</description>
-    </item>
-    <item>
-      <title>Gestational misalignment with fixed exposure windows: the potential dangers of zero-filling in distributed lag models</title>
-      <link>https://doi.org/10.1093/ije/dyag162</link>
-      <guid isPermaLink="false">10.1093/ije/dyag162</guid>
-
-      <dc:creator>Michael Leung</dc:creator>
-      <dc:creator>Andreas M Neophytou</dc:creator>
-      <dc:creator>Ander Wilson</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Michael Leung, Andreas M Neophytou, Ander Wilson
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag162
-
-Abstract: Abstract Background Distributed lag models (DLMs) are widely used in perinatal epidemiology to identify critical windows during pregnancy in which environmental exposures influence pregnancy/birth outcomes. A well-known complication of fitting DLMs in this context is that they require the same length of exposure history for every individual even though not all pregnancies are of the same duration. This misalignment often leads researchers to artificially extend exposure histories to a fixed length and fill post-birth weeks with zeroes (i.e. “zero-filling”). Despite its widespread use, the implications of zero-filling have not been formally evaluated. Methods We demonstrate conceptually that zero-filling induces a spurious association between gestational age and late-pregnancy exposures, thus introducing confounding that was otherwise not present in the observed data. We then conducted a simulation study and a real data application using air pollution and birth weight data from a Colorado-based cohort to compare zero-filling with alternative approaches to handle the misalignment between exposure window and gestation. Results In our simulations, we found that zero-filling produced the largest bias, poorest coverage, and highest root mean squared error. In the analysis of the Colorado birth data, zero-filling produced implausibly strong associations. Adjusting for gestational age attenuated this bias. Alternative approaches of carrying forward the last pre-birth exposure value, using observed post-birth exposures, and, in some situations, truncation at 37 weeks eliminate this bias. Conclusion Zero-filling can cause bias in the estimated associations when using distributed lag models.</description>
     </item>
     <item>
       <title>Association between ozone and emergency department visits in people with disabilities in South Korea: a nationwide case-crossover study</title>
@@ -1448,18 +1448,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Observational studies have suggested that a younger age at menarche is associated with increased risks of adverse pregnancy and perinatal outcomes. However, it is unclear whether these relationships are causal. Methods We estimated the associations between age at menarche and 13 pre-specified pregnancy outcomes by using two approaches. We estimated observational associations in the Avon Longitudinal Study of Parents and Children (N = 9441) using multivariable regression accounting for educational attainment, ethnicity, maternal age, parity, offspring sex, and adiposity. We conducted two-sample Mendelian randomization (MR) using data from the Mendelian Randomization in Pregnancy (MR-PREG) collaboration (77 683–707 797 pregnancies) and multivariable MR (MVMR) accounting for genetically-proxied adiposity. Results Older age at menarche was associated with lower risks of hypertensive disorders of pregnancy, gestational hypertension, and preeclampsia, but accounting for adiposity attenuated these effects across approaches. For example, per 1-year older age at menarche, the odds ratio (OR) for hypertensive disorders of pregnancy was 0.88 (95% confidence interval (CI) : 0.84, 0.93) in inverse variance weighted MR and 0.95 (95% CI: 0.90, 1.01) in MVMR, while the observational association attenuated from OR = 0.91 (95% CI: 0.87, 0.94) to OR = 0.97 (95% CI: 0.93, 1.01). No clear evidence was found for the effects of age at menarche on small-for-gestational-age, low birthweight, post-term birth, or perinatal depression from either approach. For other outcomes evidence was limited by imprecision (very preterm birth, gestational diabetes) or inconsistent effects in sensitivity analyses (offspring birthweight, large-for-gestational-age, high birthweight, preterm birth). Conclusion We find little robust evidence for causal effects of age at menarche on pregnancy outcomes. Effects of younger menarche on increased risks of hypertensive disorders of pregnancy may be driven by adiposity.</description>
     </item>
     <item>
-      <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag136</link>
-      <guid isPermaLink="false">10.1093/ije/dyag136</guid>
-
-      <dc:creator>Marco A Peres</dc:creator>
-      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag136</description>
-    </item>
-    <item>
       <title>Acute maternal stress in pregnancy and cardiovascular risk factors in adolescent offspring: a birth-cohort study</title>
       <link>https://doi.org/10.1093/ije/dyag111</link>
       <guid isPermaLink="false">10.1093/ije/dyag111</guid>
@@ -1478,6 +1466,18 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag111
 
 Abstract: Abstract Background Cardiometabolic risk factors are major contributors to poor health outcomes and premature mortality. While the effect of prenatal exposure to stress on cardiometabolic outcomes has been examined, the findings remain inconsistent across studies, and even more so with regard to the timing of exposure. In the present study, we aimed to explore the association of short-term prenatal exposure to the acute stress of the 1967 Six-Day War with cardiovascular and anthropometric risk factors in adolescent offspring. Methods Using a population-based birth cohort, we examined data from 61 237 offspring born in Jerusalem during 1964–76, linked to their military-draft records at age 17 years. These provided information on those exposed to acute prenatal stress and the timing of exposure within the pregnancy (N = 2471) as well as on height, weight, heart rate (HR), and blood pressure (BP) in adolescence. Linear regression models estimated the associations between prenatal stress and measurements at age 17 years, controlling for potential confounders. Results Prenatal exposure to acute stress was associated with increased systolic blood pressure (SBP) and diastolic blood pressure (DBP) [SBP: B = 1.85, 95% confidence interval (CI): 1.15, 2.56; DBP: B = 1.89, 95% CI: 1.40, 2.38] and a decreased HR (B = –1.39, CI: –1.88, –0.91) but not with anthropometric outcomes. Furthermore, gestational age at exposure modified these associations: the associations with DBP and mean arterial pressure tended to increase and with HR to decrease the later the exposure occurred during the pregnancy. Conclusion Findings suggest that acute maternal stress during pregnancy is associated with cardiovascular risk factors in offspring in adolescence and is modulated by the timing of the exposure.</description>
+    </item>
+    <item>
+      <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag136</link>
+      <guid isPermaLink="false">10.1093/ije/dyag136</guid>
+
+      <dc:creator>Marco A Peres</dc:creator>
+      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag136</description>
     </item>
     <item>
       <title>Survival as a source of confounding, selection bias, and effect modification</title>
@@ -1591,31 +1591,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Abstract: Abstract Background Excess body fat (EBF) is a major cancer risk factor, yet its impact in Asians remains underexplored. We estimated the population-attributable fraction (PAF) of EBF for various cancers in Korea, comparing estimates based on body mass index (BMI) and waist circumference (WC). Methods Relative risks were derived from Korean National Health Insurance Service data of 4 441 103 adults screened in 2012, with 242 243 cancer cases identified through 2020. PAFs were calculated by using 2022 national obesity prevalence and cancer registry data. Sensitivity analyses were conducted among never smokers. Results The PAFs for 13 established obesity-associated cancers reached 5.48% (BMI) and 7.65% (WC) in men, 5.48% (BMI) and 6.68% (WC) in women aged &amp;amp;lt;50 years, and 6.86% (BMI) and 9.34% (WC) in women aged ≥50 years. This translates into 16 534.2 avoidable-cancer cases in 2022 via BMI and 22 486.9 via WC. In sensitivity analyses, positive associations between obesity and cancer risk were more pronounced among never smokers, suggesting that smoking may mask the true impact of EBF in the general population. Conclusion EBF significantly contributes to the cancer burden in Korea. Using BMI as the sole measure may substantially underestimate this burden compared with WC, which captures visceral adiposity more effectively. Our findings emphasize the importance of abdominal obesity management and support evidence-based public health policies for cancer prevention in Asian populations.</description>
     </item>
     <item>
-      <title>Asbestos, open burning, and cancer risk in Gaza</title>
-      <link>https://doi.org/10.1093/ije/dyag137</link>
-      <guid isPermaLink="false">10.1093/ije/dyag137</guid>
-
-      <dc:creator>Fatima Nadeem</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fatima Nadeem
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag137</description>
-    </item>
-    <item>
-      <title>To whom do our observational studies apply? Representativeness and selection bias in cohort studies</title>
-      <link>https://doi.org/10.1093/ije/dyag150</link>
-      <guid isPermaLink="false">10.1093/ije/dyag150</guid>
-
-      <dc:creator>Haidong Lu</dc:creator>
-      <dc:creator>Zeyan Liew</dc:creator>
-      <dc:creator>Mollie E Wood</dc:creator>
-      <dc:creator>Bhramar Mukherjee</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Haidong Lu, Zeyan Liew, Mollie E Wood, Bhramar Mukherjee
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag150</description>
-    </item>
-    <item>
       <title>Cohort profile: The Japan Environment and Children’s Study</title>
       <link>https://doi.org/10.1093/ije/dyag146</link>
       <guid isPermaLink="false">10.1093/ije/dyag146</guid>
@@ -1634,22 +1609,29 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag146</description>
     </item>
     <item>
-      <title>Cohort Profile: The North East London Diabetes Study (NELDS)</title>
-      <link>https://doi.org/10.1093/ije/dyag117</link>
-      <guid isPermaLink="false">10.1093/ije/dyag117</guid>
+      <title>To whom do our observational studies apply? Representativeness and selection bias in cohort studies</title>
+      <link>https://doi.org/10.1093/ije/dyag150</link>
+      <guid isPermaLink="false">10.1093/ije/dyag150</guid>
 
-      <dc:creator>Abraham Olvera-Barrios</dc:creator>
-      <dc:creator>Alasdair N Warwick</dc:creator>
-      <dc:creator>Matilda Pitt</dc:creator>
-      <dc:creator>Zeinab Schaefer</dc:creator>
-      <dc:creator>Schanhave Santhirasekaran</dc:creator>
-      <dc:creator>Ryan Chambers</dc:creator>
-      <dc:creator>Louis Bolter</dc:creator>
-      <dc:creator>John Anderson</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Abraham Olvera-Barrios, Alasdair N Warwick, Matilda Pitt, Zeinab Schaefer, Schanhave Santhirasekaran, Ryan Chambers, Louis Bolter, John Anderson, et al.
+      <dc:creator>Haidong Lu</dc:creator>
+      <dc:creator>Zeyan Liew</dc:creator>
+      <dc:creator>Mollie E Wood</dc:creator>
+      <dc:creator>Bhramar Mukherjee</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Haidong Lu, Zeyan Liew, Mollie E Wood, Bhramar Mukherjee
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag117</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag150</description>
+    </item>
+    <item>
+      <title>Asbestos, open burning, and cancer risk in Gaza</title>
+      <link>https://doi.org/10.1093/ije/dyag137</link>
+      <guid isPermaLink="false">10.1093/ije/dyag137</guid>
+
+      <dc:creator>Fatima Nadeem</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fatima Nadeem
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag137</description>
     </item>
     <item>
       <title>Association of severe maternal morbidity with epilepsy diagnosis in children: a population-based birth cohort study</title>
@@ -1699,6 +1681,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag141
 
 Abstract: Abstract Background Adiposity increases the risk of post-menopausal oestrogen receptor (ER)-positive breast cancer. Inflammation, insulin, and insulin-like growth factors and sex-steroid hormones may explain this effect. We performed interventional mediation analysis to estimate the effects of hypothetical interventions targeting these pathways in females with obesity on reducing their excess risk of post-menopausal ER-positive breast cancer relative to females with normal weight. Methods The mediation analysis included 1260 post-menopausal females (352 with ER-positive breast cancer) from a case–cohort within the Melbourne Collaborative Cohort Study. A Monte Carlo g-computation approach with non-parametric bootstrapping was used to estimate the risk differences (RDs) and 95% confidence intervals (CIs) for interventional direct and indirect effects of hypothetical interventions that shift the joint distribution of inflammation, insulin, and sex-steroid hormone biomarkers in females with obesity to the levels observed in females with normal weight. Results The estimated RD for the total effect of obesity relative to normal weight on post-menopausal ER-positive breast cancer was 16.1 (95% CI: 3.3, 30.4) per 1000 females. The RDs for indirect effects through inflammation, insulin, and sex-steroid hormones were 16.4 (95% CI: 4.3, 27.2), −8.4 (95% CI: −23.4, 1.2), and 13.0 (95% CI: 3.3, 23.7) per 1000 females, respectively. The − RD for the direct effect not via any of these three pathways was −5.3 (95% CI: −17.4, 10.6) per 1000 females. Conclusion Inflammation and sex-steroid hormones, but not insulin, contributed to the detrimental effect of adiposity on the risk of post-menopausal ER-positive breast cancer. Interventions targeting these pathways may reduce the risk for females with obesity.</description>
+    </item>
+    <item>
+      <title>Cohort Profile: The North East London Diabetes Study (NELDS)</title>
+      <link>https://doi.org/10.1093/ije/dyag117</link>
+      <guid isPermaLink="false">10.1093/ije/dyag117</guid>
+
+      <dc:creator>Abraham Olvera-Barrios</dc:creator>
+      <dc:creator>Alasdair N Warwick</dc:creator>
+      <dc:creator>Matilda Pitt</dc:creator>
+      <dc:creator>Zeinab Schaefer</dc:creator>
+      <dc:creator>Schanhave Santhirasekaran</dc:creator>
+      <dc:creator>Ryan Chambers</dc:creator>
+      <dc:creator>Louis Bolter</dc:creator>
+      <dc:creator>John Anderson</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Abraham Olvera-Barrios, Alasdair N Warwick, Matilda Pitt, Zeinab Schaefer, Schanhave Santhirasekaran, Ryan Chambers, Louis Bolter, John Anderson, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag117</description>
     </item>
   </channel>
 </rss>
