@@ -5,8 +5,25 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:37:26 +0000</lastBuildDate>
 
+    <item>
+      <title>The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development</title>
+      <link>https://doi.org/10.1126/science.aeg6779</link>
+      <guid isPermaLink="false">10.1126/science.aeg6779</guid>
+
+      <dc:creator>Harrison G. Zhang</dc:creator>
+      <dc:creator>Peter Eckmann</dc:creator>
+      <dc:creator>Jiacheng Miao</dc:creator>
+      <dc:creator>Andrew B. Mahon</dc:creator>
+      <dc:creator>James Zou</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Harrison G. Zhang, Peter Eckmann, Jiacheng Miao, Andrew B. Mahon, James Zou
+
+Journal: Science; Article number: eaeg6779
+
+Abstract: Drug development requires evidence integration across biological scales and modalities, but relevant tools are fragmented. We introduce the Virtual Biotech, an organization of artificial intelligence (AI) agents modeled on a drug-development company, with agentic divisions spanning target discovery, safety assessment, modality selection, and clinical development. We demonstrate its utility at three drug-development decision points. First, over 37,000 agents annotated outcomes from 55,984 trials and found that drugs targeting cell-type-specific genes were 48% more likely to reach market with 32% fewer adverse events. Second, it integrated multimodal evidence to propose a therapeutic strategy in lung cancer. Third, it analyzed a terminated ulcerative colitis trial and inferred potential mechanisms of failure. These results demonstrate that human-guided multi-agent systems can conduct transparent, multiscale analyses to inform therapeutic-development decisions.</description>
+    </item>
     <item>
       <title>Extreme loss suppression in an ultracold molecular gas with widely tunable dipolar interactions</title>
       <link>https://doi.org/10.1126/science.adz0521</link>
@@ -26,23 +43,6 @@
 Journal: Science; Volume: 393; Issue: 6817; Pages: 1226-1229
 
 Abstract: Ultracold dipolar molecules hold great promise for the creation of exotic quantum states of matter, but the realization of long-lived molecular bulk samples with strong dipole-dipole interactions has remained challenging. In this work, we realized a collisionally stable gas of ultracold ground state molecules with a lifetime of several seconds. Utilizing double-microwave dressing, we achieved an extreme suppression of inelastic two- and three-body losses by factors of more than 10,000 and 1000, respectively. We found that losses remained suppressed across a wide range of dipole-dipole interactions, allowing the continuous tuning of the dipolar length from −21,000 to 12,000 a 0 , where a 0 is the Bohr radius. Combined with the recent realization of Bose-Einstein condensation of dipolar molecules, our findings open the door to the exploration of strongly dipolar quantum liquids.</description>
-    </item>
-    <item>
-      <title>The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development</title>
-      <link>https://doi.org/10.1126/science.aeg6779</link>
-      <guid isPermaLink="false">10.1126/science.aeg6779</guid>
-
-      <dc:creator>Harrison G. Zhang</dc:creator>
-      <dc:creator>Peter Eckmann</dc:creator>
-      <dc:creator>Jiacheng Miao</dc:creator>
-      <dc:creator>Andrew B. Mahon</dc:creator>
-      <dc:creator>James Zou</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Harrison G. Zhang, Peter Eckmann, Jiacheng Miao, Andrew B. Mahon, James Zou
-
-Journal: Science; Article number: eaeg6779
-
-Abstract: Drug development requires evidence integration across biological scales and modalities, but relevant tools are fragmented. We introduce the Virtual Biotech, an organization of artificial intelligence (AI) agents modeled on a drug-development company, with agentic divisions spanning target discovery, safety assessment, modality selection, and clinical development. We demonstrate its utility at three drug-development decision points. First, over 37,000 agents annotated outcomes from 55,984 trials and found that drugs targeting cell-type-specific genes were 48% more likely to reach market with 32% fewer adverse events. Second, it integrated multimodal evidence to propose a therapeutic strategy in lung cancer. Third, it analyzed a terminated ulcerative colitis trial and inferred potential mechanisms of failure. These results demonstrate that human-guided multi-agent systems can conduct transparent, multiscale analyses to inform therapeutic-development decisions.</description>
     </item>
     <item>
       <title>Transcriptome-based classification in mice with ASD-risk mutations</title>
@@ -65,22 +65,6 @@ Journal: Science; Volume: 393; Issue: 6817; Pages: 1250-1257
 Abstract: Autism spectrum disorder (ASD) is a neurodevelopmental condition with a strong genetic component. Large-scale human genetic studies have identified &amp;gt;1200 ASD-risk genes. We report a sex-balanced atlas of 1008 prefrontal RNA sequencing (RNA-seq) profiles from 17 mouse lines carrying ASD-risk mutations. Our analysis identified two opposing transcriptomic states. The two groups differed in sex bias, regional specificity, developmental stability, cell type remodeling, and responses to fluoxetine and lithium. Single-nucleus RNA-seq revealed broader cell type remodeling in group 1 than in group 2, and cell type–specific modules showed reciprocal associations that mirrored bulk transcriptomic signatures. The framework classifies independent mouse lines and identifies subgroups with conserved synaptic directionality, supporting molecular stratification.</description>
     </item>
     <item>
-      <title>Climate unrest comes to a fictionalized France
-                    &lt;b&gt;The Hunger of Those Who Built It&lt;/b&gt;
-                    &lt;i&gt;Wendy Waring&lt;/i&gt;
-                    Stelliform Press, 2026. 370 pp.</title>
-      <link>https://doi.org/10.1126/science.aek5942</link>
-      <guid isPermaLink="false">10.1126/science.aek5942</guid>
-
-      <dc:creator>Priya Dames</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Priya Dames
-
-Journal: Science; Volume: 393; Issue: 6817; Pages: 1192-1192
-
-Abstract: Insiders and dissidents pursue different paths to environmental justice in near-future Paris</description>
-    </item>
-    <item>
       <title>The indomitable Stephen Hawking
                     &lt;b&gt;Hawking&lt;/b&gt;
                     &lt;i&gt;Graham Farmelo&lt;/i&gt;
@@ -95,6 +79,22 @@ Abstract: Insiders and dissidents pursue different paths to environmental justic
 Journal: Science; Volume: 393; Issue: 6817; Pages: 1191-1191
 
 Abstract: The physicist’s first authorized biography paints an incisive portrait of the audacious scientist</description>
+    </item>
+    <item>
+      <title>Climate unrest comes to a fictionalized France
+                    &lt;b&gt;The Hunger of Those Who Built It&lt;/b&gt;
+                    &lt;i&gt;Wendy Waring&lt;/i&gt;
+                    Stelliform Press, 2026. 370 pp.</title>
+      <link>https://doi.org/10.1126/science.aek5942</link>
+      <guid isPermaLink="false">10.1126/science.aek5942</guid>
+
+      <dc:creator>Priya Dames</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Priya Dames
+
+Journal: Science; Volume: 393; Issue: 6817; Pages: 1192-1192
+
+Abstract: Insiders and dissidents pursue different paths to environmental justice in near-future Paris</description>
     </item>
     <item>
       <title>Splenic regulation of systemic platelet activation state</title>
@@ -477,6 +477,19 @@ Journal: Science; Volume: 393; Issue: 6817; Pages: 1196-1199
 Abstract: US restrictions on access to technologies have led Chinese firms to intensify and broaden the scope of their scientific knowledge sourcing</description>
     </item>
     <item>
+      <title>Social science studies often breach participants’ privacy</title>
+      <link>https://doi.org/10.1126/science.aem4443</link>
+      <guid isPermaLink="false">10.1126/science.aem4443</guid>
+
+      <dc:creator>Jeffrey Brainard</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jeffrey Brainard
+
+Journal: Science; Volume: 393; Issue: 6817; Pages: 1178-1179
+
+Abstract: One-fifth of social science data sets intended to support replication violated privacy standards, new study finds</description>
+    </item>
+    <item>
       <title>VIPR RNA-guided DNA recognition by noncontiguous geometric triplex formation</title>
       <link>https://doi.org/10.1126/science.aei3472</link>
       <guid isPermaLink="false">10.1126/science.aei3472</guid>
@@ -510,19 +523,6 @@ Abstract: Viral interference programmable repeat (VIPR) systems use a noncontigu
 Journal: Science; Volume: 393; Issue: 6817; Pages: 1241-1249
 
 Abstract: Previous studies of network dynamics have suggested that heterogeneity among nodes inhibits stability, which is at odds with the ubiquity of inherently heterogeneous natural and engineered systems. Here, we show that this conclusion arises from model reductions introduced for mathematical tractability and breaks down when nodal dynamics are higher-dimensional, yielding non-Hermitian Jacobians. In such systems, including neural, power-grid, and material networks, nodal heterogeneity can instead enhance stability, even when parameters are randomly disordered. Non-Hermiticity also underlies the stabilizing effects of network heterogeneity, which can arise even in one-dimensional nodal dynamics through nonreciprocal interactions, as shown for ecological networks. Our framework reveals disorder not as a liability but as a general resource for stabilizing complex systems.</description>
-    </item>
-    <item>
-      <title>Social science studies often breach participants’ privacy</title>
-      <link>https://doi.org/10.1126/science.aem4443</link>
-      <guid isPermaLink="false">10.1126/science.aem4443</guid>
-
-      <dc:creator>Jeffrey Brainard</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jeffrey Brainard
-
-Journal: Science; Volume: 393; Issue: 6817; Pages: 1178-1179
-
-Abstract: One-fifth of social science data sets intended to support replication violated privacy standards, new study finds</description>
     </item>
     <item>
       <title>An expert-level generalist AI for abdominal CT diagnosis</title>
@@ -878,6 +878,19 @@ Journal: Science; Article number: eaec6740
 Abstract: Pathogens target and degrade the extracellular matrix surrounding plant cells. A central question is how cell wall-derived damage-associated molecular patterns (DAMPs) are recognized and integrated to trigger immune responses. We address this question by determining the structure of the extracellular multidomain of the IGP1 receptor in both apo form and bound to the cellulose-derived DAMP cellotriose. Structural analyses reveal that constitutive interactions of Leucine Rich Repeat (LRR)-malectin domains preconfigure IGP1 for ligand recognition and that the receptor features a highly specific sugar-binding pocket in the LRR domain capable of distinguishing fine variations in glycan structures. By directly sensing cello-oligomers, IGP1 operates as a cell wall surveillance receptor that links pathogen-induced wall degradation to immune alerting, equipping plants to mount rapid and robust defense responses.</description>
     </item>
     <item>
+      <title>Clues to immune havoc in the brain</title>
+      <link>https://doi.org/10.1126/science.aem2422</link>
+      <guid isPermaLink="false">10.1126/science.aem2422</guid>
+
+      <dc:creator>Jennie Erin Smith</dc:creator>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jennie Erin Smith
+
+Journal: Science; Volume: 393; Issue: 6816; Pages: 1070-1071
+
+Abstract: Study in mice strengthens T cells’ ties to neurodegenerative conditions like Alzheimer’s</description>
+    </item>
+    <item>
       <title>In situ structure of the human ciliary transition zone links linker defects to primary ciliary dyskinesia</title>
       <link>https://doi.org/10.1126/science.aei5957</link>
       <guid isPermaLink="false">10.1126/science.aei5957</guid>
@@ -896,19 +909,6 @@ Abstract: Pathogens target and degrade the extracellular matrix surrounding plan
 Journal: Science; Article number: eaei5957
 
 Abstract: The ciliary transition zone (TZ) regulates ciliary proteome composition, yet its molecular architecture, protein content, and contribution to motile ciliopathies remain poorly defined. We applied in situ cryo-electron tomography and subtomogram averaging to human multiciliated epithelial cells. This approach resolved TZ-specific doublet microtubules at subnanometer resolution and identified nine constituent proteins. We identified that ECT2L and DZANK1 form the major linker complexes between adjacent TZ doublet microtubules. Biallelic loss-of-function variants in either gene cause primary ciliary dyskinesia. ECT2L and DZANK1 deficiency disrupted TZ architecture, caused microtubular abnormalities and abnormal bulbous ciliary tips, and impaired mucociliary clearance. These findings establish a direct genetic link between TZ defects and human motile ciliopathy, and illustrate how in situ structural biology can uncover mechanisms of human disease.</description>
-    </item>
-    <item>
-      <title>Clues to immune havoc in the brain</title>
-      <link>https://doi.org/10.1126/science.aem2422</link>
-      <guid isPermaLink="false">10.1126/science.aem2422</guid>
-
-      <dc:creator>Jennie Erin Smith</dc:creator>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jennie Erin Smith
-
-Journal: Science; Volume: 393; Issue: 6816; Pages: 1070-1071
-
-Abstract: Study in mice strengthens T cells’ ties to neurodegenerative conditions like Alzheimer’s</description>
     </item>
     <item>
       <title>The wrong platform for science</title>
@@ -1195,26 +1195,6 @@ Journal: Science; Volume: 393; Issue: 6816; Pages: 1072-1077
 Abstract: How psychoactive substances helped spur Andean civilization</description>
     </item>
     <item>
-      <title>Hydroclimatic-driven pulse enrichment amplifies riverine microplastic export in developing countries</title>
-      <link>https://doi.org/10.1126/science.aeb4487</link>
-      <guid isPermaLink="false">10.1126/science.aeb4487</guid>
-
-      <dc:creator>Hehao Qin</dc:creator>
-      <dc:creator>Maodian Liu</dc:creator>
-      <dc:creator>Yanxu Zhang</dc:creator>
-      <dc:creator>Qianru Zhang</dc:creator>
-      <dc:creator>Changhao Xiao</dc:creator>
-      <dc:creator>Chengzhen Zhou</dc:creator>
-      <dc:creator>Xingrui Cai</dc:creator>
-      <dc:creator>Xinran Qiu</dc:creator>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hehao Qin, Maodian Liu, Yanxu Zhang, Qianru Zhang, Changhao Xiao, Chengzhen Zhou, Xingrui Cai, Xinran Qiu, et al.
-
-Journal: Science; Volume: 393; Issue: 6816; Article number: eaeb4487
-
-Abstract: Rivers are key conduits in the global microplastic cycle, but how much they export to ` ocean and what controls this export remain unresolved. Here, we present a global daily dataset of riverine microplastic concentrations and exports and find that rivers delivered far more microplastics to the ocean than most previous estimates suggest. Ninety-six percent of this export originated in the Global South, with Southeast and East Asia contributing &amp;gt;50% of the total flux. Furthermore, ~70% of global freshwater discharge exhibits “pulse enrichment,” whereby rainfall-driven high flows trigger spikes in microplastic concentrations and fluxes; 80% of these cases occur in developing countries. Without stronger upstream controls on plastic production and waste management, climate-driven increases in extreme rainfall may intensify these pulses, worsening marine microplastic pollution.</description>
-    </item>
-    <item>
       <title>Mechanism of membrane perforation in rotavirus cell entry</title>
       <link>https://doi.org/10.1126/science.aeg4851</link>
       <guid isPermaLink="false">10.1126/science.aeg4851</guid>
@@ -1244,6 +1224,26 @@ Abstract: Cell entry of nonenveloped animal viruses requires translocation of a 
 Journal: Science; Volume: 393; Issue: 6816; Pages: 1081-1082
 
 Abstract: Platinum-based drugs cause mutations and liver aging in children treated for cancer</description>
+    </item>
+    <item>
+      <title>Hydroclimatic-driven pulse enrichment amplifies riverine microplastic export in developing countries</title>
+      <link>https://doi.org/10.1126/science.aeb4487</link>
+      <guid isPermaLink="false">10.1126/science.aeb4487</guid>
+
+      <dc:creator>Hehao Qin</dc:creator>
+      <dc:creator>Maodian Liu</dc:creator>
+      <dc:creator>Yanxu Zhang</dc:creator>
+      <dc:creator>Qianru Zhang</dc:creator>
+      <dc:creator>Changhao Xiao</dc:creator>
+      <dc:creator>Chengzhen Zhou</dc:creator>
+      <dc:creator>Xingrui Cai</dc:creator>
+      <dc:creator>Xinran Qiu</dc:creator>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hehao Qin, Maodian Liu, Yanxu Zhang, Qianru Zhang, Changhao Xiao, Chengzhen Zhou, Xingrui Cai, Xinran Qiu, et al.
+
+Journal: Science; Volume: 393; Issue: 6816; Article number: eaeb4487
+
+Abstract: Rivers are key conduits in the global microplastic cycle, but how much they export to ` ocean and what controls this export remain unresolved. Here, we present a global daily dataset of riverine microplastic concentrations and exports and find that rivers delivered far more microplastics to the ocean than most previous estimates suggest. Ninety-six percent of this export originated in the Global South, with Southeast and East Asia contributing &amp;gt;50% of the total flux. Furthermore, ~70% of global freshwater discharge exhibits “pulse enrichment,” whereby rainfall-driven high flows trigger spikes in microplastic concentrations and fluxes; 80% of these cases occur in developing countries. Without stronger upstream controls on plastic production and waste management, climate-driven increases in extreme rainfall may intensify these pulses, worsening marine microplastic pollution.</description>
     </item>
     <item>
       <title>Unphosphorylated tyrosines mediate PD-1 inhibition of T cell signaling condensate formation</title>
@@ -1286,6 +1286,26 @@ Journal: Science; Article number: eaeh6251
 Abstract: Bicyclo[1.1.0]butanes (BCBs) are a distinctive class of strained small-ring carbocycles of growing importance in synthetic and medicinal chemistry. However, the enantioselective synthesis of polysubstituted BCBs remains a largely unsolved challenge. Herein, we report a general chemical platform for the stereoselective assembly of chiral or meso 1,2,3,4-tetrasubstituted BCBs from internal alkynes and carbenes via stepwise [2+1+1’] or one-pot [2+1+1] cycloaddition reactions, respectively. Successful execution of these transformations exploits the combination of triftosylhydrazones (carbene precursors) and chiral dirhodium catalysts. The sterically hindered catalyst Rh 2 ( R -3,5- di PheTPCP) 4 features a confined chiral microenvironment that enables exquisite discrimination between cyclopropene enantiomers, affording highly enantioenriched polysubstituted BCBs through kinetic resolution upon reaction with chiral rhodium carbenes. This chemistry operates under mild reaction conditions, employs readily available starting materials, and exhibits broad substrate scope.</description>
     </item>
     <item>
+      <title>Rising plant extinction rates on European mountain summits</title>
+      <link>https://doi.org/10.1126/science.aed2974</link>
+      <guid isPermaLink="false">10.1126/science.aed2974</guid>
+
+      <dc:creator>Johannes Wessely</dc:creator>
+      <dc:creator>Kryštof Chytrý</dc:creator>
+      <dc:creator>Andreas Gattringer</dc:creator>
+      <dc:creator>Johannes Hausharter</dc:creator>
+      <dc:creator>Norbert Helm</dc:creator>
+      <dc:creator>Karl Hülber</dc:creator>
+      <dc:creator>Dietmar Moser</dc:creator>
+      <dc:creator>Otar Abdaladze</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Johannes Wessely, Kryštof Chytrý, Andreas Gattringer, Johannes Hausharter, Norbert Helm, Karl Hülber, Dietmar Moser, Otar Abdaladze, et al.
+
+Journal: Science; Volume: 393; Issue: 6815; Pages: 1021-1026
+
+Abstract: Climate change increases plant species richness in alpine ecosystems. However, to what extent this diversity enrichment masks extinction dynamics of resident species remains elusive. In this study, we used floristic resurvey data from 896 permanent vegetation plots across 62 European mountain summits to show that local extinctions have increased over the past 21 years. Extinction rates rose with the magnitude of warming, and species were more likely to go extinct toward their low-elevation range margins and in communities undergoing stronger thermophilization. Moreover, local extinctions were significantly related to preceding abundance declines, which can serve as an early warning signal. These findings suggest that despite increasing plant species richness, plant assemblages above the treeline face an accelerating but so far neglected loss of their most characteristic species.</description>
+    </item>
+    <item>
       <title>Supermale fish become new tactic for vanquishing invaders</title>
       <link>https://doi.org/10.1126/science.aem0438</link>
       <guid isPermaLink="false">10.1126/science.aem0438</guid>
@@ -1317,26 +1337,6 @@ Abstract: Hatchery-raised trout with double Y chromosomes can eradicate invasive
 Journal: Science; Volume: 393; Issue: 6815; Pages: 1036-1044
 
 Abstract: Reactive oxygen species (ROS) promote genomic instability and fuel oncogenic signaling in cancer, but antioxidant therapies have so far failed to improve, or worsen, cancer outcomes. Emerging data suggest that T cells depend on ROS for signal transduction. In this study, we show that tumors exploit this dependency, releasing antioxidant enzymes into the tumor environment to suppress T cell–mediated antitumor immunity. The interstitial fluid of tumors possesses potent antioxidant activity, associated with enrichment of the antioxidant enzyme peroxiredoxin 1 (PRDX1). Extracellular PRDX1 deprives T cells of ROS, preventing oxidative inactivation of phosphatases required for T cell receptor–driven kinase signaling and effector function. Prdx1 is up-regulated upon cancer immunoediting, and loss of PRDX1 within tumors enhances antitumor immunity and immunotherapy responses. These findings define a redox-dependent mechanism of tumor immunosuppression that is potentially amenable to therapeutic intervention.</description>
-    </item>
-    <item>
-      <title>Rising plant extinction rates on European mountain summits</title>
-      <link>https://doi.org/10.1126/science.aed2974</link>
-      <guid isPermaLink="false">10.1126/science.aed2974</guid>
-
-      <dc:creator>Johannes Wessely</dc:creator>
-      <dc:creator>Kryštof Chytrý</dc:creator>
-      <dc:creator>Andreas Gattringer</dc:creator>
-      <dc:creator>Johannes Hausharter</dc:creator>
-      <dc:creator>Norbert Helm</dc:creator>
-      <dc:creator>Karl Hülber</dc:creator>
-      <dc:creator>Dietmar Moser</dc:creator>
-      <dc:creator>Otar Abdaladze</dc:creator>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Johannes Wessely, Kryštof Chytrý, Andreas Gattringer, Johannes Hausharter, Norbert Helm, Karl Hülber, Dietmar Moser, Otar Abdaladze, et al.
-
-Journal: Science; Volume: 393; Issue: 6815; Pages: 1021-1026
-
-Abstract: Climate change increases plant species richness in alpine ecosystems. However, to what extent this diversity enrichment masks extinction dynamics of resident species remains elusive. In this study, we used floristic resurvey data from 896 permanent vegetation plots across 62 European mountain summits to show that local extinctions have increased over the past 21 years. Extinction rates rose with the magnitude of warming, and species were more likely to go extinct toward their low-elevation range margins and in communities undergoing stronger thermophilization. Moreover, local extinctions were significantly related to preceding abundance declines, which can serve as an early warning signal. These findings suggest that despite increasing plant species richness, plant assemblages above the treeline face an accelerating but so far neglected loss of their most characteristic species.</description>
     </item>
     <item>
       <title>High-capacity associative memory in a quantum-optical spin glass</title>

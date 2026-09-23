@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:39:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:37:58 +0000</lastBuildDate>
 
     <item>
       <title>Adiposity and infection-related mortality: Mendelian randomization study of 126 000 Mexican adults</title>
@@ -83,6 +83,20 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Increased childhood adiposity contributes to higher type 2 diabetes (T2D) risk, but the underlying mechanisms remain unclear. Furthermore, whether these mechanistic pathways are shared across ethnic groups has not been explored. Methods We conducted a two-step Mendelian randomization (MR) using European-based summary statistics from genome-wide association studies of childhood body mass index (BMI) (n = 61 111), adulthood proteomics (n = 35 559), and later life T2D (cases: 242 283; controls: 1 569 734). We also conducted a recall-by-genotype (RbG) study in a Chinese birth cohort (n = 250) to assess whether childhood BMI was associated with the identified proteomic signals in an East Asian population. Analyses included multi-instrument MR methods (inverse variance weighted and MR-Egger) and, for single-instrument proteins, cis-MR using the Wald ratio, with colocalization validation. Multiple testing was adjusted using false discovery rate (FDR). Results Higher genetically predicted childhood BMI was associated with 1299 proteins (FDR-adjusted P &amp;amp;lt; .05), of which 36 proteins were associated with higher T2D risk. Six proteins were supported by colocalization (PPH4 &amp;amp;gt; 80%). Genetically predicted higher childhood BMI was positively associated with GCKR, RBP1, ENTPD6, and GST A1-1, and inversely associated with PRSS27 and SHBG. The proportion of the BMI-T2D effect mediated by these proteins ranged from 1.87% to 12.92%. However, only SHBG was replicated in Asians in the RbG study. Conclusions Our study identified putative actionable proteins that could reduce the elevated T2D risk attributable to childhood adiposity in Europeans, but their relevance in Asian populations requires further investigation.</description>
     </item>
     <item>
+      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
+      <link>https://doi.org/10.1093/ije/dyag167</link>
+      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+
+      <dc:creator>Bor Vratanar</dc:creator>
+      <dc:creator>Maja Pohar Perme</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bor Vratanar, Maja Pohar Perme
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+
+Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
+    </item>
+    <item>
       <title>A population-based study of obstructive sleep apnea: using probabilistic case ascertainment through health administrative databases</title>
       <link>https://doi.org/10.1093/ije/dyag176</link>
       <guid isPermaLink="false">10.1093/ije/dyag176</guid>
@@ -101,18 +115,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
     </item>
     <item>
-      <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
-      <link>https://doi.org/10.1093/ije/dyag167</link>
-      <guid isPermaLink="false">10.1093/ije/dyag167</guid>
+      <title>Health behavior buffering the spillover effect of cancer on spousal depressive symptoms: causal evidence from a multicountry analysis</title>
+      <link>https://doi.org/10.1093/ije/dyag209</link>
+      <guid isPermaLink="false">10.1093/ije/dyag209</guid>
 
-      <dc:creator>Bor Vratanar</dc:creator>
-      <dc:creator>Maja Pohar Perme</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bor Vratanar, Maja Pohar Perme
+      <dc:creator>Yanshang Wang</dc:creator>
+      <dc:creator>Yiqi Xia</dc:creator>
+      <dc:creator>Chang Cai</dc:creator>
+      <dc:creator>Zhenyu Shi</dc:creator>
+      <dc:creator>Ping He</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yanshang Wang, Yiqi Xia, Chang Cai, Zhenyu Shi, Ping He
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag167
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag209
 
-Abstract: Abstract Background Cancer screening enables earlier cancer diagnosis and treatment. The interval between cancer diagnosis by screening and the symptomatic detection in the absence of screening is termed lead time. If a patient’s tumour, detected by screening, would never surface clinically, the patient is considered overdiagnosed. Estimating these quantities is crucial for evaluating cancer screening programmes. Development We developed MOCCI (Minimizing Observed and Counterfactual Cancer Incidence), a novel parametric method for estimating the lead time distribution. MOCCI compares age- and calendar-stratified cancer incidence between individuals invited to screening and those not invited and estimates the lead time distribution that minimizes the incidence difference between the two groups. The probability of overdiagnosis is then estimated by comparing the model-predicted lead time with the time to death from other causes. Application In an application to the Slovenian breast cancer screening programme, we estimated that 30% (95% confidence interval [CI], 20% to 39%) of screen-detected cases were non-progressive and 33% (95% CI, 25% to 43%) were overdiagnosed; assuming an exponential lead time distribution for progressive cancers, the mean lead time was 1.8 years (95% CI, 1.3 to 2.9). Conclusions This study proposes a new method for estimating lead time and overdiagnosis. The proposed method (a) can accommodate various lead time distributions, (b) yields a lead time distribution that is aligned with the observed excess incidence arising from screening, and (c) enables the separation of different sources of overdiagnosis. The method provides stable estimates when sample sizes are large and the assumed lead time model is simple.</description>
+Abstract: Abstract Background Cancer, often described as a “family disease,” can negatively affect the mental health of spouses or partners through negative spillover effects. However, there is a lack of rigorous causal evidence regarding the spillover effects of cancer onset, and the dynamic pattern remains unclear. This study aims to assess the spillover effects of cancer onset on spousal depressive symptoms using a multicohort approach and examine the moderating role of a healthy lifestyle. Methods We conducted a pooled multicountry analysis utilizing 21 countries datasets. We employed a causal inference research design, combining matching with difference-in-differences (DID) as the primary identification strategy to analyze the causal effect and its heterogeneity. Moreover, we conducted the interaction term analysis to explore the role of health lifestyles. Using an event study methodology, we examined the dynamic pattern and validated the parallel trends assumption. Results Our findings reveal a robust causal link between cancer onset and spousal depressive symptoms. Further analysis indicates that healthy lifestyles serve as a buffer against this adverse spillover effect, particularly reflected in moderate alcohol use (β = −0.052, 95% confidence interval [CI] [−0.099, −0.005]), physical exercise (β = −0.116, 95% CI [−0.183, −0.049]), social activities (β = −0.126, 95% CI [−0.181, −0.071]), and tobacco use (β = 0.100, 95% CI [0.029–0.171]). Additionally, the spillover effect exhibits a “bimodal” pattern, manifesting primarily in the short term (within 2 years) and later stages (4–5 years) of cancer. Conclusion This study reveals a dynamic negative impact of cancer on spousal mental health, closely related to the cancer trajectory and spousal behaviors. It underscores the imperative for establishing a family-based integrated care model for cancer. Future research should explore the underlying mechanisms of these spillover effects as well as develop care models to conduct prospective impact assessments.</description>
     </item>
     <item>
       <title>Negative controls and how to use them: a guidance paper</title>
@@ -315,6 +332,23 @@ Abstract: Abstract Background Adiposity is associated with increased risk of bre
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
 
 Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
+    </item>
+    <item>
+      <title>Birth outcomes in single motherhood ‘by choice’: a register study of children conceived through medically assisted reproduction</title>
+      <link>https://doi.org/10.1093/ije/dyag172</link>
+      <guid isPermaLink="false">10.1093/ije/dyag172</guid>
+
+      <dc:creator>Alina Pelikh</dc:creator>
+      <dc:creator>Hanna Remes</dc:creator>
+      <dc:creator>Mine Kühn</dc:creator>
+      <dc:creator>Pekka Martikainen</dc:creator>
+      <dc:creator>Alice Goisis</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alina Pelikh, Hanna Remes, Mine Kühn, Pekka Martikainen, Alice Goisis
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag172
+
+Abstract: Abstract Background Single mothers ‘by choice’ who conceive through medically assisted reproduction (MAR) are a growing and understudied group. We examined how their infants’ birth outcomes compare with other family types. Methods Using Finnish population register data (1996–2020), we examined five birth outcomes among first-born children: low birthweight (LBW), preterm birth, small for gestational age (SGA), gestational-age-adjusted birthweight, and gestational age. We compared children of (i) single MAR mothers (n = 2230) with those of (ii) single mothers who conceived spontaneously (SC; n = 36 352); (iii) partnered MAR mothers (n = 39 350); and (iv) partnered SC mothers (n = 451 295). Regression models adjusted for maternal age, education, income, smoking, mental health, and multiplicity. Results In unadjusted analyses, children of single MAR mothers (reference) had higher risks of LBW and preterm and lower gestational age than those of partnered and single SC mothers [e.g. odds ratio (OR) for LBW = 0.51; 95% confidence interval (CI) 0.44–0.60 and 0.69; 95% CI 0.59–0.81, respectively]. After adjustments, differences relative to the partnered SC group largely attenuated (e.g. OR for LBW = 1.01; 95% CI 0.85–1.21), whereas outcomes were better than those of single SC and partnered MAR mothers (e.g. OR for LBW = 1.21; 95% CI 1.01–1.45 and 1.30; 95% CI 1.08–1.55, respectively). The relative advantage in SGA and gestational-age-adjusted birthweight also remained after adjustment. Conclusions After accounting for sociodemographic characteristics and multiplicity, children of single mothers ‘by choice’ had birth outcomes comparable to those of partnered SC mothers and more favourable than those of single SC and partnered MAR mothers.</description>
     </item>
     <item>
       <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
@@ -758,6 +792,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag180</description>
     </item>
     <item>
+      <title>Evaluating COVID-19 vaccine effectiveness across epidemiologic designs: test-negative case-control versus retrospective cohort analyses in a nationwide study</title>
+      <link>https://doi.org/10.1093/ije/dyag210</link>
+      <guid isPermaLink="false">10.1093/ije/dyag210</guid>
+
+      <dc:creator>Layan Sukik</dc:creator>
+      <dc:creator>Pradipta Paul</dc:creator>
+      <dc:creator>Houssein H Ayoub</dc:creator>
+      <dc:creator>Peter Coyle</dc:creator>
+      <dc:creator>Patrick Tang</dc:creator>
+      <dc:creator>Mohammad R Hasan</dc:creator>
+      <dc:creator>Hadi M Yassine</dc:creator>
+      <dc:creator>Asmaa A Al Thani</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Layan Sukik, Pradipta Paul, Houssein H Ayoub, Peter Coyle, Patrick Tang, Mohammad R Hasan, Hadi M Yassine, Asmaa A Al Thani, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag210
+
+Abstract: Abstract Background Observational studies are central to assessing vaccine effectiveness and informing public health policy. The two most common designs are test-negative case-control and cohort studies, yet direct comparisons of their performance using the same population, data sources, and analytic strategies remain rare. This study compares these two designs within a national population using harmonized analytic approaches. Methods Nationwide, matched test-negative case-control and retrospective cohort studies were conducted in Qatar between 1 January 2021 and 18 December 2021 to assess the effectiveness of the coronavirus disease (COVID-19) primary series of BNT162b2 and mRNA-1273 against any severe acute respiratory syndrome coronavirus 2 infection, symptomatic infection, and severe COVID-19. Results In the test-negative design, BNT162b2 effectiveness was 71.0% [95% confidence interval (CI): 70.1–71.9] against any infection, 75.6% (95% CI: 74.2–77.0) against symptomatic infection, and 96.3% (95% CI: 95.2–97.2) against severe COVID-19. In the cohort design, after adjustment for testing rate, corresponding effectiveness was 78.0% (95% CI: 77.1–78.9), 81.2% (95% CI: 79.8–82.5), and 98.0% (95% CI: 96.6–98.8), respectively. Both designs demonstrated similar, rapid, and largely linear waning of effectiveness in both magnitude and pattern. Test-negative design estimates lay between cohort estimates with and without adjustment for testing rate. Similar results were observed for mRNA-1273. Conclusions Both designs yielded consistent effectiveness estimates across vaccines and clinically relevant outcomes, with only modest differences related to handling of health-seeking behavior. These findings demonstrate that, when rigorously implemented using quality data and harmonized analytic strategies, both designs produce comparable effectiveness estimates.</description>
+    </item>
+    <item>
       <title>All covariates are not created equal in regression calibration: a review of methods on using biomarkers to calibrate dietary intake</title>
       <link>https://doi.org/10.1093/ije/dyag169</link>
       <guid isPermaLink="false">10.1093/ije/dyag169</guid>
@@ -773,6 +827,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag169
 
 Abstract: Abstract Regression calibration is a widely used method for correcting bias in regression coefficient estimates caused by measurement error in continuous exposures. In nutritional epidemiology, recent studies often use nutrient-derived biomarkers to calibrate true dietary intakes, which are typically assessed through small feeding studies or weighed dietary records. However, biomarkers may themselves lie on the causal pathway between intake and outcome, violating the surrogacy assumption that underpins the validity of regression calibration. We evaluate regression calibration-based methods that have been applied or proposed for calibrating dietary intake using biomarkers, focusing on their validity and relative efficiency. Our assessment combines analytic bias quantification, simulation studies, and a real-data application. Two approaches are generally valid when using mediators to calibrate the true exposure: (1) the expanded calibration method, which recovers the total effect via the product method from mediation analysis, and (2) the two-stage calibration method. In simulations reflecting realistic scenarios, the expanded calibration method demonstrated superior efficiency for a continuous outcome. Finally, we show that estimating the effect of dietary intake using a calibrated biomarker is valid when the mean biomarker calibration model contains a linear term in true intake with coefficient one, possibly along with additional covariates.</description>
+    </item>
+    <item>
+      <title>Short-term health impacts of air pollution in Canada: a nonlinear multi-pollutant Bayesian case-crossover framework</title>
+      <link>https://doi.org/10.1093/ije/dyag194</link>
+      <guid isPermaLink="false">10.1093/ije/dyag194</guid>
+
+      <dc:creator>Guowen Huang</dc:creator>
+      <dc:creator>Patrick E Brown</dc:creator>
+      <dc:creator>Hwashin Hyun Shin</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Guowen Huang, Patrick E Brown, Hwashin Hyun Shin
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag194
+
+Abstract: Abstract Background Most short-term air pollution studies rely on linear, single-pollutant models that cannot adequately describe the nonlinear and interdependent nature of pollutant-health associations. Methods We developed a nonlinear multi-pollutant Bayesian case-crossover model to jointly evaluate short-term health effects of PM 2.5, NO2, and O3. The model accommodates overdispersion, propagates exposure uncertainty from imputed monitoring data, and pools Census Division (CD)-specific exposure-response functions through a Bayesian hierarchical framework. We applied this approach to cause-specific daily mortality (2001–2015) and hospitalization (2001–2018) data across 20 Canadian CDs, covering more than half of the national population. Results The estimated exposure-response relationships varied by pollutant and health outcome. The combined PM 2.5+NO2 metric showed the clearest positive associations with all non-accidental mortality and hospitalization. Respiratory hospitalization estimates were higher among seniors, but evidence of an age difference remained uncertain. An approximate 10-unit contrast in combined PM 2.5+NO2 corresponded to an estimated 1.5% (95% credible interval [CrI]: 0.3, 2.2) increase in all non-accidental mortality and a 0.6% (95% CrI: 0.0, 1.3) increase in all non-accidental hospitalization, while the corresponding estimate for senior respiratory hospitalization was 2.7% (95% CrI: 0.9, 4.5). Several PM 2.5 and NO2 curves were nonlinear, whereas O3 associations were closer to linear over much of the observed range. Conclusion Our study introduces a flexible epidemiologic modelling framework for quantifying the short-term health impacts of correlated pollutants. The results highlight the value of accounting for nonlinear and joint exposure patterns in multi-pollutant settings, while uncertainty remains substantial for several cause- and age-specific estimates.</description>
     </item>
     <item>
       <title>Exposure to extreme temperatures may increase the risk of preterm birth: findings from a contemporary US cohort</title>
@@ -1394,6 +1463,26 @@ Abstract: Abstract Background Low birthweight (LBW) is a major concern for child
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag118</description>
     </item>
     <item>
+      <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
+      <link>https://doi.org/10.1093/ije/dyag094</link>
+      <guid isPermaLink="false">10.1093/ije/dyag094</guid>
+
+      <dc:creator>Elisabeth Aiton</dc:creator>
+      <dc:creator>Maria Carolina Borges</dc:creator>
+      <dc:creator>Ana Gonçalves Soares</dc:creator>
+      <dc:creator>Gemma L Clayton</dc:creator>
+      <dc:creator>Tom A Bond</dc:creator>
+      <dc:creator>Qian Yang</dc:creator>
+      <dc:creator>Maria C Magnus</dc:creator>
+      <dc:creator>Deborah A Lawlor</dc:creator>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elisabeth Aiton, Maria Carolina Borges, Ana Gonçalves Soares, Gemma L Clayton, Tom A Bond, Qian Yang, Maria C Magnus, Deborah A Lawlor, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag094
+
+Abstract: Abstract Background Observational studies have suggested that a younger age at menarche is associated with increased risks of adverse pregnancy and perinatal outcomes. However, it is unclear whether these relationships are causal. Methods We estimated the associations between age at menarche and 13 pre-specified pregnancy outcomes by using two approaches. We estimated observational associations in the Avon Longitudinal Study of Parents and Children (N = 9441) using multivariable regression accounting for educational attainment, ethnicity, maternal age, parity, offspring sex, and adiposity. We conducted two-sample Mendelian randomization (MR) using data from the Mendelian Randomization in Pregnancy (MR-PREG) collaboration (77 683–707 797 pregnancies) and multivariable MR (MVMR) accounting for genetically-proxied adiposity. Results Older age at menarche was associated with lower risks of hypertensive disorders of pregnancy, gestational hypertension, and preeclampsia, but accounting for adiposity attenuated these effects across approaches. For example, per 1-year older age at menarche, the odds ratio (OR) for hypertensive disorders of pregnancy was 0.88 (95% confidence interval (CI) : 0.84, 0.93) in inverse variance weighted MR and 0.95 (95% CI: 0.90, 1.01) in MVMR, while the observational association attenuated from OR = 0.91 (95% CI: 0.87, 0.94) to OR = 0.97 (95% CI: 0.93, 1.01). No clear evidence was found for the effects of age at menarche on small-for-gestational-age, low birthweight, post-term birth, or perinatal depression from either approach. For other outcomes evidence was limited by imprecision (very preterm birth, gestational diabetes) or inconsistent effects in sensitivity analyses (offspring birthweight, large-for-gestational-age, high birthweight, preterm birth). Conclusion We find little robust evidence for causal effects of age at menarche on pregnancy outcomes. Effects of younger menarche on increased risks of hypertensive disorders of pregnancy may be driven by adiposity.</description>
+    </item>
+    <item>
       <title>Effect of offering colonoscopy at the faecal immunochemical test (FIT) positivity threshold: a regression discontinuity analysis in older adults</title>
       <link>https://doi.org/10.1093/ije/dyag109</link>
       <guid isPermaLink="false">10.1093/ije/dyag109</guid>
@@ -1426,26 +1515,6 @@ Abstract: Abstract Background Colorectal cancer (CRC) screening programmes often
       <description>Authors: Lee Barnsdale, Alan Yeung, Megan Glancy, Jaroslaw Lang, Andreas Markoulidakis, Matthew Hickman, Hayley E Jones, Elinor Curnow, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag140</description>
-    </item>
-    <item>
-      <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
-      <link>https://doi.org/10.1093/ije/dyag094</link>
-      <guid isPermaLink="false">10.1093/ije/dyag094</guid>
-
-      <dc:creator>Elisabeth Aiton</dc:creator>
-      <dc:creator>Maria Carolina Borges</dc:creator>
-      <dc:creator>Ana Gonçalves Soares</dc:creator>
-      <dc:creator>Gemma L Clayton</dc:creator>
-      <dc:creator>Tom A Bond</dc:creator>
-      <dc:creator>Qian Yang</dc:creator>
-      <dc:creator>Maria C Magnus</dc:creator>
-      <dc:creator>Deborah A Lawlor</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elisabeth Aiton, Maria Carolina Borges, Ana Gonçalves Soares, Gemma L Clayton, Tom A Bond, Qian Yang, Maria C Magnus, Deborah A Lawlor, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag094
-
-Abstract: Abstract Background Observational studies have suggested that a younger age at menarche is associated with increased risks of adverse pregnancy and perinatal outcomes. However, it is unclear whether these relationships are causal. Methods We estimated the associations between age at menarche and 13 pre-specified pregnancy outcomes by using two approaches. We estimated observational associations in the Avon Longitudinal Study of Parents and Children (N = 9441) using multivariable regression accounting for educational attainment, ethnicity, maternal age, parity, offspring sex, and adiposity. We conducted two-sample Mendelian randomization (MR) using data from the Mendelian Randomization in Pregnancy (MR-PREG) collaboration (77 683–707 797 pregnancies) and multivariable MR (MVMR) accounting for genetically-proxied adiposity. Results Older age at menarche was associated with lower risks of hypertensive disorders of pregnancy, gestational hypertension, and preeclampsia, but accounting for adiposity attenuated these effects across approaches. For example, per 1-year older age at menarche, the odds ratio (OR) for hypertensive disorders of pregnancy was 0.88 (95% confidence interval (CI) : 0.84, 0.93) in inverse variance weighted MR and 0.95 (95% CI: 0.90, 1.01) in MVMR, while the observational association attenuated from OR = 0.91 (95% CI: 0.87, 0.94) to OR = 0.97 (95% CI: 0.93, 1.01). No clear evidence was found for the effects of age at menarche on small-for-gestational-age, low birthweight, post-term birth, or perinatal depression from either approach. For other outcomes evidence was limited by imprecision (very preterm birth, gestational diabetes) or inconsistent effects in sensitivity analyses (offspring birthweight, large-for-gestational-age, high birthweight, preterm birth). Conclusion We find little robust evidence for causal effects of age at menarche on pregnancy outcomes. Effects of younger menarche on increased risks of hypertensive disorders of pregnancy may be driven by adiposity.</description>
     </item>
     <item>
       <title>Acute maternal stress in pregnancy and cardiovascular risk factors in adolescent offspring: a birth-cohort study</title>
@@ -1632,73 +1701,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Fatima Nadeem
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag137</description>
-    </item>
-    <item>
-      <title>Association of severe maternal morbidity with epilepsy diagnosis in children: a population-based birth cohort study</title>
-      <link>https://doi.org/10.1093/ije/dyag097</link>
-      <guid isPermaLink="false">10.1093/ije/dyag097</guid>
-
-      <dc:creator>Bénédicte Driollet</dc:creator>
-      <dc:creator>Emmalin Buajitti</dc:creator>
-      <dc:creator>Asma M Ahmed</dc:creator>
-      <dc:creator>Jennifer A Hutcheon</dc:creator>
-      <dc:creator>Laura Rosella</dc:creator>
-      <dc:creator>Seungmi Yang</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bénédicte Driollet, Emmalin Buajitti, Asma M Ahmed, Jennifer A Hutcheon, Laura Rosella, Seungmi Yang
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag097
-
-Abstract: Abstract Background Severe maternal morbidity (SMM) is associated with adverse perinatal outcomes. However, its association with longer-term offspring outcomes, including neurodevelopment disorders, is poorly understood. This study aims to examine the association between SMM and the risk of epilepsy in offspring. Methods A retrospective birth cohort study of all singleton hospital births between 2002 and 2018 in Ontario, Canada was followed up until March 2020. SMM (20 weeks’ gestation to 42 days postpartum) and epilepsy diagnosed before 18 years of age in offspring were identified by using administrative health records. The risk of epilepsy associated with SMM was estimated by using Cox proportional hazard models and the robustness of the results was examined by using quantitative bias analyses (outcome and exposure misclassification and residual or unmeasured confounding). Results Of 2 060 668 children with a median follow-up time of 10 years, 40 830 (2%) were exposed to severe maternal morbidity and 16 992 (0.8%) were diagnosed with epilepsy (1.2% among those exposed to SMM and 0.8% among those unexposed). After adjustment for maternal, birth, and socioeconomic characteristics, children exposed to SMM had a 45% increased risk of epilepsy diagnosis compared with those unexposed [hazard ratio (HR) 1.45, 95% confidence interval (CI) 1.33–1.59]. This increase was similar across the subtypes of SMM. Estimates accounting for potential misclassification biases and residual or unmeasured confounding (by obesity or maternal education) showed increased risks (HR 1.91, 95% CI 1.50–2.42). Conclusion An increased risk of epilepsy was found in children exposed to SMM, suggesting a perinatal etiology and underlining the importance of ensuring a healthy pregnancy.</description>
-    </item>
-    <item>
-      <title>A skills-first revival for professional public health education</title>
-      <link>https://doi.org/10.1093/ije/dyag138</link>
-      <guid isPermaLink="false">10.1093/ije/dyag138</guid>
-
-      <dc:creator>Charles C Branas</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Charles C Branas
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag138</description>
-    </item>
-    <item>
-      <title>Mechanisms underlying the effect of adiposity on risk of post-menopausal oestrogen receptor-positive breast cancer: an interventional mediation analysis</title>
-      <link>https://doi.org/10.1093/ije/dyag141</link>
-      <guid isPermaLink="false">10.1093/ije/dyag141</guid>
-
-      <dc:creator>Frances E M Albers</dc:creator>
-      <dc:creator>S Ghazaleh Dashti</dc:creator>
-      <dc:creator>Christopher T V Swain</dc:creator>
-      <dc:creator>Sabina Rinaldi</dc:creator>
-      <dc:creator>Vivian Viallon</dc:creator>
-      <dc:creator>Amalia Karahalios</dc:creator>
-      <dc:creator>Kristy A Brown</dc:creator>
-      <dc:creator>Marc J Gunter</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Frances E M Albers, S Ghazaleh Dashti, Christopher T V Swain, Sabina Rinaldi, Vivian Viallon, Amalia Karahalios, Kristy A Brown, Marc J Gunter, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag141
-
-Abstract: Abstract Background Adiposity increases the risk of post-menopausal oestrogen receptor (ER)-positive breast cancer. Inflammation, insulin, and insulin-like growth factors and sex-steroid hormones may explain this effect. We performed interventional mediation analysis to estimate the effects of hypothetical interventions targeting these pathways in females with obesity on reducing their excess risk of post-menopausal ER-positive breast cancer relative to females with normal weight. Methods The mediation analysis included 1260 post-menopausal females (352 with ER-positive breast cancer) from a case–cohort within the Melbourne Collaborative Cohort Study. A Monte Carlo g-computation approach with non-parametric bootstrapping was used to estimate the risk differences (RDs) and 95% confidence intervals (CIs) for interventional direct and indirect effects of hypothetical interventions that shift the joint distribution of inflammation, insulin, and sex-steroid hormone biomarkers in females with obesity to the levels observed in females with normal weight. Results The estimated RD for the total effect of obesity relative to normal weight on post-menopausal ER-positive breast cancer was 16.1 (95% CI: 3.3, 30.4) per 1000 females. The RDs for indirect effects through inflammation, insulin, and sex-steroid hormones were 16.4 (95% CI: 4.3, 27.2), −8.4 (95% CI: −23.4, 1.2), and 13.0 (95% CI: 3.3, 23.7) per 1000 females, respectively. The − RD for the direct effect not via any of these three pathways was −5.3 (95% CI: −17.4, 10.6) per 1000 females. Conclusion Inflammation and sex-steroid hormones, but not insulin, contributed to the detrimental effect of adiposity on the risk of post-menopausal ER-positive breast cancer. Interventions targeting these pathways may reduce the risk for females with obesity.</description>
-    </item>
-    <item>
-      <title>Cohort Profile: The North East London Diabetes Study (NELDS)</title>
-      <link>https://doi.org/10.1093/ije/dyag117</link>
-      <guid isPermaLink="false">10.1093/ije/dyag117</guid>
-
-      <dc:creator>Abraham Olvera-Barrios</dc:creator>
-      <dc:creator>Alasdair N Warwick</dc:creator>
-      <dc:creator>Matilda Pitt</dc:creator>
-      <dc:creator>Zeinab Schaefer</dc:creator>
-      <dc:creator>Schanhave Santhirasekaran</dc:creator>
-      <dc:creator>Ryan Chambers</dc:creator>
-      <dc:creator>Louis Bolter</dc:creator>
-      <dc:creator>John Anderson</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Abraham Olvera-Barrios, Alasdair N Warwick, Matilda Pitt, Zeinab Schaefer, Schanhave Santhirasekaran, Ryan Chambers, Louis Bolter, John Anderson, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag117</description>
     </item>
   </channel>
 </rss>
