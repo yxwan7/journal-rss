@@ -5,7 +5,7 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:46:55 +0000</lastBuildDate>
 
     <item>
       <title>Automating narrative analysis to enhance computer-coded verbal autopsies: a scoping review</title>
@@ -26,22 +26,6 @@ Journal: Population Health Metrics
 Abstract: Abstract Mortality surveillance, including ascertainment of fact and cause of death, is crucial for understanding disease trends and informing public health interventions and policies. Verbal autopsy (VA) interviews conducted by trained lay interviewers with the next of kin of the deceased are increasingly being used to determine causes of death (CoD), where a substantial proportion of deaths occur outside of clinical care settings. When reviewed and coded into ICD-based causes of death by physicians [Physician-Coded Verbal Autopsy (PCVA)] or by algorithms based on physician coding [Computer Coded Verbal Autopsies (CCVA)], VA data can complement mortality statistics coming from medically certified causes of death (MCCD). CCVA algorithms use discrete multiple-choice questions in the VA instrument to ascertain the probable cause of death. These algorithms have yet to fully utilize information in the narrative section of the VA. Processing unstructured and context-specific narrative data and integrating it into CCVA is challenging. In this scoping review, we review and synthesise existing literature on automation techniques applied to compute CoD using VA narratives, including Machine Learning models such as Bidirectional Encoder Representations from Transformers (BERT), Random Forest, A feedforward neural network (FNN), Extreme Gradient Boosting (XGBoost), and Support Vector Machine (SVM), and common Natural Language Processing (NLP) approaches including Term Frequency-Inverse Document Frequency (TF-IDF) and topic modeling methods such as Latent Dirichlet Allocation (LDA) that transform unstructured text into structured formats before CoD computation. Based on published studies, this review highlights the challenges and implications of using these methods. It underscores the need for open, up-to-date datasets to facilitate model comparison and improvement. Our findings suggest that integrating narratives into CoD prediction shows promise, particularly when combined with structured questionnaire data in hybrid modeling approaches. However, performance varied substantially across studies due to differences in datasets, preprocessing strategies, feature representation methods, and evaluation procedures. Although narrative-based models alone often underperform those developed from structured questions, incorporating narrative enhances CoD prediction by capturing context, chronology, and semantics, with some studies reporting improved classification performance compared to models using a single data modality.</description>
     </item>
     <item>
-      <title>Compression or expansion of morbidity: evaluating life expectancy with and without cardiovascular diseases in Denmark</title>
-      <link>https://doi.org/10.1186/s12963-026-00511-3</link>
-      <guid isPermaLink="false">10.1186/s12963-026-00511-3</guid>
-
-      <dc:creator>Chiara Micheletti</dc:creator>
-      <dc:creator>Cosmo Strozza</dc:creator>
-      <dc:creator>Alyson van Raalte</dc:creator>
-      <dc:creator>Iñaki Permanyer</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chiara Micheletti, Cosmo Strozza, Alyson van Raalte, Iñaki Permanyer
-
-Journal: Population Health Metrics
-
-Abstract: Abstract Background Cardiovascular diseases (CVDs) are among the leading causes of death in high-income countries and represent a major source of morbidity across the life course. Understanding how the time spent with CVD has evolved over time and how it differs between men and women requires going beyond summary measures of health expectancy, which condense complex health trajectories into a single number. Methods Using Danish population registers from 2005 to 2018, we employ novel bivariate age-at-death distributions to examine how the experience of cardiovascular morbidity is distributed across the population, how it has changed over time and how it varies by sex. Results Our findings point towards an expansion of CVD morbidity, with individuals experiencing a CVD hospital contact spending more years with the condition before death. This coincides with declining CVD incidence, as a growing proportion reach advanced ages without a hospital-recorded CVD event. Women are more likely than men to do so and spend fewer years with CVD before death. Conclusions The coexistence of expanding morbidity and declining incidence reflects progress on both prevention and treatment fronts, and need not be interpreted as a sign of worsening population health. The bivariate framework and visualisations introduced offer a valuable complement to existing health indicators, capturing the full distribution of morbidity experiences that summary measures conceal.</description>
-    </item>
-    <item>
       <title>A standardised approach to systematically select risk-outcome pairs in environmental burden of disease research</title>
       <link>https://doi.org/10.1186/s12963-026-00514-0</link>
       <guid isPermaLink="false">10.1186/s12963-026-00514-0</guid>
@@ -60,6 +44,22 @@ Abstract: Abstract Background Cardiovascular diseases (CVDs) are among the leadi
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 54
 
 Abstract: Abstract Background Environmental Burden of Disease (EBoD) quantifies health impacts attributable to environmental risk factors. The methodological choice on which risk-outcome pairs to include in EBoD studies is technically and conceptually demanding, with diffuse exposures and complex causal chains. This makes transparent criteria for inclusion of risk–outcome pairs essential. In response, we developed a standardised approach for systematically and transparently selecting risk-outcome pairs within environmental burden of disease research. Methods and results The standardised approach was developed through expert elicitation and iterative discussions, ultimately resulting in five sequential steps designed to strengthen consistency and transparency: (1) define and characterise the exposure to the environmental risk factor; (2) identify potential health outcomes from the literature; (3) evaluate the strength of evidence criteria according to set criteria; (4) select risk-outcome pairs based on strength of evidence; and (5) select exposure-response functions. Conclusions By making underlying assumptions explicit, the proposed approach to the selection of risk-outcome pairs can reduce subjectivity in the selection process and support more consistent, evidence-based decisions.</description>
+    </item>
+    <item>
+      <title>Compression or expansion of morbidity: evaluating life expectancy with and without cardiovascular diseases in Denmark</title>
+      <link>https://doi.org/10.1186/s12963-026-00511-3</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00511-3</guid>
+
+      <dc:creator>Chiara Micheletti</dc:creator>
+      <dc:creator>Cosmo Strozza</dc:creator>
+      <dc:creator>Alyson van Raalte</dc:creator>
+      <dc:creator>Iñaki Permanyer</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chiara Micheletti, Cosmo Strozza, Alyson van Raalte, Iñaki Permanyer
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Cardiovascular diseases (CVDs) are among the leading causes of death in high-income countries and represent a major source of morbidity across the life course. Understanding how the time spent with CVD has evolved over time and how it differs between men and women requires going beyond summary measures of health expectancy, which condense complex health trajectories into a single number. Methods Using Danish population registers from 2005 to 2018, we employ novel bivariate age-at-death distributions to examine how the experience of cardiovascular morbidity is distributed across the population, how it has changed over time and how it varies by sex. Results Our findings point towards an expansion of CVD morbidity, with individuals experiencing a CVD hospital contact spending more years with the condition before death. This coincides with declining CVD incidence, as a growing proportion reach advanced ages without a hospital-recorded CVD event. Women are more likely than men to do so and spend fewer years with CVD before death. Conclusions The coexistence of expanding morbidity and declining incidence reflects progress on both prevention and treatment fronts, and need not be interpreted as a sign of worsening population health. The bivariate framework and visualisations introduced offer a valuable complement to existing health indicators, capturing the full distribution of morbidity experiences that summary measures conceal.</description>
     </item>
     <item>
       <title>Cause of death contributions to life expectancy disparity in Fiji between Indigenous iTaukei and Fijians of Indian descent: a retrospective observational analysis of national mortality data from 2018 to 2023</title>
