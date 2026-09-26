@@ -5,27 +5,8 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:51:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:25:28 +0000</lastBuildDate>
 
-    <item>
-      <title>In Other Journals</title>
-      <link>https://doi.org/10.1126/science.aem6086</link>
-      <guid isPermaLink="false">10.1126/science.aem6086</guid>
-
-      <dc:creator>Angela Hessler</dc:creator>
-      <dc:creator>L. Bryan Ray</dc:creator>
-      <dc:creator>Mattia Maroso</dc:creator>
-      <dc:creator>Sacha Vignieri</dc:creator>
-      <dc:creator>Corinne Simonti</dc:creator>
-      <dc:creator>Yury Suleymanov</dc:creator>
-      <dc:creator>Jake S. Yeston</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Angela Hessler, L. Bryan Ray, Mattia Maroso, Sacha Vignieri, Corinne Simonti, Yury Suleymanov, Jake S. Yeston
-
-Journal: Science; Volume: 393; Issue: 6818; Pages: 1309-1310
-
-Abstract: Editors’ selections from the current scientific literature</description>
-    </item>
     <item>
       <title>Escape of the
                     &lt;i&gt;BC200&lt;/i&gt;
@@ -54,6 +35,25 @@ Abstract: Transposable elements mobilize within and occasionally between genomes
       <description>Authors: Jay Bhattacharya
 
 Journal: Science; Article number: eaem6125</description>
+    </item>
+    <item>
+      <title>In Other Journals</title>
+      <link>https://doi.org/10.1126/science.aem6086</link>
+      <guid isPermaLink="false">10.1126/science.aem6086</guid>
+
+      <dc:creator>Angela Hessler</dc:creator>
+      <dc:creator>L. Bryan Ray</dc:creator>
+      <dc:creator>Mattia Maroso</dc:creator>
+      <dc:creator>Sacha Vignieri</dc:creator>
+      <dc:creator>Corinne Simonti</dc:creator>
+      <dc:creator>Yury Suleymanov</dc:creator>
+      <dc:creator>Jake S. Yeston</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Angela Hessler, L. Bryan Ray, Mattia Maroso, Sacha Vignieri, Corinne Simonti, Yury Suleymanov, Jake S. Yeston
+
+Journal: Science; Volume: 393; Issue: 6818; Pages: 1309-1310
+
+Abstract: Editors’ selections from the current scientific literature</description>
     </item>
     <item>
       <title>Antiferroelectric hafnia down to the 2D limit</title>
@@ -164,26 +164,6 @@ Journal: Science; Volume: 393; Issue: 6818; Pages: 1306-1307</description>
       <description>Journal: Science; Volume: 393; Issue: 6818; Article number: eaem2402</description>
     </item>
     <item>
-      <title>Prussian blue regulates ion dynamics in perovskite solar cells</title>
-      <link>https://doi.org/10.1126/science.aef5487</link>
-      <guid isPermaLink="false">10.1126/science.aef5487</guid>
-
-      <dc:creator>Fang Cao</dc:creator>
-      <dc:creator>Mengen Ma</dc:creator>
-      <dc:creator>Junjie Zhou</dc:creator>
-      <dc:creator>Fangwen Cheng</dc:creator>
-      <dc:creator>Zheng Dai</dc:creator>
-      <dc:creator>Linyuan Chen</dc:creator>
-      <dc:creator>Yuhao Hong</dc:creator>
-      <dc:creator>Di Tian</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fang Cao, Mengen Ma, Junjie Zhou, Fangwen Cheng, Zheng Dai, Linyuan Chen, Yuhao Hong, Di Tian, et al.
-
-Journal: Science; Volume: 393; Issue: 6818; Pages: 1329-1334
-
-Abstract: Perovskite photovoltaics are limited by structural instabilities initiated during crystallization and amplified under operation. We report that a lattice-matched Prussian blue scaffold directs heterogeneous nucleation to produce highly oriented, strain-relaxed films. Its redox-active Fe–C≡N–Fe network mediates the conversion of Pb 0 and I 0 defects, and its rigid open framework suppresses A-site cation redistribution and the resulting electronic inhomogeneity under bias. This strategy yielded champion power conversion efficiencies of 26.1% (n-i-p) and 26.9% (p-i-n; 26.2% certified), scaling to 23.4% in 6-centimeter–by–6-centimeter minimodules and a certified 22.9% in 30-centimeter–by–30-centimeter submodules. Submodules with initial power conversion efficiencies ranging from 20.2 to 21.0% showed robust durability under accelerated aging and no discernible decline relative to a silicon reference over 5 months of outdoor testing.</description>
-    </item>
-    <item>
       <title>Unlocking cycle life of lithium metal batteries</title>
       <link>https://doi.org/10.1126/science.aee1630</link>
       <guid isPermaLink="false">10.1126/science.aee1630</guid>
@@ -202,6 +182,26 @@ Abstract: Perovskite photovoltaics are limited by structural instabilities initi
 Journal: Science; Volume: 393; Issue: 6818; Article number: eaee1630
 
 Abstract: Lithium-ion Coulombic efficiency (Li CE) is widely used to evaluate interfacial stability and predict cycle life in lithium-ion batteries but fails in lithium-metal batteries (LMBs), in which higher Li CE does not reliably lead to longer cycle life. Here, we reveal that electrolyte depletion caused by unstable solid electrolyte interphases (SEIs) leads to electrolyte dry-out and induces lithium compensation through anode-to-cathode cross-talk, whereby soluble anionic species formed at the anode migrate to the cathode and release Li + from electrolyte salts upon oxidation. We establish quantitative relationships among SEI quality, electrolyte consumption, and lithium compensation, enabling accurate cycle life prediction. The SEI quality–based framework derives quantitative guidelines for electrolyte design to extend electrolyte lifetime and sustain long cycle life in high-energy LMBs under ultra-lean electrolyte conditions.</description>
+    </item>
+    <item>
+      <title>Prussian blue regulates ion dynamics in perovskite solar cells</title>
+      <link>https://doi.org/10.1126/science.aef5487</link>
+      <guid isPermaLink="false">10.1126/science.aef5487</guid>
+
+      <dc:creator>Fang Cao</dc:creator>
+      <dc:creator>Mengen Ma</dc:creator>
+      <dc:creator>Junjie Zhou</dc:creator>
+      <dc:creator>Fangwen Cheng</dc:creator>
+      <dc:creator>Zheng Dai</dc:creator>
+      <dc:creator>Linyuan Chen</dc:creator>
+      <dc:creator>Yuhao Hong</dc:creator>
+      <dc:creator>Di Tian</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fang Cao, Mengen Ma, Junjie Zhou, Fangwen Cheng, Zheng Dai, Linyuan Chen, Yuhao Hong, Di Tian, et al.
+
+Journal: Science; Volume: 393; Issue: 6818; Pages: 1329-1334
+
+Abstract: Perovskite photovoltaics are limited by structural instabilities initiated during crystallization and amplified under operation. We report that a lattice-matched Prussian blue scaffold directs heterogeneous nucleation to produce highly oriented, strain-relaxed films. Its redox-active Fe–C≡N–Fe network mediates the conversion of Pb 0 and I 0 defects, and its rigid open framework suppresses A-site cation redistribution and the resulting electronic inhomogeneity under bias. This strategy yielded champion power conversion efficiencies of 26.1% (n-i-p) and 26.9% (p-i-n; 26.2% certified), scaling to 23.4% in 6-centimeter–by–6-centimeter minimodules and a certified 22.9% in 30-centimeter–by–30-centimeter submodules. Submodules with initial power conversion efficiencies ranging from 20.2 to 21.0% showed robust durability under accelerated aging and no discernible decline relative to a silicon reference over 5 months of outdoor testing.</description>
     </item>
     <item>
       <title>2D theoretically twistable material database</title>
@@ -349,19 +349,6 @@ Journal: Science; Volume: 393; Issue: 6818; Article number: eaej5896
 Abstract: Cardiac fibrosis independently predicts adverse outcomes in heart failure (HF), yet no Food and Drug Administration–approved therapy directly targets fibrotic remodeling in the heart. To address this unmet clinical need, we used a multidimensional drug discovery pipeline centered on a human induced pluripotent stem cell (iPSC)–based platform. Through high-throughput screening, we identified CGS15943 (CGS) as the lead antifibrotic compound and validated its activity in human cardiac fibroblasts, three-dimensional engineered heart tissues, and animal models of HF. Mechanistic studies revealed an atypical adenosine receptor (AR)–dependent signaling pathway in which AR subtypes converge on Gβγ (the βγ subunits of heterotrimeric GTP-binding proteins) to activate phosphoinositide 3-kinase (PI3K)–AKT and yes-associated protein (YAP). CGS suppressed this signaling axis, thereby reducing fibrotic gene expression and fibroblast activation. These findings establish AR-driven Gβγ signaling as a potential therapeutic target for cardiac fibrosis.</description>
     </item>
     <item>
-      <title>White House efforts to control NIH grants lead to new court challenge and Oval Office tussle</title>
-      <link>https://doi.org/10.1126/science.aem6547</link>
-      <guid isPermaLink="false">10.1126/science.aem6547</guid>
-
-      <dc:creator>Jocelyn Kaiser</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jocelyn Kaiser
-
-Journal: Science; Volume: 393; Issue: 6818; Pages: 1290-1291
-
-Abstract: Lawsuit argues political screening of grants violates researchers’ freedom of speech</description>
-    </item>
-    <item>
       <title>Science still has expertise; what it’s lost is authority</title>
       <link>https://doi.org/10.1126/science.aem5190</link>
       <guid isPermaLink="false">10.1126/science.aem5190</guid>
@@ -373,6 +360,19 @@ Abstract: Lawsuit argues political screening of grants violates researchers’ f
 Journal: Science; Volume: 393; Issue: 6818; Pages: 1279-1279
 
 Abstract: In the years since the pandemic and the political turmoil surrounding the American scientific establishment, much time has been spent discussing why science has lost influence on public policy in the United States. A time when scientific advice about vaccination, nutrition, and environmental regulation was more readily heeded seems a distant memory. Scientific expertise has been decoupled from a sense of authority and standing to dictate policy on matters ranging from public health to climate change. The explanations for this separation include the rise of technologies like the internet and artificial intelligence, mistakes made by scientists and scientific institutions, and weaponization of anti-science ideas by political actors. But what if there’s a larger historical trend that suggests the disconnect between expertise and authority was inevitable? A new idea in philosophy called the “unicontext” suggests that the advance of technology, along with basic human desires, has been leading to this point for the past century.</description>
+    </item>
+    <item>
+      <title>White House efforts to control NIH grants lead to new court challenge and Oval Office tussle</title>
+      <link>https://doi.org/10.1126/science.aem6547</link>
+      <guid isPermaLink="false">10.1126/science.aem6547</guid>
+
+      <dc:creator>Jocelyn Kaiser</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jocelyn Kaiser
+
+Journal: Science; Volume: 393; Issue: 6818; Pages: 1290-1291
+
+Abstract: Lawsuit argues political screening of grants violates researchers’ freedom of speech</description>
     </item>
     <item>
       <title>No need to pretend</title>
@@ -961,6 +961,26 @@ Journal: Science; Volume: 393; Issue: 6817; Pages: 1187-1188
 Abstract: Ancient viral warfare could be at the root of modern class 1 CRISPR bacterial defense systems</description>
     </item>
     <item>
+      <title>Ancient DNA unveils distinctive ancestries in the Bronze and Iron Ages of East Tianshan</title>
+      <link>https://doi.org/10.1126/science.adv1295</link>
+      <guid isPermaLink="false">10.1126/science.adv1295</guid>
+
+      <dc:creator>Chao Ning</dc:creator>
+      <dc:creator>Ke Wang</dc:creator>
+      <dc:creator>Tianyi Wang</dc:creator>
+      <dc:creator>Jian Ma</dc:creator>
+      <dc:creator>Xue Zhao</dc:creator>
+      <dc:creator>Tongyuan Xi</dc:creator>
+      <dc:creator>Yongqiang Wang</dc:creator>
+      <dc:creator>Peng Cao</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chao Ning, Ke Wang, Tianyi Wang, Jian Ma, Xue Zhao, Tongyuan Xi, Yongqiang Wang, Peng Cao, et al.
+
+Journal: Science; Volume: 393; Issue: 6817; Article number: eadv1295
+
+Abstract: The East Tianshan Mountains occupy a key corridor between Central and East Asia, but their population history remains poorly understood. Here we report genome-wide data from 135 ancient individuals from 11 archaeological sites. We identify a previously unrecognized Bronze Age admixture between populations related to Yellow River millet farmers and steppe pastoralists associated with the Chemurchek culture. In contrast, we find little genetic contribution from contemporaneous middle-to-late Bronze Age steppe pastoralists, despite their eastward expansion across the Eurasian Steppe. By the Iron Age, regional populations had become more heterogeneous, incorporating additional eastern and steppe-related sources while retaining variable contributions from Early Bronze Age groups. These results reveal sustained demographic interactions in eastern Central Asia nearly 1800 years preceding the establishment of the historic Silk Road.</description>
+    </item>
+    <item>
       <title>OpenAI leap triggers ‘existential crisis’ in math</title>
       <link>https://doi.org/10.1126/science.aem4439</link>
       <guid isPermaLink="false">10.1126/science.aem4439</guid>
@@ -986,26 +1006,6 @@ Abstract: Solution to Navier-Stokes problem has mathematicians at odds over AI�
 Journal: Science; Volume: 393; Issue: 6817; Pages: 1188-1189
 
 Abstract: Stratifying genetic mutations points to different pathophysiological pathways to a neurodevelopmental disorder</description>
-    </item>
-    <item>
-      <title>Ancient DNA unveils distinctive ancestries in the Bronze and Iron Ages of East Tianshan</title>
-      <link>https://doi.org/10.1126/science.adv1295</link>
-      <guid isPermaLink="false">10.1126/science.adv1295</guid>
-
-      <dc:creator>Chao Ning</dc:creator>
-      <dc:creator>Ke Wang</dc:creator>
-      <dc:creator>Tianyi Wang</dc:creator>
-      <dc:creator>Jian Ma</dc:creator>
-      <dc:creator>Xue Zhao</dc:creator>
-      <dc:creator>Tongyuan Xi</dc:creator>
-      <dc:creator>Yongqiang Wang</dc:creator>
-      <dc:creator>Peng Cao</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chao Ning, Ke Wang, Tianyi Wang, Jian Ma, Xue Zhao, Tongyuan Xi, Yongqiang Wang, Peng Cao, et al.
-
-Journal: Science; Volume: 393; Issue: 6817; Article number: eadv1295
-
-Abstract: The East Tianshan Mountains occupy a key corridor between Central and East Asia, but their population history remains poorly understood. Here we report genome-wide data from 135 ancient individuals from 11 archaeological sites. We identify a previously unrecognized Bronze Age admixture between populations related to Yellow River millet farmers and steppe pastoralists associated with the Chemurchek culture. In contrast, we find little genetic contribution from contemporaneous middle-to-late Bronze Age steppe pastoralists, despite their eastward expansion across the Eurasian Steppe. By the Iron Age, regional populations had become more heterogeneous, incorporating additional eastern and steppe-related sources while retaining variable contributions from Early Bronze Age groups. These results reveal sustained demographic interactions in eastern Central Asia nearly 1800 years preceding the establishment of the historic Silk Road.</description>
     </item>
     <item>
       <title>Future forests</title>
@@ -1156,21 +1156,6 @@ Abstract: Random noise can break symmetries and enhance the stability of collect
 Journal: Science; Volume: 393; Issue: 6817; Article number: eael6948</description>
     </item>
     <item>
-      <title>Geopolitical tensions with the US accelerate Chinese firms’ leveraging of science</title>
-      <link>https://doi.org/10.1126/science.aed7991</link>
-      <guid isPermaLink="false">10.1126/science.aed7991</guid>
-
-      <dc:creator>Junhan Wang</dc:creator>
-      <dc:creator>Xibao Li</dc:creator>
-      <dc:creator>Yanbo Wang</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Junhan Wang, Xibao Li, Yanbo Wang
-
-Journal: Science; Volume: 393; Issue: 6817; Pages: 1196-1199
-
-Abstract: US restrictions on access to technologies have led Chinese firms to intensify and broaden the scope of their scientific knowledge sourcing</description>
-    </item>
-    <item>
       <title>Multi-organelle signatures map cell-state diversity and metabolic adaptation in tissues</title>
       <link>https://doi.org/10.1126/science.ady6372</link>
       <guid isPermaLink="false">10.1126/science.ady6372</guid>
@@ -1190,17 +1175,19 @@ Journal: Science; Volume: 393; Issue: 6817; Article number: eady6372
 Abstract: Cell-state diversity drives tissue adaptability, repair, and disease resilience, but capturing this complexity is a challenge. Current approaches rely on transcriptional profiling and overlook organelle structure, a key indicator of metabolism and stress. We developed spatial Organellomics (sOrganellomics), an imaging workflow that integrates automated segmentation with machine learning to classify and spatially map cell states from multi-organelle signatures. In liver and pancreas, these signatures distinguished broad cellular classes. In liver, sOrganellomics revealed that zonal position did not fully explain organelle-defined hepatocyte categories. Instead, hepatocytes formed intermixed communities within canonical zones, supporting a refined subzonal diversity model. Nutritional stress reshaped this organization. Intravital imaging linked fasting-induced organelle remodeling with altered mitochondrial membrane potential in vivo, supporting multi-organelle architecture as a structural readout of tissue adaptation.</description>
     </item>
     <item>
-      <title>Social science studies often breach participants’ privacy</title>
-      <link>https://doi.org/10.1126/science.aem4443</link>
-      <guid isPermaLink="false">10.1126/science.aem4443</guid>
+      <title>Geopolitical tensions with the US accelerate Chinese firms’ leveraging of science</title>
+      <link>https://doi.org/10.1126/science.aed7991</link>
+      <guid isPermaLink="false">10.1126/science.aed7991</guid>
 
-      <dc:creator>Jeffrey Brainard</dc:creator>
+      <dc:creator>Junhan Wang</dc:creator>
+      <dc:creator>Xibao Li</dc:creator>
+      <dc:creator>Yanbo Wang</dc:creator>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jeffrey Brainard
+      <description>Authors: Junhan Wang, Xibao Li, Yanbo Wang
 
-Journal: Science; Volume: 393; Issue: 6817; Pages: 1178-1179
+Journal: Science; Volume: 393; Issue: 6817; Pages: 1196-1199
 
-Abstract: One-fifth of social science data sets intended to support replication violated privacy standards, new study finds</description>
+Abstract: US restrictions on access to technologies have led Chinese firms to intensify and broaden the scope of their scientific knowledge sourcing</description>
     </item>
     <item>
       <title>VIPR RNA-guided DNA recognition by noncontiguous geometric triplex formation</title>
@@ -1236,6 +1223,19 @@ Abstract: Viral interference programmable repeat (VIPR) systems use a noncontigu
 Journal: Science; Volume: 393; Issue: 6817; Pages: 1241-1249
 
 Abstract: Previous studies of network dynamics have suggested that heterogeneity among nodes inhibits stability, which is at odds with the ubiquity of inherently heterogeneous natural and engineered systems. Here, we show that this conclusion arises from model reductions introduced for mathematical tractability and breaks down when nodal dynamics are higher-dimensional, yielding non-Hermitian Jacobians. In such systems, including neural, power-grid, and material networks, nodal heterogeneity can instead enhance stability, even when parameters are randomly disordered. Non-Hermiticity also underlies the stabilizing effects of network heterogeneity, which can arise even in one-dimensional nodal dynamics through nonreciprocal interactions, as shown for ecological networks. Our framework reveals disorder not as a liability but as a general resource for stabilizing complex systems.</description>
+    </item>
+    <item>
+      <title>Social science studies often breach participants’ privacy</title>
+      <link>https://doi.org/10.1126/science.aem4443</link>
+      <guid isPermaLink="false">10.1126/science.aem4443</guid>
+
+      <dc:creator>Jeffrey Brainard</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jeffrey Brainard
+
+Journal: Science; Volume: 393; Issue: 6817; Pages: 1178-1179
+
+Abstract: One-fifth of social science data sets intended to support replication violated privacy standards, new study finds</description>
     </item>
     <item>
       <title>An expert-level generalist AI for abdominal CT diagnosis</title>
@@ -1558,6 +1558,19 @@ Journal: Science; Volume: 393; Issue: 6816; Pages: 1117-1121
 Abstract: Most carbonaceous chondrite (CC) meteorites contain abundant chondrules, millimeter-scale spherical inclusions of previously molten material. Ivuna-type carbonaceous chondrites (CIs) do not contain chondrules, nor do samples of the carbonaceous asteroid Ryugu. CIs and Ryugu share isotopic properties distinct from those of other CCs, implying that their parent bodies formed at a different time or place than those of other CCs. We applied manganese-chromium dating and oxygen isotope thermometry to Ryugu and Ivuna samples. The results indicate that the parent bodies of Ryugu and Ivuna formed less than 2 million years after the beginning of Solar System formation—before the majority of chondrules in CCs and the parent bodies of other CCs formed. This implies that Ryugu and CIs are remnants of an earlier generation of carbonaceous planetesimals.</description>
     </item>
     <item>
+      <title>Wars exacerbate the biodiversity crisis</title>
+      <link>https://doi.org/10.1126/science.aek3731</link>
+      <guid isPermaLink="false">10.1126/science.aek3731</guid>
+
+      <dc:creator>Tao Liang</dc:creator>
+      <dc:creator>Shai Meiri</dc:creator>
+      <dc:creator>Uri Roll</dc:creator>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tao Liang, Shai Meiri, Uri Roll
+
+Journal: Science; Volume: 393; Issue: 6816; Pages: 1090-1090</description>
+    </item>
+    <item>
       <title>Glycan recognition by a plant damage-sensing immune receptor</title>
       <link>https://doi.org/10.1126/science.aec6740</link>
       <guid isPermaLink="false">10.1126/science.aec6740</guid>
@@ -1578,32 +1591,6 @@ Journal: Science; Article number: eaec6740
 Abstract: Pathogens target and degrade the extracellular matrix surrounding plant cells. A central question is how cell wall-derived damage-associated molecular patterns (DAMPs) are recognized and integrated to trigger immune responses. We address this question by determining the structure of the extracellular multidomain of the IGP1 receptor in both apo form and bound to the cellulose-derived DAMP cellotriose. Structural analyses reveal that constitutive interactions of Leucine Rich Repeat (LRR)-malectin domains preconfigure IGP1 for ligand recognition and that the receptor features a highly specific sugar-binding pocket in the LRR domain capable of distinguishing fine variations in glycan structures. By directly sensing cello-oligomers, IGP1 operates as a cell wall surveillance receptor that links pathogen-induced wall degradation to immune alerting, equipping plants to mount rapid and robust defense responses.</description>
     </item>
     <item>
-      <title>Wars exacerbate the biodiversity crisis</title>
-      <link>https://doi.org/10.1126/science.aek3731</link>
-      <guid isPermaLink="false">10.1126/science.aek3731</guid>
-
-      <dc:creator>Tao Liang</dc:creator>
-      <dc:creator>Shai Meiri</dc:creator>
-      <dc:creator>Uri Roll</dc:creator>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tao Liang, Shai Meiri, Uri Roll
-
-Journal: Science; Volume: 393; Issue: 6816; Pages: 1090-1090</description>
-    </item>
-    <item>
-      <title>Clues to immune havoc in the brain</title>
-      <link>https://doi.org/10.1126/science.aem2422</link>
-      <guid isPermaLink="false">10.1126/science.aem2422</guid>
-
-      <dc:creator>Jennie Erin Smith</dc:creator>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jennie Erin Smith
-
-Journal: Science; Volume: 393; Issue: 6816; Pages: 1070-1071
-
-Abstract: Study in mice strengthens T cells’ ties to neurodegenerative conditions like Alzheimer’s</description>
-    </item>
-    <item>
       <title>In situ structure of the human ciliary transition zone links linker defects to primary ciliary dyskinesia</title>
       <link>https://doi.org/10.1126/science.aei5957</link>
       <guid isPermaLink="false">10.1126/science.aei5957</guid>
@@ -1622,6 +1609,19 @@ Abstract: Study in mice strengthens T cells’ ties to neurodegenerative conditi
 Journal: Science; Article number: eaei5957
 
 Abstract: The ciliary transition zone (TZ) regulates ciliary proteome composition, yet its molecular architecture, protein content, and contribution to motile ciliopathies remain poorly defined. We applied in situ cryo-electron tomography and subtomogram averaging to human multiciliated epithelial cells. This approach resolved TZ-specific doublet microtubules at subnanometer resolution and identified nine constituent proteins. We identified that ECT2L and DZANK1 form the major linker complexes between adjacent TZ doublet microtubules. Biallelic loss-of-function variants in either gene cause primary ciliary dyskinesia. ECT2L and DZANK1 deficiency disrupted TZ architecture, caused microtubular abnormalities and abnormal bulbous ciliary tips, and impaired mucociliary clearance. These findings establish a direct genetic link between TZ defects and human motile ciliopathy, and illustrate how in situ structural biology can uncover mechanisms of human disease.</description>
+    </item>
+    <item>
+      <title>Clues to immune havoc in the brain</title>
+      <link>https://doi.org/10.1126/science.aem2422</link>
+      <guid isPermaLink="false">10.1126/science.aem2422</guid>
+
+      <dc:creator>Jennie Erin Smith</dc:creator>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jennie Erin Smith
+
+Journal: Science; Volume: 393; Issue: 6816; Pages: 1070-1071
+
+Abstract: Study in mice strengthens T cells’ ties to neurodegenerative conditions like Alzheimer’s</description>
     </item>
   </channel>
 </rss>
