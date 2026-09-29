@@ -5,8 +5,46 @@
     <link>https://www.nature.com/nataging/</link>
     <description>Latest journal articles for Nature Aging</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:54:55 +0000</lastBuildDate>
 
+    <item>
+      <title>Exercise enhances aged chondrocyte health through microRNA-29-enriched extracellular vesicles</title>
+      <link>https://doi.org/10.1038/s43587-026-01225-9</link>
+      <guid isPermaLink="false">10.1038/s43587-026-01225-9</guid>
+
+      <dc:creator>Hirotaka Iijima</dc:creator>
+      <dc:creator>Kandarp M. Dave</dc:creator>
+      <dc:creator>Kai Wang</dc:creator>
+      <dc:creator>Adam M. Khay</dc:creator>
+      <dc:creator>Ella D’Amico</dc:creator>
+      <dc:creator>Wan-Yee Tang</dc:creator>
+      <dc:creator>Renee J. Rogers</dc:creator>
+      <dc:creator>John M. Jakicic</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hirotaka Iijima, Kandarp M. Dave, Kai Wang, Adam M. Khay, Ella D’Amico, Wan-Yee Tang, Renee J. Rogers, John M. Jakicic, et al.
+
+Journal: Nature Aging</description>
+    </item>
+    <item>
+      <title>Mitochondrial membrane lipid cardiolipin controls fiber-type adaptations in aging muscle via estrogen-related receptor γ</title>
+      <link>https://doi.org/10.1038/s43587-026-01227-7</link>
+      <guid isPermaLink="false">10.1038/s43587-026-01227-7</guid>
+
+      <dc:creator>Fabian Finger</dc:creator>
+      <dc:creator>Mikkel Frost</dc:creator>
+      <dc:creator>Shinya Watanabe</dc:creator>
+      <dc:creator>Tao Ma</dc:creator>
+      <dc:creator>Taewook Kang</dc:creator>
+      <dc:creator>Dipsikha Biswas</dc:creator>
+      <dc:creator>Ruben Zapata-Perez</dc:creator>
+      <dc:creator>Vincent Anton</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fabian Finger, Mikkel Frost, Shinya Watanabe, Tao Ma, Taewook Kang, Dipsikha Biswas, Ruben Zapata-Perez, Vincent Anton, et al.
+
+Journal: Nature Aging
+
+Abstract: Abstract Aging paradoxically leads to both a decline in skeletal muscle mitochondrial function and a shift in muscle composition that favors fibers rich in mitochondria. Yet the biological rationale and mechanism underlying this phenomenon remain largely unknown. Here we show that synthesis of the mitochondrial membrane lipid, cardiolipin, causally links mitochondrial dysfunction to fiber-type adaptations in aging mouse and human skeletal muscle. By mimicking the aging decline of skeletal muscle cardiolipin levels in young mice using inducible tissue-specific cardiolipin synthase 1 ( Crls1 ) deletion, we could reproduce key aging hallmarks, including the shift from glycolytic to oxidative fibers. This shift is mediated by mitochondria-to-nucleus signaling through the nuclear receptor, estrogen-related receptor γ, which promotes reactive oxygen species-sensitive glucose uptake and enhanced glycolytic rerouting to sustain antioxidant defenses. Restoring Crls1 expression in adult Crls1 knockout mice reestablishes cardiolipin levels, initiates reversal of muscle atrophy and fully rescues premature mortality. These findings reveal how changes in a mitochondrial membrane lipid cell autonomously orchestrate fiber-type adaptations in aging and myopathies.</description>
+    </item>
     <item>
       <title>Author Correction: DREAM repressive activity links somatic mutation, lifespan and disease</title>
       <link>https://doi.org/10.1038/s43587-026-01251-7</link>
@@ -1522,45 +1560,6 @@ Journal: Nature Aging; Volume: 6; Issue: 5; Pages: 970-986</description>
       <description>Authors: Samuel J. C. Crofts, Caleb M. Grenko, Riccardo E. Marioni, Eric Latorre-Crespo, Tamir Chandra
 
 Journal: Nature Aging; Volume: 6; Issue: 6; Pages: 1319-1329</description>
-    </item>
-    <item>
-      <title>Predicting categorical and continuous Alzheimer’s disease outcomes from a single MRI scan</title>
-      <link>https://doi.org/10.1038/s43587-026-01121-2</link>
-      <guid isPermaLink="false">10.1038/s43587-026-01121-2</guid>
-
-      <dc:creator>Daren Ma</dc:creator>
-      <dc:creator>Christabelle Pabalan</dc:creator>
-      <dc:creator>Abhejit Rajagopal</dc:creator>
-      <dc:creator>Akanksha Akanksha</dc:creator>
-      <dc:creator>Yannet Interian</dc:creator>
-      <dc:creator>Yang Yang</dc:creator>
-      <dc:creator>Ashish Raj</dc:creator>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Daren Ma, Christabelle Pabalan, Abhejit Rajagopal, Akanksha Akanksha, Yannet Interian, Yang Yang, Ashish Raj
-
-Journal: Nature Aging; Volume: 6; Issue: 5; Pages: 1121-1137
-
-Abstract: Abstract Deep learning (DL) has shown success in predicting Alzheimer’s disease (AD) diagnosis, yet continuous measures such as cognitive assessment remain critical for richer prognosis, trajectory tracking and clinical trial enrichment. Current neurocognitive batteries are time-consuming, and the few DL models predicting cognition require expensive multimodal neuroimaging and longitudinal data. Although magnetic resonance imaging (MRI) is the most clinically accessible modality, on its own it struggles to capture AD heterogeneity in modern DL frameworks. We propose a multitask DL strategy integrating domain knowledge with large pretrained models to predict cognitive scores using only baseline MRI and demographics. By customizing loss functions and leveraging tissue segmentation-tuned latent representations as regularization features, our approach bypasses the need for longitudinal, multimodal or specialized neuroimaging data. This knowledge-informed multitask framework produces accurate diagnosis, segmentation and both current and future cognitive scores from a single baseline scan, with broad implications for early diagnosis, prognosis and clinical trial design.</description>
-    </item>
-    <item>
-      <title>Proteomic signatures of the APOE ε4 and APOE ε2 genetic variants and Alzheimer’s disease</title>
-      <link>https://doi.org/10.1038/s43587-026-01123-0</link>
-      <guid isPermaLink="false">10.1038/s43587-026-01123-0</guid>
-
-      <dc:creator>Lina Lu</dc:creator>
-      <dc:creator>Alexa Pichet Binette</dc:creator>
-      <dc:creator>Ines Hristovska</dc:creator>
-      <dc:creator>Shorena Janelidze</dc:creator>
-      <dc:creator>Bart Smets</dc:creator>
-      <dc:creator>Irene Cumplido-Mayoral</dc:creator>
-      <dc:creator>Aparna Vasanthakumar</dc:creator>
-      <dc:creator>Britney Milkovich</dc:creator>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lina Lu, Alexa Pichet Binette, Ines Hristovska, Shorena Janelidze, Bart Smets, Irene Cumplido-Mayoral, Aparna Vasanthakumar, Britney Milkovich, et al.
-
-Journal: Nature Aging; Volume: 6; Issue: 5; Pages: 1138-1157
-
-Abstract: Abstract The APOE locus is the strongest genetic factor for Alzheimer’s disease, with ε4 increasing and ε2 decreasing risk, yet the basis of these opposing effects remains unclear. Here we performed a multicohort proteomic analysis across plasma and cerebrospinal fluid in GNPC, BioFINDER-2, ADNI, UK BioBank, and PPMI. APOE -associated protein alterations are detectable before amyloid pathology and remain stable across age and disease progression. APOE2 -associated proteins were enriched in pathways related to cellular maintenance and anti-inflammatory processes. By contrast, APOE4 showed a limited set of upstream mediators linked to cell-cycle and oligodendrocyte precursor cell biology, and a broader group of proteins reflecting vascular, immune, and proteostatic dysfunction shaped by downstream pathology. Comparative analyses highlighted allele-specific mediators and oppositely regulated proteins contributing to differential disease risk. Together, these findings reveal that APOE2 and APOE4 shape Alzheimer’s disease risk through distinct molecular architectures and identify candidate biomarkers and targets for allele-specific interventions.</description>
     </item>
   </channel>
 </rss>
