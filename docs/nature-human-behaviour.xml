@@ -5,8 +5,37 @@
     <link>https://www.nature.com/nathumbehav/</link>
     <description>Latest journal articles for Nature Human Behaviour</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:16:53 +0000</lastBuildDate>
 
+    <item>
+      <title>Selfish and prosocial individuals both distort their actions’ impact, but selfish distortions can be more contagious</title>
+      <link>https://doi.org/10.1038/s41562-026-02585-3</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02585-3</guid>
+
+      <dc:creator>Marius C. Vollberg</dc:creator>
+      <dc:creator>Jörg Gross</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marius C. Vollberg, Jörg Gross
+
+Journal: Nature Human Behaviour
+
+Abstract: Abstract People often act without knowing exactly how their actions impact others. Here, across nine preregistered online experiments ( N = 8,769 adults, predominantly US residents), we tested whether people exploit this ambiguity to make themselves look good. On average, selfish individuals inflated the social benefit of their choice while downplaying that of the alternative, reporting the two options as more similar than prosocial individuals did (experiment 1a: b = 0.24, 95% confidence interval 0.14–0.34). Prosocial individuals portrayed their choice as comparatively more socially beneficial; they also inflated their implied relative sacrifice, although less consistently. We observed distortions even before people made a choice and when choices were forced, consistent with distortions reflecting social preferences rather than mere justification. While people differed in whether and how they distorted, distortions favouring selfishness showed evidence of contagion: others adopted them and became more selfish (experiment 6, selfish-serving versus no-distortion: b = 0.49, 95% confidence interval 0.10–0.88). These findings offer a psychological foundation for why polarized positions about the social impact of one’s actions may emerge. When social consequences are open to interpretation, people may predictably form divergent interpretations.</description>
+    </item>
+    <item>
+      <title>Intrinsic rewards guide visual resource allocation via reinforcement learning</title>
+      <link>https://doi.org/10.1038/s41562-026-02573-7</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02573-7</guid>
+
+      <dc:creator>Ivan Tomić</dc:creator>
+      <dc:creator>Rodrigo Raimundo</dc:creator>
+      <dc:creator>Paul M. Bays</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ivan Tomić, Rodrigo Raimundo, Paul M. Bays
+
+Journal: Nature Human Behaviour
+
+Abstract: Abstract Humans and other animals prioritize visual processing of stimuli that signal rewards. While previous research has focused on tangible incentives (for example, money or food), the effects of intrinsic incentives—such as perceived competence—are less well understood. Here, across a series of visual estimation experiments, we manipulated observers’ subjective sense of confidence in their judgements using either deceptive trial-by-trial feedback or real discrepancies in stimulus reliability. We found that observers prioritized encoding of stimuli associated with lower uncertainty or error, benefiting performance for stimuli already estimated accurately, while further impairing performance for those estimated poorly. These reward-driven biases, while potentially adaptive, impaired overall accuracy in the present tasks by causing resource allocation to deviate from the error-minimizing strategy. To account for these findings, we supplemented a normalization model of neural resource allocation with a simple reinforcement learning rule. Intrinsic and external rewards cumulatively shaped the values assigned to different stimuli by the model, and the resulting discrepancies biased resource allocation and thereby estimation error, quantitatively matching the data. These findings reveal how intrinsic reward signals can shape resource allocation in ways that are both adaptive and counterproductive, offering a computational basis for the motivational biases underlying cognitive performance.</description>
+    </item>
     <item>
       <title>Introducing AI to an online petition platform changed outputs but not outcomes</title>
       <link>https://doi.org/10.1038/s41562-026-02580-8</link>
@@ -133,6 +162,17 @@ Journal: Nature Human Behaviour</description>
 Journal: Nature Human Behaviour; Volume: 10; Issue: 9; Pages: 1613-1614</description>
     </item>
     <item>
+      <title>What chimpanzees at war have taught me about being human</title>
+      <link>https://doi.org/10.1038/s41562-026-02601-6</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02601-6</guid>
+
+      <dc:creator>John C. Mitani</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: John C. Mitani
+
+Journal: Nature Human Behaviour</description>
+    </item>
+    <item>
       <title>How AI companions could deepen social inequality</title>
       <link>https://doi.org/10.1038/s41562-026-02538-w</link>
       <guid isPermaLink="false">10.1038/s41562-026-02538-w</guid>
@@ -144,17 +184,6 @@ Journal: Nature Human Behaviour; Volume: 10; Issue: 9; Pages: 1613-1614</descrip
       <description>Authors: Qiyang Zhang, Renwen Zhang, Nan Liu
 
 Journal: Nature Human Behaviour; Volume: 10; Issue: 9; Pages: 1622-1624</description>
-    </item>
-    <item>
-      <title>What chimpanzees at war have taught me about being human</title>
-      <link>https://doi.org/10.1038/s41562-026-02601-6</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02601-6</guid>
-
-      <dc:creator>John C. Mitani</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: John C. Mitani
-
-Journal: Nature Human Behaviour</description>
     </item>
     <item>
       <title>The case for gender quotas</title>
@@ -370,6 +399,17 @@ Journal: Nature Human Behaviour
 Abstract: Abstract Here we present epigenetic findings from a randomized controlled trial studying the impact of unconditional cash gifts of US$333 per month (children n = 313; mothers n = 329) or US$20 per month (children n = 423; mothers n = 448) to US mothers with low income during their child’s first four years of life. Salivary DunedinPACE-pace of aging, a DNA-methylation predictor of healthy lifespan, and Epigenetic- g , a DNA-methylation biomarker of cognition, were preregistered as secondary outcomes (clinical trial identifier NCT03593356 ). As hypothesized, high-cash compared with low-cash gifts caused a −0.17 s.d. (95% confidence interval −0.32 to −0.01, P = 0.037) difference in children’s DunedinPACE. We found no evidence supporting our hypothesis that higher cash gifts increased children’s Epigenetic- g , although it did correlate with children’s brain activity. There was no evidence that the cash gift had an impact on these epigenetic indices in mothers. These findings show a detectable impact of monthly unconditional cash received through early childhood on epigenetic indices of 4-year-old children in families with low income. Whether this epigenetic effect persists and how it may relate to behavioural and health outcomes remains unknown.</description>
     </item>
     <item>
+      <title>The gender gap reconsidered</title>
+      <link>https://doi.org/10.1038/s41562-026-02448-x</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02448-x</guid>
+
+      <dc:creator>Bryce E. Hughes</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bryce E. Hughes
+
+Journal: Nature Human Behaviour</description>
+    </item>
+    <item>
       <title>Mourning the loss of AI companions</title>
       <link>https://doi.org/10.1038/s41562-026-02569-3</link>
       <guid isPermaLink="false">10.1038/s41562-026-02569-3</guid>
@@ -380,17 +420,6 @@ Abstract: Abstract Here we present epigenetic findings from a randomized control
       <dc:creator>Zeliha Oğuz-Uğuralp</dc:creator>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <description>Authors: Julian De Freitas, Noah Castelo, Ahmet Kaan Uğuralp, Zeliha Oğuz-Uğuralp
-
-Journal: Nature Human Behaviour</description>
-    </item>
-    <item>
-      <title>The gender gap reconsidered</title>
-      <link>https://doi.org/10.1038/s41562-026-02448-x</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02448-x</guid>
-
-      <dc:creator>Bryce E. Hughes</dc:creator>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bryce E. Hughes
 
 Journal: Nature Human Behaviour</description>
     </item>
@@ -1421,35 +1450,6 @@ Journal: Nature Human Behaviour; Volume: 10; Issue: 7; Pages: 1197-1205</descrip
       <description>Authors: Michael Preston, Sydney Smith, Bradley Voytek
 
 Journal: Nature Human Behaviour; Volume: 10; Issue: 8; Pages: 1431-1440</description>
-    </item>
-    <item>
-      <title>Political segregation in the US workplace</title>
-      <link>https://doi.org/10.1038/s41562-026-02501-9</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02501-9</guid>
-
-      <dc:creator>Justin Frake</dc:creator>
-      <dc:creator>Reuben Hurst</dc:creator>
-      <dc:creator>Max Kagan</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Justin Frake, Reuben Hurst, Max Kagan
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 8; Pages: 1455-1473</description>
-    </item>
-    <item>
-      <title>Representativeness and response validity across nine opt-in online samples</title>
-      <link>https://doi.org/10.1038/s41562-026-02438-z</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02438-z</guid>
-
-      <dc:creator>Michael N. Stagnaro</dc:creator>
-      <dc:creator>James N. Druckman</dc:creator>
-      <dc:creator>Adam J. Berinsky</dc:creator>
-      <dc:creator>Antonio A. Arechar</dc:creator>
-      <dc:creator>Robb Willer</dc:creator>
-      <dc:creator>David G. Rand</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Michael N. Stagnaro, James N. Druckman, Adam J. Berinsky, Antonio A. Arechar, Robb Willer, David G. Rand
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 8; Pages: 1441-1454</description>
     </item>
   </channel>
 </rss>

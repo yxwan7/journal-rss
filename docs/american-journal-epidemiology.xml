@@ -5,8 +5,48 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:15:58 +0000</lastBuildDate>
 
+    <item>
+      <title>Evaluating potential sources of bias in linear growth rate analysis of renal tumors: case study in Von-Hippel Lindau disease</title>
+      <link>https://doi.org/10.1093/aje/kwag225</link>
+      <guid isPermaLink="false">10.1093/aje/kwag225</guid>
+
+      <dc:creator>Cathy Anne Pinto</dc:creator>
+      <dc:creator>Ghada Abu-Sheasha</dc:creator>
+      <dc:creator>Miriam J Haviland</dc:creator>
+      <dc:creator>Neil Murphy</dc:creator>
+      <dc:creator>Steven S Senglaub</dc:creator>
+      <dc:creator>Rafia Bosan</dc:creator>
+      <dc:creator>Caroline G Tai</dc:creator>
+      <dc:creator>Florence Mercier</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cathy Anne Pinto, Ghada Abu-Sheasha, Miriam J Haviland, Neil Murphy, Steven S Senglaub, Rafia Bosan, Caroline G Tai, Florence Mercier, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag225
+
+Abstract: Abstract Accurate tumor growth rate estimation is vital for linking disease progression to patient characteristics and outcomes, especially in rare diseases where limited data increase bias risk. We evaluated two potential sources of bias in linear growth rate (LGR) estimation using data from a prior natural history (NH) study of von Hippel–Lindau (VHL) renal cell carcinoma (RCC), a rare hereditary disorder. A Quantitative bias analysis (QBA) assessed selection bias from differential follow-up, while a Bayesian analysis (BA) examined shrinkage bias from a frequentist linear mixed-effects approach. In the NH cohort (244 patients; 601 target tumors), the original median tumor-level LGR was 1.6 mm/year. QBA produced a bias-corrected LGR of 1.7 mm/year, suggesting minimal impact of selection bias. Bayesian modeling produced an LGR estimate of 3.93 mm/year, aligning more closely with external reports and suggesting that surgically removed tumors had substantially higher growth rates than the mixed cohort implied by frequentist methods. QBA showed limited bias from differential follow-up, while BA provided a complementary estimate that was less influenced by shrinkage bias inherent to mixed-effects modeling. These findings underscore the importance of appropriate study design and method selection to diagnose and adjust for biases when characterizing tumor growth in VHL RCC.</description>
+    </item>
+    <item>
+      <title>Design considerations for incorporating serological monitoring into trachoma prevalence surveys</title>
+      <link>https://doi.org/10.1093/aje/kwag245</link>
+      <guid isPermaLink="false">10.1093/aje/kwag245</guid>
+
+      <dc:creator>Everlyn Kamau</dc:creator>
+      <dc:creator>Katherine Gass</dc:creator>
+      <dc:creator>Emma Harding-Esch</dc:creator>
+      <dc:creator>Martha Idalí Saboyá Díaz</dc:creator>
+      <dc:creator>Pearl Anne Ante-Testard</dc:creator>
+      <dc:creator>Amir Kello</dc:creator>
+      <dc:creator>Robin L Bailey</dc:creator>
+      <dc:creator>Kimberly Fornace</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Everlyn Kamau, Katherine Gass, Emma Harding-Esch, Martha Idalí Saboyá Díaz, Pearl Anne Ante-Testard, Amir Kello, Robin L Bailey, Kimberly Fornace, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag245
+
+Abstract: Abstract Serology is increasingly used to monitor infection transmission and disease elimination. Embedding dried blood spot collection in trachoma surveys allows transmission intensity inference through population-level seroconversion rate (SCR) estimation, but no formal assessment of required sample size has been published. Using serology data from 40 trachoma prevalence surveys, we estimated seroprevalence intra-cluster correlation coefficient, a key design parameter, and assessed survey design considerations for incorporating serological monitoring. Design scenarios focused on proposed operational SCR thresholds (2.2 [no action needed] and 4.5 [action needed] per 100 child years) for interpretation of serological data in low-transmission and post-elimination settings. We evaluated SCR estimation in 42 two-stage designs by calculating precision (confidence interval width around an SCR value) and power (the measure of deviation of suggested thresholds to the SCR value). When the SCR is ≤1.5 and &amp;amp;gt;5.7 per 100 person-years, sample sizes between 300-2000 allowed good precision of SCR estimation. We anticipate a standard prevalence survey with 30 clusters and 30 households per cluster should provide ≥80% power to determine that an SCR ≤1.2 falls below a 2.2 threshold and SCR ≥5.7 falls above a 4.5 threshold. Our results support collection of serological data via the recommended survey design for trachoma surveillance.</description>
+    </item>
     <item>
       <title>Event-time regression discontinuity for biomedical data: LATT estimation and covariate distribution tests</title>
       <link>https://doi.org/10.1093/aje/kwag243</link>
@@ -384,7 +424,7 @@ Abstract: Abstract Global positioning system (GPS) data capture fine-scale spati
 Journal: American Journal of Epidemiology; Article number: kwag223</description>
     </item>
     <item>
-      <title>Patterns of Cohort Participation Among People with Systemic Sclerosis in an Open Cohort: a Scleroderma Patient-centered Intervention Network Cohort Study</title>
+      <title>Patterns of cohort participation among people with systemic sclerosis in an open cohort: a Scleroderma Patient-centered Intervention Network Cohort study</title>
       <link>https://doi.org/10.1093/aje/kwag217</link>
       <guid isPermaLink="false">10.1093/aje/kwag217</guid>
 
@@ -401,7 +441,7 @@ Journal: American Journal of Epidemiology; Article number: kwag223</description>
 
 Journal: American Journal of Epidemiology; Article number: kwag217
 
-Abstract: Abstract Participants who continue across the full duration of longitudinal studies often differ from those lost to attrition, defined as discontinuing participation for any reason, and some participants may sporadically miss assessments. Complex participation patterns, such as in multicenter chronic disease cohorts, have not been studied. We aimed to implement an approach to identify participation subgroups and factors associated with theses. We applied our approach in the SPIN Cohort, a multicenter, longitudinal systemic sclerosis (SSc) cohort, because it is an example of an open-ended cohort with no planned end date and complex participation patterns. We used group-based trajectory modeling to identify participation subgroups and multinomial logistic regression to identify predictors of subgroup membership. Data were obtained for 2883 participants from 54 sites in 7 countries. We identified 5 participation subgroups: Ongoing Participation (29%), Immediate Attrition (29%), Mid-Term Attrition (19%), Long-Term Attrition (12%), and Ongoing Sporadic (11%) participation. Older age and sites outside the United States were associated with lower odds of belonging to all subgroups other than Ongoing Participation. Compared to Ongoing Participation, several sociodemographic variables were associated with higher odds of being in the Immediate Attrition group. Our method can be applied to other cohorts with complex participation patterns.</description>
+Abstract: Abstract Participants who continue across the full duration of longitudinal studies often differ from those lost to attrition, defined as discontinuing participation for any reason, and some participants may sporadically miss assessments. Complex participation patterns, such as in multicenter chronic disease cohorts, have not been studied. We aimed to implement an approach to identify participation subgroups and factors associated with these. We applied our approach in the Scleroderma Patient-centered Intervention Network Cohort, a multicenter, longitudinal systemic sclerosis cohort, because it is an example of an open-ended cohort with no planned end date and complex participation patterns. We used group-based trajectory modeling to identify participation subgroups and multinomial logistic regression to identify predictors of subgroup membership. Data were obtained for 2883 participants from 54 sites in 7 countries. We identified 5 participation subgroups: Ongoing Participation (29%), Immediate Attrition (29%), Mid-Term Attrition (19%), Long-Term Attrition (12%), and Ongoing Sporadic (11%) participation. Older age and sites outside the United States were associated with lower odds of belonging to all subgroups other than Ongoing Participation. Compared to Ongoing Participation, several sociodemographic variables were associated with higher odds of being in the Immediate Attrition group. Our method can be applied to other cohorts with complex participation patterns.</description>
     </item>
     <item>
       <title>In Memoriam: Roger Allen Feldman 1931-2026</title>
@@ -897,7 +937,7 @@ Abstract: Abstract Backfill is the process of revising case data, often by retro
 Journal: American Journal of Epidemiology; Article number: kwag187</description>
     </item>
     <item>
-      <title>Bias in Estimating Subcritical Reproduction Numbers Under Imperfect Observation and Overlapping Transmission Chains: Theoretical Framework and Application to Mpox</title>
+      <title>Bias in estimating subcritical reproduction numbers under imperfect observation and overlapping transmission chains: theoretical framework and application to mpox</title>
       <link>https://doi.org/10.1093/aje/kwag185</link>
       <guid isPermaLink="false">10.1093/aje/kwag185</guid>
 
@@ -912,7 +952,7 @@ Journal: American Journal of Epidemiology; Article number: kwag187</description>
 
 Journal: American Journal of Epidemiology; Article number: kwag185
 
-Abstract: Abstract Estimating transmission potential and risk factors for emerging infections often relies on incomplete surveillance data. When infections are missed or their sources are misclassified, estimates of the effective reproduction number (Rs) and associations between case attributes and infection source may be biased. We developed an analytic framework to quantify and correct these biases, treating imperfect observation and entanglement of transmission chains as forms of misclassification that distort estimates of transmission parameters. The bias depends on the probability of case observation (Pobs) and the extent of concurrent introductions (Rp). We illustrate this framework using surveillance data for mpox in the Democratic Republic of the Congo (1981–1986, 2013–2017), showing that incomplete observation leads to underestimation of Rs, whereas overlapping introductions can cause overestimation. Both types of bias also attenuate odds ratios for traits that distinguish primary (spillover) from secondary (human-tohuman) infections. Accounting for these biases provides context for the global emergence of mpox in 2022 and for how current transmission patterns differ from historical trends. These results demonstrate how standard epidemiologic concepts of misclassification and missingness can clarify bias in transmission studies and improve interpretation of surveillance data for emerging pathogens, including zoonoses and vaccine-preventable infections.</description>
+Abstract: Abstract Estimating transmission potential and risk factors for emerging infections often relies on incomplete surveillance data. When infections are missed or their sources are misclassified, estimates of the effective reproduction number ($R_s$) and associations between case attributes and infection source may be biased. We developed an analytic framework to quantify and correct these biases, treating imperfect observation and entanglement of transmission chains as forms of misclassification that distort estimates of transmission parameters. The bias depends on the probability of case observation ($p_{obs}$) and the extent of concurrent introductions ($R_p$). We illustrate this framework using surveillance data for mpox in the Democratic Republic of the Congo (1981-1986, 2013-2017), showing that incomplete observation leads to underestimation of $R_s$, whereas overlapping introductions can cause overestimation. Both types of bias also attenuate odds ratios for traits that distinguish primary (spillover) from secondary (human-to-human) infections. Accounting for these biases provides context for the global emergence of mpox in 2022 and for how current transmission patterns differ from historical trends. These results demonstrate how standard epidemiologic concepts of misclassification and missingness can clarify bias in transmission studies and improve interpretation of surveillance data for emerging pathogens, including zoonoses and vaccine-preventable infections.</description>
     </item>
     <item>
       <title>Coexposure confounding and amplification of bias—an exploration with practical interpretation and perspectives</title>
@@ -1591,45 +1631,6 @@ Abstract: Abstract</description>
 Journal: American Journal of Epidemiology; Article number: kwag145
 
 Abstract: Abstract We assessed associations between immigrant status (foreign-born vs. not), age at migration (0-15, 16-40, 41-64, vs. non-immigrants), and time since immigration (0-39, ≥40 years, vs. non-immigrants) with epigenetic age acceleration (AA) by Hispanic ethnicity in the Health and Retirement Study (n = 3918). Epigenetic AA was defined as the standardized residual from the regression of epigenetic methylation scores from the Levine/PhenoAge, DunedinPoAm38, and GrimAge clocks on chronological age. Predicted mean AA scores from multivariable linear regression models were used to calculate immigration exposure contrasts (relative to non-immigrants) separately for Hispanics &amp;amp; non-Hispanics. Compared to Hispanic non-immigrants, Hispanic immigrants overall (ContrastGrimAge = -0.17, 95% CI: -0.32, -0.02), those who migrated between ages 0-15 (ContrastGrimAge = -0.3, 95% CI: -0.58, -0.02), and those with shorter (ContrastGrimAge -0.15, 95% CI: -0.32, 0.01) &amp;amp; longer times since immigration (ContrastGrimAge = -0.18, 95% CI: -0.36, -0.01) showed slower epigenetic aging. Compared to non-Hispanic non-immigrants, non-Hispanic immigrants who immigrated between ages 41-64 (ContrastLevine = 0.5, 95% CI: 0.14, 0.87; ContrastGrimAge = 0.34, 95% CI: 0.01, 0.67) and had shorter times since immigration (ContrastLevine = 0.25, 95% CI: 0.02, 0.48) showed faster epigenetic aging. Hispanic and non-Hispanic immigrants may experience differences in epigenetic aging compared to their non-immigrant counterparts.</description>
-    </item>
-    <item>
-      <title>Age-period-cohort analysis of low birth weight, early-term delivery, induction, and cesarean-section, US births 1990-2019</title>
-      <link>https://doi.org/10.1093/aje/kwag147</link>
-      <guid isPermaLink="false">10.1093/aje/kwag147</guid>
-
-      <dc:creator>Chloe A Teasdale</dc:creator>
-      <dc:creator>Sean Locke</dc:creator>
-      <dc:creator>Zachary Shahn</dc:creator>
-      <dc:creator>Saskia Rueda</dc:creator>
-      <dc:creator>Elizabeth A Kelly</dc:creator>
-      <dc:creator>Francisco Bolumar</dc:creator>
-      <dc:creator>Heidi E Jones</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chloe A Teasdale, Sean Locke, Zachary Shahn, Saskia Rueda, Elizabeth A Kelly, Francisco Bolumar, Heidi E Jones
-
-Journal: American Journal of Epidemiology; Article number: kwag147
-
-Abstract: Abstract We conducted an age-period-cohort (APC) analysis to distinguish age, period, and cohort effects underlying temporal trends in low birth weight (LBW: &amp;amp;lt;2500 g), early-term deliveries (ETD: 37-38 weeks), induction, and cesarean-section (c-section) using US birth records from 1994-2019 for all singleton, first, full-term (37-44 weeks gestation) births (n = 8 194 523). Using the APC-interaction method, we estimated age, period, and cohort effects as odds ratios with 95% CI. Age and period effects were observed for all outcomes. Pregnant women/people aged 40-44 years had increased odds of LBW (OR 1.23, 95% CI, 1.19-1.26), ETD (OR 1.24, 95% CI, 1.23-1.26), induction (OR 1.05, 95% CI, 1.04-1.06), and c-section (OR 2.28, 95% CI, 2.26-2.30) compared to the total population. Odds of LBW (OR 1.14, 95% CI, 1.13-1.16), ETD (OR 1.11, 95% CI, 1.10-1.12), and induction (OR 1.71, 95%,CI, 1.70-1.72) were higher in 2019 compared to the study period average. Cohort effects not explained by age and period effects were observed for women aged 40-44 years in 2019 indicated by higher odds of ETD (OR 1.08, 95% CI, 1.05-1.10), induction (1.10, 95% CI, 1.07-1.12), and c-section (OR 1.09, 95% CI, 1.06-1.11). These findings suggest obstetric management of pregnant women ≥40 years changed in recent decades in ways not expected based on age and temporal trends alone.</description>
-    </item>
-    <item>
-      <title>A measurement comparability study to support instrument harmonization in the Canadian Longitudinal Study on Aging</title>
-      <link>https://doi.org/10.1093/aje/kwag137</link>
-      <guid isPermaLink="false">10.1093/aje/kwag137</guid>
-
-      <dc:creator>Talha Rafiq</dc:creator>
-      <dc:creator>Lauren E Griffith</dc:creator>
-      <dc:creator>Parminder Raina</dc:creator>
-      <dc:creator>Christina Wolfson</dc:creator>
-      <dc:creator>Susan A Kirkland</dc:creator>
-      <dc:creator>Cynthia Balion</dc:creator>
-      <dc:creator>Andrew P Costa</dc:creator>
-      <dc:creator>Varun Chaudhary</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Talha Rafiq, Lauren E Griffith, Parminder Raina, Christina Wolfson, Susan A Kirkland, Cynthia Balion, Andrew P Costa, Varun Chaudhary, et al.
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2391-2398
-
-Abstract: Abstract Longitudinal studies are essential for understanding health trajectories, but necessary upgrades to measurement instruments over time may compromise data comparability. The Canadian Longitudinal Study on Aging conducted a measurement comparability study to quantify systematic differences between instruments and derive conversion equations to correct for any differences. Overall, 50 participants aged ≥45 years (52% female) underwent repeated assessments with old and new instruments, including the blood pressure monitor, electrocardiogram (ECG), carotid ultrasound, spirometer, audiometer, tonometer, and dynamometer. Linear mixed-effects models were used to identify systematic differences. Cohen’s d was used to assess standardized mean difference, Bland–Altman plots evaluated agreement between instruments, and repeatability was assessed within instruments. Mixed-effects models showed no clinically meaningful difference across instruments, except for systolic blood pressure (SBP), which was on average 5.19 mmHg (95% CI, 2.64-7.74) higher using the new instrument. Cohen’s d demonstrated moderate systematic differences for several measures. Repeatability estimates showed good-to-excellent reliability for most measures; however, certain ECG and tonometer parameters showed moderate or poor precision. The results support the utility of conversion equations to account for systematic differences between instruments. The difference in SBP warrants the implementation of a conversion equation, whereas it is unclear for measures with moderate differences.</description>
     </item>
   </channel>
 </rss>
