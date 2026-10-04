@@ -5,8 +5,24 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:40:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:22:39 +0000</lastBuildDate>
 
+    <item>
+      <title>Life-long burden of low birth weight in Bangladesh: disability weight development and DALY calculation</title>
+      <link>https://doi.org/10.1186/s12963-026-00515-z</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00515-z</guid>
+
+      <dc:creator>Mary de Boer</dc:creator>
+      <dc:creator>Bryan Patenaude</dc:creator>
+      <dc:creator>Andrew L. Thorne-Lyman</dc:creator>
+      <dc:creator>Parul Christian</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mary de Boer, Bryan Patenaude, Andrew L. Thorne-Lyman, Parul Christian
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Low Birth Weight (LBW) – or weight at birth &amp;lt; 2,500 g – is a condition that affects approximately 15% of children globally and has health and developmental impacts spanning infancy through late adulthood. Calculations of life-long disability from LBW are hampered by the 30-year gap since development of the LBW disability weight, impeding efforts to prioritize nutritional interventions to alleviate the condition. The need for a disability weight is especially notable in Bangladesh, where 29% of children are born LBW. The objective of this study is to estimate the disability weight and quantify the disease burden associated with LBW in Bangladesh using disability-adjusted life years (DALYs). Methods A literature review was conducted to identify key life-long sequelae of LBW, with a focus on South Asia and Bangladesh. Ten sequelae conditions were identified, and the life-long disability associated with each sequela was calculated. For ages 0–5 years a Markov Model (with probabilistic sensitivity analysis) was used to capture frequent, iterative childhood illnesses, while a decision-analytic Disability Tree was used for ages 18 to 74.6 years (life expectancy) to model the more sequential, chronic conditions associated with LBW sequelae adulthood. Ages 6–17 were unmodeled. DALYs were calculated using model outputs, applying a 3% discount rate and incorporating stillbirth adjusted life expectancy. Results A life-long, Bangladesh-specific disability weight of 0.128 (95% confidence interval: 0.07, 0.195) was calculated; 84% of disability accrued in childhood, with diarrhea as the principal contributor (accounting for 57% of all disability). Confidence bounds for this disability weight overlapped the childhood-sequelae based weight of 0.106, calculated for the 1996 Global Burden of Disease report. Using this disability weight, Bangladesh’s population-level burden of LBW was estimated at 6.8 million DALYs (95% CI: 6.2 millhion, 7.4 million) The majority of DALYs were due to premature mortality in childhood (4.5 million; 66%). Conclusions The disability weight associated with a LBW birth in Bangladesh was similar in magnitude to the previously estimated global weight. Applying this disability weight to calculate national DALY burden lays the groundwork for future comparative economic analyses of efforts to avert LBW in Bangladesh.</description>
+    </item>
     <item>
       <title>Decoding inequality in years lived with disability: a cross-national age-based analysis from Sierra Leone, Burkina Faso, Burundi, and the Central African Republic</title>
       <link>https://doi.org/10.1186/s12963-026-00519-9</link>
@@ -1596,18 +1612,6 @@ Abstract: Abstract Background NCD expenditure estimates are necessary to estimat
       <description>Authors: Kiavash Hushmandi, Parviz Shahmirzalou, Yousef Ramazani, Rasoul Raesi, Mahdieh Ardaneh, Hedyeh Askarpour, Salman Daneshi
 
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 52</description>
-    </item>
-    <item>
-      <title>Disaggregated level child morbidity in Zambia: an application of small area estimation method</title>
-      <link>https://doi.org/10.1186/s12963-025-00413-w</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00413-w</guid>
-
-      <dc:creator>Audrey M. Kalindi</dc:creator>
-      <dc:creator>Sumonkanti Das</dc:creator>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Audrey M. Kalindi, Sumonkanti Das
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 51</description>
     </item>
   </channel>
 </rss>
