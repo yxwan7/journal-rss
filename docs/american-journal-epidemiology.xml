@@ -5,8 +5,28 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:39:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:18:56 +0000</lastBuildDate>
 
+    <item>
+      <title>Adapting the prevalent new-user study design and clone-censor-weighting approach to evaluate drug discontinuation</title>
+      <link>https://doi.org/10.1093/aje/kwag238</link>
+      <guid isPermaLink="false">10.1093/aje/kwag238</guid>
+
+      <dc:creator>Qoua Her</dc:creator>
+      <dc:creator>Til Stürmer</dc:creator>
+      <dc:creator>Robert J Glynn</dc:creator>
+      <dc:creator>Emilie Duchesneau</dc:creator>
+      <dc:creator>Tiansheng Wang</dc:creator>
+      <dc:creator>Charles Poole</dc:creator>
+      <dc:creator>Jennifer Leigh Lund</dc:creator>
+      <dc:creator>Michael Webster-Clark</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Qoua Her, Til Stürmer, Robert J Glynn, Emilie Duchesneau, Tiansheng Wang, Charles Poole, Jennifer Leigh Lund, Michael Webster-Clark
+
+Journal: American Journal of Epidemiology; Article number: kwag238
+
+Abstract: Abstract We described how to adapt the prevalent new user (PNU) study design to estimate the effect of drug discontinuation among patients who discontinue and clone-censor-weighting (CCW) approach to estimate the effect of drug discontinuation among an eligible population at a pre-specified time point, focusing on the differences between the target trials the two approaches emulate. While both approaches produced unbiased estimates of the effect of drug discontinuation when all confounders were adjusted for in simulations, the true estimands differed, particularly when treatment effect heterogeneity was introduced. We also applied the approaches to study the effect of statin discontinuation among United States Medicare beneficiaries who discontinued statin therapy after at least 5 years (PNU) or at approximately 5 years (CCW) of continuous use. The PNU analysis estimated a mortality rate difference (MRD) of 3.6 (95% CI, 3.3-3.9) per 100 person-years and a mortality rate ratio (MRR) of 1.41 (95% CI, 1.37-1.45), while the CCW analysis estimated a MRD of 3.4 (95% CI, 2.8-4.0) per 100 person-years and MRR of 1.55 (1.45-1.66). Researchers studying drug discontinuation should carefully consider their causal question and target population when choosing between these two newer approaches.</description>
+    </item>
     <item>
       <title>Estimation of the relative effectiveness and waning of the monovalent third dose of COVID-19 vaccine against hospital admission in France: a novel self-controlled case series analysis</title>
       <link>https://doi.org/10.1093/aje/kwag250</link>
@@ -22,6 +42,14 @@
 Journal: American Journal of Epidemiology; Article number: kwag250
 
 Abstract: Abstract We present a novel application of the SCCS method for estimating the effectiveness and waning of the third dose of COVID-19 monovalent vaccine in France. We used data on individuals hospitalised for COVID-19 between September 2021 and February 2022 from the Système National des Données de Santé. Only cases having received a 3rd dose of COVID-19 vaccine prior to or on the day of hospitalisation were included in the analysis. We developed a new SCCS model including only time post-dose 3 vaccination, with reference period 24—65 days post-vaccination to capture maximum vaccine protection. Time was split into short-term and long-term post-vaccination risk periods, including days 4—9 corresponding to minimum protection, and successive 7-day windows from day 66 post vaccination. The model included two exposure variables, representing short-term and long-term effects of vaccination. The analysis confirms the relative effectiveness of the third-dose COVID-19 vaccination, the waning of vaccine immunity though of limited extent, and possible effect modification related to virus strain, vaccine, vaccination history, age, and sex. The strengths and weaknesses of this approach are discussed. Suitably applied, the SCCS method may provide a useful method of analysis of vaccine effectiveness which automatically controls for time-invariant confounders.</description>
+    </item>
+    <item>
+      <title>Correction: Effects of two community violence interruption programs on firearm violence in Washington, DC</title>
+      <link>https://doi.org/10.1093/aje/kwag242</link>
+      <guid isPermaLink="false">10.1093/aje/kwag242</guid>
+
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Journal: American Journal of Epidemiology; Article number: kwag242</description>
     </item>
     <item>
       <title>A response to Francis and Wesselink’s “measuring structural racism in neighborhoods”</title>
@@ -54,7 +82,7 @@ Journal: American Journal of Epidemiology; Article number: kwag244
 Abstract: Abstract Adverse birth outcomes have been linked to “unintended” pregnancy; however, research that relies on retrospective measurement of “intentions” is vulnerable to differential recall bias. This study estimates associations between prospectively measured pregnancy preferences and preterm birth (&amp;amp;lt;37 weeks) and low birthweight (&amp;amp;lt;5.5 pounds). We analyzed longitudinal, population-based data from the Surveys of Women, conducted in nine US states (2016-2023), linking births reported across annual waves with pregnancy preferences measured before pregnancy using the 14-item Desire to Avoid Pregnancy (DAP) scale. We fit weighted logistic regression models to estimate associations between DAP categories (lower DAP: more open to pregnancy; higher DAP: stronger preference to avoid pregnancy) and outcomes using multiple imputation (primary analysis) and complete case analysis excluding participants whose DAP scores were imputed (sensitivity analysis). Although the adjusted association between DAP grouping and low birthweight was not statistically significant in analyses using imputation (15% high vs. 7% low DAP), it was significant treating DAP scores continuously (aOR=1.56 [1.01-2.43]) and in complete case analysis (20% vs. 6%, p=0.01). DAP scores were not associated with preterm birth in imputation analyses (18% high vs. 14% low DAP) or using continuous scores but were in complete case analysis (25% vs. 12%, p=0.02). While the magnitudes of associations were suggestive of a relationship between a strong prospective preference to avoid pregnancy and low birthweight, analyses were limited by low precision. Supporting individuals in achieving their reproductive preferences may have child health benefits.</description>
     </item>
     <item>
-      <title>Evaluating potential sources of bias in linear growth rate analysis of renal tumors: case study in Von-Hippel Lindau disease</title>
+      <title>Evaluating potential sources of bias in linear growth rate analysis of renal tumors: case study in Von Hippel–Lindau disease</title>
       <link>https://doi.org/10.1093/aje/kwag225</link>
       <guid isPermaLink="false">10.1093/aje/kwag225</guid>
 
@@ -71,7 +99,7 @@ Abstract: Abstract Adverse birth outcomes have been linked to “unintended” p
 
 Journal: American Journal of Epidemiology; Article number: kwag225
 
-Abstract: Abstract Accurate tumor growth rate estimation is vital for linking disease progression to patient characteristics and outcomes, especially in rare diseases where limited data increase bias risk. We evaluated two potential sources of bias in linear growth rate (LGR) estimation using data from a prior natural history (NH) study of von Hippel–Lindau (VHL) renal cell carcinoma (RCC), a rare hereditary disorder. A Quantitative bias analysis (QBA) assessed selection bias from differential follow-up, while a Bayesian analysis (BA) examined shrinkage bias from a frequentist linear mixed-effects approach. In the NH cohort (244 patients; 601 target tumors), the original median tumor-level LGR was 1.6 mm/year. QBA produced a bias-corrected LGR of 1.7 mm/year, suggesting minimal impact of selection bias. Bayesian modeling produced an LGR estimate of 3.93 mm/year, aligning more closely with external reports and suggesting that surgically removed tumors had substantially higher growth rates than the mixed cohort implied by frequentist methods. QBA showed limited bias from differential follow-up, while BA provided a complementary estimate that was less influenced by shrinkage bias inherent to mixed-effects modeling. These findings underscore the importance of appropriate study design and method selection to diagnose and adjust for biases when characterizing tumor growth in VHL RCC.</description>
+Abstract: Abstract Accurate tumor growth rate estimation is vital for linking disease progression to patient characteristics and outcomes, especially in rare diseases where limited data increase bias risk. We evaluated 2 potential sources of bias in linear growth rate (LGR) estimation using data from a prior natural history (NH) study of von Hippel–Lindau (VHL) renal cell carcinoma (RCC), a rare hereditary disorder. A quantitative bias analysis assessed selection bias from differential follow-up, while a Bayesian analysis (BA) examined shrinkage bias from a frequentist linear mixed-effects approach. In the NH cohort (244 patients; 601 target tumors), the original median tumor-level LGR was 1.6 mm/year. Quantitative bias analysis produced a bias-corrected LGR of 1.7 mm/year, suggesting minimal impact of selection bias. Bayesian modeling produced an LGR estimate of 3.93 mm/year, aligning more closely with external reports and suggesting that surgically removed tumors had substantially higher growth rates than the mixed cohort implied by frequentist methods. Quantitative bias analysis showed limited bias from differential follow-up, while BA provided a complementary estimate that was less influenced by shrinkage bias inherent to mixed-effects modeling. These findings underscore the importance of appropriate study design and method selection to diagnose and adjust for biases when characterizing tumor growth in VHL RCC.</description>
     </item>
     <item>
       <title>Design considerations for incorporating serological monitoring into trachoma prevalence surveys</title>
@@ -271,7 +299,24 @@ Journal: American Journal of Epidemiology; Article number: kwag235
 Abstract: Abstract The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.</description>
     </item>
     <item>
-      <title>Rationale and Design of the Atherosclerosis Risk in Communities Generation 2 (ARIC Gen2) Study</title>
+      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
+      <link>https://doi.org/10.1093/aje/kwag232</link>
+      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
+
+      <dc:creator>Fjorida Llaha</dc:creator>
+      <dc:creator>Yu-Han Chiu</dc:creator>
+      <dc:creator>Idlir Licaj</dc:creator>
+      <dc:creator>Tom Wilsgaard</dc:creator>
+      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
+
+Journal: American Journal of Epidemiology; Article number: kwag232
+
+Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
+    </item>
+    <item>
+      <title>Rationale and design of the Atherosclerosis Risk in Communities Generation 2 study</title>
       <link>https://doi.org/10.1093/aje/kwag237</link>
       <guid isPermaLink="false">10.1093/aje/kwag237</guid>
 
@@ -288,24 +333,7 @@ Abstract: Abstract The aim of this study is to test the central claim of the “
 
 Journal: American Journal of Epidemiology; Article number: kwag237
 
-Abstract: Abstract Type 2 diabetes is a risk factor for cardiac arrhythmias, but it is unknown how specific aberrations in glucose (e.g., episodes of high or low glucose) might contribute to the occurrence of heart rhythm abnormalities. The overarching goal of this study is to address research questions regarding how glucose patterns might contribute to the occurrence of arrhythmias, primarily atrial fibrillation, in adults with diabetes. To fulfill this goal, the Atherosclerosis Risk in Communities (ARIC) Gen2 study recruited 507 community-dwelling adults aged 50–80 years with type 2 diabetes to wear continuous glucose monitoring (CGM) and electrocardiogram (ECG) “patch” monitoring sensors simultaneously for up to 14 days. Gen2 study had high CGM and ECG completeness: the median wear time for sensors was 14 days and approximately 80% of participants wore both sensors for ≥10 days. By combining Gen2 and data from the original ongoing ARIC cohort (aged 80+), we have the capacity to conduct a comprehensive evaluation of the impact of CGM-defined glucose patterns on arrhythmias across a wide age spectrum from middle-aged to very old adults (aged 50-100) with type 2 diabetes. The findings from this study may help inform clinical strategies for the prevention and management of arrhythmias among adults with type 2 diabetes.</description>
-    </item>
-    <item>
-      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
-      <link>https://doi.org/10.1093/aje/kwag232</link>
-      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
-
-      <dc:creator>Fjorida Llaha</dc:creator>
-      <dc:creator>Yu-Han Chiu</dc:creator>
-      <dc:creator>Idlir Licaj</dc:creator>
-      <dc:creator>Tom Wilsgaard</dc:creator>
-      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
-
-Journal: American Journal of Epidemiology; Article number: kwag232
-
-Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
+Abstract: Abstract Type 2 diabetes is a risk factor for cardiac arrhythmias, but it is unknown how specific aberrations in glucose (eg, episodes of high or low glucose) might contribute to the occurrence of heart rhythm abnormalities. The overarching goal of this study is to address research questions regarding how glucose patterns might contribute to the occurrence of arrhythmias, primarily atrial fibrillation, in adults with diabetes. To fulfill this goal, the Atherosclerosis Risk in Communities Generation 2 (ARIC Gen2) study recruited 507 community-dwelling adults aged 50-80 years with type 2 diabetes to wear continuous glucose monitoring (CGM) and electrocardiogram (ECG) “patch” monitoring sensors simultaneously for up to 14 days. Generation 2 study had high CGM and ECG completeness: The median wear time for sensors was 14 days and ~80% of participants wore both sensors for ≥10 days. By combining Gen2 and data from the original ongoing ARIC cohort (aged 80+), we have the capacity to conduct a comprehensive evaluation of the impact of CGM-defined glucose patterns on arrhythmias across a wide age spectrum from middle-aged to very old adults (aged 50-100) with type 2 diabetes. The findings from this study may help inform clinical strategies for the prevention and management of arrhythmias among adults with type 2 diabetes.</description>
     </item>
     <item>
       <title>Contribution of Adolescent Movement Behaviours to Socioeconomic Inequalities in Adult Cardiovascular Disease Risk: A Causal Decomposition in a Population-Based Cohort</title>
@@ -327,20 +355,20 @@ Journal: American Journal of Epidemiology; Article number: kwag234
 Abstract: Abstract Addressing unhealthy movement behaviours in adolescence could reduce socioeconomic inequalities in adult cardiovascular disease (CVD) risk. Among 6608 adolescents enrolled in the Add Health cohort (1994-1995) and followed into adulthood (2016-2018), movement behaviours (physical activity, screen time, sleep) were classified as healthy or unhealthy based on adherence to the 24-Hour Movement Guidelines. Parental education and family financial hardship captured socioeconomic position (SEP). The outcome was 30-year CVD risk in adulthood. G-formula-based causal decomposition quantified changes in socioeconomic inequalities under two interventional scenarios: (1) eliminating unhealthy movement behaviours across the population, (2) equalizing the low-SEP group’s movement behaviour distributions to match the high-SEP group. Adolescents whose parents did not graduate from college/university had a higher adult CVD risk than those whose parents did (RD: 6.9%, RR: 1.73). Eliminating all unhealthy movement behaviours reduced the RD to 4.9% (-2.0% absolute change), while the RR remained similar (1.76). Eliminating unhealthy levels of physical activity produced the largest absolute reduction (-1.7%), with negligible reductions for screen time (-0.2%) and sleep (-0.2%). The equalization scenario had minimal impact, and results were similar for family financial hardship. Whole-population interventions targeting unhealthy adolescent movement behaviours, particularly physical activity, may reduce absolute socioeconomic inequalities in adult CVD risk.</description>
     </item>
     <item>
-      <title>Housing-related payment hardship and associations with health and well-being: a 15-year longitudinal study in a National Sample of U.S. adults</title>
+      <title>Housing-related payment hardship and associations with health and well-being: A 15-year longitudinal study in a national sample of US adults</title>
       <link>https://doi.org/10.1093/aje/kwag231</link>
       <guid isPermaLink="false">10.1093/aje/kwag231</guid>
 
       <dc:creator>Renae Wilkinson</dc:creator>
-      <dc:creator>Richard Cowden</dc:creator>
-      <dc:creator>Howard Koh</dc:creator>
+      <dc:creator>Richard G Cowden</dc:creator>
+      <dc:creator>Howard K Koh</dc:creator>
       <dc:creator>Jack Tsai</dc:creator>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Renae Wilkinson, Richard Cowden, Howard Koh, Jack Tsai
+      <description>Authors: Renae Wilkinson, Richard G Cowden, Howard K Koh, Jack Tsai
 
 Journal: American Journal of Epidemiology; Article number: kwag231
 
-Abstract: Abstract Many U.S. households face growing difficulty affording housing and related costs, with some missing payments for housing or utilities due to limited resources. Sparse research has examined how housing-related payment hardship relates to well-being over the life course. We used three waves of the National Longitudinal Study of Adolescent to Adult Health (Add Health; n = 7673) to estimate associations of two housing-related payment hardship exposures (inability to pay rent/mortgage and utilities) in early adulthood (Wave IV; 2008-2009) with 36 health and well-being outcomes 15 years later (Wave VI; 2022-2025). We used an outcome-wide analytic approach, adjusting for sociodemographic characteristics and prior values of outcomes and exposures (Wave III; 2001-2002). Results after Bonferroni correction indicated both exposures were associated with worse outcomes in physical health (eg, self-rated health), health behavior (eg, smoking), psychological distress (eg, anxiety), psychological well-being (eg, life evaluation), social distress (eg, discrimination), and socioeconomic factors (eg, financial distress). Associations with social well-being and prosocial outcomes were weaker. Our findings strengthen evidence that housing-related payment hardship is both an economic and public health concern. Policies and interventions that reduce housing payment difficulties in early adulthood before severe instability or homelessness emerges may promote longer-term health, well-being, and socioeconomic stability.</description>
+Abstract: Abstract Many US households face growing difficulty affording housing and related costs, with some missing payments for housing or utilities due to limited resources. Sparse research has examined how housing-related payment hardship relates to well-being over the life course. We used three waves of the National Longitudinal Study of Adolescent to Adult Health (Add Health; N = 7673) to estimate associations of two housing-related payment hardship exposures (inability to pay rent/mortgage and utilities) in early adulthood (Wave IV; 2008-2009) with 36 health and well-being outcomes 15 years later (Wave VI; 2022-2025). We used an outcome-wide analytic approach, adjusting for sociodemographic characteristics and prior values of outcomes and exposures (Wave III; 2001-2002). Results after Bonferroni correction indicated both exposures were associated with worse outcomes in physical health (eg, self-rated health), health behavior (eg, smoking), psychological distress (eg, anxiety), psychological well-being (eg, life evaluation), social distress (eg, discrimination), and socioeconomic factors (eg, financial distress). Associations with social well-being and prosocial outcomes were weaker. Our findings strengthen evidence that housing-related payment hardship is both an economic and public health concern. Policies and interventions that reduce housing payment difficulties in early adulthood before severe instability or homelessness emerges may promote longer-term health, well-being, and socioeconomic stability.</description>
     </item>
     <item>
       <title>A cautionary note on the use of sibling proxy outcomes as a selection bias diagnostic</title>
@@ -541,7 +569,7 @@ Abstract: Abstract As one of the most disruptive life events, layoffs are pervas
 Journal: American Journal of Epidemiology; Article number: kwag212</description>
     </item>
     <item>
-      <title>Gestational Diabetes Mellitus in Second Pregnancy by Adverse Outcomes of First Pregnancy: a Population-based Historical Cohort Study</title>
+      <title>Gestational diabetes mellitus in second pregnancy by adverse outcomes of first pregnancy: a population-based historical cohort study</title>
       <link>https://doi.org/10.1093/aje/kwag213</link>
       <guid isPermaLink="false">10.1093/aje/kwag213</guid>
 
@@ -558,7 +586,7 @@ Journal: American Journal of Epidemiology; Article number: kwag212</description>
 
 Journal: American Journal of Epidemiology; Article number: kwag213
 
-Abstract: Abstract We investigated combinations of preterm birth, preeclampsia and offspring birthweight by gestational age in a first pregnancy and cross-over risk of gestational diabetes mellitus (GDM) in second pregnancy. The Medical Birth Registry of Norway provided data for 561 873 mothers with first and second births without diabetes prior to second pregnancy, 1985-2020. We combined first pregnancy preterm birth (&amp;amp;lt;37 weeks), preeclampsia and birthweight by gestational age quartiles (Q1-4) into one exposure (16 categories). Relative risks with 95% confidence intervals for GDM in second pregnancy were estimated, keeping mothers with first term birth without preeclampsia and offspring in Q1 as reference. Women with first offsprings in Q4 had high risk of subsequent GDM, however, in combinations with preterm birth and preeclampsia the risk of GDM progressively increased: Compared to 0.9% GDM risk in the reference group, the risk increased to 1.8% for Q4 term births without preeclampsia (aRR 2.1 [95% confidence interval 2.0-2.3]), 2.5% for Q4 preterm births without preeclampsia (aRR 3.3 [2.8-3.8]), 4.2% for Q4 term birth with preeclampsia (aRR 5.6 [4.8-6.4]) and 7.8% for Q4 preterm birth with preeclampsia (aRR 10.1 [7.4-13.7]). Combinations of first pregnancy exposures were associated with a progressive cross-over risk of GDM in second pregnancy.</description>
+Abstract: Abstract We investigated combinations of preterm birth, preeclampsia, and offspring birthweight by gestational age in a first pregnancy and cross-over risk of gestational diabetes mellitus (GDM) in a second pregnancy. The Medical Birth Registry of Norway provided data for 561 873 mothers with first and second births without diabetes prior to second pregnancy, 1985-2020. We combined first pregnancy preterm birth (&amp;amp;lt;37 weeks), preeclampsia, and birthweight by gestational age quartiles (Q1-Q4) into one exposure (16 categories). Relative risks with 95% CIs for GDM in second pregnancy were estimated, keeping mothers with first term birth without preeclampsia and offspring in Q1 as reference. Women with first offsprings in Q4 had high risk of subsequent GDM, however, in combinations with preterm birth and preeclampsia the risk of GDM progressively increased: Compared to 0.9% GDM risk in the reference group, the risk increased to 1.8% for Q4 term births without preeclampsia (adjusted relative risk [aRR] 2.1 [95% CI 2.0-2.3]), 2.5% for Q4 preterm births without preeclampsia (aRR 3.3 [2.8-3.8]), 4.2% for Q4 term birth with preeclampsia (aRR 5.6 [4.8-6.4]) and 7.8% for Q4 preterm birth with preeclampsia (aRR 10.1 [7.4-13.7]). Combinations of first pregnancy exposures were associated with a progressive cross-over risk of GDM in second pregnancy.</description>
     </item>
     <item>
       <title>Changes in COVID-19-related death certification practices and quality of cause-of-death reporting in the United States from 2020 to 2023</title>
@@ -1608,22 +1636,6 @@ Abstract: Abstract Earlier pubertal timing has risen alongside increasing childh
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2469-2475
 
 Abstract: Abstract Determining whether vaccine efficacy wanes is important for individual and public decision making. Yet, quantification of waning is a subtle task. The classical approaches cannot be interpreted as measures of declining efficacy unless we impose unreasonable assumptions. Recently, formal causal estimands designed to quantify vaccine waning have been proposed. These estimands can be bounded under weaker assumptions, but the bounds are often too wide to make claims about the presence of waning. We propose a different approach: a formal test to assess whether a treatment effect is constant over time at the individual level. This test provides a considerable power gain over existing approaches and is valid under interpretable assumptions in vaccine trials. We illustrate the increase in power through real and simulated examples, using 3 different approaches to compute the test statistics. Two of these approaches are based solely on summary data, accessible from existing clinical trials. Beyond our test, we also give new results that bound the waning effect. We use our methods to reanalyze data from a randomized controlled trial of the BNT162b2 COVID-19 vaccine. While a prior analysis did not establish waning, our test rejects the null hypothesis of no waning.</description>
-    </item>
-    <item>
-      <title>Correction to: Home dampness and molds and occurrence of respiratory tract infections in the first 27 years of life: the Espoo Cohort Study</title>
-      <link>https://doi.org/10.1093/aje/kwag148</link>
-      <guid isPermaLink="false">10.1093/aje/kwag148</guid>
-
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2326-2326</description>
-    </item>
-    <item>
-      <title>Correction to: Developing a novel algorithm to identify incident and prevalent dementia in Medicare claims—the ARIC Study</title>
-      <link>https://doi.org/10.1093/aje/kwag142</link>
-      <guid isPermaLink="false">10.1093/aje/kwag142</guid>
-
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 8; Pages: 2325-2325</description>
     </item>
   </channel>
 </rss>

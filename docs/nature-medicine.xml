@@ -5,8 +5,84 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:19:45 +0000</lastBuildDate>
 
+    <item>
+      <title>An open vision-language model for diverse medical applications</title>
+      <link>https://doi.org/10.1038/s41591-026-04626-w</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04626-w</guid>
+
+      <dc:creator>Andrew Sellergren</dc:creator>
+      <dc:creator>Sahar Kazemzadeh</dc:creator>
+      <dc:creator>Fereshteh Mahvar</dc:creator>
+      <dc:creator>Atilla Kiraly</dc:creator>
+      <dc:creator>Madeleine Traverse</dc:creator>
+      <dc:creator>Timo Kohlberger</dc:creator>
+      <dc:creator>Chufan Gao</dc:creator>
+      <dc:creator>Ronnachai Jaroensri</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Andrew Sellergren, Sahar Kazemzadeh, Fereshteh Mahvar, Atilla Kiraly, Madeleine Traverse, Timo Kohlberger, Chufan Gao, Ronnachai Jaroensri, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Artificial intelligence has high potential for impact in healthcare applications, but its training and deployment are challenging due to diverse data, a complex spectrum of possible tasks and important privacy needs. High-performing foundation models that enable data-efficient fine-tuning for diverse downstream tasks can meaningfully accelerate development in this domain. We introduce MedGemma, a collection of medical vision-language foundation models based on Gemma 3. MedGemma demonstrates advanced medical understanding and reasoning across images and text and multiple medical imaging domains, exceeding the performance of similarly sized generative models while maintaining the general capabilities of the Gemma base models. For out-of-distribution tasks, MedGemma achieves improvements of 2.6–10% in medical image question answering, 15.5–18.1% in chest X-ray finding classification and 10.8% in agentic evaluations compared with the base models. Our results show that fine-tuning MedGemma can be more effective than fine-tuning the base Gemma 3 model for medical tasks, particularly in the setting of limited training data. We additionally introduce MedSigLIP, a medically tuned vision encoder derived from SigLIP. MedSigLIP powers the visual understanding capabilities of MedGemma and, as an encoder, achieves performance comparable to or better than that of many specialized medical image encoders. Taken together, the MedGemma collection provides a strong foundation of medical image and text capabilities, with the potential to accelerate medical research and the development of downstream applications.</description>
+    </item>
+    <item>
+      <title>MAGIC: an international network for evaluating generative artificial intelligence in global health</title>
+      <link>https://doi.org/10.1038/s41591-026-04706-x</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04706-x</guid>
+
+      <dc:creator>Rui Yang</dc:creator>
+      <dc:creator>Weihao Xuan</dc:creator>
+      <dc:creator>Tianyu Liu</dc:creator>
+      <dc:creator>Danielle S. Bitterman</dc:creator>
+      <dc:creator>Gary S. Collins</dc:creator>
+      <dc:creator>Karthik Adapa</dc:creator>
+      <dc:creator>Kwesi Nyan Amissah-Arthur</dc:creator>
+      <dc:creator>Tianxi Cai</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rui Yang, Weihao Xuan, Tianyu Liu, Danielle S. Bitterman, Gary S. Collins, Karthik Adapa, Kwesi Nyan Amissah-Arthur, Tianxi Cai, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Extended follow-up of in vivo BCMA CAR-T therapy in relapsed/refractory multiple myeloma</title>
+      <link>https://doi.org/10.1038/s41591-026-04704-z</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04704-z</guid>
+
+      <dc:creator>Jia Xu</dc:creator>
+      <dc:creator>Lin Liu</dc:creator>
+      <dc:creator>Wei Xie</dc:creator>
+      <dc:creator>Liman Su</dc:creator>
+      <dc:creator>Weijiayi Wang</dc:creator>
+      <dc:creator>Chenggong Li</dc:creator>
+      <dc:creator>Qiaolin Liu</dc:creator>
+      <dc:creator>Yun Kang</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jia Xu, Lin Liu, Wei Xie, Liman Su, Weijiayi Wang, Chenggong Li, Qiaolin Liu, Yun Kang, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Global and regional reference curves for pain across the lifespan in 6.1 million individuals in 118 countries</title>
+      <link>https://doi.org/10.1038/s41591-026-04696-w</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04696-w</guid>
+
+      <dc:creator>Matt Fillingim</dc:creator>
+      <dc:creator>Christophe Tanguay-Sabourin</dc:creator>
+      <dc:creator>Lindsay Neuert</dc:creator>
+      <dc:creator>Azin Zare</dc:creator>
+      <dc:creator>Jax Norman</dc:creator>
+      <dc:creator>Gianluca V. Guglietti</dc:creator>
+      <dc:creator>Lise Hobeika</dc:creator>
+      <dc:creator>Abimbola Ayorinde</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Matt Fillingim, Christophe Tanguay-Sabourin, Lindsay Neuert, Azin Zare, Jax Norman, Gianluca V. Guglietti, Lise Hobeika, Abimbola Ayorinde, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Pain is the leading cause of disability worldwide, yet no harmonized self-reported reference framework exists to characterize how its burden is distributed across the lifespan and world regions. In this study, we harmonized individual-level self-reported pain data from 6,125,459 participants across 902 population-based data sources in 118 countries to establish global reference trajectories of pain. We implemented these trajectories in an open-access benchmarking platform for positioning external datasets against global pain norms. Pain prevalence ranged from roughly 2% for facial pain to 40% for back pain, was consistently higher in women across all 11 anatomical sites (risk ratio range: 1.08−1.83) and increased most steeply before age 55 years. Contrary to existing estimates that generally project higher prevalence of pain conditions in higher Human Development Index (HDI) regions, we found that individuals in the lowest HDI countries experienced a substantially higher late-life prevalence of any bodily pain than those in the highest (risk difference: 30.6 percentage points (95% confidence interval: 26.9−34.3)), with low back pain approaching twice the prevalence at the oldest ages. Globally, 18.3% of pain burden across anatomical sites was attributable to three modifiable risk factors (smoking, obesity and low income), but this varied from 12.6% in sub-Saharan Africa to 27.1% in eastern Europe, indicating that the factors underlying pain in lower-HDI settings remain poorly characterized. Together, these reference trajectories provide a common framework for defining and comparing pain burden and informing more equitable global surveillance and prevention.</description>
+    </item>
     <item>
       <title>Oral small-molecule GLP-1RA safiglipron versus dapagliflozin in type 2 diabetes: a randomized, double-blind, active-comparator-controlled phase 3 trial</title>
       <link>https://doi.org/10.1038/s41591-026-04713-y</link>
@@ -1550,75 +1626,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine
 
 Abstract: Abstract Cognitive decline in aging impacts quality of life, for which therapeutic interventions are lacking. Why some individuals experience more severe cognitive decline with aging is unclear. Here we uncover a role for the brain’s myelin-forming cells—oligodendrocytes—in explaining this variance. By investigating neuropathological and transcriptomic changes in human white matter associated with individual rates of cognitive decline in aging, we find that worse cognitive trajectories unexpectedly associate with smaller myelinated axon size, thicker myelin and more oligodendrocytes with downregulation of NRF2. Aged oligodendrocyte-specific NRF2-knockout mice showed attenuated cognitive improvement over time and mirrored the white matter pathology of human cognitive decline in aging. These findings place the oligodendrocyte as a contributor to cognitive decline and highlight the NRF2 pathway as a therapeutic target to preserve cognition in human aging.</description>
-    </item>
-    <item>
-      <title>Beyond Ebola: armed conflict and humanitarian funding cuts threaten control of malaria, TB and HIV in eastern DRC</title>
-      <link>https://doi.org/10.1038/s41591-026-04592-3</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04592-3</guid>
-
-      <dc:creator>Roland Muhindo Muyisa</dc:creator>
-      <dc:creator>Vivuya Kavugho Loando</dc:creator>
-      <dc:creator>Louange Kavira Kavulivwa</dc:creator>
-      <dc:creator>Diane Katsuva Ngowire</dc:creator>
-      <dc:creator>Jean Paul Paluku Mwalitsa</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Roland Muhindo Muyisa, Vivuya Kavugho Loando, Louange Kavira Kavulivwa, Diane Katsuva Ngowire, Jean Paul Paluku Mwalitsa
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Post-exposure prophylaxis with a monoclonal antibody cocktail after Bundibugyo ebolavirus exposure in adults and children</title>
-      <link>https://doi.org/10.1038/s41591-026-04664-4</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04664-4</guid>
-
-      <dc:creator>Christian Gaebler</dc:creator>
-      <dc:creator>Han Ngoc Le</dc:creator>
-      <dc:creator>Luise Martin</dc:creator>
-      <dc:creator>Paulina Tarnow</dc:creator>
-      <dc:creator>Alexander Gratopp</dc:creator>
-      <dc:creator>Stefanie Hort</dc:creator>
-      <dc:creator>Anke Wendt</dc:creator>
-      <dc:creator>Monika Rottstegge</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Christian Gaebler, Han Ngoc Le, Luise Martin, Paulina Tarnow, Alexander Gratopp, Stefanie Hort, Anke Wendt, Monika Rottstegge, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>A case of Bundibugyo virus disease treated with monoclonal antibodies and remdesivir</title>
-      <link>https://doi.org/10.1038/s41591-026-04663-5</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04663-5</guid>
-
-      <dc:creator>Alexander Uhrig</dc:creator>
-      <dc:creator>Frieder Pfäfflin</dc:creator>
-      <dc:creator>Pinkus Tober-Lau</dc:creator>
-      <dc:creator>Victor M. Corman</dc:creator>
-      <dc:creator>Miriam S. Stegemann</dc:creator>
-      <dc:creator>Paulina Tarnow</dc:creator>
-      <dc:creator>Monika Rottstegge</dc:creator>
-      <dc:creator>Katrin Moira Heim</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alexander Uhrig, Frieder Pfäfflin, Pinkus Tober-Lau, Victor M. Corman, Miriam S. Stegemann, Paulina Tarnow, Monika Rottstegge, Katrin Moira Heim, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Citywide implementation of a rapid whole-genome sequencing program for critically ill pediatric patients</title>
-      <link>https://doi.org/10.1038/s41591-026-04598-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04598-x</guid>
-
-      <dc:creator>Fatma Rabea</dc:creator>
-      <dc:creator>Ibtesam Aljasmi</dc:creator>
-      <dc:creator>Ruchi Jain</dc:creator>
-      <dc:creator>Sathishkumar Ramaswamy</dc:creator>
-      <dc:creator>Alan Taylor</dc:creator>
-      <dc:creator>Shruti Shenbagam</dc:creator>
-      <dc:creator>Ikram Chekroun</dc:creator>
-      <dc:creator>Shruti Sinha</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fatma Rabea, Ibtesam Aljasmi, Ruchi Jain, Sathishkumar Ramaswamy, Alan Taylor, Shruti Shenbagam, Ikram Chekroun, Shruti Sinha, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 9; Pages: 3359-3371</description>
     </item>
   </channel>
 </rss>
