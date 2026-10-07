@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:24:04 +0000</lastBuildDate>
 
     <item>
       <title>Verification makes discovery matter</title>
@@ -145,6 +145,23 @@ Abstract: Menopause is an important biological transition with up to 72 symptoms
 Journal: Science; Volume: 394; Issue: 6819; Pages: 39-39</description>
     </item>
     <item>
+      <title>Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion</title>
+      <link>https://doi.org/10.1126/science.aed3065</link>
+      <guid isPermaLink="false">10.1126/science.aed3065</guid>
+
+      <dc:creator>Qiwen Gan</dc:creator>
+      <dc:creator>Wei Li</dc:creator>
+      <dc:creator>Rachel K. Lex</dc:creator>
+      <dc:creator>Zhe Ying</dc:creator>
+      <dc:creator>Slobodan Beronja</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Qiwen Gan, Wei Li, Rachel K. Lex, Zhe Ying, Slobodan Beronja
+
+Journal: Science; Volume: 394; Issue: 6819; Article number: eaed3065
+
+Abstract: Although tumor protein p53 ( TP53 ) mutations are among the most common lesions in epithelial cancers, how p53 loss drives unrestrained clonal expansion remains unclear. Working with mouse epidermis, we found that p53 suppresses clonal expansion by limiting progenitor self-renewal. Integrating chromatin immunoprecipitation sequencing, transcriptional analyses, and genetic screens, we identified a p53-dependent network controlling progenitor renewal and differentiation, in which secreted frizzled-related protein 1 ( Sfrp1 ), low-density lipoprotein receptor–related protein 1 ( Lrp1 ), and ubiquitin-specific peptidase 22 ( Usp22 ) were direct targets of p53 and the most genetically upstream components. Their suppression after p53 loss generated a radial gradient of Wnt activity across mutant clones. Genetic manipulation showed that a Wnt activity gradient, rather than uniform elevation, was associated with sustained clonal expansion. These findings identify spatial organization as a determinant of clonal behavior and a mechanism by which TP53 inactivation drives tissue colonization.</description>
+    </item>
+    <item>
       <title>Osteoarthritis as a vascular disease</title>
       <link>https://doi.org/10.1126/science.ael3784</link>
       <guid isPermaLink="false">10.1126/science.ael3784</guid>
@@ -173,23 +190,6 @@ Abstract: Hypertension worsens osteoarthritis and could be a therapeutic target 
 Journal: Science; Volume: 394; Issue: 6819; Pages: 113-117
 
 Abstract: Stationary entanglement between the motion of macroscopic objects and light is a long-standing goal of quantum optomechanics, with implications for both fundamental tests of quantum physics and emerging quantum technologies. We report the generation of quantum entanglement between the center-of-mass motion of a nanosphere levitated in an optical tweezer inside an optical cavity and the electromagnetic field. Using heterodyne detection, we reconstructed the full set of optomechanical correlations and observed a violation of separability bounds between the mechanical motion and a propagating optical mode, demonstrating the distribution of nonclassical correlations beyond the interaction region. The entanglement was generated at room temperature and remained robust over a broad range of parameters. Our results establish levitated optomechanical systems as a platform for continuous-variable quantum communication and for tests of macroscopic quantum physics.</description>
-    </item>
-    <item>
-      <title>Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion</title>
-      <link>https://doi.org/10.1126/science.aed3065</link>
-      <guid isPermaLink="false">10.1126/science.aed3065</guid>
-
-      <dc:creator>Qiwen Gan</dc:creator>
-      <dc:creator>Wei Li</dc:creator>
-      <dc:creator>Rachel K. Lex</dc:creator>
-      <dc:creator>Zhe Ying</dc:creator>
-      <dc:creator>Slobodan Beronja</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Qiwen Gan, Wei Li, Rachel K. Lex, Zhe Ying, Slobodan Beronja
-
-Journal: Science; Volume: 394; Issue: 6819; Article number: eaed3065
-
-Abstract: Although tumor protein p53 ( TP53 ) mutations are among the most common lesions in epithelial cancers, how p53 loss drives unrestrained clonal expansion remains unclear. Working with mouse epidermis, we found that p53 suppresses clonal expansion by limiting progenitor self-renewal. Integrating chromatin immunoprecipitation sequencing, transcriptional analyses, and genetic screens, we identified a p53-dependent network controlling progenitor renewal and differentiation, in which secreted frizzled-related protein 1 ( Sfrp1 ), low-density lipoprotein receptor–related protein 1 ( Lrp1 ), and ubiquitin-specific peptidase 22 ( Usp22 ) were direct targets of p53 and the most genetically upstream components. Their suppression after p53 loss generated a radial gradient of Wnt activity across mutant clones. Genetic manipulation showed that a Wnt activity gradient, rather than uniform elevation, was associated with sustained clonal expansion. These findings identify spatial organization as a determinant of clonal behavior and a mechanism by which TP53 inactivation drives tissue colonization.</description>
     </item>
     <item>
       <title>In Other Journals</title>
@@ -231,26 +231,6 @@ Journal: Science; Volume: 394; Issue: 6819; Pages: 81-86
 Abstract: Enhancing toughness in nanocomposites often involves viscoelastic organic phases, but this typically reduces stiffness. We describe a high-modulus toughening mechanism in mature Cristaria plicata nacre arising from a crystalline organic-inorganic framework composed of aragonite nanorods alternately integrated with intratabular biomolecular crystallites. Due to the critical slip-length effect, these crystalline units approach the theoretical limits of modulus and strength. The nanoconfined biomolecular crystallites function as nanopins at interlamellar interphases, alleviating stress concentrations and enabling cross-scale synchronized deformation, thereby conferring high fracture toughness. Inspired by this mechanism, reconstituted nacre fabricated from regenerated aragonite flakes simultaneously achieved high stiffness and crack resistance. These insights offer a promising pathway toward reliable, high-performance structural materials.</description>
     </item>
     <item>
-      <title>Ultrahigh piezoelectricity by polaron-defect complexes</title>
-      <link>https://doi.org/10.1126/science.aeg4972</link>
-      <guid isPermaLink="false">10.1126/science.aeg4972</guid>
-
-      <dc:creator>Liang Shu</dc:creator>
-      <dc:creator>Guyang Peng</dc:creator>
-      <dc:creator>Xiaoming Shi</dc:creator>
-      <dc:creator>Yang Zhang</dc:creator>
-      <dc:creator>Sixu Wang</dc:creator>
-      <dc:creator>Haijun Wu</dc:creator>
-      <dc:creator>Qian Li</dc:creator>
-      <dc:creator>Hangren Li</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Liang Shu, Guyang Peng, Xiaoming Shi, Yang Zhang, Sixu Wang, Haijun Wu, Qian Li, Hangren Li, et al.
-
-Journal: Science; Volume: 394; Issue: 6819; Pages: 118-124
-
-Abstract: Materials capable of delivering giant and rapid piezoelectric responses at kilohertz frequencies are pivotal for advanced electromechanical technologies. However, their development has been constrained by a long-standing magnitude–speed trade-off: Ferroelectrics with intrinsic electric dipoles offer fast response but limited polarization, whereas ionic defect motion generates highly polarizable defect dipoles but responds slowly, limiting kilohertz-rate applications. We overcame this fundamental limitation by devising 8 mole % K-doped AgNbO 3 (Ag 0.92 K 0.08 NbO 3 ) thin films engineered to host dynamically reconfigurable polaron-defect complexes through electro-elastic interactions between small electron polarons and lattice defects. Field-driven multi–unit-cell polaron hopping reconfigures these complexes, producing giant defect polarization, and orders-of-magnitude faster kinetics of polaron hopping (versus ionic migration) enables their rapid response. This synergy leads to an unprecedented field-induced effective piezoelectric coefficient of ~7170 picometers per volt with ~6.2% strain at kilohertz frequencies in engineered silver niobate–based films.</description>
-    </item>
-    <item>
       <title>Mitochondrial carrier SLC25A34 links clock, diet, and temperature control of adipocyte lipid cycling</title>
       <link>https://doi.org/10.1126/science.adz4797</link>
       <guid isPermaLink="false">10.1126/science.adz4797</guid>
@@ -269,6 +249,26 @@ Abstract: Materials capable of delivering giant and rapid piezoelectric response
 Journal: Science; Volume: 394; Issue: 6819; Article number: eadz4797
 
 Abstract: Adipocyte lipid metabolism is coordinated by circadian rhythms, diet, and environmental temperature, but how these diverse signals are molecularly integrated remains unknown. We showed that these cues converge on the orphan mitochondrial transporter SLC25A34 to orchestrate lipid cycling. During the sleep phase, the adipocyte clock suppresses Slc25a34 expression through the REV-ERB transcriptional repressors. Entering the active phase, consuming lipid-rich diets, or exposure to cold abolishes REV-ERB repression, and lipolytic signals stimulate Slc25a34 transcription through the peroxisome proliferator–activated receptors. SLC25A34 is proposed to import oxaloacetate into mitochondria, dually supporting the tricarboxylic acid cycle and cytosolic acetyl–coenzyme A (acetyl-CoA) production. Elevated cytosolic acetyl-CoA then fuels the synthesis of lipids and promotes the transcription of genes enhancing mitochondrial oxidation. Thus, SLC25A34 confers circadian, dietary, and temperature control of adipocyte lipid metabolism.</description>
+    </item>
+    <item>
+      <title>Ultrahigh piezoelectricity by polaron-defect complexes</title>
+      <link>https://doi.org/10.1126/science.aeg4972</link>
+      <guid isPermaLink="false">10.1126/science.aeg4972</guid>
+
+      <dc:creator>Liang Shu</dc:creator>
+      <dc:creator>Guyang Peng</dc:creator>
+      <dc:creator>Xiaoming Shi</dc:creator>
+      <dc:creator>Yang Zhang</dc:creator>
+      <dc:creator>Sixu Wang</dc:creator>
+      <dc:creator>Haijun Wu</dc:creator>
+      <dc:creator>Qian Li</dc:creator>
+      <dc:creator>Hangren Li</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Liang Shu, Guyang Peng, Xiaoming Shi, Yang Zhang, Sixu Wang, Haijun Wu, Qian Li, Hangren Li, et al.
+
+Journal: Science; Volume: 394; Issue: 6819; Pages: 118-124
+
+Abstract: Materials capable of delivering giant and rapid piezoelectric responses at kilohertz frequencies are pivotal for advanced electromechanical technologies. However, their development has been constrained by a long-standing magnitude–speed trade-off: Ferroelectrics with intrinsic electric dipoles offer fast response but limited polarization, whereas ionic defect motion generates highly polarizable defect dipoles but responds slowly, limiting kilohertz-rate applications. We overcame this fundamental limitation by devising 8 mole % K-doped AgNbO 3 (Ag 0.92 K 0.08 NbO 3 ) thin films engineered to host dynamically reconfigurable polaron-defect complexes through electro-elastic interactions between small electron polarons and lattice defects. Field-driven multi–unit-cell polaron hopping reconfigures these complexes, producing giant defect polarization, and orders-of-magnitude faster kinetics of polaron hopping (versus ionic migration) enables their rapid response. This synergy leads to an unprecedented field-induced effective piezoelectric coefficient of ~7170 picometers per volt with ~6.2% strain at kilohertz frequencies in engineered silver niobate–based films.</description>
     </item>
     <item>
       <title>Fed up with politicians not listening, a climate scientist runs for office</title>
@@ -516,20 +516,6 @@ Journal: Science; Volume: 394; Issue: 6819; Pages: 107-112
 Abstract: Materials that combine distinct properties within a single phase are of fundamental and technological interest. Here, we present a broadly applicable strategy to achieve strong bulk polarity that not only coexists with its originally incompatible properties, such as metallicity, but also synergistically enables exceptional functionalities. A combination of thin-film synthesis, atomic-scale imaging, and theoretical calculations reveals that A-site selective atomic gradients induce strong polar states in otherwise centrosymmetric perovskite oxides ABO 3 . These polar states unconventionally coexist with various preexisting properties, leading to bulk polar metallicity with tunable nonreciprocal transport; high-κ, low-loss dielectricity with an equivalent oxide thickness below 0.1 nanometer; and giant pyroelectricity. This work may enable the development of new multifunctional materials with unusual coexisting and synergistic properties.</description>
     </item>
     <item>
-      <title>Does the postmenopausal ovary still matter?</title>
-      <link>https://doi.org/10.1126/science.aeh7496</link>
-      <guid isPermaLink="false">10.1126/science.aeh7496</guid>
-
-      <dc:creator>Michael B. Stout</dc:creator>
-      <dc:creator>Francesca E. Duncan</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Michael B. Stout, Francesca E. Duncan
-
-Journal: Science; Volume: 394; Issue: 6819; Pages: 44-45
-
-Abstract: Ovaries may influence health long after their reproductive function ends</description>
-    </item>
-    <item>
       <title>Shaping maternal physiology: Immune control of reproductive adaptation</title>
       <link>https://doi.org/10.1126/science.aeh1405</link>
       <guid isPermaLink="false">10.1126/science.aeh1405</guid>
@@ -544,6 +530,20 @@ Journal: Science; Volume: 394; Issue: 6819; Pages: 46-52
 Abstract: Pregnancy is one of the most extensive physiological transitions of adult life, requiring coordinated adaptation across virtually every maternal organ to support fetal growth while preserving maternal health. Although these changes have traditionally been viewed as endocrine driven, emerging evidence identifies the immune system as an active regulator of maternal physiology. The immune system is increasingly recognized as a broad regulator of host physiology, positioning it as a key driver of maternal adaptation. In this work, we discuss how pregnancy reprograms maternal immunity to orchestrate physiological reprograming of tissues. This framework shifts the view of maternal immunity from one centered on immune homeostasis and fetal tolerance to one in which immune cells actively instruct physiological short- and long-term adaptation across maternal organs to shape health beyond reproduction.</description>
     </item>
     <item>
+      <title>Does the postmenopausal ovary still matter?</title>
+      <link>https://doi.org/10.1126/science.aeh7496</link>
+      <guid isPermaLink="false">10.1126/science.aeh7496</guid>
+
+      <dc:creator>Michael B. Stout</dc:creator>
+      <dc:creator>Francesca E. Duncan</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michael B. Stout, Francesca E. Duncan
+
+Journal: Science; Volume: 394; Issue: 6819; Pages: 44-45
+
+Abstract: Ovaries may influence health long after their reproductive function ends</description>
+    </item>
+    <item>
       <title>Making the invisible visible</title>
       <link>https://doi.org/10.1126/science.aem8012</link>
       <guid isPermaLink="false">10.1126/science.aem8012</guid>
@@ -553,16 +553,6 @@ Abstract: Pregnancy is one of the most extensive physiological transitions of ad
       <description>Authors: Alexandra Piotrowski-Daspit
 
 Journal: Science; Volume: 394; Issue: 6819; Pages: 134-134</description>
-    </item>
-    <item>
-      <title>Erratum for the Research Article “Kinetics of dCas9 target search in
-                    &lt;i&gt;Escherichia coli&lt;/i&gt;
-                    ”</title>
-      <link>https://doi.org/10.1126/science.aem7112</link>
-      <guid isPermaLink="false">10.1126/science.aem7112</guid>
-
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Science; Volume: 394; Issue: 6819; Article number: eaem7112</description>
     </item>
     <item>
       <title>Recording results from single-patient trials</title>
@@ -578,6 +568,16 @@ Journal: Science; Volume: 394; Issue: 6819; Pages: 134-134</description>
       <description>Authors: Ge Zhang, Honglin Zheng, Qiang Li, Taiqi Zhao, Teng Li
 
 Journal: Science; Volume: 394; Issue: 6819; Pages: 38-39</description>
+    </item>
+    <item>
+      <title>Erratum for the Research Article “Kinetics of dCas9 target search in
+                    &lt;i&gt;Escherichia coli&lt;/i&gt;
+                    ”</title>
+      <link>https://doi.org/10.1126/science.aem7112</link>
+      <guid isPermaLink="false">10.1126/science.aem7112</guid>
+
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Science; Volume: 394; Issue: 6819; Article number: eaem7112</description>
     </item>
     <item>
       <title>Incorporation of atmospheric components in planetary magma oceans through bubble–metal compounds</title>
@@ -848,26 +848,6 @@ Journal: Science; Volume: 393; Issue: 6818; Pages: 1306-1307</description>
       <description>Journal: Science; Volume: 393; Issue: 6818; Article number: eaem2402</description>
     </item>
     <item>
-      <title>Unlocking cycle life of lithium metal batteries</title>
-      <link>https://doi.org/10.1126/science.aee1630</link>
-      <guid isPermaLink="false">10.1126/science.aee1630</guid>
-
-      <dc:creator>Zheng Li</dc:creator>
-      <dc:creator>Chang-Xin Zhao</dc:creator>
-      <dc:creator>Yuchen Niu</dc:creator>
-      <dc:creator>Dejian Dong</dc:creator>
-      <dc:creator>Tengrui Wang</dc:creator>
-      <dc:creator>Yue Li</dc:creator>
-      <dc:creator>Nan Zhang</dc:creator>
-      <dc:creator>Yawei Chen</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zheng Li, Chang-Xin Zhao, Yuchen Niu, Dejian Dong, Tengrui Wang, Yue Li, Nan Zhang, Yawei Chen, et al.
-
-Journal: Science; Volume: 393; Issue: 6818; Article number: eaee1630
-
-Abstract: Lithium-ion Coulombic efficiency (Li CE) is widely used to evaluate interfacial stability and predict cycle life in lithium-ion batteries but fails in lithium-metal batteries (LMBs), in which higher Li CE does not reliably lead to longer cycle life. Here, we reveal that electrolyte depletion caused by unstable solid electrolyte interphases (SEIs) leads to electrolyte dry-out and induces lithium compensation through anode-to-cathode cross-talk, whereby soluble anionic species formed at the anode migrate to the cathode and release Li + from electrolyte salts upon oxidation. We establish quantitative relationships among SEI quality, electrolyte consumption, and lithium compensation, enabling accurate cycle life prediction. The SEI quality–based framework derives quantitative guidelines for electrolyte design to extend electrolyte lifetime and sustain long cycle life in high-energy LMBs under ultra-lean electrolyte conditions.</description>
-    </item>
-    <item>
       <title>Prussian blue regulates ion dynamics in perovskite solar cells</title>
       <link>https://doi.org/10.1126/science.aef5487</link>
       <guid isPermaLink="false">10.1126/science.aef5487</guid>
@@ -886,6 +866,26 @@ Abstract: Lithium-ion Coulombic efficiency (Li CE) is widely used to evaluate in
 Journal: Science; Volume: 393; Issue: 6818; Pages: 1329-1334
 
 Abstract: Perovskite photovoltaics are limited by structural instabilities initiated during crystallization and amplified under operation. We report that a lattice-matched Prussian blue scaffold directs heterogeneous nucleation to produce highly oriented, strain-relaxed films. Its redox-active Fe–C≡N–Fe network mediates the conversion of Pb 0 and I 0 defects, and its rigid open framework suppresses A-site cation redistribution and the resulting electronic inhomogeneity under bias. This strategy yielded champion power conversion efficiencies of 26.1% (n-i-p) and 26.9% (p-i-n; 26.2% certified), scaling to 23.4% in 6-centimeter–by–6-centimeter minimodules and a certified 22.9% in 30-centimeter–by–30-centimeter submodules. Submodules with initial power conversion efficiencies ranging from 20.2 to 21.0% showed robust durability under accelerated aging and no discernible decline relative to a silicon reference over 5 months of outdoor testing.</description>
+    </item>
+    <item>
+      <title>Unlocking cycle life of lithium metal batteries</title>
+      <link>https://doi.org/10.1126/science.aee1630</link>
+      <guid isPermaLink="false">10.1126/science.aee1630</guid>
+
+      <dc:creator>Zheng Li</dc:creator>
+      <dc:creator>Chang-Xin Zhao</dc:creator>
+      <dc:creator>Yuchen Niu</dc:creator>
+      <dc:creator>Dejian Dong</dc:creator>
+      <dc:creator>Tengrui Wang</dc:creator>
+      <dc:creator>Yue Li</dc:creator>
+      <dc:creator>Nan Zhang</dc:creator>
+      <dc:creator>Yawei Chen</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zheng Li, Chang-Xin Zhao, Yuchen Niu, Dejian Dong, Tengrui Wang, Yue Li, Nan Zhang, Yawei Chen, et al.
+
+Journal: Science; Volume: 393; Issue: 6818; Article number: eaee1630
+
+Abstract: Lithium-ion Coulombic efficiency (Li CE) is widely used to evaluate interfacial stability and predict cycle life in lithium-ion batteries but fails in lithium-metal batteries (LMBs), in which higher Li CE does not reliably lead to longer cycle life. Here, we reveal that electrolyte depletion caused by unstable solid electrolyte interphases (SEIs) leads to electrolyte dry-out and induces lithium compensation through anode-to-cathode cross-talk, whereby soluble anionic species formed at the anode migrate to the cathode and release Li + from electrolyte salts upon oxidation. We establish quantitative relationships among SEI quality, electrolyte consumption, and lithium compensation, enabling accurate cycle life prediction. The SEI quality–based framework derives quantitative guidelines for electrolyte design to extend electrolyte lifetime and sustain long cycle life in high-energy LMBs under ultra-lean electrolyte conditions.</description>
     </item>
     <item>
       <title>2D theoretically twistable material database</title>
@@ -955,24 +955,6 @@ Journal: Science; Volume: 393; Issue: 6818; Pages: 1302-1304
 Abstract: Overlooked opportunities can help turn academic research into socioeconomic impact across Europe</description>
     </item>
     <item>
-      <title>In-cell structures visualize human pre-ribosome assembly in the nucleolus</title>
-      <link>https://doi.org/10.1126/science.aej0483</link>
-      <guid isPermaLink="false">10.1126/science.aej0483</guid>
-
-      <dc:creator>Xiaohan Zhao</dc:creator>
-      <dc:creator>Yuki Hayashi</dc:creator>
-      <dc:creator>Herman K.H. Fung</dc:creator>
-      <dc:creator>Sara Cuylen-Haering</dc:creator>
-      <dc:creator>Julia Mahamid</dc:creator>
-      <dc:creator>Christoph W. Müller</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xiaohan Zhao, Yuki Hayashi, Herman K.H. Fung, Sara Cuylen-Haering, Julia Mahamid, Christoph W. Müller
-
-Journal: Science; Article number: eaej0483
-
-Abstract: In eukaryotes, ribosome biogenesis initiates within the nucleolus, a hallmark multilayered compartment of the nucleus. Structures of pre-ribosomes have been characterized ex situ, but their assembly pathways within human nucleoli have not been described. Here, we used cryogenic correlative light and electron tomography to visualize molecular landscapes within HeLa cell nucleoli and obtained in-cell structural snapshots of both ribosomal subunit precursors, the SSU processome and the pre-60S. These recapitulate major states resolved previously ex situ and reveal additional critical interaction partners, including the RNA exosome, rixosome, and nuclear export receptor CRM1-RanGTP. We further show how pre-ribosome assembly landscapes are altered upon RNA polymerase I inhibition. Our study combines molecular structures with cellular context to elucidate the spatiotemporal assembly pathway of the human ribosome.</description>
-    </item>
-    <item>
       <title>Ceramide synthesis mediates colorectal cancer metastasis through a YAP-driven regenerative program</title>
       <link>https://doi.org/10.1126/science.adw8520</link>
       <guid isPermaLink="false">10.1126/science.adw8520</guid>
@@ -1013,6 +995,24 @@ Journal: Science; Volume: 393; Issue: 6818; Article number: eaeg4791
 Abstract: Fibrotic remodeling of tissues and tumors establishes immunosuppressive microenvironments that drive organ dysfunction and, in cancer, limit response to immunotherapy. Senescent-like cells are conserved drivers of fibrosis and therapeutic targets, yet their functional heterogeneity complicates therapeutic intervention. Here, we show that P-selectin is expressed by a subset of senescent-like cells in fibrotic tissues and tumors. Leveraging fucoidan-based nanoparticles that bind P-selectin, we developed senescence-modulating nanoparticles (SMNPs) to selectively target these disease-associated states. SMNPs exerted potent antifibrotic and immunomodulatory effects while improving the therapeutic index. Mechanistically, we identified a pathogenic, immunosuppressive macrophage population as a functional target in vivo. In fibrotic tumors, niche remodeling restored immune infiltration and sensitized tumors to immune checkpoint–based therapies. These findings establish SMNPs as a generalizable strategy to target pathogenic senescent cell subsets across fibrosis and cancer.</description>
     </item>
     <item>
+      <title>In-cell structures visualize human pre-ribosome assembly in the nucleolus</title>
+      <link>https://doi.org/10.1126/science.aej0483</link>
+      <guid isPermaLink="false">10.1126/science.aej0483</guid>
+
+      <dc:creator>Xiaohan Zhao</dc:creator>
+      <dc:creator>Yuki Hayashi</dc:creator>
+      <dc:creator>Herman K.H. Fung</dc:creator>
+      <dc:creator>Sara Cuylen-Haering</dc:creator>
+      <dc:creator>Julia Mahamid</dc:creator>
+      <dc:creator>Christoph W. Müller</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xiaohan Zhao, Yuki Hayashi, Herman K.H. Fung, Sara Cuylen-Haering, Julia Mahamid, Christoph W. Müller
+
+Journal: Science; Article number: eaej0483
+
+Abstract: In eukaryotes, ribosome biogenesis initiates within the nucleolus, a hallmark multilayered compartment of the nucleus. Structures of pre-ribosomes have been characterized ex situ, but their assembly pathways within human nucleoli have not been described. Here, we used cryogenic correlative light and electron tomography to visualize molecular landscapes within HeLa cell nucleoli and obtained in-cell structural snapshots of both ribosomal subunit precursors, the SSU processome and the pre-60S. These recapitulate major states resolved previously ex situ and reveal additional critical interaction partners, including the RNA exosome, rixosome, and nuclear export receptor CRM1-RanGTP. We further show how pre-ribosome assembly landscapes are altered upon RNA polymerase I inhibition. Our study combines molecular structures with cellular context to elucidate the spatiotemporal assembly pathway of the human ribosome.</description>
+    </item>
+    <item>
       <title>Targeting an atypical G protein–coupled receptor signaling pathway for cardiac fibrosis therapy</title>
       <link>https://doi.org/10.1126/science.aej5896</link>
       <guid isPermaLink="false">10.1126/science.aej5896</guid>
@@ -1033,19 +1033,6 @@ Journal: Science; Volume: 393; Issue: 6818; Article number: eaej5896
 Abstract: Cardiac fibrosis independently predicts adverse outcomes in heart failure (HF), yet no Food and Drug Administration–approved therapy directly targets fibrotic remodeling in the heart. To address this unmet clinical need, we used a multidimensional drug discovery pipeline centered on a human induced pluripotent stem cell (iPSC)–based platform. Through high-throughput screening, we identified CGS15943 (CGS) as the lead antifibrotic compound and validated its activity in human cardiac fibroblasts, three-dimensional engineered heart tissues, and animal models of HF. Mechanistic studies revealed an atypical adenosine receptor (AR)–dependent signaling pathway in which AR subtypes converge on Gβγ (the βγ subunits of heterotrimeric GTP-binding proteins) to activate phosphoinositide 3-kinase (PI3K)–AKT and yes-associated protein (YAP). CGS suppressed this signaling axis, thereby reducing fibrotic gene expression and fibroblast activation. These findings establish AR-driven Gβγ signaling as a potential therapeutic target for cardiac fibrosis.</description>
     </item>
     <item>
-      <title>Science still has expertise; what it’s lost is authority</title>
-      <link>https://doi.org/10.1126/science.aem5190</link>
-      <guid isPermaLink="false">10.1126/science.aem5190</guid>
-
-      <dc:creator>H. Holden Thorp</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: H. Holden Thorp
-
-Journal: Science; Volume: 393; Issue: 6818; Pages: 1279-1279
-
-Abstract: In the years since the pandemic and the political turmoil surrounding the American scientific establishment, much time has been spent discussing why science has lost influence on public policy in the United States. A time when scientific advice about vaccination, nutrition, and environmental regulation was more readily heeded seems a distant memory. Scientific expertise has been decoupled from a sense of authority and standing to dictate policy on matters ranging from public health to climate change. The explanations for this separation include the rise of technologies like the internet and artificial intelligence, mistakes made by scientists and scientific institutions, and weaponization of anti-science ideas by political actors. But what if there’s a larger historical trend that suggests the disconnect between expertise and authority was inevitable? A new idea in philosophy called the “unicontext” suggests that the advance of technology, along with basic human desires, has been leading to this point for the past century.</description>
-    </item>
-    <item>
       <title>White House efforts to control NIH grants lead to new court challenge and Oval Office tussle</title>
       <link>https://doi.org/10.1126/science.aem6547</link>
       <guid isPermaLink="false">10.1126/science.aem6547</guid>
@@ -1057,6 +1044,19 @@ Abstract: In the years since the pandemic and the political turmoil surrounding 
 Journal: Science; Volume: 393; Issue: 6818; Pages: 1290-1291
 
 Abstract: Lawsuit argues political screening of grants violates researchers’ freedom of speech</description>
+    </item>
+    <item>
+      <title>Science still has expertise; what it’s lost is authority</title>
+      <link>https://doi.org/10.1126/science.aem5190</link>
+      <guid isPermaLink="false">10.1126/science.aem5190</guid>
+
+      <dc:creator>H. Holden Thorp</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: H. Holden Thorp
+
+Journal: Science; Volume: 393; Issue: 6818; Pages: 1279-1279
+
+Abstract: In the years since the pandemic and the political turmoil surrounding the American scientific establishment, much time has been spent discussing why science has lost influence on public policy in the United States. A time when scientific advice about vaccination, nutrition, and environmental regulation was more readily heeded seems a distant memory. Scientific expertise has been decoupled from a sense of authority and standing to dictate policy on matters ranging from public health to climate change. The explanations for this separation include the rise of technologies like the internet and artificial intelligence, mistakes made by scientists and scientific institutions, and weaponization of anti-science ideas by political actors. But what if there’s a larger historical trend that suggests the disconnect between expertise and authority was inevitable? A new idea in philosophy called the “unicontext” suggests that the advance of technology, along with basic human desires, has been leading to this point for the past century.</description>
     </item>
     <item>
       <title>No need to pretend</title>
@@ -1462,22 +1462,6 @@ Journal: Science; Volume: 393; Issue: 6817; Pages: 1250-1257
 Abstract: Autism spectrum disorder (ASD) is a neurodevelopmental condition with a strong genetic component. Large-scale human genetic studies have identified &amp;gt;1200 ASD-risk genes. We report a sex-balanced atlas of 1008 prefrontal RNA sequencing (RNA-seq) profiles from 17 mouse lines carrying ASD-risk mutations. Our analysis identified two opposing transcriptomic states. The two groups differed in sex bias, regional specificity, developmental stability, cell type remodeling, and responses to fluoxetine and lithium. Single-nucleus RNA-seq revealed broader cell type remodeling in group 1 than in group 2, and cell type–specific modules showed reciprocal associations that mirrored bulk transcriptomic signatures. The framework classifies independent mouse lines and identifies subgroups with conserved synaptic directionality, supporting molecular stratification.</description>
     </item>
     <item>
-      <title>Climate unrest comes to a fictionalized France
-                    &lt;b&gt;The Hunger of Those Who Built It&lt;/b&gt;
-                    &lt;i&gt;Wendy Waring&lt;/i&gt;
-                    Stelliform Press, 2026. 370 pp.</title>
-      <link>https://doi.org/10.1126/science.aek5942</link>
-      <guid isPermaLink="false">10.1126/science.aek5942</guid>
-
-      <dc:creator>Priya Dames</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Priya Dames
-
-Journal: Science; Volume: 393; Issue: 6817; Pages: 1192-1192
-
-Abstract: Insiders and dissidents pursue different paths to environmental justice in near-future Paris</description>
-    </item>
-    <item>
       <title>The indomitable Stephen Hawking
                     &lt;b&gt;Hawking&lt;/b&gt;
                     &lt;i&gt;Graham Farmelo&lt;/i&gt;
@@ -1492,6 +1476,22 @@ Abstract: Insiders and dissidents pursue different paths to environmental justic
 Journal: Science; Volume: 393; Issue: 6817; Pages: 1191-1191
 
 Abstract: The physicist’s first authorized biography paints an incisive portrait of the audacious scientist</description>
+    </item>
+    <item>
+      <title>Climate unrest comes to a fictionalized France
+                    &lt;b&gt;The Hunger of Those Who Built It&lt;/b&gt;
+                    &lt;i&gt;Wendy Waring&lt;/i&gt;
+                    Stelliform Press, 2026. 370 pp.</title>
+      <link>https://doi.org/10.1126/science.aek5942</link>
+      <guid isPermaLink="false">10.1126/science.aek5942</guid>
+
+      <dc:creator>Priya Dames</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Priya Dames
+
+Journal: Science; Volume: 393; Issue: 6817; Pages: 1192-1192
+
+Abstract: Insiders and dissidents pursue different paths to environmental justice in near-future Paris</description>
     </item>
     <item>
       <title>Splenic regulation of systemic platelet activation state</title>

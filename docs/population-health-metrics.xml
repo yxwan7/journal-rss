@@ -5,8 +5,25 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:19:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:24:29 +0000</lastBuildDate>
 
+    <item>
+      <title>Measuring miscarriages: a comparison of self-reported and healthcare register data in Finland</title>
+      <link>https://doi.org/10.1186/s12963-026-00518-w</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00518-w</guid>
+
+      <dc:creator>Heini Väisänen</dc:creator>
+      <dc:creator>Hanna Remes</dc:creator>
+      <dc:creator>Lara Lehtoranta</dc:creator>
+      <dc:creator>M-C Compans</dc:creator>
+      <dc:creator>Pekka Martikainen</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Heini Väisänen, Hanna Remes, Lara Lehtoranta, M-C Compans, Pekka Martikainen
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Approximately one in four women experiences a miscarriage, which may affect fertility intentions and health. However, there is a lack of research on the topic, in part due to poor quality of miscarriage data. Both surveys and healthcare records likely miss some miscarriages. We compare data from self-reports and healthcare records at the individual level to understand to what extent these data differ and according to which socio-demographic characteristics. Analyses of the level and patterns of miscarriage reporting can improve our understanding of miscarriage experiences and enable more reliable estimation of miscarriage risk factors in future studies. Methods We used healthcare records on miscarriages in Finland from 1969 to 2021 linked to self-reported miscarriage data in antenatal appointments from 1998 to 2021, as well as in a national epidemiological survey, FinHealth, collected in 2017. The antenatal data were available for parous women, whereas the survey also captured those without children, but had a smaller sample size. We compared the differences between the records overall and by socio-demographic characteristics using descriptive statistics and multinomial regressions. Results For over 80% of people, there were no differences between self-reports and healthcare records. This was mainly driven by those who had never had a miscarriage, as this share dropped to 40% when only those with at least one miscarriage in one data source were analysed. We observed some self-reporting fewer (1–4% among full sample, 7–13% among those with a miscarriage) and some more miscarriages than in healthcare records (8–12% among the full sample, 46–56% among those with a miscarriage). Differences in both directions were associated with older age, higher parity, and lower education. Conclusions Healthcare records and self-reports overlap partly in the miscarriages they capture. More miscarriages were observed using self-reports, most likely due to some miscarriages occurring outside the healthcare system, and differences in miscarriage definition between lay people and healthcare professionals, with the latter having a more restrictive definition. Future miscarriage studies should carefully consider the strengths and limitations of each type of source against their research aims.</description>
+    </item>
     <item>
       <title>Life-long burden of low birth weight in Bangladesh: disability weight development and DALY calculation</title>
       <link>https://doi.org/10.1186/s12963-026-00515-z</link>
@@ -1595,23 +1612,6 @@ Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 54</de
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 53
 
 Abstract: Abstract Background NCD expenditure estimates are necessary to estimate future health system expenditure trajectories for different prevention and treatment policies. However, no dataset of comparable estimates exists across OECD countries. This study generates disease expenditure estimates for all 38 OECD member countries in 2019, for 80 major NCDs by disease phase, sex, and age group. Methods Australian health expenditure (per person) by sex and age group was disaggregated by disease phase (first year of diagnosis, last year of life if dying of disease, otherwise prevalent) using Global Burden of Disease (GBD) data and New Zealand estimates of relative expenditure ratios by phase. These estimates were applied to GBD estimated case numbers in each OECD country and scaled to each country’s total health system expenditure to estimate expenditure by NCDs in 2019. OECD purchasing power parities were used to adjust estimates to United States (US) dollars for cross-country comparability. Comparisons were made to pre-existing disease expenditure estimates for Norway, Switzerland, and the US. Results Average NCD expenditure across OECD countries was US$207 million per 100,000 population. Pooled across countries, musculoskeletal disorders had the highest proportion of total health expenditure (17.4%), followed by cancer (9.4%), and cardiovascular diseases (CVD) (9.1%). Within diseases, the percentage of expenditure was higher for females for musculoskeletal disorders (56.1%), mental and substance use disorders (55.8%), and neurological conditions (54.8%). For males, it was kidney and urinary diseases (63.8%), cancer (58.3%), and CVD (50.7%). First year of diagnosis represented on average 36.8% of total NCD expenditure, while last year of life expenditure accounted for 2.6%. While there were similarities between our expenditure estimates and pre-existing country-specific estimates for Norway, Switzerland and the US, notable differences were observed for musculoskeletal disorders, cancer, and mental and substance use disorders. Conclusions Our estimates represent a starting point for a cross-national dataset of disease-specific expenditure that can be used to forecast future expenditure and potential health system cost savings of preventive and treatment policies. We recommend evolving our paper’s methods to include multiple country-level studies as inputs – augmented by covariates (e.g. GDP, public/private split) to better predict disease expenditure.</description>
-    </item>
-    <item>
-      <title>Epidemiological trends and determinants of suicide in Iran with insights into the COVID-19 period, 1980–2021</title>
-      <link>https://doi.org/10.1186/s12963-025-00416-7</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00416-7</guid>
-
-      <dc:creator>Kiavash Hushmandi</dc:creator>
-      <dc:creator>Parviz Shahmirzalou</dc:creator>
-      <dc:creator>Yousef Ramazani</dc:creator>
-      <dc:creator>Rasoul Raesi</dc:creator>
-      <dc:creator>Mahdieh Ardaneh</dc:creator>
-      <dc:creator>Hedyeh Askarpour</dc:creator>
-      <dc:creator>Salman Daneshi</dc:creator>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Kiavash Hushmandi, Parviz Shahmirzalou, Yousef Ramazani, Rasoul Raesi, Mahdieh Ardaneh, Hedyeh Askarpour, Salman Daneshi
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 52</description>
     </item>
   </channel>
 </rss>
