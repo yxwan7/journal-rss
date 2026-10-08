@@ -5,7 +5,7 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:31:13 +0000</lastBuildDate>
 
     <item>
       <title>An open vision-language model for diverse medical applications</title>
@@ -539,6 +539,24 @@ Journal: Nature Medicine
 Abstract: Abstract The NHS-Galleri trial was a randomized controlled trial evaluating a multi-cancer early detection (MCED) test added to usual care. We reported elsewhere that the primary endpoint of a reduction in the incidence of stage III/IV cancer diagnoses in the intervention arm versus control arm was not met. Here we report prespecified secondary test performance endpoints among evaluable intervention arm participants across three annual screening rounds. These analyses were descriptive; there was no hypothesis testing. Participants aged 50−77 years ( N = 142,250) were randomized 1:1 into intervention (MCED) or control arms. Intervention arm participants with positive MCED results were referred to National Health Service (NHS) standard-of-care pathways for diagnostic workup, with referrals informed by the predicted cancer signal origin (CSO). Positive test results were returned for 722 of 70,325 (1.03%), 518 of 64,498 (0.80%) and 561 of 62,323 (0.90%) participants in rounds 1−3, respectively. In aggregate, 937 participants had MCED-detected primary cancers. Respective by-round cancer detection rates were 0.60%, 0.40% and 0.41%; positive predictive values were 58.0% (419/722), 50.4% (261/518) and 45.8% (257/561); and negative predictive values were 98.98% (68,895/69,603), 98.90% (63,278/63,980) and 98.86% (61,058/61,762). Across rounds, specificity ranged from 99.50% to 99.60%; episode sensitivity ranged from 26.7% to 37.2% for all cancers and from 47.6% to 63.4% for 12 prespecified types; and CSO accuracy ranged from 91.1% to 93.6%. These data provide insights on the performance of the MCED test in population screening within the NHS setting. ClinicalTrials.gov: NCT05611632 ; ISRCTN: ISRCTN91431511 .</description>
     </item>
     <item>
+      <title>Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04679-x</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04679-x</guid>
+
+      <dc:creator>Choong-kun Lee</dc:creator>
+      <dc:creator>Taek Chung</dc:creator>
+      <dc:creator>Il Hwan Kim</dc:creator>
+      <dc:creator>Hong Jae Chon</dc:creator>
+      <dc:creator>Jin Won Kim</dc:creator>
+      <dc:creator>Se Jun Park</dc:creator>
+      <dc:creator>Woo Kyun Bae</dc:creator>
+      <dc:creator>Junghun Kang</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Choong-kun Lee, Taek Chung, Il Hwan Kim, Hong Jae Chon, Jin Won Kim, Se Jun Park, Woo Kyun Bae, Junghun Kang, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
       <title>Performance and safety of a multi-cancer early detection test: the PATHFINDER 2 study</title>
       <link>https://doi.org/10.1038/s41591-026-04618-w</link>
       <guid isPermaLink="false">10.1038/s41591-026-04618-w</guid>
@@ -557,24 +575,6 @@ Abstract: Abstract The NHS-Galleri trial was a randomized controlled trial evalu
 Journal: Nature Medicine
 
 Abstract: Abstract Early cancer detection improves survival; however, most cancer types do not have guideline-recommended screening. We previously reported the first PATHFINDER study that established feasibility of cancer screening with a blood-based multi-cancer early detection (MCED) test that predicts cancer signal origin (CSO) to guide diagnostic workup. The prospective, interventional PATHFINDER 2 study expands clinical evidence for the MCED test by evaluating co-primary endpoints of MCED performance metrics and safety in participants aged 50 years or older without clinical suspicion of cancer. Performance measures included cancer detection rate, positive and negative predictive values, episode sensitivity, specificity and CSO prediction accuracy. Safety was evaluated in terms of number and type of invasive procedures performed and adverse events due to diagnostic testing, after 12 months of follow-up. Endpoints were analyzed descriptively; no hypothesis testing was performed. Between December 2021 and July 2024, 35,878 participants were enrolled. Among 32,007 performance-analyzable participants, cancer detection rate was 0.54% (95% confidence interval (CI): 0.47−0.63%), positive predictive value was 60.3% (95% CI: 54.5−65.8%), negative predictive value was 99.2% (95% CI: 99.1−99.3%) and specificity was 99.64% (95% CI: 99.57−99.70%). Episode sensitivity was 39.3% (95% CI: 34.9−44.0%; all cancers) and 69.8% (95% CI: 62.8−76.0%; prespecified 12-cancer subgroup). Positive and negative likelihood ratios were 108.9 (95% CI: 87.6−135.2) and 0.61 (95% CI: 0.56−0.66), respectively, and the number needed to screen to detect one cancer was 185 (95% CI: 159−215). CSO prediction accuracy was 91.3%. Among 35,335 safety-analyzable participants, 213 (0.6%) had invasive procedure(s) after a positive MCED test; 90.5% were nonsurgical. No serious study-related adverse events were reported by the time of this analysis. These results provide insights into performance and safety of the MCED test in an intended-use population. Randomized trials and longer follow-up are needed to assess the clinical utility of MCED tests. ClinicalTrials.gov identifier: NCT05155605 .</description>
-    </item>
-    <item>
-      <title>Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04679-x</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04679-x</guid>
-
-      <dc:creator>Choong-kun Lee</dc:creator>
-      <dc:creator>Taek Chung</dc:creator>
-      <dc:creator>Il Hwan Kim</dc:creator>
-      <dc:creator>Hong Jae Chon</dc:creator>
-      <dc:creator>Jin Won Kim</dc:creator>
-      <dc:creator>Se Jun Park</dc:creator>
-      <dc:creator>Woo Kyun Bae</dc:creator>
-      <dc:creator>Junghun Kang</dc:creator>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Choong-kun Lee, Taek Chung, Il Hwan Kim, Hong Jae Chon, Jin Won Kim, Se Jun Park, Woo Kyun Bae, Junghun Kang, et al.
-
-Journal: Nature Medicine</description>
     </item>
     <item>
       <title>Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence</title>
