@@ -5,8 +5,21 @@
     <link>https://jamanetwork.com/journals/jama-health-forum</link>
     <description>Latest journal articles for JAMA Health Forum</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:31:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:18:11 +0000</lastBuildDate>
 
+    <item>
+      <title>A Precedent for Regulating Clinical AI Models</title>
+      <link>https://doi.org/10.1001/jamahealthforum.2026.4704</link>
+      <guid isPermaLink="false">10.1001/jamahealthforum.2026.4704</guid>
+
+      <dc:creator>Scott Gottlieb</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Scott Gottlieb
+
+Journal: JAMA Health Forum; Volume: 7; Issue: 10; Pages: e264704
+
+Abstract: This JAMA Forum discusses the issues surrounding regulating artificial intelligence (AI) models that are already in use and ways to support AI innovation by improving on the pathway used for laboratory developed tests.</description>
+    </item>
     <item>
       <title>Financial Effects of an Out-of-Pocket Cap in Traditional Medicare</title>
       <link>https://doi.org/10.1001/jamahealthforum.2026.3386</link>
@@ -1488,26 +1501,6 @@ Abstract: This JAMA Forum discusses staffing and policy changes at the US Food a
 Journal: JAMA Health Forum; Volume: 7; Issue: 6; Pages: e261528
 
 Abstract: This Viewpoint discusses the challenges of tracking participants and outcomes after clinical trials end and how more accurately reported National Clinical Trial codes would generate substantial value for researchers, patients, and policymakers.</description>
-    </item>
-    <item>
-      <title>Institutional Variation in Life-Sustaining Treatments and Mortality Among Older Patients</title>
-      <link>https://doi.org/10.1001/jamahealthforum.2026.1451</link>
-      <guid isPermaLink="false">10.1001/jamahealthforum.2026.1451</guid>
-
-      <dc:creator>Junji Shiotsuka</dc:creator>
-      <dc:creator>Shigehiko Uchino</dc:creator>
-      <dc:creator>Yusuke Sasabuchi</dc:creator>
-      <dc:creator>Hisashi Imahase</dc:creator>
-      <dc:creator>Tomoyuki Masuyama</dc:creator>
-      <dc:creator>Shohei Ono</dc:creator>
-      <dc:creator>Koichi Yoshinaga</dc:creator>
-      <dc:creator>Yusuke Iizuka</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Junji Shiotsuka, Shigehiko Uchino, Yusuke Sasabuchi, Hisashi Imahase, Tomoyuki Masuyama, Shohei Ono, Koichi Yoshinaga, Yusuke Iizuka, et al.
-
-Journal: JAMA Health Forum; Volume: 7; Issue: 6; Pages: e261451
-
-Abstract: Importance The optimal intensity of care for older patients (age ≥80 years) in intensive care units (ICUs) remains uncertain. Although institutional variation in critical care practice has been described, less is known about case-mix–adjusted variation in life-sustaining treatment use among older patients admitted to ICUs and whether greater institutional treatment intensity is associated with improved survival. Objective To quantify institutional variation in the use of life-sustaining treatments for older patients among ICUs and examine the association of treatment intensity with in-hospital mortality. Design, Setting, and Participants This retrospective cohort study used nationwide data from the Japanese Intensive Care Patient Database (JIPAD) for patients aged 80 years or older admitted to 127 ICUs at JIPAD-participating institutions in Japan between April 1, 2015, and March 31, 2023. Exposures Intensive care unit admission and age 80 years or older. Main Outcomes and Measures Institutional treatment intensity was quantified using standardized treatment ratio (STR), defined as the ratio of observed-to-expected life-sustaining treatment use after adjustment for patient-level characteristics. The association between STR category and in-hospital mortality was evaluated using both logistic regression and hierarchical bayesian multilevel logistic regression models. Results Among 60 713 patients (median age, 84 years [IQR, 82-87 years]; 32 302 male [53.2%]), the crude institutional rate of life-sustaining treatment use ranged from 4.8% (8 of 167 patients) to 38.0% (322 of 847 patients). After adjustment for patient case mix, the STR ranged from 0.24 (95% CI, 0.11-0.48) to 2.34 (95% CI, 1.91-2.85) across participating ICUs. In multilevel analyses adjusted for patient- and institution-level factors, higher institutional treatment intensity was not associated with in-hospital survival compared with intermediate treatment intensity (high STR category: odds ratio, 1.17; 95% credible interval, 0.91-1.39). Conclusions and Relevance In this cohort study of older patients admitted to ICUs, institutional use of life-sustaining treatments varied substantially even after case-mix adjustment and higher institutional treatment intensity was not associated with better in-hospital survival. These findings suggest that increasing treatment intensity alone may not be associated with improved outcomes in this population and support the need for better approaches to identify patients most likely to benefit from intensive treatment.</description>
     </item>
   </channel>
 </rss>

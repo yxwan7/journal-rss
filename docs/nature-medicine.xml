@@ -5,8 +5,45 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:18:23 +0000</lastBuildDate>
 
+    <item>
+      <title>AI-assisted scoping review of code sharing in clinical prediction model research</title>
+      <link>https://doi.org/10.1038/s41591-026-04691-1</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04691-1</guid>
+
+      <dc:creator>Thomas Sounack</dc:creator>
+      <dc:creator>Raffaele Giancotti</dc:creator>
+      <dc:creator>Catherine A. Gao</dc:creator>
+      <dc:creator>Lasai Barreñada</dc:creator>
+      <dc:creator>Hyeonhoon Lee</dc:creator>
+      <dc:creator>Hyung-Chul Lee</dc:creator>
+      <dc:creator>Leo Anthony Celi</dc:creator>
+      <dc:creator>Karel G. M. Moons</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Thomas Sounack, Raffaele Giancotti, Catherine A. Gao, Lasai Barreñada, Hyeonhoon Lee, Hyung-Chul Lee, Leo Anthony Celi, Karel G. M. Moons, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Clinical prediction models are increasingly deployed to support diagnostic and prognostic decisions, making reproducibility essential for assessing their reliability and generalizability. Analytical code supports independent assessment of these processes, yet its availability in the literature remains limited. This scoping review quantifies current practices in sharing analytical code to inform the development of TRIPOD-Code, a reporting guideline for code availability and reproducibility. Here a large-language-model-assisted pipeline was developed to screen articles citing TRIPOD or TRIPOD+AI, extract repository links and assess retrieved repositories against 14 predefined reproducibility-related features. Among 3,967 articles, 482 (12.2%) included code-sharing statements. Sharing prevalence varied widely by journal and country. Repository assessment showed substantial heterogeneity in reproducibility features. These findings underscore the need for clearer expectations beyond code availability, including documentation, dependency specification and executable structure. Strengthening these practices may improve the usability of clinical prediction model studies and support their deployment in real-world clinical settings.</description>
+    </item>
+    <item>
+      <title>Author Correction: Natural killer T cells and CD8+ T cells are dispensable for T cell–dependent allergic airway inflammation</title>
+      <link>https://doi.org/10.1038/s41591-026-04709-8</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04709-8</guid>
+
+      <dc:creator>Jyoti Das</dc:creator>
+      <dc:creator>Paul Eynott</dc:creator>
+      <dc:creator>Ray Jupp</dc:creator>
+      <dc:creator>Alfred Bothwell</dc:creator>
+      <dc:creator>Luc Van Kaer</dc:creator>
+      <dc:creator>Yufang Shi</dc:creator>
+      <dc:creator>Gobardhan Das</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jyoti Das, Paul Eynott, Ray Jupp, Alfred Bothwell, Luc Van Kaer, Yufang Shi, Gobardhan Das
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>An open vision-language model for diverse medical applications</title>
       <link>https://doi.org/10.1038/s41591-026-04626-w</link>
@@ -1098,14 +1135,6 @@ Journal: Nature Medicine</description>
 Journal: Nature Medicine</description>
     </item>
     <item>
-      <title>Gene alteration in human brain suggests genetic and epigenetic roots of major depression</title>
-      <link>https://doi.org/10.1038/s41591-026-04682-2</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04682-2</guid>
-
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Medicine</description>
-    </item>
-    <item>
       <title>Reply to: Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison</title>
       <link>https://doi.org/10.1038/s41591-026-04637-7</link>
       <guid isPermaLink="false">10.1038/s41591-026-04637-7</guid>
@@ -1129,6 +1158,14 @@ Journal: Nature Medicine</description>
       <description>Authors: Brett Beaulieu-Jones, Shamim Nemati
 
 Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Gene alteration in human brain suggests genetic and epigenetic roots of major depression</title>
+      <link>https://doi.org/10.1038/s41591-026-04682-2</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04682-2</guid>
+
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Medicine</description>
     </item>
     <item>
       <title>Induced proximity comes of age</title>
@@ -1588,44 +1625,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 9; Pages: 3495-3495</description>
 Journal: Nature Medicine
 
 Abstract: Abstract The recombinant herpes zoster (shingles) vaccine may reduce risks of cardiovascular disease. However, existing studies have compared vaccine recipients with non-recipients and, thus, are susceptible to confounding. To mitigate these biases, we conducted a natural experiment created by the rapid transition from the live attenuated to the recombinant shingles vaccine in the United States. We compared incidences of a composite cardiovascular endpoint (ischemic heart disease, heart failure or ischemic stroke) among adults aged ≥60 years vaccinated immediately before versus immediately after this transition. The recombinant vaccine was associated with a 9% decrease in cardiovascular burden over 7 years (restricted mean time lost (RMTL) ratio = 0.91, 95% confidence interval (CI): 0.88−0.95). The association attenuated over time and was significant for ischemic heart disease (10% decrease in burden; RMTL ratio = 0.90, 95% CI: 0.87−0.94) and heart failure (12% decrease in burden; RMTL ratio = 0.88, 95% CI: 0.83−0.93) in both sexes and ischemic stroke in males (12% decrease; RMTL ratio = 0.88, 95% CI: 0.78−0.98). An association was also seen for atrial fibrillation (7% decrease in burden; RMTL = 0.93, 95% CI: 0.88−0.98) but not other cardiac, peripheral and cerebrovascular outcomes. Results were consistent in secondary analyses. These results justify clinical trials and mechanistic studies to investigate potential cardioprotective effects of shingles vaccines.</description>
-    </item>
-    <item>
-      <title>Author Correction: Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04650-w</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04650-w</guid>
-
-      <dc:creator>Lee M. Kaplan</dc:creator>
-      <dc:creator>Elena Startseva</dc:creator>
-      <dc:creator>Carel W. le Roux</dc:creator>
-      <dc:creator>Sean Wharton</dc:creator>
-      <dc:creator>Biykem Bozkurt</dc:creator>
-      <dc:creator>Daniel F. Mazo</dc:creator>
-      <dc:creator>Jessica von Schlippenbach</dc:creator>
-      <dc:creator>Sandra González Maldonado</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lee M. Kaplan, Elena Startseva, Carel W. le Roux, Sean Wharton, Biykem Bozkurt, Daniel F. Mazo, Jessica von Schlippenbach, Sandra González Maldonado, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Oligodendrocyte dysfunction in human age-related cognitive decline</title>
-      <link>https://doi.org/10.1038/s41591-026-04608-y</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04608-y</guid>
-
-      <dc:creator>Georgina A. Craig</dc:creator>
-      <dc:creator>Emeric Merour</dc:creator>
-      <dc:creator>Luise A. Seeker</dc:creator>
-      <dc:creator>Annette J. Haughian</dc:creator>
-      <dc:creator>Keon Arbabi</dc:creator>
-      <dc:creator>Jamie Rose</dc:creator>
-      <dc:creator>Alana Hoffmann</dc:creator>
-      <dc:creator>Jessica Thapar</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Georgina A. Craig, Emeric Merour, Luise A. Seeker, Annette J. Haughian, Keon Arbabi, Jamie Rose, Alana Hoffmann, Jessica Thapar, et al.
-
-Journal: Nature Medicine
-
-Abstract: Abstract Cognitive decline in aging impacts quality of life, for which therapeutic interventions are lacking. Why some individuals experience more severe cognitive decline with aging is unclear. Here we uncover a role for the brain’s myelin-forming cells—oligodendrocytes—in explaining this variance. By investigating neuropathological and transcriptomic changes in human white matter associated with individual rates of cognitive decline in aging, we find that worse cognitive trajectories unexpectedly associate with smaller myelinated axon size, thicker myelin and more oligodendrocytes with downregulation of NRF2. Aged oligodendrocyte-specific NRF2-knockout mice showed attenuated cognitive improvement over time and mirrored the white matter pathology of human cognitive decline in aging. These findings place the oligodendrocyte as a contributor to cognitive decline and highlight the NRF2 pathway as a therapeutic target to preserve cognition in human aging.</description>
     </item>
   </channel>
 </rss>
