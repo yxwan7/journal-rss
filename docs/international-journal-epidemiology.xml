@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:17:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:32:50 +0000</lastBuildDate>
 
     <item>
       <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
@@ -167,25 +167,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Cancer mortality levels have declined across high-income countries, but progress has been uneven by cancer type. Examining birth-cohort patterns of lifestyle-related cancer mortality in an international context can shed light on how shared and differential global lifestyle transitions manifest differently across national contexts. Methods We used harmonized cause-of-death data from the Human Cause of Death series of the Human Mortality Database for Canada, Czechia, England &amp;amp; Wales, France, Germany, Japan, Spain, and the USA from 2000 to 2020. We examined mortality from lung and larynx, colorectal, stomach, and liver cancer for ages 30–84 years by using rates of mortality improvement displayed on Lexis surfaces. Single-age death rates were estimated from grouped data by using penalized composite link models. Two-factor Poisson models and sex-stratified surfaces served as sensitivity analyses. Results All eight countries showed declining age-standardized cancer mortality, but with diverging trends by cause and birth cohorts. Lung and larynx cancer declined broadly, with mortality patterns reflecting cohort cigarette-smoking histories. Colorectal cancer mortality increased among cohorts born after 1960 in the USA, Canada, and England &amp;amp; Wales, with a similar but delayed pattern in France and Germany. Liver cancer mortality was higher for cohorts born in 1945–55 than for earlier and later cohorts in several countries, with a re-emerging adverse pattern among cohorts born in around 1970–80. Conclusion Birth-cohort patterns in lifestyle-associated cancer mortality differ across national contexts. Worsening colorectal and liver cancer trends among younger cohorts call for increased prevention and screening strategies.</description>
     </item>
     <item>
-      <title>Negative controls and how to use them: a guidance paper</title>
-      <link>https://doi.org/10.1093/ije/dyag163</link>
-      <guid isPermaLink="false">10.1093/ije/dyag163</guid>
-
-      <dc:creator>Sophie H Bots</dc:creator>
-      <dc:creator>Anna Schultze</dc:creator>
-      <dc:creator>Romin Pajouheshnia</dc:creator>
-      <dc:creator>Ian J Douglas</dc:creator>
-      <dc:creator>Rosa Gini</dc:creator>
-      <dc:creator>Olaf H Klungel</dc:creator>
-      <dc:creator>Rolf H H Groenwold</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sophie H Bots, Anna Schultze, Romin Pajouheshnia, Ian J Douglas, Rosa Gini, Olaf H Klungel, Rolf H H Groenwold
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag163
-
-Abstract: Abstract Negative controls have gained traction as a useful tool for causal research to address confounding and bias. However, general guidance on how to select and apply negative controls and how to report and interpret their findings is lacking. This paper lays out the key steps of conducting a negative-control analysis and provides all relevant background information, important feasibility and validity considerations, and practical suggestions for the implementation and interpretation of each step. This includes a convenient overview of all methods, complete with their rationale, key considerations, and illustrative examples, and practical checklists that both researchers and reviewers can use to facilitate the complete and rigorous reporting of negative-control analyses.</description>
-    </item>
-    <item>
       <title>Not always towards the null: reconsidering the direction of overadjustment bias</title>
       <link>https://doi.org/10.1093/ije/dyag215</link>
       <guid isPermaLink="false">10.1093/ije/dyag215</guid>
@@ -205,22 +186,23 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Overadjustment bias occurs when adjusting for a variable increases rather than decreases bias. It commonly arises in studies estimating the total causal effect of an exposure on an outcome due to inappropriate adjustment for a mediator. While such inappropriate mediator adjustment can lead to bias in any direction (towards the null, away from the null, or reverse the direction of effect) even in the absence of other relevant unadjusted variables, this type of overadjustment bias is often described as acting towards the null. Using directed acyclic graphs and a simulated example of adjustment for smoking when estimating the total causal effect of education on the risk of breast cancer, we explain how inappropriately adjusting for a mediator can lead to overadjustment bias in any direction. Correspondingly, we provide general guidance to predict the likely direction of overadjustment bias based on the direction of effect of the relevant paths involved. In general, this bias will be away from the null or in the reverse direction when the mediated pathway being closed by inappropriate adjustment acts in the opposite direction to the combined effect of all remaining pathways between the exposure and the outcome. In contrast, this bias will be towards the null when the effects of these paths act in the same direction.</description>
     </item>
     <item>
-      <title>Data Resource Profile: The General Practice Database—Amsterdam, North Holland, Almere (GPD-ANHA)</title>
-      <link>https://doi.org/10.1093/ije/dyag175</link>
-      <guid isPermaLink="false">10.1093/ije/dyag175</guid>
+      <title>Negative controls and how to use them: a guidance paper</title>
+      <link>https://doi.org/10.1093/ije/dyag163</link>
+      <guid isPermaLink="false">10.1093/ije/dyag163</guid>
 
-      <dc:creator>Jos P Kanning</dc:creator>
-      <dc:creator>Habibollah Pirnejad</dc:creator>
-      <dc:creator>Awa A Gassama</dc:creator>
-      <dc:creator>Coralie R Arends</dc:creator>
-      <dc:creator>Johanna H K Joosten</dc:creator>
-      <dc:creator>Natasja D Vijfschagt</dc:creator>
-      <dc:creator>Ralf E Harskamp</dc:creator>
-      <dc:creator>Otto R Maarsingh</dc:creator>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jos P Kanning, Habibollah Pirnejad, Awa A Gassama, Coralie R Arends, Johanna H K Joosten, Natasja D Vijfschagt, Ralf E Harskamp, Otto R Maarsingh, et al.
+      <dc:creator>Sophie H Bots</dc:creator>
+      <dc:creator>Anna Schultze</dc:creator>
+      <dc:creator>Romin Pajouheshnia</dc:creator>
+      <dc:creator>Ian J Douglas</dc:creator>
+      <dc:creator>Rosa Gini</dc:creator>
+      <dc:creator>Olaf H Klungel</dc:creator>
+      <dc:creator>Rolf H H Groenwold</dc:creator>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sophie H Bots, Anna Schultze, Romin Pajouheshnia, Ian J Douglas, Rosa Gini, Olaf H Klungel, Rolf H H Groenwold
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag175</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag163
+
+Abstract: Abstract Negative controls have gained traction as a useful tool for causal research to address confounding and bias. However, general guidance on how to select and apply negative controls and how to report and interpret their findings is lacking. This paper lays out the key steps of conducting a negative-control analysis and provides all relevant background information, important feasibility and validity considerations, and practical suggestions for the implementation and interpretation of each step. This includes a convenient overview of all methods, complete with their rationale, key considerations, and illustrative examples, and practical checklists that both researchers and reviewers can use to facilitate the complete and rigorous reporting of negative-control analyses.</description>
     </item>
     <item>
       <title>Cohort Profile: Kinship, nuptiality and child well-being in Africa—the JAMO study</title>
@@ -239,6 +221,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
       <description>Authors: Sangeetha Madhavan, Kirsten Stoebenau, Kenneth Leonard, Estelle Sidze, Blessing Mberu, Patricia Kitsao-Wekulo, Elizabeth Kimani, Carol Wainaina, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag178</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: The General Practice Database—Amsterdam, North Holland, Almere (GPD-ANHA)</title>
+      <link>https://doi.org/10.1093/ije/dyag175</link>
+      <guid isPermaLink="false">10.1093/ije/dyag175</guid>
+
+      <dc:creator>Jos P Kanning</dc:creator>
+      <dc:creator>Habibollah Pirnejad</dc:creator>
+      <dc:creator>Awa A Gassama</dc:creator>
+      <dc:creator>Coralie R Arends</dc:creator>
+      <dc:creator>Johanna H K Joosten</dc:creator>
+      <dc:creator>Natasja D Vijfschagt</dc:creator>
+      <dc:creator>Ralf E Harskamp</dc:creator>
+      <dc:creator>Otto R Maarsingh</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jos P Kanning, Habibollah Pirnejad, Awa A Gassama, Coralie R Arends, Johanna H K Joosten, Natasja D Vijfschagt, Ralf E Harskamp, Otto R Maarsingh, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag175</description>
     </item>
     <item>
       <title>Data Resource Profile: The Korean National Health Insurance Service Mother-Child Linked Database (NHIS-MCLD): a nationwide administrative database with a cohort design</title>
@@ -405,6 +405,22 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
     </item>
     <item>
+      <title>Loneliness and cognitive function in later life: a population-based counterfactual analysis</title>
+      <link>https://doi.org/10.1093/ije/dyag212</link>
+      <guid isPermaLink="false">10.1093/ije/dyag212</guid>
+
+      <dc:creator>Shubhankar Sharma</dc:creator>
+      <dc:creator>Jo Mhairi Hale</dc:creator>
+      <dc:creator>Angelo Lorenti</dc:creator>
+      <dc:creator>Solveig Cunningham</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shubhankar Sharma, Jo Mhairi Hale, Angelo Lorenti, Solveig Cunningham
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag212
+
+Abstract: Abstract Background Loneliness is increasingly recognized as a major public health challenge. Yet, its impact on cognitive function remains poorly understood. A complex interplay of life-course risk factors makes it challenging to disentangle the effect of loneliness from other factors and to assess underlying mechanisms when using traditional approaches. Methods We applied the parametric g-formula with the Health and Retirement Study (1996–2018; n = 34 774; aged 50–80 years) to simulate an intervention estimating the effect of preventing loneliness on cognitive function. We assessed whether this effect varies by gender. Formal mediation analysis was also performed to assess depression as a potential pathway. Results Preventing loneliness was protective against cognitive decline at all ages, with the magnitude increasing with age. Averaged across all ages, an intervention to prevent loneliness would slow cognitive decline by 0.075 points at the population level [95% confidence interval (CI): 0.063–0.089] and by 0.157 points among individuals experiencing loneliness (95% CI: 0.138–0.178). Overall, 17.3% of the total effect of preventing loneliness was mediated via depression, with the proportion mediated being 19.4% among men and 16.9% among women. Conclusion Employing an innovative counterfactual framework, this study shows that preventing loneliness could provide an insulative effect against cognitive decline, even at the population level. Importantly, with advancing age, addressing loneliness yields progressively greater cognitive benefits. The effects partly operate through reductions in depression, especially in men. Interventions against loneliness may help maintain cognitive function, with benefits extending to mental health, highlighting a promising avenue for public health strategies.</description>
+    </item>
+    <item>
       <title>Prenatal fluoride exposure and pregnancy outcomes in two US pregnancy cohorts</title>
       <link>https://doi.org/10.1093/ije/dyag177</link>
       <guid isPermaLink="false">10.1093/ije/dyag177</guid>
@@ -438,20 +454,20 @@ Abstract: Abstract Background Our goal was to evaluate the relationship between 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
     </item>
     <item>
-      <title>Loneliness and cognitive function in later life: a population-based counterfactual analysis</title>
-      <link>https://doi.org/10.1093/ije/dyag212</link>
-      <guid isPermaLink="false">10.1093/ije/dyag212</guid>
+      <title>Comparing genome-wide significant and chemosensory variants as instruments for dietary patterns in Mendelian randomization</title>
+      <link>https://doi.org/10.1093/ije/dyag186</link>
+      <guid isPermaLink="false">10.1093/ije/dyag186</guid>
 
-      <dc:creator>Shubhankar Sharma</dc:creator>
-      <dc:creator>Jo Mhairi Hale</dc:creator>
-      <dc:creator>Angelo Lorenti</dc:creator>
-      <dc:creator>Solveig Cunningham</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shubhankar Sharma, Jo Mhairi Hale, Angelo Lorenti, Solveig Cunningham
+      <dc:creator>Phoebe S C Hui</dc:creator>
+      <dc:creator>Brooke L Devlin</dc:creator>
+      <dc:creator>David M Evans</dc:creator>
+      <dc:creator>Liang-Dar Hwang</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Phoebe S C Hui, Brooke L Devlin, David M Evans, Liang-Dar Hwang
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag212
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
 
-Abstract: Abstract Background Loneliness is increasingly recognized as a major public health challenge. Yet, its impact on cognitive function remains poorly understood. A complex interplay of life-course risk factors makes it challenging to disentangle the effect of loneliness from other factors and to assess underlying mechanisms when using traditional approaches. Methods We applied the parametric g-formula with the Health and Retirement Study (1996–2018; n = 34 774; aged 50–80 years) to simulate an intervention estimating the effect of preventing loneliness on cognitive function. We assessed whether this effect varies by gender. Formal mediation analysis was also performed to assess depression as a potential pathway. Results Preventing loneliness was protective against cognitive decline at all ages, with the magnitude increasing with age. Averaged across all ages, an intervention to prevent loneliness would slow cognitive decline by 0.075 points at the population level [95% confidence interval (CI): 0.063–0.089] and by 0.157 points among individuals experiencing loneliness (95% CI: 0.138–0.178). Overall, 17.3% of the total effect of preventing loneliness was mediated via depression, with the proportion mediated being 19.4% among men and 16.9% among women. Conclusion Employing an innovative counterfactual framework, this study shows that preventing loneliness could provide an insulative effect against cognitive decline, even at the population level. Importantly, with advancing age, addressing loneliness yields progressively greater cognitive benefits. The effects partly operate through reductions in depression, especially in men. Interventions against loneliness may help maintain cognitive function, with benefits extending to mental health, highlighting a promising avenue for public health strategies.</description>
+Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
     </item>
     <item>
       <title>Clinical and social determinants of COVID-19 lethality and ICU admission across variant waves in the Brazilian Amazon</title>
@@ -489,22 +505,6 @@ Abstract: Abstract Background The state of Amazonas, located in the Brazilian Am
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag160
 
 Abstract: Abstract Background Previous research on moderate-to-vigorous physical activity (MVPA) and ovarian cancer risk have shown inconsistent results. Most studies measured recreational MVPA once during late adulthood, which does not consider the way in which timing may differently influence risk or account for MVPA from other activities. Life-course epidemiology models (critical-period, sensitive-period, and accumulation) can evaluate whether the timing and cumulative burden of total MVPA across the lifespan influences risk. Here, we identify which model best describes the association between total MVPA, encompassing recreational, occupational, household, and transportation activities, and invasive ovarian cancer risk. Methods A population-based case–control study of ovarian cancer in Montreal, Canada (2011–16) included 268 invasive cases and 668 controls aged ≥52 years. Total MVPA was determined by using recalled information on the frequency and duration of various physical activities across adulthood. A Bayesian relevant life course exposure model was used to estimate the relative importance of total MVPA, represented as average energy expenditure in units of metabolic equivalent (MET)-hours/week, during three pre-specified periods (early reproductive years, late reproductive years/perimenopause, and postmenopause) on invasive ovarian cancer risk. Results The lifetime-effect odds ratio comparing ≥50 vs &amp;amp;lt;50 MET-hours/week across adulthood was 0.59 (95% credible interval: 0.35–0.93). MVPA during late reproductive years/perimenopause showed the highest relative importance, suggesting that this may be a sensitive period. Associations were similar for serous and non-serous subtypes. Conclusion Our results support that higher MVPA across the adult life course is associated with a reduced invasive ovarian cancer risk and mid-adulthood, represented by late reproductive years/perimenopause, may be a sensitive period.</description>
-    </item>
-    <item>
-      <title>Comparing genome-wide significant and chemosensory variants as instruments for dietary patterns in Mendelian randomization</title>
-      <link>https://doi.org/10.1093/ije/dyag186</link>
-      <guid isPermaLink="false">10.1093/ije/dyag186</guid>
-
-      <dc:creator>Phoebe S C Hui</dc:creator>
-      <dc:creator>Brooke L Devlin</dc:creator>
-      <dc:creator>David M Evans</dc:creator>
-      <dc:creator>Liang-Dar Hwang</dc:creator>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Phoebe S C Hui, Brooke L Devlin, David M Evans, Liang-Dar Hwang
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
-
-Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
     </item>
     <item>
       <title>Redefining the public health problem in epidemiology:
@@ -845,6 +845,23 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Diagnostic test accuracy (DTA) studies, like aetiological studies, are susceptible to various sources of bias, including imperfect reference standard, partial verification, spectrum effect, confounding, and misassumption of conditional independence. While directed acyclic graphs (DAGs) are widely used in aetiological research to identify and illustrate biasing structures, they have not been systematically applied to DTA studies. Methods We developed DAGs to illustrate causal mechanisms underlying common sources of bias in DTA studies. For each source, we also illustrate its equivalent in aetiological studies. Real-world examples are used for illustration. Results We present DAGs for five major sources of bias in DTA studies with structural parallels to aetiological studies: imperfect reference standard corresponds to exposure misclassification, misassumption of conditional independence creates spurious correlations similar to ignoring unmeasured confounding, spectrum effect parallels effect modification, confounding operates through backdoor paths in both settings, and partial verification acts through selection mechanisms that can induce selection bias. These DAG representations help reveal causal mechanisms underlying each source of bias and suggest appropriate adjustment strategies. Conclusion DAGs provide a valuable framework for understanding sources of bias in DTA studies and should complement existing reporting and quality-assessment tools such as the Standards for Reporting of Diagnostic Accuracy (STARD) and Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2). We recommend incorporating DAGs in the conduct and reporting of primary DTA studies, systematic reviews, and meta-analyses to identify potential sources of bias and enhance transparency. DAG construction requires interdisciplinary collaboration and sensitivity analyses examining alternative causal structures.</description>
     </item>
     <item>
+      <title>Cohort Profile Update: The Korean Genome and Epidemiology Study (KoGES)</title>
+      <link>https://doi.org/10.1093/ije/dyag192</link>
+      <guid isPermaLink="false">10.1093/ije/dyag192</guid>
+
+      <dc:creator>Jieun Lyu</dc:creator>
+      <dc:creator>Joong-Yeon Lim</dc:creator>
+      <dc:creator>Joong Won Lee</dc:creator>
+      <dc:creator>Hye-Kyoung Kwak</dc:creator>
+      <dc:creator>Hyun-Young Park</dc:creator>
+      <dc:creator>Jae-Pil Jeon</dc:creator>
+      <dc:creator>Chol Shin</dc:creator>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jieun Lyu, Joong-Yeon Lim, Joong Won Lee, Hye-Kyoung Kwak, Hyun-Young Park, Jae-Pil Jeon, Chol Shin, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag192</description>
+    </item>
+    <item>
       <title>Cohort Profile Update: Survey of Health, Ageing and Retirement in Europe—biomarker data for age-related health conditions</title>
       <link>https://doi.org/10.1093/ije/dyag161</link>
       <guid isPermaLink="false">10.1093/ije/dyag161</guid>
@@ -861,23 +878,6 @@ Abstract: Abstract Background Diagnostic test accuracy (DTA) studies, like aetio
       <description>Authors: Martina Börsch-Supan, Axel Börsch-Supan, Karen Andersen-Ranberg, Nis Borbye-Lorenzen, Jake Cofferen, Yacila I Deza-Lougovski, Rebecca Groh, Solveig Holmgaard, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag161</description>
-    </item>
-    <item>
-      <title>Cohort Profile Update: The Korean Genome and Epidemiology Study (KoGES)</title>
-      <link>https://doi.org/10.1093/ije/dyag192</link>
-      <guid isPermaLink="false">10.1093/ije/dyag192</guid>
-
-      <dc:creator>Jieun Lyu</dc:creator>
-      <dc:creator>Joong-Yeon Lim</dc:creator>
-      <dc:creator>Joong Won Lee</dc:creator>
-      <dc:creator>Hye-Kyoung Kwak</dc:creator>
-      <dc:creator>Hyun-Young Park</dc:creator>
-      <dc:creator>Jae-Pil Jeon</dc:creator>
-      <dc:creator>Chol Shin</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jieun Lyu, Joong-Yeon Lim, Joong Won Lee, Hye-Kyoung Kwak, Hyun-Young Park, Jae-Pil Jeon, Chol Shin, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag192</description>
     </item>
     <item>
       <title>Cohort profile: the Japan Birth Cohort Consortium</title>
@@ -931,24 +931,6 @@ Abstract: Abstract Background Literature around the health impact of a vegetaria
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag184</description>
     </item>
     <item>
-      <title>Data Resource Profile: Children in Wales: The Cohort for Health and Wellbeing Inequality (CWTCH)</title>
-      <link>https://doi.org/10.1093/ije/dyag180</link>
-      <guid isPermaLink="false">10.1093/ije/dyag180</guid>
-
-      <dc:creator>Sarah J Aldridge</dc:creator>
-      <dc:creator>Lateef Akanni</dc:creator>
-      <dc:creator>Stuart Bedston</dc:creator>
-      <dc:creator>Davara Bennett</dc:creator>
-      <dc:creator>Michelle Black</dc:creator>
-      <dc:creator>Yanhua Chen</dc:creator>
-      <dc:creator>Yu Wei Chua</dc:creator>
-      <dc:creator>Oluwaseun B Esan</dc:creator>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sarah J Aldridge, Lateef Akanni, Stuart Bedston, Davara Bennett, Michelle Black, Yanhua Chen, Yu Wei Chua, Oluwaseun B Esan, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag180</description>
-    </item>
-    <item>
       <title>Evaluating COVID-19 vaccine effectiveness across epidemiologic designs: test-negative case-control versus retrospective cohort analyses in a nationwide study</title>
       <link>https://doi.org/10.1093/ije/dyag210</link>
       <guid isPermaLink="false">10.1093/ije/dyag210</guid>
@@ -967,6 +949,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag210
 
 Abstract: Abstract Background Observational studies are central to assessing vaccine effectiveness and informing public health policy. The two most common designs are test-negative case-control and cohort studies, yet direct comparisons of their performance using the same population, data sources, and analytic strategies remain rare. This study compares these two designs within a national population using harmonized analytic approaches. Methods Nationwide, matched test-negative case-control and retrospective cohort studies were conducted in Qatar between 1 January 2021 and 18 December 2021 to assess the effectiveness of the coronavirus disease (COVID-19) primary series of BNT162b2 and mRNA-1273 against any severe acute respiratory syndrome coronavirus 2 infection, symptomatic infection, and severe COVID-19. Results In the test-negative design, BNT162b2 effectiveness was 71.0% [95% confidence interval (CI): 70.1–71.9] against any infection, 75.6% (95% CI: 74.2–77.0) against symptomatic infection, and 96.3% (95% CI: 95.2–97.2) against severe COVID-19. In the cohort design, after adjustment for testing rate, corresponding effectiveness was 78.0% (95% CI: 77.1–78.9), 81.2% (95% CI: 79.8–82.5), and 98.0% (95% CI: 96.6–98.8), respectively. Both designs demonstrated similar, rapid, and largely linear waning of effectiveness in both magnitude and pattern. Test-negative design estimates lay between cohort estimates with and without adjustment for testing rate. Similar results were observed for mRNA-1273. Conclusions Both designs yielded consistent effectiveness estimates across vaccines and clinically relevant outcomes, with only modest differences related to handling of health-seeking behavior. These findings demonstrate that, when rigorously implemented using quality data and harmonized analytic strategies, both designs produce comparable effectiveness estimates.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: Children in Wales: The Cohort for Health and Wellbeing Inequality (CWTCH)</title>
+      <link>https://doi.org/10.1093/ije/dyag180</link>
+      <guid isPermaLink="false">10.1093/ije/dyag180</guid>
+
+      <dc:creator>Sarah J Aldridge</dc:creator>
+      <dc:creator>Lateef Akanni</dc:creator>
+      <dc:creator>Stuart Bedston</dc:creator>
+      <dc:creator>Davara Bennett</dc:creator>
+      <dc:creator>Michelle Black</dc:creator>
+      <dc:creator>Yanhua Chen</dc:creator>
+      <dc:creator>Yu Wei Chua</dc:creator>
+      <dc:creator>Oluwaseun B Esan</dc:creator>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sarah J Aldridge, Lateef Akanni, Stuart Bedston, Davara Bennett, Michelle Black, Yanhua Chen, Yu Wei Chua, Oluwaseun B Esan, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag180</description>
     </item>
     <item>
       <title>Short-term health impacts of air pollution in Canada: a nonlinear multi-pollutant Bayesian case-crossover framework</title>
@@ -1053,24 +1053,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background The frequency and severity of extreme temperatures have been increasing and are expected to continue to escalate in the coming decades. Relationships between extreme temperatures and early deliveries are not well understood. Methods Data were obtained from 201 759 pregnancies with gestational age (GA) of &amp;amp;gt;27 weeks in the Consortium on Safe Labor retrospective cohort study from 19 hospitals across the USA for 2002–8. Location-specific bulk temperatures were obtained from the Parameter-Elevation Regressions on Independent Slopes Model (4-km resolution), from which participants were linked to minimum, maximum, and mean daily temperatures across each day of pregnancy. Days were categorized for each site as cold (both minimum and maximum temperatures ≤ 20th percentile), hot (both minimum and maximum temperatures ≥ 80th percentile), or neither for each pregnancy. Cold and hot days were then analysed individually or as the proportion within specific pregnancy windows by using Cox regression and fetuses-at-risk logistic regression models. Results Detrimental relations in fetuses-at-risk models were consistently observed between exposure to chronic cold and chronic heat and early delivery: odds ratio (ORcold)= 1.66, 1.40, and 1.16; ORheat = 1.20, 1.13, and 1.32 for early-preterm (GA &amp;amp;lt; 34 weeks), preterm (34 ≤ GA &amp;amp;lt; 37 weeks), and early-term (37 ≤ GA &amp;amp;lt; 39), respectively. Associations for exposures in Trimesters 1 and 2 were mixed but clearly more detrimental in Trimester 1. The likelihood of early delivery increased with daily exposure to extreme temperatures after 27 weeks. Conclusion Future work should seek to elucidate the underlying mechanisms and to validate these findings by using more recent diverse global data.</description>
     </item>
     <item>
-      <title>Cohort Profile: The European Occupational Exposome Mega Cohort Consortium (OMega-X)</title>
-      <link>https://doi.org/10.1093/ije/dyag151</link>
-      <guid isPermaLink="false">10.1093/ije/dyag151</guid>
-
-      <dc:creator>Michelle C Turner</dc:creator>
-      <dc:creator>Anjoeka Pronk</dc:creator>
-      <dc:creator>Hanifa Bouziri</dc:creator>
-      <dc:creator>Ute Bültmann</dc:creator>
-      <dc:creator>Daniel Falkstedt</dc:creator>
-      <dc:creator>Anne Helene Garde</dc:creator>
-      <dc:creator>Henrik A Kolstad</dc:creator>
-      <dc:creator>Steinar Krokstad</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Michelle C Turner, Anjoeka Pronk, Hanifa Bouziri, Ute Bültmann, Daniel Falkstedt, Anne Helene Garde, Henrik A Kolstad, Steinar Krokstad, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag151</description>
-    </item>
-    <item>
       <title>Response rates and representativeness from birth to young adulthood in a Swedish birth cohort</title>
       <link>https://doi.org/10.1093/ije/dyag196</link>
       <guid isPermaLink="false">10.1093/ije/dyag196</guid>
@@ -1089,6 +1071,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag196
 
 Abstract: Abstract Background In birth-cohort studies, response rates generally decline over time. We aimed to evaluate representativeness and identify predictors of retention up to young adulthood in a population-based birth cohort originally focused on asthma and allergies. Methods The Barn/Child, Allergy, Milieu, Stockholm, Epidemiology (BAMSE) birth cohort was established in 1994–6 in Stockholm, Sweden. We utilized data from questionnaires and Swedish registers to compare the characteristics of participants at age 24 years (n = 3064) with those of the original cohort (n = 4089) and the general population born in 1994–6 in Stockholm county (n = 68 378) and Sweden (n = 310 976). Logistic regression was used to identify predictors of retention at age 24 years. Results The response rate declined over time and was higher in females than in males in adolescence and young adulthood (80.0% versus 70.0% at age 24 years). Compared with the original cohort, participants at age 24 years more often had dispensed asthma medications (6.6% versus 5.8%) and university education (52.6% versus 47.8%), but had less often a mother who smoked during pregnancy (9.6% versus 10.8%). Similar patterns were observed in comparisons with the general population. Female sex [odds ratio (OR) 1.75, 95% confidence interval (CI) 1.49–2.05] and high parental education (OR 1.33, 95% CI 1.12–1.59) were the predominant predictors of retention in the cohort. Conclusion Female sex, higher socio-economic status, and asthma were predictive factors of retention in the cohort after 24 years. This may have influenced the observed prevalence rates of asthma and allergies, and associations between potential risk factors and outcomes associated with retention.</description>
+    </item>
+    <item>
+      <title>Cohort Profile: The European Occupational Exposome Mega Cohort Consortium (OMega-X)</title>
+      <link>https://doi.org/10.1093/ije/dyag151</link>
+      <guid isPermaLink="false">10.1093/ije/dyag151</guid>
+
+      <dc:creator>Michelle C Turner</dc:creator>
+      <dc:creator>Anjoeka Pronk</dc:creator>
+      <dc:creator>Hanifa Bouziri</dc:creator>
+      <dc:creator>Ute Bültmann</dc:creator>
+      <dc:creator>Daniel Falkstedt</dc:creator>
+      <dc:creator>Anne Helene Garde</dc:creator>
+      <dc:creator>Henrik A Kolstad</dc:creator>
+      <dc:creator>Steinar Krokstad</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michelle C Turner, Anjoeka Pronk, Hanifa Bouziri, Ute Bültmann, Daniel Falkstedt, Anne Helene Garde, Henrik A Kolstad, Steinar Krokstad, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag151</description>
     </item>
     <item>
       <title>Data Resource Profile: Medicines in Acute and Chronic Care in Scotland (MACCS)</title>
@@ -1620,26 +1620,6 @@ Abstract: Abstract Background Low birthweight (LBW) is a major concern for child
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag118</description>
     </item>
     <item>
-      <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
-      <link>https://doi.org/10.1093/ije/dyag094</link>
-      <guid isPermaLink="false">10.1093/ije/dyag094</guid>
-
-      <dc:creator>Elisabeth Aiton</dc:creator>
-      <dc:creator>Maria Carolina Borges</dc:creator>
-      <dc:creator>Ana Gonçalves Soares</dc:creator>
-      <dc:creator>Gemma L Clayton</dc:creator>
-      <dc:creator>Tom A Bond</dc:creator>
-      <dc:creator>Qian Yang</dc:creator>
-      <dc:creator>Maria C Magnus</dc:creator>
-      <dc:creator>Deborah A Lawlor</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elisabeth Aiton, Maria Carolina Borges, Ana Gonçalves Soares, Gemma L Clayton, Tom A Bond, Qian Yang, Maria C Magnus, Deborah A Lawlor, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag094
-
-Abstract: Abstract Background Observational studies have suggested that a younger age at menarche is associated with increased risks of adverse pregnancy and perinatal outcomes. However, it is unclear whether these relationships are causal. Methods We estimated the associations between age at menarche and 13 pre-specified pregnancy outcomes by using two approaches. We estimated observational associations in the Avon Longitudinal Study of Parents and Children (N = 9441) using multivariable regression accounting for educational attainment, ethnicity, maternal age, parity, offspring sex, and adiposity. We conducted two-sample Mendelian randomization (MR) using data from the Mendelian Randomization in Pregnancy (MR-PREG) collaboration (77 683–707 797 pregnancies) and multivariable MR (MVMR) accounting for genetically-proxied adiposity. Results Older age at menarche was associated with lower risks of hypertensive disorders of pregnancy, gestational hypertension, and preeclampsia, but accounting for adiposity attenuated these effects across approaches. For example, per 1-year older age at menarche, the odds ratio (OR) for hypertensive disorders of pregnancy was 0.88 (95% confidence interval (CI) : 0.84, 0.93) in inverse variance weighted MR and 0.95 (95% CI: 0.90, 1.01) in MVMR, while the observational association attenuated from OR = 0.91 (95% CI: 0.87, 0.94) to OR = 0.97 (95% CI: 0.93, 1.01). No clear evidence was found for the effects of age at menarche on small-for-gestational-age, low birthweight, post-term birth, or perinatal depression from either approach. For other outcomes evidence was limited by imprecision (very preterm birth, gestational diabetes) or inconsistent effects in sensitivity analyses (offspring birthweight, large-for-gestational-age, high birthweight, preterm birth). Conclusion We find little robust evidence for causal effects of age at menarche on pregnancy outcomes. Effects of younger menarche on increased risks of hypertensive disorders of pregnancy may be driven by adiposity.</description>
-    </item>
-    <item>
       <title>Effect of offering colonoscopy at the faecal immunochemical test (FIT) positivity threshold: a regression discontinuity analysis in older adults</title>
       <link>https://doi.org/10.1093/ije/dyag109</link>
       <guid isPermaLink="false">10.1093/ije/dyag109</guid>
@@ -1674,6 +1654,38 @@ Abstract: Abstract Background Colorectal cancer (CRC) screening programmes often
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag140</description>
     </item>
     <item>
+      <title>Age at menarche and adverse pregnancy and perinatal outcomes: triangulating evidence from multivariable and Mendelian randomization analyses</title>
+      <link>https://doi.org/10.1093/ije/dyag094</link>
+      <guid isPermaLink="false">10.1093/ije/dyag094</guid>
+
+      <dc:creator>Elisabeth Aiton</dc:creator>
+      <dc:creator>Maria Carolina Borges</dc:creator>
+      <dc:creator>Ana Gonçalves Soares</dc:creator>
+      <dc:creator>Gemma L Clayton</dc:creator>
+      <dc:creator>Tom A Bond</dc:creator>
+      <dc:creator>Qian Yang</dc:creator>
+      <dc:creator>Maria C Magnus</dc:creator>
+      <dc:creator>Deborah A Lawlor</dc:creator>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elisabeth Aiton, Maria Carolina Borges, Ana Gonçalves Soares, Gemma L Clayton, Tom A Bond, Qian Yang, Maria C Magnus, Deborah A Lawlor, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag094
+
+Abstract: Abstract Background Observational studies have suggested that a younger age at menarche is associated with increased risks of adverse pregnancy and perinatal outcomes. However, it is unclear whether these relationships are causal. Methods We estimated the associations between age at menarche and 13 pre-specified pregnancy outcomes by using two approaches. We estimated observational associations in the Avon Longitudinal Study of Parents and Children (N = 9441) using multivariable regression accounting for educational attainment, ethnicity, maternal age, parity, offspring sex, and adiposity. We conducted two-sample Mendelian randomization (MR) using data from the Mendelian Randomization in Pregnancy (MR-PREG) collaboration (77 683–707 797 pregnancies) and multivariable MR (MVMR) accounting for genetically-proxied adiposity. Results Older age at menarche was associated with lower risks of hypertensive disorders of pregnancy, gestational hypertension, and preeclampsia, but accounting for adiposity attenuated these effects across approaches. For example, per 1-year older age at menarche, the odds ratio (OR) for hypertensive disorders of pregnancy was 0.88 (95% confidence interval (CI) : 0.84, 0.93) in inverse variance weighted MR and 0.95 (95% CI: 0.90, 1.01) in MVMR, while the observational association attenuated from OR = 0.91 (95% CI: 0.87, 0.94) to OR = 0.97 (95% CI: 0.93, 1.01). No clear evidence was found for the effects of age at menarche on small-for-gestational-age, low birthweight, post-term birth, or perinatal depression from either approach. For other outcomes evidence was limited by imprecision (very preterm birth, gestational diabetes) or inconsistent effects in sensitivity analyses (offspring birthweight, large-for-gestational-age, high birthweight, preterm birth). Conclusion We find little robust evidence for causal effects of age at menarche on pregnancy outcomes. Effects of younger menarche on increased risks of hypertensive disorders of pregnancy may be driven by adiposity.</description>
+    </item>
+    <item>
+      <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
+      <link>https://doi.org/10.1093/ije/dyag136</link>
+      <guid isPermaLink="false">10.1093/ije/dyag136</guid>
+
+      <dc:creator>Marco A Peres</dc:creator>
+      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag136</description>
+    </item>
+    <item>
       <title>Acute maternal stress in pregnancy and cardiovascular risk factors in adolescent offspring: a birth-cohort study</title>
       <link>https://doi.org/10.1093/ije/dyag111</link>
       <guid isPermaLink="false">10.1093/ije/dyag111</guid>
@@ -1692,18 +1704,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag111
 
 Abstract: Abstract Background Cardiometabolic risk factors are major contributors to poor health outcomes and premature mortality. While the effect of prenatal exposure to stress on cardiometabolic outcomes has been examined, the findings remain inconsistent across studies, and even more so with regard to the timing of exposure. In the present study, we aimed to explore the association of short-term prenatal exposure to the acute stress of the 1967 Six-Day War with cardiovascular and anthropometric risk factors in adolescent offspring. Methods Using a population-based birth cohort, we examined data from 61 237 offspring born in Jerusalem during 1964–76, linked to their military-draft records at age 17 years. These provided information on those exposed to acute prenatal stress and the timing of exposure within the pregnancy (N = 2471) as well as on height, weight, heart rate (HR), and blood pressure (BP) in adolescence. Linear regression models estimated the associations between prenatal stress and measurements at age 17 years, controlling for potential confounders. Results Prenatal exposure to acute stress was associated with increased systolic blood pressure (SBP) and diastolic blood pressure (DBP) [SBP: B = 1.85, 95% confidence interval (CI): 1.15, 2.56; DBP: B = 1.89, 95% CI: 1.40, 2.38] and a decreased HR (B = –1.39, CI: –1.88, –0.91) but not with anthropometric outcomes. Furthermore, gestational age at exposure modified these associations: the associations with DBP and mean arterial pressure tended to increase and with HR to decrease the later the exposure occurred during the pregnancy. Conclusion Findings suggest that acute maternal stress during pregnancy is associated with cardiovascular risk factors in offspring in adolescence and is modulated by the timing of the exposure.</description>
-    </item>
-    <item>
-      <title>Big data, small thinking: the risks of algorithmic epidemiology</title>
-      <link>https://doi.org/10.1093/ije/dyag136</link>
-      <guid isPermaLink="false">10.1093/ije/dyag136</guid>
-
-      <dc:creator>Marco A Peres</dc:creator>
-      <dc:creator>Jose Leopoldo F Antunes</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco A Peres, Jose Leopoldo F Antunes
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag136</description>
     </item>
   </channel>
 </rss>
