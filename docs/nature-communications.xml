@@ -5,8 +5,39 @@
     <link>https://www.nature.com/ncomms/</link>
     <description>Latest journal articles for Nature Communications</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:27:21 +0000</lastBuildDate>
 
+    <item>
+      <title>Plant invasions are associated with lower community stability at multiple spatial scales</title>
+      <link>https://doi.org/10.1038/s41467-026-78617-3</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78617-3</guid>
+
+      <dc:creator>Rongxu Shan</dc:creator>
+      <dc:creator>Mingyan Hu</dc:creator>
+      <dc:creator>Zilong Ma</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rongxu Shan, Mingyan Hu, Zilong Ma
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Targeting MDA5 induces immunogenic cell death and promotes anti-tumor immunity</title>
+      <link>https://doi.org/10.1038/s41467-026-78587-6</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78587-6</guid>
+
+      <dc:creator>Zhitong Niu</dc:creator>
+      <dc:creator>Bing Cheng</dc:creator>
+      <dc:creator>Yue Jiang</dc:creator>
+      <dc:creator>Yingzhen Weng</dc:creator>
+      <dc:creator>Qian Xiao</dc:creator>
+      <dc:creator>Guojie Long</dc:creator>
+      <dc:creator>Chaoying Wei</dc:creator>
+      <dc:creator>Qiufeng Liu</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zhitong Niu, Bing Cheng, Yue Jiang, Yingzhen Weng, Qian Xiao, Guojie Long, Chaoying Wei, Qiufeng Liu, et al.
+
+Journal: Nature Communications</description>
+    </item>
     <item>
       <title>A method quantifying soil melanin to understand fungal impacts on soil carbon stability</title>
       <link>https://doi.org/10.1038/s41467-026-78616-4</link>
@@ -69,6 +100,18 @@ Journal: Nature Communications</description>
       <dc:creator>Xun Wang</dc:creator>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
       <description>Authors: Yuan Huang, Zhenyu Ren, Yijian Gao, Haoyang Li, Hai Xiao, Qingda Liu, Xun Wang
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>ETSAM: effectively segmenting cell membranes in cryo-electron tomograms</title>
+      <link>https://doi.org/10.1038/s41467-026-77962-7</link>
+      <guid isPermaLink="false">10.1038/s41467-026-77962-7</guid>
+
+      <dc:creator>Joel Selvaraj</dc:creator>
+      <dc:creator>Jianlin Cheng</dc:creator>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Joel Selvaraj, Jianlin Cheng
 
 Journal: Nature Communications</description>
     </item>
@@ -510,6 +553,43 @@ Journal: Nature Communications
 Abstract: Abstract Sensory inputs reach cortical and subcortical areas in parallel, but how they coordinate to guide decisions remains unknown. We examined the roles of the primary somatosensory cortex (S1) and the superior colliculus (SC) in mice performing whisker-mediated tactile detection. While inactivating S1 contralateral to the stimulus increased detection threshold, inactivating ipsilateral S1 decreased it. These opposing effects reflected shifts in choice bias rather than sensitivity. Unilateral SC inactivation produced similar directional effects, whereas bilateral inactivation of either S1 or SC neutralized bias. Furthermore, SC lesions impaired detection performance, and combined S1 inactivation caused no further impairment, indicating that S1-mediated shifts in bias were SC-dependent. S1 inactivation also decreased sensory-evoked neural activity in SC, and choice decoding revealed that behavioral impairment was more closely associated with changes in SC population activity than with loss of sensory encoding in S1. Thus, S1 shapes perceptual bias by modulating SC-dependent circuits that transform sensory evidence into perceptual decisions.</description>
     </item>
     <item>
+      <title>Multi-model collaborative early warning for battery systems with integrated fiber optic sensors</title>
+      <link>https://doi.org/10.1038/s41467-026-78461-5</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78461-5</guid>
+
+      <dc:creator>Jiangong Zhu</dc:creator>
+      <dc:creator>Chao Yu</dc:creator>
+      <dc:creator>Yi Jiang</dc:creator>
+      <dc:creator>Wolfgang Schade</dc:creator>
+      <dc:creator>Martin Angelmahr</dc:creator>
+      <dc:creator>Xuezhe Wei</dc:creator>
+      <dc:creator>Haifeng Dai</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jiangong Zhu, Chao Yu, Yi Jiang, Wolfgang Schade, Martin Angelmahr, Xuezhe Wei, Haifeng Dai
+
+Journal: Nature Communications
+
+Abstract: Abstract The safety assessment of battery systems is constrained by sparse temperature measurements and monolithic diagnostic frameworks in conventional battery management systems (BMS). To address this, we propose a multi-model collaborative thermal-runaway early-warning framework using distributed temperature sensing. An integrated sensing scheme increases temperature sensing points within the battery pack from 32 to 540 with minimal wiring complexity and is validated in real-world vehicle operation. We establish a functional relationship between temperature Shannon entropy (SE) and average temperature variation to derive a dynamic warning boundary incorporating error tolerance. Integrating this boundary with thresholds for temperature, temperature change rate, and SE change rate enables collaborative early warning. Compared with conventional BMS warning benchmarks, the framework provides maximum warning lead times of 706 s in laboratory modules and 554 s in real-world vehicle operation. These findings demonstrate the potential of distributed sensing and collaborative diagnostics for proactive thermal-runaway risk identification.</description>
+    </item>
+    <item>
+      <title>De novo design of miniprotein inhibitors of bacterial adhesins</title>
+      <link>https://doi.org/10.1038/s41467-026-78123-6</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78123-6</guid>
+
+      <dc:creator>Adam M. Chazin-Gray</dc:creator>
+      <dc:creator>Tuscan R. Thompson</dc:creator>
+      <dc:creator>Edward D. B. Lopatto</dc:creator>
+      <dc:creator>Pearl Magala</dc:creator>
+      <dc:creator>Patrick W. Erickson</dc:creator>
+      <dc:creator>Andrew C. Hunt</dc:creator>
+      <dc:creator>Anna Manchenko</dc:creator>
+      <dc:creator>Pavel Aprikian</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Adam M. Chazin-Gray, Tuscan R. Thompson, Edward D. B. Lopatto, Pearl Magala, Patrick W. Erickson, Andrew C. Hunt, Anna Manchenko, Pavel Aprikian, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
       <title>Environmentally Relevant Concentrations of Nanomaterials Drive Photochemical Production of Reactive Species and Pollutant Degradation in Surface Waters</title>
       <link>https://doi.org/10.1038/s41467-026-78433-9</link>
       <guid isPermaLink="false">10.1038/s41467-026-78433-9</guid>
@@ -538,43 +618,6 @@ Journal: Nature Communications</description>
       <description>Authors: Brianna M. Doratt, Sheridan B. Wagner, Katelyn E. Keen, Uriel Avila, Oleg Varlamov, Ilhem Messaoudi
 
 Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>De novo design of miniprotein inhibitors of bacterial adhesins</title>
-      <link>https://doi.org/10.1038/s41467-026-78123-6</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78123-6</guid>
-
-      <dc:creator>Adam M. Chazin-Gray</dc:creator>
-      <dc:creator>Tuscan R. Thompson</dc:creator>
-      <dc:creator>Edward D. B. Lopatto</dc:creator>
-      <dc:creator>Pearl Magala</dc:creator>
-      <dc:creator>Patrick W. Erickson</dc:creator>
-      <dc:creator>Andrew C. Hunt</dc:creator>
-      <dc:creator>Anna Manchenko</dc:creator>
-      <dc:creator>Pavel Aprikian</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Adam M. Chazin-Gray, Tuscan R. Thompson, Edward D. B. Lopatto, Pearl Magala, Patrick W. Erickson, Andrew C. Hunt, Anna Manchenko, Pavel Aprikian, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Multi-model collaborative early warning for battery systems with integrated fiber optic sensors</title>
-      <link>https://doi.org/10.1038/s41467-026-78461-5</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78461-5</guid>
-
-      <dc:creator>Jiangong Zhu</dc:creator>
-      <dc:creator>Chao Yu</dc:creator>
-      <dc:creator>Yi Jiang</dc:creator>
-      <dc:creator>Wolfgang Schade</dc:creator>
-      <dc:creator>Martin Angelmahr</dc:creator>
-      <dc:creator>Xuezhe Wei</dc:creator>
-      <dc:creator>Haifeng Dai</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jiangong Zhu, Chao Yu, Yi Jiang, Wolfgang Schade, Martin Angelmahr, Xuezhe Wei, Haifeng Dai
-
-Journal: Nature Communications
-
-Abstract: Abstract The safety assessment of battery systems is constrained by sparse temperature measurements and monolithic diagnostic frameworks in conventional battery management systems (BMS). To address this, we propose a multi-model collaborative thermal-runaway early-warning framework using distributed temperature sensing. An integrated sensing scheme increases temperature sensing points within the battery pack from 32 to 540 with minimal wiring complexity and is validated in real-world vehicle operation. We establish a functional relationship between temperature Shannon entropy (SE) and average temperature variation to derive a dynamic warning boundary incorporating error tolerance. Integrating this boundary with thresholds for temperature, temperature change rate, and SE change rate enables collaborative early warning. Compared with conventional BMS warning benchmarks, the framework provides maximum warning lead times of 706 s in laboratory modules and 554 s in real-world vehicle operation. These findings demonstrate the potential of distributed sensing and collaborative diagnostics for proactive thermal-runaway risk identification.</description>
     </item>
     <item>
       <title>Fluorine-free polymer binder enables circular manufacturing and recycling of lithium-ion batteries</title>
@@ -635,24 +678,6 @@ Abstract: Abstract How genomic changes translate into organismal novelties is of
 Journal: Nature Communications</description>
     </item>
     <item>
-      <title>Multi-omics profiling uncovers diagnostic biomarker panel, progression-associated subtypes, and prognostic signature in pediatric mitochondrial disease</title>
-      <link>https://doi.org/10.1038/s41467-026-78387-y</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78387-y</guid>
-
-      <dc:creator>Xiaoting Lou</dc:creator>
-      <dc:creator>Zhehui Chen</dc:creator>
-      <dc:creator>Yuwei Zhou</dc:creator>
-      <dc:creator>Keyi Li</dc:creator>
-      <dc:creator>Jieyu Feng</dc:creator>
-      <dc:creator>Ding Li</dc:creator>
-      <dc:creator>Ruowei Zhu</dc:creator>
-      <dc:creator>Peng Luo</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xiaoting Lou, Zhehui Chen, Yuwei Zhou, Keyi Li, Jieyu Feng, Ding Li, Ruowei Zhu, Peng Luo, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
       <title>Recognition and mechanism of M. tuberculosis cell wall galactan transport</title>
       <link>https://doi.org/10.1038/s41467-026-78496-8</link>
       <guid isPermaLink="false">10.1038/s41467-026-78496-8</guid>
@@ -685,6 +710,24 @@ Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 10646</des
       <dc:creator>Xinlei Zhang</dc:creator>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <description>Authors: Shizheng Wang, Fang Yang, Weiwei Zhao, Shijie Lang, Zhaofu Chen, Yinan Wang, Yutian Yang, Xinlei Zhang, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Multi-omics profiling uncovers diagnostic biomarker panel, progression-associated subtypes, and prognostic signature in pediatric mitochondrial disease</title>
+      <link>https://doi.org/10.1038/s41467-026-78387-y</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78387-y</guid>
+
+      <dc:creator>Xiaoting Lou</dc:creator>
+      <dc:creator>Zhehui Chen</dc:creator>
+      <dc:creator>Yuwei Zhou</dc:creator>
+      <dc:creator>Keyi Li</dc:creator>
+      <dc:creator>Jieyu Feng</dc:creator>
+      <dc:creator>Ding Li</dc:creator>
+      <dc:creator>Ruowei Zhu</dc:creator>
+      <dc:creator>Peng Luo</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xiaoting Lou, Zhehui Chen, Yuwei Zhou, Keyi Li, Jieyu Feng, Ding Li, Ruowei Zhu, Peng Luo, et al.
 
 Journal: Nature Communications</description>
     </item>
@@ -758,24 +801,22 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
-      <title>A co-evolved peptide-GPCR system senses host entry to drive fungal infection</title>
-      <link>https://doi.org/10.1038/s41467-026-78428-6</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78428-6</guid>
+      <title>The conformation-selective PI3Kδ inhibitor roginolisib in patients with advanced or metastatic cancer, including metastatic uveal melanoma: first-in-human clinical trial</title>
+      <link>https://doi.org/10.1038/s41467-026-77358-7</link>
+      <guid isPermaLink="false">10.1038/s41467-026-77358-7</guid>
 
-      <dc:creator>Gabriel Mendoza-Rojas</dc:creator>
-      <dc:creator>Philip Nakonz</dc:creator>
-      <dc:creator>Min Lu</dc:creator>
-      <dc:creator>Nora Marie Kühne</dc:creator>
-      <dc:creator>Johannes Postma</dc:creator>
-      <dc:creator>Naomi Shtakser</dc:creator>
-      <dc:creator>Max Heinen</dc:creator>
-      <dc:creator>Manav Patel</dc:creator>
+      <dc:creator>Anna Maria Di Giacomo</dc:creator>
+      <dc:creator>Matteo Simonelli</dc:creator>
+      <dc:creator>Agnese Losurdo</dc:creator>
+      <dc:creator>Pavlina Spiliopoulou</dc:creator>
+      <dc:creator>Vincenzo D’Alonzo</dc:creator>
+      <dc:creator>Giovanni Amato</dc:creator>
+      <dc:creator>Monica Valente</dc:creator>
+      <dc:creator>Hugo Barcenilla</dc:creator>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gabriel Mendoza-Rojas, Philip Nakonz, Min Lu, Nora Marie Kühne, Johannes Postma, Naomi Shtakser, Max Heinen, Manav Patel, et al.
+      <description>Authors: Anna Maria Di Giacomo, Matteo Simonelli, Agnese Losurdo, Pavlina Spiliopoulou, Vincenzo D’Alonzo, Giovanni Amato, Monica Valente, Hugo Barcenilla, et al.
 
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 10652
-
-Abstract: Abstract A successful infection requires pathogens to recognize the specific host environment in order to reprogram their physiology accordingly. One major way in which eukaryotic cells sense their surroundings is via G-Protein Coupled Receptors (GPCRs), which share a seven-transmembrane architecture and G-protein-mediated downstream signaling. While mammalian GPCRs are well-characterized and represent important drug targets, their fungal counterparts remain poorly understood. Here we uncover a GPCR-based mechanism that allows the corn pathogen Ustilago maydis to sense whether it has entered plant tissue. During infection, the fungus secretes the protein Pit2, which is cleaved by host apoplastic cysteine proteases, releasing a peptide ligand ‘hidden’ within the protein core. This ligand activates the fungal GPCR Gpe1, thus promoting fungal proliferation after initial host penetration. We elucidate the crystal structure of Pit2 and model the complex formed by Gpe1 and the Pit2-derived peptide. Structure-guided mutational analysis supports that disrupting this interaction reduces fungal virulence. The Gpe1/Pit2 system is conserved in related fungal species, with co-evolutionary signatures apparently preserving receptor-ligand specificity. Furthermore, this system shows mechanistic similarities to mammalian receptors, suggesting an evolutionary link between fungal and mammalian GPCRs.</description>
+Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 10219</description>
     </item>
     <item>
       <title>A cryptic binding pocket regulates the metal-dependent activity of Cas9</title>
@@ -798,22 +839,24 @@ Journal: Nature Communications
 Abstract: Abstract Cas9 is a metal-dependent nuclease used for genome editing across diverse cells and organisms exhibiting distinct ionic environments, yet how metal ions regulate its catalytic function, and consequently its editing efficiency remains unclear. Here, molecular simulations, Markov state models, and mixed quantum–classical approaches reveal that divalent metals promote activation of the catalytic HNH domain through formation of a divalent metal-binding pocket (DBP) at the HNH–RuvC interface. This cryptic pocket emerges dynamically during HNH activation and is supported by NMR measurements revealing metal-dependent structural perturbations within the HNH–L2 region. Mutations targeting the DBP disrupt HNH activation and impair the coupled catalytic activity of both nucleases, identifying the pocket as a key regulator of Cas9’s metal-dependent activity. Together with quantum–classical simulations revealing distinct catalytic behaviours among divalent metals, these findings uncover an ion-dependent regulatory mechanism in Cas9 with insights for genome editing across diverse biological environments.</description>
     </item>
     <item>
-      <title>The conformation-selective PI3Kδ inhibitor roginolisib in patients with advanced or metastatic cancer, including metastatic uveal melanoma: first-in-human clinical trial</title>
-      <link>https://doi.org/10.1038/s41467-026-77358-7</link>
-      <guid isPermaLink="false">10.1038/s41467-026-77358-7</guid>
+      <title>A co-evolved peptide-GPCR system senses host entry to drive fungal infection</title>
+      <link>https://doi.org/10.1038/s41467-026-78428-6</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78428-6</guid>
 
-      <dc:creator>Anna Maria Di Giacomo</dc:creator>
-      <dc:creator>Matteo Simonelli</dc:creator>
-      <dc:creator>Agnese Losurdo</dc:creator>
-      <dc:creator>Pavlina Spiliopoulou</dc:creator>
-      <dc:creator>Vincenzo D’Alonzo</dc:creator>
-      <dc:creator>Giovanni Amato</dc:creator>
-      <dc:creator>Monica Valente</dc:creator>
-      <dc:creator>Hugo Barcenilla</dc:creator>
+      <dc:creator>Gabriel Mendoza-Rojas</dc:creator>
+      <dc:creator>Philip Nakonz</dc:creator>
+      <dc:creator>Min Lu</dc:creator>
+      <dc:creator>Nora Marie Kühne</dc:creator>
+      <dc:creator>Johannes Postma</dc:creator>
+      <dc:creator>Naomi Shtakser</dc:creator>
+      <dc:creator>Max Heinen</dc:creator>
+      <dc:creator>Manav Patel</dc:creator>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Anna Maria Di Giacomo, Matteo Simonelli, Agnese Losurdo, Pavlina Spiliopoulou, Vincenzo D’Alonzo, Giovanni Amato, Monica Valente, Hugo Barcenilla, et al.
+      <description>Authors: Gabriel Mendoza-Rojas, Philip Nakonz, Min Lu, Nora Marie Kühne, Johannes Postma, Naomi Shtakser, Max Heinen, Manav Patel, et al.
 
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 10219</description>
+Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 10652
+
+Abstract: Abstract A successful infection requires pathogens to recognize the specific host environment in order to reprogram their physiology accordingly. One major way in which eukaryotic cells sense their surroundings is via G-Protein Coupled Receptors (GPCRs), which share a seven-transmembrane architecture and G-protein-mediated downstream signaling. While mammalian GPCRs are well-characterized and represent important drug targets, their fungal counterparts remain poorly understood. Here we uncover a GPCR-based mechanism that allows the corn pathogen Ustilago maydis to sense whether it has entered plant tissue. During infection, the fungus secretes the protein Pit2, which is cleaved by host apoplastic cysteine proteases, releasing a peptide ligand ‘hidden’ within the protein core. This ligand activates the fungal GPCR Gpe1, thus promoting fungal proliferation after initial host penetration. We elucidate the crystal structure of Pit2 and model the complex formed by Gpe1 and the Pit2-derived peptide. Structure-guided mutational analysis supports that disrupting this interaction reduces fungal virulence. The Gpe1/Pit2 system is conserved in related fungal species, with co-evolutionary signatures apparently preserving receptor-ligand specificity. Furthermore, this system shows mechanistic similarities to mammalian receptors, suggesting an evolutionary link between fungal and mammalian GPCRs.</description>
     </item>
     <item>
       <title>FtmOx1-catalyzed diverse C(sp3)-H oxyfunctionalization enables versatile late-stage diversification of phenethylamines and tetrahydroisoquinolines</title>
@@ -852,24 +895,6 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
-      <title>Precise polymerization of phenolic pollutants by a nanoconfined reactor with Fe-Mo dual-site</title>
-      <link>https://doi.org/10.1038/s41467-026-78258-6</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78258-6</guid>
-
-      <dc:creator>Yandong Chai</dc:creator>
-      <dc:creator>Zhongzheng Hu</dc:creator>
-      <dc:creator>Chaohui Zhang</dc:creator>
-      <dc:creator>Xueying Ren</dc:creator>
-      <dc:creator>Sijin Zuo</dc:creator>
-      <dc:creator>Xiuwu Zhang</dc:creator>
-      <dc:creator>Ruiheng Liang</dc:creator>
-      <dc:creator>Jingyang Liu</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yandong Chai, Zhongzheng Hu, Chaohui Zhang, Xueying Ren, Sijin Zuo, Xiuwu Zhang, Ruiheng Liang, Jingyang Liu, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
       <title>Consecutive waves of NODAL inhibition are required for epiblast patterning</title>
       <link>https://doi.org/10.1038/s41467-026-78248-8</link>
       <guid isPermaLink="false">10.1038/s41467-026-78248-8</guid>
@@ -890,6 +915,24 @@ Journal: Nature Communications
 Abstract: Abstract The mouse genome encodes two Lefty genes that antagonize NODAL signaling to break symmetry during gastrulation. Despite their central regulatory role, accurately describing and comparing their embryonic function remains unclear. Here, we generated high replicate powered single-cell transcriptional atlases of Lefty1 and Lefty2 mutant embryogenesis to evaluate the effects of perturbed NODAL signaling during gastrulation. We find that both mutants exhibit phenotypes beginning with the earliest primitive streak derivatives, suggesting a sequential shift from anterior Lefty1 to posterior Lefty2-based control that prevents spurious differentiation into extraembryonic and axial mesoendoderm at the cost of embryonic mesoderm and, in the case of Lefty1, rostral forebrain specification. By phasing bulk SMAD2/3 ChIP-seq data into single-cell-resolved descriptions of signal transduction, we identify distinct NODAL-responsive modules that track the context-specific use of this morphogen over gastrulation time. Collectively, our work highlights the potential of single-cell assays to decode how complex differentiation processes resolve morphogen signals in space and time.</description>
     </item>
     <item>
+      <title>Precise polymerization of phenolic pollutants by a nanoconfined reactor with Fe-Mo dual-site</title>
+      <link>https://doi.org/10.1038/s41467-026-78258-6</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78258-6</guid>
+
+      <dc:creator>Yandong Chai</dc:creator>
+      <dc:creator>Zhongzheng Hu</dc:creator>
+      <dc:creator>Chaohui Zhang</dc:creator>
+      <dc:creator>Xueying Ren</dc:creator>
+      <dc:creator>Sijin Zuo</dc:creator>
+      <dc:creator>Xiuwu Zhang</dc:creator>
+      <dc:creator>Ruiheng Liang</dc:creator>
+      <dc:creator>Jingyang Liu</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yandong Chai, Zhongzheng Hu, Chaohui Zhang, Xueying Ren, Sijin Zuo, Xiuwu Zhang, Ruiheng Liang, Jingyang Liu, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
       <title>CROSS: A cross-species chromosome substitution platform for dissecting chromosome architecture and activity</title>
       <link>https://doi.org/10.1038/s41467-026-78244-y</link>
       <guid isPermaLink="false">10.1038/s41467-026-78244-y</guid>
@@ -908,20 +951,20 @@ Abstract: Abstract The mouse genome encodes two Lefty genes that antagonize NODA
 Journal: Nature Communications</description>
     </item>
     <item>
-      <title>Freezing-induced solid-liquid microphase separation for self-assembly of functional nucleic acid nanoparticles</title>
-      <link>https://doi.org/10.1038/s41467-026-78488-8</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78488-8</guid>
+      <title>Resistance indicators in sewage microbiota mirror clinical antibiotic use with temporal lag linked to host</title>
+      <link>https://doi.org/10.1038/s41467-026-78142-3</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78142-3</guid>
 
-      <dc:creator>Tao Zeng</dc:creator>
-      <dc:creator>Jiahui Fang</dc:creator>
-      <dc:creator>Jian Hao</dc:creator>
-      <dc:creator>Xiuping Cao</dc:creator>
-      <dc:creator>Shiqing Li</dc:creator>
-      <dc:creator>Shiyan Bai</dc:creator>
-      <dc:creator>Jiaying Chen</dc:creator>
-      <dc:creator>Chunsen Li</dc:creator>
+      <dc:creator>C. L. Brown</dc:creator>
+      <dc:creator>MA. Rumi</dc:creator>
+      <dc:creator>L. McDaniel</dc:creator>
+      <dc:creator>A. Maile-Moskowitz</dc:creator>
+      <dc:creator>J. Sein</dc:creator>
+      <dc:creator>L. Nguyen</dc:creator>
+      <dc:creator>M. Choi</dc:creator>
+      <dc:creator>F. Hindi</dc:creator>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tao Zeng, Jiahui Fang, Jian Hao, Xiuping Cao, Shiqing Li, Shiyan Bai, Jiaying Chen, Chunsen Li, et al.
+      <description>Authors: C. L. Brown, MA. Rumi, L. McDaniel, A. Maile-Moskowitz, J. Sein, L. Nguyen, M. Choi, F. Hindi, et al.
 
 Journal: Nature Communications</description>
     </item>
@@ -944,20 +987,20 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
-      <title>Resistance indicators in sewage microbiota mirror clinical antibiotic use with temporal lag linked to host</title>
-      <link>https://doi.org/10.1038/s41467-026-78142-3</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78142-3</guid>
+      <title>Freezing-induced solid-liquid microphase separation for self-assembly of functional nucleic acid nanoparticles</title>
+      <link>https://doi.org/10.1038/s41467-026-78488-8</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78488-8</guid>
 
-      <dc:creator>C. L. Brown</dc:creator>
-      <dc:creator>MA. Rumi</dc:creator>
-      <dc:creator>L. McDaniel</dc:creator>
-      <dc:creator>A. Maile-Moskowitz</dc:creator>
-      <dc:creator>J. Sein</dc:creator>
-      <dc:creator>L. Nguyen</dc:creator>
-      <dc:creator>M. Choi</dc:creator>
-      <dc:creator>F. Hindi</dc:creator>
+      <dc:creator>Tao Zeng</dc:creator>
+      <dc:creator>Jiahui Fang</dc:creator>
+      <dc:creator>Jian Hao</dc:creator>
+      <dc:creator>Xiuping Cao</dc:creator>
+      <dc:creator>Shiqing Li</dc:creator>
+      <dc:creator>Shiyan Bai</dc:creator>
+      <dc:creator>Jiaying Chen</dc:creator>
+      <dc:creator>Chunsen Li</dc:creator>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: C. L. Brown, MA. Rumi, L. McDaniel, A. Maile-Moskowitz, J. Sein, L. Nguyen, M. Choi, F. Hindi, et al.
+      <description>Authors: Tao Zeng, Jiahui Fang, Jian Hao, Xiuping Cao, Shiqing Li, Shiyan Bai, Jiaying Chen, Chunsen Li, et al.
 
 Journal: Nature Communications</description>
     </item>
@@ -1010,6 +1053,24 @@ Journal: Nature Communications
 Abstract: Abstract Eliminating platinum group metals from cathode catalysts in low-temperature polymer electrolyte fuel cells is highly important for addressing the sustainability challenge fuel cell systems face. Here, we propose modifying the electronic structure of Li-intercalated layered Mn-oxide as a cathode catalyst to overcome the activity/stability tradeoff in anion exchange membrane fuel cells. To achieve this goal, we deploy a precious metal free catalyst design strategy involving atomically dispersed p -block metal Sn doped in Li 2 MnO 3 , in addition to d -block metals, which has been poorly explored in the research thus far. Operando X-ray absorption spectroscopy and rapid freeze-quench 119 Sn Mössbauer methodology are employed to visualize the catalytic dynamics, revealing that part of Mn 4+ ions are converted into Mn 3+ ions, whereas Sn 4+ ions remain unchanged during the oxygen reduction reaction. Under H 2 /O 2 conditions, anion exchange membrane fuel cells employing Li 2 Mn 0.9 Sn 0.1 O 3 cathodes achieve peak power densities above 1.0 W cm -2 geo and 3.96 W mg -1 Pt . This work demonstrates the beneficial modulation of the electronic structure through p -block metal substitution in earth-abundant Mn-enriched oxide materials.</description>
     </item>
     <item>
+      <title>A cross-layer 2D photodetection framework for standardized readout and signal fusion</title>
+      <link>https://doi.org/10.1038/s41467-026-78380-5</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78380-5</guid>
+
+      <dc:creator>Ximing Sun</dc:creator>
+      <dc:creator>Xiangkai Liu</dc:creator>
+      <dc:creator>Jinxiu Liu</dc:creator>
+      <dc:creator>Yuxin Wang</dc:creator>
+      <dc:creator>Xin Lu</dc:creator>
+      <dc:creator>Peng Wang</dc:creator>
+      <dc:creator>Minmin Zhao</dc:creator>
+      <dc:creator>Yuhang Xu</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ximing Sun, Xiangkai Liu, Jinxiu Liu, Yuxin Wang, Xin Lu, Peng Wang, Minmin Zhao, Yuhang Xu, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
       <title>Photocluster catalytic oxidation enabled by structurally precise copper-hydride nanoclusters</title>
       <link>https://doi.org/10.1038/s41467-026-78511-y</link>
       <guid isPermaLink="false">10.1038/s41467-026-78511-y</guid>
@@ -1042,24 +1103,6 @@ Journal: Nature Communications</description>
       <dc:creator>Marcello Salvi</dc:creator>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <description>Authors: Lorenzo Vaccaro, Rosa De Santis, Francesco Panariello, Antonio Grimaldi, Gennaro Gandolfo, Mirella Massa, Tonya Fusco, Marcello Salvi, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>A cross-layer 2D photodetection framework for standardized readout and signal fusion</title>
-      <link>https://doi.org/10.1038/s41467-026-78380-5</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78380-5</guid>
-
-      <dc:creator>Ximing Sun</dc:creator>
-      <dc:creator>Xiangkai Liu</dc:creator>
-      <dc:creator>Jinxiu Liu</dc:creator>
-      <dc:creator>Yuxin Wang</dc:creator>
-      <dc:creator>Xin Lu</dc:creator>
-      <dc:creator>Peng Wang</dc:creator>
-      <dc:creator>Minmin Zhao</dc:creator>
-      <dc:creator>Yuhang Xu</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ximing Sun, Xiangkai Liu, Jinxiu Liu, Yuxin Wang, Xin Lu, Peng Wang, Minmin Zhao, Yuhang Xu, et al.
 
 Journal: Nature Communications</description>
     </item>
@@ -1114,6 +1157,24 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
+      <title>MACF1 condensates serve as molecular rheostats translating mechanical stress into bone adaptation</title>
+      <link>https://doi.org/10.1038/s41467-026-78420-0</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78420-0</guid>
+
+      <dc:creator>Kang Ru</dc:creator>
+      <dc:creator>Long Zhao</dc:creator>
+      <dc:creator>Xingrong Li</dc:creator>
+      <dc:creator>Yuwen Liu</dc:creator>
+      <dc:creator>Qiyu Yan</dc:creator>
+      <dc:creator>Hailing Yang</dc:creator>
+      <dc:creator>Yan Zhang</dc:creator>
+      <dc:creator>Zijiao Li</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kang Ru, Long Zhao, Xingrong Li, Yuwen Liu, Qiyu Yan, Hailing Yang, Yan Zhang, Zijiao Li, et al.
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
       <title>pH-responsive manganese carboxymethyl chitosan hydrogel releases pesticide to promote rice tillering and suppress root-parasitic weeds</title>
       <link>https://doi.org/10.1038/s41467-026-78320-3</link>
       <guid isPermaLink="false">10.1038/s41467-026-78320-3</guid>
@@ -1132,24 +1193,6 @@ Journal: Nature Communications</description>
 Journal: Nature Communications
 
 Abstract: Abstract Strigolactone (SL) signaling is an important agricultural target for controlling plant branching and parasitic weeds. Here, based on the SL inhibitor KK094, we describe the design of 32 indole derivatives, of which DK6 exhibits optimal activity. To enhance solubility and bioavailability, we describe a pH-responsive manganese-coordinated carboxymethyl chitosan hydrogel (CMCS-DK6), showing sustained release under alkaline conditions. We demonstrate CMCS-DK6 strongly inhibits germination of parasitic weeds, especially Striga asiatica (IC 50 = 1.80 μM), while promoting rice tillering, reducing height, and increasing dry weight. Molecular simulations, along with microscale thermophoresis results, suggest that DK6 binds stably to SL receptors. Transcriptomics reveal DK6 suppresses SL signaling, modulates metabolic pathways, and interacts with hormone pathways to regulate tillering. This work offers a hydrogel delivery strategy and some potential mechanistic implications for improving crop architecture and weed control.</description>
-    </item>
-    <item>
-      <title>MACF1 condensates serve as molecular rheostats translating mechanical stress into bone adaptation</title>
-      <link>https://doi.org/10.1038/s41467-026-78420-0</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78420-0</guid>
-
-      <dc:creator>Kang Ru</dc:creator>
-      <dc:creator>Long Zhao</dc:creator>
-      <dc:creator>Xingrong Li</dc:creator>
-      <dc:creator>Yuwen Liu</dc:creator>
-      <dc:creator>Qiyu Yan</dc:creator>
-      <dc:creator>Hailing Yang</dc:creator>
-      <dc:creator>Yan Zhang</dc:creator>
-      <dc:creator>Zijiao Li</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kang Ru, Long Zhao, Xingrong Li, Yuwen Liu, Qiyu Yan, Hailing Yang, Yan Zhang, Zijiao Li, et al.
-
-Journal: Nature Communications</description>
     </item>
     <item>
       <title>Human-specific morphoregulatory signatures in basal radial glia characterise neocortex evolution</title>
@@ -1172,21 +1215,6 @@ Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 10651
 Abstract: Abstract As the seat of our cognition, the human neocortex is an object of immense fascination. Human neocortex expansion during evolution has been attributed to an increase in the proliferative capacity of neural progenitor cells during development, particularly basal radial glia. Despite their evolutionary relevance, the genomic changes driving human basal radial glia biology remain uncharacterised. We use comparative chromatin and transcriptional profiling of neural progenitor cells isolated from gorilla, chimpanzee and human cerebral organoids to identify cis-regulatory elements that have gained activity in humans. Focusing specifically on basal radial glia, we discover that morphoregulatory enhancer activity and gene expression signatures distinguish human basal radial glia from other great apes. Functional analysis of the morphoregulatory genes FAM107A and CNGA3 in human organoids reveals that these genes contribute to the morphological complexity of human basal radial glia. Taken together, our inter-species comparison of basal radial glia suggests that human-specific morphoregulatory signatures characterise neocortex evolution.</description>
     </item>
     <item>
-      <title>High-throughput spatial proteomics from cellular to subcellular scales via a hanging droplet workflow</title>
-      <link>https://doi.org/10.1038/s41467-026-78415-x</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78415-x</guid>
-
-      <dc:creator>Hao Chen</dc:creator>
-      <dc:creator>Ulises H. Guzman</dc:creator>
-      <dc:creator>Jesper V. Olsen</dc:creator>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hao Chen, Ulises H. Guzman, Jesper V. Olsen
-
-Journal: Nature Communications
-
-Abstract: Abstract Formalin-fixed paraffin-embedded (FFPE) samples are central for clinical research and spatial proteomics (SP), yet liquid chromatography-mass spectrometry (LC-MS) remains challenging due to protein extraction losses, evaporation during decrosslinking, and inefficient sample preparation. Current methods often involve complex protocols or specialized equipment, limiting scalability, throughput, and proteome depth. We present a streamlined micro-FFPE proteomics protocol for laser-capture microdissection (LMD) that enables high-throughput processing in a 96-well format, completing the workflow from tissue lysis to LC-MS-ready tryptic peptides on Evotips in just 2-hours. By integrating whole-slide imaging, LMD, and narrow-window data-independent acquisition mass spectrometry (nDIA-MS), our approach optimizes lysis, decrosslinking, and digestion within nano-wells leveraging the hanging droplet concept. This design minimizes surface adsorption, enhances sample processing efficiency, reduces preparation time by ~30% compared with reference methods, and enables parallel handling of up to 192 samples with standard equipment. This enables the quantification of &amp;gt;5,500 protein groups (PGs) from 50,000 µm² regions (~250 cells), with robust performance down to 1000 µm2 (~5 cells) with ~2,500 PGs identified. Application to breast cancer (BC) tissue resolves BC subtypes and microenvironments via biomarkers (TP53, HER2, PR). Even from ~60 µm² regions of single nuclei identify ~1,800 protein groups, enabling microscale spatial proteomics approaching near-organelle resolution.</description>
-    </item>
-    <item>
       <title>Landscape transcriptomics reveals ecological constraints on fish under anthropogenic coastal change</title>
       <link>https://doi.org/10.1038/s41467-026-77751-2</link>
       <guid isPermaLink="false">10.1038/s41467-026-77751-2</guid>
@@ -1205,6 +1233,21 @@ Abstract: Abstract Formalin-fixed paraffin-embedded (FFPE) samples are central f
 Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 10218
 
 Abstract: Abstract Urban zones are rapidly expanding worldwide, exposing organisms to complex and multidimensional stressors. However, linking organismal responses to environmental change at ecologically relevant scales remains a major challenge. To investigate the constraints imposed on fish living in coastal urban environments, we apply a landscape-scale framework to identify molecular signatures associated with human activities. Using transcriptomes from a common coral reef fish, Chrysiptera cyanea , sampled across 18 coastal sites in Okinawa, Japan, we implement scalable analytical and visualisation tools and identify coordinated shifts in metabolic, immune, and inflammatory pathways. By integrating field data with a fasting-feeding experiment, we find that transcriptomes of adult fish from urbanised sites resemble those of well-fed experimental fish, suggesting that these areas provide an energy-rich diet while imposing chronic stress. Our findings reveal how anthropogenic activities reshape organismal resilience and demonstrate the power of landscape transcriptomics as a link between molecular signatures and ecological outcomes across changing environments.</description>
+    </item>
+    <item>
+      <title>High-throughput spatial proteomics from cellular to subcellular scales via a hanging droplet workflow</title>
+      <link>https://doi.org/10.1038/s41467-026-78415-x</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78415-x</guid>
+
+      <dc:creator>Hao Chen</dc:creator>
+      <dc:creator>Ulises H. Guzman</dc:creator>
+      <dc:creator>Jesper V. Olsen</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hao Chen, Ulises H. Guzman, Jesper V. Olsen
+
+Journal: Nature Communications
+
+Abstract: Abstract Formalin-fixed paraffin-embedded (FFPE) samples are central for clinical research and spatial proteomics (SP), yet liquid chromatography-mass spectrometry (LC-MS) remains challenging due to protein extraction losses, evaporation during decrosslinking, and inefficient sample preparation. Current methods often involve complex protocols or specialized equipment, limiting scalability, throughput, and proteome depth. We present a streamlined micro-FFPE proteomics protocol for laser-capture microdissection (LMD) that enables high-throughput processing in a 96-well format, completing the workflow from tissue lysis to LC-MS-ready tryptic peptides on Evotips in just 2-hours. By integrating whole-slide imaging, LMD, and narrow-window data-independent acquisition mass spectrometry (nDIA-MS), our approach optimizes lysis, decrosslinking, and digestion within nano-wells leveraging the hanging droplet concept. This design minimizes surface adsorption, enhances sample processing efficiency, reduces preparation time by ~30% compared with reference methods, and enables parallel handling of up to 192 samples with standard equipment. This enables the quantification of &amp;gt;5,500 protein groups (PGs) from 50,000 µm² regions (~250 cells), with robust performance down to 1000 µm2 (~5 cells) with ~2,500 PGs identified. Application to breast cancer (BC) tissue resolves BC subtypes and microenvironments via biomarkers (TP53, HER2, PR). Even from ~60 µm² regions of single nuclei identify ~1,800 protein groups, enabling microscale spatial proteomics approaching near-organelle resolution.</description>
     </item>
     <item>
       <title>Periodontal pathogen Tannerella forsythia promotes liver fibrosis via ICAM-1⁺ neutrophil–dependent hepatic stellate cell activation</title>
@@ -1368,24 +1411,6 @@ Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 9974
 Abstract: Abstract Forested Guinea has been the site of multiple high-consequence viral spillover events, including the index case of the 2013-16 West African Ebola epidemic. Deforestation and wildlife hunting rapidly expand the human-animal interface, increasing opportunities for transmission. Here we integrate serologic, spatial and questionnaire data to characterize zoonotic filovirus spillover events and risk factors amongst wildlife hunter communities in Forested Guinea. Hunters and close contacts from 43 villages in 2017 ( n = 511) and 2023 ( n = 648) were screened using a multiplex microsphere-based immunoassay panel of 9 filoviruses, identifying IgG binding against Ebola virus (EBOV) in 57/1159 individuals (4.9%), as well as species-specific binding against Bundibugyo (BDBV) (49/1159, 4.2%), Taï Forest (TAFV) (13/1159, 1.1%), Reston (4/1159, 0.3%), Měnglà (MLAV) (8/1159, 0.7%), Lloviu (LLOV) (8/1159, 0.7%) and Bombali (BOMV) (1/1159, 0.1%) viruses. Parallel pseudotyped virus neutralization assays identified species-specific neutralization of EBOV, BDBV and TAFV, as well as likely cross-neutralization of BOMV, LLOV and MLAV, suggesting multiple zoonotic virus spillover events. Mixed-effects regression analyses of satellite-derived land-cover data identified environmental risk factors (including forest fragmentation) reflecting potential pathways of exposure. Together, our data suggest multiple ongoing zoonotic filovirus spillover events in wildlife hunting communities and highlight the importance of landscape configuration in driving pathogen spillover.</description>
     </item>
     <item>
-      <title>Systematic comparison of affinity plasma proteomic technologies across multiple cohorts reveals generalizability of proteomic prediction</title>
-      <link>https://doi.org/10.1038/s41467-026-78443-7</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78443-7</guid>
-
-      <dc:creator>Anthony Barente</dc:creator>
-      <dc:creator>Zijie Zhao</dc:creator>
-      <dc:creator>Zhili Zheng</dc:creator>
-      <dc:creator>Chun Wu</dc:creator>
-      <dc:creator>Kritika Singh</dc:creator>
-      <dc:creator>Zhaoqing Wang</dc:creator>
-      <dc:creator>Aisling O’Hara Hall</dc:creator>
-      <dc:creator>Laurence Menard</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Anthony Barente, Zijie Zhao, Zhili Zheng, Chun Wu, Kritika Singh, Zhaoqing Wang, Aisling O’Hara Hall, Laurence Menard, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
       <title>Immune genetic associations of antibody Fc-profiles across twins</title>
       <link>https://doi.org/10.1038/s41467-026-76882-w</link>
       <guid isPermaLink="false">10.1038/s41467-026-76882-w</guid>
@@ -1400,6 +1425,24 @@ Journal: Nature Communications</description>
       <dc:creator>Galit Alter</dc:creator>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <description>Authors: Tomer Zohar, Remziye E. Wessel, Audrey L. Butler, Massimo Mangino, Sam Wadge, Tim D. Spector, Douglas A. Lauffenburger, Galit Alter
+
+Journal: Nature Communications</description>
+    </item>
+    <item>
+      <title>Systematic comparison of affinity plasma proteomic technologies across multiple cohorts reveals generalizability of proteomic prediction</title>
+      <link>https://doi.org/10.1038/s41467-026-78443-7</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78443-7</guid>
+
+      <dc:creator>Anthony Barente</dc:creator>
+      <dc:creator>Zijie Zhao</dc:creator>
+      <dc:creator>Zhili Zheng</dc:creator>
+      <dc:creator>Chun Wu</dc:creator>
+      <dc:creator>Kritika Singh</dc:creator>
+      <dc:creator>Zhaoqing Wang</dc:creator>
+      <dc:creator>Aisling O’Hara Hall</dc:creator>
+      <dc:creator>Laurence Menard</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Anthony Barente, Zijie Zhao, Zhili Zheng, Chun Wu, Kritika Singh, Zhaoqing Wang, Aisling O’Hara Hall, Laurence Menard, et al.
 
 Journal: Nature Communications</description>
     </item>
@@ -1478,6 +1521,20 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
+      <title>Reward function compression facilitates goal-dependent reinforcement learning</title>
+      <link>https://doi.org/10.1038/s41467-026-78295-1</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78295-1</guid>
+
+      <dc:creator>Gaia Molinaro</dc:creator>
+      <dc:creator>Anne G. E. Collins</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gaia Molinaro, Anne G. E. Collins
+
+Journal: Nature Communications
+
+Abstract: Abstract Humans can uniquely assign value to novel, abstract outcomes to support reinforcement learning. However, this flexibility is cognitively costly and reduces learning efficiency. We propose that goal-dependent learning initially relies on capacity-limited working memory. With consistent experience, learners create a compressed reward function — a simplified rule — that transfers to long-term memory for automatic evaluation upon receiving feedback. This automaticity frees working memory resources, thereby boosting learning efficiency. Across six experiments, we demonstrate that learning is impaired by the size of the goal space but improves when this space allows for compression. Additionally, faster reward processing correlates with better learning. Although the algorithmic details remain to be established, computational modeling revealed that individual differences in compression efficiency, proxied by reward processing speed, led to higher choice accuracy. Together, our behavioral results and computational models suggest that efficient goal-directed learning relies on compressing complex goals into stable reward functions.</description>
+    </item>
+    <item>
       <title>SWI/SNF subunit SMARCD1 deficiency promotes clear cell renal cell carcinoma progression via mitochondrial reprogramming</title>
       <link>https://doi.org/10.1038/s41467-026-78285-3</link>
       <guid isPermaLink="false">10.1038/s41467-026-78285-3</guid>
@@ -1494,20 +1551,6 @@ Journal: Nature Communications</description>
       <description>Authors: Waikeong Un, Chunlin Hao, Zhihua Wang, Daoyun Sun, Kaiyin Song, Dan Deng, Le Li, Zhiquan Hu, et al.
 
 Journal: Nature Communications</description>
-    </item>
-    <item>
-      <title>Reward function compression facilitates goal-dependent reinforcement learning</title>
-      <link>https://doi.org/10.1038/s41467-026-78295-1</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78295-1</guid>
-
-      <dc:creator>Gaia Molinaro</dc:creator>
-      <dc:creator>Anne G. E. Collins</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gaia Molinaro, Anne G. E. Collins
-
-Journal: Nature Communications
-
-Abstract: Abstract Humans can uniquely assign value to novel, abstract outcomes to support reinforcement learning. However, this flexibility is cognitively costly and reduces learning efficiency. We propose that goal-dependent learning initially relies on capacity-limited working memory. With consistent experience, learners create a compressed reward function — a simplified rule — that transfers to long-term memory for automatic evaluation upon receiving feedback. This automaticity frees working memory resources, thereby boosting learning efficiency. Across six experiments, we demonstrate that learning is impaired by the size of the goal space but improves when this space allows for compression. Additionally, faster reward processing correlates with better learning. Although the algorithmic details remain to be established, computational modeling revealed that individual differences in compression efficiency, proxied by reward processing speed, led to higher choice accuracy. Together, our behavioral results and computational models suggest that efficient goal-directed learning relies on compressing complex goals into stable reward functions.</description>
     </item>
     <item>
       <title>A universal twist-slide coupling mechanism governs deformations of DNA, RNA, and RNA-DNA hybrid duplexes</title>
@@ -1566,24 +1609,6 @@ Journal: Nature Communications
 Abstract: Abstract Adaptive immune memory generated by bacterial toxin vaccination is well established, but whether bacterial toxins can also induce innate immune memory, or trained immunity (TI), remains unclear. Here, we show that bacterial toxins elicit TI through NLRP3 inflammasome activation both in vitro and in vivo in mice, and that this response is conserved in primary human macrophages. Stimulation with the CNF1 toxin induced an epigenetic remodeling, defining a TI-associated transcriptional signature. A targeted RNAi screen identified Bcl2a1 as a required mediator of TI, and epistasis analyses demonstrated that IL-1 signaling is essential for TI induction in macrophages. In our mouse sepsis model, toxin-induced TI enhanced host resistance and improved survival. These findings establish toxin-driven inflammasome activation as trigger of transient TI and demonstrate that this response enhance resistance during experimental bacterial sepsis.</description>
     </item>
     <item>
-      <title>Modulate adsorption via Co2+-O-Coδ+ asymmetric pairs toward efficient upcycling of plastic waste to commodity chemicals</title>
-      <link>https://doi.org/10.1038/s41467-026-77783-8</link>
-      <guid isPermaLink="false">10.1038/s41467-026-77783-8</guid>
-
-      <dc:creator>Xingchen Chang</dc:creator>
-      <dc:creator>Tao Yu</dc:creator>
-      <dc:creator>Han Wang</dc:creator>
-      <dc:creator>Jie Jiang</dc:creator>
-      <dc:creator>Dong Yan</dc:creator>
-      <dc:creator>Jinfa Chang</dc:creator>
-      <dc:creator>Yongcheng Jin</dc:creator>
-      <dc:creator>Yang Yang</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xingchen Chang, Tao Yu, Han Wang, Jie Jiang, Dong Yan, Jinfa Chang, Yongcheng Jin, Yang Yang, et al.
-
-Journal: Nature Communications</description>
-    </item>
-    <item>
       <title>Ethnicity, genomic ancestry, and HBV genotype in off-treatment outcomes following nucleos(t)ide analogue cessation: a prospective multicentre trial (COIN-B)</title>
       <link>https://doi.org/10.1038/s41467-026-78490-0</link>
       <guid isPermaLink="false">10.1038/s41467-026-78490-0</guid>
@@ -1602,24 +1627,22 @@ Journal: Nature Communications</description>
 Journal: Nature Communications</description>
     </item>
     <item>
-      <title>Bromide-mediated enhancement of far-UVC/peracetic acid process for selective micropollutant abatement</title>
-      <link>https://doi.org/10.1038/s41467-026-78410-2</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78410-2</guid>
+      <title>Modulate adsorption via Co2+-O-Coδ+ asymmetric pairs toward efficient upcycling of plastic waste to commodity chemicals</title>
+      <link>https://doi.org/10.1038/s41467-026-77783-8</link>
+      <guid isPermaLink="false">10.1038/s41467-026-77783-8</guid>
 
-      <dc:creator>Genying Zeng</dc:creator>
-      <dc:creator>Guoyu Li</dc:creator>
-      <dc:creator>Hou Wang</dc:creator>
-      <dc:creator>Chen Zhang</dc:creator>
-      <dc:creator>Qiang Chen</dc:creator>
-      <dc:creator>Qinyuan Tang</dc:creator>
-      <dc:creator>Tangshan Wu</dc:creator>
-      <dc:creator>Li Li</dc:creator>
+      <dc:creator>Xingchen Chang</dc:creator>
+      <dc:creator>Tao Yu</dc:creator>
+      <dc:creator>Han Wang</dc:creator>
+      <dc:creator>Jie Jiang</dc:creator>
+      <dc:creator>Dong Yan</dc:creator>
+      <dc:creator>Jinfa Chang</dc:creator>
+      <dc:creator>Yongcheng Jin</dc:creator>
+      <dc:creator>Yang Yang</dc:creator>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Genying Zeng, Guoyu Li, Hou Wang, Chen Zhang, Qiang Chen, Qinyuan Tang, Tangshan Wu, Li Li, et al.
+      <description>Authors: Xingchen Chang, Tao Yu, Han Wang, Jie Jiang, Dong Yan, Jinfa Chang, Yongcheng Jin, Yang Yang, et al.
 
-Journal: Nature Communications
-
-Abstract: Abstract Far‑ultraviolet 222 nm (UV 222 ) effectively activates oxidants to degrade organic micropollutants (OMPs) in advanced oxidation processes (AOPs), but its synergy and ecotoxicity with bromide (Br − ) are unclear. This study investigates the synergy of peracetic acid (PAA) and Br − by UV 222 (UV 222 -PB) for OMPs degradation. The system’s fluence-based rate constant for model pollutants (0.0159 cm 2 ·mJ −1 ) is 3.01 and 15.74 times that of UV 254 -PB and UV 365 -PB. Radical and theoretical analyses show that far‑ultraviolet strengthens the interaction between PAA and Br − , prolongs radical chains, and boosts organic radicals and reactive bromine species, dominating electron‑rich OMPs oxidation. Correlations of ln( k obs ) with vertical ionization potential and highest occupied molecular orbital energy for 10 OMPs confirm selective oxidation. UV 222 -PB performs robustly in various water matrices and shows low ecotoxicity in assays such as seed germination and zebrafish embryo. Life cycle assessment confirms its sustainability. These findings offer insights and guidance for UV 222 -based AOPs in brominated water treatment.</description>
+Journal: Nature Communications</description>
     </item>
     <item>
       <title>ATRX deficiency drives aberrant type I interferon signalling through cGAS-dependent transcriptional dysregulation</title>
@@ -1640,6 +1663,26 @@ Abstract: Abstract Far‑ultraviolet 222 nm (UV 222 ) effectively activates oxid
 Journal: Nature Communications
 
 Abstract: Abstract The X-linked α-thalassaemia intellectual disability syndrome (ATRX) protein is a chromatin remodeller involved in transcriptional regulation and genome stability. While the importance of ATRX in development and malignancy is well recognised, its role in innate immunity is less well defined. Here we describe three unrelated patients with ATR-X syndrome carrying missense mutations in the ATPase domain of ATRX, each manifesting features of severe inflammation accompanied by persistent upregulation of interferon-stimulated gene expression in whole blood. Studies in patient-derived cells, CRISPR-engineered fibroblasts and neuronal models demonstrate that ATRX loss-of-function mutations drive enhanced type I interferon signalling through a cGAS-dependent mechanism uncoupled from the DNA sensing activity of cGAS. Mechanistically, ATRX deficiency disrupts the chromatin distribution of DAXX and H3.3, with cGAS essential for the changes in nucleosome composition and gene expression mediated by loss of ATRX. Thus, our study highlights a link between ATRX dysfunction and inflammation involving a non-canonical role of cGAS.</description>
+    </item>
+    <item>
+      <title>Bromide-mediated enhancement of far-UVC/peracetic acid process for selective micropollutant abatement</title>
+      <link>https://doi.org/10.1038/s41467-026-78410-2</link>
+      <guid isPermaLink="false">10.1038/s41467-026-78410-2</guid>
+
+      <dc:creator>Genying Zeng</dc:creator>
+      <dc:creator>Guoyu Li</dc:creator>
+      <dc:creator>Hou Wang</dc:creator>
+      <dc:creator>Chen Zhang</dc:creator>
+      <dc:creator>Qiang Chen</dc:creator>
+      <dc:creator>Qinyuan Tang</dc:creator>
+      <dc:creator>Tangshan Wu</dc:creator>
+      <dc:creator>Li Li</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Genying Zeng, Guoyu Li, Hou Wang, Chen Zhang, Qiang Chen, Qinyuan Tang, Tangshan Wu, Li Li, et al.
+
+Journal: Nature Communications
+
+Abstract: Abstract Far‑ultraviolet 222 nm (UV 222 ) effectively activates oxidants to degrade organic micropollutants (OMPs) in advanced oxidation processes (AOPs), but its synergy and ecotoxicity with bromide (Br − ) are unclear. This study investigates the synergy of peracetic acid (PAA) and Br − by UV 222 (UV 222 -PB) for OMPs degradation. The system’s fluence-based rate constant for model pollutants (0.0159 cm 2 ·mJ −1 ) is 3.01 and 15.74 times that of UV 254 -PB and UV 365 -PB. Radical and theoretical analyses show that far‑ultraviolet strengthens the interaction between PAA and Br − , prolongs radical chains, and boosts organic radicals and reactive bromine species, dominating electron‑rich OMPs oxidation. Correlations of ln( k obs ) with vertical ionization potential and highest occupied molecular orbital energy for 10 OMPs confirm selective oxidation. UV 222 -PB performs robustly in various water matrices and shows low ecotoxicity in assays such as seed germination and zebrafish embryo. Life cycle assessment confirms its sustainability. These findings offer insights and guidance for UV 222 -based AOPs in brominated water treatment.</description>
     </item>
     <item>
       <title>Error semitransparent universal control of a bosonic logical qubit</title>
@@ -1744,61 +1787,6 @@ Journal: Nature Communications</description>
 Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 10408
 
 Abstract: Abstract Stochastic transport describes physical systems in which an initially structured distribution spreads under unresolved forcing, scattering, or heterogeneous media. Useful surrogates for such systems should be probabilistic, time-resolved, and able to represent non-Gaussian distributional structure. Generative diffusion models, which corrupt data with Gaussian noise and learn a reverse flow back to structured states, have these properties. Their noise schedules, however, are usually chosen heuristically: image and audio generation—the canonical use cases—provide no physical clock. In transport, by contrast, the variance, or mean-square displacement, is often known from macroscopic theory or empirical scaling even when the full distribution is not. Here we prescribe the forward noising rate as the time derivative of this variance, turning generative time into a calibrated transport clock. The variance path is enforced by construction, while the learned score field represents how non-Gaussian structure inherited from entrance data is smoothed along that path, requiring no intermediate-time physical transport data. For ballistic-to-diffusive transport in turbulent plasmas, the surrogate matches test-particle distributions, reproduces the laboratory-measured variance scale, and tracks the simulated kurtosis evolution without schedule tuning, enabling calibrated emulation and likelihood-based inference.</description>
-    </item>
-    <item>
-      <title>Contrasting plant trait strategies underpin ecosystem stability in temperate and alpine grasslands</title>
-      <link>https://doi.org/10.1038/s41467-026-78537-2</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78537-2</guid>
-
-      <dc:creator>Pu Yan</dc:creator>
-      <dc:creator>Nianpeng He</dc:creator>
-      <dc:creator>Changjin Cheng</dc:creator>
-      <dc:creator>Yonghui Wang</dc:creator>
-      <dc:creator>Enrique Valencia</dc:creator>
-      <dc:creator>Congcong Liu</dc:creator>
-      <dc:creator>Lawren Sack</dc:creator>
-      <dc:creator>Lin Jiang</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Pu Yan, Nianpeng He, Changjin Cheng, Yonghui Wang, Enrique Valencia, Congcong Liu, Lawren Sack, Lin Jiang
-
-Journal: Nature Communications
-
-Abstract: Abstract Plant functional traits are key drivers of ecosystem stability, yet the extent to which trait-stability relationships vary among different ecosystems remains poorly understood. Here, we provide a comparative analysis of trait-stability relationships across temperate and alpine grasslands. By integrating in situ measurements of plant functional traits to satellite-derived indices of ecosystem temporal stability, resistance, and resilience for the two types of grasslands in China, we find strikingly biome-dependent patterns. In temperate grasslands, where fast-growing, resource-acquisitive annuals are more prevalent, acquisitive strategies enhance ecosystem temporal stability and resistance. In contrast, in alpine grasslands where annuals are less common, these same strategies reduce ecosystem temporal stability and resistance, and perennial species with slow-growing, conservative traits play the stabilizing role. Ecosystem resilience, however, shows consistent positive responses to acquisitive traits in both grassland types. These patterns persist after accounting for the effects of plant diversity, climate and soil properties. Our findings challenge the conventional view that only conservative plant growth strategies promote ecosystem resistance and temporal stability, and instead highlight distinct pathways to stability across ecosystems—much like the many roads that once led to Rome.</description>
-    </item>
-    <item>
-      <title>Post-fabrication reconfiguration of hydrogels through thermodynamic asymmetry in dynamic chemistry</title>
-      <link>https://doi.org/10.1038/s41467-026-78292-4</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78292-4</guid>
-
-      <dc:creator>Davide Campagna</dc:creator>
-      <dc:creator>Diego Ciardi</dc:creator>
-      <dc:creator>Weixiang Chen</dc:creator>
-      <dc:creator>Andreas Walther</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Davide Campagna, Diego Ciardi, Weixiang Chen, Andreas Walther
-
-Journal: Nature Communications; Volume: 17; Issue: 1; Article number: 10574
-
-Abstract: Abstract Designing soft materials with adaptive properties requires internal chemical processes that enable reconfiguration across multiple system levels. Dynamic covalent chemistry has provided powerful routes to dynamic polymer networks, yet it is typically employed in an equilibrium-based manner where the identity of the dynamic bond remains unchanged. Here, we introduce thermodynamic asymmetry in dynamic covalent chemistry to enable the replacement of network-defining linkages after material formation, rather than their mere bond shuffling. For combinations of hydrazones and oximes, we demonstrate near-quantitative hydrazone-to-oxime exchange under aqueous conditions. Kinetic modeling elucidates that the exchange is dominated by a hydrolytic pathway with a non-trivial concentration dependence. This chemistry enables diverse reconfigurations within hydrogels after their initial synthesis, achieving near-complete replacement at material scale. Treating pre-formed hydrazone gels with functional alkoxyamines enables topological, mechanical, and functional reprogramming without network deconstruction. This work establishes thermodynamically biased dynamic covalent exchange as a generalizable principle for materials, surface functions, or self-assembling systems, illustrating how molecular reaction pathways can be harnessed to deterministically alter structural and functional identity.</description>
-    </item>
-    <item>
-      <title>Claudin-2 protects from enteropathogenic E. coli-infection and colitis by promoting crypt fetalization via β1-integrin/FAK/YAP signaling</title>
-      <link>https://doi.org/10.1038/s41467-026-78238-w</link>
-      <guid isPermaLink="false">10.1038/s41467-026-78238-w</guid>
-
-      <dc:creator>Balawant Kumar</dc:creator>
-      <dc:creator>Rizwan Ahmad</dc:creator>
-      <dc:creator>Geoffrey A. Talmon</dc:creator>
-      <dc:creator>Saurabh Kapur</dc:creator>
-      <dc:creator>David Oupicky</dc:creator>
-      <dc:creator>Punita Dhawan</dc:creator>
-      <dc:creator>Amar B. Singh</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Balawant Kumar, Rizwan Ahmad, Geoffrey A. Talmon, Saurabh Kapur, David Oupicky, Punita Dhawan, Amar B. Singh
-
-Journal: Nature Communications
-
-Abstract: Abstract Citrobacter rodentium ( Cra ) infection, a murine model of enteropathogenic Escherichia coli (EPEC) infection, induces crypt proliferation that potentially promotes mucosal healing and pathogen clearance, yet the underlying molecular mechanisms remain poorly understood. Cra infection upregulates claudin-2 (CLDN2), which has been proposed to facilitate pathogen clearance by enhancing Na⁺ flux and diarrhea. However, CLDN2 is dispensable for intestinal Na⁺ homeostasis. Here, we investigate whether Cra -induced CLDN2 protects against Cra -infection and colitis by regulating crypt proliferation. Using mice with intestinal epithelial-specific CLDN2 overexpression or deletion ( Cldn2 KO), we evaluate the role of CLDN2 in Cra colonization, inflammation, and epithelial regeneration. Organoid cultures assess epithelial-intrinsic mechanisms, while co-immunoprecipitation identifies CLDN2-associated signaling complexes. CLDN2 overexpression protects against Cra colonization and colitis, whereas Cldn2 KO mice exhibit increased bacterial burden, exacerbated inflammation, and impaired crypt proliferation. Mechanistically, CLDN2 promotes crypt fetal-like reprogramming (fetalization), which is suppressed in Cldn2 KO mice. Inhibiting EGFR-activation abolishes CLDN2 induction and phenocopies Cldn2 KO phenotype. Furthermore, CLDN2 promotes FAK and YAP activation by stabilizing the β1-integrin-FAK complex, thereby driving crypt fetalization. Collectively, these findings identify CLDN2 as a critical regulator of mucosal defense and epithelial regeneration through activation of the β1-integrin-FAK-YAP signaling axis, beyond its classical role in paracellular ion permeability.</description>
     </item>
   </channel>
 </rss>
