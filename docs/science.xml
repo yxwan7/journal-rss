@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:52:32 +0000</lastBuildDate>
 
     <item>
       <title>Wooden tool trove reveals Neanderthal domestic life</title>
@@ -268,26 +268,6 @@ Journal: Science; Volume: 394; Issue: 6820; Pages: 234-239
 Abstract: Large language models (LLMs) increasingly excel at mathematics tasks, but their unreliability limits their utility in mathematics research. A mitigation is to use LLMs to generate formal proofs in languages such as Lean, in which the compiler verifies every proof step. We present the first demonstration of this method’s value in solving open problems at scale. We built an artificial intelligence agent for formal proof search that autonomously resolved nine of 353 open Erdős problems, proved 44/492 On-Line Encyclopedia of Integer Sequences conjectures, and is being deployed in combinatorics, optimization, graph theory, algebraic geometry, and quantum optics research. Even a basic agent alternating LLM-based generation with Lean-based verification replicated the Erdős successes. These findings demonstrate the power of formal proof search as an enabler of autonomous mathematical discovery.</description>
     </item>
     <item>
-      <title>Wafer-scale low-symmetry graphene moiré superlattice for integrated quantum rectifiers</title>
-      <link>https://doi.org/10.1126/science.aeh3915</link>
-      <guid isPermaLink="false">10.1126/science.aeh3915</guid>
-
-      <dc:creator>Wenhao Tan</dc:creator>
-      <dc:creator>Jiuming Liu</dc:creator>
-      <dc:creator>Zhenhao Gong</dc:creator>
-      <dc:creator>Yunyu Hong</dc:creator>
-      <dc:creator>Hao Sheng</dc:creator>
-      <dc:creator>Haiyang Zhang</dc:creator>
-      <dc:creator>Zirui Wang</dc:creator>
-      <dc:creator>Shipeng Lu</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Wenhao Tan, Jiuming Liu, Zhenhao Gong, Yunyu Hong, Hao Sheng, Haiyang Zhang, Zirui Wang, Shipeng Lu, et al.
-
-Journal: Science; Volume: 394; Issue: 6820; Pages: 222-227
-
-Abstract: Low-symmetry materials unlock rich Berry curvature physics and anomalous transport phenomena that are forbidden in high-symmetry quantum systems through rigorous crystalline symmetry constraints. Current approaches rely on external fields or complex heterogeneous stacking to break crystalline symmetries, which hinders scalable device integration. In this work, we demonstrate surface premelting engineering to create wafer-scale low-symmetry graphene on germanium-110 [Ge(110)]. Controlled premelting forms striped germanium surface patterns that reduce graphene symmetry from D 6h to C 1v , producing a room-temperature nonlinear Hall conductivity of ~11 micrometers per volt per ohm. First-principles calculations attribute this to originating from overtilted massive Dirac cones of hybridized germanium bands and the graphene Dirac cone. Integrated nonlinear Hall rectifiers generate &amp;gt;20 millivolts of output from radio frequency input and drive commercial voltage boosters and light-emitting diodes, establishing a complementary metal-oxide semiconductor–compatible route toward wafer-scale nonlinear quantum devices.</description>
-    </item>
-    <item>
       <title>Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs</title>
       <link>https://doi.org/10.1126/science.aeb2986</link>
       <guid isPermaLink="false">10.1126/science.aeb2986</guid>
@@ -306,6 +286,26 @@ Abstract: Low-symmetry materials unlock rich Berry curvature physics and anomalo
 Journal: Science; Volume: 394; Issue: 6820; Article number: eaeb2986
 
 Abstract: The extraordinary lifespan variation in domestic dogs provides a natural experiment for testing how intrinsic rates of biological aging shape lifespan. Using 1640 methylomes from 894 dogs, we developed an epigenetic clock that predicted mortality and demonstrated that epigenetic aging is fastest early in life. At orthologs of human age-associated genes, dogs exhibited concordant age effects on promoter methylation, highlighting conserved remodeling of immune pathways. We found that larger and male dogs, which are shorter lived, exhibit accelerated molecular aging. Distinct epigenetic architectures mediated these effects: Sex-dependent methylation changes were concentrated on the X chromosome, whereas size-associated methylation was especially pronounced at transposable elements (TEs). These findings show that epigenetics reflects lifespan differences in dogs and identifies TEs as potential mediators of size-associated lifespan.</description>
+    </item>
+    <item>
+      <title>Wafer-scale low-symmetry graphene moiré superlattice for integrated quantum rectifiers</title>
+      <link>https://doi.org/10.1126/science.aeh3915</link>
+      <guid isPermaLink="false">10.1126/science.aeh3915</guid>
+
+      <dc:creator>Wenhao Tan</dc:creator>
+      <dc:creator>Jiuming Liu</dc:creator>
+      <dc:creator>Zhenhao Gong</dc:creator>
+      <dc:creator>Yunyu Hong</dc:creator>
+      <dc:creator>Hao Sheng</dc:creator>
+      <dc:creator>Haiyang Zhang</dc:creator>
+      <dc:creator>Zirui Wang</dc:creator>
+      <dc:creator>Shipeng Lu</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Wenhao Tan, Jiuming Liu, Zhenhao Gong, Yunyu Hong, Hao Sheng, Haiyang Zhang, Zirui Wang, Shipeng Lu, et al.
+
+Journal: Science; Volume: 394; Issue: 6820; Pages: 222-227
+
+Abstract: Low-symmetry materials unlock rich Berry curvature physics and anomalous transport phenomena that are forbidden in high-symmetry quantum systems through rigorous crystalline symmetry constraints. Current approaches rely on external fields or complex heterogeneous stacking to break crystalline symmetries, which hinders scalable device integration. In this work, we demonstrate surface premelting engineering to create wafer-scale low-symmetry graphene on germanium-110 [Ge(110)]. Controlled premelting forms striped germanium surface patterns that reduce graphene symmetry from D 6h to C 1v , producing a room-temperature nonlinear Hall conductivity of ~11 micrometers per volt per ohm. First-principles calculations attribute this to originating from overtilted massive Dirac cones of hybridized germanium bands and the graphene Dirac cone. Integrated nonlinear Hall rectifiers generate &amp;gt;20 millivolts of output from radio frequency input and drive commercial voltage boosters and light-emitting diodes, establishing a complementary metal-oxide semiconductor–compatible route toward wafer-scale nonlinear quantum devices.</description>
     </item>
     <item>
       <title>An AI agent emailed hundreds of researchers for help. It told us why</title>
@@ -565,19 +565,6 @@ Abstract: Sea-level rise (SLR) threatens terrestrial biodiversity, yet its spati
 Journal: Science; Volume: 394; Issue: 6820; Pages: 175-176</description>
     </item>
     <item>
-      <title>Climate policies neglect risks posed by legacy landfills</title>
-      <link>https://doi.org/10.1126/science.aem1978</link>
-      <guid isPermaLink="false">10.1126/science.aem1978</guid>
-
-      <dc:creator>Zhiping Zhang</dc:creator>
-      <dc:creator>William T. Sloan</dc:creator>
-      <dc:creator>Siming You</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Zhiping Zhang, William T. Sloan, Siming You
-
-Journal: Science; Volume: 394; Issue: 6820; Pages: 176-176</description>
-    </item>
-    <item>
       <title>New studies probe how menopause puts brain at risk</title>
       <link>https://doi.org/10.1126/science.aen0166</link>
       <guid isPermaLink="false">10.1126/science.aen0166</guid>
@@ -589,6 +576,19 @@ Journal: Science; Volume: 394; Issue: 6820; Pages: 176-176</description>
 Journal: Science; Volume: 394; Issue: 6820; Pages: 153-154
 
 Abstract: Shifts in blood proteins could point to ways to fight menopause “brain fog” and prevent later dementia</description>
+    </item>
+    <item>
+      <title>Climate policies neglect risks posed by legacy landfills</title>
+      <link>https://doi.org/10.1126/science.aem1978</link>
+      <guid isPermaLink="false">10.1126/science.aem1978</guid>
+
+      <dc:creator>Zhiping Zhang</dc:creator>
+      <dc:creator>William T. Sloan</dc:creator>
+      <dc:creator>Siming You</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zhiping Zhang, William T. Sloan, Siming You
+
+Journal: Science; Volume: 394; Issue: 6820; Pages: 176-176</description>
     </item>
     <item>
       <title>The human gut microbiome primes fever after vaccination</title>
@@ -831,23 +831,6 @@ Abstract: Menopause is an important biological transition with up to 72 symptoms
 Journal: Science; Volume: 394; Issue: 6819; Pages: 39-39</description>
     </item>
     <item>
-      <title>Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion</title>
-      <link>https://doi.org/10.1126/science.aed3065</link>
-      <guid isPermaLink="false">10.1126/science.aed3065</guid>
-
-      <dc:creator>Qiwen Gan</dc:creator>
-      <dc:creator>Wei Li</dc:creator>
-      <dc:creator>Rachel K. Lex</dc:creator>
-      <dc:creator>Zhe Ying</dc:creator>
-      <dc:creator>Slobodan Beronja</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Qiwen Gan, Wei Li, Rachel K. Lex, Zhe Ying, Slobodan Beronja
-
-Journal: Science; Volume: 394; Issue: 6819; Article number: eaed3065
-
-Abstract: Although tumor protein p53 ( TP53 ) mutations are among the most common lesions in epithelial cancers, how p53 loss drives unrestrained clonal expansion remains unclear. Working with mouse epidermis, we found that p53 suppresses clonal expansion by limiting progenitor self-renewal. Integrating chromatin immunoprecipitation sequencing, transcriptional analyses, and genetic screens, we identified a p53-dependent network controlling progenitor renewal and differentiation, in which secreted frizzled-related protein 1 ( Sfrp1 ), low-density lipoprotein receptor–related protein 1 ( Lrp1 ), and ubiquitin-specific peptidase 22 ( Usp22 ) were direct targets of p53 and the most genetically upstream components. Their suppression after p53 loss generated a radial gradient of Wnt activity across mutant clones. Genetic manipulation showed that a Wnt activity gradient, rather than uniform elevation, was associated with sustained clonal expansion. These findings identify spatial organization as a determinant of clonal behavior and a mechanism by which TP53 inactivation drives tissue colonization.</description>
-    </item>
-    <item>
       <title>Osteoarthritis as a vascular disease</title>
       <link>https://doi.org/10.1126/science.ael3784</link>
       <guid isPermaLink="false">10.1126/science.ael3784</guid>
@@ -876,6 +859,23 @@ Abstract: Hypertension worsens osteoarthritis and could be a therapeutic target 
 Journal: Science; Volume: 394; Issue: 6819; Pages: 113-117
 
 Abstract: Stationary entanglement between the motion of macroscopic objects and light is a long-standing goal of quantum optomechanics, with implications for both fundamental tests of quantum physics and emerging quantum technologies. We report the generation of quantum entanglement between the center-of-mass motion of a nanosphere levitated in an optical tweezer inside an optical cavity and the electromagnetic field. Using heterodyne detection, we reconstructed the full set of optomechanical correlations and observed a violation of separability bounds between the mechanical motion and a propagating optical mode, demonstrating the distribution of nonclassical correlations beyond the interaction region. The entanglement was generated at room temperature and remained robust over a broad range of parameters. Our results establish levitated optomechanical systems as a platform for continuous-variable quantum communication and for tests of macroscopic quantum physics.</description>
+    </item>
+    <item>
+      <title>Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion</title>
+      <link>https://doi.org/10.1126/science.aed3065</link>
+      <guid isPermaLink="false">10.1126/science.aed3065</guid>
+
+      <dc:creator>Qiwen Gan</dc:creator>
+      <dc:creator>Wei Li</dc:creator>
+      <dc:creator>Rachel K. Lex</dc:creator>
+      <dc:creator>Zhe Ying</dc:creator>
+      <dc:creator>Slobodan Beronja</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Qiwen Gan, Wei Li, Rachel K. Lex, Zhe Ying, Slobodan Beronja
+
+Journal: Science; Volume: 394; Issue: 6819; Article number: eaed3065
+
+Abstract: Although tumor protein p53 ( TP53 ) mutations are among the most common lesions in epithelial cancers, how p53 loss drives unrestrained clonal expansion remains unclear. Working with mouse epidermis, we found that p53 suppresses clonal expansion by limiting progenitor self-renewal. Integrating chromatin immunoprecipitation sequencing, transcriptional analyses, and genetic screens, we identified a p53-dependent network controlling progenitor renewal and differentiation, in which secreted frizzled-related protein 1 ( Sfrp1 ), low-density lipoprotein receptor–related protein 1 ( Lrp1 ), and ubiquitin-specific peptidase 22 ( Usp22 ) were direct targets of p53 and the most genetically upstream components. Their suppression after p53 loss generated a radial gradient of Wnt activity across mutant clones. Genetic manipulation showed that a Wnt activity gradient, rather than uniform elevation, was associated with sustained clonal expansion. These findings identify spatial organization as a determinant of clonal behavior and a mechanism by which TP53 inactivation drives tissue colonization.</description>
     </item>
     <item>
       <title>In Other Journals</title>
@@ -1534,26 +1534,6 @@ Journal: Science; Volume: 393; Issue: 6818; Pages: 1306-1307</description>
       <description>Journal: Science; Volume: 393; Issue: 6818; Article number: eaem2402</description>
     </item>
     <item>
-      <title>Prussian blue regulates ion dynamics in perovskite solar cells</title>
-      <link>https://doi.org/10.1126/science.aef5487</link>
-      <guid isPermaLink="false">10.1126/science.aef5487</guid>
-
-      <dc:creator>Fang Cao</dc:creator>
-      <dc:creator>Mengen Ma</dc:creator>
-      <dc:creator>Junjie Zhou</dc:creator>
-      <dc:creator>Fangwen Cheng</dc:creator>
-      <dc:creator>Zheng Dai</dc:creator>
-      <dc:creator>Linyuan Chen</dc:creator>
-      <dc:creator>Yuhao Hong</dc:creator>
-      <dc:creator>Di Tian</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fang Cao, Mengen Ma, Junjie Zhou, Fangwen Cheng, Zheng Dai, Linyuan Chen, Yuhao Hong, Di Tian, et al.
-
-Journal: Science; Volume: 393; Issue: 6818; Pages: 1329-1334
-
-Abstract: Perovskite photovoltaics are limited by structural instabilities initiated during crystallization and amplified under operation. We report that a lattice-matched Prussian blue scaffold directs heterogeneous nucleation to produce highly oriented, strain-relaxed films. Its redox-active Fe–C≡N–Fe network mediates the conversion of Pb 0 and I 0 defects, and its rigid open framework suppresses A-site cation redistribution and the resulting electronic inhomogeneity under bias. This strategy yielded champion power conversion efficiencies of 26.1% (n-i-p) and 26.9% (p-i-n; 26.2% certified), scaling to 23.4% in 6-centimeter–by–6-centimeter minimodules and a certified 22.9% in 30-centimeter–by–30-centimeter submodules. Submodules with initial power conversion efficiencies ranging from 20.2 to 21.0% showed robust durability under accelerated aging and no discernible decline relative to a silicon reference over 5 months of outdoor testing.</description>
-    </item>
-    <item>
       <title>Unlocking cycle life of lithium metal batteries</title>
       <link>https://doi.org/10.1126/science.aee1630</link>
       <guid isPermaLink="false">10.1126/science.aee1630</guid>
@@ -1572,6 +1552,26 @@ Abstract: Perovskite photovoltaics are limited by structural instabilities initi
 Journal: Science; Volume: 393; Issue: 6818; Article number: eaee1630
 
 Abstract: Lithium-ion Coulombic efficiency (Li CE) is widely used to evaluate interfacial stability and predict cycle life in lithium-ion batteries but fails in lithium-metal batteries (LMBs), in which higher Li CE does not reliably lead to longer cycle life. Here, we reveal that electrolyte depletion caused by unstable solid electrolyte interphases (SEIs) leads to electrolyte dry-out and induces lithium compensation through anode-to-cathode cross-talk, whereby soluble anionic species formed at the anode migrate to the cathode and release Li + from electrolyte salts upon oxidation. We establish quantitative relationships among SEI quality, electrolyte consumption, and lithium compensation, enabling accurate cycle life prediction. The SEI quality–based framework derives quantitative guidelines for electrolyte design to extend electrolyte lifetime and sustain long cycle life in high-energy LMBs under ultra-lean electrolyte conditions.</description>
+    </item>
+    <item>
+      <title>Prussian blue regulates ion dynamics in perovskite solar cells</title>
+      <link>https://doi.org/10.1126/science.aef5487</link>
+      <guid isPermaLink="false">10.1126/science.aef5487</guid>
+
+      <dc:creator>Fang Cao</dc:creator>
+      <dc:creator>Mengen Ma</dc:creator>
+      <dc:creator>Junjie Zhou</dc:creator>
+      <dc:creator>Fangwen Cheng</dc:creator>
+      <dc:creator>Zheng Dai</dc:creator>
+      <dc:creator>Linyuan Chen</dc:creator>
+      <dc:creator>Yuhao Hong</dc:creator>
+      <dc:creator>Di Tian</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fang Cao, Mengen Ma, Junjie Zhou, Fangwen Cheng, Zheng Dai, Linyuan Chen, Yuhao Hong, Di Tian, et al.
+
+Journal: Science; Volume: 393; Issue: 6818; Pages: 1329-1334
+
+Abstract: Perovskite photovoltaics are limited by structural instabilities initiated during crystallization and amplified under operation. We report that a lattice-matched Prussian blue scaffold directs heterogeneous nucleation to produce highly oriented, strain-relaxed films. Its redox-active Fe–C≡N–Fe network mediates the conversion of Pb 0 and I 0 defects, and its rigid open framework suppresses A-site cation redistribution and the resulting electronic inhomogeneity under bias. This strategy yielded champion power conversion efficiencies of 26.1% (n-i-p) and 26.9% (p-i-n; 26.2% certified), scaling to 23.4% in 6-centimeter–by–6-centimeter minimodules and a certified 22.9% in 30-centimeter–by–30-centimeter submodules. Submodules with initial power conversion efficiencies ranging from 20.2 to 21.0% showed robust durability under accelerated aging and no discernible decline relative to a silicon reference over 5 months of outdoor testing.</description>
     </item>
     <item>
       <title>2D theoretically twistable material database</title>
