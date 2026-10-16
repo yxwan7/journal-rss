@@ -5,8 +5,44 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:24:57 +0000</lastBuildDate>
 
+    <item>
+      <title>A Bayesian Approach to Estimating Changes in Small Area Life Expectancy Disparities in Philadelphia</title>
+      <link>https://doi.org/10.1093/aje/kwag262</link>
+      <guid isPermaLink="false">10.1093/aje/kwag262</guid>
+
+      <dc:creator>Giancarlo Anfuso</dc:creator>
+      <dc:creator>Harrison Quick</dc:creator>
+      <dc:creator>Alina Schnake-Mahl</dc:creator>
+      <dc:creator>Usama Bilal</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Giancarlo Anfuso, Harrison Quick, Alina Schnake-Mahl, Usama Bilal
+
+Journal: American Journal of Epidemiology; Article number: kwag262
+
+Abstract: Abstract There is substantial geographic variation in life expectancy (LE). The COVID-19 pandemic caused a mortality crisis, but it is unclear how small-area variations in LE changed during the pandemic. We estimated gender-specific LE by census tract in Philadelphia, Pennsylvania (2017–2019 and 2020–2022), and compared disparities in LE at birth before and during the pandemic. To account for small counts, we employed a Bayesian Poisson model borrowing strength from neighboring census tracts by using conditional autoregressive priors, and from known age-specific mortality patterns by using an adaptation of the TOPALS (tool for projecting age patterns using linear splines) method. We then summarized LE and computed total and income-based disparities in LE by period. The median [10th–90th percentile] change in LE during the pandemic was −2.10 [−5.39 to 0.40] and −1.37 [−3.23 to 0.39] years for men and women, respectively. Declines were concentrated in the same areas that had lower LE at baseline. We found widening disparities due to a steeper decline in LE in lower-income areas during the pandemic. Our study leveraged Bayesian models to produce reliable local-level estimates in small areas, highlighting the disparate impacts that the pandemic had on population health.</description>
+    </item>
+    <item>
+      <title>Classification Matters: Divergent Estimates of Dementia Risk Factors in the Health and Retirement Study</title>
+      <link>https://doi.org/10.1093/aje/kwag260</link>
+      <guid isPermaLink="false">10.1093/aje/kwag260</guid>
+
+      <dc:creator>Gina E Nam</dc:creator>
+      <dc:creator>Junxian Liu</dc:creator>
+      <dc:creator>Suhani Amin</dc:creator>
+      <dc:creator>Karla Renata Flores Romero</dc:creator>
+      <dc:creator>Zachary J Kunicki</dc:creator>
+      <dc:creator>M Maria Glymour</dc:creator>
+      <dc:creator>Kaitlin Casaletto</dc:creator>
+      <dc:creator>Jacqueline M Torres</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gina E Nam, Junxian Liu, Suhani Amin, Karla Renata Flores Romero, Zachary J Kunicki, M Maria Glymour, Kaitlin Casaletto, Jacqueline M Torres, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag260
+
+Abstract: Abstract Clinical dementia diagnosis requires substantial expertise and is complex and costly. Therefore, large population-based studies often lack gold-standard longitudinal diagnoses and instead use classification algorithms employing cognitive, functional, and health-related measures to identify dementia. We evaluated whether algorithm choice affects conclusions regarding dementia risk in the nationally representative Health and Retirement Study (HRS; 2010-2020). We constructed four algorithm-specific samples of participants age 70+ without dementia in 2010: Langa-Weir (n=6,498), Hudomiet (n=6,556), Expert (n=5,751), and Wu (n=5,935). Participants were followed until first dementia classification, death, or censoring. We estimated dementia incidence rates (IRs) and used adjusted Cox models to estimate hazard ratios (HRs) for known risk factors. Dementia IRs per 1000 person-years meaningfully varied across algorithms, from 26.5 (95% CI 24.5–28.5, Hudomiet) to 62.8 (59.9–65.8, Expert). Sociodemographic risk factor associations also varied substantially. HRs for education (&amp;amp;lt; vs. ≥high school) ranged from 1.36 (1.19–1.54, Hudomiet) to 2.22 (1.98–2.50, Langa-Weir), and HRs non-Hispanic Black vs. non-Hispanic White ranged from 1.86 (1.53–2.27, Expert) to 2.74 (2.40–3.12, Langa-Weir). Differences were less pronounced for health-related risk factors. In the absence of gold standard longitudinal diagnosis in HRS, researchers should examine the robustness of findings across multiple algorithms.</description>
+    </item>
     <item>
       <title>Those Confounded Examples</title>
       <link>https://doi.org/10.1093/aje/kwag256</link>
@@ -181,7 +217,7 @@ Abstract: Abstract We present a novel application of the SCCS method for estimat
       <description>Journal: American Journal of Epidemiology; Article number: kwag242</description>
     </item>
     <item>
-      <title>A response to Francis and Wesselink’s “measuring structural racism in neighborhoods”</title>
+      <title>A response to Francis and Wesselink’s “Measuring structural racism in neighborhoods”</title>
       <link>https://doi.org/10.1093/aje/kwag246</link>
       <guid isPermaLink="false">10.1093/aje/kwag246</guid>
 
@@ -428,6 +464,23 @@ Journal: American Journal of Epidemiology; Article number: kwag235
 Abstract: Abstract The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.</description>
     </item>
     <item>
+      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
+      <link>https://doi.org/10.1093/aje/kwag232</link>
+      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
+
+      <dc:creator>Fjorida Llaha</dc:creator>
+      <dc:creator>Yu-Han Chiu</dc:creator>
+      <dc:creator>Idlir Licaj</dc:creator>
+      <dc:creator>Tom Wilsgaard</dc:creator>
+      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
+
+Journal: American Journal of Epidemiology; Article number: kwag232
+
+Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
+    </item>
+    <item>
       <title>Rationale and design of the Atherosclerosis Risk in Communities Generation 2 study</title>
       <link>https://doi.org/10.1093/aje/kwag237</link>
       <guid isPermaLink="false">10.1093/aje/kwag237</guid>
@@ -446,23 +499,6 @@ Abstract: Abstract The aim of this study is to test the central claim of the “
 Journal: American Journal of Epidemiology; Article number: kwag237
 
 Abstract: Abstract Type 2 diabetes is a risk factor for cardiac arrhythmias, but it is unknown how specific aberrations in glucose (eg, episodes of high or low glucose) might contribute to the occurrence of heart rhythm abnormalities. The overarching goal of this study is to address research questions regarding how glucose patterns might contribute to the occurrence of arrhythmias, primarily atrial fibrillation, in adults with diabetes. To fulfill this goal, the Atherosclerosis Risk in Communities Generation 2 (ARIC Gen2) study recruited 507 community-dwelling adults aged 50-80 years with type 2 diabetes to wear continuous glucose monitoring (CGM) and electrocardiogram (ECG) “patch” monitoring sensors simultaneously for up to 14 days. Generation 2 study had high CGM and ECG completeness: The median wear time for sensors was 14 days and ~80% of participants wore both sensors for ≥10 days. By combining Gen2 and data from the original ongoing ARIC cohort (aged 80+), we have the capacity to conduct a comprehensive evaluation of the impact of CGM-defined glucose patterns on arrhythmias across a wide age spectrum from middle-aged to very old adults (aged 50-100) with type 2 diabetes. The findings from this study may help inform clinical strategies for the prevention and management of arrhythmias among adults with type 2 diabetes.</description>
-    </item>
-    <item>
-      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
-      <link>https://doi.org/10.1093/aje/kwag232</link>
-      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
-
-      <dc:creator>Fjorida Llaha</dc:creator>
-      <dc:creator>Yu-Han Chiu</dc:creator>
-      <dc:creator>Idlir Licaj</dc:creator>
-      <dc:creator>Tom Wilsgaard</dc:creator>
-      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
-
-Journal: American Journal of Epidemiology; Article number: kwag232
-
-Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
     </item>
     <item>
       <title>Contribution of adolescent movement behaviors to socioeconomic inequalities in adult cardiovascular disease risk: a causal decomposition in a population-based cohort</title>
@@ -647,6 +683,21 @@ Journal: American Journal of Epidemiology; Article number: kwag217
 Abstract: Abstract Participants who continue across the full duration of longitudinal studies often differ from those lost to attrition, defined as discontinuing participation for any reason, and some participants may sporadically miss assessments. Complex participation patterns, such as in multicenter chronic disease cohorts, have not been studied. We aimed to implement an approach to identify participation subgroups and factors associated with these. We applied our approach in the Scleroderma Patient-centered Intervention Network Cohort, a multicenter, longitudinal systemic sclerosis cohort, because it is an example of an open-ended cohort with no planned end date and complex participation patterns. We used group-based trajectory modeling to identify participation subgroups and multinomial logistic regression to identify predictors of subgroup membership. Data were obtained for 2883 participants from 54 sites in 7 countries. We identified 5 participation subgroups: Ongoing Participation (29%), Immediate Attrition (29%), Mid-Term Attrition (19%), Long-Term Attrition (12%), and Ongoing Sporadic (11%) participation. Older age and sites outside the United States were associated with lower odds of belonging to all subgroups other than Ongoing Participation. Compared to Ongoing Participation, several sociodemographic variables were associated with higher odds of being in the Immediate Attrition group. Our method can be applied to other cohorts with complex participation patterns.</description>
     </item>
     <item>
+      <title>In memoriam: Roger Allen Feldman 1931-2026</title>
+      <link>https://doi.org/10.1093/aje/kwag216</link>
+      <guid isPermaLink="false">10.1093/aje/kwag216</guid>
+
+      <dc:creator>David N Taylor</dc:creator>
+      <dc:creator>Claire V Broome</dc:creator>
+      <dc:creator>Martin J Blaser</dc:creator>
+      <dc:creator>David W Fraser</dc:creator>
+      <dc:creator>Paul A Blake</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: David N Taylor, Claire V Broome, Martin J Blaser, David W Fraser, Paul A Blake
+
+Journal: American Journal of Epidemiology; Article number: kwag216</description>
+    </item>
+    <item>
       <title>Cumulative layoffs in adulthood and cognitive function in mid-to-later life among US working-age adults, 1979-2020</title>
       <link>https://doi.org/10.1093/aje/kwag218</link>
       <guid isPermaLink="false">10.1093/aje/kwag218</guid>
@@ -663,21 +714,6 @@ Abstract: Abstract Participants who continue across the full duration of longitu
 Journal: American Journal of Epidemiology; Article number: kwag218
 
 Abstract: Abstract As one of the most disruptive life events, layoffs are pervasive in the US labor market, while little is known about cumulative layoff experience across adulthood in relation to subsequent cognitive function. We investigated the association between cumulative layoffs spanning 41 years of adulthood and subsequent domain-specific cognition among US working-age adults. Data were from 6421 adults in the National Longitudinal Survey of Youth 1979. Cumulative layoff experience was defined as the number of jobs ending in a layoff from 1979 to 2020: 0 (never, n = 4503), 1 (n = 1402), and ≥2 (n = 516). Domain-specific latent cognitive factor scores were assessed in 2020 using confirmatory factor analysis. Multivariable-adjusted linear regression models were fit to investigate the association of interest. Results suggest that cumulative layoff experience was associated with lower latent factor scores in episodic memory (β = −0.045, 95% CI, −0.100 to 0.010, 1 layoff vs. never; β = −0.086, 95% CI, −0.171 to −0.001, ≥2 layoffs vs. never; P trend = 0.037), but not in attention, orientation, or language domains. Given its ubiquity in the US labor market, layoffs may represent an important and understudied risk factor for episodic memory function among US adults.</description>
-    </item>
-    <item>
-      <title>In memoriam: Roger Allen Feldman 1931-2026</title>
-      <link>https://doi.org/10.1093/aje/kwag216</link>
-      <guid isPermaLink="false">10.1093/aje/kwag216</guid>
-
-      <dc:creator>David N Taylor</dc:creator>
-      <dc:creator>Claire V Broome</dc:creator>
-      <dc:creator>Martin J Blaser</dc:creator>
-      <dc:creator>David W Fraser</dc:creator>
-      <dc:creator>Paul A Blake</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: David N Taylor, Claire V Broome, Martin J Blaser, David W Fraser, Paul A Blake
-
-Journal: American Journal of Epidemiology; Article number: kwag216</description>
     </item>
     <item>
       <title>What happens to your manuscript: characteristics of papers published in volume 194 of the
@@ -1599,32 +1635,6 @@ Abstract: Abstract Sexual minority (SM) people may be at increased risk of “un
 Journal: American Journal of Epidemiology; Article number: kwag157
 
 Abstract: Abstract We study life expectancy loss (LEL) from the COVID-19 pandemic in the United States from March 2020 through April 2023. We use individual-level death-certificate data and the cohort-based approach to life expectancy. We also examine how LEL varies with age, gender, race/ethnicity, and county-level socioeconomic status (county-SES). The United States recorded 983 000 COVID-19 deaths. The COVID-19 mortality rate (the fraction of the population who died of COVID-19) was 0.30%. An upper bound estimate of years of life lost per person (YLL) is 14.6 years (thus population loss of 14.32 million life-years). Estimated LEL based on this YLL estimate is 0.043 years (16 days). However, LEL rose rapidly with age averaging 8 weeks for ages 75+. LEL was substantially higher for Native Americans, Blacks, and Hispanics than for Whites at all ages, but lower for Asians. LEL also increased as county-SES decreased. Our cohort-based LEL estimates are a small fraction of period-based estimates during the pandemic, which were based on mortality in a particular year and assumed the pandemic would continue indefinitely with no change in severity. Using current life expectancies, cohort-based LEL for the COVID-19 pandemic was a fraction of LEL for the 1918 influenza pandemic (14 weeks), but well above 3 recent, severe influenza seasons (average of 0.12 weeks).</description>
-    </item>
-    <item>
-      <title>Validation of a self-harm prediction model in Black youth seeking outpatient mental health care</title>
-      <link>https://doi.org/10.1093/aje/kwag162</link>
-      <guid isPermaLink="false">10.1093/aje/kwag162</guid>
-
-      <dc:creator>Carlisha Hall</dc:creator>
-      <dc:creator>Robert Wellman</dc:creator>
-      <dc:creator>Maricela Cruz</dc:creator>
-      <dc:creator>Susan M Shortreed</dc:creator>
-      <dc:creator>Gregory E Simon</dc:creator>
-      <dc:creator>Brian D Williamson</dc:creator>
-      <dc:creator>Rodney Yeargans</dc:creator>
-      <dc:creator>Brian K Ahmedani</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Carlisha Hall, Robert Wellman, Maricela Cruz, Susan M Shortreed, Gregory E Simon, Brian D Williamson, Rodney Yeargans, Brian K Ahmedani, et al.
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2651-2654</description>
-    </item>
-    <item>
-      <title>Correction to: Reduced risk of SARS-CoV-2 infection among household contacts with recent vaccination and past COVID-19 infection: results from 2 multisite case-ascertained household transmission studies</title>
-      <link>https://doi.org/10.1093/aje/kwag151</link>
-      <guid isPermaLink="false">10.1093/aje/kwag151</guid>
-
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2504-2504</description>
     </item>
   </channel>
 </rss>
