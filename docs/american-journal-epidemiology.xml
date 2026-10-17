@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:45:06 +0000</lastBuildDate>
 
     <item>
       <title>A Bayesian Approach to Estimating Changes in Small Area Life Expectancy Disparities in Philadelphia</title>
@@ -284,7 +284,7 @@ Abstract: Abstract Accurate tumor growth rate estimation is vital for linking di
 
 Journal: American Journal of Epidemiology; Article number: kwag245
 
-Abstract: Abstract Serology is increasingly used to monitor infection transmission and disease elimination. Embedding dried blood spot collection in trachoma surveys allows transmission intensity inference through population-level seroconversion rate (SCR) estimation, but no formal assessment of required sample size has been published. Using serology data from 40 trachoma prevalence surveys, we estimated seroprevalence intra-cluster correlation coefficient, a key design parameter, and assessed survey design considerations for incorporating serological monitoring. Design scenarios focused on proposed operational SCR thresholds (2.2 [no action needed] and 4.5 [action needed] per 100 child years) for interpretation of serological data in low-transmission and post-elimination settings. We evaluated SCR estimation in 42 two-stage designs by calculating precision (confidence interval width around an SCR value) and power (the measure of deviation of suggested thresholds to the SCR value). When the SCR is ≤1.5 and &amp;amp;gt;5.7 per 100 person-years, sample sizes between 300-2000 allowed good precision of SCR estimation. We anticipate a standard prevalence survey with 30 clusters and 30 households per cluster should provide ≥80% power to determine that an SCR ≤1.2 falls below a 2.2 threshold and SCR ≥5.7 falls above a 4.5 threshold. Our results support collection of serological data via the recommended survey design for trachoma surveillance.</description>
+Abstract: Abstract Serology is increasingly used to monitor infection transmission and disease elimination. Embedding dried blood spot collection in trachoma surveys allows transmission intensity inference through population-level seroconversion rate (SCR) estimation, but no formal assessment of required sample size has been published. Using serology data from 40 trachoma prevalence surveys, we estimated seroprevalence intracluster correlation coefficient, a key design parameter, and assessed survey design considerations for incorporating serological monitoring. Design scenarios focused on proposed operational SCR thresholds (2.2 [no action needed] and 4.5 [action needed] per 100 child years) for interpretation of serological data in low-transmission and post-elimination settings. We evaluated SCR estimation in 42 2-stage designs by calculating precision (CI width around an SCR value) and power (the measure of deviation of suggested thresholds to the SCR value). When the SCR is ≤1.5 and &amp;amp;gt;5.7 per 100 person-years, sample sizes between 300 and 2000 allowed good precision of SCR estimation. We anticipate a standard prevalence survey with 30 clusters and 30 households per cluster should provide ≥80% power to determine that an SCR ≤ 1.2 falls below a 2.2 threshold and SCR ≥ 5.7 falls above a 4.5 threshold. Our results support collection of serological data via the recommended survey design for trachoma surveillance.</description>
     </item>
     <item>
       <title>Event-time regression discontinuity for biomedical data: LATT estimation and covariate distribution tests</title>
@@ -337,7 +337,7 @@ Abstract: Abstract In both observational studies and randomized trials, post-tre
 
 Journal: American Journal of Epidemiology; Article number: kwag193
 
-Abstract: Abstract Neighborhood context is a root cause of poor health and racial health disparities, including disparities in adverse birth outcomes. In a recent article, XXXX et al. leveraged a multi-generationally linked dataset of South Carolina birth certificates to construct life course trajectories of census tract-level neighborhood affluence and disadvantage (Am J Epidemiol 2025;XXX(XX):XXX–XXX). This innovative study contributes to the literature on neighborhood context and perinatal health by highlighting the relevance of a life course approach, interrogating the role of neighborhood affluence and disadvantage on racial disparities, and extending this research to the U.S. South. In this commentary, we reiterate and expand on these points. First, we argue for the importance of explicitly integrating life course theory into neighborhoods and reproductive health research and assessing neighborhood context at several time points. Second, we encourage future studies to develop exposure measures that have a clear point of intervention and address the complex process of structural racism, rather than focusing on neighborhood composition. Finally, we emphasize the importance of considering the life course of neighborhoods themselves. Future research should interrogate historical and contemporary practices of neighborhood-level marginalization to create clear calls to action on how we can intervene to improve perinatal outcomes.</description>
+Abstract: Abstract Neighborhood context is a root cause of poor health and racial health disparities, including disparities in adverse birth outcomes. In a recent article, Kappelman et al. leveraged a multi-generationally linked dataset of South Carolina birth certificates to construct life course trajectories of census tract-level neighborhood affluence and disadvantage (Am J Epidemiol. 2025;00(00):1-10). This innovative study contributes to the literature on neighborhood context and perinatal health by highlighting the relevance of a life course approach, interrogating the role of neighborhood affluence and disadvantage in racial disparities, and extending this research to the US South. In this commentary, we reiterate and expand on these points. First, we argue for the importance of explicitly integrating life course theory into neighborhoods and reproductive health research and assessing neighborhood context at several time points. Second, we encourage future studies to develop exposure measures that have a clear point of intervention and address the complex process of structural racism, rather than focusing on neighborhood composition. Finally, we emphasize the importance of considering the life course of neighborhoods themselves. Future research should interrogate historical and contemporary practices of neighborhood-level marginalization to create clear calls to action on how we can intervene to improve perinatal outcomes.</description>
     </item>
     <item>
       <title>Comparing causal estimands from sequential nested versus single point target trials: a simulation study</title>
@@ -345,16 +345,18 @@ Abstract: Abstract Neighborhood context is a root cause of poor health and racia
       <guid isPermaLink="false">10.1093/aje/kwag227</guid>
 
       <dc:creator>Catherine Wiener</dc:creator>
-      <dc:creator>Chase Latour</dc:creator>
+      <dc:creator>Chase D Latour</dc:creator>
       <dc:creator>Kathleen E Hurwitz</dc:creator>
       <dc:creator>Xiaojuan Li</dc:creator>
       <dc:creator>Catherine R Lesko</dc:creator>
       <dc:creator>Alexander Breskin</dc:creator>
-      <dc:creator>Maurice A Brookhart</dc:creator>
+      <dc:creator>M Alan Brookhart</dc:creator>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Catherine Wiener, Chase Latour, Kathleen E Hurwitz, Xiaojuan Li, Catherine R Lesko, Alexander Breskin, Maurice A Brookhart
+      <description>Authors: Catherine Wiener, Chase D Latour, Kathleen E Hurwitz, Xiaojuan Li, Catherine R Lesko, Alexander Breskin, M Alan Brookhart
 
-Journal: American Journal of Epidemiology; Article number: kwag227</description>
+Journal: American Journal of Epidemiology; Article number: kwag227
+
+Abstract: Abstract Sequential nested trial (SNT) emulation is a powerful approach for maximizing precision and avoiding time related biases. However, there exists little discussion about the implied causal estimands in comparison to a real-world single point trial. We used Monte Carlo simulation to compare treatment effect estimates from an SNT emulation that re-indexed patients annually and an SNT emulation with a treatment decision design to the estimates from a single point trial. We generated 5,000 cohorts of 5,000 people with 3 years of follow-up. For the single point trial, patients were randomized to initiate or not initiate treatment at Visit 1.For the SNT emulations, simulated patients could contribute up to two index dates. When disease severity did not modify the treatment effect, both SNT approaches returned treatment effect estimates identical to the single point trial. In the presence of treatment effect modification by disease severity, both SNT approaches returned treatment effect estimates that diverged from the single point trial even after confounding adjustment. These findings underscore the difficulties of interpreting causal estimands from an SNT emulation: the target population does not correspond to a single time point trial. Such implications are important for communicating study results for evidence-based decision-making.</description>
     </item>
     <item>
       <title>Refining Allostatic Load Measurement: Mortality Associations of an Empirically Derived Three-Component Score in the Women’s Health Initiative</title>
@@ -464,23 +466,6 @@ Journal: American Journal of Epidemiology; Article number: kwag235
 Abstract: Abstract The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.</description>
     </item>
     <item>
-      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
-      <link>https://doi.org/10.1093/aje/kwag232</link>
-      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
-
-      <dc:creator>Fjorida Llaha</dc:creator>
-      <dc:creator>Yu-Han Chiu</dc:creator>
-      <dc:creator>Idlir Licaj</dc:creator>
-      <dc:creator>Tom Wilsgaard</dc:creator>
-      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
-
-Journal: American Journal of Epidemiology; Article number: kwag232
-
-Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
-    </item>
-    <item>
       <title>Rationale and design of the Atherosclerosis Risk in Communities Generation 2 study</title>
       <link>https://doi.org/10.1093/aje/kwag237</link>
       <guid isPermaLink="false">10.1093/aje/kwag237</guid>
@@ -499,6 +484,23 @@ Abstract: Abstract We applied target trial emulation and the parametric g-formul
 Journal: American Journal of Epidemiology; Article number: kwag237
 
 Abstract: Abstract Type 2 diabetes is a risk factor for cardiac arrhythmias, but it is unknown how specific aberrations in glucose (eg, episodes of high or low glucose) might contribute to the occurrence of heart rhythm abnormalities. The overarching goal of this study is to address research questions regarding how glucose patterns might contribute to the occurrence of arrhythmias, primarily atrial fibrillation, in adults with diabetes. To fulfill this goal, the Atherosclerosis Risk in Communities Generation 2 (ARIC Gen2) study recruited 507 community-dwelling adults aged 50-80 years with type 2 diabetes to wear continuous glucose monitoring (CGM) and electrocardiogram (ECG) “patch” monitoring sensors simultaneously for up to 14 days. Generation 2 study had high CGM and ECG completeness: The median wear time for sensors was 14 days and ~80% of participants wore both sensors for ≥10 days. By combining Gen2 and data from the original ongoing ARIC cohort (aged 80+), we have the capacity to conduct a comprehensive evaluation of the impact of CGM-defined glucose patterns on arrhythmias across a wide age spectrum from middle-aged to very old adults (aged 50-100) with type 2 diabetes. The findings from this study may help inform clinical strategies for the prevention and management of arrhythmias among adults with type 2 diabetes.</description>
+    </item>
+    <item>
+      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
+      <link>https://doi.org/10.1093/aje/kwag232</link>
+      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
+
+      <dc:creator>Fjorida Llaha</dc:creator>
+      <dc:creator>Yu-Han Chiu</dc:creator>
+      <dc:creator>Idlir Licaj</dc:creator>
+      <dc:creator>Tom Wilsgaard</dc:creator>
+      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
+
+Journal: American Journal of Epidemiology; Article number: kwag232
+
+Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
     </item>
     <item>
       <title>Contribution of adolescent movement behaviors to socioeconomic inequalities in adult cardiovascular disease risk: a causal decomposition in a population-based cohort</title>
@@ -683,21 +685,6 @@ Journal: American Journal of Epidemiology; Article number: kwag217
 Abstract: Abstract Participants who continue across the full duration of longitudinal studies often differ from those lost to attrition, defined as discontinuing participation for any reason, and some participants may sporadically miss assessments. Complex participation patterns, such as in multicenter chronic disease cohorts, have not been studied. We aimed to implement an approach to identify participation subgroups and factors associated with these. We applied our approach in the Scleroderma Patient-centered Intervention Network Cohort, a multicenter, longitudinal systemic sclerosis cohort, because it is an example of an open-ended cohort with no planned end date and complex participation patterns. We used group-based trajectory modeling to identify participation subgroups and multinomial logistic regression to identify predictors of subgroup membership. Data were obtained for 2883 participants from 54 sites in 7 countries. We identified 5 participation subgroups: Ongoing Participation (29%), Immediate Attrition (29%), Mid-Term Attrition (19%), Long-Term Attrition (12%), and Ongoing Sporadic (11%) participation. Older age and sites outside the United States were associated with lower odds of belonging to all subgroups other than Ongoing Participation. Compared to Ongoing Participation, several sociodemographic variables were associated with higher odds of being in the Immediate Attrition group. Our method can be applied to other cohorts with complex participation patterns.</description>
     </item>
     <item>
-      <title>In memoriam: Roger Allen Feldman 1931-2026</title>
-      <link>https://doi.org/10.1093/aje/kwag216</link>
-      <guid isPermaLink="false">10.1093/aje/kwag216</guid>
-
-      <dc:creator>David N Taylor</dc:creator>
-      <dc:creator>Claire V Broome</dc:creator>
-      <dc:creator>Martin J Blaser</dc:creator>
-      <dc:creator>David W Fraser</dc:creator>
-      <dc:creator>Paul A Blake</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: David N Taylor, Claire V Broome, Martin J Blaser, David W Fraser, Paul A Blake
-
-Journal: American Journal of Epidemiology; Article number: kwag216</description>
-    </item>
-    <item>
       <title>Cumulative layoffs in adulthood and cognitive function in mid-to-later life among US working-age adults, 1979-2020</title>
       <link>https://doi.org/10.1093/aje/kwag218</link>
       <guid isPermaLink="false">10.1093/aje/kwag218</guid>
@@ -714,6 +701,21 @@ Journal: American Journal of Epidemiology; Article number: kwag216</description>
 Journal: American Journal of Epidemiology; Article number: kwag218
 
 Abstract: Abstract As one of the most disruptive life events, layoffs are pervasive in the US labor market, while little is known about cumulative layoff experience across adulthood in relation to subsequent cognitive function. We investigated the association between cumulative layoffs spanning 41 years of adulthood and subsequent domain-specific cognition among US working-age adults. Data were from 6421 adults in the National Longitudinal Survey of Youth 1979. Cumulative layoff experience was defined as the number of jobs ending in a layoff from 1979 to 2020: 0 (never, n = 4503), 1 (n = 1402), and ≥2 (n = 516). Domain-specific latent cognitive factor scores were assessed in 2020 using confirmatory factor analysis. Multivariable-adjusted linear regression models were fit to investigate the association of interest. Results suggest that cumulative layoff experience was associated with lower latent factor scores in episodic memory (β = −0.045, 95% CI, −0.100 to 0.010, 1 layoff vs. never; β = −0.086, 95% CI, −0.171 to −0.001, ≥2 layoffs vs. never; P trend = 0.037), but not in attention, orientation, or language domains. Given its ubiquity in the US labor market, layoffs may represent an important and understudied risk factor for episodic memory function among US adults.</description>
+    </item>
+    <item>
+      <title>In memoriam: Roger Allen Feldman 1931-2026</title>
+      <link>https://doi.org/10.1093/aje/kwag216</link>
+      <guid isPermaLink="false">10.1093/aje/kwag216</guid>
+
+      <dc:creator>David N Taylor</dc:creator>
+      <dc:creator>Claire V Broome</dc:creator>
+      <dc:creator>Martin J Blaser</dc:creator>
+      <dc:creator>David W Fraser</dc:creator>
+      <dc:creator>Paul A Blake</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: David N Taylor, Claire V Broome, Martin J Blaser, David W Fraser, Paul A Blake
+
+Journal: American Journal of Epidemiology; Article number: kwag216</description>
     </item>
     <item>
       <title>What happens to your manuscript: characteristics of papers published in volume 194 of the
