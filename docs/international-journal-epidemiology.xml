@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:05:45 +0000</lastBuildDate>
 
     <item>
       <title>Missed opportunities: lessons from Haitian AIDS patients and their relevance today</title>
@@ -245,25 +245,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Cancer mortality levels have declined across high-income countries, but progress has been uneven by cancer type. Examining birth-cohort patterns of lifestyle-related cancer mortality in an international context can shed light on how shared and differential global lifestyle transitions manifest differently across national contexts. Methods We used harmonized cause-of-death data from the Human Cause of Death series of the Human Mortality Database for Canada, Czechia, England &amp;amp; Wales, France, Germany, Japan, Spain, and the USA from 2000 to 2020. We examined mortality from lung and larynx, colorectal, stomach, and liver cancer for ages 30–84 years by using rates of mortality improvement displayed on Lexis surfaces. Single-age death rates were estimated from grouped data by using penalized composite link models. Two-factor Poisson models and sex-stratified surfaces served as sensitivity analyses. Results All eight countries showed declining age-standardized cancer mortality, but with diverging trends by cause and birth cohorts. Lung and larynx cancer declined broadly, with mortality patterns reflecting cohort cigarette-smoking histories. Colorectal cancer mortality increased among cohorts born after 1960 in the USA, Canada, and England &amp;amp; Wales, with a similar but delayed pattern in France and Germany. Liver cancer mortality was higher for cohorts born in 1945–55 than for earlier and later cohorts in several countries, with a re-emerging adverse pattern among cohorts born in around 1970–80. Conclusion Birth-cohort patterns in lifestyle-associated cancer mortality differ across national contexts. Worsening colorectal and liver cancer trends among younger cohorts call for increased prevention and screening strategies.</description>
     </item>
     <item>
-      <title>Negative controls and how to use them: a guidance paper</title>
-      <link>https://doi.org/10.1093/ije/dyag163</link>
-      <guid isPermaLink="false">10.1093/ije/dyag163</guid>
-
-      <dc:creator>Sophie H Bots</dc:creator>
-      <dc:creator>Anna Schultze</dc:creator>
-      <dc:creator>Romin Pajouheshnia</dc:creator>
-      <dc:creator>Ian J Douglas</dc:creator>
-      <dc:creator>Rosa Gini</dc:creator>
-      <dc:creator>Olaf H Klungel</dc:creator>
-      <dc:creator>Rolf H H Groenwold</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sophie H Bots, Anna Schultze, Romin Pajouheshnia, Ian J Douglas, Rosa Gini, Olaf H Klungel, Rolf H H Groenwold
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag163
-
-Abstract: Abstract Negative controls have gained traction as a useful tool for causal research to address confounding and bias. However, general guidance on how to select and apply negative controls and how to report and interpret their findings is lacking. This paper lays out the key steps of conducting a negative-control analysis and provides all relevant background information, important feasibility and validity considerations, and practical suggestions for the implementation and interpretation of each step. This includes a convenient overview of all methods, complete with their rationale, key considerations, and illustrative examples, and practical checklists that both researchers and reviewers can use to facilitate the complete and rigorous reporting of negative-control analyses.</description>
-    </item>
-    <item>
       <title>Not always towards the null: reconsidering the direction of overadjustment bias</title>
       <link>https://doi.org/10.1093/ije/dyag215</link>
       <guid isPermaLink="false">10.1093/ije/dyag215</guid>
@@ -283,22 +264,23 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Overadjustment bias occurs when adjusting for a variable increases rather than decreases bias. It commonly arises in studies estimating the total causal effect of an exposure on an outcome due to inappropriate adjustment for a mediator. While such inappropriate mediator adjustment can lead to bias in any direction (towards the null, away from the null, or reverse the direction of effect) even in the absence of other relevant unadjusted variables, this type of overadjustment bias is often described as acting towards the null. Using directed acyclic graphs and a simulated example of adjustment for smoking when estimating the total causal effect of education on the risk of breast cancer, we explain how inappropriately adjusting for a mediator can lead to overadjustment bias in any direction. Correspondingly, we provide general guidance to predict the likely direction of overadjustment bias based on the direction of effect of the relevant paths involved. In general, this bias will be away from the null or in the reverse direction when the mediated pathway being closed by inappropriate adjustment acts in the opposite direction to the combined effect of all remaining pathways between the exposure and the outcome. In contrast, this bias will be towards the null when the effects of these paths act in the same direction.</description>
     </item>
     <item>
-      <title>Data Resource Profile: The General Practice Database—Amsterdam, North Holland, Almere (GPD-ANHA)</title>
-      <link>https://doi.org/10.1093/ije/dyag175</link>
-      <guid isPermaLink="false">10.1093/ije/dyag175</guid>
+      <title>Negative controls and how to use them: a guidance paper</title>
+      <link>https://doi.org/10.1093/ije/dyag163</link>
+      <guid isPermaLink="false">10.1093/ije/dyag163</guid>
 
-      <dc:creator>Jos P Kanning</dc:creator>
-      <dc:creator>Habibollah Pirnejad</dc:creator>
-      <dc:creator>Awa A Gassama</dc:creator>
-      <dc:creator>Coralie R Arends</dc:creator>
-      <dc:creator>Johanna H K Joosten</dc:creator>
-      <dc:creator>Natasja D Vijfschagt</dc:creator>
-      <dc:creator>Ralf E Harskamp</dc:creator>
-      <dc:creator>Otto R Maarsingh</dc:creator>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jos P Kanning, Habibollah Pirnejad, Awa A Gassama, Coralie R Arends, Johanna H K Joosten, Natasja D Vijfschagt, Ralf E Harskamp, Otto R Maarsingh, et al.
+      <dc:creator>Sophie H Bots</dc:creator>
+      <dc:creator>Anna Schultze</dc:creator>
+      <dc:creator>Romin Pajouheshnia</dc:creator>
+      <dc:creator>Ian J Douglas</dc:creator>
+      <dc:creator>Rosa Gini</dc:creator>
+      <dc:creator>Olaf H Klungel</dc:creator>
+      <dc:creator>Rolf H H Groenwold</dc:creator>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sophie H Bots, Anna Schultze, Romin Pajouheshnia, Ian J Douglas, Rosa Gini, Olaf H Klungel, Rolf H H Groenwold
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag175</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag163
+
+Abstract: Abstract Negative controls have gained traction as a useful tool for causal research to address confounding and bias. However, general guidance on how to select and apply negative controls and how to report and interpret their findings is lacking. This paper lays out the key steps of conducting a negative-control analysis and provides all relevant background information, important feasibility and validity considerations, and practical suggestions for the implementation and interpretation of each step. This includes a convenient overview of all methods, complete with their rationale, key considerations, and illustrative examples, and practical checklists that both researchers and reviewers can use to facilitate the complete and rigorous reporting of negative-control analyses.</description>
     </item>
     <item>
       <title>Cohort Profile: Kinship, nuptiality and child well-being in Africa—the JAMO study</title>
@@ -317,6 +299,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
       <description>Authors: Sangeetha Madhavan, Kirsten Stoebenau, Kenneth Leonard, Estelle Sidze, Blessing Mberu, Patricia Kitsao-Wekulo, Elizabeth Kimani, Carol Wainaina, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag178</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: The General Practice Database—Amsterdam, North Holland, Almere (GPD-ANHA)</title>
+      <link>https://doi.org/10.1093/ije/dyag175</link>
+      <guid isPermaLink="false">10.1093/ije/dyag175</guid>
+
+      <dc:creator>Jos P Kanning</dc:creator>
+      <dc:creator>Habibollah Pirnejad</dc:creator>
+      <dc:creator>Awa A Gassama</dc:creator>
+      <dc:creator>Coralie R Arends</dc:creator>
+      <dc:creator>Johanna H K Joosten</dc:creator>
+      <dc:creator>Natasja D Vijfschagt</dc:creator>
+      <dc:creator>Ralf E Harskamp</dc:creator>
+      <dc:creator>Otto R Maarsingh</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jos P Kanning, Habibollah Pirnejad, Awa A Gassama, Coralie R Arends, Johanna H K Joosten, Natasja D Vijfschagt, Ralf E Harskamp, Otto R Maarsingh, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag175</description>
     </item>
     <item>
       <title>Data Resource Profile: The Korean National Health Insurance Service Mother-Child Linked Database (NHIS-MCLD): a nationwide administrative database with a cohort design</title>
@@ -446,22 +446,6 @@ Abstract: Abstract Background The association between homelessness and the type 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag200</description>
     </item>
     <item>
-      <title>Examining the role of insulin-like growth factor 1 in the pathophysiology of carpal tunnel syndrome: a Mendelian randomization study</title>
-      <link>https://doi.org/10.1093/ije/dyag173</link>
-      <guid isPermaLink="false">10.1093/ije/dyag173</guid>
-
-      <dc:creator>Alex J Wood</dc:creator>
-      <dc:creator>Catherine E Lovegrove</dc:creator>
-      <dc:creator>Dominic Furniss</dc:creator>
-      <dc:creator>Akira Wiberg</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alex J Wood, Catherine E Lovegrove, Dominic Furniss, Akira Wiberg
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
-
-Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
-    </item>
-    <item>
       <title>Adiposity and risk of breast cancer in 280 000 Chinese women: a prospective cohort study</title>
       <link>https://doi.org/10.1093/ije/dyag155</link>
       <guid isPermaLink="false">10.1093/ije/dyag155</guid>
@@ -480,6 +464,22 @@ Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disab
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag155
 
 Abstract: Abstract Background Adiposity is associated with increased risk of breast cancer in post-menopausal women, while the association appears to be the inverse among premenopausal women in Western populations, but is unclear for Chinese women. Methods Using data on 284 538 women with no history of cancer, hysterectomy, oophorectomy, or breast surgery at baseline in 2004–8 from the China Kadoorie Biobank (a prospective cohort study), Cox regression was used to estimate adjusted hazard ratios (HRs) for breast cancer and its subtypes by measured body mass index (BMI) and other adiposity measures (waist circumference, fat percentage, waist–hip ratio, fat mass) and by self-reported BMI at age 25 years. Results Mean BMI was 23.8 (3.5 SD) kg/m2 at baseline (mean age 51.4 years) and 21.9 (2.7 SD) kg/m2 at age 25 years. During 10 years of follow-up, there were 2379 incident breast cancer cases. Higher BMI was associated with a higher risk of breast cancer in women who were post-menopausal [HR = 1.35, 95% confidence interval (CI) 1.24–1.47] and premenopausal (HR = 1.13, 95% CI 1.03–1.24) at baseline, but not when censoring at age 50 years to capture mainly premenopausal cancers. Among post-menopausal women, BMI was associated with oestrogen-receptor positive (ER ) (HR = 1.47, 95% CI 1.24–1.74), but not with oestrogen-receptor negative (ER−) breast cancer (HR = 1.02, 95% CI 0.75–1.37). Waist circumference and fat percentage were associated with a higher risk of breast cancer. Conclusion In this cohort of Chinese women, higher levels of general and central adiposity were associated with a higher risk of breast cancer, in both women who were premenopausal and women who were post-menopausal at baseline. Among post-menopausal women, adiposity was associated with ER but not ER − breast cancer.</description>
+    </item>
+    <item>
+      <title>Examining the role of insulin-like growth factor 1 in the pathophysiology of carpal tunnel syndrome: a Mendelian randomization study</title>
+      <link>https://doi.org/10.1093/ije/dyag173</link>
+      <guid isPermaLink="false">10.1093/ije/dyag173</guid>
+
+      <dc:creator>Alex J Wood</dc:creator>
+      <dc:creator>Catherine E Lovegrove</dc:creator>
+      <dc:creator>Dominic Furniss</dc:creator>
+      <dc:creator>Akira Wiberg</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alex J Wood, Catherine E Lovegrove, Dominic Furniss, Akira Wiberg
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag173
+
+Abstract: Abstract Background Carpal tunnel syndrome (CTS) is a common and disabling condition of the hand, affecting up to 10% of the population, caused by compression of the median nerve at the wrist. Conventional observational epidemiological studies have demonstrated associations between CTS and elevated plasma insulin-like growth factor 1 (IGF-1), as well as several metabolic factors, such as obesity and type 2 diabetes (T2DM). Methods Here, we use two-sample univariable and multivariable Mendelian randomization to investigate causality in the relationships between IGF-1, metabolic factors related to IGF-1, and CTS. Results We replicate the result that increases in measures of obesity (body mass index (BMI), waist-hip ratio (WHR), and waist circumference (WC)) are causal for CTS, and show that the effect of elevated childhood BMI on increasing risk of CTS is mediated mostly by elevated adult BMI. Furthermore, we demonstrate that T2DM and raised fasting plasma glucose are also causal for CTS. Finally, we show that increased IGF-1 signalling is also causally related to CTS risk, and the effect is likely mediated by its effects on both BMI and T2DM. The IGF-1 pathway merits further investigation as a potential therapeutic target for CTS. Conclusion We provide genetic epidemiological evidence to support obesity, T2DM, and elevated plasma IGF-1 concentrations playing a causal role in increasing the risk of CTS. These findings suggest that pharmacological management of the metabolic risk factors may also decrease the risk of CTS, with the IGF-1 pathway as a potential therapeutic target.</description>
     </item>
     <item>
       <title>Birth outcomes in single motherhood ‘by choice’: a register study of children conceived through medically assisted reproduction</title>
@@ -548,6 +548,22 @@ Abstract: Abstract Background Our goal was to evaluate the relationship between 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag171</description>
     </item>
     <item>
+      <title>Comparing genome-wide significant and chemosensory variants as instruments for dietary patterns in Mendelian randomization</title>
+      <link>https://doi.org/10.1093/ije/dyag186</link>
+      <guid isPermaLink="false">10.1093/ije/dyag186</guid>
+
+      <dc:creator>Phoebe S C Hui</dc:creator>
+      <dc:creator>Brooke L Devlin</dc:creator>
+      <dc:creator>David M Evans</dc:creator>
+      <dc:creator>Liang-Dar Hwang</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Phoebe S C Hui, Brooke L Devlin, David M Evans, Liang-Dar Hwang
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
+
+Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
+    </item>
+    <item>
       <title>Clinical and social determinants of COVID-19 lethality and ICU admission across variant waves in the Brazilian Amazon</title>
       <link>https://doi.org/10.1093/ije/dyag190</link>
       <guid isPermaLink="false">10.1093/ije/dyag190</guid>
@@ -583,22 +599,6 @@ Abstract: Abstract Background The state of Amazonas, located in the Brazilian Am
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag160
 
 Abstract: Abstract Background Previous research on moderate-to-vigorous physical activity (MVPA) and ovarian cancer risk have shown inconsistent results. Most studies measured recreational MVPA once during late adulthood, which does not consider the way in which timing may differently influence risk or account for MVPA from other activities. Life-course epidemiology models (critical-period, sensitive-period, and accumulation) can evaluate whether the timing and cumulative burden of total MVPA across the lifespan influences risk. Here, we identify which model best describes the association between total MVPA, encompassing recreational, occupational, household, and transportation activities, and invasive ovarian cancer risk. Methods A population-based case–control study of ovarian cancer in Montreal, Canada (2011–16) included 268 invasive cases and 668 controls aged ≥52 years. Total MVPA was determined by using recalled information on the frequency and duration of various physical activities across adulthood. A Bayesian relevant life course exposure model was used to estimate the relative importance of total MVPA, represented as average energy expenditure in units of metabolic equivalent (MET)-hours/week, during three pre-specified periods (early reproductive years, late reproductive years/perimenopause, and postmenopause) on invasive ovarian cancer risk. Results The lifetime-effect odds ratio comparing ≥50 vs &amp;amp;lt;50 MET-hours/week across adulthood was 0.59 (95% credible interval: 0.35–0.93). MVPA during late reproductive years/perimenopause showed the highest relative importance, suggesting that this may be a sensitive period. Associations were similar for serous and non-serous subtypes. Conclusion Our results support that higher MVPA across the adult life course is associated with a reduced invasive ovarian cancer risk and mid-adulthood, represented by late reproductive years/perimenopause, may be a sensitive period.</description>
-    </item>
-    <item>
-      <title>Comparing genome-wide significant and chemosensory variants as instruments for dietary patterns in Mendelian randomization</title>
-      <link>https://doi.org/10.1093/ije/dyag186</link>
-      <guid isPermaLink="false">10.1093/ije/dyag186</guid>
-
-      <dc:creator>Phoebe S C Hui</dc:creator>
-      <dc:creator>Brooke L Devlin</dc:creator>
-      <dc:creator>David M Evans</dc:creator>
-      <dc:creator>Liang-Dar Hwang</dc:creator>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Phoebe S C Hui, Brooke L Devlin, David M Evans, Liang-Dar Hwang
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
-
-Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
     </item>
     <item>
       <title>Redefining the public health problem in epidemiology:
@@ -760,21 +760,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background The COVID-19 pandemic caused a large health burden that disproportionally fell on people with a lower socio-economic status. Not much is known about the role of structural differences in pre-existing health and vaccination uptake in explaining these inequalities. We aim to disentangle these factors and quantify their contribution to income-related inequality in COVID-19 mortality. Methods Using linked Dutch administrative microdata (N = 6 619 699), we model the risk of COVID-19 death based on pre-existing health and vaccination status for the entire population above the age of 50 years in 2021. Health is proxied by individual-level remaining life expectancy based on predictions by income using detailed information on demographics, specific outpatient medication(s), and hospital records. Building on this, we then quantify the extent to which differences in pre-existing health and vaccination status between lower and higher incomes explain income-related differences in COVID-19 deaths. Results We find strong income-related differences in COVID-19 mortality. In 2021, individuals of the poorest income quintile were about three times more likely to die of COVID-19 than those in the richest quintile. Differences in pre-existing health are more important than differences in vaccination uptake in explaining this gap. For the poorest males/females, 67%/46% can be explained by differences in health and 14%/19% by vaccination status. Conclusion Differences in pre-existing health by income are likely the most important determinant of income-related inequality in COVID-19 mortality. These findings signal that policies focused on reducing existing inequalities in health might lessen the burden of future health crises.</description>
     </item>
     <item>
-      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
-      <link>https://doi.org/10.1093/ije/dyag199</link>
-      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
-
-      <dc:creator>Xueyan Zheng</dc:creator>
-      <dc:creator>Christian Bottomley</dc:creator>
-      <dc:creator>Woojoo Lee</dc:creator>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
-
-Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
-    </item>
-    <item>
       <title>Peripubertal pregnancies and associations with health and developmental outcomes in offspring during late adolescence and adulthood: sibling-comparison register study</title>
       <link>https://doi.org/10.1093/ije/dyag153</link>
       <guid isPermaLink="false">10.1093/ije/dyag153</guid>
@@ -790,6 +775,21 @@ Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag153
 
 Abstract: Abstract Background We examined the association of peripubertal pregnancies with long-term health and developmental outcomes in adult offspring and strengthened causal inference using sibling-comparison methods. Methods Using linked Swedish register data from 1964 to 2018, we conducted a cohort study to estimate associations of pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years, with body mass index (BMI), systolic blood pressure (SBP), cognitive function, and stress resilience among 943 444 male offspring aged 17–21 years in the Military Conscription Register. We further assessed associations with type 2 diabetes (T2D), depression, and anxiety among 2 461 510 male and female offspring aged 18–73 years using population-wide registers. Linear, multinomial, and survival models were used. Sibling fixed-effect models were used to account for unmeasured confounding shared among siblings. Results Offspring from pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years had lower SBP (β − 1.12; 95% confidence interval [CI] − 1.97 to −0.26), poorer cognitive function (β − 0.54; 95% CI −0.67 to −0.40), and poorer stress resilience (β −0.24; 95% CI −0.38, −0.10). There was no increased risk of being underweight or overweight compared with normal weight. There was a lower risk of anxiety (hazard ratio 0.87; 95% CI 0.80 to 0.95) and no increased risk of T2D or depression. Sibling-comparison analyses attenuated deleterious associations to null or reversed them and amplified associations with markers of better health. Conclusion Pregnancies before age 16 years may not be causally associated with adverse long-term health and developmental outcomes in adolescent and adult offspring. The adverse associations in conventional analyses appear attributable to shared familial characteristics.</description>
+    </item>
+    <item>
+      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
+      <link>https://doi.org/10.1093/ije/dyag199</link>
+      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
+
+      <dc:creator>Xueyan Zheng</dc:creator>
+      <dc:creator>Christian Bottomley</dc:creator>
+      <dc:creator>Woojoo Lee</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
+
+Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
     </item>
     <item>
       <title>Air pollution and criminal behavior: a nationwide case-crossover analysis in China</title>
@@ -939,22 +939,22 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Diagnostic test accuracy (DTA) studies, like aetiological studies, are susceptible to various sources of bias, including imperfect reference standard, partial verification, spectrum effect, confounding, and misassumption of conditional independence. While directed acyclic graphs (DAGs) are widely used in aetiological research to identify and illustrate biasing structures, they have not been systematically applied to DTA studies. Methods We developed DAGs to illustrate causal mechanisms underlying common sources of bias in DTA studies. For each source, we also illustrate its equivalent in aetiological studies. Real-world examples are used for illustration. Results We present DAGs for five major sources of bias in DTA studies with structural parallels to aetiological studies: imperfect reference standard corresponds to exposure misclassification, misassumption of conditional independence creates spurious correlations similar to ignoring unmeasured confounding, spectrum effect parallels effect modification, confounding operates through backdoor paths in both settings, and partial verification acts through selection mechanisms that can induce selection bias. These DAG representations help reveal causal mechanisms underlying each source of bias and suggest appropriate adjustment strategies. Conclusion DAGs provide a valuable framework for understanding sources of bias in DTA studies and should complement existing reporting and quality-assessment tools such as the Standards for Reporting of Diagnostic Accuracy (STARD) and Quality Assessment of Diagnostic Accuracy Studies (QUADAS-2). We recommend incorporating DAGs in the conduct and reporting of primary DTA studies, systematic reviews, and meta-analyses to identify potential sources of bias and enhance transparency. DAG construction requires interdisciplinary collaboration and sensitivity analyses examining alternative causal structures.</description>
     </item>
     <item>
-      <title>Cohort Profile Update: Survey of Health, Ageing and Retirement in Europe—biomarker data for age-related health conditions</title>
-      <link>https://doi.org/10.1093/ije/dyag161</link>
-      <guid isPermaLink="false">10.1093/ije/dyag161</guid>
+      <title>Cohort profile: the Japan Birth Cohort Consortium</title>
+      <link>https://doi.org/10.1093/ije/dyag213</link>
+      <guid isPermaLink="false">10.1093/ije/dyag213</guid>
 
-      <dc:creator>Martina Börsch-Supan</dc:creator>
-      <dc:creator>Axel Börsch-Supan</dc:creator>
-      <dc:creator>Karen Andersen-Ranberg</dc:creator>
-      <dc:creator>Nis Borbye-Lorenzen</dc:creator>
-      <dc:creator>Jake Cofferen</dc:creator>
-      <dc:creator>Yacila I Deza-Lougovski</dc:creator>
-      <dc:creator>Rebecca Groh</dc:creator>
-      <dc:creator>Solveig Holmgaard</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Martina Börsch-Supan, Axel Börsch-Supan, Karen Andersen-Ranberg, Nis Borbye-Lorenzen, Jake Cofferen, Yacila I Deza-Lougovski, Rebecca Groh, Solveig Holmgaard, et al.
+      <dc:creator>Tomoko Aoyama</dc:creator>
+      <dc:creator>Kazue Ishitsuka</dc:creator>
+      <dc:creator>Reiko Kishi</dc:creator>
+      <dc:creator>Hiroyoshi Iwata</dc:creator>
+      <dc:creator>Naomi Tamura</dc:creator>
+      <dc:creator>Maki Tojo</dc:creator>
+      <dc:creator>Keitaro Makino</dc:creator>
+      <dc:creator>Yu Ait Bamai</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tomoko Aoyama, Kazue Ishitsuka, Reiko Kishi, Hiroyoshi Iwata, Naomi Tamura, Maki Tojo, Keitaro Makino, Yu Ait Bamai, et al.
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag161</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag213</description>
     </item>
     <item>
       <title>Cohort Profile Update: The Korean Genome and Epidemiology Study (KoGES)</title>
@@ -974,22 +974,22 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag192</description>
     </item>
     <item>
-      <title>Cohort profile: the Japan Birth Cohort Consortium</title>
-      <link>https://doi.org/10.1093/ije/dyag213</link>
-      <guid isPermaLink="false">10.1093/ije/dyag213</guid>
+      <title>Cohort Profile Update: Survey of Health, Ageing and Retirement in Europe—biomarker data for age-related health conditions</title>
+      <link>https://doi.org/10.1093/ije/dyag161</link>
+      <guid isPermaLink="false">10.1093/ije/dyag161</guid>
 
-      <dc:creator>Tomoko Aoyama</dc:creator>
-      <dc:creator>Kazue Ishitsuka</dc:creator>
-      <dc:creator>Reiko Kishi</dc:creator>
-      <dc:creator>Hiroyoshi Iwata</dc:creator>
-      <dc:creator>Naomi Tamura</dc:creator>
-      <dc:creator>Maki Tojo</dc:creator>
-      <dc:creator>Keitaro Makino</dc:creator>
-      <dc:creator>Yu Ait Bamai</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tomoko Aoyama, Kazue Ishitsuka, Reiko Kishi, Hiroyoshi Iwata, Naomi Tamura, Maki Tojo, Keitaro Makino, Yu Ait Bamai, et al.
+      <dc:creator>Martina Börsch-Supan</dc:creator>
+      <dc:creator>Axel Börsch-Supan</dc:creator>
+      <dc:creator>Karen Andersen-Ranberg</dc:creator>
+      <dc:creator>Nis Borbye-Lorenzen</dc:creator>
+      <dc:creator>Jake Cofferen</dc:creator>
+      <dc:creator>Yacila I Deza-Lougovski</dc:creator>
+      <dc:creator>Rebecca Groh</dc:creator>
+      <dc:creator>Solveig Holmgaard</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Martina Börsch-Supan, Axel Börsch-Supan, Karen Andersen-Ranberg, Nis Borbye-Lorenzen, Jake Cofferen, Yacila I Deza-Lougovski, Rebecca Groh, Solveig Holmgaard, et al.
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag213</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag161</description>
     </item>
     <item>
       <title>Exposure misclassification of self-reported vegetarian diet and its impact on health outcomes</title>
@@ -1039,24 +1039,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag184</description>
     </item>
     <item>
-      <title>Data Resource Profile: Children in Wales: The Cohort for Health and Wellbeing Inequality (CWTCH)</title>
-      <link>https://doi.org/10.1093/ije/dyag180</link>
-      <guid isPermaLink="false">10.1093/ije/dyag180</guid>
-
-      <dc:creator>Sarah J Aldridge</dc:creator>
-      <dc:creator>Lateef Akanni</dc:creator>
-      <dc:creator>Stuart Bedston</dc:creator>
-      <dc:creator>Davara Bennett</dc:creator>
-      <dc:creator>Michelle Black</dc:creator>
-      <dc:creator>Yanhua Chen</dc:creator>
-      <dc:creator>Yu Wei Chua</dc:creator>
-      <dc:creator>Oluwaseun B Esan</dc:creator>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sarah J Aldridge, Lateef Akanni, Stuart Bedston, Davara Bennett, Michelle Black, Yanhua Chen, Yu Wei Chua, Oluwaseun B Esan, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag180</description>
-    </item>
-    <item>
       <title>Evaluating COVID-19 vaccine effectiveness across epidemiologic designs: test-negative case-control versus retrospective cohort analyses in a nationwide study</title>
       <link>https://doi.org/10.1093/ije/dyag210</link>
       <guid isPermaLink="false">10.1093/ije/dyag210</guid>
@@ -1075,6 +1057,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag210
 
 Abstract: Abstract Background Observational studies are central to assessing vaccine effectiveness and informing public health policy. The two most common designs are test-negative case-control and cohort studies, yet direct comparisons of their performance using the same population, data sources, and analytic strategies remain rare. This study compares these two designs within a national population using harmonized analytic approaches. Methods Nationwide, matched test-negative case-control and retrospective cohort studies were conducted in Qatar between 1 January 2021 and 18 December 2021 to assess the effectiveness of the coronavirus disease (COVID-19) primary series of BNT162b2 and mRNA-1273 against any severe acute respiratory syndrome coronavirus 2 infection, symptomatic infection, and severe COVID-19. Results In the test-negative design, BNT162b2 effectiveness was 71.0% [95% confidence interval (CI): 70.1–71.9] against any infection, 75.6% (95% CI: 74.2–77.0) against symptomatic infection, and 96.3% (95% CI: 95.2–97.2) against severe COVID-19. In the cohort design, after adjustment for testing rate, corresponding effectiveness was 78.0% (95% CI: 77.1–78.9), 81.2% (95% CI: 79.8–82.5), and 98.0% (95% CI: 96.6–98.8), respectively. Both designs demonstrated similar, rapid, and largely linear waning of effectiveness in both magnitude and pattern. Test-negative design estimates lay between cohort estimates with and without adjustment for testing rate. Similar results were observed for mRNA-1273. Conclusions Both designs yielded consistent effectiveness estimates across vaccines and clinically relevant outcomes, with only modest differences related to handling of health-seeking behavior. These findings demonstrate that, when rigorously implemented using quality data and harmonized analytic strategies, both designs produce comparable effectiveness estimates.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: Children in Wales: The Cohort for Health and Wellbeing Inequality (CWTCH)</title>
+      <link>https://doi.org/10.1093/ije/dyag180</link>
+      <guid isPermaLink="false">10.1093/ije/dyag180</guid>
+
+      <dc:creator>Sarah J Aldridge</dc:creator>
+      <dc:creator>Lateef Akanni</dc:creator>
+      <dc:creator>Stuart Bedston</dc:creator>
+      <dc:creator>Davara Bennett</dc:creator>
+      <dc:creator>Michelle Black</dc:creator>
+      <dc:creator>Yanhua Chen</dc:creator>
+      <dc:creator>Yu Wei Chua</dc:creator>
+      <dc:creator>Oluwaseun B Esan</dc:creator>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sarah J Aldridge, Lateef Akanni, Stuart Bedston, Davara Bennett, Michelle Black, Yanhua Chen, Yu Wei Chua, Oluwaseun B Esan, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag180</description>
     </item>
     <item>
       <title>Short-term health impacts of air pollution in Canada: a nonlinear multi-pollutant Bayesian case-crossover framework</title>

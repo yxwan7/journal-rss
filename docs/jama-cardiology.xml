@@ -5,7 +5,7 @@
     <link>https://jamanetwork.com/journals/jamacardiology</link>
     <description>Latest journal articles for JAMA Cardiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:45:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:06:11 +0000</lastBuildDate>
 
     <item>
       <title>Periorbital Purpura and Fatigue in a Man Aged 57 Years</title>
@@ -171,6 +171,14 @@ Abstract: This case report discusses a rare variant of acute myeloid leukemia an
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1015</description>
     </item>
     <item>
+      <title>Error in Author Name</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.4516</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.4516</guid>
+
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1018</description>
+    </item>
+    <item>
       <title>Causal Endotype–Based Classification of Myocardial Infarction</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3794</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.3794</guid>
@@ -189,14 +197,6 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1015</description>
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 951
 
 Abstract: Importance The fourth universal definition of myocardial infarction (UDMI) distinguishes type 1 from type 2 myocardial infarction (MI), but this framework does not fully capture the heterogeneity of underlying mechanisms and prognosis. Objective To characterize the distribution and clinical features of MI causal endotypes in a large contemporary cohort with a descriptive assessment of associated 1-year outcomes. Design, Setting, and Participants Consecutive patients from the prospective, multicenter AMIPE registry with an adjudicated diagnosis of MI according to the fourth UDMI were included between January 1, 2017, and December 31, 2023. Follow-up was 1 year; patients with available 1-year follow-up or who died within the first year were included. Type 3, 4, and 5 MI and nonischemic myocardial injuries were excluded. These data were analyzed from June 2025 to May 2026. Exposures Patients were classified according to the primary etiologic mechanism of MI into 4 causal endotypes: cardiac/coronary, cardiac/noncoronary, systemic, or indeterminate. Main Outcomes and Measures The main measures were the distribution of causal endotypes and underlying etiologies. One-year outcomes included all-cause death, major adverse cardiovascular events ([MACE] cardiovascular death or recurrent MI), cardiovascular death, and recurrent MI. Cox and Fine-Gray models used the cardiac/coronary group as reference. Results Among 6282 patients, mean (SD) age was 69.8 (13.5) years and 2013 (32.0%) were women. Overall, 5330 patients (84.9%) had a cardiac/coronary cause, including 5158 with acute atherothrombosis and 172 with nonatherothrombotic coronary mechanisms, 302 had a cardiac/noncoronary cause (4.8%), most commonly tachyarrhythmia, 503 had a systemic cause (8.0%), and 147 had an indeterminate cause (2.3%). At 1 year, all-cause mortality was 9.8% in cardiac/coronary MI, 15.9% in cardiac/noncoronary MI, 25.8% in systemic MI, and 1.4% in indeterminate MI. Compared with cardiac/coronary MI, adjusted hazard ratios for all-cause death were 1.46 (95% CI, 1.08-1.96) for cardiac/noncoronary MI, 2.50 (95% CI, 2.05-3.05) for systemic MI, and 0.22 (95% CI, 0.06-0.89) for indeterminate MI. Higher mortality in systemic and cardiac/noncoronary MI was largely related to noncardiovascular death. MACE rates differed less markedly across endotypes, whereas recurrent MI was less frequent in cardiac/noncoronary and systemic MI than in cardiac/coronary MI. Conclusions and Relevance In this study, a causal endotype–based classification of MI identified distinct underlying mechanisms and clinical profiles that were not fully captured by the type 1/type 2 framework. This approach may complement the UDMI by improving characterization of MI heterogeneity.</description>
-    </item>
-    <item>
-      <title>Error in Author Name</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.4516</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.4516</guid>
-
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1018</description>
     </item>
     <item>
       <title>Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion</title>
@@ -528,6 +528,30 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 932
 Abstract: Importance Transthyretin cardiac amyloidosis (ATTR-CM) is associated with poor prognosis and significant morbidity and mortality, yet existing staging systems have limited ability to accurately predict outcomes in contemporary patient populations. Objective To develop and validate a machine learning (ML)–based prognostic model for patients with ATTR-CM. Design, Setting, and Participants This multicenter cohort study, including specialized referral centers for cardiac amyloidosis, used data from patients with confirmed ATTR-CM in the Swiss Cardiac Amyloidosis Registry (February 2018 to November 2025) and the Cardiac Amyloidosis Registry of the Medical University of Vienna (July 2014 to February 2025). A random survival forest model was developed and evaluated through internal-external cross-validation, with each center iteratively held out for validation. The model was compared with the National Amyloidosis Centre and Mayo Clinic staging systems. Data analysis was conducted from December 2025 to February 2026. Exposure Clinical, demographic, medication, laboratory, and echocardiographic variables were used to train an ML-based time-to-event prediction model. Main Outcomes and Measures The primary outcome was defined as a composite event of all-cause mortality and hospitalization for heart failure. Results A total of 850 patients (median [IQR] age, 79 [74-83] years; 750 [88.2%] male) were included across 3 cohorts (from Bern, Switzerland [Bern-Swiss cohort], n = 352; the other centers from Switzerland combined [Other-Swiss cohort], n = 260; and Vienna, Austria [Vienna cohort], n = 238). The random survival forest model demonstrated good discrimination across all held-out cohorts, with Harrell concordance indices of 0.74 (95% CI, 0.69-0.78), 0.77 (95% CI, 0.69-0.83), and 0.72 (95% CI, 0.67-0.77) for the Bern-Swiss, Other-Swiss, and Vienna cohorts, respectively, and 3-year area under the curve (AUC) of 0.73 (95% CI, 0.66-0.80), 0.80 (95% CI, 0.70-0.88), and 0.75 (95% CI, 0.67-0.83), respectively. The model showed improved discrimination compared with the National Amyloidosis Centre and Mayo Clinic staging systems, with Harrell concordance indices 2% to 10% higher and 3-year AUC improvements ranging from 3% to 19% across cohorts and scoring systems. Calibration was generally acceptable across cohorts and time points. Model performance remained satisfactory in the subgroup of patients receiving disease-modifying therapy. Explainability analyses identified clinically plausible drivers of risk. Conclusions and Relevance An ML-based time-to-event prediction model demonstrated promising predictive performance and showed improved discrimination compared with established staging systems in patients with ATTR-CM, supporting its potential for individualized prognostication.</description>
     </item>
     <item>
+      <title>Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion—Reply</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3008</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3008</guid>
+
+      <dc:creator>Boris Schmidt</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Boris Schmidt
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
+    </item>
+    <item>
+      <title>From Static Staging to Dynamic Risk Prediction in Transthyretin Amyloid Cardiomyopathy</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3503</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3503</guid>
+
+      <dc:creator>Marianna Fontana</dc:creator>
+      <dc:creator>Julian D. Gillmore</dc:creator>
+      <dc:creator>Scott David Solomon</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marianna Fontana, Julian D. Gillmore, Scott David Solomon
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 909</description>
+    </item>
+    <item>
       <title>Multiple Giant Right Atrial Myxomas—The Carney Complex</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3248</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.3248</guid>
@@ -574,30 +598,6 @@ Abstract: Importance Transthyretin amyloid cardiomyopathy (ATTR-CM) is caused by
       <description>Authors: Joshua A. Jacobs, Josef Stehlik, Adam P. Bress
 
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1016</description>
-    </item>
-    <item>
-      <title>Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion—Reply</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3008</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3008</guid>
-
-      <dc:creator>Boris Schmidt</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Boris Schmidt
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
-    </item>
-    <item>
-      <title>From Static Staging to Dynamic Risk Prediction in Transthyretin Amyloid Cardiomyopathy</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3503</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3503</guid>
-
-      <dc:creator>Marianna Fontana</dc:creator>
-      <dc:creator>Julian D. Gillmore</dc:creator>
-      <dc:creator>Scott David Solomon</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marianna Fontana, Julian D. Gillmore, Scott David Solomon
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 909</description>
     </item>
     <item>
       <title>A Polypill Strategy to Close the Heart Failure Treatment Gap</title>
@@ -1280,20 +1280,6 @@ Abstract: This Viewpoint discusses advances in the field of cardio-oncology.</de
 Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 899</description>
     </item>
     <item>
-      <title>Woman in Her 40s With Complex Cardiopulmonary Vascular Anomalies and Hemoptysis</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.2407</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.2407</guid>
-
-      <dc:creator>Miao Wei</dc:creator>
-      <dc:creator>Haitao Yang</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Miao Wei, Haitao Yang
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 891
-
-Abstract: This case report discusses scimitar syndrome in a woman in her 40s who presented with 8 days of recurrent hemoptysis.</description>
-    </item>
-    <item>
       <title>Cardiovascular Health Across the Life Course for Individuals With Breast Cancer</title>
       <link>https://doi.org/10.1001/jamacardio.2026.2546</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.2546</guid>
@@ -1312,6 +1298,20 @@ Abstract: This case report discusses scimitar syndrome in a woman in her 40s who
 Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 867
 
 Abstract: Importance Breast cancer is the most common cancer diagnosed in women. Therapies for breast cancer are evolving rapidly, and several are associated with cardiovascular adverse effects, can exacerbate cardiovascular risk factors, or can increase the risk of cardiovascular disease. Observations Advances in screening and treatment have led to earlier diagnosis and improved disease-free survival. For long-term survivors of breast cancer, cardiovascular adverse effects can pose a greater threat to overall long-term health than the cancer itself. Additionally, the increasing incidence of breast cancer in younger, premenopausal women has created a distinct demographic with unique medical needs. Conclusions and Relevance Cardiology practitioners need to remain updated on rapidly evolving breast cancer therapies to care for this growing, unique patient population. The field of cardio-oncology has evolved to address the cardiovascular needs of patients and survivors.</description>
+    </item>
+    <item>
+      <title>Woman in Her 40s With Complex Cardiopulmonary Vascular Anomalies and Hemoptysis</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.2407</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.2407</guid>
+
+      <dc:creator>Miao Wei</dc:creator>
+      <dc:creator>Haitao Yang</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Miao Wei, Haitao Yang
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 891
+
+Abstract: This case report discusses scimitar syndrome in a woman in her 40s who presented with 8 days of recurrent hemoptysis.</description>
     </item>
     <item>
       <title>What Breast Cancer Treatment May Mean for Your Heart</title>
