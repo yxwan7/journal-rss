@@ -5,8 +5,37 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:17:08 +0000</lastBuildDate>
 
+    <item>
+      <title>Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy</title>
+      <link>https://doi.org/10.1038/s41591-026-04692-0</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04692-0</guid>
+
+      <dc:creator>Florence Magrangeas</dc:creator>
+      <dc:creator>Mia Cherkaoui</dc:creator>
+      <dc:creator>Victor Bessonneau-Gaborit</dc:creator>
+      <dc:creator>Jennifer Derrien</dc:creator>
+      <dc:creator>Céline Chevalier</dc:creator>
+      <dc:creator>Catherine Guérin-Charbonnel</dc:creator>
+      <dc:creator>Benjamin Diamond</dc:creator>
+      <dc:creator>Mehmet Kemal Samur</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Florence Magrangeas, Mia Cherkaoui, Victor Bessonneau-Gaborit, Jennifer Derrien, Céline Chevalier, Catherine Guérin-Charbonnel, Benjamin Diamond, Mehmet Kemal Samur, et al.
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>Waiting to get sick enough</title>
+      <link>https://doi.org/10.1038/s41591-026-04701-2</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04701-2</guid>
+
+      <dc:creator>Jeffrey V. Lazarus</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jeffrey V. Lazarus
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>A reality check for autoimmune CAR T cells</title>
       <link>https://doi.org/10.1038/d41591-026-00052-0</link>
@@ -1578,38 +1607,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 9; Pages: 3491-3492</description>
       <description>Authors: Mark O’Carroll, David Kasahara, John Huetsch, Taylor Reed, Timothy N. Perkins, Rong Zhou, Lindsey Moser, Bianca Tomasini-Johansson, et al.
 
 Journal: Nature Medicine; Volume: 32; Issue: 9; Pages: 3339-3350</description>
-    </item>
-    <item>
-      <title>Clinical usability of an explainable AI decision support tool and evaluation of multimodal models in NSCLC</title>
-      <link>https://doi.org/10.1038/s41591-026-04488-2</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04488-2</guid>
-
-      <dc:creator>Arsela Prelaj</dc:creator>
-      <dc:creator>Vanja Miskovic</dc:creator>
-      <dc:creator>Matteo Sacco</dc:creator>
-      <dc:creator>Alberto Ferrarin</dc:creator>
-      <dc:creator>Cristina Maria Licciardello</dc:creator>
-      <dc:creator>Leonardo Provenzano</dc:creator>
-      <dc:creator>Margherita Favali</dc:creator>
-      <dc:creator>Ludovica Lerma</dc:creator>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Arsela Prelaj, Vanja Miskovic, Matteo Sacco, Alberto Ferrarin, Cristina Maria Licciardello, Leonardo Provenzano, Margherita Favali, Ludovica Lerma, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 9; Pages: 3235-3247
-
-Abstract: Abstract Despite a decade in, immunotherapy (IO) treatment selection in non-small cell lung cancer (NSCLC) remains largely guided by subgroup analyses and imperfect programmed death ligand 1 (PD-L1) and clinical scores. To our knowledge, I 3 LUNG ( NCT05537922 ) is currently the largest international, real-world, multimodal, artificial intelligence (AI)-based study, enrolling 2,396 patients. We integrated real-world clinical and blood (CB) data, computed tomography (CT) images, digital pathology (DP), and genomics into machine learning early fusion (MLEF) and deep learning intermediate fusion (DLIF) models. Machine learning (ML) and deep learning (DL) CB-only models achieved consistent performance across outcomes with area under the curve (AUC) up to 0.77 in the test (TEST) set. Performance drop in external validation (EXVAL) likely reflects population differences (AUC range: 0.55–0.72). AI models significantly surpassed PD-L1, Eastern Cooperative Oncology Group performance status (ECOG PS), neutrophil-to-lymphocyte ratio (NLR), lactate dehydrogenase (LDH) and Lung Immune Prognostic Index (LIPI) score in the independent TEST set. The clinical usability study showed that lung expert and nonexpert physicians improved their prediction with the explainable AI (XAI) ML CB-only based tool. Although multimodal integration with MLEF (CB+CT+DP) was associated with higher performance, its incremental benefit remains uncertain, not translated in TEST and EXVAL. The I 3 LUNG project is a pioneering framework showing the clinical usefulness of AI tools. A prospective validation of the decision support system (both CB and multimodal) is currently undergoing in more than 2,000 patients.</description>
-    </item>
-    <item>
-      <title>A multimodal murmuration for immunotherapy</title>
-      <link>https://doi.org/10.1038/s41591-026-04587-0</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04587-0</guid>
-
-      <dc:creator>Raquel Perez-Lopez</dc:creator>
-      <dc:creator>Mireia Crispin-Ortuzar</dc:creator>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Raquel Perez-Lopez, Mireia Crispin-Ortuzar
-
-Journal: Nature Medicine; Volume: 32; Issue: 9; Pages: 3136-3137</description>
     </item>
   </channel>
 </rss>

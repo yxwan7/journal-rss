@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:16:33 +0000</lastBuildDate>
 
     <item>
       <title>A Bayesian Approach to Estimating Changes in Small Area Life Expectancy Disparities in Philadelphia</title>
@@ -199,14 +199,14 @@ Abstract: Abstract We described how to adapt the prevalent new user (PNU) study 
 
       <dc:creator>Jérémie Botton</dc:creator>
       <dc:creator>Yonas Ghebremichael-Weldeselassie</dc:creator>
-      <dc:creator>Mounia Nacima Hocine</dc:creator>
+      <dc:creator>Mounia N Hocine</dc:creator>
       <dc:creator>Paddy Farrington</dc:creator>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jérémie Botton, Yonas Ghebremichael-Weldeselassie, Mounia Nacima Hocine, Paddy Farrington
+      <description>Authors: Jérémie Botton, Yonas Ghebremichael-Weldeselassie, Mounia N Hocine, Paddy Farrington
 
 Journal: American Journal of Epidemiology; Article number: kwag250
 
-Abstract: Abstract We present a novel application of the SCCS method for estimating the effectiveness and waning of the third dose of COVID-19 monovalent vaccine in France. We used data on individuals hospitalised for COVID-19 between September 2021 and February 2022 from the Système National des Données de Santé. Only cases having received a 3rd dose of COVID-19 vaccine prior to or on the day of hospitalisation were included in the analysis. We developed a new SCCS model including only time post-dose 3 vaccination, with reference period 24—65 days post-vaccination to capture maximum vaccine protection. Time was split into short-term and long-term post-vaccination risk periods, including days 4—9 corresponding to minimum protection, and successive 7-day windows from day 66 post vaccination. The model included two exposure variables, representing short-term and long-term effects of vaccination. The analysis confirms the relative effectiveness of the third-dose COVID-19 vaccination, the waning of vaccine immunity though of limited extent, and possible effect modification related to virus strain, vaccine, vaccination history, age, and sex. The strengths and weaknesses of this approach are discussed. Suitably applied, the SCCS method may provide a useful method of analysis of vaccine effectiveness which automatically controls for time-invariant confounders.</description>
+Abstract: Abstract We present a novel application of the self-controlled case series (SCCS) method for estimating the effectiveness and waning of the third dose of COVID-19 monovalent vaccine in France. We used data on individuals hospitalized for COVID-19 between September 2021 and February 2022 from the Système National des Données de Santé. Only cases having received a third dose of COVID-19 vaccine prior to or on the day of hospitalization were included in the analysis. We developed a new self-controlled case series (SCCS) model including only time post-dose 3 vaccination, with reference period 24-65 days post-vaccination to capture maximum vaccine protection. Time was split into short-term and long-term post-vaccination risk periods, including days 4-9 corresponding to minimum protection, and successive 7-day windows from day 66 post-vaccination. The model included 2 exposure variables, representing short-term and long-term effects of vaccination. The analysis confirms the relative effectiveness of the third-dose COVID-19 vaccination, the waning of vaccine immunity though of limited extent, and possible effect modification related to virus strain, vaccine, vaccination history, age, and sex. The strengths and weaknesses of this approach are discussed. Suitably applied, the SCCS method may provide a useful method of analysis of vaccine effectiveness that automatically controls for time-invariant confounders.</description>
     </item>
     <item>
       <title>Correction: Effects of two community violence interruption programs on firearm violence in Washington, DC</title>
@@ -231,7 +231,7 @@ Abstract: Abstract We present a novel application of the SCCS method for estimat
 Journal: American Journal of Epidemiology; Article number: kwag246</description>
     </item>
     <item>
-      <title>Prospective Pregnancy Preferences and Adverse Birth Outcomes in the United States: A Population-Based Study</title>
+      <title>Prospective pregnancy preferences and adverse birth outcomes in the United States: a population-based study</title>
       <link>https://doi.org/10.1093/aje/kwag244</link>
       <guid isPermaLink="false">10.1093/aje/kwag244</guid>
 
@@ -244,7 +244,7 @@ Journal: American Journal of Epidemiology; Article number: kwag246</description>
 
 Journal: American Journal of Epidemiology; Article number: kwag244
 
-Abstract: Abstract Adverse birth outcomes have been linked to “unintended” pregnancy; however, research that relies on retrospective measurement of “intentions” is vulnerable to differential recall bias. This study estimates associations between prospectively measured pregnancy preferences and preterm birth (&amp;amp;lt;37 weeks) and low birthweight (&amp;amp;lt;5.5 pounds). We analyzed longitudinal, population-based data from the Surveys of Women, conducted in nine US states (2016-2023), linking births reported across annual waves with pregnancy preferences measured before pregnancy using the 14-item Desire to Avoid Pregnancy (DAP) scale. We fit weighted logistic regression models to estimate associations between DAP categories (lower DAP: more open to pregnancy; higher DAP: stronger preference to avoid pregnancy) and outcomes using multiple imputation (primary analysis) and complete case analysis excluding participants whose DAP scores were imputed (sensitivity analysis). Although the adjusted association between DAP grouping and low birthweight was not statistically significant in analyses using imputation (15% high vs. 7% low DAP), it was significant treating DAP scores continuously (aOR=1.56 [1.01-2.43]) and in complete case analysis (20% vs. 6%, p=0.01). DAP scores were not associated with preterm birth in imputation analyses (18% high vs. 14% low DAP) or using continuous scores but were in complete case analysis (25% vs. 12%, p=0.02). While the magnitudes of associations were suggestive of a relationship between a strong prospective preference to avoid pregnancy and low birthweight, analyses were limited by low precision. Supporting individuals in achieving their reproductive preferences may have child health benefits.</description>
+Abstract: Abstract Adverse birth outcomes have been linked to “unintended” pregnancy; however, research that relies on retrospective measurement of “intentions” is vulnerable to differential recall bias. This study estimates associations between prospectively measured pregnancy preferences and preterm birth (&amp;amp;lt;37 weeks) and low birthweight (&amp;amp;lt;5.5 pounds). We analyzed longitudinal, population-based data from the Surveys of Women, conducted in 9 US states (2016-2023), linking births reported across annual waves with pregnancy preferences measured before pregnancy using the 14-item Desire to Avoid Pregnancy (DAP) scale. We fit weighted logistic regression models to estimate associations between DAP scores—treated both continuously (lower DAP: more open to pregnancy; higher DAP: stronger preference to avoid pregnancy) and as 3 groupings—and outcomes. We used multiple imputation for primary analyses and conducted complete case analysis, excluding participants whose DAP scores were imputed, as a sensitivity analysis. Although the adjusted association between DAP grouping and low birthweight was not statistically significant in analyses using imputation (15% high vs 7% low DAP), it was significant treating DAP scores continuously (aOR = 1.56 [1.01-2.43]) and in complete case analysis (20% vs 6%, P = .01). DAP scores were not associated with preterm birth in imputation analyses (18% high vs 14% low DAP) or using continuous scores but were in complete case analysis (25% vs 12%, P = .02). While the magnitudes of associations were suggestive of a relationship between a strong prospective preference to avoid pregnancy and low birthweight, analyses were limited by low precision. Supporting individuals in achieving their reproductive preferences may have child health benefits.</description>
     </item>
     <item>
       <title>Evaluating potential sources of bias in linear growth rate analysis of renal tumors: case study in Von Hippel–Lindau disease</title>
