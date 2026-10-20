@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 13:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:36:58 +0000</lastBuildDate>
 
     <item>
       <title>Stereoselective polysubstituted bicyclo[1.1.0]butane synthesis by rhodium-catalyzed kinetic resolution</title>
@@ -1312,6 +1312,17 @@ Journal: Science; Volume: 394; Issue: 6820; Article number: aef2931
 Abstract: Episodic lava fountaining is rare globally, with only three occurrences from Kīlauea (Hawaii) since 1823. Beginning in December 2024, an eruption within the summit crater, Halemaʻumaʻu, has produced 54 fountaining episodes to date, each lasting typically for hours and separated by days to weeks. Although multiple mechanisms have been proposed, fundamental questions remain about how magma reservoir pressure, conduit permeability, and volatile exsolution control fountaining onset. We present a multiparameter record of episodic fountaining at Kīlauea using modern geochemical, geophysical, and geologic monitoring. These observations revealed systematic correlations between fountaining and summit inflation, enabling unprecedented quantitative forecasts. This eruption will provide new constraints on the timing, evolution, and processes driving episodic fountaining globally, and highlights Kīlauea’s role as a natural laboratory for studying volcanic processes.</description>
     </item>
     <item>
+      <title>Returning home</title>
+      <link>https://doi.org/10.1126/science.aem9878</link>
+      <guid isPermaLink="false">10.1126/science.aem9878</guid>
+
+      <dc:creator>Hamid Khazaei</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hamid Khazaei
+
+Journal: Science; Volume: 394; Issue: 6820; Pages: 242-242</description>
+    </item>
+    <item>
       <title>High-fidelity entangling gates and nonlocal circuits with neutral atoms</title>
       <link>https://doi.org/10.1126/science.aei1312</link>
       <guid isPermaLink="false">10.1126/science.aei1312</guid>
@@ -1330,17 +1341,6 @@ Abstract: Episodic lava fountaining is rare globally, with only three occurrence
 Journal: Science; Volume: 394; Issue: 6820; Pages: 197-201
 
 Abstract: The generation and manipulation of entanglement with low error are essential in quantum information systems. In practice, two-qubit entangling gates constitute a dominant error source, limiting circuit depths and performance in fault-tolerant architectures. Using a neutral-atom quantum processor, we realized entangling controlled- Z gates with a high-Rabi-frequency smooth-amplitude pulse, employing state-selective readout and qubit reuse for fast calibration, and achieved a fidelity of 99.854(4)%, which improved to 99.941(3)% upon loss postselection, with stable performance for 10 hours. We then used these low-error gates in quantum circuits with coherent atom rearrangement. Performance was benchmarked by creating and disentangling cluster states, and subsequently, we studied nonlocally entangled states with scrambling circuits featuring longer-range connectivity. Our approach provides a route toward deep-circuit, efficient fault-tolerant quantum computation.</description>
-    </item>
-    <item>
-      <title>Returning home</title>
-      <link>https://doi.org/10.1126/science.aem9878</link>
-      <guid isPermaLink="false">10.1126/science.aem9878</guid>
-
-      <dc:creator>Hamid Khazaei</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hamid Khazaei
-
-Journal: Science; Volume: 394; Issue: 6820; Pages: 242-242</description>
     </item>
     <item>
       <title>Verification makes discovery matter</title>
