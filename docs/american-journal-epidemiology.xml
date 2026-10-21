@@ -5,8 +5,65 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:50:00 +0000</lastBuildDate>
 
+    <item>
+      <title>Myeloma ascertainment and the timing of selenium safety signals</title>
+      <link>https://doi.org/10.1093/aje/kwag266</link>
+      <guid isPermaLink="false">10.1093/aje/kwag266</guid>
+
+      <dc:creator>Xin Chang</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xin Chang
+
+Journal: American Journal of Epidemiology; Article number: kwag266</description>
+    </item>
+    <item>
+      <title>Exploring heterogeneous treatment effects for GLP-1 receptor agonists in patients with type 2 diabetes</title>
+      <link>https://doi.org/10.1093/aje/kwag261</link>
+      <guid isPermaLink="false">10.1093/aje/kwag261</guid>
+
+      <dc:creator>Luke Keele</dc:creator>
+      <dc:creator>Matteo Bonvini</dc:creator>
+      <dc:creator>Andrea M Storås</dc:creator>
+      <dc:creator>Vik Shirvaikar</dc:creator>
+      <dc:creator>Haodong Li</dc:creator>
+      <dc:creator>Nils B Jørgensen</dc:creator>
+      <dc:creator>Afshin Salsali</dc:creator>
+      <dc:creator>Morten Medici</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Luke Keele, Matteo Bonvini, Andrea M Storås, Vik Shirvaikar, Haodong Li, Nils B Jørgensen, Afshin Salsali, Morten Medici, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag261
+
+Abstract: Abstract Understanding treatment effect heterogeneity (TEH) is essential to improve care for patients living with chronic diseases like type 2 diabetes. Individual responses to treatment can vary substantially, and identifying the factors that drive TEH may enable increased personalization of treatment and follow-up. In this study, we conduct an exploratory analysis of TEH for glucagon-like peptide-1 receptor agonists used to treat type 2 diabetes. Endpoints are defined using hemoglobin A1c measurements, body mass index, and blood pressure. We use causal forests to conduct global tests for TEH, estimate variable importances to rank candidate effect modifiers, and estimate the magnitude of heterogeneity. Data from three clinical trials are analyzed: SUSTAIN 6 (subcutaneous semaglutide versus placebo, n=3297), PIONEER 6 (oral semaglutide versus placebo, n=3183), and LEADER (subcutaneous liraglutide versus placebo, n=9340), pooled to 13,670 patients after exclusions. Baseline hemoglobin A1c ranks highest among candidate effect modifiers across methods, and kidney function ranks next in the relative risk causal forest; we discuss their clinical implications. The magnitude estimates, however, show that the variation these covariates jointly explain is small. As such, large covariate-driven heterogeneity can be ruled out in these trials, and the average treatment effect provides a reasonable summary for most patients.</description>
+    </item>
+    <item>
+      <title>Maternal Education in Context: Reassessing the Infant Health Paradox among Latin American Immigrants</title>
+      <link>https://doi.org/10.1093/aje/kwag267</link>
+      <guid isPermaLink="false">10.1093/aje/kwag267</guid>
+
+      <dc:creator>Tiffany T Liu</dc:creator>
+      <dc:creator>Tod G Hamilton</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Tiffany T Liu, Tod G Hamilton
+
+Journal: American Journal of Epidemiology; Article number: kwag267
+
+Abstract: Abstract One aspect of the Hispanic Health Paradox is the longstanding observation that Latin American immigrants in the United States often experience equal or better health outcomes than U.S.-born counterparts despite greater socioeconomic disadvantage. This advantage extends to their infants and is most pronounced among mothers with the least education. Whether such patterns reflect selective migration remains unclear. This study evaluates the role of educational selectivity in explaining nativity disparities in infant health. Using U.S. natality data among immigrants from Mexico, Cuba, El Salvador, Guatemala, the Dominican Republic, Colombia, Honduras, and Venezuela (2012–2023), linked with internationally harmonized educational data, we assess preterm birth disparities using two measures of maternal education: absolute and relative attainment. Immigrants at the bottom of the U.S. education distribution often rank much higher in their origin countries, consistent with positive selection. For most births to Latin American mothers (except Colombian and Venezuelan), measuring education relative to origin-country distributions reverses immigrant advantages. At equivalent relative education ranks, immigrant mothers face comparable or higher risks of preterm birth than U.S.-born Hispanic mothers. These findings offer a new perspective on the Hispanic Health Paradox, highlighting the importance of relative education in understanding the association between maternal education and infant health.</description>
+    </item>
+    <item>
+      <title>Live-birth selection and the interpretation of hyperemesis gravidarum and adverse pregnancy outcomes</title>
+      <link>https://doi.org/10.1093/aje/kwag265</link>
+      <guid isPermaLink="false">10.1093/aje/kwag265</guid>
+
+      <dc:creator>Yating Xie</dc:creator>
+      <dc:creator>Ting Ye</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yating Xie, Ting Ye
+
+Journal: American Journal of Epidemiology; Article number: kwag265</description>
+    </item>
     <item>
       <title>Subjective cognitive decline and objective cognitive performance across diverse intersectional identities by gender, race/ethnicity, and educational attainment</title>
       <link>https://doi.org/10.1093/aje/kwag253</link>
@@ -486,23 +543,6 @@ Journal: American Journal of Epidemiology; Article number: kwag235
 Abstract: Abstract The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.</description>
     </item>
     <item>
-      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
-      <link>https://doi.org/10.1093/aje/kwag232</link>
-      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
-
-      <dc:creator>Fjorida Llaha</dc:creator>
-      <dc:creator>Yu-Han Chiu</dc:creator>
-      <dc:creator>Idlir Licaj</dc:creator>
-      <dc:creator>Tom Wilsgaard</dc:creator>
-      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
-
-Journal: American Journal of Epidemiology; Article number: kwag232
-
-Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
-    </item>
-    <item>
       <title>Rationale and design of the Atherosclerosis Risk in Communities Generation 2 study</title>
       <link>https://doi.org/10.1093/aje/kwag237</link>
       <guid isPermaLink="false">10.1093/aje/kwag237</guid>
@@ -521,6 +561,23 @@ Abstract: Abstract We applied target trial emulation and the parametric g-formul
 Journal: American Journal of Epidemiology; Article number: kwag237
 
 Abstract: Abstract Type 2 diabetes is a risk factor for cardiac arrhythmias, but it is unknown how specific aberrations in glucose (eg, episodes of high or low glucose) might contribute to the occurrence of heart rhythm abnormalities. The overarching goal of this study is to address research questions regarding how glucose patterns might contribute to the occurrence of arrhythmias, primarily atrial fibrillation, in adults with diabetes. To fulfill this goal, the Atherosclerosis Risk in Communities Generation 2 (ARIC Gen2) study recruited 507 community-dwelling adults aged 50-80 years with type 2 diabetes to wear continuous glucose monitoring (CGM) and electrocardiogram (ECG) “patch” monitoring sensors simultaneously for up to 14 days. Generation 2 study had high CGM and ECG completeness: The median wear time for sensors was 14 days and ~80% of participants wore both sensors for ≥10 days. By combining Gen2 and data from the original ongoing ARIC cohort (aged 80+), we have the capacity to conduct a comprehensive evaluation of the impact of CGM-defined glucose patterns on arrhythmias across a wide age spectrum from middle-aged to very old adults (aged 50-100) with type 2 diabetes. The findings from this study may help inform clinical strategies for the prevention and management of arrhythmias among adults with type 2 diabetes.</description>
+    </item>
+    <item>
+      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
+      <link>https://doi.org/10.1093/aje/kwag232</link>
+      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
+
+      <dc:creator>Fjorida Llaha</dc:creator>
+      <dc:creator>Yu-Han Chiu</dc:creator>
+      <dc:creator>Idlir Licaj</dc:creator>
+      <dc:creator>Tom Wilsgaard</dc:creator>
+      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
+
+Journal: American Journal of Epidemiology; Article number: kwag232
+
+Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
     </item>
     <item>
       <title>Contribution of adolescent movement behaviors to socioeconomic inequalities in adult cardiovascular disease risk: a causal decomposition in a population-based cohort</title>
@@ -705,21 +762,6 @@ Journal: American Journal of Epidemiology; Article number: kwag217
 Abstract: Abstract Participants who continue across the full duration of longitudinal studies often differ from those lost to attrition, defined as discontinuing participation for any reason, and some participants may sporadically miss assessments. Complex participation patterns, such as in multicenter chronic disease cohorts, have not been studied. We aimed to implement an approach to identify participation subgroups and factors associated with these. We applied our approach in the Scleroderma Patient-centered Intervention Network Cohort, a multicenter, longitudinal systemic sclerosis cohort, because it is an example of an open-ended cohort with no planned end date and complex participation patterns. We used group-based trajectory modeling to identify participation subgroups and multinomial logistic regression to identify predictors of subgroup membership. Data were obtained for 2883 participants from 54 sites in 7 countries. We identified 5 participation subgroups: Ongoing Participation (29%), Immediate Attrition (29%), Mid-Term Attrition (19%), Long-Term Attrition (12%), and Ongoing Sporadic (11%) participation. Older age and sites outside the United States were associated with lower odds of belonging to all subgroups other than Ongoing Participation. Compared to Ongoing Participation, several sociodemographic variables were associated with higher odds of being in the Immediate Attrition group. Our method can be applied to other cohorts with complex participation patterns.</description>
     </item>
     <item>
-      <title>In memoriam: Roger Allen Feldman 1931-2026</title>
-      <link>https://doi.org/10.1093/aje/kwag216</link>
-      <guid isPermaLink="false">10.1093/aje/kwag216</guid>
-
-      <dc:creator>David N Taylor</dc:creator>
-      <dc:creator>Claire V Broome</dc:creator>
-      <dc:creator>Martin J Blaser</dc:creator>
-      <dc:creator>David W Fraser</dc:creator>
-      <dc:creator>Paul A Blake</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: David N Taylor, Claire V Broome, Martin J Blaser, David W Fraser, Paul A Blake
-
-Journal: American Journal of Epidemiology; Article number: kwag216</description>
-    </item>
-    <item>
       <title>Cumulative layoffs in adulthood and cognitive function in mid-to-later life among US working-age adults, 1979-2020</title>
       <link>https://doi.org/10.1093/aje/kwag218</link>
       <guid isPermaLink="false">10.1093/aje/kwag218</guid>
@@ -736,6 +778,21 @@ Journal: American Journal of Epidemiology; Article number: kwag216</description>
 Journal: American Journal of Epidemiology; Article number: kwag218
 
 Abstract: Abstract As one of the most disruptive life events, layoffs are pervasive in the US labor market, while little is known about cumulative layoff experience across adulthood in relation to subsequent cognitive function. We investigated the association between cumulative layoffs spanning 41 years of adulthood and subsequent domain-specific cognition among US working-age adults. Data were from 6421 adults in the National Longitudinal Survey of Youth 1979. Cumulative layoff experience was defined as the number of jobs ending in a layoff from 1979 to 2020: 0 (never, n = 4503), 1 (n = 1402), and ≥2 (n = 516). Domain-specific latent cognitive factor scores were assessed in 2020 using confirmatory factor analysis. Multivariable-adjusted linear regression models were fit to investigate the association of interest. Results suggest that cumulative layoff experience was associated with lower latent factor scores in episodic memory (β = −0.045, 95% CI, −0.100 to 0.010, 1 layoff vs. never; β = −0.086, 95% CI, −0.171 to −0.001, ≥2 layoffs vs. never; P trend = 0.037), but not in attention, orientation, or language domains. Given its ubiquity in the US labor market, layoffs may represent an important and understudied risk factor for episodic memory function among US adults.</description>
+    </item>
+    <item>
+      <title>In memoriam: Roger Allen Feldman 1931-2026</title>
+      <link>https://doi.org/10.1093/aje/kwag216</link>
+      <guid isPermaLink="false">10.1093/aje/kwag216</guid>
+
+      <dc:creator>David N Taylor</dc:creator>
+      <dc:creator>Claire V Broome</dc:creator>
+      <dc:creator>Martin J Blaser</dc:creator>
+      <dc:creator>David W Fraser</dc:creator>
+      <dc:creator>Paul A Blake</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: David N Taylor, Claire V Broome, Martin J Blaser, David W Fraser, Paul A Blake
+
+Journal: American Journal of Epidemiology; Article number: kwag216</description>
     </item>
     <item>
       <title>What happens to your manuscript: characteristics of papers published in volume 194 of the
@@ -1584,59 +1641,6 @@ Abstract: Abstract Observational studies examining causal effects rely on unveri
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2616-2621
 
 Abstract: Abstract Comprehensive exams are a standard component of doctoral-level training programs in epidemiology. In this manuscript, we describe current practices in the administration of comprehensive examinations across doctoral programs in epidemiology and discuss variation in the content, format, and structure of these exams. We present results from a survey of 33 epidemiology programs about the comprehensive exam process. We also discuss a symposium focused on comprehensive exams that was part of the 2025 Society for Epidemiologic Research annual meeting. The symposium included speakers with specific expertise in designing comprehensive exams, as well as faculty from several different epidemiology programs across North America. The survey found important differences in format (ie, written, oral, general epidemiology, substantive topics), when the exams are administered, and the level of epidemiology knowledge targeted. In this manuscript, we also discuss common challenges programs face, including developing and grading exams. By sharing this information with a wide audience of epidemiologists, we aim to facilitate discussion to improve the comprehensive exam process for doctoral students in our field. This work also fits with a broader goal to initiate discussion about doctoral-level training in epidemiology.</description>
-    </item>
-    <item>
-      <title>Response to letter to the editor, “Challenges of coding industry and occupation in epidemiologic studies”</title>
-      <link>https://doi.org/10.1093/aje/kwag167</link>
-      <guid isPermaLink="false">10.1093/aje/kwag167</guid>
-
-      <dc:creator>Aarushi Joshi</dc:creator>
-      <dc:creator>Anissa I Vines</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Aarushi Joshi, Anissa I Vines
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2663-2666</description>
-    </item>
-    <item>
-      <title>Clasen et al. respond to “Thyroid autoimmunity in the TEDDY cohort: is HLA 8.1 haplotype the hidden driver?”</title>
-      <link>https://doi.org/10.1093/aje/kwag156</link>
-      <guid isPermaLink="false">10.1093/aje/kwag156</guid>
-
-      <dc:creator>Joanna L Clasen</dc:creator>
-      <dc:creator>Hemang M Parikh</dc:creator>
-      <dc:creator>William A Hagopian</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Joanna L Clasen, Hemang M Parikh, William A Hagopian
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2502-2503</description>
-    </item>
-    <item>
-      <title>Pregnancy intentions by sexual orientation among pregnancies across the life course</title>
-      <link>https://doi.org/10.1093/aje/kwag165</link>
-      <guid isPermaLink="false">10.1093/aje/kwag165</guid>
-
-      <dc:creator>Payal Chakraborty</dc:creator>
-      <dc:creator>Corinne H Rocca</dc:creator>
-      <dc:creator>Colleen A Reynolds</dc:creator>
-      <dc:creator>Isa Berzansky</dc:creator>
-      <dc:creator>Kodiak R S Soled</dc:creator>
-      <dc:creator>Sarah McKetta</dc:creator>
-      <dc:creator>Ange-Marie Hancock</dc:creator>
-      <dc:creator>Danielle Bessett</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Payal Chakraborty, Corinne H Rocca, Colleen A Reynolds, Isa Berzansky, Kodiak R S Soled, Sarah McKetta, Ange-Marie Hancock, Danielle Bessett, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag165
-
-Abstract: Abstract Sexual minority (SM) people may be at increased risk of “unintended” pregnancies, but limited research has examined potential disparities. We examined the intention status of lifetime pregnancies by sexual orientation. We pooled data from the Nurses’ Health Study 3 and Growing Up Today Study (N = 36 967 pregnancies 1978-2024). Using multinomial models, we estimated relative risk ratios (RRRs) for pregnancy intention (actively trying/wanted then or sooner, not trying but glad, wanted later but not then, and unwanted then and in the future) among SM groups (completely heterosexual with same-sex experience, mostly heterosexual, bisexual, and lesbian/gay) vs completely heterosexual participants with no same-sex experience. Model-predicted probabilities show that 15%-33% of pregnancies within each sexual orientation group were wanted later/unwanted. Compared to pregnancies to completely heterosexual participants with no same-sex experience, all SM groups had more pregnancies that were wanted later (RRRs from 1.22 [completely heterosexual with same-sex experience] to 2.28 [bisexual]) and unwanted then and in the future (RRRs ranging from 1.74 [completely heterosexual with same-sex experience] to 5.23 [bisexual participants]), compared to pregnancies occurring when participants were actively trying/wanted the pregnancy then or sooner. Our findings suggest that pregnancies among SM groups disproportionately are unwanted or occur too early.</description>
-    </item>
-    <item>
-      <title>Correction to: Sampling for computational efficiency when conducting analyses in big data</title>
-      <link>https://doi.org/10.1093/aje/kwag152</link>
-      <guid isPermaLink="false">10.1093/aje/kwag152</guid>
-
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Journal: American Journal of Epidemiology; Volume: 195; Issue: 9; Pages: 2505-2505</description>
     </item>
   </channel>
 </rss>
