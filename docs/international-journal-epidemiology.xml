@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:49:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:53:06 +0000</lastBuildDate>
 
     <item>
       <title>Health risks of alcohol consumption in Aotearoa New Zealand: modelling to inform low-risk-drinking guidelines</title>
@@ -103,6 +103,20 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag204
 
 Abstract: Abstract Background Transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) often clusters in families, suggesting role of shared environmental and genetic factors. We performed a nationwide Danish study of twins, their spouses, and matched population controls with the aim of disentangling the host genetic and environmental mechanisms underlying the familial clustering of SARS-CoV-2 susceptibility and coronavirus disease 2019 (COVID-19) severity. Methods This registry-linkage study included 83 902 twins and 32 719 spouses, matched to 839 020 population controls and 327 190 spouse controls, respectively, and followed from 1 February 2020 to 31 October 2022. Testing positive for SARS-CoV-2 infection and COVID-19 hospitalization served as proxies for SARS-CoV-2 susceptibility and disease severity, respectively. We compared concordance rates and calculated heritability from biometrical modelling of these traits. Results We found no evidence of a genetic influence on infection susceptibility in the first two waves of the pandemic and a modest influence [heritability: 19.4%; 95% confidence interval (CI): 10.0%–28.8%] in the third wave. Spouses showed the highest concordance rates by a large margin in all waves. Our study found no evidence of a genetic predisposition to disease severity. Co-twins of hospitalized twins had no increased risk of hospitalization. By contrast, the risk of being hospitalized with COVID-19 was higher [relative risk: 3.56; 95% CI: 2.57–4.92] among the spouses of the hospitalized twins than among the controls. Conclusion Social proximity was a key determinant of infection susceptibility. A three-fold increased risk for spouses suggests that viral load and lifestyle shared between spouses were more important determinants of severe COVID-19 than genetic susceptibility.</description>
+    </item>
+    <item>
+      <title>Cohort Profile: A Scottish population-level study on the outcomes of people released from prison (RELEASE)</title>
+      <link>https://doi.org/10.1093/ije/dyag220</link>
+      <guid isPermaLink="false">10.1093/ije/dyag220</guid>
+
+      <dc:creator>Catriona Connell</dc:creator>
+      <dc:creator>Richard Kjellgren</dc:creator>
+      <dc:creator>Kate Hunt</dc:creator>
+      <dc:creator>Jan Savinc</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Catriona Connell, Richard Kjellgren, Kate Hunt, Jan Savinc
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag220</description>
     </item>
     <item>
       <title>Response to Abnet’s comments on “Alcohol consumption and cancer risk in South Korea and the UK”</title>
@@ -317,25 +331,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Cancer mortality levels have declined across high-income countries, but progress has been uneven by cancer type. Examining birth-cohort patterns of lifestyle-related cancer mortality in an international context can shed light on how shared and differential global lifestyle transitions manifest differently across national contexts. Methods We used harmonized cause-of-death data from the Human Cause of Death series of the Human Mortality Database for Canada, Czechia, England &amp;amp; Wales, France, Germany, Japan, Spain, and the USA from 2000 to 2020. We examined mortality from lung and larynx, colorectal, stomach, and liver cancer for ages 30–84 years by using rates of mortality improvement displayed on Lexis surfaces. Single-age death rates were estimated from grouped data by using penalized composite link models. Two-factor Poisson models and sex-stratified surfaces served as sensitivity analyses. Results All eight countries showed declining age-standardized cancer mortality, but with diverging trends by cause and birth cohorts. Lung and larynx cancer declined broadly, with mortality patterns reflecting cohort cigarette-smoking histories. Colorectal cancer mortality increased among cohorts born after 1960 in the USA, Canada, and England &amp;amp; Wales, with a similar but delayed pattern in France and Germany. Liver cancer mortality was higher for cohorts born in 1945–55 than for earlier and later cohorts in several countries, with a re-emerging adverse pattern among cohorts born in around 1970–80. Conclusion Birth-cohort patterns in lifestyle-associated cancer mortality differ across national contexts. Worsening colorectal and liver cancer trends among younger cohorts call for increased prevention and screening strategies.</description>
     </item>
     <item>
-      <title>Negative controls and how to use them: a guidance paper</title>
-      <link>https://doi.org/10.1093/ije/dyag163</link>
-      <guid isPermaLink="false">10.1093/ije/dyag163</guid>
-
-      <dc:creator>Sophie H Bots</dc:creator>
-      <dc:creator>Anna Schultze</dc:creator>
-      <dc:creator>Romin Pajouheshnia</dc:creator>
-      <dc:creator>Ian J Douglas</dc:creator>
-      <dc:creator>Rosa Gini</dc:creator>
-      <dc:creator>Olaf H Klungel</dc:creator>
-      <dc:creator>Rolf H H Groenwold</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sophie H Bots, Anna Schultze, Romin Pajouheshnia, Ian J Douglas, Rosa Gini, Olaf H Klungel, Rolf H H Groenwold
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag163
-
-Abstract: Abstract Negative controls have gained traction as a useful tool for causal research to address confounding and bias. However, general guidance on how to select and apply negative controls and how to report and interpret their findings is lacking. This paper lays out the key steps of conducting a negative-control analysis and provides all relevant background information, important feasibility and validity considerations, and practical suggestions for the implementation and interpretation of each step. This includes a convenient overview of all methods, complete with their rationale, key considerations, and illustrative examples, and practical checklists that both researchers and reviewers can use to facilitate the complete and rigorous reporting of negative-control analyses.</description>
-    </item>
-    <item>
       <title>Not always towards the null: reconsidering the direction of overadjustment bias</title>
       <link>https://doi.org/10.1093/ije/dyag215</link>
       <guid isPermaLink="false">10.1093/ije/dyag215</guid>
@@ -353,6 +348,25 @@ Abstract: Abstract Negative controls have gained traction as a useful tool for c
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag215
 
 Abstract: Abstract Overadjustment bias occurs when adjusting for a variable increases rather than decreases bias. It commonly arises in studies estimating the total causal effect of an exposure on an outcome due to inappropriate adjustment for a mediator. While such inappropriate mediator adjustment can lead to bias in any direction (towards the null, away from the null, or reverse the direction of effect) even in the absence of other relevant unadjusted variables, this type of overadjustment bias is often described as acting towards the null. Using directed acyclic graphs and a simulated example of adjustment for smoking when estimating the total causal effect of education on the risk of breast cancer, we explain how inappropriately adjusting for a mediator can lead to overadjustment bias in any direction. Correspondingly, we provide general guidance to predict the likely direction of overadjustment bias based on the direction of effect of the relevant paths involved. In general, this bias will be away from the null or in the reverse direction when the mediated pathway being closed by inappropriate adjustment acts in the opposite direction to the combined effect of all remaining pathways between the exposure and the outcome. In contrast, this bias will be towards the null when the effects of these paths act in the same direction.</description>
+    </item>
+    <item>
+      <title>Negative controls and how to use them: a guidance paper</title>
+      <link>https://doi.org/10.1093/ije/dyag163</link>
+      <guid isPermaLink="false">10.1093/ije/dyag163</guid>
+
+      <dc:creator>Sophie H Bots</dc:creator>
+      <dc:creator>Anna Schultze</dc:creator>
+      <dc:creator>Romin Pajouheshnia</dc:creator>
+      <dc:creator>Ian J Douglas</dc:creator>
+      <dc:creator>Rosa Gini</dc:creator>
+      <dc:creator>Olaf H Klungel</dc:creator>
+      <dc:creator>Rolf H H Groenwold</dc:creator>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sophie H Bots, Anna Schultze, Romin Pajouheshnia, Ian J Douglas, Rosa Gini, Olaf H Klungel, Rolf H H Groenwold
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag163
+
+Abstract: Abstract Negative controls have gained traction as a useful tool for causal research to address confounding and bias. However, general guidance on how to select and apply negative controls and how to report and interpret their findings is lacking. This paper lays out the key steps of conducting a negative-control analysis and provides all relevant background information, important feasibility and validity considerations, and practical suggestions for the implementation and interpretation of each step. This includes a convenient overview of all methods, complete with their rationale, key considerations, and illustrative examples, and practical checklists that both researchers and reviewers can use to facilitate the complete and rigorous reporting of negative-control analyses.</description>
     </item>
     <item>
       <title>Data Resource Profile: The General Practice Database—Amsterdam, North Holland, Almere (GPD-ANHA)</title>
@@ -1695,20 +1709,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Takwanisa Machemedze, Nqaba Mthimkhulu, Maite Morena, Maatla D Temane, Portia C Mutevedzi, Sana Mahtab, Daniel Ohene-Kwofie, Chodziwadziwa Whiteson Kabudula, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag115</description>
-    </item>
-    <item>
-      <title>Contributions of preeclampsia to preterm delivery: a hypothetical interventional cohort study using incremental propensity scores</title>
-      <link>https://doi.org/10.1093/ije/dyag098</link>
-      <guid isPermaLink="false">10.1093/ije/dyag098</guid>
-
-      <dc:creator>Wen Wei Loh</dc:creator>
-      <dc:creator>Cande V Ananth</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Wen Wei Loh, Cande V Ananth
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag098
-
-Abstract: Abstract Background Preeclampsia remains a leading cause of preterm delivery (PTD). Conventional average causal effect estimands may not always be perfectly suited for assessing preeclampsia’s contributions because they rely on uniform counterfactual scenarios, such as everyone suffering from preeclampsia. A complementary approach is the incremental propensity score intervention (IPSI), which can address a more action-oriented causal inquiry: How would the population average risk of PTD change from current observed levels if each individual’s odds of preeclampsia were reduced by a given amount? Methods We applied IPSI to two US population cohorts of singleton pregnancies, separated by two decades (1998–2002, 16.7 million; 2020–2023, 14.2 million), to evaluate the causal effects of gestational hypertension/preeclampsia (GHTN/PE) on PTD within each cohort. We developed and implemented a sensitivity analysis procedure using bias formulas to gauge the impact of potential unmeasured confounding. Results Between 1998 and 2002, halving the individual odds of GHTN/PE would reduce the population average risk of PTD from observed [risk ratio (RR) = 0.969, 95% confidence interval (CI) 0.969–0.970]. Between 2020 and 2023, when GHTN/PE was more prevalent, halving the odds of preeclampsia would lead to an even greater reduction in average PTD risk (RR = 0.948, 95% CI 0.947–0.948). Sensitivity analyses demonstrated that these conclusions held under assumptions encoding relatively strong unmeasured confounding. Conclusions The IPSI approach offers more nuanced understanding and clinically meaningful interpretations of causal effects, such as by how much partially reducing the odds of GHTN/PE, while allowing it to remain non-zero, can lower the average risk of PTD.</description>
     </item>
   </channel>
 </rss>

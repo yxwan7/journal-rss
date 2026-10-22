@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:49:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:52:50 +0000</lastBuildDate>
 
     <item>
       <title>Stereoselective polysubstituted bicyclo[1.1.0]butane synthesis by rhodium-catalyzed kinetic resolution</title>
@@ -917,26 +917,6 @@ Journal: Science; Volume: 394; Issue: 6820; Pages: 234-239
 Abstract: Large language models (LLMs) increasingly excel at mathematics tasks, but their unreliability limits their utility in mathematics research. A mitigation is to use LLMs to generate formal proofs in languages such as Lean, in which the compiler verifies every proof step. We present the first demonstration of this method’s value in solving open problems at scale. We built an artificial intelligence agent for formal proof search that autonomously resolved nine of 353 open Erdős problems, proved 44/492 On-Line Encyclopedia of Integer Sequences conjectures, and is being deployed in combinatorics, optimization, graph theory, algebraic geometry, and quantum optics research. Even a basic agent alternating LLM-based generation with Lean-based verification replicated the Erdős successes. These findings demonstrate the power of formal proof search as an enabler of autonomous mathematical discovery.</description>
     </item>
     <item>
-      <title>Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs</title>
-      <link>https://doi.org/10.1126/science.aeb2986</link>
-      <guid isPermaLink="false">10.1126/science.aeb2986</guid>
-
-      <dc:creator>Blaise L. Mariner</dc:creator>
-      <dc:creator>Brianah M. McCoy</dc:creator>
-      <dc:creator>Ashlee Greenier</dc:creator>
-      <dc:creator>Layla Brassington</dc:creator>
-      <dc:creator>Elizabeth Slikas</dc:creator>
-      <dc:creator>Christine Adjangba</dc:creator>
-      <dc:creator>Claire Cheng</dc:creator>
-      <dc:creator>Abbey Marye</dc:creator>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Blaise L. Mariner, Brianah M. McCoy, Ashlee Greenier, Layla Brassington, Elizabeth Slikas, Christine Adjangba, Claire Cheng, Abbey Marye, et al.
-
-Journal: Science; Volume: 394; Issue: 6820; Article number: eaeb2986
-
-Abstract: The extraordinary lifespan variation in domestic dogs provides a natural experiment for testing how intrinsic rates of biological aging shape lifespan. Using 1640 methylomes from 894 dogs, we developed an epigenetic clock that predicted mortality and demonstrated that epigenetic aging is fastest early in life. At orthologs of human age-associated genes, dogs exhibited concordant age effects on promoter methylation, highlighting conserved remodeling of immune pathways. We found that larger and male dogs, which are shorter lived, exhibit accelerated molecular aging. Distinct epigenetic architectures mediated these effects: Sex-dependent methylation changes were concentrated on the X chromosome, whereas size-associated methylation was especially pronounced at transposable elements (TEs). These findings show that epigenetics reflects lifespan differences in dogs and identifies TEs as potential mediators of size-associated lifespan.</description>
-    </item>
-    <item>
       <title>Wafer-scale low-symmetry graphene moiré superlattice for integrated quantum rectifiers</title>
       <link>https://doi.org/10.1126/science.aeh3915</link>
       <guid isPermaLink="false">10.1126/science.aeh3915</guid>
@@ -955,6 +935,26 @@ Abstract: The extraordinary lifespan variation in domestic dogs provides a natur
 Journal: Science; Volume: 394; Issue: 6820; Pages: 222-227
 
 Abstract: Low-symmetry materials unlock rich Berry curvature physics and anomalous transport phenomena that are forbidden in high-symmetry quantum systems through rigorous crystalline symmetry constraints. Current approaches rely on external fields or complex heterogeneous stacking to break crystalline symmetries, which hinders scalable device integration. In this work, we demonstrate surface premelting engineering to create wafer-scale low-symmetry graphene on germanium-110 [Ge(110)]. Controlled premelting forms striped germanium surface patterns that reduce graphene symmetry from D 6h to C 1v , producing a room-temperature nonlinear Hall conductivity of ~11 micrometers per volt per ohm. First-principles calculations attribute this to originating from overtilted massive Dirac cones of hybridized germanium bands and the graphene Dirac cone. Integrated nonlinear Hall rectifiers generate &amp;gt;20 millivolts of output from radio frequency input and drive commercial voltage boosters and light-emitting diodes, establishing a complementary metal-oxide semiconductor–compatible route toward wafer-scale nonlinear quantum devices.</description>
+    </item>
+    <item>
+      <title>Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs</title>
+      <link>https://doi.org/10.1126/science.aeb2986</link>
+      <guid isPermaLink="false">10.1126/science.aeb2986</guid>
+
+      <dc:creator>Blaise L. Mariner</dc:creator>
+      <dc:creator>Brianah M. McCoy</dc:creator>
+      <dc:creator>Ashlee Greenier</dc:creator>
+      <dc:creator>Layla Brassington</dc:creator>
+      <dc:creator>Elizabeth Slikas</dc:creator>
+      <dc:creator>Christine Adjangba</dc:creator>
+      <dc:creator>Claire Cheng</dc:creator>
+      <dc:creator>Abbey Marye</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Blaise L. Mariner, Brianah M. McCoy, Ashlee Greenier, Layla Brassington, Elizabeth Slikas, Christine Adjangba, Claire Cheng, Abbey Marye, et al.
+
+Journal: Science; Volume: 394; Issue: 6820; Article number: eaeb2986
+
+Abstract: The extraordinary lifespan variation in domestic dogs provides a natural experiment for testing how intrinsic rates of biological aging shape lifespan. Using 1640 methylomes from 894 dogs, we developed an epigenetic clock that predicted mortality and demonstrated that epigenetic aging is fastest early in life. At orthologs of human age-associated genes, dogs exhibited concordant age effects on promoter methylation, highlighting conserved remodeling of immune pathways. We found that larger and male dogs, which are shorter lived, exhibit accelerated molecular aging. Distinct epigenetic architectures mediated these effects: Sex-dependent methylation changes were concentrated on the X chromosome, whereas size-associated methylation was especially pronounced at transposable elements (TEs). These findings show that epigenetics reflects lifespan differences in dogs and identifies TEs as potential mediators of size-associated lifespan.</description>
     </item>
     <item>
       <title>An AI agent emailed hundreds of researchers for help. It told us why</title>

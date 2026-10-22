@@ -5,8 +5,167 @@
     <link>https://www.nature.com/nature/</link>
     <description>Latest journal articles for Nature</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:52:48 +0000</lastBuildDate>
 
+    <item>
+      <title>The anatomy of a personal health agent</title>
+      <link>https://doi.org/10.1038/s41586-026-11161-8</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11161-8</guid>
+
+      <dc:creator>A. Ali Heydari</dc:creator>
+      <dc:creator>Ken Gu</dc:creator>
+      <dc:creator>Vidya Srinivas</dc:creator>
+      <dc:creator>Hong Yu</dc:creator>
+      <dc:creator>Akshay Paruchuri</dc:creator>
+      <dc:creator>Zhihan Zhang</dc:creator>
+      <dc:creator>Yuwei Zhang</dc:creator>
+      <dc:creator>Qian He</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: A. Ali Heydari, Ken Gu, Vidya Srinivas, Hong Yu, Akshay Paruchuri, Zhihan Zhang, Yuwei Zhang, Qian He, et al.
+
+Journal: Nature
+
+Abstract: Abstract Large language models are enabling a new generation of health agents, yet their ability to address the diverse needs of individuals in everyday health settings remains underexplored 1,2 . Here we developed a comprehensive personal health agent that reasons over multimodal data from consumer wellness devices and medical records to provide personalized health support. Through analysis of web search and health forum queries, together with user-centred research involving end users and health experts, we identified four key user journeys: general health knowledge, personal data interpretation, wellness advice, and symptom assessment. These journeys informed three specialist sub-agents: (1) a data science agent that analyses longitudinal wearable and medical data, incorporating population-level statistics to contextualize numerical insights; (2) a health domain expert agent that integrates personal and contextual data with health knowledge to generate personalized insights; and (3) a health coach agent that synthesizes insights, supports multi-turn interaction and goal setting, applies specified psychological strategies and tracks progress. We integrated these capabilities in the personal health agent, an open-source multi-agent framework for dynamic, personalized health interactions. We evaluated the sub-agents and full system across 11 benchmark tasks using automated and human evaluation, with more than 7,000 annotations and 1,350 h of effort from health experts and end users. This represents the most comprehensive evaluation of a personal health agent thus far and provides a concrete foundation for improving access to high-quality personalized health support more broadly.</description>
+    </item>
+    <item>
+      <title>WEE1 opposes APC/CCDH1 activity to promote S phase entry</title>
+      <link>https://doi.org/10.1038/s41586-026-11188-x</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11188-x</guid>
+
+      <dc:creator>Luc-Alban Vuillemenot</dc:creator>
+      <dc:creator>Lucas G. Morales</dc:creator>
+      <dc:creator>Calin-Mihai Dragoi</dc:creator>
+      <dc:creator>Betheney R. Pennycook</dc:creator>
+      <dc:creator>Edward Harris</dc:creator>
+      <dc:creator>Liuyang C. Lin</dc:creator>
+      <dc:creator>William A. Weston</dc:creator>
+      <dc:creator>Jade-Ellen Brown</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Luc-Alban Vuillemenot, Lucas G. Morales, Calin-Mihai Dragoi, Betheney R. Pennycook, Edward Harris, Liuyang C. Lin, William A. Weston, Jade-Ellen Brown, et al.
+
+Journal: Nature
+
+Abstract: Abstract WEE1 phosphorylates and inhibits the activity of cyclin-dependent kinases to prevent mitotic entry and establish a G2 DNA damage checkpoint 1–3 . Consequently, WEE1 inhibitors have been developed to be synthetically lethal in TP53- mutated tumours that become reliant on this WEE1-mediated checkpoint, and such inhibitors are undergoing clinical trials. However, WEE1 inhibitors also have efficacy in TP53- wild-type tumours, and many trials have been terminated owing to high levels of toxic side effects, suggesting that WEE1 has unknown functions. Here we show that WEE1 promotes cell cycle re-entry from quiescence (G0) by opposing the activity of the E3 ubiquitin ligase, anaphase-promoting complex–cyclosome bound to CDH1 (APC/C CDH1 ). WEE1 phosphorylates CDH1 ( FZR1 ) at key residues that mediate the interaction between CDH1 and APC/C. Cells with loss of function of WEE1 during G0/G1 have delayed S phase entry, impaired G1/S transition, abnormal S phase accumulation of cyclin-dependent kinase inhibitor p21 Cip1/Kip1 and a p21-dependent G2 arrest. Reduced expression of APC/C CDH1 or p21 renders cells more sensitive to acute WEE1 inhibition, and both pathways are downregulated in cells with acquired WEE1 inhibitor resistance. These results reveal a mechanism of cell cycle control that has implications for how WEE1 inhibitors should be used in the clinic.</description>
+    </item>
+    <item>
+      <title>Zeolite-catalysed olefin carbonylation based on tuning spatial confinement</title>
+      <link>https://doi.org/10.1038/s41586-026-11183-2</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11183-2</guid>
+
+      <dc:creator>Liang Qi</dc:creator>
+      <dc:creator>Yingying Sheng</dc:creator>
+      <dc:creator>Wenna Zhang</dc:creator>
+      <dc:creator>Youming Ni</dc:creator>
+      <dc:creator>Linhai He</dc:creator>
+      <dc:creator>Bin Li</dc:creator>
+      <dc:creator>Anjie Wang</dc:creator>
+      <dc:creator>Wenliang Zhu</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Liang Qi, Yingying Sheng, Wenna Zhang, Youming Ni, Linhai He, Bin Li, Anjie Wang, Wenliang Zhu, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>To heal sick cities, scientists and residents must work together</title>
+      <link>https://doi.org/10.1038/d41586-026-03161-5</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03161-5</guid>
+
+      <dc:creator>Sarah Wild</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sarah Wild
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Surprise! White dwarf stars come in a rainbow of colours</title>
+      <link>https://doi.org/10.1038/d41586-026-03319-1</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03319-1</guid>
+
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
+    </item>
+    <item>
+      <title>The proteome of Middle Pleistocene Xujiayao and common Denisovan morphology</title>
+      <link>https://doi.org/10.1038/s41586-026-11132-z</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11132-z</guid>
+
+      <dc:creator>Song Xing</dc:creator>
+      <dc:creator>Zhongyou Wu</dc:creator>
+      <dc:creator>Qingfeng Shao</dc:creator>
+      <dc:creator>Junyi Ge</dc:creator>
+      <dc:creator>E. Andrew Bennett</dc:creator>
+      <dc:creator>Huiyun Rao</dc:creator>
+      <dc:creator>Sungui Lin</dc:creator>
+      <dc:creator>Yuhao Zhao</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Song Xing, Zhongyou Wu, Qingfeng Shao, Junyi Ge, E. Andrew Bennett, Huiyun Rao, Sungui Lin, Yuhao Zhao, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Cold activates a BH2 metabolic network promoting longevity and proteostasis</title>
+      <link>https://doi.org/10.1038/s41586-026-11152-9</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11152-9</guid>
+
+      <dc:creator>Hyun Ju Lee</dc:creator>
+      <dc:creator>Cansu Doğan</dc:creator>
+      <dc:creator>Seda Koyuncu</dc:creator>
+      <dc:creator>Markus Wehrmann</dc:creator>
+      <dc:creator>Murat Artan</dc:creator>
+      <dc:creator>Dunja Petrovic</dc:creator>
+      <dc:creator>Rute Loureiro</dc:creator>
+      <dc:creator>Amit Kumar Sahu</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hyun Ju Lee, Cansu Doğan, Seda Koyuncu, Markus Wehrmann, Murat Artan, Dunja Petrovic, Rute Loureiro, Amit Kumar Sahu, et al.
+
+Journal: Nature
+
+Abstract: Abstract Moderately cold temperatures extend lifespan and promote health across species 1–3 , yet the molecular mechanisms underlying these benefits remain unclear. Here we define a metabolite-driven, multi-tissue signalling system that links cold temperature to enhanced longevity and proteostasis in Caenorhabditis elegans . Cold temperature upregulates the biopterin-synthesis enzyme CAT-4 (GCH1 in humans), increasing production of dihydrobiopterin (BH2), a transportable reservoir for the bioactive cofactor tetrahydrobiopterin (BH4). BH2 is produced in muscle and transported to distal tissues, including the intestine and neurons, where it is converted into BH4 by the salvage enzyme DHFR-1. BH4 functions as an essential cofactor for phenylalanine hydroxylase PAH-1, promoting tyrosine synthesis and extending lifespan. This BH2–BH4 axis also prevents disease-related protein aggregation and subsequent neuronal dysfunction during ageing. Importantly, increasing BH2 synthesis specifically in muscle is sufficient to promote longevity and suppress pathological protein aggregation in distal tissues, even at normal or elevated temperatures. In human cells, BH2 or tyrosine supplementation reduces aggregation of polyQ-expanded proteins associated with Huntington’s disease, as well as mutant variants of TDP-43 and FUS that cause amyotrophic lateral sclerosis. Together, these findings identify BH2 as a cold-induced metabolite of which the synthesis, intertissue transport and conversion into bioactive BH4 preserve organism-wide proteostasis and extend lifespan.</description>
+    </item>
+    <item>
+      <title>An environmentally regulated dichotomy in cell lineages of the root</title>
+      <link>https://doi.org/10.1038/s41586-026-11179-y</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11179-y</guid>
+
+      <dc:creator>Marina Oliva</dc:creator>
+      <dc:creator>Tim Stuart</dc:creator>
+      <dc:creator>Dave Tang</dc:creator>
+      <dc:creator>Adil Khan</dc:creator>
+      <dc:creator>Olivier Clement</dc:creator>
+      <dc:creator>Dawid Makosa</dc:creator>
+      <dc:creator>Daniel Poppe</dc:creator>
+      <dc:creator>Jahnvi Pflueger</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marina Oliva, Tim Stuart, Dave Tang, Adil Khan, Olivier Clement, Dawid Makosa, Daniel Poppe, Jahnvi Pflueger, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>A single archaeon couples long-chain fatty acid oxidation to methanogenesis</title>
+      <link>https://doi.org/10.1038/s41586-026-11207-x</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11207-x</guid>
+
+      <dc:creator>Yue Yi</dc:creator>
+      <dc:creator>Zuorong Cao</dc:creator>
+      <dc:creator>Kejia Wu</dc:creator>
+      <dc:creator>Hengwu Ding</dc:creator>
+      <dc:creator>Lin Fu</dc:creator>
+      <dc:creator>Wenyi Gao</dc:creator>
+      <dc:creator>Ling Li</dc:creator>
+      <dc:creator>Lei Zhou</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yue Yi, Zuorong Cao, Kejia Wu, Hengwu Ding, Lin Fu, Wenyi Gao, Ling Li, Lei Zhou, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>An AI tool improves weather forecasts up to a month ahead</title>
+      <link>https://doi.org/10.1038/d41586-026-03077-0</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03077-0</guid>
+
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
+    </item>
     <item>
       <title>Global emissions slow — but world hurtles towards 2 °C of warming</title>
       <link>https://doi.org/10.1038/d41586-026-03355-x</link>
@@ -15,6 +174,244 @@
       <dc:creator>James Dinneen</dc:creator>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <description>Authors: James Dinneen
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Octupole-driven spin torque switching of antiferromagnetic tunnel junctions</title>
+      <link>https://doi.org/10.1038/s41586-026-11172-5</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11172-5</guid>
+
+      <dc:creator>Jaimin Kang</dc:creator>
+      <dc:creator>Mohammad Hamdi</dc:creator>
+      <dc:creator>Shun Kong Cheung</dc:creator>
+      <dc:creator>Lin-Ding Yuan</dc:creator>
+      <dc:creator>Mohamed Elekhtiar</dc:creator>
+      <dc:creator>Eric Matt</dc:creator>
+      <dc:creator>William Rogers</dc:creator>
+      <dc:creator>Andrea Meo</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jaimin Kang, Mohammad Hamdi, Shun Kong Cheung, Lin-Ding Yuan, Mohamed Elekhtiar, Eric Matt, William Rogers, Andrea Meo, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Additive manufacturing of ultralong and architected single crystals</title>
+      <link>https://doi.org/10.1038/s41586-026-11185-0</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11185-0</guid>
+
+      <dc:creator>Changmeng Liu</dc:creator>
+      <dc:creator>Yinan Cui</dc:creator>
+      <dc:creator>Jiachen Wang</dc:creator>
+      <dc:creator>Xiao Han</dc:creator>
+      <dc:creator>Zhongao Ji</dc:creator>
+      <dc:creator>Zhun Liang</dc:creator>
+      <dc:creator>Chongle Zhang</dc:creator>
+      <dc:creator>Jaime Marian</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Changmeng Liu, Yinan Cui, Jiachen Wang, Xiao Han, Zhongao Ji, Zhun Liang, Chongle Zhang, Jaime Marian, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Teen depression and anxiety predicted by childhood brain development</title>
+      <link>https://doi.org/10.1038/d41586-026-03357-9</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03357-9</guid>
+
+      <dc:creator>Max Kozlov</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Max Kozlov
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Robert Williamson obituary: geneticist who mapped genes for muscular dystrophy and cystic fibrosis</title>
+      <link>https://doi.org/10.1038/d41586-026-03375-7</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03375-7</guid>
+
+      <dc:creator>Kay E. Davies</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kay E. Davies
+
+Journal: Nature; Volume: 658; Issue: 8138; Pages: 1127-1127</description>
+    </item>
+    <item>
+      <title>A single antimatter particle in a cage opens door to ‘revolutionary’ physics</title>
+      <link>https://doi.org/10.1038/d41586-026-03342-2</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03342-2</guid>
+
+      <dc:creator>Elizabeth Gibney</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elizabeth Gibney
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Can plants defend coasts against storms?</title>
+      <link>https://doi.org/10.1038/d41586-026-03063-6</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03063-6</guid>
+
+      <dc:creator>Rusty A. Feagin</dc:creator>
+      <dc:creator>M. Luisa Martínez</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rusty A. Feagin, M. Luisa Martínez
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Structural basis for protocadherin-1 recognition by New World hantaviruses</title>
+      <link>https://doi.org/10.1038/s41586-026-11184-1</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11184-1</guid>
+
+      <dc:creator>Leandro Battini</dc:creator>
+      <dc:creator>Megan M. Slough</dc:creator>
+      <dc:creator>Ramandeep Kaur</dc:creator>
+      <dc:creator>Luqiang Guo</dc:creator>
+      <dc:creator>Catalina Florez</dc:creator>
+      <dc:creator>Alexandra Serris</dc:creator>
+      <dc:creator>Annalisa Meola</dc:creator>
+      <dc:creator>Gorka Lasso</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Leandro Battini, Megan M. Slough, Ramandeep Kaur, Luqiang Guo, Catalina Florez, Alexandra Serris, Annalisa Meola, Gorka Lasso, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Multimodal precision diagnostics in clinical xenotransplantation</title>
+      <link>https://doi.org/10.1038/s41586-026-11096-0</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11096-0</guid>
+
+      <dc:creator>Raphael P. H. Meier</dc:creator>
+      <dc:creator>Erwan Morgand</dc:creator>
+      <dc:creator>Fariza Mezine</dc:creator>
+      <dc:creator>Michael Mengel</dc:creator>
+      <dc:creator>Massimo Mangiola</dc:creator>
+      <dc:creator>Muhammad M. Mohiuddin</dc:creator>
+      <dc:creator>Robert A. Montgomery</dc:creator>
+      <dc:creator>Alexandre Loupy</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Raphael P. H. Meier, Erwan Morgand, Fariza Mezine, Michael Mengel, Massimo Mangiola, Muhammad M. Mohiuddin, Robert A. Montgomery, Alexandre Loupy
+
+Journal: Nature; Volume: 658; Issue: 8137; Pages: 883-896</description>
+    </item>
+    <item>
+      <title>Programmable design of functional proteins from natural language</title>
+      <link>https://doi.org/10.1038/s41586-026-11205-z</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11205-z</guid>
+
+      <dc:creator>Fengyuan Dai</dc:creator>
+      <dc:creator>Shiyang You</dc:creator>
+      <dc:creator>Yudian Zhu</dc:creator>
+      <dc:creator>Yuan Gao</dc:creator>
+      <dc:creator>Lihao Fu</dc:creator>
+      <dc:creator>Xibin Zhou</dc:creator>
+      <dc:creator>Jin Su</dc:creator>
+      <dc:creator>Chentong Wang</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fengyuan Dai, Shiyang You, Yudian Zhu, Yuan Gao, Lihao Fu, Xibin Zhou, Jin Su, Chentong Wang, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Touch-sensing digital pixel fibre enables interactive garment GUI</title>
+      <link>https://doi.org/10.1038/s41586-026-11128-9</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11128-9</guid>
+
+      <dc:creator>Heng Fu</dc:creator>
+      <dc:creator>Ziang Li</dc:creator>
+      <dc:creator>Swetika Chaturvedi</dc:creator>
+      <dc:creator>Xiaoyu Zhang</dc:creator>
+      <dc:creator>Xiaolong Li</dc:creator>
+      <dc:creator>Qianyi Li</dc:creator>
+      <dc:creator>Tural Khudiyev</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Heng Fu, Ziang Li, Swetika Chaturvedi, Xiaoyu Zhang, Xiaolong Li, Qianyi Li, Tural Khudiyev
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Huge mapping study reveals how your brain tracks what your body is feeling</title>
+      <link>https://doi.org/10.1038/d41586-026-03334-2</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03334-2</guid>
+
+      <dc:creator>Gemma Conroy</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gemma Conroy
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>De novo design of enantioselective artificial metalloenzyme photocatalysts</title>
+      <link>https://doi.org/10.1038/s41586-026-11317-6</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11317-6</guid>
+
+      <dc:creator>Sandip Mishra</dc:creator>
+      <dc:creator>Payal</dc:creator>
+      <dc:creator>Declan Evans</dc:creator>
+      <dc:creator>Kingsley Bortey</dc:creator>
+      <dc:creator>Husayn Bootwala</dc:creator>
+      <dc:creator>Giovanni Gonzalez-Gutierrez</dc:creator>
+      <dc:creator>Ricardo Javier Vázquez</dc:creator>
+      <dc:creator>David Baker</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sandip Mishra, Payal, Declan Evans, Kingsley Bortey, Husayn Bootwala, Giovanni Gonzalez-Gutierrez, Ricardo Javier Vázquez, David Baker, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Drought and disease trigger novel interactions among top predators</title>
+      <link>https://doi.org/10.1038/s41586-026-11194-z</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11194-z</guid>
+
+      <dc:creator>Fabrizio Sergio</dc:creator>
+      <dc:creator>Haruki Natsukawa</dc:creator>
+      <dc:creator>Alessandro Tanferna</dc:creator>
+      <dc:creator>Javier Chicano</dc:creator>
+      <dc:creator>Francisco Carro</dc:creator>
+      <dc:creator>Ramón C. Soriguer</dc:creator>
+      <dc:creator>Fernando Hiraldo</dc:creator>
+      <dc:creator>Julio Blas</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fabrizio Sergio, Haruki Natsukawa, Alessandro Tanferna, Javier Chicano, Francisco Carro, Ramón C. Soriguer, Fernando Hiraldo, Julio Blas
+
+Journal: Nature
+
+Abstract: Abstract Interactions among species are increasingly recognized as key determinants of climate change impacts on ecosystems 1–5 . However, we know little about how climatic perturbations affect interactions among top vertebrate predators. Here we show that, when an emergent disease caused the decline of shared prey (rabbits), after decades of neutral co-existence a mammalian carnivore (lynx) started to prey heavily on a top predatory raptor (kites). These predation bouts occurred exclusively under drought conditions and when lynx found rabbit remains under the raptor nests, consistent with the removal of a potential competitor. Drought-induced lynx predation depressed lifetime reproductive success and triggered territory abandonment and dispersal by the raptor, suggestive of a new arms race among predators. A reduction in raptor abundance was associated with an increase in an insectivorous bird (a small owl), showing that the new interaction had the potential to reach lower trophic levels. These results underline the importance of diet flexibility and mobility as important mediators of resilience to stressors. In the future, synergistic effects of multiple anthropogenic stressors may reshape the interactions and ecological roles of many apex predators, with potential cascading consequences for whole ecosystems. A key to forecasting the future impact of global change may reside in understanding how behavioural flexibility and interacting keystone species respond to interacting shocks.</description>
+    </item>
+    <item>
+      <title>Cave stalagmites document global patterns in monsoon rainfall over the past 450,000 years</title>
+      <link>https://doi.org/10.1038/d41586-026-03285-8</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03285-8</guid>
+
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
+    </item>
+    <item>
+      <title>The contribution of salt marshes to wave attenuation during extreme storms</title>
+      <link>https://doi.org/10.1038/s41586-026-11145-8</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11145-8</guid>
+
+      <dc:creator>Pim W. J. M. Willemsen</dc:creator>
+      <dc:creator>Victoria G. Mason</dc:creator>
+      <dc:creator>Vincent van Zelst</dc:creator>
+      <dc:creator>Vera M. van Bergeijk</dc:creator>
+      <dc:creator>Mark Klein Breteler</dc:creator>
+      <dc:creator>Jos R. M. Muller</dc:creator>
+      <dc:creator>Dimitrios Dermentzoglou</dc:creator>
+      <dc:creator>Akis Vouziouris</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Pim W. J. M. Willemsen, Victoria G. Mason, Vincent van Zelst, Vera M. van Bergeijk, Mark Klein Breteler, Jos R. M. Muller, Dimitrios Dermentzoglou, Akis Vouziouris, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Fabric user interface can be worn on your sleeve — and machine-washed</title>
+      <link>https://doi.org/10.1038/d41586-026-03064-5</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03064-5</guid>
+
+      <dc:creator>Shanshan Yao</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shanshan Yao
 
 Journal: Nature</description>
     </item>
@@ -45,6 +442,114 @@ Journal: Nature</description>
       <description>Journal: Nature; Volume: 658; Issue: 8137; Pages: 841-842</description>
     </item>
     <item>
+      <title>Functional architecture of the human insula</title>
+      <link>https://doi.org/10.1038/s41586-026-11175-2</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11175-2</guid>
+
+      <dc:creator>Julian Quabs</dc:creator>
+      <dc:creator>Sofia Pantis</dc:creator>
+      <dc:creator>Guanpeng Chen</dc:creator>
+      <dc:creator>Weichen Huang</dc:creator>
+      <dc:creator>Eileen Ma</dc:creator>
+      <dc:creator>Maria del Vecchio</dc:creator>
+      <dc:creator>Dian Lyu</dc:creator>
+      <dc:creator>Chloe Wang</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Julian Quabs, Sofia Pantis, Guanpeng Chen, Weichen Huang, Eileen Ma, Maria del Vecchio, Dian Lyu, Chloe Wang, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Worms live longer in cool conditions thanks to a muscle-derived molecule</title>
+      <link>https://doi.org/10.1038/d41586-026-03066-3</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03066-3</guid>
+
+      <dc:creator>Hanseul Lee</dc:creator>
+      <dc:creator>Seung-Jae V. Lee</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hanseul Lee, Seung-Jae V. Lee
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>GRP75-dependent SIMPA mediates inter-organellar quality control</title>
+      <link>https://doi.org/10.1038/s41586-026-10733-y</link>
+      <guid isPermaLink="false">10.1038/s41586-026-10733-y</guid>
+
+      <dc:creator>Fan Yu</dc:creator>
+      <dc:creator>Lingyu Jiang</dc:creator>
+      <dc:creator>Hanyu Liu</dc:creator>
+      <dc:creator>Song Yang</dc:creator>
+      <dc:creator>Yuan Yuan</dc:creator>
+      <dc:creator>Hongzhen Jin</dc:creator>
+      <dc:creator>Jinming Liu</dc:creator>
+      <dc:creator>Xi Liu</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fan Yu, Lingyu Jiang, Hanyu Liu, Song Yang, Yuan Yuan, Hongzhen Jin, Jinming Liu, Xi Liu, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Persistent neuronal stress signalling underlies Angelman syndrome phenotypes</title>
+      <link>https://doi.org/10.1038/s41586-026-11165-4</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11165-4</guid>
+
+      <dc:creator>Kwang-Soo Kim</dc:creator>
+      <dc:creator>Cory Gardner</dc:creator>
+      <dc:creator>Alissa Cullen</dc:creator>
+      <dc:creator>Jalin A. Stelzer</dc:creator>
+      <dc:creator>Kevin Cho</dc:creator>
+      <dc:creator>Ashish Sharma</dc:creator>
+      <dc:creator>Mati T. Nemera</dc:creator>
+      <dc:creator>Travis Law</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kwang-Soo Kim, Cory Gardner, Alissa Cullen, Jalin A. Stelzer, Kevin Cho, Ashish Sharma, Mati T. Nemera, Travis Law, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Large-scale single crystals printed layer by layer</title>
+      <link>https://doi.org/10.1038/d41586-026-03257-y</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03257-y</guid>
+
+      <dc:creator>Gregory S. Rohrer</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gregory S. Rohrer
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Scientists put a salt marsh in a giant wave-machine: here's what they learned</title>
+      <link>https://doi.org/10.1038/d41586-026-03376-6</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03376-6</guid>
+
+      <dc:creator>Benjamin Thompson</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Benjamin Thompson
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Amazon carbon emissions driven by human actions amplified by droughts</title>
+      <link>https://doi.org/10.1038/s41586-026-11168-1</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11168-1</guid>
+
+      <dc:creator>Luciana V. Gatti</dc:creator>
+      <dc:creator>Camilla L. Cunha</dc:creator>
+      <dc:creator>Juan C. G. Blas</dc:creator>
+      <dc:creator>A. Scott Denning</dc:creator>
+      <dc:creator>Mariane S. Reis</dc:creator>
+      <dc:creator>Luciano Marani</dc:creator>
+      <dc:creator>Egidio Arai</dc:creator>
+      <dc:creator>Cassiano Gustavo Messias</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Luciana V. Gatti, Camilla L. Cunha, Juan C. G. Blas, A. Scott Denning, Mariane S. Reis, Luciano Marani, Egidio Arai, Cassiano Gustavo Messias, et al.
+
+Journal: Nature
+
+Abstract: Abstract The Amazon carbon sink is weakening as deforestation 1–5 , rising tree mortality 6–8 and climate change disrupt the climatic conditions that sustain a humid tropical forest 9–11 . Forest loss reduces precipitation, increases temperatures and lengthens the dry season, driving higher carbon emissions 1–4,11,12 . Climate stress is stronger in more deforested regions, rendering forests progressively more flammable 1,9,13 . Large-scale climate events, such as El Niño, further amplify regional climate impacts 9,14–17 . Here we present an analysis of 15 years of Amazonian carbon fluxes derived from atmospheric CO 2 measurements. We determine a carbon balance of 0.32 ± 0.08 PgC yr −1 , with fires acting as the dominant source (0.40 ± 0.07 PgC yr −1 ) and forest uptake becoming increasingly unable to offset emissions. Furthermore, we investigate key drivers of the carbon emissions of Amazonia and identify three distinct year groups. Group 1 (2011–2014, 2017 and 2018) represents the role of the Amazon in the global carbon balance (0.11 ± 0.08 PgC yr −1 ) during wetter years with low human activity, such as deforestation, biomass burning and degradation. Group 2 (2019–2022) represents Amazon carbon emissions (0.43 ± 0.13 PgC yr −1 ) from human activities (mainly deforestation and degradation) during years with low climatic stress. Group 3 (2010, 2015, 2016, 2023 and 2024) has the highest carbon emissions (0.49 ± 0.07 PgC yr −1 ) and comprises warm and dry years (high climate stress), such as El Niño and the warming of the Tropical North Atlantic Ocean, associated with biomass burning.</description>
+    </item>
+    <item>
       <title>How tech billionaires are disrupting biomedical science</title>
       <link>https://doi.org/10.1038/d41586-026-03311-9</link>
       <guid isPermaLink="false">10.1038/d41586-026-03311-9</guid>
@@ -56,6 +561,54 @@ Journal: Nature</description>
 Journal: Nature; Volume: 658; Issue: 8137; Pages: 858-860</description>
     </item>
     <item>
+      <title>Plastics embedded with enzymes degrade readily in the sea</title>
+      <link>https://doi.org/10.1038/d41586-026-03282-x</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03282-x</guid>
+
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature</description>
+    </item>
+    <item>
+      <title>CD51 delineates functionally distinct astrocyte subtypes in neural circuits</title>
+      <link>https://doi.org/10.1038/s41586-026-11186-z</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11186-z</guid>
+
+      <dc:creator>Junsung Woo</dc:creator>
+      <dc:creator>Michael R. Williamson</dc:creator>
+      <dc:creator>Dongjoo Choi</dc:creator>
+      <dc:creator>Ekin Akdemir</dc:creator>
+      <dc:creator>Thea Zlatkov</dc:creator>
+      <dc:creator>Kwanha Yu</dc:creator>
+      <dc:creator>Wookbong Kwon</dc:creator>
+      <dc:creator>Ehson Maleki</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Junsung Woo, Michael R. Williamson, Dongjoo Choi, Ekin Akdemir, Thea Zlatkov, Kwanha Yu, Wookbong Kwon, Ehson Maleki, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>This is what the mysterious Denisovans looked like</title>
+      <link>https://doi.org/10.1038/d41586-026-03360-0</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03360-0</guid>
+
+      <dc:creator>Rachel Fieldhouse</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rachel Fieldhouse
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Using AI to offer personalized health advice</title>
+      <link>https://doi.org/10.1038/d41586-026-03065-4</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03065-4</guid>
+
+      <dc:creator>Emma Pierson</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Emma Pierson
+
+Journal: Nature</description>
+    </item>
+    <item>
       <title>The Bursar</title>
       <link>https://doi.org/10.1038/d41586-026-03110-2</link>
       <guid isPermaLink="false">10.1038/d41586-026-03110-2</guid>
@@ -65,6 +618,26 @@ Journal: Nature; Volume: 658; Issue: 8137; Pages: 858-860</description>
       <description>Authors: Marissa Lingen
 
 Journal: Nature</description>
+    </item>
+    <item>
+      <title>Enzyme-embedded polyesters for accelerated biodegradation in the deep sea</title>
+      <link>https://doi.org/10.1038/s41586-026-11192-1</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11192-1</guid>
+
+      <dc:creator>QiuYuan Huang</dc:creator>
+      <dc:creator>Noriko Iida</dc:creator>
+      <dc:creator>Noriyuki Isobe</dc:creator>
+      <dc:creator>Taizo Kabe</dc:creator>
+      <dc:creator>Taku Omura</dc:creator>
+      <dc:creator>Manikandan Ilangovan</dc:creator>
+      <dc:creator>Satoshi Kimura</dc:creator>
+      <dc:creator>Jin Ho Seok</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: QiuYuan Huang, Noriko Iida, Noriyuki Isobe, Taizo Kabe, Taku Omura, Manikandan Ilangovan, Satoshi Kimura, Jin Ho Seok, et al.
+
+Journal: Nature
+
+Abstract: Abstract The accumulation of persistent plastics in the ocean is causing wide-ranging environmental problems 1–3 . Some commercially available compostable plastics 4–7 , developed to address these issues, degrade efficiently under industrial composting conditions; however, their degradation in marine environments, particularly in the deep sea, remains limited 8–10 . Here we demonstrate that thermally embedding enzymes into compostable polyesters (poly(butylene succinate) (PBS), poly(butylene succinate- co -adipate) (PBSA), poly(ε-caprolactone) (PCL) and poly(butylene adipate- co -terephthalate) (PBAT)) significantly accelerates their degradation in both coastal and deep-sea environments from water depths of 2–6 m to 5,503 m. Enzyme-embedded polyesters achieved near-complete degradation at a deep-sea depth of 757 m within 5 months. Furthermore, moderate biodegradation of enzyme-embedded polyesters was observed under extreme conditions on deep-sea floors of 5,503 m. In coastal seawater, films embedded with trace amounts (0.1 wt%) of enzyme underwent rapid degradation. The mechanical properties of enzyme-embedded polyesters were similar to those of enzyme-free polyesters. Chemical analysis confirmed the formation of low-molecular-mass degradation products and biochemical oxygen demand measurements supported the mineralization of the enzyme-embedded polyesters. The enzyme-embedding strategy enables enhanced marine degradation of compostable polyesters and represents a potential solution to marine plastic pollution.</description>
     </item>
     <item>
       <title>Nobel-prizewinning breakthroughs can emerge from neglected organisms</title>
@@ -152,6 +725,17 @@ Journal: Nature; Volume: 658; Issue: 8137; Pages: 1094-1094</description>
       <dc:creator>James Dinneen</dc:creator>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <description>Authors: James Dinneen
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Daily Briefing: Tiny doses of LSD seem to boost cognition</title>
+      <link>https://doi.org/10.1038/d41586-026-03374-8</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03374-8</guid>
+
+      <dc:creator>Flora Graham</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Flora Graham
 
 Journal: Nature</description>
     </item>
@@ -280,6 +864,14 @@ Journal: Nature</description>
 Journal: Nature</description>
     </item>
     <item>
+      <title>Light and mirrors move large quantum computers closer to reality</title>
+      <link>https://doi.org/10.1038/d41586-026-03237-2</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03237-2</guid>
+
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature; Volume: 658; Issue: 8137; Pages: 845-845</description>
+    </item>
+    <item>
       <title>US government probe into postdoc visas worries scientists</title>
       <link>https://doi.org/10.1038/d41586-026-03345-z</link>
       <guid isPermaLink="false">10.1038/d41586-026-03345-z</guid>
@@ -289,14 +881,6 @@ Journal: Nature</description>
       <description>Authors: Nicola Jones
 
 Journal: Nature</description>
-    </item>
-    <item>
-      <title>Light and mirrors move large quantum computers closer to reality</title>
-      <link>https://doi.org/10.1038/d41586-026-03237-2</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03237-2</guid>
-
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature; Volume: 658; Issue: 8137; Pages: 845-845</description>
     </item>
     <item>
       <title>Microdosing LSD shows some cognitive benefits — but only for women</title>
@@ -396,6 +980,17 @@ Journal: Nature; Volume: 658; Issue: 8137; Pages: 866-868</description>
       <dc:creator>Yangxuan Zhou</dc:creator>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>Authors: Yuanlong Zhang, Angran Li, Lekang Yuan, Mingrui Wang, Weihao Zhao, Zhenbo Wang, Boyang Zang, Yangxuan Zhou, et al.
+
+Journal: Nature</description>
+    </item>
+    <item>
+      <title>Daily briefing: How to rebuild science from ruin</title>
+      <link>https://doi.org/10.1038/d41586-026-03363-x</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03363-x</guid>
+
+      <dc:creator>Flora Graham</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Flora Graham
 
 Journal: Nature</description>
     </item>
@@ -593,6 +1188,24 @@ Journal: Nature</description>
 Journal: Nature; Volume: 658; Issue: 8136; Pages: S21-S23</description>
     </item>
     <item>
+      <title>Advancing subseasonal forecasting with machine learning</title>
+      <link>https://doi.org/10.1038/s41586-026-11126-x</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11126-x</guid>
+
+      <dc:creator>Hannah Guan</dc:creator>
+      <dc:creator>Soukayna Mouatadid</dc:creator>
+      <dc:creator>Paulo Orenstein</dc:creator>
+      <dc:creator>Judah Cohen</dc:creator>
+      <dc:creator>Haiyu Dong</dc:creator>
+      <dc:creator>Zekun Ni</dc:creator>
+      <dc:creator>Jeremy Berman</dc:creator>
+      <dc:creator>Genevieve Flaspohler</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hannah Guan, Soukayna Mouatadid, Paulo Orenstein, Judah Cohen, Haiyu Dong, Zekun Ni, Jeremy Berman, Genevieve Flaspohler, et al.
+
+Journal: Nature; Volume: 658; Issue: 8137; Pages: 951-957</description>
+    </item>
+    <item>
       <title>Early tetrapod neck mobility modelled using an extant analogue</title>
       <link>https://doi.org/10.1038/s41586-026-11158-3</link>
       <guid isPermaLink="false">10.1038/s41586-026-11158-3</guid>
@@ -613,35 +1226,6 @@ Journal: Nature
 Abstract: Abstract Tetrapods arose from lobe-finned fishes with a notochord-dominated axial column 1–3 . During this transition, the skull became separated from the shoulder girdle 4–6 , giving rise to a neck region. This head–shoulder separation has generated hypotheses suggesting that neck mobility increased during the origin of tetrapods, facilitating the ecological transition towards more terrestrial habitats 4,5,7–9 . However, incompletely co-ossified vertebral components 10 have posed a challenge to modelling the mobility of these early tetrapod necks. Here we used material tests on the similarly configured axial columns of sturgeon to predict the capacities of the tetrapod neck region for lateral flexion, extension and rotation across the tetrapod stem. Our model indicates that the soft tissue-dominated axial column was surprisingly rigid, despite lacking co-ossified vertebral components. We estimate that most stem tetrapods could move their heads less than 6° laterally and less than 3° dorsally but could not rotate them. Notably, mobility did not shift in conjunction with the head–shoulder separation that occurred between the origin of tristichopterids (represented by Eusthenopteron ) and that of more crownward stem tetrapods. Therefore, mobility in the tetrapod neck did not serve as a functional driver of head–shoulder separation. Instead, forelimb-driven locomotion, implicated in early tetrapods 11–14 , provides a better functional explanation for the head–shoulder separation.</description>
     </item>
     <item>
-      <title>Advancing subseasonal forecasting with machine learning</title>
-      <link>https://doi.org/10.1038/s41586-026-11126-x</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11126-x</guid>
-
-      <dc:creator>Hannah Guan</dc:creator>
-      <dc:creator>Soukayna Mouatadid</dc:creator>
-      <dc:creator>Paulo Orenstein</dc:creator>
-      <dc:creator>Judah Cohen</dc:creator>
-      <dc:creator>Haiyu Dong</dc:creator>
-      <dc:creator>Zekun Ni</dc:creator>
-      <dc:creator>Jeremy Berman</dc:creator>
-      <dc:creator>Genevieve Flaspohler</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hannah Guan, Soukayna Mouatadid, Paulo Orenstein, Judah Cohen, Haiyu Dong, Zekun Ni, Jeremy Berman, Genevieve Flaspohler, et al.
-
-Journal: Nature; Volume: 658; Issue: 8137; Pages: 951-957</description>
-    </item>
-    <item>
-      <title>China’s AI research is booming: what it’s like to be on the front line</title>
-      <link>https://doi.org/10.1038/d41586-026-03223-8</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03223-8</guid>
-
-      <dc:creator>Elizabeth Gibney</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elizabeth Gibney
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: 598-600</description>
-    </item>
-    <item>
       <title>Interhemispheric monsoon dynamics over the past 450,000 years</title>
       <link>https://doi.org/10.1038/s41586-026-11166-3</link>
       <guid isPermaLink="false">10.1038/s41586-026-11166-3</guid>
@@ -658,6 +1242,17 @@ Journal: Nature; Volume: 658; Issue: 8136; Pages: 598-600</description>
       <description>Authors: E. J. Olson, D. P. Gillikin, D. Parmenter, S. Burns, A. Verheyden, O. Miyawaki, M. Vuille, L. F. Piccirillo, et al.
 
 Journal: Nature; Volume: 658; Issue: 8137; Pages: 943-950</description>
+    </item>
+    <item>
+      <title>China’s AI research is booming: what it’s like to be on the front line</title>
+      <link>https://doi.org/10.1038/d41586-026-03223-8</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03223-8</guid>
+
+      <dc:creator>Elizabeth Gibney</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Elizabeth Gibney
+
+Journal: Nature; Volume: 658; Issue: 8136; Pages: 598-600</description>
     </item>
     <item>
       <title>This is why butterflies are so hard to catch</title>
@@ -717,607 +1312,6 @@ Journal: Nature; Volume: 658; Issue: 8136; Pages: 594-597</description>
       <description>Authors: Naixin Qian, Ruoqi Zhao, Kwing Yeung Chan, Vinh Gia Vuong, Xin Gao, Zhilun Zhao, R. Allen LaCour, Yifan Dai, et al.
 
 Journal: Nature; Volume: 658; Issue: 8136; Pages: 650-657</description>
-    </item>
-    <item>
-      <title>Global conservation area coverage substantially exceeds current estimates</title>
-      <link>https://doi.org/10.1038/s41586-026-11157-4</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11157-4</guid>
-
-      <dc:creator>Helen M. K. O’Neill</dc:creator>
-      <dc:creator>Joe Beeken</dc:creator>
-      <dc:creator>Heather C. Bingham</dc:creator>
-      <dc:creator>Rachel E. Golden Kroner</dc:creator>
-      <dc:creator>Yifan He</dc:creator>
-      <dc:creator>Jessica L. Stewart</dc:creator>
-      <dc:creator>Adil Mohamed Ali</dc:creator>
-      <dc:creator>Javier Beltran</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Helen M. K. O’Neill, Joe Beeken, Heather C. Bingham, Rachel E. Golden Kroner, Yifan He, Jessica L. Stewart, Adil Mohamed Ali, Javier Beltran, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Nature Index reveals the four countries to watch in biomedical engineering</title>
-      <link>https://doi.org/10.1038/d41586-026-03204-x</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03204-x</guid>
-
-      <dc:creator>Elliot Yates</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elliot Yates
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: S17-S19</description>
-    </item>
-    <item>
-      <title>Engineered TYK2 dependence enables myeloid-selective IL-10 receptor agonism</title>
-      <link>https://doi.org/10.1038/s41586-026-11176-1</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11176-1</guid>
-
-      <dc:creator>D. Alejandro Canaria</dc:creator>
-      <dc:creator>Trang T. T. Nguyen</dc:creator>
-      <dc:creator>Huang Huang</dc:creator>
-      <dc:creator>Hui Xu</dc:creator>
-      <dc:creator>Lili Yue</dc:creator>
-      <dc:creator>Yongyao Fu</dc:creator>
-      <dc:creator>Hoa Truong</dc:creator>
-      <dc:creator>Kerul Patel</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: D. Alejandro Canaria, Trang T. T. Nguyen, Huang Huang, Hui Xu, Lili Yue, Yongyao Fu, Hoa Truong, Kerul Patel, et al.
-
-Journal: Nature
-
-Abstract: Abstract Interleukin-10 (IL-10) is a central anti-inflammatory cytokine that suppresses immune responses in myeloid cells but can also activate T cells, limiting its therapeutic use in chronic inflammatory diseases owing to narrow efficacy windows and dose-limiting toxicities 1–5 . Here we show that myeloid and T cells differ in their dependence on JAK-family kinase pairing for IL-10 signalling and function. We took advantage of this differential kinase dependence to engineer a tetravalent nanobody-based myeloid-selective IL-10 receptor agonist (msIL-10R agonist) that fully recapitulates IL-10’s potent suppression of monocytes, macrophages and dendritic cells while avoiding stimulation of T cells. Cryo-electron microscopy structural analysis reveals a distinct receptor cross-linking geometry of the msIL-10R agonist compared with native IL-10 family cytokines. This tetravalent architecture renders signalling strictly TYK2-dependent and highly sensitive to IL-10Rα and IL-10Rβ receptor abundance, thereby conferring selective activity in myeloid cells. This msIL-10R agonist reduces inflammation in humanized mouse models of lipopolysaccharide challenge, delayed-type hypersensitivity and colitis. A humanized version exhibits IgG-like pharmacokinetics, sustained receptor occupancy and durable myeloid suppression up to 30 days without T cell activation or haematological toxicities in non-human primates. These findings establish a geometry-based strategy for achieving cell-type-selective cytokine signalling and identify the msIL-10R agonist as a therapeutic candidate for myeloid-driven inflammatory diseases, including inflammatory bowel diseases.</description>
-    </item>
-    <item>
-      <title>Competing mechanisms toughen bcc binary and medium-entropy alloys at 20 K</title>
-      <link>https://doi.org/10.1038/s41586-026-11065-7</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11065-7</guid>
-
-      <dc:creator>David H. Cook</dc:creator>
-      <dc:creator>Xiaoyu Chen</dc:creator>
-      <dc:creator>Michael O’Leary</dc:creator>
-      <dc:creator>Satish Rao</dc:creator>
-      <dc:creator>Wenqing Wang</dc:creator>
-      <dc:creator>Calvin H. Belcher</dc:creator>
-      <dc:creator>Madelyn Payne</dc:creator>
-      <dc:creator>Pedro Borges</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: David H. Cook, Xiaoyu Chen, Michael O’Leary, Satish Rao, Wenqing Wang, Calvin H. Belcher, Madelyn Payne, Pedro Borges, et al.
-
-Journal: Nature; Volume: 658; Issue: 8137; Pages: 923-929
-
-Abstract: Abstract Plastic deformation in body-centred cubic (bcc) metals and alloys is conventionally mediated by screw dislocations. Their temperature-sensitive motion is attributed to a steep rise in strength with decreasing temperature that constricts plastic zones at crack tips, leading to a ductile-to-brittle transition 1 . Here we evaluated the mechanical properties of group IV–V bcc refractory alloys with similar electronic structures at 20 K and found that these materials instead exhibit a plateau in tensile yield strength and fracture toughness as a function of temperature, with no apparent ductile-to-brittle transition. This behaviour arises from the global activation of twinning and an ω-phase transformation, which nucleate dislocations at interfaces before global dislocation motion. The initial mechanism is temperature insensitive and controls yielding, thereby preventing a crack-tip plastic zone from constricting with decreasing temperature.</description>
-    </item>
-    <item>
-      <title>A guide to the Nature Index</title>
-      <link>https://doi.org/10.1038/d41586-026-03206-9</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03206-9</guid>
-
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature</description>
-    </item>
-    <item>
-      <title>Hidden reaction pathways inform additive engineering for perovskite LEDs</title>
-      <link>https://doi.org/10.1038/s41586-026-11120-3</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11120-3</guid>
-
-      <dc:creator>Sung-Doo Baek</dc:creator>
-      <dc:creator>Yu-Ting Yang</dc:creator>
-      <dc:creator>Pengfei Wu</dc:creator>
-      <dc:creator>Hanjun Yang</dc:creator>
-      <dc:creator>Mohammad Ali</dc:creator>
-      <dc:creator>Hui Taou Kok</dc:creator>
-      <dc:creator>Xiyu Luo</dc:creator>
-      <dc:creator>Wenhao Shao</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sung-Doo Baek, Yu-Ting Yang, Pengfei Wu, Hanjun Yang, Mohammad Ali, Hui Taou Kok, Xiyu Luo, Wenhao Shao, et al.
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: 629-635</description>
-    </item>
-    <item>
-      <title>Evaluating space-based methane detection through a one-year blind test</title>
-      <link>https://doi.org/10.1038/s41586-026-11115-0</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11115-0</guid>
-
-      <dc:creator>Frances E. Reuland</dc:creator>
-      <dc:creator>Taylor Adams</dc:creator>
-      <dc:creator>Evan D. Sherwin</dc:creator>
-      <dc:creator>Sahar H. El Abbadi</dc:creator>
-      <dc:creator>Eric A. Kort</dc:creator>
-      <dc:creator>Adam R. Brandt</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Frances E. Reuland, Taylor Adams, Evan D. Sherwin, Sahar H. El Abbadi, Eric A. Kort, Adam R. Brandt
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: 673-681</description>
-    </item>
-    <item>
-      <title>Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride</title>
-      <link>https://doi.org/10.1038/s41586-026-11267-z</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11267-z</guid>
-
-      <dc:creator>Chien-Chih Tseng</dc:creator>
-      <dc:creator>Chang-Hsun Huang</dc:creator>
-      <dc:creator>Jui-Cheng Kao</dc:creator>
-      <dc:creator>Jui-Han Fu</dc:creator>
-      <dc:creator>Aowen Li</dc:creator>
-      <dc:creator>Ryo Ishikawa</dc:creator>
-      <dc:creator>Seong Rae Cho</dc:creator>
-      <dc:creator>Chenxi Lei</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chien-Chih Tseng, Chang-Hsun Huang, Jui-Cheng Kao, Jui-Han Fu, Aowen Li, Ryo Ishikawa, Seong Rae Cho, Chenxi Lei, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Parity-dependent coupling of molecular spin chains to a superconductor</title>
-      <link>https://doi.org/10.1038/s41586-026-11117-y</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11117-y</guid>
-
-      <dc:creator>Katerina Vaxevani</dc:creator>
-      <dc:creator>Jon Ortuzar</dc:creator>
-      <dc:creator>Stefano Trivini</dc:creator>
-      <dc:creator>Georg Monninger</dc:creator>
-      <dc:creator>Dongfei Wang</dc:creator>
-      <dc:creator>Manuel Vilas-Varela</dc:creator>
-      <dc:creator>Lucía Gómez-Rodrigo</dc:creator>
-      <dc:creator>Diego Peña</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Katerina Vaxevani, Jon Ortuzar, Stefano Trivini, Georg Monninger, Dongfei Wang, Manuel Vilas-Varela, Lucía Gómez-Rodrigo, Diego Peña, et al.
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: 617-622</description>
-    </item>
-    <item>
-      <title>Large blind test of methane-detecting satellites lends credibility to emissions data</title>
-      <link>https://doi.org/10.1038/d41586-026-03075-2</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03075-2</guid>
-
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature</description>
-    </item>
-    <item>
-      <title>Is this idea from AI or humans? A detector claims it can tell</title>
-      <link>https://doi.org/10.1038/d41586-026-03247-0</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03247-0</guid>
-
-      <dc:creator>Elizabeth Gibney</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elizabeth Gibney
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Biomedical engineering is growing rapidly, but will it help patients?</title>
-      <link>https://doi.org/10.1038/d41586-026-03202-z</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03202-z</guid>
-
-      <dc:creator>Simon Baker</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Simon Baker
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: S11-S11</description>
-    </item>
-    <item>
-      <title>Computational design of metalloproteases</title>
-      <link>https://doi.org/10.1038/s41586-026-11167-2</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11167-2</guid>
-
-      <dc:creator>Anqi Chen</dc:creator>
-      <dc:creator>Kejia Wu</dc:creator>
-      <dc:creator>Hojae Choi</dc:creator>
-      <dc:creator>Preetham Venkatesh</dc:creator>
-      <dc:creator>Samuel J. Pellock</dc:creator>
-      <dc:creator>Nikita Hanikel</dc:creator>
-      <dc:creator>Hojeong shin</dc:creator>
-      <dc:creator>Declan Evans</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Anqi Chen, Kejia Wu, Hojae Choi, Preetham Venkatesh, Samuel J. Pellock, Nikita Hanikel, Hojeong shin, Declan Evans, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Artificial intelligence-enabled clinical phenotyping of human brown fat</title>
-      <link>https://doi.org/10.1038/s41586-026-11162-7</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11162-7</guid>
-
-      <dc:creator>Nicolás Gómez-Banoy</dc:creator>
-      <dc:creator>Jorge A. Barrero</dc:creator>
-      <dc:creator>Luiza Rachel Pinheiro de Carvalho</dc:creator>
-      <dc:creator>Caroline S. Jiang</dc:creator>
-      <dc:creator>Tara Doma Lama</dc:creator>
-      <dc:creator>Nakul Karandikar</dc:creator>
-      <dc:creator>Mascha Koenen</dc:creator>
-      <dc:creator>Tiffany Lam</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nicolás Gómez-Banoy, Jorge A. Barrero, Luiza Rachel Pinheiro de Carvalho, Caroline S. Jiang, Tara Doma Lama, Nakul Karandikar, Mascha Koenen, Tiffany Lam, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Educational intervention can rewire village social networks</title>
-      <link>https://doi.org/10.1038/s41586-026-11154-7</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11154-7</guid>
-
-      <dc:creator>Marios Papamichalis</dc:creator>
-      <dc:creator>Laura Forastiere</dc:creator>
-      <dc:creator>Edoardo M. Airoldi</dc:creator>
-      <dc:creator>Nicholas A. Christakis</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marios Papamichalis, Laura Forastiere, Edoardo M. Airoldi, Nicholas A. Christakis
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Some Jurassic period birds were flightless</title>
-      <link>https://doi.org/10.1038/d41586-026-02645-8</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02645-8</guid>
-
-      <dc:creator>Fernando E. Novas</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fernando E. Novas
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: 609-610</description>
-    </item>
-    <item>
-      <title>The world is closer to a major conservation target than scientists thought</title>
-      <link>https://doi.org/10.1038/d41586-026-03307-5</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03307-5</guid>
-
-      <dc:creator>Benjamin Thompson</dc:creator>
-      <dc:creator>Nick Petrić Howe</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Benjamin Thompson, Nick Petrić Howe
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Targeted stimulation of motor cortex ensembles drives learned movements</title>
-      <link>https://doi.org/10.1038/s41586-026-11174-3</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11174-3</guid>
-
-      <dc:creator>Qiyu Chen</dc:creator>
-      <dc:creator>An Wu</dc:creator>
-      <dc:creator>Bin Yu</dc:creator>
-      <dc:creator>Soyoung Chae</dc:creator>
-      <dc:creator>Zijing Tan</dc:creator>
-      <dc:creator>Assaf Ramot</dc:creator>
-      <dc:creator>Johnatan Aljadeff</dc:creator>
-      <dc:creator>Takaki Komiyama</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Qiyu Chen, An Wu, Bin Yu, Soyoung Chae, Zijing Tan, Assaf Ramot, Johnatan Aljadeff, Takaki Komiyama
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds</title>
-      <link>https://doi.org/10.1038/s41586-026-11242-8</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11242-8</guid>
-
-      <dc:creator>Hayato Fujimoto</dc:creator>
-      <dc:creator>Masayuki Mizutani</dc:creator>
-      <dc:creator>Kazuya Imachi</dc:creator>
-      <dc:creator>Teruki Nishioka</dc:creator>
-      <dc:creator>Reona Ikeda</dc:creator>
-      <dc:creator>Mamoru Tobisu</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hayato Fujimoto, Masayuki Mizutani, Kazuya Imachi, Teruki Nishioka, Reona Ikeda, Mamoru Tobisu
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Overlooked brown fat in our bodies linked to wide range of health benefits</title>
-      <link>https://doi.org/10.1038/d41586-026-03302-w</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03302-w</guid>
-
-      <dc:creator>Mariana Lenharo</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mariana Lenharo
-
-Journal: Nature; Volume: 658; Issue: 8137; Pages: 853-854</description>
-    </item>
-    <item>
-      <title>Alveolar stem cells go beyond making gas-exchange cells to repair damaged airways</title>
-      <link>https://doi.org/10.1038/d41586-026-03085-0</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03085-0</guid>
-
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature</description>
-    </item>
-    <item>
-      <title>Will my lack of country-specific grants limit my chances of employment abroad?</title>
-      <link>https://doi.org/10.1038/d41586-026-02442-3</link>
-      <guid isPermaLink="false">10.1038/d41586-026-02442-3</guid>
-
-      <dc:creator>Christine Ro</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Christine Ro
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Smartwatch health data are piling up. How can doctors keep pace?</title>
-      <link>https://doi.org/10.1038/d41586-026-03203-y</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03203-y</guid>
-
-      <dc:creator>Bianca Nogrady</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bianca Nogrady
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: S12-S15</description>
-    </item>
-    <item>
-      <title>Becoming real</title>
-      <link>https://doi.org/10.1038/d41586-026-03114-y</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03114-y</guid>
-
-      <dc:creator>Dadui Yao</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dadui Yao
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Wave coarsening drives time crystallization in mechatronic metamaterials</title>
-      <link>https://doi.org/10.1038/s41586-026-11163-6</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11163-6</guid>
-
-      <dc:creator>Jonas Veenstra</dc:creator>
-      <dc:creator>Jack Binysh</dc:creator>
-      <dc:creator>Vito Seinen</dc:creator>
-      <dc:creator>Roger Solé Borràs</dc:creator>
-      <dc:creator>Rutger Naber</dc:creator>
-      <dc:creator>Damien Robledo-Poisson</dc:creator>
-      <dc:creator>Andres Hunt</dc:creator>
-      <dc:creator>Wim van Saarloos</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jonas Veenstra, Jack Binysh, Vito Seinen, Roger Solé Borràs, Rutger Naber, Damien Robledo-Poisson, Andres Hunt, Wim van Saarloos, et al.
-
-Journal: Nature; Volume: 658; Issue: 8137; Pages: 909-914</description>
-    </item>
-    <item>
-      <title>Modelling mouse embryogenesis from chemically induced totipotent stem cells</title>
-      <link>https://doi.org/10.1038/s41586-026-11164-5</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11164-5</guid>
-
-      <dc:creator>Hua Wu</dc:creator>
-      <dc:creator>Yanyan Hu</dc:creator>
-      <dc:creator>Hanzhi Yu</dc:creator>
-      <dc:creator>Nana Huang</dc:creator>
-      <dc:creator>Lu Shi</dc:creator>
-      <dc:creator>Menghan Gao</dc:creator>
-      <dc:creator>Xinghan Du</dc:creator>
-      <dc:creator>Xue Lu</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hua Wu, Yanyan Hu, Hanzhi Yu, Nana Huang, Lu Shi, Menghan Gao, Xinghan Du, Xue Lu, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Sexual dimorphism in epidermal stem cell dynamics</title>
-      <link>https://doi.org/10.1038/s41586-026-11159-2</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11159-2</guid>
-
-      <dc:creator>Dan Engelman</dc:creator>
-      <dc:creator>Joel Hochstetter</dc:creator>
-      <dc:creator>Anaïs Bauduin</dc:creator>
-      <dc:creator>Sagar Patil</dc:creator>
-      <dc:creator>Marta Valenti</dc:creator>
-      <dc:creator>Yura Song</dc:creator>
-      <dc:creator>Qiuyu Lian</dc:creator>
-      <dc:creator>Annagiada Toniolo</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Dan Engelman, Joel Hochstetter, Anaïs Bauduin, Sagar Patil, Marta Valenti, Yura Song, Qiuyu Lian, Annagiada Toniolo, et al.
-
-Journal: Nature
-
-Abstract: Abstract The epidermis is a stratified epithelium comprising proliferative basal cells and differentiated suprabasal cells that are continuously renewed throughout life. Conflicting theories have been proposed regarding the heterogeneity of the basal cell layer, with some studies proposing that all proliferative cells have self-renewal potential during homeostasis 1–5 . Meanwhile, others posit a model in which stem cell differentiation occurs through an intermediate transit-amplifying-like progenitor state with strictly limited proliferative potential 6–10 . Here, to determine the heterogeneity and pattern of cell fate, we performed intravital time-lapse imaging to track the fate of lineage-labelled cells in the skin interfollicular epidermis. Results from quantitative analyses of clonal dynamics support a two-compartment model of epidermal homeostasis, whereby basal cells are organized in a stem cell–transit-amplifying cell hierarchy. Critical to these conclusions was the discovery of sexual dimorphism in epidermal fate, with female mice showing a highly synchronized pattern of cell division, differentiation and delamination that contributes to accelerated wound healing. Single-cell RNA sequencing, transcriptional profiling and clonal analyses of castrated mice revealed that male sex hormones promote stem cell differentiation and delamination. In summary, our study provides insight into the functional identity of the stem cell population and identifies sex-specific differences in the regulation of epidermal stem cells and transit-amplifying cell fate.</description>
-    </item>
-    <item>
-      <title>Structural basis of ligand recognition and gating in mosquito IRs</title>
-      <link>https://doi.org/10.1038/s41586-026-11239-3</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11239-3</guid>
-
-      <dc:creator>Li Xu</dc:creator>
-      <dc:creator>Xin Wang</dc:creator>
-      <dc:creator>Xuebo Quan</dc:creator>
-      <dc:creator>Stephen T. Ferguson</dc:creator>
-      <dc:creator>Dong Liu</dc:creator>
-      <dc:creator>Jiawei Chen</dc:creator>
-      <dc:creator>Sai Wang</dc:creator>
-      <dc:creator>Simin Liang</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Li Xu, Xin Wang, Xuebo Quan, Stephen T. Ferguson, Dong Liu, Jiawei Chen, Sai Wang, Simin Liang, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Jurassic flightless bird reveals early ecological diversity of avialans</title>
-      <link>https://doi.org/10.1038/s41586-026-10972-z</link>
-      <guid isPermaLink="false">10.1038/s41586-026-10972-z</guid>
-
-      <dc:creator>Liming Xu</dc:creator>
-      <dc:creator>Min Wang</dc:creator>
-      <dc:creator>Ganmin Lin</dc:creator>
-      <dc:creator>Liping Dong</dc:creator>
-      <dc:creator>Ke Deng</dc:creator>
-      <dc:creator>Xing Xu</dc:creator>
-      <dc:creator>Honggang Du</dc:creator>
-      <dc:creator>Min Lin</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Liming Xu, Min Wang, Ganmin Lin, Liping Dong, Ke Deng, Xing Xu, Honggang Du, Min Lin, et al.
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: 690-697</description>
-    </item>
-    <item>
-      <title>Protecting nature means valuing biodiversity</title>
-      <link>https://doi.org/10.1038/d41586-026-03219-4</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03219-4</guid>
-
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature; Volume: 658; Issue: 8136; Pages: 579-580</description>
-    </item>
-    <item>
-      <title>De novo design of cysteine proteases</title>
-      <link>https://doi.org/10.1038/s41586-026-11143-w</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11143-w</guid>
-
-      <dc:creator>Hojae Choi</dc:creator>
-      <dc:creator>Magnus S. Bauer</dc:creator>
-      <dc:creator>Brian Coventry</dc:creator>
-      <dc:creator>Preetham Venkatesh</dc:creator>
-      <dc:creator>Anqi Chen</dc:creator>
-      <dc:creator>Donghyo Kim</dc:creator>
-      <dc:creator>Asim K. Bera</dc:creator>
-      <dc:creator>Alex Kang</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hojae Choi, Magnus S. Bauer, Brian Coventry, Preetham Venkatesh, Anqi Chen, Donghyo Kim, Asim K. Bera, Alex Kang, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Divergent genomic evolution in astrocytomas and oligodendrogliomas</title>
-      <link>https://doi.org/10.1038/s41586-026-11150-x</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11150-x</guid>
-
-      <dc:creator>Tamrin Chowdhury</dc:creator>
-      <dc:creator>C. Mircea S. Tesileanu</dc:creator>
-      <dc:creator>Emre Kocakavuk</dc:creator>
-      <dc:creator>Kevin C. Johnson</dc:creator>
-      <dc:creator>Joo Ho Lee</dc:creator>
-      <dc:creator>Zeynep Erson-Omay</dc:creator>
-      <dc:creator>Chaewon Heo</dc:creator>
-      <dc:creator>Kenneth Aldape</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Tamrin Chowdhury, C. Mircea S. Tesileanu, Emre Kocakavuk, Kevin C. Johnson, Joo Ho Lee, Zeynep Erson-Omay, Chaewon Heo, Kenneth Aldape, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Clasping folds enable superior elastic strength of graphene films</title>
-      <link>https://doi.org/10.1038/s41586-026-11109-y</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11109-y</guid>
-
-      <dc:creator>Lidan Wang</dc:creator>
-      <dc:creator>Yangchao Liao</dc:creator>
-      <dc:creator>Jingjie Huang</dc:creator>
-      <dc:creator>Chenwei Shen</dc:creator>
-      <dc:creator>Lu Chen</dc:creator>
-      <dc:creator>Xing Li</dc:creator>
-      <dc:creator>Degong Ding</dc:creator>
-      <dc:creator>Mingtao Zhang</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lidan Wang, Yangchao Liao, Jingjie Huang, Chenwei Shen, Lu Chen, Xing Li, Degong Ding, Mingtao Zhang, et al.
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: 643-649</description>
-    </item>
-    <item>
-      <title>Rh3+ stabilized in KRh@MFI catalyses regioselective hydroformylation</title>
-      <link>https://doi.org/10.1038/s41586-026-11136-9</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11136-9</guid>
-
-      <dc:creator>Minjie Zhao</dc:creator>
-      <dc:creator>Reisel Millán</dc:creator>
-      <dc:creator>Alina Skorynina</dc:creator>
-      <dc:creator>Laura Simonelli</dc:creator>
-      <dc:creator>Miguel Lopez Haro</dc:creator>
-      <dc:creator>José Juan Calvino</dc:creator>
-      <dc:creator>Patricia Concepción</dc:creator>
-      <dc:creator>Avelino Corma</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Minjie Zhao, Reisel Millán, Alina Skorynina, Laura Simonelli, Miguel Lopez Haro, José Juan Calvino, Patricia Concepción, Avelino Corma
-
-Journal: Nature; Volume: 658; Issue: 8137; Pages: 936-942</description>
-    </item>
-    <item>
-      <title>Growing plane and ship traffic degrade the air of western North America</title>
-      <link>https://doi.org/10.1038/d41586-026-03239-0</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03239-0</guid>
-
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature; Volume: 658; Issue: 8137; Pages: 845-845</description>
-    </item>
-    <item>
-      <title>Evidence for multi-Li+ clustering in lithium-ion battery electrolytes</title>
-      <link>https://doi.org/10.1038/s41586-026-11138-7</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11138-7</guid>
-
-      <dc:creator>James M. Stevenson</dc:creator>
-      <dc:creator>Garvit Agarwal</dc:creator>
-      <dc:creator>Sibali Debnath</dc:creator>
-      <dc:creator>Zachary K. Goldsmith</dc:creator>
-      <dc:creator>Monosij Mondal</dc:creator>
-      <dc:creator>Asya Svirinovsky-Arbeli</dc:creator>
-      <dc:creator>In Won Yeu</dc:creator>
-      <dc:creator>Amy S. Metlay</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: James M. Stevenson, Garvit Agarwal, Sibali Debnath, Zachary K. Goldsmith, Monosij Mondal, Asya Svirinovsky-Arbeli, In Won Yeu, Amy S. Metlay, et al.
-
-Journal: Nature; Volume: 658; Issue: 8136; Pages: 636-642</description>
-    </item>
-    <item>
-      <title>Capillary-selective vasodilation through myosin inhibition halts ischaemic cascades</title>
-      <link>https://doi.org/10.1038/s41586-026-11171-6</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11171-6</guid>
-
-      <dc:creator>Máté Pénzes</dc:creator>
-      <dc:creator>Máté Winternitz</dc:creator>
-      <dc:creator>Ádám I. Horváth</dc:creator>
-      <dc:creator>Svetlana Mastitskaya</dc:creator>
-      <dc:creator>Usman Awan</dc:creator>
-      <dc:creator>Tamás Szimler</dc:creator>
-      <dc:creator>Camille Glaser</dc:creator>
-      <dc:creator>Carlos Kikuti</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Máté Pénzes, Máté Winternitz, Ádám I. Horváth, Svetlana Mastitskaya, Usman Awan, Tamás Szimler, Camille Glaser, Carlos Kikuti, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Elp1 is required for myeloid differentiation and brain repopulation</title>
-      <link>https://doi.org/10.1038/s41586-026-11112-3</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11112-3</guid>
-
-      <dc:creator>Marius Marc-Daniel Mader</dc:creator>
-      <dc:creator>Wanhua Li</dc:creator>
-      <dc:creator>Alexa Scavetti</dc:creator>
-      <dc:creator>Yongjin Yoo</dc:creator>
-      <dc:creator>Gernot Neumayer</dc:creator>
-      <dc:creator>Katie Han</dc:creator>
-      <dc:creator>Yohei Shibuya</dc:creator>
-      <dc:creator>Michael Haney</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marius Marc-Daniel Mader, Wanhua Li, Alexa Scavetti, Yongjin Yoo, Gernot Neumayer, Katie Han, Yohei Shibuya, Michael Haney, et al.
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>Daily briefing: China’s extraordinary rise in science</title>
-      <link>https://doi.org/10.1038/d41586-026-03322-6</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03322-6</guid>
-
-      <dc:creator>Flora Graham</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Flora Graham
-
-Journal: Nature</description>
-    </item>
-    <item>
-      <title>A microexon regulatory code reveals autism-linked genetic variation</title>
-      <link>https://doi.org/10.1038/s41586-026-11119-w</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11119-w</guid>
-
-      <dc:creator>Guillermo E. Parada</dc:creator>
-      <dc:creator>Hannes Bretschneider</dc:creator>
-      <dc:creator>Jack Daiyang Li</dc:creator>
-      <dc:creator>Jacob L. Fine</dc:creator>
-      <dc:creator>Steven J. Dupas</dc:creator>
-      <dc:creator>Jonathan D. Ellis</dc:creator>
-      <dc:creator>Ulrich Braunschweig</dc:creator>
-      <dc:creator>Sophie Bonnal</dc:creator>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Guillermo E. Parada, Hannes Bretschneider, Jack Daiyang Li, Jacob L. Fine, Steven J. Dupas, Jonathan D. Ellis, Ulrich Braunschweig, Sophie Bonnal, et al.
-
-Journal: Nature
-
-Abstract: Abstract Neuronal microexons are a highly conserved class of alternative splicing events enriched in genes with critical functions in nervous system biology 1,2 . Microexon splicing is often disrupted in the brains of autistic individuals, and mice with microexon deficiencies display autism-like phenotypes 1,3,4 . However, the full landscape of microexons is not known, and the impact of genetic variation on these exons has not been systematically investigated. Here, through extensive transcriptome profiling, we detect hundreds of new microexons, including many with neuronal subtype-specific splicing patterns, and others that activate nonsense-mediated mRNA decay. Using machine learning, we define a sequence code predictive of neuronally spliced microexons and use this to identify critical regulatory elements surrounding the expanded microexon repertoire. This code further reveals genomic variants predicted to alter microexon splicing in individuals affected by autism, with rare variants having the strongest estimated impact. These variants are mostly detected in idiopathic individuals and are associated with autism status. They also converge on synaptic and other autism-linked genes, as well as genes not previously linked to autism. Our results collectively define an expanded repertoire of microexons, delineate their regulatory code, and pinpoint variants predicted to affect their splicing, with implications for the disruption of functions central to neuronal biology and brain disorders.</description>
     </item>
   </channel>
 </rss>

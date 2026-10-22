@@ -5,8 +5,111 @@
     <link>https://jamanetwork.com/journals/jamapsychiatry</link>
     <description>Latest journal articles for JAMA Psychiatry</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:53:33 +0000</lastBuildDate>
 
+    <item>
+      <title>Multimodal Machine Learning–Based Prediction of Relapse in Major Depressive Disorder</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3232</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3232</guid>
+
+      <dc:creator>Lea Teutenberg</dc:creator>
+      <dc:creator>Nils R. Winter</dc:creator>
+      <dc:creator>Paula Usemann</dc:creator>
+      <dc:creator>Frederike Stein</dc:creator>
+      <dc:creator>Florian Thomas-Odenthal</dc:creator>
+      <dc:creator>Kira Flinkenflügel</dc:creator>
+      <dc:creator>Tiana Borgers</dc:creator>
+      <dc:creator>Susanne Meinert</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Lea Teutenberg, Nils R. Winter, Paula Usemann, Frederike Stein, Florian Thomas-Odenthal, Kira Flinkenflügel, Tiana Borgers, Susanne Meinert, et al.
+
+Journal: JAMA Psychiatry
+
+Abstract: Importance Early identification of patients at high risk of relapse is key to personalized preventive strategies in major depressive disorder (MDD). However, current predictive models do not adequately account for the multimodal factors contributing to MDD relapse and fail to provide clinically meaningful predictions. Objective To predict relapse within 2 years in patients with MDD by using a comprehensive machine learning pipeline that integrates an unprecedented set of multimodal data. Design, Setting, and Participants This naturalistic longitudinal prognostic study used data from the Marburg-Münster Affective Disorders Cohort Study, with baseline assessments collected from October 2014 to May 2019 and follow-up approximately 2 years later, between October 2016 and June 2021. Data analysis was conducted between July 2024 and June 2026. The study was performed at 2 sites in Germany (Marburg and Münster), with participants recruited from psychiatric inpatient and outpatient departments and the general population. Patients meeting diagnostic criteria for current or lifetime MDD without history of neurological or severe somatic conditions were included. Exposure Natural course of illness in patients with MDD. Main Outcomes and Measures Balanced accuracy (BACC) for binary prediction of relapse vs no relapse during 2-year follow-up served as the primary outcome. Baseline features comprised 9 modalities including clinical and psychometric data, 4 structural and functional magnetic resonance imaging modalities, genetics, neurocognition, blood markers, and gut microbiome. Results A total of 564 patients with a current or lifetime MDD diagnosis were included (367 female [65.1%]; mean [SD] age, 37.34 [13.38] years). A total of 270 patients relapsed during the 2-year follow-up, while 294 did not. Mean (SD) BACC for the prediction of relapse ranged from 47.21% (5.85%) to 64.43% (6.63%). The best-performing model was solely based on few clinical relapse risk factors, while multimodal data integration did not improve performance. Conclusions and Relevance In this prognostic study, the models achieved moderate accuracy, yet the results suggest limited scope for guiding individual-level clinical decision-making. Predictive performance was largely driven by established clinical risk factors, indicating limited incremental value of multimodal measures when assessed at a single time point. Future advances may instead benefit from dynamic modeling approaches that more closely align temporally evolving multimodal markers with longitudinal clinical outcomes.</description>
+    </item>
+    <item>
+      <title>Psilocybin and Inflammatory and Mitochondrial Stress Markers in Parkinson Disease</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.2733</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2733</guid>
+
+      <dc:creator>Ellen R. Bradley</dc:creator>
+      <dc:creator>Parker Kelley</dc:creator>
+      <dc:creator>Balázs Szigeti</dc:creator>
+      <dc:creator>Kristen Nishimi</dc:creator>
+      <dc:creator>Martin Picard</dc:creator>
+      <dc:creator>Kimberly Sakai</dc:creator>
+      <dc:creator>Gisele Fernandes-Osterhold</dc:creator>
+      <dc:creator>Jill L. Ostrem</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ellen R. Bradley, Parker Kelley, Balázs Szigeti, Kristen Nishimi, Martin Picard, Kimberly Sakai, Gisele Fernandes-Osterhold, Jill L. Ostrem, et al.
+
+Journal: JAMA Psychiatry
+
+Abstract: This nonrandomized clinical trial assesses associations between psilocybin therapy and changes in systemic markers of inflammation and mitochondrial stress in people with Parkinson disease and mood dysfunction.</description>
+    </item>
+    <item>
+      <title>Evaluating Large Language Models for Mental Health Care</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3229</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3229</guid>
+
+      <dc:creator>Kevin W. Jin</dc:creator>
+      <dc:creator>Hua Xu</dc:creator>
+      <dc:creator>Sarah W. Yip</dc:creator>
+      <dc:creator>Carolyn I. Rodriguez</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kevin W. Jin, Hua Xu, Sarah W. Yip, Carolyn I. Rodriguez
+
+Journal: JAMA Psychiatry
+
+Abstract: This Viewpoint issues a call for community-wide coordination to evaluate large language models for mental health care.</description>
+    </item>
+    <item>
+      <title>Issues Regarding GLP-1 RA Use in Eating Disorders—Reply</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3347</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3347</guid>
+
+      <dc:creator>Nicholas C. Peiper</dc:creator>
+      <dc:creator>Jon E. Zibbell</dc:creator>
+      <dc:creator>Cheri A. Levinson</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Nicholas C. Peiper, Jon E. Zibbell, Cheri A. Levinson
+
+Journal: JAMA Psychiatry</description>
+    </item>
+    <item>
+      <title>Issues Regarding GLP-1 RA Use in Eating Disorders</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3344</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3344</guid>
+
+      <dc:creator>Anu Raevuori</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Anu Raevuori
+
+Journal: JAMA Psychiatry</description>
+    </item>
+    <item>
+      <title>Issues Regarding GLP-1 RA Use in Eating Disorders</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3341</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3341</guid>
+
+      <dc:creator>Kimberly Dennis</dc:creator>
+      <dc:creator>Timothy D. Brewerton</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kimberly Dennis, Timothy D. Brewerton
+
+Journal: JAMA Psychiatry</description>
+    </item>
+    <item>
+      <title>Issues Regarding GLP-1 RA Use in Eating Disorders</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3338</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3338</guid>
+
+      <dc:creator>Gemma Sharp</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gemma Sharp
+
+Journal: JAMA Psychiatry</description>
+    </item>
     <item>
       <title>Online Sports Betting Legalization and Behavioral Health Care Use</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.3175</link>
@@ -202,6 +305,21 @@ Abstract: This cohort study explores trends in urine cotinine concentrations bet
       <description>Journal: JAMA Psychiatry; Volume: 83; Issue: 10; Pages: 996</description>
     </item>
     <item>
+      <title>Deconstructing Social Functioning in Psychosis Risk—From Prediction to Recovery</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.2226</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2226</guid>
+
+      <dc:creator>Ricardo E. Carrión</dc:creator>
+      <dc:creator>Benson S. Ku</dc:creator>
+      <dc:creator>Christoph U. Correll</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ricardo E. Carrión, Benson S. Ku, Christoph U. Correll
+
+Journal: JAMA Psychiatry; Volume: 83; Issue: 10; Pages: 997
+
+Abstract: This Viewpoint recommends viewing recovery from social functioning deficits as a co–primary outcome among individuals at clinical high risk for developing psychosis alongside the traditional primary outcome of reducing transition to schizophrenia and other psychotic disorders.</description>
+    </item>
+    <item>
       <title>Psychological Interventions Targeting Auditory Hallucinations in Persons With Psychotic Disorders</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.1443</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1443</guid>
@@ -220,21 +338,6 @@ Abstract: This cohort study explores trends in urine cotinine concentrations bet
 Journal: JAMA Psychiatry; Volume: 83; Issue: 10; Pages: 1007
 
 Abstract: Importance Auditory hallucinations (AHs) are a hallmark characteristic of schizophrenia spectrum disorders (SSDs) and are often associated with severe distress. Previous research lacks comprehensive evidence on the overall efficacy of approaches targeting AHs in SSDs. Objective To evaluate the efficacy and acceptability of all available psychological and psychosocial interventions targeting AHs in SSDs. Data Sources Embase, MEDLINE, PsycArticles, PsycInfo, PSYNDEX, and the Cochrane library were searched for eligible studies published until August 18, 2025. Study Selection Randomized clinical trials that analyzed psychological interventions targeting AHs compared to controls in adults with SSDs. Data Extraction and Synthesis This study followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA). Two independent reviewers screened publications, extracted data, and assessed risk of bias. A random-effects meta-analysis was performed (Hedges g) . Main Outcomes and Measures The main outcomes were between-group differences in AHs and clinical characteristics at posttreatment and follow-up, measured with validated rating scales. Additional number-needed-to-treat (NNT) analyses and rating of evidence certainty (GRADE approach) were conducted. Results A total of 23 studies with 2016 participants were included, with 1081 in the intervention groups across 5 different therapeutic approaches and 935 in the control groups. At posttreatment, targeted interventions reduced the severity of AHs compared with control groups (standardized mean difference [SMD], −0.18; 95% CI, −0.31 to −0.05; P = .007; NNT, 16; GRADE, low evidence). This effect was also observed for numerous secondary outcomes, comprising frequency and distress of AHs, total symptoms, positive symptoms, delusions, depression, and anxiety. Subgroup analysis showed that avatar therapy reduced the severity of AHs with the largest effect size (SMD, −0.37; 95% CI, −0.51 to −0.22; P &amp;amp;amp;lt; .001). Sensitivity analyses indicated robustness of results. Dropout rates and reports on adverse events indicated high tolerability and acceptability of treatments. Conclusion and Relevance Although targeted psychological and psychosocial interventions for AHs in SSDs were found to be effective in reducing the severity and other characteristics of AHs, with effect sizes ranging from small to medium, substantial differences were observed between approaches. In particular, avatar therapy seems to be effective at addressing AH symptoms. These findings could influence future studies and clinical care by advancing the development of targeted, novel approaches for AHs that address relevant treatment characteristics.</description>
-    </item>
-    <item>
-      <title>Deconstructing Social Functioning in Psychosis Risk—From Prediction to Recovery</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.2226</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2226</guid>
-
-      <dc:creator>Ricardo E. Carrión</dc:creator>
-      <dc:creator>Benson S. Ku</dc:creator>
-      <dc:creator>Christoph U. Correll</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ricardo E. Carrión, Benson S. Ku, Christoph U. Correll
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 10; Pages: 997
-
-Abstract: This Viewpoint recommends viewing recovery from social functioning deficits as a co–primary outcome among individuals at clinical high risk for developing psychosis alongside the traditional primary outcome of reducing transition to schizophrenia and other psychotic disorders.</description>
     </item>
     <item>
       <title>Social Determinants of Health and Neurobiology Across the Schizophrenia Course</title>
@@ -947,6 +1050,20 @@ Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 902
 Abstract: Importance Anorexia nervosa (AN) is a deadly psychiatric disorder with relapse rates approaching 50% after weight restoration. Disrupted gastrointestinal interoception may underlie persistent symptoms and relapse vulnerability. Objective To examine behavioral, computational, neural, and physiological markers of gastrointestinal interoception in weight-restored individuals with AN and test their association with relapse. Design, Setting, and Participants This crossover trial was a single-blind, within-participant, randomized (block-order) trial conducted at the Laureate Institute for Brain Research between August 2021 and February 2025. Participants were females with weight-restored restrictive AN and age- and sex-matched healthy comparators (HCs). All participants ingested a vibrating capsule that delivered counterbalanced blocks of normal- and enhanced-intensity gut stimulation. Behavioral detection performance, electroencephalography, peripheral physiology, and computational modeling were used to assess interoception. Main Outcomes and Measures Experimental-session measures included interoceptive accuracy, prior beliefs, interoceptive precision, learning rates, gastric-evoked potentials (GEPs), and hunger. Main clinical outcomes at 6 months included relapse status and symptom severity. Results The cohort included 62 female participants with weight-restored restrictive AN (mean [SD] age, 18.9 [4.5] years) and 57 age- and sex-matched healthy comparators (HCs; mean [SD] age, 20.7 [5.3] years). Six-month follow-up data were collected for 54 participants with AN. Compared with HCs, participants with AN showed lower perceptual accuracy (Cohen d = −0.98; 95% CI, −1.51 to –0.44; P = .001) and higher miss rates (Cohen d = 1.02; 95% CI, 0.55 to 1.48; P &amp;amp;amp;lt; .001). Computational modeling revealed in the AN group stronger prior expectations that capsule vibrations would not be present (Cohen d = −0.31; 95% CI, −0.67 to 0.05; P = .05), greater shifts in interoceptive precision between blocks (Cohen d = 0.38; 95% CI, 0.02 to 0.75; P = .01), and learning asymmetries (vibration: Cohen d = −0.40; 95% CI, −0.77 to −0.04; P = .007; no-vibration: Cohen d = 0.35; 95% CI, −0.02 to 0.71; P = .01). GEP amplitudes did not differ by group but were correlated with accuracy and learning in AN. Capsule stimulation induced greater hunger increases in AN (interaction: η 2 p = 0.04, P = .04; AN: Cohen d = 0.94; 95% CI, 0.57 to 1.30; HCs: Cohen d = 0.40; 95% CI, 0.03 to 0.77). At follow-up, relapse was predicted by initial priors (odds ratio [OR], 3.82; 95% CI, 1.02 to 15.91; P = .05), response bias (OR, 5.37; 95% CI, 1.15 to 32.04; P = .04), and stomach unpleasantness (OR, 5.73; 95% CI, 1.38 to 33.5; P = .03), while eating disorder symptom severity was predicted by miss rate (β = 1.05; R 2 = 0.08; P = .05), difference in interoceptive precision (β = 5.84; R 2 = 0.16; P = .004), and initial priors (β = −2.99; R 2 = 0.09; P = .05). Conclusions and Relevance In this study of weight-restored females with AN, gastrointestinal interoception was disrupted across multiple domains, including reduced accuracy detecting gut signals, maladaptive priors, rigid learning, and abnormal hunger rating. Several interoceptive markers predicted relapse and symptom severity at follow-up. These findings support the use of ingestible mechanosensory probes and computational modeling as scalable tools to monitor treatment response and guide relapse prevention in eating disorders. Trial Registration ClinicalTrials.gov Identifier: NCT05111977</description>
     </item>
     <item>
+      <title>War and Suicide in the US Military</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.1762</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1762</guid>
+
+      <dc:creator>Mark A. Reger</dc:creator>
+      <dc:creator>Tim Hoyt</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mark A. Reger, Tim Hoyt
+
+Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 892
+
+Abstract: This Viewpoint argues that, as the US considers military and veteran suicide risk during a new conflict with Iran, policymakers and clinicians should avoid oversimplified assumptions about war, combat exposure, and suicide and instead apply nuanced lessons from prior war eras and new research.</description>
+    </item>
+    <item>
       <title>The 25-Year Evolution of Lithium as a Disease-Modifying Agent in Dementia</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.1296</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1296</guid>
@@ -961,20 +1078,6 @@ Abstract: Importance Anorexia nervosa (AN) is a deadly psychiatric disorder with
 Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 976
 
 Abstract: Importance Lithium, a long-established cornerstone therapy for bipolar disorder, is a biologically plausible disease-modifying agent for neurodegenerative disorders, including mild cognitive impairment (MCI) and Alzheimer disease (AD). Observations Rather than targeting a single pathology like amyloid or tau, lithium acts across multiple cellular resilience pathways. Chronic lithium exposure induces the anti-apoptotic protein B-cell lymphoma 2 (Bcl-2), enhances brain-derived neurotrophic factor (BDNF) signaling, inhibits glycogen synthase kinase-3β (GSK-3β), stabilizes mitochondrial function, and reduces oxidative stress. These convergent mechanisms promote neuronal survival and synaptic integrity. In humans, proton magnetic resonance spectroscopy studies found that lithium increased N -acetylaspartate levels, consistent with improved neuronal viability, and structural magnetic resonance imaging (MRI) studies found that lithium preserved gray matter and/or reversed illness-related atrophy in hippocampal and corticolimbic regions. In addition, extensive evidence demonstrates that low-dose lithium (approximately 0.3mM)—significantly lower than traditional psychiatric doses (0.6-1.0mM)—exerts robust neurotrophic and neuroprotective effects. Preclinical models have found that these concentrations stimulate hippocampal neurogenesis, promote structural plasticity, and protect against proteotoxic injury. Furthermore, epidemiological studies have associated cumulative lithium exposure with reduced dementia risk, and early randomized clinical trials in MCI suggest cognitive stabilization and favorable tau biomarker changes at low, well-tolerated doses. The recent repletion hypothesis suggests that lithium may also function as a physiological trace element, but these findings await independent replication. Conclusions and Relevance These convergent data support a prospective clinical trial of low-dose lithium orotate to slow disease progression in MCI. Such an approach would prioritize established neuroprotective mechanisms while potentially mitigating the kidney and thyroid risks associated with higher-dose carbonate formulations. If low-dose lithium can indeed meaningfully alter disease trajectory, it would represent a much-needed, accessible, and inexpensive treatment that may be especially relevant in low- and middle-income countries.</description>
-    </item>
-    <item>
-      <title>War and Suicide in the US Military</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1762</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1762</guid>
-
-      <dc:creator>Mark A. Reger</dc:creator>
-      <dc:creator>Tim Hoyt</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mark A. Reger, Tim Hoyt
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 892
-
-Abstract: This Viewpoint argues that, as the US considers military and veteran suicide risk during a new conflict with Iran, policymakers and clinicians should avoid oversimplified assumptions about war, combat exposure, and suicide and instead apply nuanced lessons from prior war eras and new research.</description>
     </item>
     <item>
       <title>Changes in Genetic Contributions to ASD and ADHD by Year of Diagnosis</title>
@@ -1475,118 +1578,6 @@ Abstract: Importance Individuals with mental disorders often experience multiple
       <description>Authors: Marion Brickwedde, Dario Gordillo, Peter P. J. Uhlhaas
 
 Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 785</description>
-    </item>
-    <item>
-      <title>Recurrent Copy Number Variants and Psychiatric Outcomes in the Context of Polygenic Scores</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1064</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1064</guid>
-
-      <dc:creator>Morteza Vaez</dc:creator>
-      <dc:creator>Simone Montalbano</dc:creator>
-      <dc:creator>Ryan Waples</dc:creator>
-      <dc:creator>Morten Dybdahl Krebs</dc:creator>
-      <dc:creator>Kajsa-Lotta Georgii Hellberg</dc:creator>
-      <dc:creator>Jesper Gådin</dc:creator>
-      <dc:creator>Daniel Stow</dc:creator>
-      <dc:creator>Peter Holmans</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Morteza Vaez, Simone Montalbano, Ryan Waples, Morten Dybdahl Krebs, Kajsa-Lotta Georgii Hellberg, Jesper Gådin, Daniel Stow, Peter Holmans, et al.
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 827
-
-Abstract: Importance Although both recurrent copy number variants (rCNVs) and polygenic scores (PGSs) impart risk for psychiatric disorders, it remains unclear how they contribute jointly to this risk. Objective To estimate and compare absolute risk of psychiatric disorders associated with rCNVs and PGSs, independently and jointly. Design, Setting, and Participants This genetic association study applied data from the Lundbeck Foundation Initiative for Integrative Psychiatric Research (iPSYCH) case-cohort sample of individuals born in Denmark (1981-2008) and followed up until 2015, including all individuals with a hospital diagnosis of attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder (ASD), schizophrenia spectrum disorder (SSD), or major depressive disorder (MDD), and a subcohort randomly drawn from the source population. Data were analyzed from September 2023 to May 2025. Exposures Carrier status was determined at 27 autosomal rCNV loci and PGSs for psychiatric (and other) outcomes from neonatal blood samples genotyped on microarrays and summary statistics from published association studies. Main Outcomes and Measures Absolute risks were estimated for ADHD, ASD, MDD, and SSD during follow-up using a weighted survival analysis framework, and joint effects of rCNV carriage and PGSs were assessed by fitting generalized linear models. Results In 94 276 unrelated European-ancestry individuals (mean [SD] age at follow-up, 21.9 [7.0] years; 50 653 male [53.7%]), rCNV carriage was associated with increased risk of ASD, ADHD, and SSD but not MDD (β = 0.33; 95% CI, 0.27-0.39; β = 0.29; 95% CI, 0.23-0.35; β = 0.25; 95% CI, 0.17-0.33; and β = 0.04; 95% CI, −0.03 to 0.11, respectively); each PGS was positively associated with risk of the corresponding disorder (β = 0.14; 95% CI, 0.12-0.16; β = 0.28; 95% CI, 0.26-0.30; β = 0.28; 95% CI, 0.26-0.30; and β = 0.38; 95% CI, 0.36-0.40, respectively). PGSs identified more individuals than rCNV carriage at comparable levels of absolute risk, except for ASD. A negative interaction was observed between 16p13.11 duplication and ADHD-PGS on ADHD risk (β = −0.51; 95% CI, −0.86 to −0.16), and there was a trend toward negative rCNV-PGS interaction coefficients across aggregated rCNV groups and each of the 9 most common rCNVs (27 of 39 tests, P binomial = .01). Conclusions and Relevance Findings of this genetic association study highlight the complementary value of rCNVs and PGSs for risk assessment in psychiatric disorders, with indications that PGSs can stratify risk among medium- and high-impact rCNV carriers and rCNV-associated risk may, in some instances, be attenuated among individuals with low PGSs.</description>
-    </item>
-    <item>
-      <title>Structure of the Genetic Risks for Psychiatric Disorders in Swedish Population-Based Registries</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1047</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1047</guid>
-
-      <dc:creator>Kenneth S. Kendler</dc:creator>
-      <dc:creator>Henrik Ohlsson</dc:creator>
-      <dc:creator>Jan Sundquist</dc:creator>
-      <dc:creator>Kristina Sundquist</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Kenneth S. Kendler, Henrik Ohlsson, Jan Sundquist, Kristina Sundquist
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 818
-
-Abstract: Importance Recent efforts to clarify the structure of the genetic risks for psychiatric disorders have been limited to disorders with large molecular samples. These heterogeneous samples have typically been ascertained from diverse sources and use a widening range of diagnostic approaches including single-item self-reports. Objective To assess the structure of genetic risk factors for 18 diverse psychiatric and substance use disorders in a single population, using high-quality population-based registries. Design, Setting, and Participants This cohort study included individuals born between 1960 and 2000 in Sweden to Swedish-born parents who were followed up to a mean (SD) age of 40.9 (10.5) years in 2018. Registries included the Swedish Multigeneration Register and Swedish National Patient Register. Data were analyzed from September to December 2025. Exposures The family genetic risk scores (FGRSs) for 18 disorders in all individuals calculated from first- through fifth-degree relatives, controlling for cohabitation. Main Outcomes and Measures Exploratory and confirmatory factor analysis (EFA and CFA, respectively) of these FGRSs performed on split-half samples. Results Among 3 021 948 individuals (1 549 159 [51.3%] male), EFA found a 6-factor structure consisting of psychotic disorders, externalizing disorders, anxiety disorders, neurodevelopmental disorders, mood disorders, and eating disorders. The mean (SD) interfactor correlation was 0.29. The CFA fit well and set 70.3% of the loadings to 0. Interesting features included identification of separate mood and anxiety disorder factors, with major depression loading on both; bipolar disorder, schizoaffective disorder, and acute psychoses all loading on the mood and psychotic disorder factors, with loadings on the mood disorder factor stronger for bipolar disorder than the psychotic disorder factor and the reverse seen for schizoaffective and acute psychotic disorder; posttraumatic stress disorder having the most diverse loadings on the mood, anxiety, and externalizing disorder factors; and attention-deficit/hyperactivity disorder loading on both the neurodevelopmental and externalizing factors. Because FGRSs are skewed, especially for rare disorders, a range of transformations was performed to reduce skewness, which produced results similar to those obtained on the original data. Conclusions and Relevance Using a complete epidemiological ascertainment frame for treated psychiatric disorders in a large population sample with high-quality registries, this cohort study uncovered a structure of genetic risks that, compared to prior efforts, was similar in many ways but also had important differences.</description>
-    </item>
-    <item>
-      <title>JAMA Psychiatry</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2025.2830</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2025.2830</guid>
-
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 780</description>
-    </item>
-    <item>
-      <title>Electroencephalography Microstate Instability and Clinical Outcomes in Individuals at Clinical High Risk of Psychosis</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1084</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1084</guid>
-
-      <dc:creator>Matthias Liebrand</dc:creator>
-      <dc:creator>Holly K. Hamilton</dc:creator>
-      <dc:creator>Brian J. Roach</dc:creator>
-      <dc:creator>Spero Nicholas</dc:creator>
-      <dc:creator>Peter M. Bachman</dc:creator>
-      <dc:creator>Aysenil Belger</dc:creator>
-      <dc:creator>Ricardo E. Carrión</dc:creator>
-      <dc:creator>Erica Duncan</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Matthias Liebrand, Holly K. Hamilton, Brian J. Roach, Spero Nicholas, Peter M. Bachman, Aysenil Belger, Ricardo E. Carrión, Erica Duncan, et al.
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 837
-
-Abstract: Importance Clinical criteria for identifying individuals at clinical high risk of psychosis (CHR) have been established, but their predictive accuracy remains insufficient for guiding treatment decisions. Identifying reliable biomarkers associated with mechanisms of illness and treatment in individuals at CHR is therefore a central research goal. Here, we consider resting-state electroencephalography (EEG) microstates as such a potential biomarker. Objective To determine whether EEG microstate features are associated with future conversion to psychosis and other future clinical outcomes in individuals at CHR. Design, Setting, and Participants Baseline EEG microstate data were collected from October 2009 through August 2014 as part of the 8-site case-control North American Prodrome Longitudinal Study-2 (NAPLS-2) during eyes-open resting-state conditions with continuous auditory white noise. Data were recorded from healthy control (HC) individuals and participants at CHR, including those at CHR with conversion to psychosis (CHR-C) and those with nonconversion (CHR-NC), followed up for 24 months. Individuals with CHR-NC were further divided into those with remission (CHR-R) or those with ongoing symptomatology (CHR-S) subgroups. A total of 241 individuals at CHR (52.4%) completed the full 24-month follow-up. Data were analyzed between January and November 2025. Main Outcomes and Measures Resting-state EEG microstate features (coverage, duration, and occurrence) across 7 distinct microstate classes, along with cognitive test battery scores. Results Compared with HC participants (n = 183; 103 [56.3%] male; mean [SD] age, 20.2 [5.0] years), individuals at CHR (n = 460; 265 [57.6%] male; mean [SD] age, 19.2 [4.4] years) showed reduced microstate duration (Cohen d , 0.28; 95% CI, 0.07 to 0.49) and increased occurrence (Cohen d , 0.12; 95% CI, 0.03 to 0.21) across classes, reflecting reduced microstate temporal stability. Moreover, individuals with CHR-C (n = 56) exhibited greater instability than those with CHR-R (n = 70) and HC participants but not compared to those with CHR-S (n = 115). Within the CHR group, lower stability was associated with earlier conversion to psychosis and with increased positive symptoms. While individuals at CHR demonstrated cognitive deficits relative to HC participants, including attention scores, lower microstate stability was associated with better attention scores in both groups. Conclusions and Relevance In this study, EEG microstate stability, irrespective of class, was reduced in individuals at CHR compared to HC participants and was especially diminished in future CHR converters. The association between lower stability and better attention suggests that instability may at least partly reflect a compensatory mechanism for attention deficits. EEG microstate instability shows promise as a prognostic biomarker of clinical outcome in CHR.</description>
-    </item>
-    <item>
-      <title>Integrated Treatment Can Promote Recovery</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1380</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1380</guid>
-
-      <dc:creator>Nancy H. Covell</dc:creator>
-      <dc:creator>Kenneth Minkoff</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nancy H. Covell, Kenneth Minkoff
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 882</description>
-    </item>
-    <item>
-      <title>Assessing Drug Efficacy After Multiple Negative Trials—Gepirone’s Journey Through the FDA</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1438</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1438</guid>
-
-      <dc:creator>Erick H. Turner</dc:creator>
-      <dc:creator>John H. Powers</dc:creator>
-      <dc:creator>Rosa Y. Ahn-Horst</dc:creator>
-      <dc:creator>Aaron S. Kesselheim</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Erick H. Turner, John H. Powers, Rosa Y. Ahn-Horst, Aaron S. Kesselheim
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 864
-
-Abstract: Importance Surveys have indicated that patients and clinicians can overestimate the efficacy and safety of drugs approved by the US Food and Drug Administration (FDA). In recent years, only approximately half of new drug approvals have been based on 2 or more adequate and well-controlled trials; furthermore, regulations do not limit how many trials can be conducted or provide clear guidance on how the FDA should consider a drug with conflicting evidence of benefit from multiple trials. Objective To understand how the FDA evaluated a single investigational drug with positive and negative preapproval trials. Findings The case of gepirone extended release (ER), approved for major depressive disorder, was reviewed. The FDA based its efficacy evaluation of gepirone ER on 13 trials: 12 acute treatment trials and 1 maintenance or relapse prevention trial. The FDA judged 2 acute treatment trials as positive. In the others, gepirone ER did not demonstrate superiority to placebo; and for 3, the FDA found evidence of statistical inferiority to an active comparator. Concerned that the positive trials might have occurred by chance and the amount of countervailing evidence, the FDA rejected the New Drug Application from the sponsor 4 times (Organon in 1999, 2002, and 2004, and Fabre-Kramer Pharmaceuticals, Inc in 2007). In 2014, the sponsor filed a dispute resolution request, leading to intervention by senior FDA leaders. In 2015, an FDA Advisory Committee voted that drug efficacy had not been demonstrated. Nevertheless, FDA leaders came to agree with the sponsor’s arguments that the 2 positive trials had not occurred by chance and that the drug satisfied the FDA statutory standard for efficacy, and the drug was approved. Conclusions and Relevance The case of gepirone shows how the FDA evaluated an investigational drug with conflicting evidence. The FDA sometimes exercises “regulatory flexibility” and focuses on statistical (as opposed to clinical) significance in a few trials, allowing the approval of drugs with scant benefits. Product labeling should transparently report on all adequate and well-controlled trials relating to an FDA-approved indication, not just those with positive outcomes, so that clinicians can make better-informed prescribing decisions.</description>
-    </item>
-    <item>
-      <title>Connectivity- vs Scalp-Based Targeting of Accelerated Transcranial Magnetic Stimulation for Depression</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1100</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1100</guid>
-
-      <dc:creator>Joseph J. Taylor</dc:creator>
-      <dc:creator>Marina R. Kare</dc:creator>
-      <dc:creator>Dania Haj-Darwish</dc:creator>
-      <dc:creator>Emma Jones</dc:creator>
-      <dc:creator>Lauren Sanderson</dc:creator>
-      <dc:creator>Sanaz Khosravani</dc:creator>
-      <dc:creator>Jessica Leach</dc:creator>
-      <dc:creator>Leanna Bomer</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Joseph J. Taylor, Marina R. Kare, Dania Haj-Darwish, Emma Jones, Lauren Sanderson, Sanaz Khosravani, Jessica Leach, Leanna Bomer, et al.
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 8; Pages: 807
-
-Abstract: Importance Neuroimaging is prevalent in psychiatric research, but there is limited evidence that it improves clinical outcomes. Functional connectivity neuroimaging was recently used to target individualized brain circuits with accelerated transcranial magnetic stimulation (aTMS), with rapid antidepressant effects and US Food and Drug Administration clearance, but the importance of connectivity-based targeting remains unclear. Objective To estimate the effect size of connectivity- vs scalp-based targeting of aTMS for treatment-resistant depression. Design, Setting, and Participants This randomized clinical trial comparing connectivity- to scalp-based aTMS treatment was conducted between July 2023 and March 2025 with the primary outcome assessed at 1 month posttreatment and follow-up every 3 months for 1 year. Participants, TMS technicians, and study physicians were blinded. The study took place at the Center for Brain Circuit Therapeutics at Mass General Brigham and Harvard Medical School in Boston, Massachusetts. Forty adults aged 22 to 80 years with a primary diagnosis of major depressive disorder with moderate to severe depression per Montgomery-Åsberg Depression Rating Scale (MADRS) score and moderate to severe treatment resistance per Maudsley Staging Method were included. Key exclusion criteria included contraindications to TMS or magnetic resonance imaging, primary psychiatric diagnoses other than major depressive disorder or anxiety disorders, recent rapid-acting antidepressant treatments, and significant neurological or substance use disorders. Interventions All participants underwent a 41-minute multiecho resting-state functional connectivity scan prior to aTMS, and half of them received treatment guided by these data. The connectivity-based target was defined as the left dorsolateral prefrontal cortex region with the greatest correlation to a published and publicly available convergent depression circuit. This circuit includes multiple brain regions linked to depression, including negative connectivity to the subgenual cingulate cortex. The scalp-based target was identified with the Beam F3 method. Main Outcomes and Measures MADRS score 1 month after treatment, adjusted for baseline. Results In total, 40 participants (22 female [55%]; mean [SD] age, 45.7 [15.2] years) were randomized and treated. The median (IQR) MADRS score reduction was 24 (19-28) vs 18 (10-23) points with connectivity- vs scalp-based targeting, respectively ( P = .02). Connectivity-based targeting had an effect size of 0.8 (Cohen d analog) and 95% CI of 0.26-1.54, with a number needed to scan of 5 individuals. Individualized targets were reproducible within an individual (4.47 mm split-half distance) and different between individuals (12.97 mm) ( P &amp;amp;amp;lt; .001). Conclusions and Relevance In this randomized clinical trial, individualized, connectivity-based targeting of the convergent depression circuit enhanced the antidepressant effects of high-dose aTMS. These results could facilitate cost-effectiveness analyses and help to power a confirmatory efficacy trial. Trial Registration ClinicalTrials.gov Identifier: NCT05680727</description>
     </item>
   </channel>
 </rss>
