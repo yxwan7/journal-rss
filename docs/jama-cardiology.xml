@@ -5,7 +5,7 @@
     <link>https://jamanetwork.com/journals/jamacardiology</link>
     <description>Latest journal articles for JAMA Cardiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:30:45 +0000</lastBuildDate>
 
     <item>
       <title>Advanced Subclinical Atherosclerosis in Young Individuals and Risk of Mortality Over 30 Years</title>
@@ -517,19 +517,6 @@ Abstract: Importance Patients undergoing aortic valve replacement (AVR) for chro
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1016</description>
     </item>
     <item>
-      <title>Bridging the Heart Failure Postdischarge Gap With Artificial Intelligence</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3026</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3026</guid>
-
-      <dc:creator>Eliano Pio Navarese</dc:creator>
-      <dc:creator>Dean J. Kereiakes</dc:creator>
-      <dc:creator>Jacek Kubica</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Eliano Pio Navarese, Dean J. Kereiakes, Jacek Kubica
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
-    </item>
-    <item>
       <title>Toward Precision Antiplatelet Therapy After Coronary Artery Bypass Grafting—Reply</title>
       <link>https://doi.org/10.1001/jamacardio.2026.2653</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.2653</guid>
@@ -541,6 +528,19 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
       <description>Authors: Raffaele De Caterina, Sigrid Sandner, Mario Gaudino
 
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1012</description>
+    </item>
+    <item>
+      <title>Bridging the Heart Failure Postdischarge Gap With Artificial Intelligence</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3026</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3026</guid>
+
+      <dc:creator>Eliano Pio Navarese</dc:creator>
+      <dc:creator>Dean J. Kereiakes</dc:creator>
+      <dc:creator>Jacek Kubica</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Eliano Pio Navarese, Dean J. Kereiakes, Jacek Kubica
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
     </item>
     <item>
       <title>Maternal Cardiovascular Disease—Time to Close the Evidence Gap</title>
@@ -599,6 +599,18 @@ Abstract: Importance Right ventricular (RV) dysfunction is common among patients
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1012</description>
     </item>
     <item>
+      <title>The Evolving Process of Myocardial Infarction Classification</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3839</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3839</guid>
+
+      <dc:creator>Gjin Ndrepepa</dc:creator>
+      <dc:creator>Adnan Kastrati</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gjin Ndrepepa, Adnan Kastrati
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 913</description>
+    </item>
+    <item>
       <title>Machine Learning–Driven Risk Prediction Model in Transthyretin Amyloid Cardiomyopathy</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3496</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.3496</guid>
@@ -617,18 +629,6 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1012</description>
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 932
 
 Abstract: Importance Transthyretin cardiac amyloidosis (ATTR-CM) is associated with poor prognosis and significant morbidity and mortality, yet existing staging systems have limited ability to accurately predict outcomes in contemporary patient populations. Objective To develop and validate a machine learning (ML)–based prognostic model for patients with ATTR-CM. Design, Setting, and Participants This multicenter cohort study, including specialized referral centers for cardiac amyloidosis, used data from patients with confirmed ATTR-CM in the Swiss Cardiac Amyloidosis Registry (February 2018 to November 2025) and the Cardiac Amyloidosis Registry of the Medical University of Vienna (July 2014 to February 2025). A random survival forest model was developed and evaluated through internal-external cross-validation, with each center iteratively held out for validation. The model was compared with the National Amyloidosis Centre and Mayo Clinic staging systems. Data analysis was conducted from December 2025 to February 2026. Exposure Clinical, demographic, medication, laboratory, and echocardiographic variables were used to train an ML-based time-to-event prediction model. Main Outcomes and Measures The primary outcome was defined as a composite event of all-cause mortality and hospitalization for heart failure. Results A total of 850 patients (median [IQR] age, 79 [74-83] years; 750 [88.2%] male) were included across 3 cohorts (from Bern, Switzerland [Bern-Swiss cohort], n = 352; the other centers from Switzerland combined [Other-Swiss cohort], n = 260; and Vienna, Austria [Vienna cohort], n = 238). The random survival forest model demonstrated good discrimination across all held-out cohorts, with Harrell concordance indices of 0.74 (95% CI, 0.69-0.78), 0.77 (95% CI, 0.69-0.83), and 0.72 (95% CI, 0.67-0.77) for the Bern-Swiss, Other-Swiss, and Vienna cohorts, respectively, and 3-year area under the curve (AUC) of 0.73 (95% CI, 0.66-0.80), 0.80 (95% CI, 0.70-0.88), and 0.75 (95% CI, 0.67-0.83), respectively. The model showed improved discrimination compared with the National Amyloidosis Centre and Mayo Clinic staging systems, with Harrell concordance indices 2% to 10% higher and 3-year AUC improvements ranging from 3% to 19% across cohorts and scoring systems. Calibration was generally acceptable across cohorts and time points. Model performance remained satisfactory in the subgroup of patients receiving disease-modifying therapy. Explainability analyses identified clinically plausible drivers of risk. Conclusions and Relevance An ML-based time-to-event prediction model demonstrated promising predictive performance and showed improved discrimination compared with established staging systems in patients with ATTR-CM, supporting its potential for individualized prognostication.</description>
-    </item>
-    <item>
-      <title>The Evolving Process of Myocardial Infarction Classification</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3839</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3839</guid>
-
-      <dc:creator>Gjin Ndrepepa</dc:creator>
-      <dc:creator>Adnan Kastrati</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gjin Ndrepepa, Adnan Kastrati
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 913</description>
     </item>
     <item>
       <title>Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion—Reply</title>
@@ -1014,6 +1014,18 @@ Journal: JAMA Cardiology
 Abstract: This Viewpoint discusses quantitative plaque analysis by coronary computed tomography angiography (CCTA) and whether current data support its clinical application as a screening tool to guide therapy in asymptomatic adults.</description>
     </item>
     <item>
+      <title>Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3433</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3433</guid>
+
+      <dc:creator>Koichiro Yuji</dc:creator>
+      <dc:creator>Wakako Yuji</dc:creator>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Koichiro Yuji, Wakako Yuji
+
+Journal: JAMA Cardiology</description>
+    </item>
+    <item>
       <title>Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis—Reply</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3440</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.3440</guid>
@@ -1023,18 +1035,6 @@ Abstract: This Viewpoint discusses quantitative plaque analysis by coronary comp
       <dc:creator>Upendra Kaul</dc:creator>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <description>Authors: Sripal Bangalore, M. Haisum Maqsood, Upendra Kaul
-
-Journal: JAMA Cardiology</description>
-    </item>
-    <item>
-      <title>Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3433</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3433</guid>
-
-      <dc:creator>Koichiro Yuji</dc:creator>
-      <dc:creator>Wakako Yuji</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Koichiro Yuji, Wakako Yuji
 
 Journal: JAMA Cardiology</description>
     </item>
@@ -1417,6 +1417,20 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 891
 Abstract: This case report discusses scimitar syndrome in a woman in her 40s who presented with 8 days of recurrent hemoptysis.</description>
     </item>
     <item>
+      <title>What Breast Cancer Treatment May Mean for Your Heart</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.2542</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.2542</guid>
+
+      <dc:creator>Donna Fitzsimons</dc:creator>
+      <dc:creator>Fidelma Fitzpatrick</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Donna Fitzsimons, Fidelma Fitzpatrick
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 901
+
+Abstract: This JAMA Cardiology Patient Page describes potential cardiovascular risks for patients receiving treatment for breast cancer.</description>
+    </item>
+    <item>
       <title>Twenty-Five–Year Follow-Up of Quantified Mitral Regurgitation</title>
       <link>https://doi.org/10.1001/jamacardio.2026.2389</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.2389</guid>
@@ -1433,20 +1447,6 @@ Abstract: This case report discusses scimitar syndrome in a woman in her 40s who
 Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 832
 
 Abstract: Importance Current guidelines recommend consideration of surgical treatment for asymptomatic patients with severe mitral valve regurgitation, but the long-term prognosis and optimal treatment of those with moderate mitral regurgitation (MR) remain uncertain. Objective To evaluate the long-term prognostic value of baseline MR severity and the association of surgery with survival outcomes in asymptomatic patients. Design, Setting, and Participants This was a prospective cohort study with extended follow-up among 449 asymptomatic patients with holosystolic degenerative MR enrolled between January 1991 and November 2000 and followed up with through May 2025 (median [IQR] follow-up, 26 [14-29] years; maximum, 34 years) at a single tertiary referral center (the Mayo Clinic, Rochester, Minnesota). Exposure Baseline MR severity quantified by effective regurgitant orifice area (ERO). Patients were monitored under medical therapy and, when applicable, after subsequent surgical correction. Main Outcomes and Measures All-cause mortality, assessed according to baseline ERO using Cox proportional hazards models adjusted for cardiovascular risk factors. Results Among the 449 patients included, the mean (SD) age was 64 (14) years, and 278 participants (62%) were male. At baseline, 127 patients (28%) had ERO &amp;amp;amp;lt;20 mm 2 , 128 (28%) had ERO 20-39 mm 2 , and 194 (43%) had ERO ≥40 mm 2 . During follow-up, 254 patients (57%) underwent mitral valve surgery. Ten-year cumulative incidence of surgery was 18% for ERO &amp;amp;amp;lt;20 mm 2 , 64% for 20-39 mm 2 , and 88% for ≥40 mm 2 . Survival of medically treated patients declined progressively with increasing ERO category (5-year rate: 88% [&amp;amp;amp;lt;20 mm 2 ], 72% [20-39 mm 2 ], and 55% [≥40 mm 2 ]; P = .01), and multivariable analysis confirmed the incremental risk of higher ERO on a continuous scale (adjusted hazard ratio per IQR increase, 2.53; 95% CI, 1.30-4.93; P = .01). When extending the analysis through subsequent surgical follow-up, the survival difference between patients who did vs did not undergo operation widened with ERO (χ 2 3 = 8.4; interaction P = .04), starting at values above 30 mm 2 . Conclusions and Relevance In this 25-year follow-up cohort study, increasing ERO was associated with an increase in risk of mortality under medical therapy. Patients with upper-moderate MR (ERO 30-39 mm 2 ) at baseline demonstrated a significant association between surgical treatment and improved long-term survival.</description>
-    </item>
-    <item>
-      <title>What Breast Cancer Treatment May Mean for Your Heart</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.2542</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.2542</guid>
-
-      <dc:creator>Donna Fitzsimons</dc:creator>
-      <dc:creator>Fidelma Fitzpatrick</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Donna Fitzsimons, Fidelma Fitzpatrick
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 901
-
-Abstract: This JAMA Cardiology Patient Page describes potential cardiovascular risks for patients receiving treatment for breast cancer.</description>
     </item>
     <item>
       <title>Effect of Acoramidis on Heart Failure–Related Health Status</title>

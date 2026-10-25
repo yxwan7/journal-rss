@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:30:05 +0000</lastBuildDate>
 
     <item>
       <title>The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development</title>
@@ -299,20 +299,6 @@ Journal: Science; Volume: 394; Issue: 6822; Pages: 413-418
 Abstract: Guanidine exists almost exclusively as a resonance-stabilized cation, making its direct enzymatic functionalization challenging. We identified the cyanobacterial enzyme NosH, which catalyzes direct prenyl transfer to free guanidine. Structural and mechanistic analyses revealed guanidine activation by a two-aspartate clamp coupled to prenyl-donor binding through a distinct catalytic architecture. Guided by these features, we identified a large family of guanidine prenyltransferases across bacteria and plants. Plant enzymes produced guanidine alkaloids such as galegine in vitro and heterologous expression of a plant ortholog in Nicotiana benthamiana produced galegine in planta, providing a direct enzymatic link to plant-specialized metabolism.</description>
     </item>
     <item>
-      <title>A cell death ballet in two acts</title>
-      <link>https://doi.org/10.1126/science.aem1247</link>
-      <guid isPermaLink="false">10.1126/science.aem1247</guid>
-
-      <dc:creator>Cristina Muñoz-Pinedo</dc:creator>
-      <dc:creator>Seamus J. Martin</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Cristina Muñoz-Pinedo, Seamus J. Martin
-
-Journal: Science; Volume: 394; Issue: 6822; Pages: 383-384
-
-Abstract: Two proteins that permeabilize mitochondria promote cell death through distinct mechanisms</description>
-    </item>
-    <item>
       <title>Dynamic functionality–enabled fast and selective transport in nanochannels</title>
       <link>https://doi.org/10.1126/science.aed8319</link>
       <guid isPermaLink="false">10.1126/science.aed8319</guid>
@@ -331,6 +317,20 @@ Abstract: Two proteins that permeabilize mitochondria promote cell death through
 Journal: Science; Volume: 394; Issue: 6822; Pages: 434-439
 
 Abstract: Nanochannels capable of fast and selective mass transport are central to applications in energy, resources, biomedicine, and the environment. However, extreme nanoscale confinement, often coupled with rigid channel environments, imposes substantial frictional and adhesive barriers, causing sluggish transport and constrained selectivity. We identified nanochannel dynamics as a key to addressing these challenges by harnessing the intrinsic mobility (e.g., self-rotation) of confined functionalities to enhance molecular transport. Through a combination of experiments and simulations, we demonstrated that such dynamics reshape transport by promoting kinetic energy transfer and enabling more efficient molecular relays, thereby improving separation performance beyond current benchmarks. Our findings highlight the role of nanochannel dynamics in regulating mass transport under confinement and provide a framework for designing advanced nanochannel systems.</description>
+    </item>
+    <item>
+      <title>A cell death ballet in two acts</title>
+      <link>https://doi.org/10.1126/science.aem1247</link>
+      <guid isPermaLink="false">10.1126/science.aem1247</guid>
+
+      <dc:creator>Cristina Muñoz-Pinedo</dc:creator>
+      <dc:creator>Seamus J. Martin</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cristina Muñoz-Pinedo, Seamus J. Martin
+
+Journal: Science; Volume: 394; Issue: 6822; Pages: 383-384
+
+Abstract: Two proteins that permeabilize mitochondria promote cell death through distinct mechanisms</description>
     </item>
     <item>
       <title>Vaccine trial is a ray of hope in Congo’s Ebola epidemic</title>
@@ -1112,6 +1112,19 @@ Journal: Science; Volume: 394; Issue: 6821; Pages: 255-256
 Abstract: After massive dump of AI-generated solutions to nearly 400 problems, mathematicians wonder: Has their field been decimated or invigorated?</description>
     </item>
     <item>
+      <title>Redating the Inca empire</title>
+      <link>https://doi.org/10.1126/science.aen2353</link>
+      <guid isPermaLink="false">10.1126/science.aen2353</guid>
+
+      <dc:creator>Lizzie Wade</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Lizzie Wade
+
+Journal: Science; Volume: 394; Issue: 6821; Pages: 262-267
+
+Abstract: The traditional Inca chronology has collapsed. New radiocarbon dates show the empire lasted longer than was previously thought—and met more resistance</description>
+    </item>
+    <item>
       <title>How plants decode immunogenic glycans</title>
       <link>https://doi.org/10.1126/science.ael7305</link>
       <guid isPermaLink="false">10.1126/science.ael7305</guid>
@@ -1124,19 +1137,6 @@ Abstract: After massive dump of AI-generated solutions to nearly 400 problems, m
 Journal: Science; Volume: 394; Issue: 6821; Pages: 268-269
 
 Abstract: Distinct recognition systems for specific sugars ensure appropriate immune or maintenance responses</description>
-    </item>
-    <item>
-      <title>Redating the Inca empire</title>
-      <link>https://doi.org/10.1126/science.aen2353</link>
-      <guid isPermaLink="false">10.1126/science.aen2353</guid>
-
-      <dc:creator>Lizzie Wade</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Lizzie Wade
-
-Journal: Science; Volume: 394; Issue: 6821; Pages: 262-267
-
-Abstract: The traditional Inca chronology has collapsed. New radiocarbon dates show the empire lasted longer than was previously thought—and met more resistance</description>
     </item>
     <item>
       <title>Writing electronic phases into atomic layers</title>
@@ -1174,19 +1174,6 @@ Abstract: This year’s event could shed light on how the natural world may resp
       <description>Journal: Science; Volume: 394; Issue: 6821; Article number: eaem9387</description>
     </item>
     <item>
-      <title>Winds make bird flights cheaper</title>
-      <link>https://doi.org/10.1126/science.ael9047</link>
-      <guid isPermaLink="false">10.1126/science.ael9047</guid>
-
-      <dc:creator>Anders Hedenström</dc:creator>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Anders Hedenström
-
-Journal: Science; Volume: 394; Issue: 6821; Pages: 270-271
-
-Abstract: Many birds use atmospheric air currents to reduce the energy costs of flying</description>
-    </item>
-    <item>
       <title>An elegy for the unsung world-builders
                     &lt;b&gt;The Last Animal&lt;/b&gt;
                     &lt;i&gt;Kyle Harper&lt;/i&gt;
@@ -1216,6 +1203,19 @@ Abstract: Plants and animals have always been critical to humanity’s success, 
 Journal: Science; Volume: 394; Issue: 6821; Pages: 326-330
 
 Abstract: Chirality plays a crucial role in a broad range of processes, including light-matter interactions in physics, chemistry, and biology, while quantum tunneling provides a promising mechanism for light generation at the nanoscale. By integrating tunnel junctions with chiral plasmonic nanohelicoids, we achieved electrically induced nanoscale generation of chiral light at the single-particle level. The tunneling-driven resonant excitation of chiral dipolar modes of the nanohelicoids results in emission of a vortex light beam possessing both spin angular momentum with handedness selectivity of more than 0.8 and orbital angular momentum equal in magnitude and opposite in sign. Our electrically driven approach offers a means for engineering photon spin generation at the nanoscale, highlighting its potential for next-generation optical components in display applications, as well as quantum information processing and photochemistry.</description>
+    </item>
+    <item>
+      <title>Winds make bird flights cheaper</title>
+      <link>https://doi.org/10.1126/science.ael9047</link>
+      <guid isPermaLink="false">10.1126/science.ael9047</guid>
+
+      <dc:creator>Anders Hedenström</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Anders Hedenström
+
+Journal: Science; Volume: 394; Issue: 6821; Pages: 270-271
+
+Abstract: Many birds use atmospheric air currents to reduce the energy costs of flying</description>
     </item>
     <item>
       <title>Magic state cultivation on a superconducting quantum processor</title>
