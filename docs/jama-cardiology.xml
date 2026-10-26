@@ -5,7 +5,7 @@
     <link>https://jamanetwork.com/journals/jamacardiology</link>
     <description>Latest journal articles for JAMA Cardiology</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 11:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:05:31 +0000</lastBuildDate>
 
     <item>
       <title>Advanced Subclinical Atherosclerosis in Young Individuals and Risk of Mortality Over 30 Years</title>
@@ -517,19 +517,6 @@ Abstract: Importance Patients undergoing aortic valve replacement (AVR) for chro
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1016</description>
     </item>
     <item>
-      <title>Toward Precision Antiplatelet Therapy After Coronary Artery Bypass Grafting—Reply</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.2653</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.2653</guid>
-
-      <dc:creator>Raffaele De Caterina</dc:creator>
-      <dc:creator>Sigrid Sandner</dc:creator>
-      <dc:creator>Mario Gaudino</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Raffaele De Caterina, Sigrid Sandner, Mario Gaudino
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1012</description>
-    </item>
-    <item>
       <title>Bridging the Heart Failure Postdischarge Gap With Artificial Intelligence</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3026</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.3026</guid>
@@ -541,6 +528,19 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1012</description>
       <description>Authors: Eliano Pio Navarese, Dean J. Kereiakes, Jacek Kubica
 
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
+    </item>
+    <item>
+      <title>Toward Precision Antiplatelet Therapy After Coronary Artery Bypass Grafting—Reply</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.2653</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.2653</guid>
+
+      <dc:creator>Raffaele De Caterina</dc:creator>
+      <dc:creator>Sigrid Sandner</dc:creator>
+      <dc:creator>Mario Gaudino</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Raffaele De Caterina, Sigrid Sandner, Mario Gaudino
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1012</description>
     </item>
     <item>
       <title>Maternal Cardiovascular Disease—Time to Close the Evidence Gap</title>
@@ -631,30 +631,6 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 932
 Abstract: Importance Transthyretin cardiac amyloidosis (ATTR-CM) is associated with poor prognosis and significant morbidity and mortality, yet existing staging systems have limited ability to accurately predict outcomes in contemporary patient populations. Objective To develop and validate a machine learning (ML)–based prognostic model for patients with ATTR-CM. Design, Setting, and Participants This multicenter cohort study, including specialized referral centers for cardiac amyloidosis, used data from patients with confirmed ATTR-CM in the Swiss Cardiac Amyloidosis Registry (February 2018 to November 2025) and the Cardiac Amyloidosis Registry of the Medical University of Vienna (July 2014 to February 2025). A random survival forest model was developed and evaluated through internal-external cross-validation, with each center iteratively held out for validation. The model was compared with the National Amyloidosis Centre and Mayo Clinic staging systems. Data analysis was conducted from December 2025 to February 2026. Exposure Clinical, demographic, medication, laboratory, and echocardiographic variables were used to train an ML-based time-to-event prediction model. Main Outcomes and Measures The primary outcome was defined as a composite event of all-cause mortality and hospitalization for heart failure. Results A total of 850 patients (median [IQR] age, 79 [74-83] years; 750 [88.2%] male) were included across 3 cohorts (from Bern, Switzerland [Bern-Swiss cohort], n = 352; the other centers from Switzerland combined [Other-Swiss cohort], n = 260; and Vienna, Austria [Vienna cohort], n = 238). The random survival forest model demonstrated good discrimination across all held-out cohorts, with Harrell concordance indices of 0.74 (95% CI, 0.69-0.78), 0.77 (95% CI, 0.69-0.83), and 0.72 (95% CI, 0.67-0.77) for the Bern-Swiss, Other-Swiss, and Vienna cohorts, respectively, and 3-year area under the curve (AUC) of 0.73 (95% CI, 0.66-0.80), 0.80 (95% CI, 0.70-0.88), and 0.75 (95% CI, 0.67-0.83), respectively. The model showed improved discrimination compared with the National Amyloidosis Centre and Mayo Clinic staging systems, with Harrell concordance indices 2% to 10% higher and 3-year AUC improvements ranging from 3% to 19% across cohorts and scoring systems. Calibration was generally acceptable across cohorts and time points. Model performance remained satisfactory in the subgroup of patients receiving disease-modifying therapy. Explainability analyses identified clinically plausible drivers of risk. Conclusions and Relevance An ML-based time-to-event prediction model demonstrated promising predictive performance and showed improved discrimination compared with established staging systems in patients with ATTR-CM, supporting its potential for individualized prognostication.</description>
     </item>
     <item>
-      <title>Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion—Reply</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3008</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3008</guid>
-
-      <dc:creator>Boris Schmidt</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Boris Schmidt
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
-    </item>
-    <item>
-      <title>From Static Staging to Dynamic Risk Prediction in Transthyretin Amyloid Cardiomyopathy</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3503</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3503</guid>
-
-      <dc:creator>Marianna Fontana</dc:creator>
-      <dc:creator>Julian D. Gillmore</dc:creator>
-      <dc:creator>Scott David Solomon</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marianna Fontana, Julian D. Gillmore, Scott David Solomon
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 909</description>
-    </item>
-    <item>
       <title>Multiple Giant Right Atrial Myxomas—The Carney Complex</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3248</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.3248</guid>
@@ -681,6 +657,30 @@ Abstract: This case report discusses a diagnosis of Carney complex type 1 after 
       <description>Authors: Joshua A. Jacobs, Josef Stehlik, Adam P. Bress
 
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1016</description>
+    </item>
+    <item>
+      <title>Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion—Reply</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3008</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3008</guid>
+
+      <dc:creator>Boris Schmidt</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Boris Schmidt
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
+    </item>
+    <item>
+      <title>From Static Staging to Dynamic Risk Prediction in Transthyretin Amyloid Cardiomyopathy</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3503</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3503</guid>
+
+      <dc:creator>Marianna Fontana</dc:creator>
+      <dc:creator>Julian D. Gillmore</dc:creator>
+      <dc:creator>Scott David Solomon</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marianna Fontana, Julian D. Gillmore, Scott David Solomon
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 909</description>
     </item>
     <item>
       <title>Vutrisiran Treatment and Changes in Cardiac Parameters and Amyloid Burden Assessed by Cardiovascular MRI</title>
@@ -1014,18 +1014,6 @@ Journal: JAMA Cardiology
 Abstract: This Viewpoint discusses quantitative plaque analysis by coronary computed tomography angiography (CCTA) and whether current data support its clinical application as a screening tool to guide therapy in asymptomatic adults.</description>
     </item>
     <item>
-      <title>Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3433</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3433</guid>
-
-      <dc:creator>Koichiro Yuji</dc:creator>
-      <dc:creator>Wakako Yuji</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Koichiro Yuji, Wakako Yuji
-
-Journal: JAMA Cardiology</description>
-    </item>
-    <item>
       <title>Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis—Reply</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3440</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.3440</guid>
@@ -1035,6 +1023,18 @@ Journal: JAMA Cardiology</description>
       <dc:creator>Upendra Kaul</dc:creator>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <description>Authors: Sripal Bangalore, M. Haisum Maqsood, Upendra Kaul
+
+Journal: JAMA Cardiology</description>
+    </item>
+    <item>
+      <title>Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3433</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3433</guid>
+
+      <dc:creator>Koichiro Yuji</dc:creator>
+      <dc:creator>Wakako Yuji</dc:creator>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Koichiro Yuji, Wakako Yuji
 
 Journal: JAMA Cardiology</description>
     </item>
@@ -1383,6 +1383,20 @@ Abstract: This Viewpoint discusses advances in the field of cardio-oncology.</de
 Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 899</description>
     </item>
     <item>
+      <title>Woman in Her 40s With Complex Cardiopulmonary Vascular Anomalies and Hemoptysis</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.2407</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.2407</guid>
+
+      <dc:creator>Miao Wei</dc:creator>
+      <dc:creator>Haitao Yang</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Miao Wei, Haitao Yang
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 891
+
+Abstract: This case report discusses scimitar syndrome in a woman in her 40s who presented with 8 days of recurrent hemoptysis.</description>
+    </item>
+    <item>
       <title>Cardiovascular Health Across the Life Course for Individuals With Breast Cancer</title>
       <link>https://doi.org/10.1001/jamacardio.2026.2546</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.2546</guid>
@@ -1401,20 +1415,6 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 899</description>
 Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 867
 
 Abstract: Importance Breast cancer is the most common cancer diagnosed in women. Therapies for breast cancer are evolving rapidly, and several are associated with cardiovascular adverse effects, can exacerbate cardiovascular risk factors, or can increase the risk of cardiovascular disease. Observations Advances in screening and treatment have led to earlier diagnosis and improved disease-free survival. For long-term survivors of breast cancer, cardiovascular adverse effects can pose a greater threat to overall long-term health than the cancer itself. Additionally, the increasing incidence of breast cancer in younger, premenopausal women has created a distinct demographic with unique medical needs. Conclusions and Relevance Cardiology practitioners need to remain updated on rapidly evolving breast cancer therapies to care for this growing, unique patient population. The field of cardio-oncology has evolved to address the cardiovascular needs of patients and survivors.</description>
-    </item>
-    <item>
-      <title>Woman in Her 40s With Complex Cardiopulmonary Vascular Anomalies and Hemoptysis</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.2407</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.2407</guid>
-
-      <dc:creator>Miao Wei</dc:creator>
-      <dc:creator>Haitao Yang</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Miao Wei, Haitao Yang
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 891
-
-Abstract: This case report discusses scimitar syndrome in a woman in her 40s who presented with 8 days of recurrent hemoptysis.</description>
     </item>
     <item>
       <title>What Breast Cancer Treatment May Mean for Your Heart</title>
