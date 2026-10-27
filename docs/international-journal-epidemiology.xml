@@ -5,8 +5,26 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:12:38 +0000</lastBuildDate>
 
+    <item>
+      <title>Cohort Profile Update: COVIDMENT: COVID-19 cohorts on mental health across six nations</title>
+      <link>https://doi.org/10.1093/ije/dyag233</link>
+      <guid isPermaLink="false">10.1093/ije/dyag233</guid>
+
+      <dc:creator>Helga Ask</dc:creator>
+      <dc:creator>Johanne Hagen Pettersen</dc:creator>
+      <dc:creator>Mary M Barker</dc:creator>
+      <dc:creator>Lea Arregui Nordahl Christoffersen</dc:creator>
+      <dc:creator>Sverre Urnes Johnson</dc:creator>
+      <dc:creator>Kadri Kõiv</dc:creator>
+      <dc:creator>Ingibjörg Magnusdottir</dc:creator>
+      <dc:creator>Hannah Milbourn</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Helga Ask, Johanne Hagen Pettersen, Mary M Barker, Lea Arregui Nordahl Christoffersen, Sverre Urnes Johnson, Kadri Kõiv, Ingibjörg Magnusdottir, Hannah Milbourn, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag233</description>
+    </item>
     <item>
       <title>Differences in SARS-CoV-2 rapid diagnostic testing usage by COVID-19 vaccination status can bias vaccine effectiveness estimates against symptomatic SARS-CoV-2 infection from a test-negative design</title>
       <link>https://doi.org/10.1093/ije/dyag226</link>
@@ -706,6 +724,22 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Loneliness is increasingly recognized as a major public health challenge. Yet, its impact on cognitive function remains poorly understood. A complex interplay of life-course risk factors makes it challenging to disentangle the effect of loneliness from other factors and to assess underlying mechanisms when using traditional approaches. Methods We applied the parametric g-formula with the Health and Retirement Study (1996–2018; n = 34 774; aged 50–80 years) to simulate an intervention estimating the effect of preventing loneliness on cognitive function. We assessed whether this effect varies by gender. Formal mediation analysis was also performed to assess depression as a potential pathway. Results Preventing loneliness was protective against cognitive decline at all ages, with the magnitude increasing with age. Averaged across all ages, an intervention to prevent loneliness would slow cognitive decline by 0.075 points at the population level [95% confidence interval (CI): 0.063–0.089] and by 0.157 points among individuals experiencing loneliness (95% CI: 0.138–0.178). Overall, 17.3% of the total effect of preventing loneliness was mediated via depression, with the proportion mediated being 19.4% among men and 16.9% among women. Conclusion Employing an innovative counterfactual framework, this study shows that preventing loneliness could provide an insulative effect against cognitive decline, even at the population level. Importantly, with advancing age, addressing loneliness yields progressively greater cognitive benefits. The effects partly operate through reductions in depression, especially in men. Interventions against loneliness may help maintain cognitive function, with benefits extending to mental health, highlighting a promising avenue for public health strategies.</description>
     </item>
     <item>
+      <title>Comparing genome-wide significant and chemosensory variants as instruments for dietary patterns in Mendelian randomization</title>
+      <link>https://doi.org/10.1093/ije/dyag186</link>
+      <guid isPermaLink="false">10.1093/ije/dyag186</guid>
+
+      <dc:creator>Phoebe S C Hui</dc:creator>
+      <dc:creator>Brooke L Devlin</dc:creator>
+      <dc:creator>David M Evans</dc:creator>
+      <dc:creator>Liang-Dar Hwang</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Phoebe S C Hui, Brooke L Devlin, David M Evans, Liang-Dar Hwang
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
+
+Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
+    </item>
+    <item>
       <title>Clinical and social determinants of COVID-19 lethality and ICU admission across variant waves in the Brazilian Amazon</title>
       <link>https://doi.org/10.1093/ije/dyag190</link>
       <guid isPermaLink="false">10.1093/ije/dyag190</guid>
@@ -741,22 +775,6 @@ Abstract: Abstract Background The state of Amazonas, located in the Brazilian Am
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag160
 
 Abstract: Abstract Background Previous research on moderate-to-vigorous physical activity (MVPA) and ovarian cancer risk have shown inconsistent results. Most studies measured recreational MVPA once during late adulthood, which does not consider the way in which timing may differently influence risk or account for MVPA from other activities. Life-course epidemiology models (critical-period, sensitive-period, and accumulation) can evaluate whether the timing and cumulative burden of total MVPA across the lifespan influences risk. Here, we identify which model best describes the association between total MVPA, encompassing recreational, occupational, household, and transportation activities, and invasive ovarian cancer risk. Methods A population-based case–control study of ovarian cancer in Montreal, Canada (2011–16) included 268 invasive cases and 668 controls aged ≥52 years. Total MVPA was determined by using recalled information on the frequency and duration of various physical activities across adulthood. A Bayesian relevant life course exposure model was used to estimate the relative importance of total MVPA, represented as average energy expenditure in units of metabolic equivalent (MET)-hours/week, during three pre-specified periods (early reproductive years, late reproductive years/perimenopause, and postmenopause) on invasive ovarian cancer risk. Results The lifetime-effect odds ratio comparing ≥50 vs &amp;amp;lt;50 MET-hours/week across adulthood was 0.59 (95% credible interval: 0.35–0.93). MVPA during late reproductive years/perimenopause showed the highest relative importance, suggesting that this may be a sensitive period. Associations were similar for serous and non-serous subtypes. Conclusion Our results support that higher MVPA across the adult life course is associated with a reduced invasive ovarian cancer risk and mid-adulthood, represented by late reproductive years/perimenopause, may be a sensitive period.</description>
-    </item>
-    <item>
-      <title>Comparing genome-wide significant and chemosensory variants as instruments for dietary patterns in Mendelian randomization</title>
-      <link>https://doi.org/10.1093/ije/dyag186</link>
-      <guid isPermaLink="false">10.1093/ije/dyag186</guid>
-
-      <dc:creator>Phoebe S C Hui</dc:creator>
-      <dc:creator>Brooke L Devlin</dc:creator>
-      <dc:creator>David M Evans</dc:creator>
-      <dc:creator>Liang-Dar Hwang</dc:creator>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Phoebe S C Hui, Brooke L Devlin, David M Evans, Liang-Dar Hwang
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag186
-
-Abstract: Abstract Background Diet is a modifiable risk factor for cardiometabolic disease, yet establishing causality remains challenging. Mendelian randomization (MR) leverages genetic variants as instrumental variables (IVs) to enable causal inference. Method Using two-sample MR, we assessed the causal effects of four principal component-derived dietary patterns (DPs)—Unhealthy, Healthy, Meat-based, Pescatarian—on cardiometabolic outcomes including body mass index, coronary artery disease, blood lipids, blood pressures, type 2 diabetes, fasting glucose and insulin, and glycated haemoglobin. Two sets of IVs were employed: conventional genome-wide significant variants associated with each DP, filtered for pleiotropy and directionality; and biologically informed variants in chemosensory receptor genes, given the role of taste and smell perception in food choice. Results Using conventional IVs, the Pescatarian DP was associated with reduced fasting insulin (βIVW = −0.10 pmol/L per SD increase in the Pescatarian DP score, 95% confidence interval −0.15, −0.04; P = 1.19 × 10−3), surviving multiple sensitivity analyses. Associations between the Unhealthy DP and elevated blood pressure and glycated haemoglobin should be interpreted cautiously; one of the two filtered IVs was strongly associated with caffeine intake, limiting the attribution of these findings to the DP itself. Chemosensory Receptor IVs yielded null findings, reflecting insufficient power. Conclusion Evidence for causal effects of DPs on cardiometabolic traits was limited, with the strongest support for a protective effect of the Pescatarian DP on fasting insulin. Chemosensory IVs demonstrated limited utility for DPs, likely reflecting the heterogeneous and complex sensory profiles of overall diets. Future efforts should consider guideline-based dietary indices to facilitate interpretability and translation.</description>
     </item>
     <item>
       <title>Redefining the public health problem in epidemiology:
@@ -800,29 +818,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag181</description>
     </item>
     <item>
-      <title>Can paternal snus use shape offspring’s asthma risk? Implications, epidemiological insights, and gaps in epigenetic evidence</title>
-      <link>https://doi.org/10.1093/ije/dyag179</link>
-      <guid isPermaLink="false">10.1093/ije/dyag179</guid>
-
-      <dc:creator>Mohammad Talaei</dc:creator>
-      <dc:creator>Belinda Nedjai</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mohammad Talaei, Belinda Nedjai
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag179</description>
-    </item>
-    <item>
-      <title>The New Modern Medicine: Disease, Evidence, and Epidemiological Medicine, by Jonathan Fuller</title>
-      <link>https://doi.org/10.1093/ije/dyag147</link>
-      <guid isPermaLink="false">10.1093/ije/dyag147</guid>
-
-      <dc:creator>Alex Broadbent</dc:creator>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Alex Broadbent
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag147</description>
-    </item>
-    <item>
       <title>Reply to: Why epidemiology should not be automated: the case for slow epidemiology</title>
       <link>https://doi.org/10.1093/ije/dyag182</link>
       <guid isPermaLink="false">10.1093/ije/dyag182</guid>
@@ -855,6 +850,29 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag185
 
 Abstract: Abstract Background Current evidence remains inconclusive regarding the developmental toxicity of specific fine particulate matter (PM2.5) components during critical fetal growth periods, particularly concerning key toxic components and exposure windows. Methods This prospective birth cohort included 2680 mother–newborn pairs with 9339 growth ultrasound measurements [abdominal circumference, head circumference (HC), femur length (FL), estimated fetal weight (EFW)] in Guangzhou, China, from 2017 to 2020. Weekly exposures to PM2.5 components—black carbon (BC), organic matter (OM), nitrate (NO3−), sulfate (SO42−), and ammonium (NH4+)—were quantified by using the Tracking Air Pollution in China database (TAP) real-time air-pollutant-exposure model. Distributed lag models with generalized estimating equations were employed to identify critical exposure windows and machine-learning approaches were used to assess constituent mixture effects and identify dominant toxic components. Results FL, HC, and EFW demonstrated component-specific vulnerability. FL reduction at gestational Weeks 12–15 was most strongly associated with BC exposure, followed by OM and SO42−; HC deficits in Weeks 5–12 and 22–24 were predominantly linked to NO3− exposure; EFW reductions during Weeks 6–8 were most sensitive to NO3− exposure. BC and NO3− were identified as the most impactful constituents. Conclusion Our findings identify gestational Weeks 12–15 for BC exposure and Weeks 5–12 and 22–24 for NO3− exposure as critical vulnerable windows for adverse fetal development associated with PM2.5 components. These results support the need for further research into component-specific air-quality guidelines targeting sensitive gestational periods.</description>
+    </item>
+    <item>
+      <title>Can paternal snus use shape offspring’s asthma risk? Implications, epidemiological insights, and gaps in epigenetic evidence</title>
+      <link>https://doi.org/10.1093/ije/dyag179</link>
+      <guid isPermaLink="false">10.1093/ije/dyag179</guid>
+
+      <dc:creator>Mohammad Talaei</dc:creator>
+      <dc:creator>Belinda Nedjai</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mohammad Talaei, Belinda Nedjai
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag179</description>
+    </item>
+    <item>
+      <title>The New Modern Medicine: Disease, Evidence, and Epidemiological Medicine, by Jonathan Fuller</title>
+      <link>https://doi.org/10.1093/ije/dyag147</link>
+      <guid isPermaLink="false">10.1093/ije/dyag147</guid>
+
+      <dc:creator>Alex Broadbent</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Alex Broadbent
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag147</description>
     </item>
     <item>
       <title>Long-term physical activity and risk of obesity in Australian women using target-trial emulation: an OBCT study</title>
@@ -1267,6 +1285,26 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Most short-term air pollution studies rely on linear, single-pollutant models that cannot adequately describe the nonlinear and interdependent nature of pollutant-health associations. Methods We developed a nonlinear multi-pollutant Bayesian case-crossover model to jointly evaluate short-term health effects of PM 2.5, NO2, and O3. The model accommodates overdispersion, propagates exposure uncertainty from imputed monitoring data, and pools Census Division (CD)-specific exposure-response functions through a Bayesian hierarchical framework. We applied this approach to cause-specific daily mortality (2001–2015) and hospitalization (2001–2018) data across 20 Canadian CDs, covering more than half of the national population. Results The estimated exposure-response relationships varied by pollutant and health outcome. The combined PM 2.5+NO2 metric showed the clearest positive associations with all non-accidental mortality and hospitalization. Respiratory hospitalization estimates were higher among seniors, but evidence of an age difference remained uncertain. An approximate 10-unit contrast in combined PM 2.5+NO2 corresponded to an estimated 1.5% (95% credible interval [CrI]: 0.3, 2.2) increase in all non-accidental mortality and a 0.6% (95% CrI: 0.0, 1.3) increase in all non-accidental hospitalization, while the corresponding estimate for senior respiratory hospitalization was 2.7% (95% CrI: 0.9, 4.5). Several PM 2.5 and NO2 curves were nonlinear, whereas O3 associations were closer to linear over much of the observed range. Conclusion Our study introduces a flexible epidemiologic modelling framework for quantifying the short-term health impacts of correlated pollutants. The results highlight the value of accounting for nonlinear and joint exposure patterns in multi-pollutant settings, while uncertainty remains substantial for several cause- and age-specific estimates.</description>
     </item>
     <item>
+      <title>Exposure to extreme temperatures may increase the risk of preterm birth: findings from a contemporary US cohort</title>
+      <link>https://doi.org/10.1093/ije/dyag145</link>
+      <guid isPermaLink="false">10.1093/ije/dyag145</guid>
+
+      <dc:creator>Neil J Perkins</dc:creator>
+      <dc:creator>Siddharth Rawat</dc:creator>
+      <dc:creator>Elizabeth A DeVilbiss</dc:creator>
+      <dc:creator>Elizabeth H Scholl</dc:creator>
+      <dc:creator>Taylor Petty</dc:creator>
+      <dc:creator>Brian Kidd</dc:creator>
+      <dc:creator>Deepak Mav</dc:creator>
+      <dc:creator>Shyamal D Peddada</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Neil J Perkins, Siddharth Rawat, Elizabeth A DeVilbiss, Elizabeth H Scholl, Taylor Petty, Brian Kidd, Deepak Mav, Shyamal D Peddada, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag145
+
+Abstract: Abstract Background The frequency and severity of extreme temperatures have been increasing and are expected to continue to escalate in the coming decades. Relationships between extreme temperatures and early deliveries are not well understood. Methods Data were obtained from 201 759 pregnancies with gestational age (GA) of &amp;amp;gt;27 weeks in the Consortium on Safe Labor retrospective cohort study from 19 hospitals across the USA for 2002–8. Location-specific bulk temperatures were obtained from the Parameter-Elevation Regressions on Independent Slopes Model (4-km resolution), from which participants were linked to minimum, maximum, and mean daily temperatures across each day of pregnancy. Days were categorized for each site as cold (both minimum and maximum temperatures ≤ 20th percentile), hot (both minimum and maximum temperatures ≥ 80th percentile), or neither for each pregnancy. Cold and hot days were then analysed individually or as the proportion within specific pregnancy windows by using Cox regression and fetuses-at-risk logistic regression models. Results Detrimental relations in fetuses-at-risk models were consistently observed between exposure to chronic cold and chronic heat and early delivery: odds ratio (ORcold)= 1.66, 1.40, and 1.16; ORheat = 1.20, 1.13, and 1.32 for early-preterm (GA &amp;amp;lt; 34 weeks), preterm (34 ≤ GA &amp;amp;lt; 37 weeks), and early-term (37 ≤ GA &amp;amp;lt; 39), respectively. Associations for exposures in Trimesters 1 and 2 were mixed but clearly more detrimental in Trimester 1. The likelihood of early delivery increased with daily exposure to extreme temperatures after 27 weeks. Conclusion Future work should seek to elucidate the underlying mechanisms and to validate these findings by using more recent diverse global data.</description>
+    </item>
+    <item>
       <title>Misspecified seasonality adjustment in temperature and preterm birth studies may introduce severe bias: a real birth cohort-based simulation</title>
       <link>https://doi.org/10.1093/ije/dyag201</link>
       <guid isPermaLink="false">10.1093/ije/dyag201</guid>
@@ -1297,26 +1335,6 @@ Abstract: Abstract Background Seasonality is typically controlled for to mitigat
       <description>Authors: Chiara Minotti, Louise F Hill, Michelle N Clements, Wolfgang Stohr, Ann Sarah Walker, Julia A Bielicki
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag154</description>
-    </item>
-    <item>
-      <title>Exposure to extreme temperatures may increase the risk of preterm birth: findings from a contemporary US cohort</title>
-      <link>https://doi.org/10.1093/ije/dyag145</link>
-      <guid isPermaLink="false">10.1093/ije/dyag145</guid>
-
-      <dc:creator>Neil J Perkins</dc:creator>
-      <dc:creator>Siddharth Rawat</dc:creator>
-      <dc:creator>Elizabeth A DeVilbiss</dc:creator>
-      <dc:creator>Elizabeth H Scholl</dc:creator>
-      <dc:creator>Taylor Petty</dc:creator>
-      <dc:creator>Brian Kidd</dc:creator>
-      <dc:creator>Deepak Mav</dc:creator>
-      <dc:creator>Shyamal D Peddada</dc:creator>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Neil J Perkins, Siddharth Rawat, Elizabeth A DeVilbiss, Elizabeth H Scholl, Taylor Petty, Brian Kidd, Deepak Mav, Shyamal D Peddada, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag145
-
-Abstract: Abstract Background The frequency and severity of extreme temperatures have been increasing and are expected to continue to escalate in the coming decades. Relationships between extreme temperatures and early deliveries are not well understood. Methods Data were obtained from 201 759 pregnancies with gestational age (GA) of &amp;amp;gt;27 weeks in the Consortium on Safe Labor retrospective cohort study from 19 hospitals across the USA for 2002–8. Location-specific bulk temperatures were obtained from the Parameter-Elevation Regressions on Independent Slopes Model (4-km resolution), from which participants were linked to minimum, maximum, and mean daily temperatures across each day of pregnancy. Days were categorized for each site as cold (both minimum and maximum temperatures ≤ 20th percentile), hot (both minimum and maximum temperatures ≥ 80th percentile), or neither for each pregnancy. Cold and hot days were then analysed individually or as the proportion within specific pregnancy windows by using Cox regression and fetuses-at-risk logistic regression models. Results Detrimental relations in fetuses-at-risk models were consistently observed between exposure to chronic cold and chronic heat and early delivery: odds ratio (ORcold)= 1.66, 1.40, and 1.16; ORheat = 1.20, 1.13, and 1.32 for early-preterm (GA &amp;amp;lt; 34 weeks), preterm (34 ≤ GA &amp;amp;lt; 37 weeks), and early-term (37 ≤ GA &amp;amp;lt; 39), respectively. Associations for exposures in Trimesters 1 and 2 were mixed but clearly more detrimental in Trimester 1. The likelihood of early delivery increased with daily exposure to extreme temperatures after 27 weeks. Conclusion Future work should seek to elucidate the underlying mechanisms and to validate these findings by using more recent diverse global data.</description>
     </item>
     <item>
       <title>Response rates and representativeness from birth to young adulthood in a Swedish birth cohort</title>
@@ -1697,17 +1715,6 @@ Abstract: Abstract Background Cardiovascular disease (CVD) remains a major globa
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag114
 
 Abstract: Abstract Background It has been hypothesized that the incidence of cryptorchidism may have increased in Japan following the Fukushima Daiichi Nuclear Power Plant (FDNPP) accident in March 2011; however, empirical evidence remains limited. This study aimed to assess the possible impact of the accident on cryptorchidism incidence over an extended period of time before and after the accident. Methods Detailed information on all patients who underwent orchiopexy between April 2008 and March 2021 was obtained from the medical records of 86 hospitals in Fukushima Prefecture. Interrupted time series analyses were performed to evaluate the immediate post- versus pre-accident level change and the monthly post- versus pre-accident slope change in orchiopexy surgery rates and birth rates with cryptorchidism. Results In total, 622 orchiopexy surgeries performed in Fukushima Prefecture during the study period were included. No significant increase was observed in the monthly orchiopexy surgery rate per 100 000 population in Fukushima Prefecture after the accident, in terms of either the immediate level change (incidence rate ratio [IRR], 1.21; 95% CI, 0.86–1.70) or the monthly slope change (IRR per month, 1.01; 95% CI, 0.99–1.04). The estimated monthly birth rate with cryptorchidism per 1000 live births in Fukushima Prefecture also showed no significant increase in either the immediate level change (IRR, 0.87; 95% CI, 0.52–1.44) or the monthly slope change (IRR per month, 1.01; 95% CI, 0.99–1.04). Conclusions Our study provided no evidence that the FDNPP accident increased the orchiopexy surgery rates or birth rates with cryptorchidism in Fukushima Prefecture.</description>
-    </item>
-    <item>
-      <title>The race variable: how statistical practices reinforce inequality</title>
-      <link>https://doi.org/10.1093/ije/dyag128</link>
-      <guid isPermaLink="false">10.1093/ije/dyag128</guid>
-
-      <dc:creator>Jason Gurney</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jason Gurney
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag128</description>
     </item>
   </channel>
 </rss>
