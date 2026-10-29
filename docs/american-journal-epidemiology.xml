@@ -5,8 +5,28 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:01:19 +0000</lastBuildDate>
 
+    <item>
+      <title>Causal Inference with Missing Exposures and Missing Outcomes</title>
+      <link>https://doi.org/10.1093/aje/kwag281</link>
+      <guid isPermaLink="false">10.1093/aje/kwag281</guid>
+
+      <dc:creator>Kirsten E Landsiedel</dc:creator>
+      <dc:creator>Rachel Abbott</dc:creator>
+      <dc:creator>Atukunda Mucunguzi</dc:creator>
+      <dc:creator>Florence Mwangwa</dc:creator>
+      <dc:creator>Elijah Kakande</dc:creator>
+      <dc:creator>Edwin D Charlebois</dc:creator>
+      <dc:creator>Carina Marquez</dc:creator>
+      <dc:creator>Moses R Kamya</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kirsten E Landsiedel, Rachel Abbott, Atukunda Mucunguzi, Florence Mwangwa, Elijah Kakande, Edwin D Charlebois, Carina Marquez, Moses R Kamya, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag281
+
+Abstract: Abstract Missing data are ubiquitous in public health research. When estimating causal effects, there are well-established methods to address bias to due missing outcomes. Commonly, causal estimands are defined under hypothetical interventions to “set” the exposure and to prevent missingness. We demonstrate how this framework can be extended to missing exposures. We further extend this framework to incorporate missingness on the baseline outcome, which induces missingness on the population of interest (e.g., persons at-risk). To do so, we highlight Counterfactual Strata Effects, a general class of causal estimands where the focus population is subject to missingness and/or impacted by the exposure. They are termed such because the estimand involves conditioning on a counterfactual variable. For each setting, we present the causal model, relevant counterfactuals, causal estimand, and identification result. We demonstrate with a real-data example to investigate the effect of alcohol consumption on the risk of incident tuberculosis (TB) infection in rural Uganda. We highlight the use of TMLE with Super Learner for estimation and inference and discuss the practical consequences of our approach.</description>
+    </item>
     <item>
       <title>Editorial Consultants</title>
       <link>https://doi.org/10.1093/aje/kwag228</link>
@@ -1596,26 +1616,6 @@ Abstract: Abstract Point-in-time measures of neighborhood poverty exposure sugge
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2518-2527
 
 Abstract: Abstract Major disease diagnoses can create shocks that ripple through households. Population-level evidence in the US on how spouses and partners fare after a partner’s major diagnosis remains sparse and is often limited to caregiver or employment-related outcomes. Using the US Health and Retirement Study (1992-2020), we evaluated population-level health spillovers to spouses after a partner’s first diagnosis of cancer, stroke, or heart disease, employing a stacked event-study design with matching (n = 29 166). Outcomes included subjective health, doctor-diagnosed conditions, limitations in basic and instrumental activities of daily living (ADL/IADL), and health behaviors and use of preventive care. We evaluated heterogeneity by sociodemographic and economic conditions. Spouses of newly diagnosed patients experienced modest but persistent declines: more frequent reports of poor health ($\boldsymbol{\beta}$ = .02, 95% CI, 0.00, 0.03), more doctor-diagnosed conditions ($\boldsymbol{\beta}$ = .05, 95% CI, 0.01, 0.08), and higher depressive symptoms ($\boldsymbol{\beta}$ = .08, 95% CI, 0.01, 0.16). Effects were greater among women whose male partners received a diagnosis and among spouses with lower education or fewer assets. Health and preventive care behaviors were largely unchanged. Findings motivate early, spouse-focused support and underscore the need for targeted interventions for spouses at highest risk.</description>
-    </item>
-    <item>
-      <title>Projections of day and night heatwave impacts on mental disorder mortality: a population-based case-crossover study in Shanghai, China</title>
-      <link>https://doi.org/10.1093/aje/kwag179</link>
-      <guid isPermaLink="false">10.1093/aje/kwag179</guid>
-
-      <dc:creator>Junwen Tao</dc:creator>
-      <dc:creator>Ren-zhi Cai</dc:creator>
-      <dc:creator>Yarui Fan</dc:creator>
-      <dc:creator>Yuefang Li</dc:creator>
-      <dc:creator>Xiaojie Zou</dc:creator>
-      <dc:creator>Jintao Liu</dc:creator>
-      <dc:creator>Yinguang Fan</dc:creator>
-      <dc:creator>Hong Su</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Junwen Tao, Ren-zhi Cai, Yarui Fan, Yuefang Li, Xiaojie Zou, Jintao Liu, Yinguang Fan, Hong Su, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag179
-
-Abstract: Abstract Heatwaves pose a growing global health threat, yet the mental health impacts of different heatwave types under climate change remain unclear. We quantified current and future mental disorder mortality attributable to daytime, nighttime, and compound heatwaves in Shanghai, China. Baseline associations between heatwaves and daily mental disorder deaths (2016-2019) were estimated using a time-stratified case-crossover design. Heatwaves were defined using a Health-based Excess Heat Factor, and attributable fractions in the 2010s were projected to the 2030s, 2060s, and 2090s under 3 Shared Socioeconomic Pathways and 3 population adaptation scenarios. All heatwave types were associated with increased mental disorder mortality, with the strongest effects observed for daytime heatwaves, followed by compound and nighttime heatwaves. Without adaptation, excess deaths attributable to daytime heatwaves were projected to increase by 8.3%-10.7% in the 2060s and 13.6%-15.3% in the 2090s, while the exposure–response function projected smaller increases in attributable deaths for compound and nighttime heatwaves. Schizophrenia exhibited the greatest vulnerability, particularly to daytime heatwaves, with attributable deaths rising by 27.9%-34.9% by the 2090s. Suicide and dementia were most affected by compound and nighttime heatwaves, respectively. Partial and full adaptation substantially reduced future burdens, especially for nighttime heatwaves. Enhanced population adaptation could mitigate the mortality burden of mental disorders from heatwaves.</description>
     </item>
   </channel>
 </rss>

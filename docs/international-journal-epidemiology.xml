@@ -5,8 +5,22 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:01:17 +0000</lastBuildDate>
 
+    <item>
+      <title>Roger Detels, 14 October 1936 to 25 July 2026</title>
+      <link>https://doi.org/10.1093/ije/dyag237</link>
+      <guid isPermaLink="false">10.1093/ije/dyag237</guid>
+
+      <dc:creator>Onyebuchi A Arah</dc:creator>
+      <dc:creator>Roberta Malmgren</dc:creator>
+      <dc:creator>Ralph R Frerichs</dc:creator>
+      <dc:creator>Zuo-Feng Zhang</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Onyebuchi A Arah, Roberta Malmgren, Ralph R Frerichs, Zuo-Feng Zhang
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag237</description>
+    </item>
     <item>
       <title>Cohort Profile Update: COVIDMENT: COVID-19 cohorts on mental health across six nations</title>
       <link>https://doi.org/10.1093/ije/dyag233</link>
@@ -160,6 +174,19 @@ Abstract: Abstract Background Prediabetes (PreDM) and prehypertension (PreHTN) a
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag234</description>
     </item>
     <item>
+      <title>Age-specific vulnerability or effect modification? Comment on “age-specific vulnerability of kidney diseases to temperature”</title>
+      <link>https://doi.org/10.1093/ije/dyag242</link>
+      <guid isPermaLink="false">10.1093/ije/dyag242</guid>
+
+      <dc:creator>Zhiqiang Zhang</dc:creator>
+      <dc:creator>Lijuan Kang</dc:creator>
+      <dc:creator>Qinyi Li</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zhiqiang Zhang, Lijuan Kang, Qinyi Li
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag242</description>
+    </item>
+    <item>
       <title>Authors’ Response: Quasi-experiments rely on design choices: a reflection on Renson and Westreich’s “What makes a study design quasi-experimental?”</title>
       <link>https://doi.org/10.1093/ije/dyag227</link>
       <guid isPermaLink="false">10.1093/ije/dyag227</guid>
@@ -224,6 +251,25 @@ Abstract: Abstract Background Public health interventions increasing access to e
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag230
 
 Abstract: Abstract Background Delayed childbearing may alter maternal and neonatal risk profiles and potentially challenge current healthcare strategies. Therefore, we aimed to provide comprehensive Bayesian projections of pregnancy outcomes through 2050 to inform urgent healthcare system adaptation. Methods We analysed all singleton pregnancies in Taiwan using linked data from National Health Insurance and Birth Certificate Application databases from 2004 to 2021. Temporal trends and age-stratified prevalence were assessed for maternal (gestational hypertension [GHTN], gestational diabetes mellitus [GDM], mortality, sepsis, and postpartum hemorrhage) and neonatal (stillbirth, preterm birth, low birth weight, small for gestational age, and large for gestational age) outcomes. Bayesian age–period–cohort models were applied to project prevalence and absolute burden through 2050. Results From 2004 to 2021, total pregnancies declined by 25.3%, while the proportion of pregnancies among women aged ≥35 years nearly tripled (11.8%–34.6%). GHTN prevalence rose from 0.4% to 2.1% and GDM from 2.0% to 9.3%. By 2050, GHTN and GDM are projected to reach 26.4% (95% credible interval [CrI], 5.2%–67.4%) and 60.9% (95% CrI, 28.9%–85.0%), respectively, while the GDM estimate should be interpreted in light of one-step screening adoption after 2010. Preterm birth and low birth weight are projected to increase modestly to 11.2% and 11.9%. BAPC modeling indicates these trends are associated with advancing maternal age and cohort patterns, reflecting evolving risk profiles shaped by shifting healthcare and behavioral practices. Conclusions Obstetric risk is shifting due to demographic and generational transitions, requiring prenatal care systems to adopt more proactive and routine management approaches.</description>
+    </item>
+    <item>
+      <title>Authors’ reply to Zhang
+                    &lt;i&gt;et al&lt;/i&gt;
+                    .: heterogeneity, effect modification and the meaning of vulnerability</title>
+      <link>https://doi.org/10.1093/ije/dyag243</link>
+      <guid isPermaLink="false">10.1093/ije/dyag243</guid>
+
+      <dc:creator>Jinah Park</dc:creator>
+      <dc:creator>Jisung Choi</dc:creator>
+      <dc:creator>Ziyad Al-Aly</dc:creator>
+      <dc:creator>Kristie L Ebi</dc:creator>
+      <dc:creator>Jung Pyo Lee</dc:creator>
+      <dc:creator>Ho Kim</dc:creator>
+      <dc:creator>Whanhee Lee</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jinah Park, Jisung Choi, Ziyad Al-Aly, Kristie L Ebi, Jung Pyo Lee, Ho Kim, Whanhee Lee
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag243</description>
     </item>
     <item>
       <title>Cohort Profile: A Scottish population-level study on the outcomes of people released from prison (RELEASE)</title>
@@ -578,25 +624,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Stagnating cardiovascular disease mortality and rising drug- and suicide-related deaths are key drivers of stalled US mortality improvements. However, prior research has largely overlooked disease histories preceding death, despite increasing multimorbidity. We examined changes in disease-history profiles in the US population and assessed how shifts in profile composition and within-profile mortality shaped mortality trends. Methods We analysed adults aged ≥30 years (N = 510 372) from the IPUMS-NHIS (National Health Interview Survey) 1997–2018 linked mortality files (follow-up through 2019). Latent class analysis on the pooled sample across all ages and years identified disease-history profiles based on self-reported cancer, diabetes, cardiovascular disease, mental health, internal diseases, obesity, and physical limitations. Logistic regression was used to estimate profile-specific 5-year mortality over time, and counterfactual decomposition was used to quantify the contributions of compositional change and within-profile mortality improvement to overall mortality trends. Results Five disease-history profiles were identified. Prevalence and 5-year death probability ranged from disease-free (62.4%; men 3.7% [95% confidence interval (CI) 3.5–3.8], women 2.4% [95% CI 2.3–2.5]) to high-burden multimorbidity (5.9%; men 17.8% [95% CI 16.8–18.8], women 12.6% [95% CI 11.9–13.3]), with substantial gradients across intermediate profiles. Profile composition varied substantially by gender, education, and race/ethnicity. The disease-free population declined by nearly 1% annually, replaced primarily by cardiometabolic and high-burden multimorbidity profiles. Most profiles experienced stagnating or increasing mortality after the mid-2000s. The decomposition shows that within-profile mortality improvement was the dominant driver of declining mortality; compositional shifts, mostly driven by the declining disease-free share, partially offset these gains. Conclusion Stagnating US mortality reflects both the growing prevalence of high-morbidity profiles and worsening or stagnating survival within them, highlighting the limited reach of prevention and disease-management efforts.</description>
     </item>
     <item>
-      <title>Age-specific vulnerability of kidney diseases to temperature: a nationwide case-crossover study</title>
-      <link>https://doi.org/10.1093/ije/dyag159</link>
-      <guid isPermaLink="false">10.1093/ije/dyag159</guid>
-
-      <dc:creator>Jinah Park</dc:creator>
-      <dc:creator>Jisung Choi</dc:creator>
-      <dc:creator>Ziyad Al-Aly</dc:creator>
-      <dc:creator>Kristie L Ebi</dc:creator>
-      <dc:creator>Jung Pyo Lee</dc:creator>
-      <dc:creator>Ho Kim</dc:creator>
-      <dc:creator>Whanhee Lee</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jinah Park, Jisung Choi, Ziyad Al-Aly, Kristie L Ebi, Jung Pyo Lee, Ho Kim, Whanhee Lee
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag159
-
-Abstract: Abstract Background Extreme temperatures are projected to increase; however, comprehensive mapping of associations between temperature extremes and kidney diseases across age groups and disease subtypes remains limited. Methods Data were collected for all emergency department (ED) visits for kidney diseases across all ages from South Korea’s national health insurance claims between 2011 and 2019. A time-stratified case-crossover design was used to assess the association between ambient temperature and ED visits for kidney diseases. Results The study included around 1.9 million ED visits due to kidney diseases. Heat-related risks of kidney disease–related ED visits (99th vs. 75th percentile) were highest among adults aged 50–59 years [odds ratio (OR): 1.28, 95% confidence interval (CI): 1.22–1.34), while cold-related risks (1st vs. 25th percentile) were highest among those aged 30–39 years (OR: 1.13, 95% CI: 1.05–1.20). Heat-related hospitalization risk was primarily driven by urinary tract infection among individuals in their 30s (OR: 1.37; 95% CI: 1.09–1.72) and by acute kidney injury among those in their 40s (OR: 2.29; 95% CI: 1.52–3.44). From a cost-burden perspective, urinary tract infections among adults aged ≥70 years contributed the largest medical cost burden attributable to high and low temperatures. Conclusions This nationwide study demonstrated age- and disease subtype-specific heterogeneity in temperature-related kidney disease risks. Our findings suggest that, in addition to older adults, younger and middle-aged populations should also be primarily considered in climate change adaptation strategies targeting kidney health.</description>
-    </item>
-    <item>
       <title>Have Australians become more lonely and socially isolated? A longitudinal analysis of the Household, Income and Labour Dynamics in Australia study</title>
       <link>https://doi.org/10.1093/ije/dyag143</link>
       <guid isPermaLink="false">10.1093/ije/dyag143</guid>
@@ -615,6 +642,25 @@ Abstract: Abstract Background Extreme temperatures are projected to increase; ho
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag143
 
 Abstract: Abstract Background This study aimed to examine temporal trends in episodic and chronic loneliness and social isolation in the Australian population from 2001 to 2023. Methods We conducted a population-based longitudinal cohort study (n = 13 120). Data were drawn from the Household, Income and Labour Dynamics in Australia (HILDA) survey. Episodic (at least one wave) and chronic (at least two consecutive waves) loneliness and social isolation were assessed using validated measures. Mixed-effects logistic regression models estimated marginal predicted probabilities over time and across demographic subgroups. Sensitivity analyses were conducted to test the robustness of the findings. Results Loneliness remained relatively stable overall, with a slight early decline followed by a modest increase and a gradual rise in chronic loneliness from the late 2000s. In contrast, social isolation increased substantially over time, with chronic isolation roughly doubling across the study period. Loneliness trends generally followed a decline during the 2000s and a rise from the 2010s onwards across most demographic groups, although the magnitude and timing varied between subgroups. In contrast, social isolation increased over time across most populations, with particularly marked increases among older adults and individuals in the lowest education and highest area-level disadvantage. Conclusions Social isolation increased substantially in Australia over the past two decades, while loneliness showed a moderate increase, disproportionately affecting vulnerable populations. Findings underscore the need for ongoing public health interventions that address the structural and social determinants of loneliness and social isolation.</description>
+    </item>
+    <item>
+      <title>Age-specific vulnerability of kidney diseases to temperature: a nationwide case-crossover study</title>
+      <link>https://doi.org/10.1093/ije/dyag159</link>
+      <guid isPermaLink="false">10.1093/ije/dyag159</guid>
+
+      <dc:creator>Jinah Park</dc:creator>
+      <dc:creator>Jisung Choi</dc:creator>
+      <dc:creator>Ziyad Al-Aly</dc:creator>
+      <dc:creator>Kristie L Ebi</dc:creator>
+      <dc:creator>Jung Pyo Lee</dc:creator>
+      <dc:creator>Ho Kim</dc:creator>
+      <dc:creator>Whanhee Lee</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jinah Park, Jisung Choi, Ziyad Al-Aly, Kristie L Ebi, Jung Pyo Lee, Ho Kim, Whanhee Lee
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag159
+
+Abstract: Abstract Background Extreme temperatures are projected to increase; however, comprehensive mapping of associations between temperature extremes and kidney diseases across age groups and disease subtypes remains limited. Methods Data were collected for all emergency department (ED) visits for kidney diseases across all ages from South Korea’s national health insurance claims between 2011 and 2019. A time-stratified case-crossover design was used to assess the association between ambient temperature and ED visits for kidney diseases. Results The study included around 1.9 million ED visits due to kidney diseases. Heat-related risks of kidney disease–related ED visits (99th vs. 75th percentile) were highest among adults aged 50–59 years [odds ratio (OR): 1.28, 95% confidence interval (CI): 1.22–1.34), while cold-related risks (1st vs. 25th percentile) were highest among those aged 30–39 years (OR: 1.13, 95% CI: 1.05–1.20). Heat-related hospitalization risk was primarily driven by urinary tract infection among individuals in their 30s (OR: 1.37; 95% CI: 1.09–1.72) and by acute kidney injury among those in their 40s (OR: 2.29; 95% CI: 1.52–3.44). From a cost-burden perspective, urinary tract infections among adults aged ≥70 years contributed the largest medical cost burden attributable to high and low temperatures. Conclusions This nationwide study demonstrated age- and disease subtype-specific heterogeneity in temperature-related kidney disease risks. Our findings suggest that, in addition to older adults, younger and middle-aged populations should also be primarily considered in climate change adaptation strategies targeting kidney health.</description>
     </item>
     <item>
       <title>Mortality in people experiencing homelessness: a systematic review and meta-analysis</title>
@@ -1657,60 +1703,6 @@ Abstract: Abstract Background School-based mitigation measures can curb transmis
       <description>Authors: Benjamin W Chaffee
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag102</description>
-    </item>
-    <item>
-      <title>Cohort Profile Update: The Finnish Gestational Diabetes (FinnGeDi) study</title>
-      <link>https://doi.org/10.1093/ije/dyag101</link>
-      <guid isPermaLink="false">10.1093/ije/dyag101</guid>
-
-      <dc:creator>Shilpa Lingaiah</dc:creator>
-      <dc:creator>Elina Keikkala</dc:creator>
-      <dc:creator>Sanna Mustaniemi</dc:creator>
-      <dc:creator>Pekka Ylöstalo</dc:creator>
-      <dc:creator>Tellervo Tervonen</dc:creator>
-      <dc:creator>Marja-Liisa Laitala</dc:creator>
-      <dc:creator>Hilkka Pernu</dc:creator>
-      <dc:creator>Eveliina Lammentausta</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shilpa Lingaiah, Elina Keikkala, Sanna Mustaniemi, Pekka Ylöstalo, Tellervo Tervonen, Marja-Liisa Laitala, Hilkka Pernu, Eveliina Lammentausta, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag101</description>
-    </item>
-    <item>
-      <title>Data Resource Profile: EST-Health-30</title>
-      <link>https://doi.org/10.1093/ije/dyag113</link>
-      <guid isPermaLink="false">10.1093/ije/dyag113</guid>
-
-      <dc:creator>Sulev Reisberg</dc:creator>
-      <dc:creator>Marek Oja</dc:creator>
-      <dc:creator>Kerli Mooses</dc:creator>
-      <dc:creator>Sirli Tamm</dc:creator>
-      <dc:creator>Ami Sild</dc:creator>
-      <dc:creator>Harry-Anton Talvik</dc:creator>
-      <dc:creator>Sven Laur</dc:creator>
-      <dc:creator>Raivo Kolde</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sulev Reisberg, Marek Oja, Kerli Mooses, Sirli Tamm, Ami Sild, Harry-Anton Talvik, Sven Laur, Raivo Kolde, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag113</description>
-    </item>
-    <item>
-      <title>Cohort Profile: The Chongqing Multi-Community Cohort (CMCC)</title>
-      <link>https://doi.org/10.1093/ije/dyag110</link>
-      <guid isPermaLink="false">10.1093/ije/dyag110</guid>
-
-      <dc:creator>Shenglin Zhao</dc:creator>
-      <dc:creator>Bingjie Zhou</dc:creator>
-      <dc:creator>Jia Du</dc:creator>
-      <dc:creator>Yan Zhang</dc:creator>
-      <dc:creator>Zhikai Yu</dc:creator>
-      <dc:creator>Hong Zhou</dc:creator>
-      <dc:creator>Zhengyu Yang</dc:creator>
-      <dc:creator>Wenzhong Huang</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Shenglin Zhao, Bingjie Zhou, Jia Du, Yan Zhang, Zhikai Yu, Hong Zhou, Zhengyu Yang, Wenzhong Huang, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag110</description>
     </item>
   </channel>
 </rss>
