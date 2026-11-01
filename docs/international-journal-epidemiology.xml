@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 12:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:25:15 +0000</lastBuildDate>
 
     <item>
       <title>Roger Detels, 14 October 1936 to 25 July 2026</title>
@@ -217,6 +217,25 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag204
 
 Abstract: Abstract Background Transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) often clusters in families, suggesting role of shared environmental and genetic factors. We performed a nationwide Danish study of twins, their spouses, and matched population controls with the aim of disentangling the host genetic and environmental mechanisms underlying the familial clustering of SARS-CoV-2 susceptibility and coronavirus disease 2019 (COVID-19) severity. Methods This registry-linkage study included 83 902 twins and 32 719 spouses, matched to 839 020 population controls and 327 190 spouse controls, respectively, and followed from 1 February 2020 to 31 October 2022. Testing positive for SARS-CoV-2 infection and COVID-19 hospitalization served as proxies for SARS-CoV-2 susceptibility and disease severity, respectively. We compared concordance rates and calculated heritability from biometrical modelling of these traits. Results We found no evidence of a genetic influence on infection susceptibility in the first two waves of the pandemic and a modest influence [heritability: 19.4%; 95% confidence interval (CI): 10.0%–28.8%] in the third wave. Spouses showed the highest concordance rates by a large margin in all waves. Our study found no evidence of a genetic predisposition to disease severity. Co-twins of hospitalized twins had no increased risk of hospitalization. By contrast, the risk of being hospitalized with COVID-19 was higher [relative risk: 3.56; 95% CI: 2.57–4.92] among the spouses of the hospitalized twins than among the controls. Conclusion Social proximity was a key determinant of infection susceptibility. A three-fold increased risk for spouses suggests that viral load and lifestyle shared between spouses were more important determinants of severe COVID-19 than genetic susceptibility.</description>
+    </item>
+    <item>
+      <title>Software Application Profile: BKMR-CMA: a novel R command for Bayesian mediation analysis in environmental mixture studies</title>
+      <link>https://doi.org/10.1093/ije/dyag235</link>
+      <guid isPermaLink="false">10.1093/ije/dyag235</guid>
+
+      <dc:creator>Zilan Chai</dc:creator>
+      <dc:creator>Arce Domingo-Relloso</dc:creator>
+      <dc:creator>Katrina L Devick</dc:creator>
+      <dc:creator>Maitreyi Mazumndar</dc:creator>
+      <dc:creator>Ana Navas-Acien</dc:creator>
+      <dc:creator>Brent A Coull</dc:creator>
+      <dc:creator>Linda Valeri</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Zilan Chai, Arce Domingo-Relloso, Katrina L Devick, Maitreyi Mazumndar, Ana Navas-Acien, Brent A Coull, Linda Valeri
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article number: dyag235
+
+Abstract: Abstract Motivation Machine learning is becoming increasingly used in high-dimensional mediation settings. In this work, we present software that implements the Bayesian Kernel Machine Regression—Causal Mediation Analysis (BKMR-CMA) algorithm, which extends the popular BKMR methodology to causal mediation analysis in the presence of multiple correlated exposures. Its functions are implemented in the R package causalmixtures. Implementation The mediation.bkmr command conducts a mediation analysis evaluating the potential intermediate role of a variable on the association between a mixture of exposures and an outcome. The CDE.bkmr command computes controlled direct effects when fixing the mediator to different levels. General features The BKMR-CMA method, implemented in the mediation.bkmr and the CDE.bkmr commands from the causalmixtures R package, is able to decompose the total effect into the natural direct and the natural indirect effect, while evaluating interventions on the mediator, incorporating nonlinear associations between exposure, mediator, and outcome, accounting for correlations between exposures, testing for interactions, and providing tools for detailed visualization of results. Availability The causalmixtures R package is freely available for download on Github: https://arcedr.github.io/causalmixtures/. Details of implementation can be found in the quick start guide: https://arcedr.github.io/causalmixtures/articles/BKMRCMA_QuickStart.html.</description>
     </item>
     <item>
       <title>Long-term abortion and birth rates for 14- to 25-year-olds before and after the implementation of prescription-free emergency contraceptives in Finland</title>
@@ -570,24 +589,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Negative controls have gained traction as a useful tool for causal research to address confounding and bias. However, general guidance on how to select and apply negative controls and how to report and interpret their findings is lacking. This paper lays out the key steps of conducting a negative-control analysis and provides all relevant background information, important feasibility and validity considerations, and practical suggestions for the implementation and interpretation of each step. This includes a convenient overview of all methods, complete with their rationale, key considerations, and illustrative examples, and practical checklists that both researchers and reviewers can use to facilitate the complete and rigorous reporting of negative-control analyses.</description>
     </item>
     <item>
-      <title>Data Resource Profile: The General Practice Database—Amsterdam, North Holland, Almere (GPD-ANHA)</title>
-      <link>https://doi.org/10.1093/ije/dyag175</link>
-      <guid isPermaLink="false">10.1093/ije/dyag175</guid>
-
-      <dc:creator>Jos P Kanning</dc:creator>
-      <dc:creator>Habibollah Pirnejad</dc:creator>
-      <dc:creator>Awa A Gassama</dc:creator>
-      <dc:creator>Coralie R Arends</dc:creator>
-      <dc:creator>Johanna H K Joosten</dc:creator>
-      <dc:creator>Natasja D Vijfschagt</dc:creator>
-      <dc:creator>Ralf E Harskamp</dc:creator>
-      <dc:creator>Otto R Maarsingh</dc:creator>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jos P Kanning, Habibollah Pirnejad, Awa A Gassama, Coralie R Arends, Johanna H K Joosten, Natasja D Vijfschagt, Ralf E Harskamp, Otto R Maarsingh, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag175</description>
-    </item>
-    <item>
       <title>Cohort Profile: Kinship, nuptiality and child well-being in Africa—the JAMO study</title>
       <link>https://doi.org/10.1093/ije/dyag178</link>
       <guid isPermaLink="false">10.1093/ije/dyag178</guid>
@@ -604,6 +605,24 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
       <description>Authors: Sangeetha Madhavan, Kirsten Stoebenau, Kenneth Leonard, Estelle Sidze, Blessing Mberu, Patricia Kitsao-Wekulo, Elizabeth Kimani, Carol Wainaina, et al.
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag178</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: The General Practice Database—Amsterdam, North Holland, Almere (GPD-ANHA)</title>
+      <link>https://doi.org/10.1093/ije/dyag175</link>
+      <guid isPermaLink="false">10.1093/ije/dyag175</guid>
+
+      <dc:creator>Jos P Kanning</dc:creator>
+      <dc:creator>Habibollah Pirnejad</dc:creator>
+      <dc:creator>Awa A Gassama</dc:creator>
+      <dc:creator>Coralie R Arends</dc:creator>
+      <dc:creator>Johanna H K Joosten</dc:creator>
+      <dc:creator>Natasja D Vijfschagt</dc:creator>
+      <dc:creator>Ralf E Harskamp</dc:creator>
+      <dc:creator>Otto R Maarsingh</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jos P Kanning, Habibollah Pirnejad, Awa A Gassama, Coralie R Arends, Johanna H K Joosten, Natasja D Vijfschagt, Ralf E Harskamp, Otto R Maarsingh, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag175</description>
     </item>
     <item>
       <title>Data Resource Profile: The Korean National Health Insurance Service Mother-Child Linked Database (NHIS-MCLD): a nationwide administrative database with a cohort design</title>
@@ -1047,21 +1066,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background The COVID-19 pandemic caused a large health burden that disproportionally fell on people with a lower socio-economic status. Not much is known about the role of structural differences in pre-existing health and vaccination uptake in explaining these inequalities. We aim to disentangle these factors and quantify their contribution to income-related inequality in COVID-19 mortality. Methods Using linked Dutch administrative microdata (N = 6 619 699), we model the risk of COVID-19 death based on pre-existing health and vaccination status for the entire population above the age of 50 years in 2021. Health is proxied by individual-level remaining life expectancy based on predictions by income using detailed information on demographics, specific outpatient medication(s), and hospital records. Building on this, we then quantify the extent to which differences in pre-existing health and vaccination status between lower and higher incomes explain income-related differences in COVID-19 deaths. Results We find strong income-related differences in COVID-19 mortality. In 2021, individuals of the poorest income quintile were about three times more likely to die of COVID-19 than those in the richest quintile. Differences in pre-existing health are more important than differences in vaccination uptake in explaining this gap. For the poorest males/females, 67%/46% can be explained by differences in health and 14%/19% by vaccination status. Conclusion Differences in pre-existing health by income are likely the most important determinant of income-related inequality in COVID-19 mortality. These findings signal that policies focused on reducing existing inequalities in health might lessen the burden of future health crises.</description>
     </item>
     <item>
-      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
-      <link>https://doi.org/10.1093/ije/dyag199</link>
-      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
-
-      <dc:creator>Xueyan Zheng</dc:creator>
-      <dc:creator>Christian Bottomley</dc:creator>
-      <dc:creator>Woojoo Lee</dc:creator>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
-
-Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
-    </item>
-    <item>
       <title>Peripubertal pregnancies and associations with health and developmental outcomes in offspring during late adolescence and adulthood: sibling-comparison register study</title>
       <link>https://doi.org/10.1093/ije/dyag153</link>
       <guid isPermaLink="false">10.1093/ije/dyag153</guid>
@@ -1077,6 +1081,21 @@ Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag153
 
 Abstract: Abstract Background We examined the association of peripubertal pregnancies with long-term health and developmental outcomes in adult offspring and strengthened causal inference using sibling-comparison methods. Methods Using linked Swedish register data from 1964 to 2018, we conducted a cohort study to estimate associations of pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years, with body mass index (BMI), systolic blood pressure (SBP), cognitive function, and stress resilience among 943 444 male offspring aged 17–21 years in the Military Conscription Register. We further assessed associations with type 2 diabetes (T2D), depression, and anxiety among 2 461 510 male and female offspring aged 18–73 years using population-wide registers. Linear, multinomial, and survival models were used. Sibling fixed-effect models were used to account for unmeasured confounding shared among siblings. Results Offspring from pregnancies before age 16 years compared with pregnancies between ages 16 and 25 years had lower SBP (β − 1.12; 95% confidence interval [CI] − 1.97 to −0.26), poorer cognitive function (β − 0.54; 95% CI −0.67 to −0.40), and poorer stress resilience (β −0.24; 95% CI −0.38, −0.10). There was no increased risk of being underweight or overweight compared with normal weight. There was a lower risk of anxiety (hazard ratio 0.87; 95% CI 0.80 to 0.95) and no increased risk of T2D or depression. Sibling-comparison analyses attenuated deleterious associations to null or reversed them and amplified associations with markers of better health. Conclusion Pregnancies before age 16 years may not be causally associated with adverse long-term health and developmental outcomes in adolescent and adult offspring. The adverse associations in conventional analyses appear attributable to shared familial characteristics.</description>
+    </item>
+    <item>
+      <title>Analyzing interrupted time series with count outcomes using single or multiple control time series</title>
+      <link>https://doi.org/10.1093/ije/dyag199</link>
+      <guid isPermaLink="false">10.1093/ije/dyag199</guid>
+
+      <dc:creator>Xueyan Zheng</dc:creator>
+      <dc:creator>Christian Bottomley</dc:creator>
+      <dc:creator>Woojoo Lee</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xueyan Zheng, Christian Bottomley, Woojoo Lee
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag199
+
+Abstract: Abstract Background Interrupted time series (ITS) analysis is a widely used quasi-experimental design for evaluating the impact of population-level interventions. To control for confounding from concurrent events, researchers often incorporate control time series. However, for count outcomes, especially with control series, methodological development remains limited. Development We introduce a likelihood-based framework for controlled ITS analysis with count data. The proposed framework is based on a conditional Poisson likelihood and naturally extends to settings with multiple control series. This analysis is straightforward when the intervention and control series share a common time-varying component, whereas more flexible modeling is required when such shared structure is not supported. We describe a data-driven method for assessing whether the intervention and control series share a common time-varying component. We also show that, with robust variance estimation, the proposed approach can provide valid statistical inference even if the assumed distribution is misspecified. Application We demonstrate the method using two real datasets. The first example assesses the effect of Florida’s Stand Your Ground (SYG) law on firearm-related homicides and illustrates how the use of multiple control series (homicide rates in other states) leads to more accurate inference. The second example evaluates rotavirus vaccine introduction in Ghana and demonstrates how the analysis proceeds when the common time-varying component assumption is not supported. Conclusions The proposed conditional Poisson approach provides a practical likelihood-based framework for analyzing ITS with count outcomes using single or multiple control time series. When the common time-varying component assumption holds, incorporating multiple control series can lead to more precise estimation of the parameter of interest.</description>
     </item>
     <item>
       <title>Air pollution and criminal behavior: a nationwide case-crossover analysis in China</title>
@@ -1686,26 +1705,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article nu
       <description>Authors: Dabin Chen, Jingyuan Li, Ting Ye
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag149</description>
-    </item>
-    <item>
-      <title>The impact of school-based mitigation measures on the transmission of respiratory pathogens: the case of SARS-CoV-2</title>
-      <link>https://doi.org/10.1093/ije/dyag103</link>
-      <guid isPermaLink="false">10.1093/ije/dyag103</guid>
-
-      <dc:creator>Laura Fumanelli</dc:creator>
-      <dc:creator>Giorgio Guzzetta</dc:creator>
-      <dc:creator>Martina del Manso</dc:creator>
-      <dc:creator>Antonino Bella</dc:creator>
-      <dc:creator>Massimo Vicentini</dc:creator>
-      <dc:creator>Olivera Djuric</dc:creator>
-      <dc:creator>Eufemia Bisaccia</dc:creator>
-      <dc:creator>Pamela Mancuso</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Laura Fumanelli, Giorgio Guzzetta, Martina del Manso, Antonino Bella, Massimo Vicentini, Olivera Djuric, Eufemia Bisaccia, Pamela Mancuso, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 4; Article number: dyag103
-
-Abstract: Abstract Background School-based mitigation measures can curb transmission of severe respiratory pathogens but may also impose high societal costs. Understanding their impact at the population level is key for pandemic preparedness evaluations. Methods We developed an individual-based model of SARS-CoV-2 transmission in households, schools, and the general community, calibrated to epidemiological estimates from complete contact tracing data collected in the province of Reggio Emilia, Italy, during March–April 2021 (a period characterized by the dominance of the Alpha variant and strict community restrictions). We quantified the impact of school-based mitigation measures, including distance-learning mandates, reactive class quarantines, and periodic screening. Results Unmitigated transmission in schools would increase the population-level SARS-CoV-2 reproduction number from 0.94 (95% confidence interval [CI]: 0.84–1.03) to 1.38 (95% CI: 1.29–1.47), substantially amplifying COVID-19 morbidity and mortality. Intensive contact tracing with reactive class quarantines would reduce disease burden but would be insufficient to prevent widespread epidemic growth. Weekly universal screening of students and teachers with highly specific rapid tests, on top of contact tracing and reactive class quarantines, could effectively reduce the spread of infections and maintain a high level of in-person education. Conclusions For highly transmissible severe respiratory infection with significant cryptic transmission, distance learning mandates may be necessary to protect vulnerable populations. However, weekly screening in schools may offer a viable strategy to preserve in-person education.</description>
     </item>
   </channel>
 </rss>
