@@ -5,8 +5,27 @@
     <link>https://www.nature.com/nataging/</link>
     <description>Latest journal articles for Nature Aging</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:54:40 +0000</lastBuildDate>
 
+    <item>
+      <title>Deep and quantitative proteomic profiling of low-volume mouse serum in a cross-sectional analysis of aging</title>
+      <link>https://doi.org/10.1038/s43587-026-01242-8</link>
+      <guid isPermaLink="false">10.1038/s43587-026-01242-8</guid>
+
+      <dc:creator>Amit K. Dey</dc:creator>
+      <dc:creator>Bradley Olinger</dc:creator>
+      <dc:creator>Mozhgan Boroumand</dc:creator>
+      <dc:creator>Maria Emilia Fernandez</dc:creator>
+      <dc:creator>Rafael de Cabo</dc:creator>
+      <dc:creator>Simonetta Camandola</dc:creator>
+      <dc:creator>Nathan L. Price</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Amit K. Dey, Bradley Olinger, Mozhgan Boroumand, Maria Emilia Fernandez, Rafael de Cabo, Simonetta Camandola, Nathan L. Price, et al.
+
+Journal: Nature Aging
+
+Abstract: Abstract Assessing and validating circulating biomarkers is essential for developing preclinical measures of biological aging in mice. However, comprehensive serum proteomics are limited by technical challenges and low sample volumes. Here we present a quantitative nanoparticle-based enrichment workflow coupled with data-independent acquisition mass spectrometry for deep proteomic profiling of low-volume mouse serum. This approach increased proteomic coverage by 3–6-fold with median coefficient of variation &amp;lt;10%. In 30 mice aged 12, 24 and 30 months, we uncovered 3,992 protein groups from 20 µl of serum and revealed age- and sex-specific changes, and capturing senescence-associated circulating proteins. With 1 µl additional serum,the proximity extension assay quantified 43 cytokines not detected by mass spectrometry. Comparison with plasma proteomics from the Baltimore Longitudinal Study of Aging identified conserved age-associated circulating proteins, several of which were linked to frailty in humans, notably COL6A3. These results establish a scalable approach for discovering aging biomarkers in sample-limited mouse studies with translational relevance to human health.</description>
+    </item>
     <item>
       <title>Oocyte-specific OMC1 is required for maintaining chromosome cohesion through reproductive life</title>
       <link>https://doi.org/10.1038/s43587-026-01245-5</link>
@@ -1571,19 +1590,6 @@ Abstract: Abstract Epigenetic changes, in particular DNA methylation, accumulate
 Journal: Nature Aging; Volume: 6; Issue: 7; Pages: 1516-1531
 
 Abstract: Abstract Despite the thousands of genes implicated in age-related phenotypes, effective interventions for aging remain elusive, due to the multifactorial nature of longevity and the interconnectedness of molecular components involved. Here we introduce a network medicine framework to map 2,358 longevity-associated genes onto the human interactome to identify drug-repurposing candidates capable of modulating specific hallmarks of aging. We find that genes associated with each hallmark form a connected subgraph, or hallmark module, allowing us to measure the network proximity of 6,442 compounds to each hallmark. We then introduce a transcription-based metric, pAGE, which evaluates whether drug-induced expression shifts reinforce or counteract known age-related expression changes within each hallmark module. By integrating network proximity and pAGE, we identify drug-repurposing candidates targeting specific hallmarks and provide a falsifiable framework to leverage genomic discoveries for accelerating drug repurposing in longevity. Our findings are interpretable, revealing molecular mechanisms through which drugs modulate hallmarks.</description>
-    </item>
-    <item>
-      <title>Hierarchical endpoints and win statistics for geromedicine trials</title>
-      <link>https://doi.org/10.1038/s43587-026-01158-3</link>
-      <guid isPermaLink="false">10.1038/s43587-026-01158-3</guid>
-
-      <dc:creator>Mahmoud Abdellatif</dc:creator>
-      <dc:creator>Yevgeniy Kim</dc:creator>
-      <dc:creator>Guido Kroemer</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mahmoud Abdellatif, Yevgeniy Kim, Guido Kroemer
-
-Journal: Nature Aging; Volume: 6; Issue: 7; Pages: 1366-1376</description>
     </item>
   </channel>
 </rss>
