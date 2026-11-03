@@ -5,8 +5,42 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:14:39 +0000</lastBuildDate>
 
+    <item>
+      <title>Prevention of mpox by JYNNEOS vaccination: a case-control study comparing test-negative and alternative-disease control populations</title>
+      <link>https://doi.org/10.1093/aje/kwag257</link>
+      <guid isPermaLink="false">10.1093/aje/kwag257</guid>
+
+      <dc:creator>Kayla Saadeh</dc:creator>
+      <dc:creator>Eric Tang</dc:creator>
+      <dc:creator>Kelly Johnson</dc:creator>
+      <dc:creator>Samuel Holland</dc:creator>
+      <dc:creator>Nicole Burghardt</dc:creator>
+      <dc:creator>Roshani Fernando</dc:creator>
+      <dc:creator>Kimberly Gonzalez Barrera</dc:creator>
+      <dc:creator>Cindy Hernandez</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kayla Saadeh, Eric Tang, Kelly Johnson, Samuel Holland, Nicole Burghardt, Roshani Fernando, Kimberly Gonzalez Barrera, Cindy Hernandez, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag257
+
+Abstract: Abstract Risk-based vaccine recommendations complicate observational studies of vaccine effectiveness (VE), since recipients and non-recipients may differ in infection risk and likelihood of testing. For JYNNEOS—recommended for men who have sex with men at high mpox risk—prior studies have used differing control populations to estimate VE, with uncertain comparability. We conducted a multi-armed case-control study enrolling mpox cases (N=198), monkeypox virus (MPXV)-negative controls (N=208), and gonorrhea controls (N=155) reported to the California Department of Public Health between November 2022 and October 2024, conducting telephone interviews to capture behavioral risk data typically absent from surveillance and administrative records. Among recipients of 2 pre-exposure JYNNEOS doses, adjusted VE was 89.9% (95% CI, 69.6–96.7%) versus test-negative controls and 92.0% (70.6–97.8%) versus gonorrhea controls. Without behavioral adjustment, however, VE estimates using MPXV-negative controls were lower (50.4–65.4%) than those using gonorrhea controls (61.3–71.3%). Controls diagnosed with an alternative sexually transmitted infection may offer a better comparison group than test-negative controls for JYNNEOS VE studies based on disease surveillance or administrative records, although collection of risk factor data may be necessary to mitigate bias under either design.</description>
+    </item>
+    <item>
+      <title>When negative control exposures fail to detect bias</title>
+      <link>https://doi.org/10.1093/aje/kwag282</link>
+      <guid isPermaLink="false">10.1093/aje/kwag282</guid>
+
+      <dc:creator>Daniel Nevo</dc:creator>
+      <dc:creator>Raanan Raz</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Daniel Nevo, Raanan Raz
+
+Journal: American Journal of Epidemiology; Article number: kwag282
+
+Abstract: Abstract Researchers increasingly utilize negative control exposures (NCEs), variables known to have no effect on the outcome, to detect residual confounding. However, an NCE analysis may provide little evidence of confounding despite substantial bias in the estimated exposure effect. We study, analytically and via simulations, how the magnitude and source of exposure-NCE association affect the large-sample NCE coefficient and statistical power of regression-based bias-detection. We show that the power does not always increase with bias, and that stronger confounder-exposure associations can increase bias while reducing the NCE coefficient and power. Furthermore, the correlation between the exposure of interest and the NCE is insufficient to characterize how well the NCE will detect confounding. Additional exposure-NCE common causes that affect the outcome only through the exposure can attenuate the NCE coefficient toward zero or reverse its sign, even when confounding bias remains unchanged. These changes can occur even when the overall exposure-NCE correlation is fixed. Adjusting for such common causes alleviated sign reversal in our simulations but did not uniformly improve power. Negative controls can be a powerful tool to detect unmeasured confounding. Researchers should consider the sources of exposure-NCE association and interpret null or counterintuitive NCE findings with caution.</description>
+    </item>
     <item>
       <title>Correction to: Caution in handling switchers in pharmacoepidemiologic studies estimating treatment effects: the example of dipeptidyl peptidase-4 inhibitors and inflammatory bowel disease</title>
       <link>https://doi.org/10.1093/aje/kwag268</link>
@@ -1578,37 +1612,6 @@ Abstract: Abstract Epidemiologists increasingly estimate associations between mi
       <description>Authors: Amit N Sawant, Mats J Stensrud
 
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2658-2659</description>
-    </item>
-    <item>
-      <title>Sustained fish intake and 21-year Alzheimer’s disease risk: a target trial emulation</title>
-      <link>https://doi.org/10.1093/aje/kwag140</link>
-      <guid isPermaLink="false">10.1093/aje/kwag140</guid>
-
-      <dc:creator>Yi Zhao</dc:creator>
-      <dc:creator>Paul F Jacques</dc:creator>
-      <dc:creator>Martin Lajous</dc:creator>
-      <dc:creator>Paola Sebastiani</dc:creator>
-      <dc:creator>José M Ordovás</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yi Zhao, Paul F Jacques, Martin Lajous, Paola Sebastiani, José M Ordovás
-
-Journal: American Journal of Epidemiology; Article number: kwag140
-
-Abstract: Abstract Increasing oily fish intake has been proposed as a strategy for Alzheimer’s disease (AD) prevention, but evidence for long-term benefit remains limited. Using observational data from 2012 cognitively healthy adults in the Framingham Heart Study Offspring cohort, we emulated a target trial of seven isocaloric fish intake strategies to estimate 21-year AD risk. We modeled repeated measures of diet and adjusted for pre-baseline diet, baseline covariates, and time-varying confounding using the parametric g-formula. The estimated 21-year AD risk ranged from 10.33% (95% confidence interval [CI]: 8.41%, 12.92%) under no fish intake to 9.98% (95% CI, 6.64%, 13.31%) under ≥ 3 servings/week. Risk ratios relative to no intervention were close to one and risk differences were close to zero across all strategies. Substituting fish for meat yielded similar results. We observed no clear long-term protective effect of sustained fish intake on AD risk, though exploratory analyses suggested a possible protective effect among older participants during earlier follow-up, warranting further investigation. This study illustrates the use of target trial emulation to estimate long-term dietary effects while accounting for time-varying confounding and competing risks in nutritional epidemiology.</description>
-    </item>
-    <item>
-      <title>The long half-life of neighborhood poverty: duration, timing, and biological aging</title>
-      <link>https://doi.org/10.1093/aje/kwag182</link>
-      <guid isPermaLink="false">10.1093/aje/kwag182</guid>
-
-      <dc:creator>Beza A Taddess</dc:creator>
-      <dc:creator>Adam M Lippert</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Beza A Taddess, Adam M Lippert
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2558-2561
-
-Abstract: Abstract Point-in-time measures of neighborhood poverty exposure suggest a link with physiological aging, but it remains unclear how histories and the timing of residential disadvantage connect to weathering. In this issue, D’Alessio et al. (Am J Epidemiol. 2026;kwag176) use 25 years of prospective residential data from the National Longitudinal Study of Adolescent to Adult Health (Add Health) to link neighborhood poverty across adolescence, early adulthood, and early midlife to three epigenetic clocks. They identify selective dose–response relationships. Each additional life stage in a high-poverty tract is associated with accelerated biological aging, and exposure is distributed with sharp racial inequality. The per-stage effect is modest in individual terms but consequential at population scale. Its unequal allocation makes residential segregation a plausible epigenetic mechanism of population-level racial disparities in aging. We argue that—despite its considerable strengths—the study leaves 2 questions unresolved. First, does health-selective residential mobility drive part of the association? Second, does the prominence of midlife exposure reflect a true sensitive period, or the fact that midlife poverty is measured in close proximity to biospecimen collection? We outline potential follow-up work that could address these questions via structured life-course methods and better-powered cohorts with tract-linked data, including Add Health.</description>
     </item>
   </channel>
 </rss>
