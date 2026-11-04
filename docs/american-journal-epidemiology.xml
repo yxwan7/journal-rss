@@ -5,8 +5,26 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 14:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:32:17 +0000</lastBuildDate>
 
+    <item>
+      <title>Estimating Marginal Effects on Survival Outcomes for Clinical Interpretations and Decision Making</title>
+      <link>https://doi.org/10.1093/aje/kwag283</link>
+      <guid isPermaLink="false">10.1093/aje/kwag283</guid>
+
+      <dc:creator>Shanshan Liu</dc:creator>
+      <dc:creator>Christina Yek</dc:creator>
+      <dc:creator>Mei-Cheng Wang</dc:creator>
+      <dc:creator>Bruce Swihart</dc:creator>
+      <dc:creator>Sameer Kadri</dc:creator>
+      <dc:creator>Guoqing Diao</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shanshan Liu, Christina Yek, Mei-Cheng Wang, Bruce Swihart, Sameer Kadri, Guoqing Diao
+
+Journal: American Journal of Epidemiology; Article number: kwag283
+
+Abstract: Abstract The Cox regression model is the most widely used method in survival analysis, but the hazard ratio has limited clinical interpretability. Survival or cumulative incidence curves are often used to illustrate treatment effects, yet there is no consensus on the most appropriate methods for generating these curves, particularly in the presence of confounding and competing risks. We reviewed original research articles published in a general medical journal in 2025, identified limitations in common practices, and describe a marginal effects framework to generate adjusted cumulative incidence curves that are coherent with the analysis model, anchored in absolute risk estimates, and adaptable to competing risks and clustered data. The framework targets the population-average difference in cumulative incidence between exposure groups, under the assumptions of no unmeasured confounding, positivity, and non-informative censoring. As a demonstration, we applied the framework to real-world data from Yek et al. (2025) and showed that it produced clinically interpretable estimates of hospital-acquired antimicrobial resistance risk that a single hazard ratio could not convey. To facilitate implementation, we describe each analytic step in detail, discuss available software, and share an R program with core routines written in C for computational efficiency.</description>
+    </item>
     <item>
       <title>Prevention of mpox by JYNNEOS vaccination: a case-control study comparing test-negative and alternative-disease control populations</title>
       <link>https://doi.org/10.1093/aje/kwag257</link>
@@ -835,6 +853,22 @@ Journal: American Journal of Epidemiology; Article number: kwag233
 Abstract: Abstract People who served in the US armed forces—former service members (FSMs)—may be at increased risk of deaths of despair: alcohol-related, drug-related, and suicide deaths. We linked 2014-2021 MA and 2014-2022 MN death certificates for decedents aged 18-64 years with military personnel files to describe deaths of despair in FSM and nonmilitary populations. We calculated age- and sex-standardized proportionate mortality ratios (PMR) for all FSMs and 3-year rolling average age-standardized mortality rates for FSMs with Active Duty experience. We mapped the geographic distribution of these deaths and describe patterns by service history. Of 176 719 decedents, 9.5% were FSMs. Former service members were more likely to die from a death of despair than nonmilitary populations (PMR [95% CI], MA: 111.9 [107.0-117.0], MN: 106.7 [101.4-112.2]), specifically suicide deaths (MA and MN) and drug-related deaths (MA). Mortality rates displayed similar trends. Former service members’ deaths of despair occurred a median of 20-30 years after military separation and were most common among those with Coast Guard, Marine, or Army service and Bad Conduct/Dishonorable or Uncharacterized separations. Former service members have higher burden of deaths of despair than nonmilitary populations with patterns that vary by service history, warranting further investigation into contributing military, individual, and community factors.</description>
     </item>
     <item>
+      <title>Does despair drive increases in white mortality, or did the narrative get ahead of the data?</title>
+      <link>https://doi.org/10.1093/aje/kwag235</link>
+      <guid isPermaLink="false">10.1093/aje/kwag235</guid>
+
+      <dc:creator>Luis Esteban Segura</dc:creator>
+      <dc:creator>Rodrigo Zepeda-Tello</dc:creator>
+      <dc:creator>Seth J Prins</dc:creator>
+      <dc:creator>Silvia S Martins</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Luis Esteban Segura, Rodrigo Zepeda-Tello, Seth J Prins, Silvia S Martins
+
+Journal: American Journal of Epidemiology; Article number: kwag235
+
+Abstract: Abstract The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.</description>
+    </item>
+    <item>
       <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
       <link>https://doi.org/10.1093/aje/kwag232</link>
       <guid isPermaLink="false">10.1093/aje/kwag232</guid>
@@ -850,22 +884,6 @@ Abstract: Abstract People who served in the US armed forces—former service mem
 Journal: American Journal of Epidemiology; Article number: kwag232
 
 Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
-    </item>
-    <item>
-      <title>Does despair drive increases in white mortality, or did the narrative get ahead of the data?</title>
-      <link>https://doi.org/10.1093/aje/kwag235</link>
-      <guid isPermaLink="false">10.1093/aje/kwag235</guid>
-
-      <dc:creator>Luis Esteban Segura</dc:creator>
-      <dc:creator>Rodrigo Zepeda-Tello</dc:creator>
-      <dc:creator>Seth J Prins</dc:creator>
-      <dc:creator>Silvia S Martins</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Luis Esteban Segura, Rodrigo Zepeda-Tello, Seth J Prins, Silvia S Martins
-
-Journal: American Journal of Epidemiology; Article number: kwag235
-
-Abstract: Abstract The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.</description>
     </item>
     <item>
       <title>Rationale and design of the Atherosclerosis Risk in Communities Generation 2 study</title>
@@ -1598,20 +1616,6 @@ Abstract: Abstract Estimating transmission potential and risk factors for emergi
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2585-2591
 
 Abstract: Abstract Epidemiologists increasingly estimate associations between mixtures of correlated coexposures and health outcomes. We propose an exploratory approach to help differentiate coexposure confounding from coexposure amplification of bias (CAB) for studies considering correlated coexposures using a case example and simulations based on observed relationships. Our example uses associations observed in published studies between co-occurring per- and polyfluoroalkyl substance (PFAS) biomarkers and tetanus antibody concentrations but could apply to any context where statistical modeling is performed with and without inclusion of correlated coexposures. Using directed acyclic graphs (DAGs), to define an assumed causal structure, and simulations of 3 PFAS predicting antibody titers, we show that if researchers can assume 1 component in the exposure mixture is correlated with the other components, but does not cause the outcome, then CAB can be detected by testing whether the estimate for the noncausal component in a multipollutant model is different from zero. In our simulation, the estimate for the noncausal component was zero (95% CI, −0.22, 0.25) when CAB was absent and −0.25 (95% CI, −0.48, 0.00) when present. These results illustrate a possible method to identify CAB and select statistical models that may produce less biased effect estimates if our assumed DAG is correct.</description>
-    </item>
-    <item>
-      <title>Response to “
-                    &lt;i&gt;Secundum cavere, tertium sanare&lt;/i&gt;
-                    in counterfactual decision-making”</title>
-      <link>https://doi.org/10.1093/aje/kwag184</link>
-      <guid isPermaLink="false">10.1093/aje/kwag184</guid>
-
-      <dc:creator>Amit N Sawant</dc:creator>
-      <dc:creator>Mats J Stensrud</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Amit N Sawant, Mats J Stensrud
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2658-2659</description>
     </item>
   </channel>
 </rss>
