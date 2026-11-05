@@ -5,7 +5,7 @@
     <link>https://jamanetwork.com/journals/jamaoncology</link>
     <description>Latest journal articles for JAMA Oncology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:40:49 +0000</lastBuildDate>
 
     <item>
       <title>FGFR Alterations in Bladder Cancer—From Molecular Pathogenesis to Precision Oncology</title>
@@ -453,17 +453,6 @@ Abstract: This Viewpoint discusses the strong connection between quality improve
 Journal: JAMA Oncology</description>
     </item>
     <item>
-      <title>Adult T-Cell Leukemia/Lymphoma and Maternal Screening</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.3310</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.3310</guid>
-
-      <dc:creator>Yue Chang</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yue Chang
-
-Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1161</description>
-    </item>
-    <item>
       <title>Mathematical Biomarkers of Adaptive Therapy Outcomes in Prostate Cancer</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.2781</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2026.2781</guid>
@@ -480,6 +469,17 @@ Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1161</description>
 Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1079
 
 Abstract: Importance Adaptive therapy is an evolution-based treatment paradigm that has been shown to delay resistance in prostate cancer through treatment breaks that control, rather than minimize, tumor burden. However, patient responses are highly heterogeneous, and there is a significant unmet clinical need for biomarkers to personalize treatment scheduling. Objective To develop and retrospectively validate mathematical biomarkers that predict time to progression (TTP), mean daily dose, and overall survival (OS) under adaptive therapy from first-cycle prostate-specific antigen (PSA) dynamics. Design, Setting, and Participants This retrospective modeling and validation study used longitudinal, nonrandomized clinical trial data from 2 independent cohorts: 40 patients with castrate-sensitive prostate cancer (CSPC) (June 1996 to September 2006) and 13 patients with metastatic castrate-resistant prostate cancer (mCRPC) (April 2015 to January 2022). A 2-population differential equation model was used to describe the overall tumor growth through the competing dynamics of drug-sensitive and drug-resistant cells. The statistical analysis was conducted from January 2025 to May 2026. Exposures Patients received either intermittent androgen deprivation therapy (for CSPC) or adaptive abiraterone acetate (for mCRPC). The initial treatment cycle served as the exposure period to extract longitudinal PSA kinetics. Main Outcomes and Measures Mechanism-based mathematical biomarkers (adaptive therapy score, expected TTP, and expected mean daily dose) were derived from first-cycle PSA kinetics. Outcomes included in silico benchmarking experiments and retrospective validation against clinical TTP and OS. Performance was benchmarked against standard phenomenological PSA metrics (eg, PSA nadir, time to nadir, and doubling time). Results Overall, data from 53 patients across 2 clinical trials were included. In the CSPC cohort of 40 patients, the adaptive therapy score derived from first-cycle data was highly prognostic for prolonged clinical TTP (univariable hazard ratio [HR], 0.49; 95% CI, 0.31-0.76; P = .002). In the mCRPC cohort of 13 patients, the adaptive therapy score exhibited a strong rank correlation with clinical TTP (Spearman ρ = 0.76; P = .002) and was associated with prolonged TTP (HR, 0.41; 95% CI, 0.16-1.07; P = .07). Analysis of long-term survival data in the mCRPC cohort demonstrated that both the adaptive therapy score and expected TTP were significantly associated with prolonged OS, whereas standard empirical PSA metrics displayed no association with OS. Conclusions and Relevance In this modeling and validation study, mechanism-based mathematical biomarkers derived from the initial-cycle PSA dynamics accurately predicted patient-specific outcomes and survival, outperforming traditional phenomenological PSA monitoring. These accessible metrics could act as a mathematically informed decision support framework to stratify patients into personalized treatment protocols.</description>
+    </item>
+    <item>
+      <title>Adult T-Cell Leukemia/Lymphoma and Maternal Screening</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.3310</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.3310</guid>
+
+      <dc:creator>Yue Chang</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Yue Chang
+
+Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1161</description>
     </item>
     <item>
       <title>Federal and Industry Sponsorship in US Cancer Clinical Trials</title>
@@ -585,6 +585,17 @@ Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1160</description>
 Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1096</description>
     </item>
     <item>
+      <title>Actionable Signals in Pancreatic Cancer Risk Scores</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.3802</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.3802</guid>
+
+      <dc:creator>Xiaojuan Wu</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Xiaojuan Wu
+
+Journal: JAMA Oncology</description>
+    </item>
+    <item>
       <title>Systemic Therapy Considerations in Older Adults With Early-Stage Breast Cancer</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.3121</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2026.3121</guid>
@@ -603,17 +614,6 @@ Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1096</description>
 Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1145
 
 Abstract: Importance The treatment of older adults with chemotherapy for early-stage breast cancer involves a complex decision-making process that weighs the competing risks of disease recurrence against the potential harms of treatment. While older adults continue to be underrepresented in therapeutic clinical trials, there is a growing body of evidence to support optimal management of each subtype of early-stage breast cancer, including novel strategies like adjuvant cyclin-dependent kinase 4/6 inhibitors in hormone receptor–positive disease, and the neoadjuvant use of pembrolizumab in triple-negative breast cancer. Observations The available evidence to support the systemic management of early-stage breast cancer in older adults with consideration of the data gaps for cytotoxic chemotherapy, de-escalated regimens, and targeted therapies is reviewed, and tools to optimize decision-making and supportive care for older adults with early breast cancer are presented. Clinicians should aim to avoid overtreatment when available evidence suggests a less intensive approach may suffice for a lower-risk cancer, and/or the patient is at high risk of serious toxic effects from chemotherapy treatment. On the other hand, undertreatment without consideration of the potential downsides may increase breast cancer–related mortality in older patients with higher-risk cancers. Conclusions and Relevance This review will help clinicians best use the available data and decision-making tools to support best practice for treating older adults with early-stage breast cancer and will highlight ongoing clinical trials aimed at optimizing medical care for this patient population.</description>
-    </item>
-    <item>
-      <title>Actionable Signals in Pancreatic Cancer Risk Scores</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.3802</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.3802</guid>
-
-      <dc:creator>Xiaojuan Wu</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Xiaojuan Wu
-
-Journal: JAMA Oncology</description>
     </item>
     <item>
       <title>Cancer Biologics Utilization After Biosimilar Entry and Financial Implications For Payers and Patients</title>
@@ -1358,18 +1358,6 @@ Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 940
 Abstract: Importance Hepatocellular carcinoma (HCC) surveillance in patients with cirrhosis remains suboptimal, with inadequate early-stage detection. α-Fetoprotein (AFP) demonstrates insufficient sensitivity. Circulating methylated septin 9 ( SEPT9 ) has shown diagnostic promise. Objective To determine whether methylated SEPT9 improves detection of HCC when combined with AFP in patients with cirrhosis undergoing surveillance. Design, Setting, and Participants In this prospective, cross-sectional, diagnostic accuracy study, patients with cirrhosis undergoing routine HCC surveillance with ultrasonography and AFP were enrolled at 2 French academic centers from February 2018 through October 2024. HCC was diagnosed per international guidelines with centralized radiologic review, blinded to methylated SEPT9 results. Data were analyzed from October 2025 to January 2026. Exposures Plasma methylated SEPT9 was analyzed from 3 independent plasma aliquots and classified by number of positive replicates (single-positive, double-positive, or triple-positive). Serum AFP was evaluated at a threshold of 20 ng/mL. Biomarkers were evaluated individually and in combination using disjunction logic (tier 1; maximizing sensitivity) or conjunction logic (tier 2; maximizing specificity). Main Outcomes and Measures The primary outcome was the presence of HCC at enrollment. The primary end point was comparison of the area under the receiver operating characteristic curve (AUROC) between methylated SEPT9 and AFP. Secondary end points included diagnostic performance stratified by Barcelona Clinic Liver Cancer (BCLC) stage. Results Among 574 participants, 414 (72.1%) were male, and the median (IQR) age was 63 (57-70) years. A total of 118 had HCC, including 51 (43.2%) with BCLC stage 0-A. Methylated SEPT9 outperformed AFP (AUROC: 0.79 [95% CI, 0.74-0.84] vs 0.71 [95% CI, 0.66-0.76], respectively; P = .002; posterior probability of superiority &amp;amp;amp;gt;99.8%). Tier 1a (at least single-positive methylated SEPT9 or AFP &amp;amp;amp;gt;20 ng/mL) achieved 87.8% (95% CI, 81.6-93.5) sensitivity and a negative likelihood ratio of 0.2 (95% CI, 0.1-0.3). Among 64 HCC cases missed by AFP, tier 1a recovered 50 (78%). For BCLC 0-A disease, tier 1a sensitivity was 74.5% (95% CI, 62.2-86.5) vs 23.5% (95% CI, 12.5-35.8) for AFP, 3.2-fold increase. Tier 2 (triple-positive methylated SEPT9 and AFP &amp;amp;amp;gt;20 ng/mL) achieved 99.6% (95% CI, 98.9-100) specificity, a positive likelihood ratio of 76.0 (95% CI, 26.9-181.0), and a diagnostic odds ratio of 112.1 (95% CI, 37.8-294.7). Conclusions and Relevance In this diagnostic study, combining methylated SEPT9 with AFP substantially improved HCC detection in patients with cirrhosis, particularly for early-stage disease amenable to curative treatment. Prospective studies are needed to determine whether improved detection translates into survival benefit.</description>
     </item>
     <item>
-      <title>Refining Combination Locoregional Therapy for Intermediate-Stage Hepatocellular Carcinoma—Lessons From the TORCH Trial</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.1884</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.1884</guid>
-
-      <dc:creator>Cynthia Yeung</dc:creator>
-      <dc:creator>Howard Lim</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Cynthia Yeung, Howard Lim
-
-Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 927</description>
-    </item>
-    <item>
       <title>Generalized Purpuric Papules and Nodules in a Man</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.2379</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2026.2379</guid>
@@ -1383,6 +1371,18 @@ Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 927</description>
 Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 1027
 
 Abstract: A 56-year-old man had a 10-year history of recurrent, generalized violaceous papules and firm nodules. What is your diagnosis?</description>
+    </item>
+    <item>
+      <title>Refining Combination Locoregional Therapy for Intermediate-Stage Hepatocellular Carcinoma—Lessons From the TORCH Trial</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.1884</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.1884</guid>
+
+      <dc:creator>Cynthia Yeung</dc:creator>
+      <dc:creator>Howard Lim</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Cynthia Yeung, Howard Lim
+
+Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 927</description>
     </item>
     <item>
       <title>Survival Language</title>

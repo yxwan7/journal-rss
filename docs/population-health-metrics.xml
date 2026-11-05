@@ -5,8 +5,23 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:40:08 +0000</lastBuildDate>
 
+    <item>
+      <title>Interpreting the model: a systematic review of health outcomes and risk metrics in temperature–health research</title>
+      <link>https://doi.org/10.1186/s12963-026-00525-x</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00525-x</guid>
+
+      <dc:creator>Domenico D’ausilio</dc:creator>
+      <dc:creator>Marta Ellena</dc:creator>
+      <dc:creator>Alfredo Reder</dc:creator>
+      <dc:creator>Alessandro Pugliese</dc:creator>
+      <dc:creator>Paola Mercogliano</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Domenico D’ausilio, Marta Ellena, Alfredo Reder, Alessandro Pugliese, Paola Mercogliano
+
+Journal: Population Health Metrics</description>
+    </item>
     <item>
       <title>Independent and joint associations of loneliness and household fuel use with cognitive function and functional dependency among middle-aged and older Chinese adults: a cross-sectional study using CHARLS 2015</title>
       <link>https://doi.org/10.1186/s12963-026-00516-y</link>
@@ -1596,21 +1611,6 @@ Abstract: Abstract Background Household overcrowding is a public health concern 
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 59
 
 Abstract: Abstract Background Despite contemporaneous declines in neonatal mortality, recent studies show the existence of left-behind populations that continue to have higher mortality rates than the national averages. Additionally, many of these deaths are from preventable causes. This reality creates the need for more precise methods to identify high-risk births, allowing policymakers to target them more effectively. This study fills this gap by developing unbiased machine-learning approaches to more accurately identify births with a high risk of neonatal deaths from preventable causes. Methods We link administrative databases from the Brazilian health ministry to obtain birth and death records in the country from 2015 to 2017. The final dataset comprises 8,797,968 births, of which 59,615 newborns died before reaching 28 days alive (neonatal deaths). These neonatal deaths are categorized into preventable deaths (42,290) and non-preventable deaths (17,325). Our analysis identifies the death risk of the former group, as they are amenable to policy interventions. We train six machine-learning algorithms, test their performance on unseen data, and evaluate them using a new policy-oriented metric. To avoid biased policy recommendations, we also investigate how our approach impacts disadvantaged populations. Results XGBoost was the best-performing algorithm for our task, with the 5% of births identified as highest risk by the model accounting for over 85% of the observed deaths. Furthermore, the risk predictions exhibit no statistical differences in the proportion of actual preventable deaths from disadvantaged populations, defined by race, education, marital status, and maternal age. These results are similar for other threshold levels. Conclusions We show that, by using publicly available administrative data sets and ML methods, it is possible to identify the births with the highest risk of preventable deaths with a high degree of accuracy. This is useful for policymakers as they can target health interventions to those who need them the most and where they can be effective without producing bias against disadvantaged populations. Overall, our approach can guide policymakers in reducing neonatal mortality rates and their health inequalities. Finally, it can be adapted for use in other developing countries.</description>
-    </item>
-    <item>
-      <title>Analysis of multimorbidity compression using a latent variable in a mixed mixture model</title>
-      <link>https://doi.org/10.1186/s12963-025-00421-w</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00421-w</guid>
-
-      <dc:creator>Angela Andreella</dc:creator>
-      <dc:creator>Lorenzo Monasta</dc:creator>
-      <dc:creator>Stefano Campostrini</dc:creator>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Angela Andreella, Lorenzo Monasta, Stefano Campostrini
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 58
-
-Abstract: Abstract Background Multimorbidity, i.e., the co-presence of multiple diseases in an individual, is an increasing concern, particularly as the population ages. Addressing it is critical to improving health status and optimizing healthcare resources. Particularly relevant in this scenario is the concept of multimorbidity compression, i.e., the onset of chronic diseases is delayed more rapidly than the increase in life expectancy. According to this theory, the duration individuals spend in poor health should be shortened. Existing studies have started examining multimorbidity trends, yet often overlook the cumulative burden of multiple diseases. Methods We define the multimorbidity concept as a latent variable estimated with the disease burden described by the disability weights from the Global Burden of Diseases (GBD) project. Using a mixed-mixture model, we analyze the nonlinear relationship between multimorbidity and socioeconomic traits, accounting for zero inflation and spatial variability in Italy. We use twelve years of the surveillance system PASSI data to investigate the multimorbidity compression concept. Results Our findings suggest multimorbidity compression is acting in Italy: severe multimorbidities are increasingly concentrated later in life, indicating a positive impact of healthcare improvements on the quality of life. The phenomenon is observed in both socially advantaged and disadvantaged subpopulations.</description>
     </item>
   </channel>
 </rss>

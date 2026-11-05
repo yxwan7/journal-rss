@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:39:34 +0000</lastBuildDate>
 
     <item>
       <title>How comparable are bird and human sounds?</title>
@@ -954,6 +954,20 @@ Journal: Science; Volume: 394; Issue: 6822; Pages: 429-433
 Abstract: Bound states in the continuum (BICs) are quantum states that remain localized despite lying within a continuum of extended, delocalized states. Whereas optical BICs have been realized in photonic systems, achieving electronic bound states embedded in a metallic background remains an ongoing challenge. In this study, we used scanning tunneling microscopy to identify two defect-induced electronic states that remain localized within the metallic continuum of Pd 5 AlI 2 , a two-dimensional van der Waals metal. Our calculations suggest that electron-hopping interference on the decorated checkerboard lattice of Pd 5 AlI 2 gives rise to a (quasi) flat band built from spatially localized eigenstates that are orthogonal to the dispersive continuum. Atomic defects within this frustrated lattice shift the associated flat-band localized states into the metallic continuum, forming robust, symmetry-protected BICs.</description>
     </item>
     <item>
+      <title>Ultrarapid decision-making in an avian brain</title>
+      <link>https://doi.org/10.1126/science.aed6459</link>
+      <guid isPermaLink="false">10.1126/science.aed6459</guid>
+
+      <dc:creator>Philipp Schmidbauer</dc:creator>
+      <dc:creator>Andreas Nieder</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Philipp Schmidbauer, Andreas Nieder
+
+Journal: Science; Volume: 394; Issue: 6822; Pages: 445-449
+
+Abstract: Perceptual decision-making is well studied in mammals, but its operation in other vertebrates remains unclear. We show that carrion crows ( Corvus corone ) make deliberate decisions in a classic visual motion discrimination task with unprecedented speed, reporting choices in approximately 235 milliseconds on average, which is roughly twice as fast as has been observed in monkeys or humans and without sacrificing accuracy. Recordings from the pallial endbrain reveal that direction-selective neurons encode the upcoming choice as early as about 70 milliseconds after stimulus onset and about 170 milliseconds before the response, with ramping activity scaling with sensory evidence and converging at response onset. These findings highlight the extraordinary efficiency of avian decision-making circuitry, possibly shaped by evolutionary pressures for rapid visuomotor control.</description>
+    </item>
+    <item>
       <title>Sequential diagnosis with language models</title>
       <link>https://doi.org/10.1126/science.aeh7930</link>
       <guid isPermaLink="false">10.1126/science.aeh7930</guid>
@@ -972,20 +986,6 @@ Abstract: Bound states in the continuum (BICs) are quantum states that remain lo
 Journal: Science; Volume: 394; Issue: 6822; Pages: 423-428
 
 Abstract: We explored the capabilities of frontier language models in sequential diagnosis, a diagnostic paradigm that captures the iterative nature of clinical reasoning. Given a brief clinical presentation, clinicians selectively acquired information to reach a diagnosis, enabling assessment of diagnostic accuracy and workup cost. We developed an interactive benchmark and an artificial intelligence (AI) system that simulates a panel of physicians, continually revising the differential diagnosis and selecting cost-effective tests. Using this benchmark, the system achieved 83.2% accuracy on New England Journal of Medicine clinicopathological conference cases and 80.3% on MIMIC-IV-ED emergency department admissions, outperforming generalist physicians (36.1 and 46.8%, respectively). Although these findings were obtained in a controlled benchmark setting, they highlight the promise of language models for supporting more accurate, lower-cost diagnoses.</description>
-    </item>
-    <item>
-      <title>Ultrarapid decision-making in an avian brain</title>
-      <link>https://doi.org/10.1126/science.aed6459</link>
-      <guid isPermaLink="false">10.1126/science.aed6459</guid>
-
-      <dc:creator>Philipp Schmidbauer</dc:creator>
-      <dc:creator>Andreas Nieder</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Philipp Schmidbauer, Andreas Nieder
-
-Journal: Science; Volume: 394; Issue: 6822; Pages: 445-449
-
-Abstract: Perceptual decision-making is well studied in mammals, but its operation in other vertebrates remains unclear. We show that carrion crows ( Corvus corone ) make deliberate decisions in a classic visual motion discrimination task with unprecedented speed, reporting choices in approximately 235 milliseconds on average, which is roughly twice as fast as has been observed in monkeys or humans and without sacrificing accuracy. Recordings from the pallial endbrain reveal that direction-selective neurons encode the upcoming choice as early as about 70 milliseconds after stimulus onset and about 170 milliseconds before the response, with ramping activity scaling with sensory evidence and converging at response onset. These findings highlight the extraordinary efficiency of avian decision-making circuitry, possibly shaped by evolutionary pressures for rapid visuomotor control.</description>
     </item>
     <item>
       <title>Natural product biosynthesis by guanidine prenyltransferases in plants and bacteria</title>
@@ -1206,25 +1206,6 @@ Journal: Science; Volume: 394; Issue: 6822; Pages: 450-454
 Abstract: Two-dimensional moiré materials provide a versatile platform to explore phase transitions in strongly correlated systems. Using scanning tunneling microscopy, we imaged the density-driven melting of generalized Wigner crystals (GWCs) and Mott insulators (MIs) in electron-doped, near-60°–twisted molybdenum diselenide bilayers featuring a triangular moiré superlattice. We observed notable electron-hole asymmetry in GWC melting: Hole-doped GWCs yielded interaction-driven disordered states, whereas electron-doped GWCs melted into delocalized liquid-like states. This asymmetry arose from the broken particle-hole symmetry of the moiré superlattice, which produced electron and hole Fermi pockets with different momentum geometries upon GWC condensation. MI states melted without such asymmetry, consistent with the absence of a symmetry-breaking density modulation. This work provides direct visualization of the emergent phases that appear as GWCs undergo quantum melting transitions.</description>
     </item>
     <item>
-      <title>Visualizing symmetry-broken Chern insulators and their quantum melting</title>
-      <link>https://doi.org/10.1126/science.aef0940</link>
-      <guid isPermaLink="false">10.1126/science.aef0940</guid>
-
-      <dc:creator>Minhao He</dc:creator>
-      <dc:creator>Yen-Chen Tsui</dc:creator>
-      <dc:creator>Ran Peng</dc:creator>
-      <dc:creator>Kenji Watanabe</dc:creator>
-      <dc:creator>Takashi Taniguchi</dc:creator>
-      <dc:creator>Oskar Vafek</dc:creator>
-      <dc:creator>Ali Yazdani</dc:creator>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Minhao He, Yen-Chen Tsui, Ran Peng, Kenji Watanabe, Takashi Taniguchi, Oskar Vafek, Ali Yazdani
-
-Journal: Science; Volume: 394; Issue: 6822; Pages: 440-444
-
-Abstract: In the presence of a magnetic field, electronic states of moiré quantum materials develop a Hofstadter spectrum that provides a distinctive setting for studying the interplay between band topology and strong electron-electron interaction. Using scanning tunneling microscopy, we studied Hofstadter’s states in bilayer graphene aligned with hexagonal boron nitride and directly visualized the formation of interaction-driven symmetry breaking Chern insulators. Our measurements revealed the formation of phases that double, triple, or quadruple the moiré unit cell at fractional filling of the Hofstadter bands as well as states with complex intra–unit cell wave functions. We visualized two distinct quantum phenomena in different Chern states, including quantum melting driven by the appearance and proliferation of topological defects and a quantum transition co-occurring with phase competition and separation.</description>
-    </item>
-    <item>
       <title>The microscope and the metaphor</title>
       <link>https://doi.org/10.1126/science.aej4196</link>
       <guid isPermaLink="false">10.1126/science.aej4196</guid>
@@ -1257,6 +1238,25 @@ Abstract: Science shows us what to do to save the planet—poetry helps us under
 Journal: Science; Volume: 394; Issue: 6822; Article number: eaea2181
 
 Abstract: The apoptotic regulators BAX and BAK, once activated, form homo-oligomers to trigger mitochondrial outer membrane permeabilization (MOMP), activating the apoptosome and caspases. Activation of BAX-BAK without apoptosome activation triggers sustained efflux of mitochondrial DNA (mtDNA) and caspase-independent cell death. However, the molecular basis of mtDNA efflux remains unclear. We purified a macromolecular complex comprising BAK, BAX, activator BH3-only molecules, voltage-dependent anion channels 1 and 2 (VDAC1 and VDAC2), and prohibitins that released mtDNA from mitoplasts. BAX-BAK activation resulted in VDAC closure, mitochondrial calcium influx, and mtDNA efflux. Loss of VDAC1, VDAC2, or prohibitins prevented BAX-BAK activation–induced mtDNA efflux and caspase-independent cell death without affecting MOMP or mitochondrial inner membrane herniation. These findings support differential regulation of cytochrome c and mtDNA efflux by distinct BAX-BAK complexes.</description>
+    </item>
+    <item>
+      <title>Visualizing symmetry-broken Chern insulators and their quantum melting</title>
+      <link>https://doi.org/10.1126/science.aef0940</link>
+      <guid isPermaLink="false">10.1126/science.aef0940</guid>
+
+      <dc:creator>Minhao He</dc:creator>
+      <dc:creator>Yen-Chen Tsui</dc:creator>
+      <dc:creator>Ran Peng</dc:creator>
+      <dc:creator>Kenji Watanabe</dc:creator>
+      <dc:creator>Takashi Taniguchi</dc:creator>
+      <dc:creator>Oskar Vafek</dc:creator>
+      <dc:creator>Ali Yazdani</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Minhao He, Yen-Chen Tsui, Ran Peng, Kenji Watanabe, Takashi Taniguchi, Oskar Vafek, Ali Yazdani
+
+Journal: Science; Volume: 394; Issue: 6822; Pages: 440-444
+
+Abstract: In the presence of a magnetic field, electronic states of moiré quantum materials develop a Hofstadter spectrum that provides a distinctive setting for studying the interplay between band topology and strong electron-electron interaction. Using scanning tunneling microscopy, we studied Hofstadter’s states in bilayer graphene aligned with hexagonal boron nitride and directly visualized the formation of interaction-driven symmetry breaking Chern insulators. Our measurements revealed the formation of phases that double, triple, or quadruple the moiré unit cell at fractional filling of the Hofstadter bands as well as states with complex intra–unit cell wave functions. We visualized two distinct quantum phenomena in different Chern states, including quantum melting driven by the appearance and proliferation of topological defects and a quantum transition co-occurring with phase competition and separation.</description>
     </item>
     <item>
       <title>Late Holocene reexpansion of the Laurentide Ice Sheet</title>
