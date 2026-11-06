@@ -5,8 +5,81 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:16:56 +0000</lastBuildDate>
 
+    <item>
+      <title>Assessing mediation of sexual orientation disparities in miscarriage by age at pregnancy, gravidity, and use of medically assisted reproduction in four national cohorts</title>
+      <link>https://doi.org/10.1093/aje/kwag290</link>
+      <guid isPermaLink="false">10.1093/aje/kwag290</guid>
+
+      <dc:creator>Payal Chakraborty</dc:creator>
+      <dc:creator>Colleen A Reynolds</dc:creator>
+      <dc:creator>Isa Berzansky</dc:creator>
+      <dc:creator>Jorge E Chavarro</dc:creator>
+      <dc:creator>Juno Obedin-Maliver</dc:creator>
+      <dc:creator>Bethany Everett</dc:creator>
+      <dc:creator>Sebastien Haneuse</dc:creator>
+      <dc:creator>Brittany M Charlton</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Payal Chakraborty, Colleen A Reynolds, Isa Berzansky, Jorge E Chavarro, Juno Obedin-Maliver, Bethany Everett, Sebastien Haneuse, Brittany M Charlton
+
+Journal: American Journal of Epidemiology; Article number: kwag290
+
+Abstract: Abstract Recent research has documented a higher miscarriage risk among sexual minority individuals than heterosexual individuals. These disparities may be partly mediated by age at pregnancy, gravidity, and use of medically assisted reproduction (MAR). We used data from four cohorts (Nurses’ Health Study 2 and 3, Growing Up Today Study, and National Longitudinal Study of Adolescent to Adult Health) to estimate randomized interventional analogues of mediational direct and indirect effects of sexual orientation on miscarriage (pure natural direct effects [rPNDE], total natural indirect effects [rTNIE], and proportions mediated [rPM]). We found that pregnancies to sexual minority individuals were more likely to end in a miscarriage than those to heterosexual individuals. We found weak mediation of this effect by age (rPNDE: 1.23, 95% confidence interval [CI]: 1.15–1.32; rTNIE: 1.02, 95% CI: 1.01–1.03; rPM: 12%, 95% CI: 5%–19%), but not gravidity (rPM: 2%, 95% CI: -1%–6%) and MAR use (rPM: -1%, 95% CI: -4%–3%). While these factors impact miscarriage risk, our findings suggest that sexual orientation disparities in miscarriage are only minimally explained by age, and not explained by gravidity and use of MAR, contributing to the understanding of the role of pregnancy-related factors vs. structural factors in sexual orientation disparities in miscarriage.</description>
+    </item>
+    <item>
+      <title>A recipe for population-based doubly robust estimation via weighting, regression, calibration, and standardization</title>
+      <link>https://doi.org/10.1093/aje/kwag284</link>
+      <guid isPermaLink="false">10.1093/aje/kwag284</guid>
+
+      <dc:creator>Patrick M Schnell</dc:creator>
+      <dc:creator>Arvid Sjölander</dc:creator>
+      <dc:creator>Eben Kenah</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Patrick M Schnell, Arvid Sjölander, Eben Kenah
+
+Journal: American Journal of Epidemiology; Article number: kwag284
+
+Abstract: Abstract A large class of doubly robust estimators can be viewed as regression standardization augmented by a bias correction based on inverse probability of treatment weights. These estimators are often justified as solutions to augmented inverse probability weighted (AIPW) estimating equations. When regression standardization is based on a canonical-link generalized linear model fit via maximum likelihood estimation to an inverse probability of treatment weighted sample (IPTW-GLM), double robustness holds without any explicit bias correction. These estimators have usually targeted causal effects within a population represented by the study sample. Here, we present a unification and extension of these doubly robust estimators in terms of constructing a weighted pseudosample that represents a flexible target population with randomized exposures. This allows the bias correction to be understood and operationalized as calibrating the outcome model to match the group means within the balanced pseudosample, illuminating the connection between IPTW-GLM and other AIPW estimators. It also allows the straightforward construction of estimators that are doubly robust for target populations other than the study sample, which is useful when data come from studies where enrollment depends on exposure (e.g., observational cohort studies).</description>
+    </item>
+    <item>
+      <title>Identification and dating of pregnancies in administrative healthcare claims databases: An updated, transparent, and transportable algorithm</title>
+      <link>https://doi.org/10.1093/aje/kwag287</link>
+      <guid isPermaLink="false">10.1093/aje/kwag287</guid>
+
+      <dc:creator>Rupa Makadia</dc:creator>
+      <dc:creator>Erica A Voss</dc:creator>
+      <dc:creator>Joel Swerdel</dc:creator>
+      <dc:creator>Jill Hardin</dc:creator>
+      <dc:creator>Amir Sarayani</dc:creator>
+      <dc:creator>Alexis A Krumme</dc:creator>
+      <dc:creator>Kourtney J Davis</dc:creator>
+      <dc:creator>Patrick Ryan</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Rupa Makadia, Erica A Voss, Joel Swerdel, Jill Hardin, Amir Sarayani, Alexis A Krumme, Kourtney J Davis, Patrick Ryan, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag287
+
+Abstract: Abstract Studies using routinely collected healthcare data are essential for understanding the benefit–risk profile of medications in pregnancy. However, reproducibility is limited by the lack of shared pregnancy identification algorithms, and generalizability is constrained by their development primarily in commercial insurance databases. A previously developed pregnancy identification algorithm was updated for ICD-10-CM and translated into a standardized format to support transport across diverse databases. Algorithm implementation characteristics were evaluated in three US health insurance claims databases (2000-2025), including commercially and publicly insured populations. Overall, 5.8 million and 3.0 million pregnancies were identified in two commercial databases (Merative™ and Optum) and 2.3 million pregnancies in Merative™ MarketScan® Multi-State Medicaid Database (MDCD). Across databases, live birth prevalence ranged from 76–83%, miscarriage/abortion 15–23%, ectopic pregnancy 1%, and stillbirth ≤0.5%, with a higher proportion of live births in MDCD. Pregnancy dating methods varied substantially across coding eras: use of gestational age records increased from 4-9% in the ICD-9-CM era to 87–92% during the ICD-10-CM era, with greater use in MDCD. Using a standardized algorithm, this study demonstrates how database characteristics and coding transitions influence pregnancy identification and dating in healthcare data, highlighting methodological considerations for reproducible pregnancy research across data sources.</description>
+    </item>
+    <item>
+      <title>Neighborhood deprivation and the risk of stillbirth in New York</title>
+      <link>https://doi.org/10.1093/aje/kwag288</link>
+      <guid isPermaLink="false">10.1093/aje/kwag288</guid>
+
+      <dc:creator>Eva M Williford</dc:creator>
+      <dc:creator>Heater Aydin-Ghormoz</dc:creator>
+      <dc:creator>Sarah C Fisher</dc:creator>
+      <dc:creator>Eleni A Papadopoulos</dc:creator>
+      <dc:creator>Melissa Tracy</dc:creator>
+      <dc:creator>Meredith M Howley</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Eva M Williford, Heater Aydin-Ghormoz, Sarah C Fisher, Eleni A Papadopoulos, Melissa Tracy, Meredith M Howley
+
+Journal: American Journal of Epidemiology; Article number: kwag288
+
+Abstract: Abstract Stillbirth (fetal death ≥ 20 weeks gestation) occurs in approximately 21,000 births each year in the United States. Previous studies have observed associations between neighborhood deprivation and adverse perinatal outcomes. We estimated associations between neighborhood deprivation and singleton stillbirth in New York. We performed a cross-sectional study of stillbirths and live births from hospital claims data from the Statewide Planning and Research Cooperative System (2022-2024). Neighborhood deprivation index (NDI) at the census tract level was assigned to geocoded addresses at delivery. Risk ratios (RR) and 95% confidence intervals (CIs) were estimated using a generalized estimating equations model adjusted for individual-level maternal variables of age at delivery, race/ethnicity, marital status, and primary health insurance payer. Our analysis included 3,128 stillbirths and 552,361 live births. The NDI quartiles were associated with stillbirth, with higher levels of deprivation corresponding to increased risk compared to the least deprived quartiles. We observed the highest risk of stillbirth among women in the most deprived quartile (RR 1.42; 95% CI 1.25-1.61). The association of NDI quartile on the risk of stillbirth did not differ by race/ethnicity. Our findings highlight that women residing in the most deprived NDI quartile could benefit from enhanced prenatal services and support.</description>
+    </item>
     <item>
       <title>Estimating Marginal Effects on Survival Outcomes for Clinical Interpretations and Decision Making</title>
       <link>https://doi.org/10.1093/aje/kwag283</link>
@@ -853,22 +926,6 @@ Journal: American Journal of Epidemiology; Article number: kwag233
 Abstract: Abstract People who served in the US armed forces—former service members (FSMs)—may be at increased risk of deaths of despair: alcohol-related, drug-related, and suicide deaths. We linked 2014-2021 MA and 2014-2022 MN death certificates for decedents aged 18-64 years with military personnel files to describe deaths of despair in FSM and nonmilitary populations. We calculated age- and sex-standardized proportionate mortality ratios (PMR) for all FSMs and 3-year rolling average age-standardized mortality rates for FSMs with Active Duty experience. We mapped the geographic distribution of these deaths and describe patterns by service history. Of 176 719 decedents, 9.5% were FSMs. Former service members were more likely to die from a death of despair than nonmilitary populations (PMR [95% CI], MA: 111.9 [107.0-117.0], MN: 106.7 [101.4-112.2]), specifically suicide deaths (MA and MN) and drug-related deaths (MA). Mortality rates displayed similar trends. Former service members’ deaths of despair occurred a median of 20-30 years after military separation and were most common among those with Coast Guard, Marine, or Army service and Bad Conduct/Dishonorable or Uncharacterized separations. Former service members have higher burden of deaths of despair than nonmilitary populations with patterns that vary by service history, warranting further investigation into contributing military, individual, and community factors.</description>
     </item>
     <item>
-      <title>Does despair drive increases in white mortality, or did the narrative get ahead of the data?</title>
-      <link>https://doi.org/10.1093/aje/kwag235</link>
-      <guid isPermaLink="false">10.1093/aje/kwag235</guid>
-
-      <dc:creator>Luis Esteban Segura</dc:creator>
-      <dc:creator>Rodrigo Zepeda-Tello</dc:creator>
-      <dc:creator>Seth J Prins</dc:creator>
-      <dc:creator>Silvia S Martins</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Luis Esteban Segura, Rodrigo Zepeda-Tello, Seth J Prins, Silvia S Martins
-
-Journal: American Journal of Epidemiology; Article number: kwag235
-
-Abstract: Abstract The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.</description>
-    </item>
-    <item>
       <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
       <link>https://doi.org/10.1093/aje/kwag232</link>
       <guid isPermaLink="false">10.1093/aje/kwag232</guid>
@@ -884,6 +941,22 @@ Abstract: Abstract The aim of this study is to test the central claim of the “
 Journal: American Journal of Epidemiology; Article number: kwag232
 
 Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
+    </item>
+    <item>
+      <title>Does despair drive increases in white mortality, or did the narrative get ahead of the data?</title>
+      <link>https://doi.org/10.1093/aje/kwag235</link>
+      <guid isPermaLink="false">10.1093/aje/kwag235</guid>
+
+      <dc:creator>Luis Esteban Segura</dc:creator>
+      <dc:creator>Rodrigo Zepeda-Tello</dc:creator>
+      <dc:creator>Seth J Prins</dc:creator>
+      <dc:creator>Silvia S Martins</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Luis Esteban Segura, Rodrigo Zepeda-Tello, Seth J Prins, Silvia S Martins
+
+Journal: American Journal of Epidemiology; Article number: kwag235
+
+Abstract: Abstract The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.</description>
     </item>
     <item>
       <title>Rationale and design of the Atherosclerosis Risk in Communities Generation 2 study</title>
@@ -1088,21 +1161,6 @@ Journal: American Journal of Epidemiology; Article number: kwag217
 Abstract: Abstract Participants who continue across the full duration of longitudinal studies often differ from those lost to attrition, defined as discontinuing participation for any reason, and some participants may sporadically miss assessments. Complex participation patterns, such as in multicenter chronic disease cohorts, have not been studied. We aimed to implement an approach to identify participation subgroups and factors associated with these. We applied our approach in the Scleroderma Patient-centered Intervention Network Cohort, a multicenter, longitudinal systemic sclerosis cohort, because it is an example of an open-ended cohort with no planned end date and complex participation patterns. We used group-based trajectory modeling to identify participation subgroups and multinomial logistic regression to identify predictors of subgroup membership. Data were obtained for 2883 participants from 54 sites in 7 countries. We identified 5 participation subgroups: Ongoing Participation (29%), Immediate Attrition (29%), Mid-Term Attrition (19%), Long-Term Attrition (12%), and Ongoing Sporadic (11%) participation. Older age and sites outside the United States were associated with lower odds of belonging to all subgroups other than Ongoing Participation. Compared to Ongoing Participation, several sociodemographic variables were associated with higher odds of being in the Immediate Attrition group. Our method can be applied to other cohorts with complex participation patterns.</description>
     </item>
     <item>
-      <title>In memoriam: Roger Allen Feldman 1931-2026</title>
-      <link>https://doi.org/10.1093/aje/kwag216</link>
-      <guid isPermaLink="false">10.1093/aje/kwag216</guid>
-
-      <dc:creator>David N Taylor</dc:creator>
-      <dc:creator>Claire V Broome</dc:creator>
-      <dc:creator>Martin J Blaser</dc:creator>
-      <dc:creator>David W Fraser</dc:creator>
-      <dc:creator>Paul A Blake</dc:creator>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: David N Taylor, Claire V Broome, Martin J Blaser, David W Fraser, Paul A Blake
-
-Journal: American Journal of Epidemiology; Article number: kwag216</description>
-    </item>
-    <item>
       <title>Cumulative layoffs in adulthood and cognitive function in mid-to-later life among US working-age adults, 1979-2020</title>
       <link>https://doi.org/10.1093/aje/kwag218</link>
       <guid isPermaLink="false">10.1093/aje/kwag218</guid>
@@ -1119,6 +1177,21 @@ Journal: American Journal of Epidemiology; Article number: kwag216</description>
 Journal: American Journal of Epidemiology; Article number: kwag218
 
 Abstract: Abstract As one of the most disruptive life events, layoffs are pervasive in the US labor market, while little is known about cumulative layoff experience across adulthood in relation to subsequent cognitive function. We investigated the association between cumulative layoffs spanning 41 years of adulthood and subsequent domain-specific cognition among US working-age adults. Data were from 6421 adults in the National Longitudinal Survey of Youth 1979. Cumulative layoff experience was defined as the number of jobs ending in a layoff from 1979 to 2020: 0 (never, n = 4503), 1 (n = 1402), and ≥2 (n = 516). Domain-specific latent cognitive factor scores were assessed in 2020 using confirmatory factor analysis. Multivariable-adjusted linear regression models were fit to investigate the association of interest. Results suggest that cumulative layoff experience was associated with lower latent factor scores in episodic memory (β = −0.045, 95% CI, −0.100 to 0.010, 1 layoff vs. never; β = −0.086, 95% CI, −0.171 to −0.001, ≥2 layoffs vs. never; P trend = 0.037), but not in attention, orientation, or language domains. Given its ubiquity in the US labor market, layoffs may represent an important and understudied risk factor for episodic memory function among US adults.</description>
+    </item>
+    <item>
+      <title>In memoriam: Roger Allen Feldman 1931-2026</title>
+      <link>https://doi.org/10.1093/aje/kwag216</link>
+      <guid isPermaLink="false">10.1093/aje/kwag216</guid>
+
+      <dc:creator>David N Taylor</dc:creator>
+      <dc:creator>Claire V Broome</dc:creator>
+      <dc:creator>Martin J Blaser</dc:creator>
+      <dc:creator>David W Fraser</dc:creator>
+      <dc:creator>Paul A Blake</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: David N Taylor, Claire V Broome, Martin J Blaser, David W Fraser, Paul A Blake
+
+Journal: American Journal of Epidemiology; Article number: kwag216</description>
     </item>
     <item>
       <title>What happens to your manuscript: characteristics of papers published in volume 194 of the
@@ -1550,72 +1623,6 @@ Journal: American Journal of Epidemiology; Article number: kwag191</description>
 Journal: American Journal of Epidemiology; Article number: kwag181
 
 Abstract: Abstract Early during emerging infectious disease outbreaks, case-based surveillance is constrained by limited test availability, diagnostic delays, and low clinical suspicion. Novel pathogens that mimic symptoms of established conditions may generate detectable outbreak signals in routine testing data, as infected individuals seek testing for known conditions and test negative. We developed analytic and simulation frameworks using Poisson and negative binomial models to evaluate whether total and negative testing volumes for a clinically similar (“mimicking”) condition can provide timely outbreak warning. We systematically assessed detection performance across variations in baseline test counts, epidemic growth rates, testing fractions among cases, detection threshold stringency, and overdispersion. Thresholds based on negative tests consistently outperformed those based on total tests, achieving earlier detection with about one-third fewer cumulative cases while maintaining comparable false-positive rates. However, reliable detection required stringent conditions: high testing fractions among epidemic cases, low baseline test volumes, and low overdispersion. When testing fractions fell below 5%, epidemic size estimates offered little practical value; when above 30%, precision improved substantially. These findings support prioritizing access to disaggregated test result data but caution that this detection approach is best positioned as a resource-efficient complement within integrated surveillance portfolios rather than a standalone early warning system.</description>
-    </item>
-    <item>
-      <title>Characterizing spatiotemporal patterns of case reporting backfill: a case study of COVID-19 reporting in Michigan, 2020-2024</title>
-      <link>https://doi.org/10.1093/aje/kwag170</link>
-      <guid isPermaLink="false">10.1093/aje/kwag170</guid>
-
-      <dc:creator>Yannan Niu</dc:creator>
-      <dc:creator>Andrew F Brouwer</dc:creator>
-      <dc:creator>Emily T Martin</dc:creator>
-      <dc:creator>Joseph R Coyle</dc:creator>
-      <dc:creator>Marisa C Eisenberg</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yannan Niu, Andrew F Brouwer, Emily T Martin, Joseph R Coyle, Marisa C Eisenberg
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 11; Pages: 2793-2801
-
-Abstract: Abstract Backfill is the process of revising case data, often by retrospectively assigning or reassigning newly reported cases to earlier symptom onset dates. Time- and space-varying delays in backfill may compromise real-time surveillance and forecasting efforts by obscuring true transmission patterns. Using Michigan COVID-19 case data, we developed a statistical mixture model to describe backfill as well as geographic and temporal variations. The model combined an exponential process (case reporting delay) with a gamma-distributed process (case reassignment to onset date). Parameters were estimated by a regularized maximum likelihood method, and the Akaike Information Criterion was used to determine the necessity of the reassignment component for each date. We estimated the exponential reporting speed over time and space and, if appropriate, the weight, transient peak, and time of case reassignment. We found that case reporting improved over the course of the pandemic: reporting speed increased over time (with substantial day-to-day variation), and case reassignments were processed faster. We also identified potential regional disparities: regions with population densities below 50 people/km2 had slower backfill speeds. These findings provide critical insights into the evolution of case reporting and backfill dynamics that can be leveraged for “nowcasting” models to enhance real-time surveillance data, ultimately improving outbreak preparedness and response.</description>
-    </item>
-    <item>
-      <title>Intersection is interaction</title>
-      <link>https://doi.org/10.1093/aje/kwag187</link>
-      <guid isPermaLink="false">10.1093/aje/kwag187</guid>
-
-      <dc:creator>Ali Al-kassab-Córdova</dc:creator>
-      <dc:creator>Nasir Bashir</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ali Al-kassab-Córdova, Nasir Bashir
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2655-2657</description>
-    </item>
-    <item>
-      <title>Bias in estimating subcritical reproduction numbers under imperfect observation and overlapping transmission chains: theoretical framework and application to mpox</title>
-      <link>https://doi.org/10.1093/aje/kwag185</link>
-      <guid isPermaLink="false">10.1093/aje/kwag185</guid>
-
-      <dc:creator>Seth Blumberg</dc:creator>
-      <dc:creator>Santiago D Cárdenas</dc:creator>
-      <dc:creator>Andrew W Liu</dc:creator>
-      <dc:creator>Taye Samuel Faniran</dc:creator>
-      <dc:creator>Juliet R C Pulliam</dc:creator>
-      <dc:creator>James O Lloyd-Smith</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Seth Blumberg, Santiago D Cárdenas, Andrew W Liu, Taye Samuel Faniran, Juliet R C Pulliam, James O Lloyd-Smith
-
-Journal: American Journal of Epidemiology; Article number: kwag185
-
-Abstract: Abstract Estimating transmission potential and risk factors for emerging infections often relies on incomplete surveillance data. When infections are missed or their sources are misclassified, estimates of the effective reproduction number ($R_s$) and associations between case attributes and infection source may be biased. We developed an analytic framework to quantify and correct these biases, treating imperfect observation and entanglement of transmission chains as forms of misclassification that distort estimates of transmission parameters. The bias depends on the probability of case observation ($p_{obs}$) and the extent of concurrent introductions ($R_p$). We illustrate this framework using surveillance data for mpox in the Democratic Republic of the Congo (1981-1986, 2013-2017), showing that incomplete observation leads to underestimation of $R_s$, whereas overlapping introductions can cause overestimation. Both types of bias also attenuate odds ratios for traits that distinguish primary (spillover) from secondary (human-to-human) infections. Accounting for these biases provides context for the global emergence of mpox in 2022 and for how current transmission patterns differ from historical trends. These results demonstrate how standard epidemiologic concepts of misclassification and missingness can clarify bias in transmission studies and improve interpretation of surveillance data for emerging pathogens, including zoonoses and vaccine-preventable infections.</description>
-    </item>
-    <item>
-      <title>Coexposure confounding and amplification of bias—an exploration with practical interpretation and perspectives</title>
-      <link>https://doi.org/10.1093/aje/kwag183</link>
-      <guid isPermaLink="false">10.1093/aje/kwag183</guid>
-
-      <dc:creator>Krista Y Christensen</dc:creator>
-      <dc:creator>Michael Leung</dc:creator>
-      <dc:creator>Elizabeth G Radke</dc:creator>
-      <dc:creator>J Michael Wright</dc:creator>
-      <dc:creator>Paige A Bommarito</dc:creator>
-      <dc:creator>Thomas F Bateson</dc:creator>
-      <dc:creator>Marc G Weisskopf</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Krista Y Christensen, Michael Leung, Elizabeth G Radke, J Michael Wright, Paige A Bommarito, Thomas F Bateson, Marc G Weisskopf
-
-Journal: American Journal of Epidemiology; Volume: 195; Issue: 10; Pages: 2585-2591
-
-Abstract: Abstract Epidemiologists increasingly estimate associations between mixtures of correlated coexposures and health outcomes. We propose an exploratory approach to help differentiate coexposure confounding from coexposure amplification of bias (CAB) for studies considering correlated coexposures using a case example and simulations based on observed relationships. Our example uses associations observed in published studies between co-occurring per- and polyfluoroalkyl substance (PFAS) biomarkers and tetanus antibody concentrations but could apply to any context where statistical modeling is performed with and without inclusion of correlated coexposures. Using directed acyclic graphs (DAGs), to define an assumed causal structure, and simulations of 3 PFAS predicting antibody titers, we show that if researchers can assume 1 component in the exposure mixture is correlated with the other components, but does not cause the outcome, then CAB can be detected by testing whether the estimate for the noncausal component in a multipollutant model is different from zero. In our simulation, the estimate for the noncausal component was zero (95% CI, −0.22, 0.25) when CAB was absent and −0.25 (95% CI, −0.48, 0.00) when present. These results illustrate a possible method to identify CAB and select statistical models that may produce less biased effect estimates if our assumed DAG is correct.</description>
     </item>
   </channel>
 </rss>
