@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:00:58 +0000</lastBuildDate>
 
     <item>
       <title>GLP-1 therapies and cancer risk</title>
@@ -481,6 +481,20 @@ Journal: Science; Volume: 394; Issue: 6824; Pages: 686-692
 Abstract: The 2020 United States Census adopted differential privacy to protect individual confidentiality, adding calibrated noise to summary demographic measurements that are then reconciled into population tables. We developed BlueDown, a postprocessing algorithm that combines techniques from linear regression and constrained optimization while exploiting measurement structure for efficiency. On 2020 Census data, BlueDown reduced the error of groupings by race at the county level by 21 to 36% and of all county-level groupings by 9 to 58%; at the tract level, it reduced error of groupings by housing type by 38 to 61%. These gains came at no cost to confidentiality or computational efficiency and would improve the validity of research relying on this definitive dataset and analyses used to guide the distribution of more than $1.5 trillion in annual federal spending.</description>
     </item>
     <item>
+      <title>Echoes of the Anthropocene: Noise pollution as a global threat</title>
+      <link>https://doi.org/10.1126/science.adu9593</link>
+      <guid isPermaLink="false">10.1126/science.adu9593</guid>
+
+      <dc:creator>Hansjoerg P. Kunc</dc:creator>
+      <dc:creator>Rouven Schmidt</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Hansjoerg P. Kunc, Rouven Schmidt
+
+Journal: Science; Volume: 394; Issue: 6824; Pages: 660-664
+
+Abstract: Anthropogenic noise is a rapidly expanding global pollutant, but its effects across biological levels from individuals to ecosystems remain unquantified. We conducted phylogenetically controlled meta-analyses of 214 experimental studies on 177 aquatic and terrestrial species with ranges that span six continents. Noise altered at least one physiological, developmental, or behavioral trait in 80% of species studied, with declines in fitness and abundance and disruptions of predator-prey interactions. Effects occurred in every habitat, although response mechanisms varied for some traits and species, creating winners and losers. Only multispecies analyses can reveal such species- and ecosystem-level impacts of anthropogenic stressors. Our results establish noise as a novel selection pressure reshaping ecosystem dynamics and as a pervasive stressor requiring soundscape protection alongside habitat conservation.</description>
+    </item>
+    <item>
       <title>Stacked porous NiTi structure with low cost and ultrahigh fatigue life for elastocaloric cooling</title>
       <link>https://doi.org/10.1126/science.aeh7074</link>
       <guid isPermaLink="false">10.1126/science.aeh7074</guid>
@@ -499,20 +513,6 @@ Abstract: The 2020 United States Census adopted differential privacy to protect 
 Journal: Science; Volume: 394; Issue: 6824; Pages: 670-675
 
 Abstract: Elastocaloric cooling (eC) uses shape memory alloys (SMAs) as energy-efficient, eco-friendly refrigerants. However, cost-effectively fabricating SMAs into fatigue-resistant, heat transfer–enhanced structures remains a key obstacle to commercialization of the eC technology. We introduce a “stamping and stacking” (S-S) method for producing porous, fatigue-resistant SMA structures. Honeycomb-like chips are stamped from nitinol (NiTi) thin sheets and then stacked into a layered tubular structure to increase heat exchange surface and at the same time avoid buckling and splitting failures encountered in existing SMA structures. The stacked structure endures &amp;gt;10 8 compression cycles and can deliver high specific cooling power of 3850 watts per kilogram. Our S-S method reduces fabrication costs by one order of magnitude compared with existing approaches, enabling mass production of eC refrigerant structures for commercial deployment.</description>
-    </item>
-    <item>
-      <title>Echoes of the Anthropocene: Noise pollution as a global threat</title>
-      <link>https://doi.org/10.1126/science.adu9593</link>
-      <guid isPermaLink="false">10.1126/science.adu9593</guid>
-
-      <dc:creator>Hansjoerg P. Kunc</dc:creator>
-      <dc:creator>Rouven Schmidt</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hansjoerg P. Kunc, Rouven Schmidt
-
-Journal: Science; Volume: 394; Issue: 6824; Pages: 660-664
-
-Abstract: Anthropogenic noise is a rapidly expanding global pollutant, but its effects across biological levels from individuals to ecosystems remain unquantified. We conducted phylogenetically controlled meta-analyses of 214 experimental studies on 177 aquatic and terrestrial species with ranges that span six continents. Noise altered at least one physiological, developmental, or behavioral trait in 80% of species studied, with declines in fitness and abundance and disruptions of predator-prey interactions. Effects occurred in every habitat, although response mechanisms varied for some traits and species, creating winners and losers. Only multispecies analyses can reveal such species- and ecosystem-level impacts of anthropogenic stressors. Our results establish noise as a novel selection pressure reshaping ecosystem dynamics and as a pervasive stressor requiring soundscape protection alongside habitat conservation.</description>
     </item>
     <item>
       <title>Seafloor geodesy delineates fast megathrust relocking after the giant 2011 Tohoku earthquake</title>
@@ -691,6 +691,26 @@ Journal: Science; Volume: 394; Issue: 6824; Pages: 598-599
 Abstract: Noise measurements untangle a decades-old puzzle in high-temperature superconductivity</description>
     </item>
     <item>
+      <title>The global geography of threats to freshwater biodiversity</title>
+      <link>https://doi.org/10.1126/science.aeb7910</link>
+      <guid isPermaLink="false">10.1126/science.aeb7910</guid>
+
+      <dc:creator>Christophe Brabant</dc:creator>
+      <dc:creator>Laura Pollock</dc:creator>
+      <dc:creator>Jonas Geldmann</dc:creator>
+      <dc:creator>Mette Bendixen</dc:creator>
+      <dc:creator>Lise Comte</dc:creator>
+      <dc:creator>Harith Farooq</dc:creator>
+      <dc:creator>Katherine Hébert</dc:creator>
+      <dc:creator>Bernhard Lehner</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Christophe Brabant, Laura Pollock, Jonas Geldmann, Mette Bendixen, Lise Comte, Harith Farooq, Katherine Hébert, Bernhard Lehner, et al.
+
+Journal: Science; Volume: 394; Issue: 6823; Pages: 510-514
+
+Abstract: Human activities are eroding biodiversity, especially in freshwater systems. Despite major advances in quantifying species vulnerability and threats, we still lack a crucial understanding of where threats are affecting freshwater species globally. Here, we produced a species-centered spatial assessment of threats, mapping the impact of 45 threats across 21,490 freshwater species of amphibians, fish, mammals, odonates, and reptiles. We found that species in highly developed and water-managed regions are strongly affected by multiple overlapping threats. Although threats vary across taxa and regions, increasing threat probabilities elevate extinction risk and population declines, with freshwater species experiencing greater threat intensity and distinct spatial patterns than terrestrial species. Our findings establish a spatially explicit baseline for targeting the most urgently needed freshwater conservation and management interventions.</description>
+    </item>
+    <item>
       <title>How comparable are bird and human sounds?</title>
       <link>https://doi.org/10.1126/science.aem2333</link>
       <guid isPermaLink="false">10.1126/science.aem2333</guid>
@@ -725,26 +745,6 @@ Journal: Science; Volume: 394; Issue: 6823; Pages: 493-494</description>
       <description>Authors: Naomi Oreskes
 
 Journal: Science; Volume: 394; Issue: 6823; Article number: eaem6465</description>
-    </item>
-    <item>
-      <title>The global geography of threats to freshwater biodiversity</title>
-      <link>https://doi.org/10.1126/science.aeb7910</link>
-      <guid isPermaLink="false">10.1126/science.aeb7910</guid>
-
-      <dc:creator>Christophe Brabant</dc:creator>
-      <dc:creator>Laura Pollock</dc:creator>
-      <dc:creator>Jonas Geldmann</dc:creator>
-      <dc:creator>Mette Bendixen</dc:creator>
-      <dc:creator>Lise Comte</dc:creator>
-      <dc:creator>Harith Farooq</dc:creator>
-      <dc:creator>Katherine Hébert</dc:creator>
-      <dc:creator>Bernhard Lehner</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Christophe Brabant, Laura Pollock, Jonas Geldmann, Mette Bendixen, Lise Comte, Harith Farooq, Katherine Hébert, Bernhard Lehner, et al.
-
-Journal: Science; Volume: 394; Issue: 6823; Pages: 510-514
-
-Abstract: Human activities are eroding biodiversity, especially in freshwater systems. Despite major advances in quantifying species vulnerability and threats, we still lack a crucial understanding of where threats are affecting freshwater species globally. Here, we produced a species-centered spatial assessment of threats, mapping the impact of 45 threats across 21,490 freshwater species of amphibians, fish, mammals, odonates, and reptiles. We found that species in highly developed and water-managed regions are strongly affected by multiple overlapping threats. Although threats vary across taxa and regions, increasing threat probabilities elevate extinction risk and population declines, with freshwater species experiencing greater threat intensity and distinct spatial patterns than terrestrial species. Our findings establish a spatially explicit baseline for targeting the most urgently needed freshwater conservation and management interventions.</description>
     </item>
     <item>
       <title>We have some explaining to do
@@ -933,6 +933,19 @@ Journal: Science; Volume: 394; Issue: 6823; Pages: 534-540
 Abstract: In eukaryotes, ribosome biogenesis initiates within the nucleolus, a hallmark multilayered compartment of the nucleus. Structures of pre-ribosomes have been characterized ex situ, but their assembly pathways within human nucleoli have not been described. Here, we used cryogenic correlative light and electron tomography to visualize molecular landscapes within HeLa cell nucleoli and obtained in-cell structural snapshots of both ribosomal subunit precursors, the small subunit processome and the pre-60S. These recapitulate major states resolved previously ex situ and reveal additional critical interaction partners, including the RNA exosome, rixosome, and nuclear export receptor CRM1-RanGTP. We further show how pre-ribosome assembly landscapes are altered upon RNA polymerase I inhibition. Our study combines molecular structures with cellular context to elucidate the spatiotemporal assembly pathway of the human ribosome.</description>
     </item>
     <item>
+      <title>Caught by chirality</title>
+      <link>https://doi.org/10.1126/science.aem3997</link>
+      <guid isPermaLink="false">10.1126/science.aem3997</guid>
+
+      <dc:creator>Jeroen van den Brink</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jeroen van den Brink
+
+Journal: Science; Volume: 394; Issue: 6823; Pages: 490-490
+
+Abstract: Altermagnets are identified by the handedness of their collective magnetic excitations</description>
+    </item>
+    <item>
       <title>Stimulated protein degradation to promote mitochondrial function and neuronal survival</title>
       <link>https://doi.org/10.1126/science.aed2525</link>
       <guid isPermaLink="false">10.1126/science.aed2525</guid>
@@ -951,19 +964,6 @@ Abstract: In eukaryotes, ribosome biogenesis initiates within the nucleolus, a h
 Journal: Science; Volume: 394; Issue: 6823; Article number: eaed2525
 
 Abstract: Targeted protein degradation is a promising modality to treat cancer or inflammation, but whether it can provide a similar benefit for disorders caused by pervasive protein dysregulation is unclear. We describe stimulated protein degradation (SPD) as a strategy that leverages agonists of stress-responsive E3 ubiquitin ligases to simultaneously eliminate multiple pathogenic factors. Specifically, we show that activators of the reductive stress response E3 CUL2 FEM1B boost degradation of multiple physiological substrates to improve mitochondrial import and electron transport chain assembly. In this manner, CUL2 FEM1B agonists preserve mitochondrial function and neuronal survival in models of neurodegenerative COX deficiency syndrome and Friedreich’s ataxia. By activating E3 ligases that evolved to safeguard cellular integrity, SPD expands the use of compound-induced protein degradation to complex pathologies of high unmet need.</description>
-    </item>
-    <item>
-      <title>Caught by chirality</title>
-      <link>https://doi.org/10.1126/science.aem3997</link>
-      <guid isPermaLink="false">10.1126/science.aem3997</guid>
-
-      <dc:creator>Jeroen van den Brink</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jeroen van den Brink
-
-Journal: Science; Volume: 394; Issue: 6823; Pages: 490-490
-
-Abstract: Altermagnets are identified by the handedness of their collective magnetic excitations</description>
     </item>
     <item>
       <title>Spawning Season: An Experiment in Queer Parenthood
