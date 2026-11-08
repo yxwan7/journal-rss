@@ -5,8 +5,28 @@
     <link>https://jamanetwork.com/journals/jamacardiology</link>
     <description>Latest journal articles for JAMA Cardiology</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:27:27 +0000</lastBuildDate>
 
+    <item>
+      <title>AI-Identified Reasons for Nonescalation of Lipid-Lowering Therapy for Secondary Prevention</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.5230</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.5230</guid>
+
+      <dc:creator>Sulaiman Somani</dc:creator>
+      <dc:creator>Dale Daniel Kim</dc:creator>
+      <dc:creator>Venkat Ramaraju</dc:creator>
+      <dc:creator>Summer Ngo</dc:creator>
+      <dc:creator>Christopher Babu</dc:creator>
+      <dc:creator>Sarkis Bouladian</dc:creator>
+      <dc:creator>Tania Chen</dc:creator>
+      <dc:creator>Sara King</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sulaiman Somani, Dale Daniel Kim, Venkat Ramaraju, Summer Ngo, Christopher Babu, Sarkis Bouladian, Tania Chen, Sara King, et al.
+
+Journal: JAMA Cardiology
+
+Abstract: Importance Despite guideline recommendations for low-density lipoprotein cholesterol (LDL-C) goals in secondary prevention of atherosclerotic cardiovascular disease (ASCVD), lipid-lowering therapy (LLT) remains underused. Identifying treat-to-target strategy adoption and reasons for LLT nonescalation are critical to close guideline-discordant care gaps. Objective To determine whether large language models (LLMs) can identify a treat-to-target strategy use and extract reasons for LLT nonescalation from clinical notes when LDL-C concentration is above goal. Design, Setting, and Participants This was a retrospective cohort study of patients from January 1, 2019, through May 15, 2025. Notes from most recent clinical encounters were retrieved and split into development, test, and inference sets. The setting was a large, integrated health system in Northern California. Adults aged 18 to 90 years with 2 or more clinician-billed encounters for ASCVD and with LDL-C level greater than or equal to 70 mg/dL at the most recent encounter were included in note-based analyses. Exposures Documented LDL-C targets and LLT management decisions. Main Outcomes and Measures Model performance was evaluated on LDL-C target documentation, LDL-C target value, LLT adjustment, and reasons for nonescalation against clinical annotations. Outcome prevalence was assessed on the inference set. Results A total of 28 113 unique patients with ASCVD-related encounters were identified, of whom 13 810 (49.1%; mean [SD] age, 70.9 [11.4] years; 7904 male [57.2%]) had above-goal LDL-C level. Model-annotator and interannotator reliability were not statistically different across outcomes, and micro-weighted F1 scores ranged from 0.80 to 0.98. Of the 13 394 patients with above-goal LDL-C level and 13 354 relevant notes in the inference set, a treat-to-target strategy was identified in 3756 (28.1%) of all relevant notes, most commonly targeting an LDL-C level less than 70 mg/dL (2280 [17.1%]). LLT was not escalated in 11 842 of all relevant notes (88.7%), with 4788 (40.4%) containing at least 1 LLT nonescalation reason, most often due to patient-reported adverse effects (1683 [12.6%]), LDL-C level close to goal (922 [6.9%]), patient preference to avoid LLT (914 [6.8%]), preference for lifestyle changes (811 [6.1%]), and deferral to repeat laboratory tests (617 [4.6%]). Conclusions and Relevance Results of this study show that after using a state-of-the art LLM, nearly 9 in 10 ASCVD encounters with above-goal LDL-C level did not have patient LLT escalated, most often because of adverse effects, patient preference, preference for lifestyle changes, therapeutic inertia (eg, repeat laboratory tests), and near-goal LDL-C level. These findings highlight an avenue for personalizing system-level digital health interventions to help discover and minimize guideline-discordant care gaps in secondary prevention of ASCVD.</description>
+    </item>
     <item>
       <title>Ebstein Anomaly With Pre-excited Atrial Fibrillation</title>
       <link>https://doi.org/10.1001/jamacardio.2026.4241</link>
@@ -896,18 +916,6 @@ Abstract: Importance Right ventricular (RV) dysfunction is common among patients
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1012</description>
     </item>
     <item>
-      <title>The Evolving Process of Myocardial Infarction Classification</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3839</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3839</guid>
-
-      <dc:creator>Gjin Ndrepepa</dc:creator>
-      <dc:creator>Adnan Kastrati</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gjin Ndrepepa, Adnan Kastrati
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 913</description>
-    </item>
-    <item>
       <title>Machine Learning–Driven Risk Prediction Model in Transthyretin Amyloid Cardiomyopathy</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3496</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.3496</guid>
@@ -926,6 +934,42 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 913</description>
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 932
 
 Abstract: Importance Transthyretin cardiac amyloidosis (ATTR-CM) is associated with poor prognosis and significant morbidity and mortality, yet existing staging systems have limited ability to accurately predict outcomes in contemporary patient populations. Objective To develop and validate a machine learning (ML)–based prognostic model for patients with ATTR-CM. Design, Setting, and Participants This multicenter cohort study, including specialized referral centers for cardiac amyloidosis, used data from patients with confirmed ATTR-CM in the Swiss Cardiac Amyloidosis Registry (February 2018 to November 2025) and the Cardiac Amyloidosis Registry of the Medical University of Vienna (July 2014 to February 2025). A random survival forest model was developed and evaluated through internal-external cross-validation, with each center iteratively held out for validation. The model was compared with the National Amyloidosis Centre and Mayo Clinic staging systems. Data analysis was conducted from December 2025 to February 2026. Exposure Clinical, demographic, medication, laboratory, and echocardiographic variables were used to train an ML-based time-to-event prediction model. Main Outcomes and Measures The primary outcome was defined as a composite event of all-cause mortality and hospitalization for heart failure. Results A total of 850 patients (median [IQR] age, 79 [74-83] years; 750 [88.2%] male) were included across 3 cohorts (from Bern, Switzerland [Bern-Swiss cohort], n = 352; the other centers from Switzerland combined [Other-Swiss cohort], n = 260; and Vienna, Austria [Vienna cohort], n = 238). The random survival forest model demonstrated good discrimination across all held-out cohorts, with Harrell concordance indices of 0.74 (95% CI, 0.69-0.78), 0.77 (95% CI, 0.69-0.83), and 0.72 (95% CI, 0.67-0.77) for the Bern-Swiss, Other-Swiss, and Vienna cohorts, respectively, and 3-year area under the curve (AUC) of 0.73 (95% CI, 0.66-0.80), 0.80 (95% CI, 0.70-0.88), and 0.75 (95% CI, 0.67-0.83), respectively. The model showed improved discrimination compared with the National Amyloidosis Centre and Mayo Clinic staging systems, with Harrell concordance indices 2% to 10% higher and 3-year AUC improvements ranging from 3% to 19% across cohorts and scoring systems. Calibration was generally acceptable across cohorts and time points. Model performance remained satisfactory in the subgroup of patients receiving disease-modifying therapy. Explainability analyses identified clinically plausible drivers of risk. Conclusions and Relevance An ML-based time-to-event prediction model demonstrated promising predictive performance and showed improved discrimination compared with established staging systems in patients with ATTR-CM, supporting its potential for individualized prognostication.</description>
+    </item>
+    <item>
+      <title>The Evolving Process of Myocardial Infarction Classification</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3839</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3839</guid>
+
+      <dc:creator>Gjin Ndrepepa</dc:creator>
+      <dc:creator>Adnan Kastrati</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Gjin Ndrepepa, Adnan Kastrati
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 913</description>
+    </item>
+    <item>
+      <title>Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion—Reply</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3008</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3008</guid>
+
+      <dc:creator>Boris Schmidt</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Boris Schmidt
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
+    </item>
+    <item>
+      <title>From Static Staging to Dynamic Risk Prediction in Transthyretin Amyloid Cardiomyopathy</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3503</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3503</guid>
+
+      <dc:creator>Marianna Fontana</dc:creator>
+      <dc:creator>Julian D. Gillmore</dc:creator>
+      <dc:creator>Scott David Solomon</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marianna Fontana, Julian D. Gillmore, Scott David Solomon
+
+Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 909</description>
     </item>
     <item>
       <title>Multiple Giant Right Atrial Myxomas—The Carney Complex</title>
@@ -954,30 +998,6 @@ Abstract: This case report discusses a diagnosis of Carney complex type 1 after 
       <description>Authors: Joshua A. Jacobs, Josef Stehlik, Adam P. Bress
 
 Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1016</description>
-    </item>
-    <item>
-      <title>Bleeding and Stroke Prevention After Left Atrial Appendage Occlusion—Reply</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3008</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3008</guid>
-
-      <dc:creator>Boris Schmidt</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Boris Schmidt
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 1014</description>
-    </item>
-    <item>
-      <title>From Static Staging to Dynamic Risk Prediction in Transthyretin Amyloid Cardiomyopathy</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3503</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3503</guid>
-
-      <dc:creator>Marianna Fontana</dc:creator>
-      <dc:creator>Julian D. Gillmore</dc:creator>
-      <dc:creator>Scott David Solomon</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marianna Fontana, Julian D. Gillmore, Scott David Solomon
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 10; Pages: 909</description>
     </item>
     <item>
       <title>Vutrisiran Treatment and Changes in Cardiac Parameters and Amyloid Burden Assessed by Cardiovascular MRI</title>
@@ -1311,18 +1331,6 @@ Journal: JAMA Cardiology
 Abstract: This Viewpoint discusses quantitative plaque analysis by coronary computed tomography angiography (CCTA) and whether current data support its clinical application as a screening tool to guide therapy in asymptomatic adults.</description>
     </item>
     <item>
-      <title>Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.3433</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.3433</guid>
-
-      <dc:creator>Koichiro Yuji</dc:creator>
-      <dc:creator>Wakako Yuji</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Koichiro Yuji, Wakako Yuji
-
-Journal: JAMA Cardiology</description>
-    </item>
-    <item>
       <title>Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis—Reply</title>
       <link>https://doi.org/10.1001/jamacardio.2026.3440</link>
       <guid isPermaLink="false">10.1001/jamacardio.2026.3440</guid>
@@ -1332,6 +1340,18 @@ Journal: JAMA Cardiology</description>
       <dc:creator>Upendra Kaul</dc:creator>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <description>Authors: Sripal Bangalore, M. Haisum Maqsood, Upendra Kaul
+
+Journal: JAMA Cardiology</description>
+    </item>
+    <item>
+      <title>Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis</title>
+      <link>https://doi.org/10.1001/jamacardio.2026.3433</link>
+      <guid isPermaLink="false">10.1001/jamacardio.2026.3433</guid>
+
+      <dc:creator>Koichiro Yuji</dc:creator>
+      <dc:creator>Wakako Yuji</dc:creator>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Koichiro Yuji, Wakako Yuji
 
 Journal: JAMA Cardiology</description>
     </item>
@@ -1530,19 +1550,6 @@ Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 895</description>
       <description>Authors: Erwan Donal, Florent Le Ven, Laurie Soulat-Dufour
 
 Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 797</description>
-    </item>
-    <item>
-      <title>Challenges Implementing Remote Patient Monitoring for Hypertension</title>
-      <link>https://doi.org/10.1001/jamacardio.2026.2095</link>
-      <guid isPermaLink="false">10.1001/jamacardio.2026.2095</guid>
-
-      <dc:creator>Nicole Feigenblum</dc:creator>
-      <dc:creator>Kyra Best</dc:creator>
-      <dc:creator>David E. Lee</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nicole Feigenblum, Kyra Best, David E. Lee
-
-Journal: JAMA Cardiology; Volume: 11; Issue: 9; Pages: 894</description>
     </item>
   </channel>
 </rss>
