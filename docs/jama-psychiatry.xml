@@ -5,7 +5,7 @@
     <link>https://jamanetwork.com/journals/jamapsychiatry</link>
     <description>Latest journal articles for JAMA Psychiatry</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:20:11 +0000</lastBuildDate>
 
     <item>
       <title>Further Clarification of Outcome Reporting in Clinical Trial—Reply</title>
@@ -369,22 +369,6 @@ Journal: JAMA Psychiatry; Volume: 83; Issue: 11; Pages: 1168
 Abstract: Importance Psychiatric disorders are a major source of disability and premature mortality worldwide. Advances in genomics have clarified parts of their genetic architecture, prompting questions about whether genomic information can inform preventive strategies for psychiatric disorders in clinical practice. This Special Communication describes potential benefits and harms of using genomic information, particularly polygenic scores (PGSs) and rare variants, to guide prevention in psychiatry. Observations Broad application of genomic testing in universal or selective primary prevention is not currently supported by evidence of net clinical benefit, given modest absolute risk differences, limited individual-level predictive performance, and the potential for psychological harm. The possible value of genomic testing increases for indicated primary prevention, as prior probability rises and diagnostic uncertainty becomes clinically relevant. The most compelling opportunity lies in early care after individuals enter the psychiatric treatment system but before diagnostic trajectories fully crystallize. In this zone of diagnostic uncertainty, testing for rare, high-impact variants can shorten diagnostic delays, inform prognosis, and guide monitoring and treatment, provided that results are communicated appropriately. PGSs may contribute to risk stratification when applied in high-risk clinical populations and integrated with nongenetic factors. In secondary and tertiary prevention, pharmacogenomics provides actionable benefits for medication choice and safety, and rare variant testing has clear value in selected instances. Beyond psychiatric outcomes, genomic testing could potentially help address the profound mortality gap in severe mental illness by identifying elevated risk for somatic comorbidities, thus supporting more proactive, integrated care. Conclusions and Relevance Currently, genomic testing in psychiatry should not be used for population-wide screening but may have value as a targeted clinical resource whose utility depends on timing, context, and purpose. When applied judiciously and embedded within comprehensive, ethically grounded care pathways, genomic testing holds promise as one component of a more precise, preventive, and patient-centered psychiatry.</description>
     </item>
     <item>
-      <title>Optimizing Study Design for Clinically Useful Peripheral Molecular Biomarker Discovery in Psychiatry</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.2299</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2299</guid>
-
-      <dc:creator>Chloe X. Yap</dc:creator>
-      <dc:creator>Anjali K. Henders</dc:creator>
-      <dc:creator>Naomi R. Wray</dc:creator>
-      <dc:creator>Rachel Upthegrove</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chloe X. Yap, Anjali K. Henders, Naomi R. Wray, Rachel Upthegrove
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 11; Pages: 1176
-
-Abstract: Importance Psychiatric diagnosis, prognosis, and management currently rely on subjective assessments. There is hope that peripheral (eg, blood) biomarkers or combinations thereof could transform clinical care by bringing objectivity and patient stratification while being accessible and scalable. The time is ripe to find molecular biomarkers: omics technologies can now profile hundreds to millions of molecules across thousands of individuals, while funders recognize the clinical need and have responded with ambition. However, this enthusiasm will likely be finite, and there is no guarantee that a biomarker will be found. Observations It is essential to design and perform studies that are most likely to deliver robust peripheral biomarkers with a clear path to translation. This narrative review provides recommendations to optimize peripheral psychiatric biomarker study design. The review first introduces conceptual grounding illustrating how biomarker study design must triangulate clinical utility, technological fit, and biological plausibility. Biomarker studies should optimize for signal-to-noise ratio via careful phenotype selection and minimization of biological and technical noise. However, feasibility issues—in collecting sufficient data on enough representative participants for an adequately powered and clinically translatable analysis—constrain study design. Conclusions and Relevance Study design is the single most influential and controllable factor for future psychiatric biomarker discovery. This is because many years elapse between study design and data analysis (particularly for biobanked samples held for future use) and because no technological or analytical advances can answer questions that the dataset was not designed for, or overcome unmeasured confounding. Moreover, the direction of biomarker research is constrained by what is possible to design. Many clinical questions and contexts need biomarkers, but realistically, some are better primed for biomarker discovery than others. In this generation of peripheral psychiatric biomarker studies, designs most likely to demonstrate proof-of-principle should be prioritized to ensure the long-term sustainability of the field.</description>
-    </item>
-    <item>
       <title>Changes in Characteristics Associated With ADHD and ASD Diagnoses Over Time</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.2722</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2722</guid>
@@ -420,6 +404,22 @@ Abstract: Importance Diagnoses of attention-deficit/hyperactivity disorder (ADHD
 Journal: JAMA Psychiatry; Volume: 83; Issue: 11; Pages: 1193
 
 Abstract: This cross-sectional study evaluates a multilayer perceptron model for estimating delay discounting among college-aged adults.</description>
+    </item>
+    <item>
+      <title>Optimizing Study Design for Clinically Useful Peripheral Molecular Biomarker Discovery in Psychiatry</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.2299</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2299</guid>
+
+      <dc:creator>Chloe X. Yap</dc:creator>
+      <dc:creator>Anjali K. Henders</dc:creator>
+      <dc:creator>Naomi R. Wray</dc:creator>
+      <dc:creator>Rachel Upthegrove</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chloe X. Yap, Anjali K. Henders, Naomi R. Wray, Rachel Upthegrove
+
+Journal: JAMA Psychiatry; Volume: 83; Issue: 11; Pages: 1176
+
+Abstract: Importance Psychiatric diagnosis, prognosis, and management currently rely on subjective assessments. There is hope that peripheral (eg, blood) biomarkers or combinations thereof could transform clinical care by bringing objectivity and patient stratification while being accessible and scalable. The time is ripe to find molecular biomarkers: omics technologies can now profile hundreds to millions of molecules across thousands of individuals, while funders recognize the clinical need and have responded with ambition. However, this enthusiasm will likely be finite, and there is no guarantee that a biomarker will be found. Observations It is essential to design and perform studies that are most likely to deliver robust peripheral biomarkers with a clear path to translation. This narrative review provides recommendations to optimize peripheral psychiatric biomarker study design. The review first introduces conceptual grounding illustrating how biomarker study design must triangulate clinical utility, technological fit, and biological plausibility. Biomarker studies should optimize for signal-to-noise ratio via careful phenotype selection and minimization of biological and technical noise. However, feasibility issues—in collecting sufficient data on enough representative participants for an adequately powered and clinically translatable analysis—constrain study design. Conclusions and Relevance Study design is the single most influential and controllable factor for future psychiatric biomarker discovery. This is because many years elapse between study design and data analysis (particularly for biobanked samples held for future use) and because no technological or analytical advances can answer questions that the dataset was not designed for, or overcome unmeasured confounding. Moreover, the direction of biomarker research is constrained by what is possible to design. Many clinical questions and contexts need biomarkers, but realistically, some are better primed for biomarker discovery than others. In this generation of peripheral psychiatric biomarker studies, designs most likely to demonstrate proof-of-principle should be prioritized to ensure the long-term sustainability of the field.</description>
     </item>
     <item>
       <title>Error in Figure 2</title>
@@ -1341,6 +1341,20 @@ Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 902
 Abstract: Importance Anorexia nervosa (AN) is a deadly psychiatric disorder with relapse rates approaching 50% after weight restoration. Disrupted gastrointestinal interoception may underlie persistent symptoms and relapse vulnerability. Objective To examine behavioral, computational, neural, and physiological markers of gastrointestinal interoception in weight-restored individuals with AN and test their association with relapse. Design, Setting, and Participants This crossover trial was a single-blind, within-participant, randomized (block-order) trial conducted at the Laureate Institute for Brain Research between August 2021 and February 2025. Participants were females with weight-restored restrictive AN and age- and sex-matched healthy comparators (HCs). All participants ingested a vibrating capsule that delivered counterbalanced blocks of normal- and enhanced-intensity gut stimulation. Behavioral detection performance, electroencephalography, peripheral physiology, and computational modeling were used to assess interoception. Main Outcomes and Measures Experimental-session measures included interoceptive accuracy, prior beliefs, interoceptive precision, learning rates, gastric-evoked potentials (GEPs), and hunger. Main clinical outcomes at 6 months included relapse status and symptom severity. Results The cohort included 62 female participants with weight-restored restrictive AN (mean [SD] age, 18.9 [4.5] years) and 57 age- and sex-matched healthy comparators (HCs; mean [SD] age, 20.7 [5.3] years). Six-month follow-up data were collected for 54 participants with AN. Compared with HCs, participants with AN showed lower perceptual accuracy (Cohen d = −0.98; 95% CI, −1.51 to –0.44; P = .001) and higher miss rates (Cohen d = 1.02; 95% CI, 0.55 to 1.48; P &amp;amp;amp;lt; .001). Computational modeling revealed in the AN group stronger prior expectations that capsule vibrations would not be present (Cohen d = −0.31; 95% CI, −0.67 to 0.05; P = .05), greater shifts in interoceptive precision between blocks (Cohen d = 0.38; 95% CI, 0.02 to 0.75; P = .01), and learning asymmetries (vibration: Cohen d = −0.40; 95% CI, −0.77 to −0.04; P = .007; no-vibration: Cohen d = 0.35; 95% CI, −0.02 to 0.71; P = .01). GEP amplitudes did not differ by group but were correlated with accuracy and learning in AN. Capsule stimulation induced greater hunger increases in AN (interaction: η 2 p = 0.04, P = .04; AN: Cohen d = 0.94; 95% CI, 0.57 to 1.30; HCs: Cohen d = 0.40; 95% CI, 0.03 to 0.77). At follow-up, relapse was predicted by initial priors (odds ratio [OR], 3.82; 95% CI, 1.02 to 15.91; P = .05), response bias (OR, 5.37; 95% CI, 1.15 to 32.04; P = .04), and stomach unpleasantness (OR, 5.73; 95% CI, 1.38 to 33.5; P = .03), while eating disorder symptom severity was predicted by miss rate (β = 1.05; R 2 = 0.08; P = .05), difference in interoceptive precision (β = 5.84; R 2 = 0.16; P = .004), and initial priors (β = −2.99; R 2 = 0.09; P = .05). Conclusions and Relevance In this study of weight-restored females with AN, gastrointestinal interoception was disrupted across multiple domains, including reduced accuracy detecting gut signals, maladaptive priors, rigid learning, and abnormal hunger rating. Several interoceptive markers predicted relapse and symptom severity at follow-up. These findings support the use of ingestible mechanosensory probes and computational modeling as scalable tools to monitor treatment response and guide relapse prevention in eating disorders. Trial Registration ClinicalTrials.gov Identifier: NCT05111977</description>
     </item>
     <item>
+      <title>War and Suicide in the US Military</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.1762</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1762</guid>
+
+      <dc:creator>Mark A. Reger</dc:creator>
+      <dc:creator>Tim Hoyt</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mark A. Reger, Tim Hoyt
+
+Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 892
+
+Abstract: This Viewpoint argues that, as the US considers military and veteran suicide risk during a new conflict with Iran, policymakers and clinicians should avoid oversimplified assumptions about war, combat exposure, and suicide and instead apply nuanced lessons from prior war eras and new research.</description>
+    </item>
+    <item>
       <title>The 25-Year Evolution of Lithium as a Disease-Modifying Agent in Dementia</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.1296</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1296</guid>
@@ -1355,20 +1369,6 @@ Abstract: Importance Anorexia nervosa (AN) is a deadly psychiatric disorder with
 Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 976
 
 Abstract: Importance Lithium, a long-established cornerstone therapy for bipolar disorder, is a biologically plausible disease-modifying agent for neurodegenerative disorders, including mild cognitive impairment (MCI) and Alzheimer disease (AD). Observations Rather than targeting a single pathology like amyloid or tau, lithium acts across multiple cellular resilience pathways. Chronic lithium exposure induces the anti-apoptotic protein B-cell lymphoma 2 (Bcl-2), enhances brain-derived neurotrophic factor (BDNF) signaling, inhibits glycogen synthase kinase-3β (GSK-3β), stabilizes mitochondrial function, and reduces oxidative stress. These convergent mechanisms promote neuronal survival and synaptic integrity. In humans, proton magnetic resonance spectroscopy studies found that lithium increased N -acetylaspartate levels, consistent with improved neuronal viability, and structural magnetic resonance imaging (MRI) studies found that lithium preserved gray matter and/or reversed illness-related atrophy in hippocampal and corticolimbic regions. In addition, extensive evidence demonstrates that low-dose lithium (approximately 0.3mM)—significantly lower than traditional psychiatric doses (0.6-1.0mM)—exerts robust neurotrophic and neuroprotective effects. Preclinical models have found that these concentrations stimulate hippocampal neurogenesis, promote structural plasticity, and protect against proteotoxic injury. Furthermore, epidemiological studies have associated cumulative lithium exposure with reduced dementia risk, and early randomized clinical trials in MCI suggest cognitive stabilization and favorable tau biomarker changes at low, well-tolerated doses. The recent repletion hypothesis suggests that lithium may also function as a physiological trace element, but these findings await independent replication. Conclusions and Relevance These convergent data support a prospective clinical trial of low-dose lithium orotate to slow disease progression in MCI. Such an approach would prioritize established neuroprotective mechanisms while potentially mitigating the kidney and thyroid risks associated with higher-dose carbonate formulations. If low-dose lithium can indeed meaningfully alter disease trajectory, it would represent a much-needed, accessible, and inexpensive treatment that may be especially relevant in low- and middle-income countries.</description>
-    </item>
-    <item>
-      <title>War and Suicide in the US Military</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1762</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1762</guid>
-
-      <dc:creator>Mark A. Reger</dc:creator>
-      <dc:creator>Tim Hoyt</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mark A. Reger, Tim Hoyt
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 892
-
-Abstract: This Viewpoint argues that, as the US considers military and veteran suicide risk during a new conflict with Iran, policymakers and clinicians should avoid oversimplified assumptions about war, combat exposure, and suicide and instead apply nuanced lessons from prior war eras and new research.</description>
     </item>
     <item>
       <title>Changes in Genetic Contributions to ASD and ADHD by Year of Diagnosis</title>
