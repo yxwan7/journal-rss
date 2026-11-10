@@ -5,8 +5,42 @@
     <link>https://www.nature.com/natsustain/</link>
     <description>Latest journal articles for Nature Sustainability</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:55:06 +0000</lastBuildDate>
 
+    <item>
+      <title>Agricultural data source choice as a dominant control on nitrogen surplus uncertainty</title>
+      <link>https://doi.org/10.1038/s41893-026-01992-8</link>
+      <guid isPermaLink="false">10.1038/s41893-026-01992-8</guid>
+
+      <dc:creator>Baibaswata Bhaduri</dc:creator>
+      <dc:creator>Giorgos Kourakos</dc:creator>
+      <dc:creator>Kenneth Miller</dc:creator>
+      <dc:creator>Thomas Harter</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Baibaswata Bhaduri, Giorgos Kourakos, Kenneth Miller, Thomas Harter
+
+Journal: Nature Sustainability
+
+Abstract: Abstract Agricultural nitrogen (N) surplus (the residual of total N inputs after harvest removal, plant-tissue storage, runoff and atmospheric losses) is a leading cause of groundwater and other environmental contamination in intensive food-producing regions, yet N surplus estimates often depend on inconsistent fertilizer, harvest and manure datasets in an N balance. Using California’s Central Valley as a data-rich test case, we propagate expert, survey-based, regulatory and county-level datasets through a fixed crop-specific N surplus framework to generate 24 cases. Holding model structure and land use constant, we quantify the large divergence in estimated N surplus arising from data choice, especially for manure-treated field crops. The uncertainty about N surplus is consequential: it can reorder which crops, regions and pathways receive priority for groundwater protection. The resulting spread among N surplus outcomes is large enough to alter hotspot rankings, mitigation priorities and screening-level estimates of economic burden. Credible nitrogen assessment at farm to global scales therefore requires explicit propagation of agricultural data source uncertainty, which can materially affect resulting N surplus estimates. Absent specific local data, the uncertainty magnitudes reported here may guide N surplus uncertainty assessment in other regional, national and global analyses.</description>
+    </item>
+    <item>
+      <title>Widespread North American pollution and health impacts from early twentieth century copper production</title>
+      <link>https://doi.org/10.1038/s41893-026-01975-9</link>
+      <guid isPermaLink="false">10.1038/s41893-026-01975-9</guid>
+
+      <dc:creator>Joseph R. McConnell</dc:creator>
+      <dc:creator>Nathan J. Chellman</dc:creator>
+      <dc:creator>Sophie M. Wensman</dc:creator>
+      <dc:creator>Alison S. Criscitiello</dc:creator>
+      <dc:creator>Andreas Plach</dc:creator>
+      <dc:creator>Dorthe Dahl-Jensen</dc:creator>
+      <dc:creator>Diedrich Fritzsche</dc:creator>
+      <dc:creator>Kira M. Holland</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Joseph R. McConnell, Nathan J. Chellman, Sophie M. Wensman, Alison S. Criscitiello, Andreas Plach, Dorthe Dahl-Jensen, Diedrich Fritzsche, Kira M. Holland, et al.
+
+Journal: Nature Sustainability</description>
+    </item>
     <item>
       <title>Photocatalytic nitrogen reduction to high-concentration ammonia via interfacial evaporation</title>
       <link>https://doi.org/10.1038/s41893-026-01981-x</link>
@@ -1505,37 +1539,6 @@ Journal: Nature Sustainability; Volume: 9; Issue: 7; Pages: 956-957</description
       <description>Authors: Rayees Ahmed, Lydia Sam, Anshuman Bhardwaj, Anil V. Kulkarni, Shintaro Yamasaki
 
 Journal: Nature Sustainability; Volume: 9; Issue: 9; Pages: 1307-1316</description>
-    </item>
-    <item>
-      <title>Resource consumption in global concrete production</title>
-      <link>https://doi.org/10.1038/s41893-026-01858-z</link>
-      <guid isPermaLink="false">10.1038/s41893-026-01858-z</guid>
-
-      <dc:creator>Seth Kane</dc:creator>
-      <dc:creator>Daniel Costa Reis</dc:creator>
-      <dc:creator>Sabbie A. Miller</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Seth Kane, Daniel Costa Reis, Sabbie A. Miller
-
-Journal: Nature Sustainability; Volume: 9; Issue: 7; Pages: 1109-1117</description>
-    </item>
-    <item>
-      <title>Dynamic solvent exchange for fast-charging lithium batteries and beyond</title>
-      <link>https://doi.org/10.1038/s41893-026-01871-2</link>
-      <guid isPermaLink="false">10.1038/s41893-026-01871-2</guid>
-
-      <dc:creator>Chang-Xin Zhao</dc:creator>
-      <dc:creator>Zheng Li</dc:creator>
-      <dc:creator>Daoning Zhang</dc:creator>
-      <dc:creator>Nan Zhang</dc:creator>
-      <dc:creator>Qiu Zhang</dc:creator>
-      <dc:creator>Zeyi Wang</dc:creator>
-      <dc:creator>Yue Li</dc:creator>
-      <dc:creator>Yawei Chen</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chang-Xin Zhao, Zheng Li, Daoning Zhang, Nan Zhang, Qiu Zhang, Zeyi Wang, Yue Li, Yawei Chen, et al.
-
-Journal: Nature Sustainability; Volume: 9; Issue: 10; Pages: 1651-1661</description>
     </item>
   </channel>
 </rss>

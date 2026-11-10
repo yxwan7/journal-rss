@@ -5,8 +5,19 @@
     <link>https://www.nature.com/natcities/</link>
     <description>Latest journal articles for Nature Cities</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:55:13 +0000</lastBuildDate>
 
+    <item>
+      <title>A louder kind of belonging</title>
+      <link>https://doi.org/10.1038/s44284-026-00545-6</link>
+      <guid isPermaLink="false">10.1038/s44284-026-00545-6</guid>
+
+      <dc:creator>Haiyun Xu</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Haiyun Xu
+
+Journal: Nature Cities</description>
+    </item>
     <item>
       <title>Wild–urban gradient leads to ecological stratification in Singapore’s long-tailed macaques</title>
       <link>https://doi.org/10.1038/s44284-026-00535-8</link>
@@ -1383,21 +1394,6 @@ Journal: Nature Cities; Volume: 3; Issue: 6; Pages: 535-544</description>
       <description>Authors: Bowen Xiang, Mengyao Hong, Fang Guo, Wei Wei
 
 Journal: Nature Cities; Volume: 3; Issue: 6; Pages: 523-534</description>
-    </item>
-    <item>
-      <title>Scaling intra-urban climate fluctuations</title>
-      <link>https://doi.org/10.1038/s44284-026-00441-z</link>
-      <guid isPermaLink="false">10.1038/s44284-026-00441-z</guid>
-
-      <dc:creator>Marc Duran-Sala</dc:creator>
-      <dc:creator>Martin Hendrick</dc:creator>
-      <dc:creator>Gabriele Manoli</dc:creator>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marc Duran-Sala, Martin Hendrick, Gabriele Manoli
-
-Journal: Nature Cities; Volume: 3; Issue: 6; Pages: 545-554
-
-Abstract: Abstract Urban-induced microclimate variations, such as urban heat islands and air pollution, scale with city size, producing distinctive relations between average climate variables and city-scale quantities (for example, total population). However, these relations are sensitive to city boundary definitions and overlook intra-urban variability. Here we overcome these limitations by using high-resolution data of urban temperatures, air quality, population and street networks from 142 cities worldwide, showing that their marginal and joint probability distributions collapse onto a set of general functions inspired by finite-size scaling in statistical physics. Through a logarithmic relation linking urban spatial features to climate variables, we find that average street network properties are sufficient to characterize the full variability of temperature and air pollution fields within and across cities. These findings show that intra-urban climate variability follows general scaling functions, enabling the integration of climate information into reduced-complexity models of urban systems to better inform future urban planning.</description>
     </item>
   </channel>
 </rss>
