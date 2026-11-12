@@ -5,8 +5,28 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 14:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:15:22 +0000</lastBuildDate>
 
+    <item>
+      <title>Multi-model insights into racial and ethnic heterogeneities in early COVID-19 transmission and severity in the U.S.</title>
+      <link>https://doi.org/10.1093/aje/kwag289</link>
+      <guid isPermaLink="false">10.1093/aje/kwag289</guid>
+
+      <dc:creator>Samantha J Bents</dc:creator>
+      <dc:creator>Soren L Larsen</dc:creator>
+      <dc:creator>Sung-mok Jung</dc:creator>
+      <dc:creator>Emily Howerton</dc:creator>
+      <dc:creator>Lucie Contamin</dc:creator>
+      <dc:creator>Sara L Loo</dc:creator>
+      <dc:creator>Nicolò Gozzi</dc:creator>
+      <dc:creator>Jessica T Davis</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Samantha J Bents, Soren L Larsen, Sung-mok Jung, Emily Howerton, Lucie Contamin, Sara L Loo, Nicolò Gozzi, Jessica T Davis, et al.
+
+Journal: American Journal of Epidemiology; Article number: kwag289
+
+Abstract: Abstract The COVID-19 pandemic was marked by unequal disease burden across racial and ethnic groups in the US. Using a multi-model ensemble framework, we retrospectively assessed the impact of racial and ethnic heterogeneities in COVID-19 transmission and disease severity on mortality during the winter 2020–2021 surge in California and North Carolina. Models incorporating race and ethnicity projected mortality more accurately than null models, while the ensemble outperformed all individual models on average by weighted interval scores. Eliminating transmission heterogeneities produced larger mortality reductions than eliminating severity differences alone, particularly for Latino populations in California (55% reduction) and Black populations in North Carolina (28% reduction). Reducing severity heterogeneity also lowered mortality, with the greatest benefit among Black populations in both states (21% and 16% reductions in California and North Carolina, respectively). Eliminating both transmission and severity heterogeneity yielded the largest reductions overall, predicting 49–70% lower mortality across racial and ethnic groups in California and 23–40% in North Carolina. Mitigating transmission inequities also produced indirect benefits for non-targeted populations, highlighting the broad impact of reducing disparities in exposure risk and access to protective resources.</description>
+    </item>
     <item>
       <title>The intersectional compass: the purpose and future of MAIHDA</title>
       <link>https://doi.org/10.1093/aje/kwag286</link>
@@ -1602,24 +1622,6 @@ Abstract: Abstract Target trial emulation prompts investigators to frame their a
       <description>Authors: Gong Zhang, Xichen Fan
 
 Journal: American Journal of Epidemiology; Article number: kwag191</description>
-    </item>
-    <item>
-      <title>The Selenium and Vitamin E Cancer Prevention Trial (SELECT): a secondary, post-intervention analysis on potential excess chronic disease incidence induced by selenium administration</title>
-      <link>https://doi.org/10.1093/aje/kwag189</link>
-      <guid isPermaLink="false">10.1093/aje/kwag189</guid>
-
-      <dc:creator>Marco Vinceti</dc:creator>
-      <dc:creator>Cathee Till</dc:creator>
-      <dc:creator>Phyllis J Goodman</dc:creator>
-      <dc:creator>Tommaso Filippini</dc:creator>
-      <dc:creator>Kenneth J Rothman</dc:creator>
-      <dc:creator>Ian M Thompson Jr.</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco Vinceti, Cathee Till, Phyllis J Goodman, Tommaso Filippini, Kenneth J Rothman, Ian M Thompson Jr.
-
-Journal: American Journal of Epidemiology; Article number: kwag189
-
-Abstract: Abstract The potential for trace amounts of selenium supplements to prevent prostate cancer and other neoplasms was studied in the Selenium and Vitamin E Prevention Trial, a randomized trial conducted in North America for 7-12 years. A total of 34 887 eligible men aged 55 or older were assigned to take either 200 μg selenium from L-selenomethionine, 400 IU vitamin E, both selenium and vitamin E, or placebo. The trial was stopped for futility and concerns about adverse effects. Subsequently, we used incidence and mortality data from Medicare through 2019 and the National Death Index through 2024 to investigate the extent to which selenium administration was associated with increased long-term risk of cancer and neurodegenerative disease, during 341 697 person-years of follow-up. Lung cancer showed little increased risk. Associations were near null for leukemia, non–Hodgkin lymphoma, and Parkinson’s disease, and there was a lower risk for melanoma and colorectal cancer. In contrast, we found a higher risk for Hodgkin lymphoma, multiple myeloma, and amyotrophic lateral sclerosis, which has been associated with selenium overexposure in some nonexperimental studies. Though these latter associations were based on few cases, they were consistent with findings from a range of other studies, possibly indicating long–term adverse effects of this organic selenium compound (registration no. NCT00006392).</description>
     </item>
   </channel>
 </rss>
