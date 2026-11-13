@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:36:28 +0000</lastBuildDate>
 
     <item>
       <title>Roger Detels, 14 October 1936 to 25 July 2026</title>
@@ -573,26 +573,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 6; Article nu
 Abstract: Abstract Background This paper presents a method to convert existing Global Burden of Disease (GBD) forecasts of summary exposure values (SEVs) into business-as-usual forecasts of risk-factor distributions. Method SEVs from the GBD are a relative-risk-weighted summary of risk-factor exposure, ranging from 0 (everyone below the theoretical minimum risk exposure level) to 1 (everyone above the 99th percentile of global exposure). Given the known inputs to calculate SEVs, with one additional assumption of the coefficient of variation of the risk factor, it is possible to generate parametric distributions (e.g. log-normal, gamma) of risk-factor exposures. We demonstrate this method by forecasting SEVs to 2050 by sex, age, and year for body mass index (BMI), systolic blood pressure (SBP), low-density lipoprotein (LDL) cholesterol, and fasting plasma glucose in Australia. Results Our method generates plausible age- and sex-specific risk-factor distribution forecasts for Australia. Compared with the 2017/18 National Health Survey, fasting plasma glucose and LDL cholesterol agreed reasonably well in younger age groups, with wider discrepancies at older ages. SEV-derived distributions overestimated the mean SBP by ∼3–10 mmHg and mean BMI by ∼1 kg/m2 relative to survey estimates. The method was sensitive to values of the 99th global percentile of risk factors. Conclusion This method is extensible to any country or demographic group. To facilitate broader use of this method, we recommend further cross-validation studies for other countries and making key GBD data (e.g. 95th percentiles of risk factors) more publicly available.</description>
     </item>
     <item>
-      <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
-      <link>https://doi.org/10.1093/ije/dyag158</link>
-      <guid isPermaLink="false">10.1093/ije/dyag158</guid>
-
-      <dc:creator>Solomon Keflie Assefa</dc:creator>
-      <dc:creator>Adem Tsegaw Zegeye</dc:creator>
-      <dc:creator>Belayneh Jejaw Abate</dc:creator>
-      <dc:creator>Dejen Kahsay Asgedom</dc:creator>
-      <dc:creator>Eliyas Addisu Taye</dc:creator>
-      <dc:creator>Endalew Minwuye Andargie</dc:creator>
-      <dc:creator>Eyob Akalewold Alemu</dc:creator>
-      <dc:creator>Halima Ayalew Kebede</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Solomon Keflie Assefa, Adem Tsegaw Zegeye, Belayneh Jejaw Abate, Dejen Kahsay Asgedom, Eliyas Addisu Taye, Endalew Minwuye Andargie, Eyob Akalewold Alemu, Halima Ayalew Kebede, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag158
-
-Abstract: Abstract Background Ethiopia has achieved substantial reductions in under-five mortality, but national estimates mask important subnational variation. Reliable zonal estimates are needed to identify high-burden areas and guide local health planning. This study estimated under-five mortality across Ethiopian zones by using a Bayesian spatial small-area estimation (SAE) approach with geospatial covariates. Methods An ecological analysis was conducted by using data from the 2019 Mini-Ethiopian Demographic and Health Survey. Under-five mortality risk was estimated at the zonal level through a Bayesian hierarchical spatial SAE model. Associations with selected area-level covariates were assessed. Smoothed relative risks (RRs) with corresponding 95% credible intervals (CrIs) were reported. Results Marked geographic heterogeneity in under-five mortality was observed. Elevated risks were concentrated in peripheral lowland regions, particularly Somali, Afar, Benishangul-Gumuz, and Gambella. High-burden zones included Afar (Zones 1, 2, and 3), Metekel in Benishangul-Gumuz, Anguak and Nuer in Gambella, and Dollo, Faftan, and Liben in Somali. Population density was inversely associated with mortality (RR: 0.83, 95% CrI: 0.77–0.98), whereas longer travel time to the nearest city was associated with higher under-five mortality (RR: 1.24, 95% CrI: 1.02–1.44). Conclusion Under-five mortality remains unevenly distributed across Ethiopia, with persistent hotspots in remote and underserved regions. Improving geographic access to health services in these areas may help reduce inequalities in child survival and support progress toward the 2030 Sustainable Development Goals.</description>
-    </item>
-    <item>
       <title>Adiposity and infection-related mortality: Mendelian randomization study of 126 000 Mexican adults</title>
       <link>https://doi.org/10.1093/ije/dyag197</link>
       <guid isPermaLink="false">10.1093/ije/dyag197</guid>
@@ -611,6 +591,26 @@ Abstract: Abstract Background Ethiopia has achieved substantial reductions in un
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag197
 
 Abstract: Abstract Background The causal relevance of different adiposity markers to infection-related death remains uncertain. We estimated the lifelong associations of genetically predicted adiposity traits with infection-related mortality among 126 491 Mexican adults. Methods Mendelian randomization (MR) using trans-ancestry instruments for body mass index (BMI), fat-mass percentage (FM%), and waist and hip circumference was used to estimate causal effects on infection-related mortality at ages 35–74 years, overall and across six infection subtypes. Multivariable MR was used to assess independent associations. Results Genetic instruments explained 1.6%–3.5% of the variance in adiposity markers and the strengths of their associations with the markers were similar in men and women. Over 20 years, 2592 infection-related deaths occurred at ages 35–74 years. Genetically predicted adiposity was strongly associated with infection mortality, with the strongest association for FM% [hazard ratio (HR) per 1-SD higher level: 2.54; 95% confidence interval (CI) 1.91–3.38] and the weakest for hip circumference (HR 1.61; 95% CI 1.30–2.01). Associations were consistent across six subtypes: respiratory; urinary tract; gastrointestinal; sepsis; skin, bone, and connective tissue; and other infections. For BMI and FM%, mutual adjustment for waist and hip circumference reduced the associations by nearly one-third. For waist circumference, adjustment for BMI and hip circumference reduced the association by more than half, while, for hip circumference, mutual adjustment for BMI and waist circumference almost eliminated its association. Sensitivity analyses supported the main conclusions. Conclusion Higher adiposity is causally associated with a higher risk of infection-related mortality in Mexican adults. Strategies to reduce the population levels of adiposity in Mexico could contribute to lowering mortality from infection.</description>
+    </item>
+    <item>
+      <title>Spatial small-area estimation of under-five mortality in Ethiopia: mapping subnational inequalities to accelerate SDG achievement</title>
+      <link>https://doi.org/10.1093/ije/dyag158</link>
+      <guid isPermaLink="false">10.1093/ije/dyag158</guid>
+
+      <dc:creator>Solomon Keflie Assefa</dc:creator>
+      <dc:creator>Adem Tsegaw Zegeye</dc:creator>
+      <dc:creator>Belayneh Jejaw Abate</dc:creator>
+      <dc:creator>Dejen Kahsay Asgedom</dc:creator>
+      <dc:creator>Eliyas Addisu Taye</dc:creator>
+      <dc:creator>Endalew Minwuye Andargie</dc:creator>
+      <dc:creator>Eyob Akalewold Alemu</dc:creator>
+      <dc:creator>Halima Ayalew Kebede</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Solomon Keflie Assefa, Adem Tsegaw Zegeye, Belayneh Jejaw Abate, Dejen Kahsay Asgedom, Eliyas Addisu Taye, Endalew Minwuye Andargie, Eyob Akalewold Alemu, Halima Ayalew Kebede, et al.
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag158
+
+Abstract: Abstract Background Ethiopia has achieved substantial reductions in under-five mortality, but national estimates mask important subnational variation. Reliable zonal estimates are needed to identify high-burden areas and guide local health planning. This study estimated under-five mortality across Ethiopian zones by using a Bayesian spatial small-area estimation (SAE) approach with geospatial covariates. Methods An ecological analysis was conducted by using data from the 2019 Mini-Ethiopian Demographic and Health Survey. Under-five mortality risk was estimated at the zonal level through a Bayesian hierarchical spatial SAE model. Associations with selected area-level covariates were assessed. Smoothed relative risks (RRs) with corresponding 95% credible intervals (CrIs) were reported. Results Marked geographic heterogeneity in under-five mortality was observed. Elevated risks were concentrated in peripheral lowland regions, particularly Somali, Afar, Benishangul-Gumuz, and Gambella. High-burden zones included Afar (Zones 1, 2, and 3), Metekel in Benishangul-Gumuz, Anguak and Nuer in Gambella, and Dollo, Faftan, and Liben in Somali. Population density was inversely associated with mortality (RR: 0.83, 95% CrI: 0.77–0.98), whereas longer travel time to the nearest city was associated with higher under-five mortality (RR: 1.24, 95% CrI: 1.02–1.44). Conclusion Under-five mortality remains unevenly distributed across Ethiopia, with persistent hotspots in remote and underserved regions. Improving geographic access to health services in these areas may help reduce inequalities in child survival and support progress toward the 2030 Sustainable Development Goals.</description>
     </item>
     <item>
       <title>When air pollution meets comorbidities: evidence on the causal effect of PM2.5 on COVID-19 hospitalizations and deaths</title>
@@ -668,21 +668,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Although arboviruses constitute a growing global public health threat, data on their circulation in Guinea remain limited. This study aimed to estimate the seroprevalence, spatial distribution, and associated factors of arboviruses in Guinea. Methods We conducted a population-based cross-sectional survey between May and July 2023 among individuals aged ≥5 years in households across Guinea. Household, environmental, and socio-demographic data were collected by using a questionnaire. IgG antibodies against eight arboviruses were detected using Luminex MagPix assays: dengue (DENV), Zika (ZIKV), West Nile (WNV), Usutu (USUV), chikungunya (CHIKV), O’nyong’nyong (ONNV), Rift Valley fever (RVFV), and Crimean–Congo haemorrhagic fever (CCHFV). Seroprevalence and associated factors were analysed by using descriptive statistics and multilevel logistic regression with spatial components. Results A total of 1098 participants from 367 households were included. Overall seroprevalence of arboviruses was 25.0% [95% confidence interval (CI): 22.0–28.0]. The highest seroprevalences were observed for ZIKV (12.0%; 95% CI 9.8–15.0) and WNV (11.6%; 95% CI 9.5–14.0). Boké and Kindia showed higher seroprevalence for ZIKV (33.0% and 22.9%, respectively), WNV (15.0% and 46.6%, respectively), and USUV (19.0% and 23.7%, respectively). In multilevel logistic regression, age [adjusted odds ratio (aOR) = 1.51; 95% CI 1.32–1.77], female sex (aOR = 1.59; 95% CI 1.17–2.16), and people from rich households (aOR = 1.67; 95% CI 1.11–2.43) were associated with seropositivity, with regional heterogeneity (intercept variance = 1.22; 1.10 SD). Conclusion This nationwide survey confirmed widespread arbovirus circulation in Guinea, highlighting a largely underestimated burden. Strengthening epidemiological surveillance and vector control are essential to mitigate future outbreaks.</description>
     </item>
     <item>
-      <title>Evolution of birth-cohort patterns in lifestyle-associated cancer mortality across high-income countries</title>
-      <link>https://doi.org/10.1093/ije/dyag198</link>
-      <guid isPermaLink="false">10.1093/ije/dyag198</guid>
-
-      <dc:creator>Octavio N Bramajo</dc:creator>
-      <dc:creator>Leah R Abrams</dc:creator>
-      <dc:creator>Neil K Mehta</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Octavio N Bramajo, Leah R Abrams, Neil K Mehta
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag198
-
-Abstract: Abstract Background Cancer mortality levels have declined across high-income countries, but progress has been uneven by cancer type. Examining birth-cohort patterns of lifestyle-related cancer mortality in an international context can shed light on how shared and differential global lifestyle transitions manifest differently across national contexts. Methods We used harmonized cause-of-death data from the Human Cause of Death series of the Human Mortality Database for Canada, Czechia, England &amp;amp; Wales, France, Germany, Japan, Spain, and the USA from 2000 to 2020. We examined mortality from lung and larynx, colorectal, stomach, and liver cancer for ages 30–84 years by using rates of mortality improvement displayed on Lexis surfaces. Single-age death rates were estimated from grouped data by using penalized composite link models. Two-factor Poisson models and sex-stratified surfaces served as sensitivity analyses. Results All eight countries showed declining age-standardized cancer mortality, but with diverging trends by cause and birth cohorts. Lung and larynx cancer declined broadly, with mortality patterns reflecting cohort cigarette-smoking histories. Colorectal cancer mortality increased among cohorts born after 1960 in the USA, Canada, and England &amp;amp; Wales, with a similar but delayed pattern in France and Germany. Liver cancer mortality was higher for cohorts born in 1945–55 than for earlier and later cohorts in several countries, with a re-emerging adverse pattern among cohorts born in around 1970–80. Conclusion Birth-cohort patterns in lifestyle-associated cancer mortality differ across national contexts. Worsening colorectal and liver cancer trends among younger cohorts call for increased prevention and screening strategies.</description>
-    </item>
-    <item>
       <title>Estimating lead time and overdiagnosis in cancer screening programmes: the MOCCI method</title>
       <link>https://doi.org/10.1093/ije/dyag167</link>
       <guid isPermaLink="false">10.1093/ije/dyag167</guid>
@@ -732,6 +717,21 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Background Although polysomnography (PSG) is the diagnostic gold standard, PSG data on obstructive sleep apnea (OSA) presence and severity are rarely available at the population level. Health administrative databases offer broad coverage for OSA case ascertainment but require methods that address inherent misclassification. We utilized a previously validated probabilistic case ascertainment model of OSA to estimate population-level prevalence and correlates of OSA. Methods We conducted a population-based retrospective cohort study in Ontario, Canada. First, using a clinical cohort with PSG-confirmed OSA severity (measurement cohort; n = 18 581), we quantified misclassification in probabilistic OSA case definitions. We then applied the externally validated probability models to all adults 18 years and older in Ontario who underwent in-laboratory overnight PSG between 2010 and 2018 (provincial PSG cohort; n = 834 361). OSA prevalence and correlates were estimated using multiple probability thresholds and a threshold-free bootstrap imputation approach (BIA). Results Compared to the PSG-based gold standard, the BIA surrogate definition had the lowest average relative bias in OSA prevalence estimation (BIA: 5% versus &amp;amp;gt;38% probability threshold: 11.4%). Using BIA, we estimate a 44.3% prevalence of moderate-severe OSA in the provincial PSG cohort, which in scenario-based projections yields a 3.4%–17.1% general population prevalence dependent on an assumed OSA underdiagnosis rate. OSA prevalence was higher in men, older ages, and previous comorbidity and was stable annually. Conclusion Probabilistic case ascertainment using health administrative data enables robust population-level estimation of OSA epidemiology despite the absence of clinical diagnostic data and provides a framework for studying OSA prevalence, correlates, and outcomes over time.</description>
     </item>
     <item>
+      <title>Evolution of birth-cohort patterns in lifestyle-associated cancer mortality across high-income countries</title>
+      <link>https://doi.org/10.1093/ije/dyag198</link>
+      <guid isPermaLink="false">10.1093/ije/dyag198</guid>
+
+      <dc:creator>Octavio N Bramajo</dc:creator>
+      <dc:creator>Leah R Abrams</dc:creator>
+      <dc:creator>Neil K Mehta</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Octavio N Bramajo, Leah R Abrams, Neil K Mehta
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag198
+
+Abstract: Abstract Background Cancer mortality levels have declined across high-income countries, but progress has been uneven by cancer type. Examining birth-cohort patterns of lifestyle-related cancer mortality in an international context can shed light on how shared and differential global lifestyle transitions manifest differently across national contexts. Methods We used harmonized cause-of-death data from the Human Cause of Death series of the Human Mortality Database for Canada, Czechia, England &amp;amp; Wales, France, Germany, Japan, Spain, and the USA from 2000 to 2020. We examined mortality from lung and larynx, colorectal, stomach, and liver cancer for ages 30–84 years by using rates of mortality improvement displayed on Lexis surfaces. Single-age death rates were estimated from grouped data by using penalized composite link models. Two-factor Poisson models and sex-stratified surfaces served as sensitivity analyses. Results All eight countries showed declining age-standardized cancer mortality, but with diverging trends by cause and birth cohorts. Lung and larynx cancer declined broadly, with mortality patterns reflecting cohort cigarette-smoking histories. Colorectal cancer mortality increased among cohorts born after 1960 in the USA, Canada, and England &amp;amp; Wales, with a similar but delayed pattern in France and Germany. Liver cancer mortality was higher for cohorts born in 1945–55 than for earlier and later cohorts in several countries, with a re-emerging adverse pattern among cohorts born in around 1970–80. Conclusion Birth-cohort patterns in lifestyle-associated cancer mortality differ across national contexts. Worsening colorectal and liver cancer trends among younger cohorts call for increased prevention and screening strategies.</description>
+    </item>
+    <item>
       <title>Not always towards the null: reconsidering the direction of overadjustment bias</title>
       <link>https://doi.org/10.1093/ije/dyag215</link>
       <guid isPermaLink="false">10.1093/ije/dyag215</guid>
@@ -770,24 +770,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Abstract: Abstract Negative controls have gained traction as a useful tool for causal research to address confounding and bias. However, general guidance on how to select and apply negative controls and how to report and interpret their findings is lacking. This paper lays out the key steps of conducting a negative-control analysis and provides all relevant background information, important feasibility and validity considerations, and practical suggestions for the implementation and interpretation of each step. This includes a convenient overview of all methods, complete with their rationale, key considerations, and illustrative examples, and practical checklists that both researchers and reviewers can use to facilitate the complete and rigorous reporting of negative-control analyses.</description>
     </item>
     <item>
-      <title>Data Resource Profile: The General Practice Database—Amsterdam, North Holland, Almere (GPD-ANHA)</title>
-      <link>https://doi.org/10.1093/ije/dyag175</link>
-      <guid isPermaLink="false">10.1093/ije/dyag175</guid>
-
-      <dc:creator>Jos P Kanning</dc:creator>
-      <dc:creator>Habibollah Pirnejad</dc:creator>
-      <dc:creator>Awa A Gassama</dc:creator>
-      <dc:creator>Coralie R Arends</dc:creator>
-      <dc:creator>Johanna H K Joosten</dc:creator>
-      <dc:creator>Natasja D Vijfschagt</dc:creator>
-      <dc:creator>Ralf E Harskamp</dc:creator>
-      <dc:creator>Otto R Maarsingh</dc:creator>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jos P Kanning, Habibollah Pirnejad, Awa A Gassama, Coralie R Arends, Johanna H K Joosten, Natasja D Vijfschagt, Ralf E Harskamp, Otto R Maarsingh, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag175</description>
-    </item>
-    <item>
       <title>Cohort Profile: Kinship, nuptiality and child well-being in Africa—the JAMO study</title>
       <link>https://doi.org/10.1093/ije/dyag178</link>
       <guid isPermaLink="false">10.1093/ije/dyag178</guid>
@@ -806,20 +788,22 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag178</description>
     </item>
     <item>
-      <title>Sicker at all ages? Two decades of changing disease histories and mortality in the United States</title>
-      <link>https://doi.org/10.1093/ije/dyag217</link>
-      <guid isPermaLink="false">10.1093/ije/dyag217</guid>
+      <title>Data Resource Profile: The General Practice Database—Amsterdam, North Holland, Almere (GPD-ANHA)</title>
+      <link>https://doi.org/10.1093/ije/dyag175</link>
+      <guid isPermaLink="false">10.1093/ije/dyag175</guid>
 
-      <dc:creator>Marcus Ebeling</dc:creator>
-      <dc:creator>Neil K Mehta</dc:creator>
-      <dc:creator>Leah Abrams</dc:creator>
-      <dc:creator>Mikko Myrskylä</dc:creator>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marcus Ebeling, Neil K Mehta, Leah Abrams, Mikko Myrskylä
+      <dc:creator>Jos P Kanning</dc:creator>
+      <dc:creator>Habibollah Pirnejad</dc:creator>
+      <dc:creator>Awa A Gassama</dc:creator>
+      <dc:creator>Coralie R Arends</dc:creator>
+      <dc:creator>Johanna H K Joosten</dc:creator>
+      <dc:creator>Natasja D Vijfschagt</dc:creator>
+      <dc:creator>Ralf E Harskamp</dc:creator>
+      <dc:creator>Otto R Maarsingh</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jos P Kanning, Habibollah Pirnejad, Awa A Gassama, Coralie R Arends, Johanna H K Joosten, Natasja D Vijfschagt, Ralf E Harskamp, Otto R Maarsingh, et al.
 
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag217
-
-Abstract: Abstract Background Stagnating cardiovascular disease mortality and rising drug- and suicide-related deaths are key drivers of stalled US mortality improvements. However, prior research has largely overlooked disease histories preceding death, despite increasing multimorbidity. We examined changes in disease-history profiles in the US population and assessed how shifts in profile composition and within-profile mortality shaped mortality trends. Methods We analysed adults aged ≥30 years (N = 510 372) from the IPUMS-NHIS (National Health Interview Survey) 1997–2018 linked mortality files (follow-up through 2019). Latent class analysis on the pooled sample across all ages and years identified disease-history profiles based on self-reported cancer, diabetes, cardiovascular disease, mental health, internal diseases, obesity, and physical limitations. Logistic regression was used to estimate profile-specific 5-year mortality over time, and counterfactual decomposition was used to quantify the contributions of compositional change and within-profile mortality improvement to overall mortality trends. Results Five disease-history profiles were identified. Prevalence and 5-year death probability ranged from disease-free (62.4%; men 3.7% [95% confidence interval (CI) 3.5–3.8], women 2.4% [95% CI 2.3–2.5]) to high-burden multimorbidity (5.9%; men 17.8% [95% CI 16.8–18.8], women 12.6% [95% CI 11.9–13.3]), with substantial gradients across intermediate profiles. Profile composition varied substantially by gender, education, and race/ethnicity. The disease-free population declined by nearly 1% annually, replaced primarily by cardiometabolic and high-burden multimorbidity profiles. Most profiles experienced stagnating or increasing mortality after the mid-2000s. The decomposition shows that within-profile mortality improvement was the dominant driver of declining mortality; compositional shifts, mostly driven by the declining disease-free share, partially offset these gains. Conclusion Stagnating US mortality reflects both the growing prevalence of high-morbidity profiles and worsening or stagnating survival within them, highlighting the limited reach of prevention and disease-management efforts.</description>
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag175</description>
     </item>
     <item>
       <title>Data Resource Profile: The Korean National Health Insurance Service Mother-Child Linked Database (NHIS-MCLD): a nationwide administrative database with a cohort design</title>
@@ -836,6 +820,22 @@ Abstract: Abstract Background Stagnating cardiovascular disease mortality and ri
       <description>Authors: Jeong-Won Oh, Seung-Ah Choe, Eunseon Gwak, Seong Yong Park, Young June Choe, Sung-Il Cho
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag206</description>
+    </item>
+    <item>
+      <title>Sicker at all ages? Two decades of changing disease histories and mortality in the United States</title>
+      <link>https://doi.org/10.1093/ije/dyag217</link>
+      <guid isPermaLink="false">10.1093/ije/dyag217</guid>
+
+      <dc:creator>Marcus Ebeling</dc:creator>
+      <dc:creator>Neil K Mehta</dc:creator>
+      <dc:creator>Leah Abrams</dc:creator>
+      <dc:creator>Mikko Myrskylä</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marcus Ebeling, Neil K Mehta, Leah Abrams, Mikko Myrskylä
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag217
+
+Abstract: Abstract Background Stagnating cardiovascular disease mortality and rising drug- and suicide-related deaths are key drivers of stalled US mortality improvements. However, prior research has largely overlooked disease histories preceding death, despite increasing multimorbidity. We examined changes in disease-history profiles in the US population and assessed how shifts in profile composition and within-profile mortality shaped mortality trends. Methods We analysed adults aged ≥30 years (N = 510 372) from the IPUMS-NHIS (National Health Interview Survey) 1997–2018 linked mortality files (follow-up through 2019). Latent class analysis on the pooled sample across all ages and years identified disease-history profiles based on self-reported cancer, diabetes, cardiovascular disease, mental health, internal diseases, obesity, and physical limitations. Logistic regression was used to estimate profile-specific 5-year mortality over time, and counterfactual decomposition was used to quantify the contributions of compositional change and within-profile mortality improvement to overall mortality trends. Results Five disease-history profiles were identified. Prevalence and 5-year death probability ranged from disease-free (62.4%; men 3.7% [95% confidence interval (CI) 3.5–3.8], women 2.4% [95% CI 2.3–2.5]) to high-burden multimorbidity (5.9%; men 17.8% [95% CI 16.8–18.8], women 12.6% [95% CI 11.9–13.3]), with substantial gradients across intermediate profiles. Profile composition varied substantially by gender, education, and race/ethnicity. The disease-free population declined by nearly 1% annually, replaced primarily by cardiometabolic and high-burden multimorbidity profiles. Most profiles experienced stagnating or increasing mortality after the mid-2000s. The decomposition shows that within-profile mortality improvement was the dominant driver of declining mortality; compositional shifts, mostly driven by the declining disease-free share, partially offset these gains. Conclusion Stagnating US mortality reflects both the growing prevalence of high-morbidity profiles and worsening or stagnating survival within them, highlighting the limited reach of prevention and disease-management efforts.</description>
     </item>
     <item>
       <title>Have Australians become more lonely and socially isolated? A longitudinal analysis of the Household, Income and Labour Dynamics in Australia study</title>
@@ -1686,6 +1686,21 @@ Abstract: Abstract Background In birth-cohort studies, response rates generally 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag151</description>
     </item>
     <item>
+      <title>Gestational misalignment with fixed exposure windows: the potential dangers of zero-filling in distributed lag models</title>
+      <link>https://doi.org/10.1093/ije/dyag162</link>
+      <guid isPermaLink="false">10.1093/ije/dyag162</guid>
+
+      <dc:creator>Michael Leung</dc:creator>
+      <dc:creator>Andreas M Neophytou</dc:creator>
+      <dc:creator>Ander Wilson</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michael Leung, Andreas M Neophytou, Ander Wilson
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag162
+
+Abstract: Abstract Background Distributed lag models (DLMs) are widely used in perinatal epidemiology to identify critical windows during pregnancy in which environmental exposures influence pregnancy/birth outcomes. A well-known complication of fitting DLMs in this context is that they require the same length of exposure history for every individual even though not all pregnancies are of the same duration. This misalignment often leads researchers to artificially extend exposure histories to a fixed length and fill post-birth weeks with zeroes (i.e. “zero-filling”). Despite its widespread use, the implications of zero-filling have not been formally evaluated. Methods We demonstrate conceptually that zero-filling induces a spurious association between gestational age and late-pregnancy exposures, thus introducing confounding that was otherwise not present in the observed data. We then conducted a simulation study and a real data application using air pollution and birth weight data from a Colorado-based cohort to compare zero-filling with alternative approaches to handle the misalignment between exposure window and gestation. Results In our simulations, we found that zero-filling produced the largest bias, poorest coverage, and highest root mean squared error. In the analysis of the Colorado birth data, zero-filling produced implausibly strong associations. Adjusting for gestational age attenuated this bias. Alternative approaches of carrying forward the last pre-birth exposure value, using observed post-birth exposures, and, in some situations, truncation at 37 weeks eliminate this bias. Conclusion Zero-filling can cause bias in the estimated associations when using distributed lag models.</description>
+    </item>
+    <item>
       <title>Data Resource Profile: Medicines in Acute and Chronic Care in Scotland (MACCS)</title>
       <link>https://doi.org/10.1093/ije/dyag187</link>
       <guid isPermaLink="false">10.1093/ije/dyag187</guid>
@@ -1702,26 +1717,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
       <description>Authors: Cosmika Goswami, Tanja Mueller, Amanj Kurdi, Ewan Pearson, Khaled Bedir, Alexandra Tolfrey, Hazel Close, Marion Bennie
 
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag187</description>
-    </item>
-    <item>
-      <title>Maternal smoking and risk of childhood cancer: a report from the Childhood Cancer and Leukemia International Consortium</title>
-      <link>https://doi.org/10.1093/ije/dyag225</link>
-      <guid isPermaLink="false">10.1093/ije/dyag225</guid>
-
-      <dc:creator>Allison Domingues</dc:creator>
-      <dc:creator>Logan G Spector</dc:creator>
-      <dc:creator>Giorgio Tettamanti</dc:creator>
-      <dc:creator>Maria Feychting</dc:creator>
-      <dc:creator>Atte Nikkilä</dc:creator>
-      <dc:creator>Anssi Auvinen</dc:creator>
-      <dc:creator>Wafa Alimam</dc:creator>
-      <dc:creator>Jad Abuhamed</dc:creator>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Allison Domingues, Logan G Spector, Giorgio Tettamanti, Maria Feychting, Atte Nikkilä, Anssi Auvinen, Wafa Alimam, Jad Abuhamed, et al.
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag225
-
-Abstract: Abstract Background Although tobacco is an established carcinogen and components of tobacco smoke may cross the placental membrane, past studies of maternal prenatal smoking and childhood cancer have resulted in mixed or null results. However, many studies have relied on case–control methods and may be susceptible to various biases. We aimed to elucidate the nature of the relationship between maternal prenatal smoking and childhood cancer through a multinational analysis of prospectively recorded record-linkage studies with probabilistic bias methods. Methods Data for this analysis came from existing population-based case–control record-linkage studies in the Childhood Cancer and Leukemia International Consortium, with studies from the USA, Sweden, Finland, and Denmark, including more than 20 000 cases and 300 000 controls. We assessed the association between maternal prenatal smoking and childhood cancer using logistic regression. Additionally, we conducted probabilistic bias analysis to investigate the effect of exposure misclassification using sensitivities and specificities from biomarker-based validation studies. Results Both before and after bias adjustment, maternal smoking was not found to be associated with most cancers investigated. Maternal prenatal smoking was inversely associated with paediatric melanoma [bias-adjusted odds ratio (OR) 0.68, 95% simulation interval (SI): 0.47–0.98] and skin carcinomas and other/unspecified carcinomas (bias-adjusted OR: 0.72, 95% SI: 0.52–0.96), and positively associated and unspecified malignant tumours (bias-adjusted OR: 1.50, 95% SI: 1.21–1.84). Conclusions This analysis supports previous findings that there is little evidence of an effect of maternal prenatal smoking on childhood cancer risk, with few potential exceptions. However, due to numerous other detrimental effects, public health efforts should continue to further reduce its prevalence.</description>
     </item>
   </channel>
 </rss>
