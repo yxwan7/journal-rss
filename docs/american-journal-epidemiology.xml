@@ -5,8 +5,24 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:31:23 +0000</lastBuildDate>
 
+    <item>
+      <title>Causal Machine Learning for Treatment Effect Heterogeneity: Interpretation, Benchmarking, Validation</title>
+      <link>https://doi.org/10.1093/aje/kwag294</link>
+      <guid isPermaLink="false">10.1093/aje/kwag294</guid>
+
+      <dc:creator>Philip Heesen</dc:creator>
+      <dc:creator>Maresa Schröder</dc:creator>
+      <dc:creator>Rishi J Desai</dc:creator>
+      <dc:creator>Stefan Feuerriegel</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Philip Heesen, Maresa Schröder, Rishi J Desai, Stefan Feuerriegel
+
+Journal: American Journal of Epidemiology; Article number: kwag294
+
+Abstract: Abstract Causal machine learning (ML) has emerged as a promising approach for predicting individualized treatment effects and advancing precision medicine, moving beyond the limitations of conventional one-variable-at-a-time subgroup analyses of randomized trials. A recent benchmarking study by Chen and colleagues evaluated several causal ML learners across two large trials and concluded that current methods do not yet demonstrate reliable performance for clinical application. While such applied methodological investigations are valuable, this conclusion warrants a more nuanced examination. Multiple independent research groups have successfully applied causal ML across respiratory medicine and critical care, identifying clinically meaningful treatment effect heterogeneity that prior subgroup analyses had not resolved, although these applications have methodological limitations and do not yet establish that the detected heterogeneity is robust across internal and external validation. We outline four sequential and iterative dimensions central to credible causal ML analyses: choice of learner, model training with cross-fitting, internal validation using calibration-for-benefit and rank-weighted metrics, and external validation aligned with the original causal question. With careful methodological execution, causal ML holds considerable promise for personalized treatment decisions and warrants continued development; dismissing the field prematurely risks overlooking a powerful tool for personalized treatment decisions.</description>
+    </item>
     <item>
       <title>Multi-model insights into racial and ethnic heterogeneities in early COVID-19 transmission and severity in the U.S.</title>
       <link>https://doi.org/10.1093/aje/kwag289</link>
@@ -318,7 +334,7 @@ Journal: American Journal of Epidemiology; Article number: kwag276
 Abstract: Abstract Residential racial segregation is hypothesized to cause inequities in cardiovascular disease (CVD). Yet existing work is largely associational and has rarely tested the longitudinal effects of childhood segregation on later CVD. Here, we leverage quasi-random urban planning decisions in Northern US cities prior to the Great Migration as an instrument for segregation as Black families moved north, providing a natural experiment. We specifically followed Ananat’s work showing railroad track configurations serve as an instrument for segregation at the metropolitan area level. We linked Ananat’s data to the birthplaces of participants in the Panel Study of Income Dynamics (1968-1994, n = 871 Black and 1418 White), following them through 2023. Race-stratified accelerated failure time models used an instrumental variables design and cluster bootstrapping, progressively adjusting for other railroad features, socioeconomic status, and birth year. Estimates suggest childhood residential segregation causally delays the onset of CVD or hypertension for White people, but speeds it up for Black people, though CIs and instrument strength varied across model specifications. Non-instrumented models directly adjusting for confounders yielded strongly attenuated results in the same direction. Segregation is likely a cause of Black–White CVD inequities, not just a correlate. Causal designs across the life course are needed.</description>
     </item>
     <item>
-      <title>The French Paradox 2, a remake for Norway ?</title>
+      <title>The French paradox 2, a remake for Norway?</title>
       <link>https://doi.org/10.1093/aje/kwag274</link>
       <guid isPermaLink="false">10.1093/aje/kwag274</guid>
 
@@ -329,9 +345,7 @@ Abstract: Abstract Residential racial segregation is hypothesized to cause inequ
 Journal: American Journal of Epidemiology; Article number: kwag274</description>
     </item>
     <item>
-      <title>&lt;b&gt;Military-specific factors and incident melanoma diagnoses among active duty participants in the millennium cohort study, 2000&lt;/b&gt;
-                    -
-                    &lt;b&gt;2021&lt;/b&gt;</title>
+      <title>Military-specific factors and incident melanoma diagnoses among active duty participants in the Millennium Cohort Study, 2000-2021</title>
       <link>https://doi.org/10.1093/aje/kwag269</link>
       <guid isPermaLink="false">10.1093/aje/kwag269</guid>
 
@@ -348,7 +362,7 @@ Journal: American Journal of Epidemiology; Article number: kwag274</description>
 
 Journal: American Journal of Epidemiology; Article number: kwag269
 
-Abstract: Abstract Service members experience unique occupational hazards that may increase their risk for melanoma. This longitudinal study aimed to determine associations between deployment status, environmental exposures, and solar exposures and incident melanoma among active duty service members. Millennium Cohort Study survey data (2001-2021) were linked with deployment and military health care records (2000-2021). Adjusted Cox proportional hazards models estimated effects of exposures and covariates on incident melanoma. Risk of melanoma diagnosis by age (early vs late onset) and anatomical site (sun-protected vs sun-exposed skin) were also estimated. Among 115,512 service members, 184 were diagnosed with melanoma during the study period (61% were &amp;amp;lt;40 years old and 77% diagnosed on sun-protected skin). Melanoma risk by demographics was consistent with civilian studies. Among this military population, those who deployed (adjusted hazard ratio [AHR] 0.55 [95% CI 0.40, 0.75]) had reduced melanoma risk. Conversely, those who self-reported being exposed to occupational hazards (AHR 1.43 [95% CI 1.05, 1.95]) had elevated melanoma risk. Findings were consistent with the “healthy deployer effect,” while self-reported occupational hazards were associated with an increased risk of melanoma. Results may be informative for understanding melanoma etiology, risk counseling, and screening.</description>
+Abstract: Abstract Service members experience unique occupational hazards that may increase their risk for melanoma. This longitudinal study aimed to determine associations between deployment status, environmental exposures, and solar exposures and incident melanoma among active duty service members. Millennium Cohort Study survey data (2001-2021) were linked with deployment and military health care records (2000-2021). Adjusted Cox proportional hazards models estimated the effects of exposures and covariates on incident melanoma. The risk of melanoma diagnosis by age (early vs late onset) and anatomical site (sun-protected vs sun-exposed skin) was also estimated. Among 115 512 service members, 184 were diagnosed with melanoma during the study period (61% were &amp;amp;lt;40 years old, and 77% were diagnosed on sun-protected skin). Melanoma risk by demographics was consistent with civilian studies. Among this military population, those who deployed (adjusted hazard ratio [AHR] 0.55 [95% confidence interval {CI}, 0.40, 0.75]) had a reduced melanoma risk. Conversely, those who self-reported being exposed to occupational hazards (AHR 1.43 [95% CI, 1.05, 1.95]) had an elevated melanoma risk. Findings were consistent with the “healthy deployer effect,” while self-reported occupational hazards were associated with an increased risk of melanoma. Results may be informative for understanding melanoma etiology, risk counseling, and screening.</description>
     </item>
     <item>
       <title>The authors reply to ‘consistency and positivity are valuable for causal education and communication’ by lee Kennedy-Shaffer</title>
@@ -377,7 +391,7 @@ Journal: American Journal of Epidemiology; Article number: kwag270</description>
 
 Journal: American Journal of Epidemiology; Article number: kwag271
 
-Abstract: Abstract Although social isolation is known to impact those with cardiovascular disease, its relationship with incident hypertension is unclear. In this retrospective cohort study, we used data from the All of Us research program. Participants were enrolled between May 2017-April 2023, aged 50+ years, and had at least 60-days of EHR data pre-index date. We identified incident hypertension during follow-up. Those classified as hypertensive at or prior to the index date were excluded. We defined low social support and loneliness as binary variables. Using causal forests, we estimated treatment effects as unweighted and overlap-weighted risk differences (RD). A total of 24,720 participants with a median follow-up of 2.6 years were included. While loneliness and social support were not significantly associated with incident hypertension in the overall population, causal forests revealed meaningful effect heterogeneity, with socially isolated male (RD: 0.038, 95% CI 0.002 to 0.075; overlap-weighted RD: 0.027, 95% CI -0.005 to 0.059) and Gay or Lesbian participants (RD: 0.108, 95% CI 0.011 to 0.205; overlap-weighted RD: 0.11, 95% CI 0.008 to 0.211) experiencing a significantly elevated risk. This illustrates how machine learning, when embedded within epidemiologic frameworks, can detect subgroup vulnerability that other approaches may obscure, enabling targeting of limited resources.</description>
+Abstract: Abstract Although social isolation is known to impact those with cardiovascular disease, its relationship with incident hypertension is unclear. In this retrospective cohort study, we used data from the All of Us research program. Participants were enrolled between May 2017 and April 2023, aged 50+ years, and had at least 60-days of EHR data pre–index date. We identified incident hypertension during follow-up. Those classified as hypertensive at or prior to the index date were excluded. We defined low social support and loneliness as binary variables. Using causal forests, we estimated treatment effects as unweighted and overlap-weighted risk differences (RDs). A total of 24 720 participants with a median follow-up of 2.6 years were included. While loneliness and social support were not significantly associated with incident hypertension in the overall population, causal forests revealed meaningful effect heterogeneity, with socially isolated male (RD: 0.038, 95% CI 0.002 to 0.075; overlap-weighted RD: 0.027, 95% CI −0.005 to 0.059) and Gay or Lesbian participants (RD: 0.108, 95% CI 0.011 to 0.205; overlap-weighted RD: 0.11, 95% CI 0.008 to 0.211) experiencing a significantly elevated risk. This illustrates how machine learning, when embedded within epidemiologic frameworks, can detect subgroup vulnerability that other approaches may obscure, enabling targeting of limited resources.</description>
     </item>
     <item>
       <title>Quantifying lifetime risk of Lyme disease: a population-based modeling study in the United States</title>
@@ -502,20 +516,20 @@ Journal: American Journal of Epidemiology; Article number: kwag265</description>
       <dc:creator>Nancy X Chen</dc:creator>
       <dc:creator>Miriam T Ashford</dc:creator>
       <dc:creator>Chengshi Jin</dc:creator>
-      <dc:creator>L Paloma Rojas-Saunero</dc:creator>
+      <dc:creator>Liliana Paloma Rojas-Saunero</dc:creator>
       <dc:creator>Elizabeth Rose Mayeda</dc:creator>
       <dc:creator>Alejandra Morlett-Paredes</dc:creator>
       <dc:creator>Erika Cavallone</dc:creator>
       <dc:creator>Sarah Tomaszewski Farias</dc:creator>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nancy X Chen, Miriam T Ashford, Chengshi Jin, L Paloma Rojas-Saunero, Elizabeth Rose Mayeda, Alejandra Morlett-Paredes, Erika Cavallone, Sarah Tomaszewski Farias, et al.
+      <description>Authors: Nancy X Chen, Miriam T Ashford, Chengshi Jin, Liliana Paloma Rojas-Saunero, Elizabeth Rose Mayeda, Alejandra Morlett-Paredes, Erika Cavallone, Sarah Tomaszewski Farias, et al.
 
 Journal: American Journal of Epidemiology; Article number: kwag253
 
-Abstract: Abstract Subjective cognitive decline and subtle objective cognitive impairment are important early clinical stages of dementia, but the extent to which they vary across intersectional identities remains poorly understood. We examined differences in subjective and objective cognition across intersectional identities defined by gender, race/ethnicity, and education. We analyzed 20,814 participants aged 45+ from the Brain Health Registry. Subjective cognition was measured using the 39-item Everyday Cognition Scale. Objective cognition was measured using the Cambridge Cognition Paired Associates Learning test. We defined 24 intersectional strata based on gender (men, women), race/ethnicity (Latino, Asian, Black, White), and education (≤associate’s, bachelor’s, graduate degree). Using Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA), we estimated age-adjusted linear mixed models then additionally adjusted for the additive effects of gender, race/ethnicity, and education to evaluate whether random effects of the intersectional identity strata explained variance beyond individual fixed effects. Between-stratum variance accounted for ≤6% of the total variance in subjective and objective cognition. Most (79-98%) of this between-stratum variance was explained by additive effects of gender, race/ethnicity, and education. Additive sociodemographic effects explained most disparities in mid- to late-life subjective and objective cognition across intersectional strata, with limited residual intersectional heterogeneity beyond these additive effects.</description>
+Abstract: Abstract Subjective cognitive decline (SCD) and subtle objective cognitive impairment are important early clinical stages of dementia, but the extent to which they vary across intersectional identities remains poorly understood. We examined differences in subjective and objective cognition across intersectional identities defined by gender, race/ethnicity, and education. We analyzed 20 814 participants aged 45+ from the Brain Health Registry (BHR). Subjective cognition was measured using the 39-item Everyday Cognition (ECog) Scale. Objective cognition was measured using the Cambridge Cognition Paired Associates Learning (PAL)test. We defined 24 intersectional strata based on gender (men, women), race/ethnicity (Latino, Asian, Black, White), and education (≤associate’s, bachelor’s, graduate degree). Using Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA), we estimated age-adjusted linear mixed models then additionally adjusted for the additive effects of gender, race/ethnicity, and education to evaluate whether random effects of the intersectional identity strata explained variance beyond individual fixed effects. Between-stratum variance accounted for ≤6% of the total variance in subjective and objective cognition. Most (79%-98%) of this between-stratum variance was explained by additive effects of gender, race/ethnicity, and education. Additive sociodemographic effects explained most disparities in mid- to late-life subjective and objective cognition across intersectional strata, with limited residual intersectional heterogeneity beyond these additive effects.</description>
     </item>
     <item>
-      <title>A Bayesian Approach to Estimating Changes in Small Area Life Expectancy Disparities in Philadelphia</title>
+      <title>A Bayesian approach to estimating changes in small area life expectancy disparities in Philadelphia</title>
       <link>https://doi.org/10.1093/aje/kwag262</link>
       <guid isPermaLink="false">10.1093/aje/kwag262</guid>
 
@@ -528,10 +542,10 @@ Abstract: Abstract Subjective cognitive decline and subtle objective cognitive i
 
 Journal: American Journal of Epidemiology; Article number: kwag262
 
-Abstract: Abstract There is substantial geographic variation in life expectancy (LE). The COVID-19 pandemic caused a mortality crisis, but it is unclear how small-area variations in LE changed during the pandemic. We estimated gender-specific LE by census tract in Philadelphia, Pennsylvania (2017–2019 and 2020–2022), and compared disparities in LE at birth before and during the pandemic. To account for small counts, we employed a Bayesian Poisson model borrowing strength from neighboring census tracts by using conditional autoregressive priors, and from known age-specific mortality patterns by using an adaptation of the TOPALS (tool for projecting age patterns using linear splines) method. We then summarized LE and computed total and income-based disparities in LE by period. The median [10th–90th percentile] change in LE during the pandemic was −2.10 [−5.39 to 0.40] and −1.37 [−3.23 to 0.39] years for men and women, respectively. Declines were concentrated in the same areas that had lower LE at baseline. We found widening disparities due to a steeper decline in LE in lower-income areas during the pandemic. Our study leveraged Bayesian models to produce reliable local-level estimates in small areas, highlighting the disparate impacts that the pandemic had on population health.</description>
+Abstract: Abstract There is substantial geographic variation in life expectancy (LE). The COVID-19 pandemic caused a mortality crisis, but it is unclear how small-area variations in LE changed during the pandemic. We estimated gender-specific LE by census tract in Philadelphia, PA (2017-2019 and 2020-2022), and compared disparities in LE at birth before and during the pandemic. To account for small counts, we employed a Bayesian Poisson model borrowing strength from neighboring census tracts by using conditional autoregressive priors, and from known age-specific mortality patterns by using an adaptation of the tool for projecting age patterns using linear splines method. We then summarized LE and computed total and income-based disparities in LE by period. The median (10th-90th percentile) change in LE during the pandemic was −2.10 (−5.39 to 0.40) and −1.37 (−3.23 to 0.39) years for men and women, respectively. Declines were concentrated in the same areas that had lower LE at baseline. We found widening disparities due to a steeper decline in LE in lower-income areas during the pandemic. Our study leveraged Bayesian models to produce reliable local-level estimates in small areas, highlighting the disparate impacts that the pandemic had on population health.</description>
     </item>
     <item>
-      <title>Classification Matters: Divergent Estimates of Dementia Risk Factors in the Health and Retirement Study</title>
+      <title>Classification matters: divergent estimates of dementia risk factors in the health and retirement study</title>
       <link>https://doi.org/10.1093/aje/kwag260</link>
       <guid isPermaLink="false">10.1093/aje/kwag260</guid>
 
@@ -541,17 +555,17 @@ Abstract: Abstract There is substantial geographic variation in life expectancy 
       <dc:creator>Karla Renata Flores Romero</dc:creator>
       <dc:creator>Zachary J Kunicki</dc:creator>
       <dc:creator>M Maria Glymour</dc:creator>
-      <dc:creator>Kaitlin Casaletto</dc:creator>
+      <dc:creator>Kaitlin B Casaletto</dc:creator>
       <dc:creator>Jacqueline M Torres</dc:creator>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gina E Nam, Junxian Liu, Suhani Amin, Karla Renata Flores Romero, Zachary J Kunicki, M Maria Glymour, Kaitlin Casaletto, Jacqueline M Torres, et al.
+      <description>Authors: Gina E Nam, Junxian Liu, Suhani Amin, Karla Renata Flores Romero, Zachary J Kunicki, M Maria Glymour, Kaitlin B Casaletto, Jacqueline M Torres, et al.
 
 Journal: American Journal of Epidemiology; Article number: kwag260
 
-Abstract: Abstract Clinical dementia diagnosis requires substantial expertise and is complex and costly. Therefore, large population-based studies often lack gold-standard longitudinal diagnoses and instead use classification algorithms employing cognitive, functional, and health-related measures to identify dementia. We evaluated whether algorithm choice affects conclusions regarding dementia risk in the nationally representative Health and Retirement Study (HRS; 2010-2020). We constructed four algorithm-specific samples of participants age 70+ without dementia in 2010: Langa-Weir (n=6,498), Hudomiet (n=6,556), Expert (n=5,751), and Wu (n=5,935). Participants were followed until first dementia classification, death, or censoring. We estimated dementia incidence rates (IRs) and used adjusted Cox models to estimate hazard ratios (HRs) for known risk factors. Dementia IRs per 1000 person-years meaningfully varied across algorithms, from 26.5 (95% CI 24.5–28.5, Hudomiet) to 62.8 (59.9–65.8, Expert). Sociodemographic risk factor associations also varied substantially. HRs for education (&amp;amp;lt; vs. ≥high school) ranged from 1.36 (1.19–1.54, Hudomiet) to 2.22 (1.98–2.50, Langa-Weir), and HRs non-Hispanic Black vs. non-Hispanic White ranged from 1.86 (1.53–2.27, Expert) to 2.74 (2.40–3.12, Langa-Weir). Differences were less pronounced for health-related risk factors. In the absence of gold standard longitudinal diagnosis in HRS, researchers should examine the robustness of findings across multiple algorithms.</description>
+Abstract: Abstract Clinical dementia diagnosis requires substantial expertise and is complex and costly. Therefore, large population-based studies often lack gold-standard longitudinal diagnoses and instead use classification algorithms employing cognitive, functional, and health-related measures to identify dementia. We evaluated whether algorithm choice affects conclusions regarding dementia risk in the nationally representative Health and Retirement Study (HRS; 2010-2020). We constructed 4 algorithm-specific samples of participants age 70+ without dementia in 2010: Langa-Weir (n = 6498), Hudomiet (n = 6556), Expert (n = 5751), and Wu (n = 5935). Participants were followed until first dementia classification, death, or censoring. We estimated dementia incidence rates (IRs) and used adjusted Cox models to estimate HRs for known risk factors. Dementia IRs per 1000 person-years meaningfully varied across algorithms, from 26.5 (95% CI 24.5-28.5, Hudomiet) to 62.8 (59.9-65.8, Expert). Sociodemographic risk factor associations also varied substantially. HRs for education (&amp;amp;lt; vs ≥high school) ranged from 1.36 (1.19-1.54, Hudomiet) to 2.22 (1.98-2.50, Langa-Weir), and HRs for non-Hispanic Black vs non-Hispanic White ranged from 1.86 (1.53-2.27, Expert) to 2.74 (2.40-3.12, Langa-Weir). Differences were less pronounced for health-related risk factors. In the absence of gold standard longitudinal diagnosis in HRS, researchers should examine the robustness of findings across multiple algorithms.</description>
     </item>
     <item>
-      <title>Those Confounded Examples</title>
+      <title>Those confounded examples</title>
       <link>https://doi.org/10.1093/aje/kwag256</link>
       <guid isPermaLink="false">10.1093/aje/kwag256</guid>
 
@@ -585,7 +599,7 @@ Journal: American Journal of Epidemiology; Article number: kwag255
 Abstract: Abstract Among people with human immunodeficiency virus (PWH), initiating antiretroviral therapy (ART) is associated with weight gain that might increase the risk of cardiometabolic outcomes. We estimated the effect of hypothetical interventions to restrict increases in body mass index (BMI) in the 2 years after ART initiation on the 7-year risk of incident type 2 diabetes mellitus (T2DM) among PWH in the North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) clinical cohorts using the parametric extended g-formula. Among 13 822 normal-weight or overweight PWH (BMI ≥ 18.5 and ≤ 29.9 kg/m2) who initiated ART between 2012 and 2021, the 7-year risk of T2DM was 5.6% (95% confidence interval [CI], 4.8%, 6.3%). Compared to no intervention on BMI, if BMI increase during the first 2 years was capped at 5% of baseline BMI, the risk ratio (RR) for T2DM risk was 0.94 (95% CI, 0.86, 1.03); if BMI was capped at 29.9 kg/m2, the RR was 0.88 (95% CI, 0.80, 0.97); and if PWH were prevented from gaining any weight over the first 2 years, the RR was 0.81 (95% CI, 0.72, 0.92). These results provide preliminary evidence to promote studies of real weight-maintenance interventions among PWH initiating ART.</description>
     </item>
     <item>
-      <title>Estimate Optimal Dynamic Treatment Regimes with Partial Compatibility: An Application to data from a TREAT Asia HIV Observational Database (TAHOD) site in Pune, India</title>
+      <title>Estimating optimal dynamic treatment regimes with partial compatibility: An application to data from a TREAT Asia HIV Observational Database site in Pune, India</title>
       <link>https://doi.org/10.1093/aje/kwag254</link>
       <guid isPermaLink="false">10.1093/aje/kwag254</guid>
 
@@ -600,7 +614,7 @@ Abstract: Abstract Among people with human immunodeficiency virus (PWH), initiat
 
 Journal: American Journal of Epidemiology; Article number: kwag254
 
-Abstract: Abstract Dynamic treatment regimes (DTRs) formalize sequences of treatment decision rules that adapt to a patient’s evolving clinical status. In observational studies, estimation of the value of a DTR (i.e., the expected population-outcome of a treatment strategy) using inverse probability weighting (IPW) and augmented IPW can be unstable when strict regime compatibility yields few valid participant trajectories, leading to highly variable weights and noisy estimates. In this paper, we introduce two adaptive weighting frameworks: generalized compatibility weighting (GCW) and bootstrap compatibility windowing (BCW), that allow near-compatible trajectories to contribute information in limited samples, with diminishing information-borrowing in larger samples. We illustrate how these estimators reduce noise in estimation and stabilize empirical optimal treatment threshold identification. Using data from adults living with HIV in one site of the TREAT Asia HIV Observational Database in India observed from 2013-2024, we evaluate clinically interpretable threshold-based decision rules based on baseline CD4 count and weight. In this application, GCW and BCW produced more stable estimated regime values than standard IPW-based approaches, with reduced variability across candidate thresholds and more reliable identification of empirically optimal treatment rules. These methods provide practical tools for improving treatment rule evaluation in observational studies.</description>
+Abstract: Abstract Dynamic treatment regimes (DTRs) formalize sequences of treatment decision rules that adapt to a patient’s evolving clinical status. In observational studies, estimation of the value of a DTR (ie, the expected population-outcome of a treatment strategy) using inverse probability weighting (IPW) and augmented IPW can be unstable when strict regime compatibility yields few valid participant trajectories, leading to highly variable weights and noisy estimates. In this paper, we introduce two adaptive weighting frameworks—generalized compatibility weighting (GCW) and bootstrap compatibility windowing (BCW)—that allow near-compatible trajectories to contribute information in limited samples, with diminishing information-borrowing in larger samples. We illustrate how these estimators reduce noise in estimation and stabilize empirical optimal treatment threshold identification. Using data from adults living with HIV in one site of the TREAT Asia HIV Observational Database in India observed from 2013 to 2024, we evaluate clinically interpretable threshold-based decision rules based on baseline CD4 count and weight. In this application, GCW and BCW produced more stable estimated regime values than standard IPW-based approaches, with reduced variability across candidate thresholds and more reliable identification of empirically optimal treatment rules. These methods provide practical tools for improving treatment rule evaluation in observational studies.</description>
     </item>
     <item>
       <title>Racial discrimination and preterm birth subtype among a prospective cohort of nulliparous Black women in the United States, 2010-2013</title>
@@ -866,7 +880,7 @@ Journal: American Journal of Epidemiology; Article number: kwag227
 Abstract: Abstract Sequential nested trial (SNT) emulation is a powerful approach for maximizing precision and avoiding time related biases. However, there exists little discussion about the implied causal estimands in comparison to a real-world single point trial. We used Monte Carlo simulation to compare treatment effect estimates from an SNT emulation that re-indexed patients annually and an SNT emulation with a treatment decision design to the estimates from a single point trial. We generated 5,000 cohorts of 5,000 people with 3 years of follow-up. For the single point trial, patients were randomized to initiate or not initiate treatment at Visit 1.For the SNT emulations, simulated patients could contribute up to two index dates. When disease severity did not modify the treatment effect, both SNT approaches returned treatment effect estimates identical to the single point trial. In the presence of treatment effect modification by disease severity, both SNT approaches returned treatment effect estimates that diverged from the single point trial even after confounding adjustment. These findings underscore the difficulties of interpreting causal estimands from an SNT emulation: the target population does not correspond to a single time point trial. Such implications are important for communicating study results for evidence-based decision-making.</description>
     </item>
     <item>
-      <title>Refining Allostatic Load Measurement: Mortality Associations of an Empirically Derived Three-Component Score in the Women’s Health Initiative</title>
+      <title>Refining allostatic load measurement: mortality associations of an empirically derived three-component score in the Women’s Health Initiative</title>
       <link>https://doi.org/10.1093/aje/kwag240</link>
       <guid isPermaLink="false">10.1093/aje/kwag240</guid>
 
@@ -875,13 +889,13 @@ Abstract: Abstract Sequential nested trial (SNT) emulation is a powerful approac
       <dc:creator>Ramon Casanova</dc:creator>
       <dc:creator>Su Yon Jung</dc:creator>
       <dc:creator>Matthew Nudy</dc:creator>
-      <dc:creator>Holly Ruth Harris</dc:creator>
+      <dc:creator>Holly R Harris</dc:creator>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Christine Alison Cirovic, Paul Fishman, Ramon Casanova, Su Yon Jung, Matthew Nudy, Holly Ruth Harris
+      <description>Authors: Christine Alison Cirovic, Paul Fishman, Ramon Casanova, Su Yon Jung, Matthew Nudy, Holly R Harris
 
 Journal: American Journal of Epidemiology; Article number: kwag240
 
-Abstract: Abstract Allostatic load (AL) is a multisystem index of physiological dysregulation due to chronic stress. Although widely applied, its operationalization remains inconsistent, limiting reproducibility and equity. Streamlined indices based on common biomarkers may enhance feasibility across settings. Using data from 150 293 postmenopausal women in the Women’s Health Initiative, we evaluated the construct validity of a streamlined, multisystem AL index. Biomarkers across cardiovascular, metabolic, and immune domains were screened for stable associations with mortality. The final three-component AL index included systolic blood pressure, waist circumference, and white blood cell count. Cox proportional hazards models estimated associations with all-cause, cardiovascular, and immune/inflammatory mortality, adjusting for demographic and clinical covariates. Higher AL scores were strongly associated with mortality. Hazard ratios for all-cause mortality were 1.34 (95% CI, 1.30–1.38), 1.74 (1.68–1.80), and 2.27 (2.15–2.39) for scores of 1, 2, and 3 versus 0 (Ptrend &amp;amp;lt; 0.001), with similar patterns observed for cardiovascular and immune/inflammatory mortality. A streamlined, multisystem AL index comprised of systolic blood pressure, waist circumference, and white blood cell count demonstrated robust associations with mortality outcomes, supporting the feasibility of such an operationalization of AL, which may enhance reproducibility and extend the applicability of AL indices in large-scale and resource-limited contexts.</description>
+Abstract: Abstract Allostatic load (AL) is a multisystem index of physiological dysregulation due to chronic stress. Although widely applied, its operationalization remains inconsistent, limiting reproducibility and equity. Streamlined indices based on common biomarkers may enhance feasibility across settings. Using data from 143 732 postmenopausal women in the Women’s Health Initiative, we evaluated the construct validity of a streamlined, multisystem AL index. Biomarkers across cardiovascular, metabolic, and immune domains were screened for stable associations with mortality. The final three-component AL index included systolic blood pressure, waist circumference, and white blood cell count. Cox proportional hazards models estimated associations with all-cause, cardiovascular, and immune/inflammatory mortality, adjusting for demographic and clinical covariates. Higher AL scores were strongly associated with mortality. Hazard ratios for all-cause mortality were 1.34 (95% CI, 1.30–1.38), 1.73 (1.67–1.79), and 2.28 (2.16–2.41) for scores of 1, 2, and 3 versus 0 (Ptrend &amp;amp;lt; 0.001), with similar patterns observed for cardiovascular and immune/inflammatory mortality. A streamlined, multisystem AL index comprised of systolic blood pressure, waist circumference, and white blood cell count demonstrated robust associations with mortality outcomes, supporting the feasibility of such an operationalization of AL, which may enhance reproducibility and extend the applicability of AL indices in large-scale and resource-limited contexts.</description>
     </item>
     <item>
       <title>Residential segregation and fecundability in the Black Women’s Health Study</title>
@@ -904,7 +918,7 @@ Journal: American Journal of Epidemiology; Article number: kwag229
 Abstract: Abstract Residential segregation can influence reproductive outcomes, yet few studies have investigated its effects on fertility. We used data from the Black Women’s Health Study, a US prospective cohort study, to estimate the effect of racialized economic segregation on fecundability, the per-cycle probability of conception. Participants enrolled in 1995 and completed biennial follow-up questionnaires. A supplemental module in 2011 asked participants to report, for each birth, whether the pregnancy was planned and the number of months to conceive. Participants also reported any attempts to conceive for ≥12 months without success. We operationalized racialized economic segregation using the census tract level Index of Concentration at the Extremes (ICErace + income). We fit proportional probabilities regression models with generalized estimating equations to estimate fecundability ratios (FRs) and 95% CIs, adjusting for age, calendar year, geographic region, early life socioeconomic position, and educational attainment. The analysis included 2857 planned pregnancy attempts from 2183 participants (mean age = 34 years). Relative to participants living in the most privileged group, FRs for participants in the most marginalized, mixed (marginalized) and mixed (privileged) groups were 0.88 (95% CI, 0.74-1.04), 0.89 (95% CI, 0.78-1.02), and 0.91 (95% CI, 0.80-1.04), respectively. Associations were stronger among college-educated and nulliparous participants.</description>
     </item>
     <item>
-      <title>Causal inference of multiple interrelated exposures: Contributions of ischemic placental disease to preterm delivery</title>
+      <title>Causal inference of multiple interrelated exposures: contributions of ischemic placental disease to preterm delivery</title>
       <link>https://doi.org/10.1093/aje/kwag230</link>
       <guid isPermaLink="false">10.1093/aje/kwag230</guid>
 
@@ -915,7 +929,7 @@ Abstract: Abstract Residential segregation can influence reproductive outcomes, 
 
 Journal: American Journal of Epidemiology; Article number: kwag230
 
-Abstract: Abstract Ischemic placental disease (IPD) involves three obstetrical complications – preeclampsia, placental abruption, and fetal growth restriction – and is implicated in up to 55% of early deliveries. Despite substantial overlap in their etiology and epidemiologic risk profiles, existing studies have assessed their effects independently. Using data from the Consortium on Safe Labor (2002–2008; n = 203, 990), we examined the composite and separate effects of the IPD conditions on spontaneous and indicated preterm delivery (sPTD and iPTD). We systematically specified joint IPD probabilities, corresponding to combinations of hypothetical stochastic and deterministic interventions. Eliminating all IPD reduced sPTD (RR = 0.93; 95% CI = 0.92, 0.94) and iPTD (RR = 0.66; 95% CI = 0.64, 0.67) from observed levels. Eliminating preeclampsia alone reduced sPTD (RR = 0.94; 95% CI = 0.94, 0.95) and iPTD (RR = 0.72; 95% CI=0.71, 0.73). Partially reducing joint IPD co-occurrence among 58% of individuals who met criteria for high-risk, by magnitudes drawn from separate low-dose aspirin meta-analyses, yielded minimal reductions for sPTD (RR = 0.99; 95% CI=0.98, 0.99) and iPTD (RR = 0.89; 95%CI=0.88, 0.89). Preeclampsia drives IPD’s association with both PTD subtypes; under the stated assumptions, hypothetically eliminating preeclampsia yielded the largest iPTD reduction.</description>
+Abstract: Abstract Ischemic placental disease (IPD) involves three obstetrical complications—preeclampsia, placental abruption, and fetal growth restriction—and is implicated in up to 55% of early deliveries. Despite substantial overlap in their etiology and epidemiologic risk profiles, existing studies have assessed their effects independently. Using data from the Consortium on Safe Labor (2002-2008; n = 203,990), we examined the composite and separate effects of the IPD conditions on spontaneous and indicated preterm delivery (sPTD and iPTD). We systematically specified joint IPD probabilities, corresponding to combinations of hypothetical stochastic and deterministic interventions. Eliminating all IPD reduced sPTD (RR = 0.93; 95% CI = 0.92, 0.94) and iPTD (RR = 0.66; 95% CI = 0.64, 0.67) from observed levels. Eliminating preeclampsia alone reduced sPTD (RR = 0.94; 95% CI = 0.94, 0.95) and iPTD (RR = 0.72; 95% CI = 0.71, 0.73). Partially reducing joint IPD co-occurrence among 58% of individuals who met criteria for high-risk, by magnitudes drawn from separate low-dose aspirin meta-analyses, yielded minimal reductions for sPTD (RR = 0.99; 95% CI = 0.98, 0.99) and iPTD (RR = 0.89; 95% CI = 0.88, 0.89). Preeclampsia drives IPD’s association with both PTD subtypes; under the stated assumptions, hypothetically eliminating preeclampsia yielded the largest iPTD reduction.</description>
     </item>
     <item>
       <title>Real-world cardiovascular effects of liraglutide: transportability analysis of the LEADER trial</title>
@@ -973,23 +987,6 @@ Journal: American Journal of Epidemiology; Article number: kwag235
 Abstract: Abstract The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.</description>
     </item>
     <item>
-      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
-      <link>https://doi.org/10.1093/aje/kwag232</link>
-      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
-
-      <dc:creator>Fjorida Llaha</dc:creator>
-      <dc:creator>Yu-Han Chiu</dc:creator>
-      <dc:creator>Idlir Licaj</dc:creator>
-      <dc:creator>Tom Wilsgaard</dc:creator>
-      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
-
-Journal: American Journal of Epidemiology; Article number: kwag232
-
-Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
-    </item>
-    <item>
       <title>Rationale and design of the Atherosclerosis Risk in Communities Generation 2 study</title>
       <link>https://doi.org/10.1093/aje/kwag237</link>
       <guid isPermaLink="false">10.1093/aje/kwag237</guid>
@@ -1008,6 +1005,23 @@ Abstract: Abstract We applied target trial emulation and the parametric g-formul
 Journal: American Journal of Epidemiology; Article number: kwag237
 
 Abstract: Abstract Type 2 diabetes is a risk factor for cardiac arrhythmias, but it is unknown how specific aberrations in glucose (eg, episodes of high or low glucose) might contribute to the occurrence of heart rhythm abnormalities. The overarching goal of this study is to address research questions regarding how glucose patterns might contribute to the occurrence of arrhythmias, primarily atrial fibrillation, in adults with diabetes. To fulfill this goal, the Atherosclerosis Risk in Communities Generation 2 (ARIC Gen2) study recruited 507 community-dwelling adults aged 50-80 years with type 2 diabetes to wear continuous glucose monitoring (CGM) and electrocardiogram (ECG) “patch” monitoring sensors simultaneously for up to 14 days. Generation 2 study had high CGM and ECG completeness: The median wear time for sensors was 14 days and ~80% of participants wore both sensors for ≥10 days. By combining Gen2 and data from the original ongoing ARIC cohort (aged 80+), we have the capacity to conduct a comprehensive evaluation of the impact of CGM-defined glucose patterns on arrhythmias across a wide age spectrum from middle-aged to very old adults (aged 50-100) with type 2 diabetes. The findings from this study may help inform clinical strategies for the prevention and management of arrhythmias among adults with type 2 diabetes.</description>
+    </item>
+    <item>
+      <title>Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian Women and Health Study</title>
+      <link>https://doi.org/10.1093/aje/kwag232</link>
+      <guid isPermaLink="false">10.1093/aje/kwag232</guid>
+
+      <dc:creator>Fjorida Llaha</dc:creator>
+      <dc:creator>Yu-Han Chiu</dc:creator>
+      <dc:creator>Idlir Licaj</dc:creator>
+      <dc:creator>Tom Wilsgaard</dc:creator>
+      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fjorida Llaha, Yu-Han Chiu, Idlir Licaj, Tom Wilsgaard, Kristin Benjaminsen Borch
+
+Journal: American Journal of Epidemiology; Article number: kwag232
+
+Abstract: Abstract We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥35 years from the Norwegian Women and Health Study who completed questionnaires in 1998-2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In trial A, 23-year mortality risk differences (RDs) vs no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;amp;gt;0 to 2 drinks/week), and −0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥50 years. In trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) vs maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.</description>
     </item>
     <item>
       <title>Contribution of adolescent movement behaviors to socioeconomic inequalities in adult cardiovascular disease risk: a causal decomposition in a population-based cohort</title>
@@ -1610,18 +1624,6 @@ Abstract: Abstract In observational studies of dietary exposures, the energy adj
 Journal: American Journal of Epidemiology; Article number: kwag194
 
 Abstract: Abstract Target trial emulation prompts investigators to frame their analysis question in terms of a hypothetical clinical trial. Although this does not solve the problem of confounding, the framework can protect against other sources of bias. A natural question is this: What kinds of trials can be emulated? In a late-phase trial (phases 3 or 4), the goal is to obtain a well-defined causal estimate that closely approximates the impact of a proposed intervention. In an early-phase trial (phase 2 or earlier), the estimate is a means to an end rather than an end in itself. An early-phase trial provides proof-of-concept evidence on the impact of an intervention in the exposure in terms of efficacy and safety, but the estimand may not correspond to the intervention to be implemented in practice. In a natural experiment where causal inferences rely on a plausibly random (or quasi-random) comparison, the estimand may not be directly translatable to applied practice. In this case, the analysis may be conceptualized as an early-phase target trial. This provides less specific evidence than a late-stage target trial, but in many cases, a more valid but less applicable comparison is preferable to a more applicable comparison that is more susceptible to bias.</description>
-    </item>
-    <item>
-      <title>Environmental signal or prevention signal? Interpreting ambient exposure associations in veteran suicide and overdose deaths</title>
-      <link>https://doi.org/10.1093/aje/kwag191</link>
-      <guid isPermaLink="false">10.1093/aje/kwag191</guid>
-
-      <dc:creator>Gong Zhang</dc:creator>
-      <dc:creator>Xichen Fan</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Gong Zhang, Xichen Fan
-
-Journal: American Journal of Epidemiology; Article number: kwag191</description>
     </item>
   </channel>
 </rss>
