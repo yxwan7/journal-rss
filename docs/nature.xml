@@ -5,7 +5,7 @@
     <link>https://www.nature.com/nature/</link>
     <description>Latest journal articles for Nature</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 13:31:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:56:15 +0000</lastBuildDate>
 
     <item>
       <title>Accept all changes</title>
@@ -434,17 +434,6 @@ Journal: Nature</description>
 Journal: Nature</description>
     </item>
     <item>
-      <title>Extraordinary materials shaped by the principles of complex networks</title>
-      <link>https://doi.org/10.1038/d41586-026-03272-z</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03272-z</guid>
-
-      <dc:creator>Marco Paggi</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Marco Paggi
-
-Journal: Nature; Volume: 659; Issue: 8140; Pages: 308-311</description>
-    </item>
-    <item>
       <title>Validation of clinical and preclinical obesity across global cohorts</title>
       <link>https://doi.org/10.1038/s41586-026-11237-5</link>
       <guid isPermaLink="false">10.1038/s41586-026-11237-5</guid>
@@ -463,6 +452,17 @@ Journal: Nature; Volume: 659; Issue: 8140; Pages: 308-311</description>
 Journal: Nature
 
 Abstract: Abstract In 2025, a Lancet Commission proposed distinguishing clinical obesity, defined by adiposity-related organ dysfunction, from preclinical obesity, defined by excess adiposity with preserved function, and recommended using anthropometric measures beyond body mass index (BMI) to confirm obesity status 1 . Here we report the comparative performance of this framework versus conventional BMI-based classification using prevalence, incidence and mortality data from 844,108 adults across four cohorts in China, the UK, the USA and Spain. Complementing BMI with waist circumference and waist-to-height ratio data showed that BMI alone overestimated obesity in 1.2–3.1% and underestimated it in 5.2–8.6% of participants across cohorts. The combined anthropometric definition increased overall obesity prevalence by 3.3–7.4% relative to BMI-based classification. Clinical obesity accounted for 22.7–31.3% of total obesity, with an overall population prevalence of 5.6–10.9%. A large proportion of individuals (between 77.4% and 91.3%) with preclinical obesity at baseline showed no progression to clinical obesity over 10 years. Increased mortality risk was associated with the combined anthropometric definition of obesity, but not with BMI-only obesity. Clinical obesity was associated with substantially higher all-cause mortality (hazard ratio 1.69, 95% confidence interval 1.64–1.73), whereas preclinical obesity conferred only modest risk (1.19, 1.14–1.24). These findings support the global adoption of the Lancet Commission diagnostic framework to improve obesity care and policy.</description>
+    </item>
+    <item>
+      <title>Extraordinary materials shaped by the principles of complex networks</title>
+      <link>https://doi.org/10.1038/d41586-026-03272-z</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03272-z</guid>
+
+      <dc:creator>Marco Paggi</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Marco Paggi
+
+Journal: Nature; Volume: 659; Issue: 8140; Pages: 308-311</description>
     </item>
     <item>
       <title>How I balance my life as a professional surfer and a university researcher</title>
@@ -773,6 +773,17 @@ Abstract: Abstract Aggressive scaling in silicon electronics—although essentia
 Journal: Nature</description>
     </item>
     <item>
+      <title>Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?</title>
+      <link>https://doi.org/10.1038/d41586-026-03640-9</link>
+      <guid isPermaLink="false">10.1038/d41586-026-03640-9</guid>
+
+      <dc:creator>Heidi Ledford</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Heidi Ledford
+
+Journal: Nature</description>
+    </item>
+    <item>
       <title>Hadean mantle depletion and 3.95-Gyr subduction implied by North China rocks</title>
       <link>https://doi.org/10.1038/s41586-026-11280-2</link>
       <guid isPermaLink="false">10.1038/s41586-026-11280-2</guid>
@@ -791,15 +802,20 @@ Journal: Nature</description>
 Journal: Nature</description>
     </item>
     <item>
-      <title>Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?</title>
-      <link>https://doi.org/10.1038/d41586-026-03640-9</link>
-      <guid isPermaLink="false">10.1038/d41586-026-03640-9</guid>
+      <title>Independent interferometric observable confirms black hole shadow in M87*</title>
+      <link>https://doi.org/10.1038/s41586-026-11241-9</link>
+      <guid isPermaLink="false">10.1038/s41586-026-11241-9</guid>
 
-      <dc:creator>Heidi Ledford</dc:creator>
+      <dc:creator>Samuel Lai</dc:creator>
+      <dc:creator>Nithyanandan Thyagarajan</dc:creator>
+      <dc:creator>O. Ivy Wong</dc:creator>
+      <dc:creator>Foivos Diakogiannis</dc:creator>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Heidi Ledford
+      <description>Authors: Samuel Lai, Nithyanandan Thyagarajan, O. Ivy Wong, Foivos Diakogiannis
 
-Journal: Nature</description>
+Journal: Nature; Volume: 659; Issue: 8140; Pages: 317-323
+
+Abstract: Abstract A new epoch for direct visualization of accretion dynamics near the event horizon of a black hole began when the Event Horizon Telescope Collaboration synthesized an Earth-sized aperture with millimetre radio interferometry and published the first reconstructed image 1–4 of a black hole shadow at the core of radio galaxy Messier 87 (M87). The image appeared as a ring-like structure, representing the gravitationally lensed and redshifted emission around the central supermassive black hole, M87*, located at the galactic nucleus. However, application of various data analysis and imaging heuristics resulted in divergent representations of M87* fine-scale features 3,5–7 , with some external analyses even challenging the fundamental ring-like morphology of the source 8,9 . Such difficulties arise as a consequence of the inherent sparsity of the very long baseline interferometry measurements, making interferometric image reconstruction an inadequately constrained problem. Moreover, the solution is sensitive to instrument calibration, post-processing algorithms and imaging hyperparameters. Here we apply an independent imaging algorithm that we have developed to the M87* dataset that is free from prescriptive morphological priors and founded on observables immune to instrument calibration errors. We reconstruct the black hole shadow image and unequivocally reproduce a ring-like morphology, with an angular diameter of 42.2 ± 1.5 μas corresponding to a black hole mass of 6.5 ± 0.5 billion solar masses assuming nominal scaling parameters, observed at an inclination angle of approximately 20° from the approaching jet.</description>
     </item>
     <item>
       <title>Getting a grasp on the global wildlife trade</title>
@@ -880,22 +896,6 @@ Journal: Nature</description>
       <description>Authors: Gemma Conroy
 
 Journal: Nature</description>
-    </item>
-    <item>
-      <title>Independent interferometric observable confirms black hole shadow in M87*</title>
-      <link>https://doi.org/10.1038/s41586-026-11241-9</link>
-      <guid isPermaLink="false">10.1038/s41586-026-11241-9</guid>
-
-      <dc:creator>Samuel Lai</dc:creator>
-      <dc:creator>Nithyanandan Thyagarajan</dc:creator>
-      <dc:creator>O. Ivy Wong</dc:creator>
-      <dc:creator>Foivos Diakogiannis</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Samuel Lai, Nithyanandan Thyagarajan, O. Ivy Wong, Foivos Diakogiannis
-
-Journal: Nature; Volume: 659; Issue: 8140; Pages: 317-323
-
-Abstract: Abstract A new epoch for direct visualization of accretion dynamics near the event horizon of a black hole began when the Event Horizon Telescope Collaboration synthesized an Earth-sized aperture with millimetre radio interferometry and published the first reconstructed image 1–4 of a black hole shadow at the core of radio galaxy Messier 87 (M87). The image appeared as a ring-like structure, representing the gravitationally lensed and redshifted emission around the central supermassive black hole, M87*, located at the galactic nucleus. However, application of various data analysis and imaging heuristics resulted in divergent representations of M87* fine-scale features 3,5–7 , with some external analyses even challenging the fundamental ring-like morphology of the source 8,9 . Such difficulties arise as a consequence of the inherent sparsity of the very long baseline interferometry measurements, making interferometric image reconstruction an inadequately constrained problem. Moreover, the solution is sensitive to instrument calibration, post-processing algorithms and imaging hyperparameters. Here we apply an independent imaging algorithm that we have developed to the M87* dataset that is free from prescriptive morphological priors and founded on observables immune to instrument calibration errors. We reconstruct the black hole shadow image and unequivocally reproduce a ring-like morphology, with an angular diameter of 42.2 ± 1.5 μas corresponding to a black hole mass of 6.5 ± 0.5 billion solar masses assuming nominal scaling parameters, observed at an inclination angle of approximately 20° from the approaching jet.</description>
     </item>
     <item>
       <title>PhDs worldwide are having a shake up — why now?</title>
