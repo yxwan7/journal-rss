@@ -5,7 +5,7 @@
     <link>https://jamanetwork.com/journals/jamaoncology</link>
     <description>Latest journal articles for JAMA Oncology</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:47:39 +0000</lastBuildDate>
 
     <item>
       <title>Perioperative Camrelizumab Plus Chemotherapy in Locally Advanced Head and Neck Squamous Cell Carcinoma</title>
@@ -725,6 +725,18 @@ Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1065
 Abstract: This Viewpoint discusses the strong connection between quality improvement and leadership development.</description>
     </item>
     <item>
+      <title>Actionable Signals in Pancreatic Cancer Risk Scores—Reply</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.3805</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.3805</guid>
+
+      <dc:creator>Jie Ding</dc:creator>
+      <dc:creator>Michael Hoffmeister</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jie Ding, Michael Hoffmeister
+
+Journal: JAMA Oncology</description>
+    </item>
+    <item>
       <title>Mathematical Biomarkers of Adaptive Therapy Outcomes in Prostate Cancer</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.2781</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2026.2781</guid>
@@ -741,18 +753,6 @@ Abstract: This Viewpoint discusses the strong connection between quality improve
 Journal: JAMA Oncology; Volume: 12; Issue: 10; Pages: 1079
 
 Abstract: Importance Adaptive therapy is an evolution-based treatment paradigm that has been shown to delay resistance in prostate cancer through treatment breaks that control, rather than minimize, tumor burden. However, patient responses are highly heterogeneous, and there is a significant unmet clinical need for biomarkers to personalize treatment scheduling. Objective To develop and retrospectively validate mathematical biomarkers that predict time to progression (TTP), mean daily dose, and overall survival (OS) under adaptive therapy from first-cycle prostate-specific antigen (PSA) dynamics. Design, Setting, and Participants This retrospective modeling and validation study used longitudinal, nonrandomized clinical trial data from 2 independent cohorts: 40 patients with castrate-sensitive prostate cancer (CSPC) (June 1996 to September 2006) and 13 patients with metastatic castrate-resistant prostate cancer (mCRPC) (April 2015 to January 2022). A 2-population differential equation model was used to describe the overall tumor growth through the competing dynamics of drug-sensitive and drug-resistant cells. The statistical analysis was conducted from January 2025 to May 2026. Exposures Patients received either intermittent androgen deprivation therapy (for CSPC) or adaptive abiraterone acetate (for mCRPC). The initial treatment cycle served as the exposure period to extract longitudinal PSA kinetics. Main Outcomes and Measures Mechanism-based mathematical biomarkers (adaptive therapy score, expected TTP, and expected mean daily dose) were derived from first-cycle PSA kinetics. Outcomes included in silico benchmarking experiments and retrospective validation against clinical TTP and OS. Performance was benchmarked against standard phenomenological PSA metrics (eg, PSA nadir, time to nadir, and doubling time). Results Overall, data from 53 patients across 2 clinical trials were included. In the CSPC cohort of 40 patients, the adaptive therapy score derived from first-cycle data was highly prognostic for prolonged clinical TTP (univariable hazard ratio [HR], 0.49; 95% CI, 0.31-0.76; P = .002). In the mCRPC cohort of 13 patients, the adaptive therapy score exhibited a strong rank correlation with clinical TTP (Spearman ρ = 0.76; P = .002) and was associated with prolonged TTP (HR, 0.41; 95% CI, 0.16-1.07; P = .07). Analysis of long-term survival data in the mCRPC cohort demonstrated that both the adaptive therapy score and expected TTP were significantly associated with prolonged OS, whereas standard empirical PSA metrics displayed no association with OS. Conclusions and Relevance In this modeling and validation study, mechanism-based mathematical biomarkers derived from the initial-cycle PSA dynamics accurately predicted patient-specific outcomes and survival, outperforming traditional phenomenological PSA monitoring. These accessible metrics could act as a mathematically informed decision support framework to stratify patients into personalized treatment protocols.</description>
-    </item>
-    <item>
-      <title>Actionable Signals in Pancreatic Cancer Risk Scores—Reply</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.3805</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.3805</guid>
-
-      <dc:creator>Jie Ding</dc:creator>
-      <dc:creator>Michael Hoffmeister</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jie Ding, Michael Hoffmeister
-
-Journal: JAMA Oncology</description>
     </item>
     <item>
       <title>Adult T-Cell Leukemia/Lymphoma and Maternal Screening</title>
@@ -1414,6 +1414,17 @@ Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 1032</description>
 Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 1033</description>
     </item>
     <item>
+      <title>The Sequencing Paradox of Immunotherapy and Thoracic Radiotherapy</title>
+      <link>https://doi.org/10.1001/jamaoncol.2026.1907</link>
+      <guid isPermaLink="false">10.1001/jamaoncol.2026.1907</guid>
+
+      <dc:creator>Charles R. Thomas</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Charles R. Thomas
+
+Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 973</description>
+    </item>
+    <item>
       <title>Proper Phenotyping of Pancreatic Cancer in Database Research</title>
       <link>https://doi.org/10.1001/jamaoncol.2026.2609</link>
       <guid isPermaLink="false">10.1001/jamaoncol.2026.2609</guid>
@@ -1438,17 +1449,6 @@ Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 1029</description>
 Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 925
 
 Abstract: This essay describes different ways spouses may learn to support one another throughout a cancer diagnosis and treatment.</description>
-    </item>
-    <item>
-      <title>The Sequencing Paradox of Immunotherapy and Thoracic Radiotherapy</title>
-      <link>https://doi.org/10.1001/jamaoncol.2026.1907</link>
-      <guid isPermaLink="false">10.1001/jamaoncol.2026.1907</guid>
-
-      <dc:creator>Charles R. Thomas</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Charles R. Thomas
-
-Journal: JAMA Oncology; Volume: 12; Issue: 9; Pages: 973</description>
     </item>
     <item>
       <title>Interpretation of the BRIGHT-2 Trial</title>

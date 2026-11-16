@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:46:45 +0000</lastBuildDate>
 
     <item>
       <title>Ebola vaccine lessons</title>
@@ -154,26 +154,6 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 768-772
 Abstract: Strongly correlated and topological phases in moiré materials are exquisitely sensitive to lattice geometry at both atomic and superlattice length scales. Twist angle, pressure, and strain directly modify the lattice and thus act as highly effective tuning parameters. Here, we examined electrical transport in twisted bilayer graphene subjected to continuous uniaxial strain. Near the magic angle (≈1.1°), devices exhibited a pronounced elastoresistance that depended on band filling and temperature, with a gauge factor more than two orders of magnitude larger than that of conventional metals. In selected doping regimes, the elastoresistance exhibited a Curie-Weiss–like temperature divergence. We discuss possible microscopic origins, including nematic fluctuations and enhanced electronic entropy from fluctuating isospin moments. Our work establishes uniaxial strain as a versatile probe of correlated physics in a moiré material.</description>
     </item>
     <item>
-      <title>A cellular atlas of the preinvasive breast cancer microenvironment</title>
-      <link>https://doi.org/10.1126/science.aef4622</link>
-      <guid isPermaLink="false">10.1126/science.aef4622</guid>
-
-      <dc:creator>Siyuan He</dc:creator>
-      <dc:creator>Aatish Thennavan</dc:creator>
-      <dc:creator>Runmin Wei</dc:creator>
-      <dc:creator>Shanshan Bai</dc:creator>
-      <dc:creator>Jianzhuo Li</dc:creator>
-      <dc:creator>Chante Bethell</dc:creator>
-      <dc:creator>Emi Sei</dc:creator>
-      <dc:creator>Mitchell Rao</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Siyuan He, Aatish Thennavan, Runmin Wei, Shanshan Bai, Jianzhuo Li, Chante Bethell, Emi Sei, Mitchell Rao, et al.
-
-Journal: Science; Article number: eaef4622
-
-Abstract: Ductal carcinoma in situ (DCIS) is the most common preinvasive breast cancer, however our knowledge of the DCIS tumor microenvironment (TME) remains limited. We constructed a comprehensive atlas of the TME in estrogen-receptor positive DCIS using fresh samples collected from normal breast tissues, DCIS and invasive breast cancers. We analyzed 854,911 cells from 159 patients by single cell RNA sequencing and 39 samples by spatial transcriptomics, which identified 9 cell types and 60 cell states. Our data shows remodeling of fibroblasts, vascular and basal cells that encircle the DCIS regions and immunosuppressive ducts that support the growth of the preinvasive cancer cells. This study delineates early alterations in the DCIS TME, including many changes that persist during invasive progression.</description>
-    </item>
-    <item>
       <title>The cryosphere beyond a planetary safe operating space</title>
       <link>https://doi.org/10.1126/science.aef5636</link>
       <guid isPermaLink="false">10.1126/science.aef5636</guid>
@@ -192,6 +172,26 @@ Abstract: Ductal carcinoma in situ (DCIS) is the most common preinvasive breast 
 Journal: Science; Article number: eaef5636
 
 Abstract: The cryosphere plays a vital role in regulating planetary dynamics and habitability, yet it remains unclear whether its essential functions remain within a safe operating space (SOS) amid Anthropocene change. Here, we propose a cryosphere SOS and systematically evaluate its contributions to Earth system resilience using the planetary boundaries framework. Multiple lines of evidence indicate an accelerating and partly irreversible loss of cryospheric integrity, driven by amplifying feedbacks. Key cryospheric control variables either have left or are committed to departing from Holocene-like conditions. We conclude that the cryosphere has breached its SOS and is on a trajectory that locks in long-term risks for human societies and ecosystems. Safeguarding planetary resilience therefore requires explicit consideration of cryosphere change and its interactions across the Earth system.</description>
+    </item>
+    <item>
+      <title>A cellular atlas of the preinvasive breast cancer microenvironment</title>
+      <link>https://doi.org/10.1126/science.aef4622</link>
+      <guid isPermaLink="false">10.1126/science.aef4622</guid>
+
+      <dc:creator>Siyuan He</dc:creator>
+      <dc:creator>Aatish Thennavan</dc:creator>
+      <dc:creator>Runmin Wei</dc:creator>
+      <dc:creator>Shanshan Bai</dc:creator>
+      <dc:creator>Jianzhuo Li</dc:creator>
+      <dc:creator>Chante Bethell</dc:creator>
+      <dc:creator>Emi Sei</dc:creator>
+      <dc:creator>Mitchell Rao</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Siyuan He, Aatish Thennavan, Runmin Wei, Shanshan Bai, Jianzhuo Li, Chante Bethell, Emi Sei, Mitchell Rao, et al.
+
+Journal: Science; Article number: eaef4622
+
+Abstract: Ductal carcinoma in situ (DCIS) is the most common preinvasive breast cancer, however our knowledge of the DCIS tumor microenvironment (TME) remains limited. We constructed a comprehensive atlas of the TME in estrogen-receptor positive DCIS using fresh samples collected from normal breast tissues, DCIS and invasive breast cancers. We analyzed 854,911 cells from 159 patients by single cell RNA sequencing and 39 samples by spatial transcriptomics, which identified 9 cell types and 60 cell states. Our data shows remodeling of fibroblasts, vascular and basal cells that encircle the DCIS regions and immunosuppressive ducts that support the growth of the preinvasive cancer cells. This study delineates early alterations in the DCIS TME, including many changes that persist during invasive progression.</description>
     </item>
     <item>
       <title>Thermal infrared pollination by beetles</title>
@@ -310,19 +310,6 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 792-798
 Abstract: Humans and many other animals live in interconnected social communities that are essential for survival and well-being. In principle, communities can persist despite changes in constituent members. However, gradually accumulating changes to membership could push systems past critical thresholds into alternate states, restructuring patterns of connectivity. Such changes can further affect systemic resilience against disturbance. We investigated social network dynamics for 443 wild female Asian elephants over 12 years by tracking community membership and structure. Following accumulated demographic turnover, networks fractured into smaller and more isolated communities. Connections changed not only owing to loss of members but also modifications in relationships among remaining individuals. This provides empirical evidence of a persistent state change in the social network of a long-lived terrestrial mammal following gradually accumulating demographic turnover.</description>
     </item>
     <item>
-      <title>Nature’s cellular nuke</title>
-      <link>https://doi.org/10.1126/science.aen0894</link>
-      <guid isPermaLink="false">10.1126/science.aen0894</guid>
-
-      <dc:creator>Chew Chai</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chew Chai
-
-Journal: Science; Volume: 394; Issue: 6825; Pages: 731-731
-
-Abstract: Discovery of an unknown immune cell type and its cytotoxic killing mode</description>
-    </item>
-    <item>
       <title>Building a cell engineering toolbox</title>
       <link>https://doi.org/10.1126/science.aen0898</link>
       <guid isPermaLink="false">10.1126/science.aen0898</guid>
@@ -336,15 +323,37 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 731-731
 Abstract: Biological diversity and deep learning are harnessed for discovery</description>
     </item>
     <item>
-      <title>Californians approve controversial $8.4 billion immunology initiative</title>
-      <link>https://doi.org/10.1126/science.aeo0638</link>
-      <guid isPermaLink="false">10.1126/science.aeo0638</guid>
+      <title>Nature’s cellular nuke</title>
+      <link>https://doi.org/10.1126/science.aen0894</link>
+      <guid isPermaLink="false">10.1126/science.aen0894</guid>
 
-      <dc:creator>Phie Jacobs</dc:creator>
+      <dc:creator>Chew Chai</dc:creator>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Phie Jacobs
+      <description>Authors: Chew Chai
 
-Journal: Science; Volume: 394; Issue: 6825; Pages: 703-703</description>
+Journal: Science; Volume: 394; Issue: 6825; Pages: 731-731
+
+Abstract: Discovery of an unknown immune cell type and its cytotoxic killing mode</description>
+    </item>
+    <item>
+      <title>Hantavirus pulmonary syndrome outbreak linked to cruise ship travel in April–May 2026</title>
+      <link>https://doi.org/10.1126/science.aej1376</link>
+      <guid isPermaLink="false">10.1126/science.aej1376</guid>
+
+      <dc:creator>Bas B. Oude Munnink</dc:creator>
+      <dc:creator>Samuel Cordey</dc:creator>
+      <dc:creator>Moussa Moïse Diagne</dc:creator>
+      <dc:creator>Jonathan Featherstone</dc:creator>
+      <dc:creator>Anabel Negredo</dc:creator>
+      <dc:creator>Sarah Temmam</dc:creator>
+      <dc:creator>Jenniffer Angulo</dc:creator>
+      <dc:creator>Carla M. Bellomo</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bas B. Oude Munnink, Samuel Cordey, Moussa Moïse Diagne, Jonathan Featherstone, Anabel Negredo, Sarah Temmam, Jenniffer Angulo, Carla M. Bellomo, et al.
+
+Journal: Science; Article number: eaej1376
+
+Abstract: In April 2026, a hantavirus pulmonary syndrome (HPS) outbreak caused by Andes virus (ANDV) occurred on a cruise ship. ANDV genome sequences were obtained for 10 of the 13 identified cases during a cross-country investigation established to share initial raw data for joint analysis with reciprocal quality control. The genomic data, symptom onsets, and plausible contact patterns strongly support a tightly linked outbreak cluster compatible with a single or very few zoonotic spillover events prior to embarkment followed by human-to-human transmission onboard. The outbreak represents the international displacement of a virus already known to be capable, under specific conditions, to transmit among humans, and does not suggest emergence of a unusual viral strain.</description>
     </item>
     <item>
       <title>Carbon dioxide and amorphous water ices in the debris disk around β Pictoris</title>
@@ -367,24 +376,15 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 742-745
 Abstract: The star β Pictoris is orbited by a dusty debris disk, within which planet formation is occurring. The outer disk is sufficiently far from the star that volatile molecules are expected to freeze into solid ices. We observed the β Pictoris disk in the near-infrared using the James Webb Space Telescope. The spectrum shows features due to amorphous water ice (&amp;lt;7% crystallinity) and carbon dioxide (CO 2 ) ice in both the 12 CO 2 and 13 CO 2 isotopologues. We infer that the CO 2 ice is intimately mixed with the water ice at a ratio of 1:10. This implies that the ices formed in cold conditions, likely in the interstellar medium. Frequent collisions within the debris disk are required to explain the observed uniform distribution of icy dust grains.</description>
     </item>
     <item>
-      <title>Hantavirus pulmonary syndrome outbreak linked to cruise ship travel in April–May 2026</title>
-      <link>https://doi.org/10.1126/science.aej1376</link>
-      <guid isPermaLink="false">10.1126/science.aej1376</guid>
+      <title>Californians approve controversial $8.4 billion immunology initiative</title>
+      <link>https://doi.org/10.1126/science.aeo0638</link>
+      <guid isPermaLink="false">10.1126/science.aeo0638</guid>
 
-      <dc:creator>Bas B. Oude Munnink</dc:creator>
-      <dc:creator>Samuel Cordey</dc:creator>
-      <dc:creator>Moussa Moïse Diagne</dc:creator>
-      <dc:creator>Jonathan Featherstone</dc:creator>
-      <dc:creator>Anabel Negredo</dc:creator>
-      <dc:creator>Sarah Temmam</dc:creator>
-      <dc:creator>Jenniffer Angulo</dc:creator>
-      <dc:creator>Carla M. Bellomo</dc:creator>
+      <dc:creator>Phie Jacobs</dc:creator>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bas B. Oude Munnink, Samuel Cordey, Moussa Moïse Diagne, Jonathan Featherstone, Anabel Negredo, Sarah Temmam, Jenniffer Angulo, Carla M. Bellomo, et al.
+      <description>Authors: Phie Jacobs
 
-Journal: Science; Article number: eaej1376
-
-Abstract: In April 2026, a hantavirus pulmonary syndrome (HPS) outbreak caused by Andes virus (ANDV) occurred on a cruise ship. ANDV genome sequences were obtained for 10 of the 13 identified cases during a cross-country investigation established to share initial raw data for joint analysis with reciprocal quality control. The genomic data, symptom onsets, and plausible contact patterns strongly support a tightly linked outbreak cluster compatible with a single or very few zoonotic spillover events prior to embarkment followed by human-to-human transmission onboard. The outbreak represents the international displacement of a virus already known to be capable, under specific conditions, to transmit among humans, and does not suggest emergence of a unusual viral strain.</description>
+Journal: Science; Volume: 394; Issue: 6825; Pages: 703-703</description>
     </item>
     <item>
       <title>Neurons in a dish are the newest computing machines</title>
@@ -655,22 +655,6 @@ Journal: Science; Volume: 394; Issue: 6825; Article number: eaej7530
 Abstract: Cilia-derived extracellular vesicles (EVs) mediate cell-cell communication and remove signaling molecules from cilia. The Hedgehog receptor Smoothened (SMO) is selected for packaging into ciliary EVs by ubiquitin chains, but how cargo selection is coupled to EV budding remains unknown. In this work, working in mouse kidney cells, we found that the ubiquitin reader endosomal sorting complex required for transport–0 (ESCRT-0) orchestrates both cargo selection and EV biogenesis. Unlike the conventional ESCRT pathway, SMO secretion did not require the ESCRT-III membrane scission machinery. Instead, ESCRT-0 condensed at the ciliary tip, where it clustered ubiquitinated SMO to drive EV biogenesis. Disrupting ESCRT-0 condensation blocked SMO secretion, and combining forced recruitment of ESCRT-0 with optogenetic clustering of SMO was sufficient to reconstitute EV budding. Thus, ESCRT-0 condensation and cargo clustering constitute a minimal module for ESCRT-III–independent reverse-topology budding.</description>
     </item>
     <item>
-      <title>Geodetic observations in West Antarctica reveal geodynamically consistent 3D mantle viscosity</title>
-      <link>https://doi.org/10.1126/science.aeh5525</link>
-      <guid isPermaLink="false">10.1126/science.aeh5525</guid>
-
-      <dc:creator>Donna L. dePolo</dc:creator>
-      <dc:creator>Tao Yuan</dc:creator>
-      <dc:creator>Matt A. King</dc:creator>
-      <dc:creator>Shijie Zhong</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Donna L. dePolo, Tao Yuan, Matt A. King, Shijie Zhong
-
-Journal: Science; Volume: 394; Issue: 6825; Pages: 752-757
-
-Abstract: The rapid ice loss in West Antarctica since the 1990s has led to substantial ice surface lowering, regional bedrock uplift, and gravity reduction, as measured by geodetic observations. The bedrock (crustal) motions and gravity changes result from glacial isostatic adjustment (GIA), a process controlled by Earth’s viscoelastic properties and deglaciation history. In this study, we present GIA models with geodynamically consistent three-dimensional mantle viscoelastic structures and reconstructed ice history for Antarctica from 1900 to 2020, which explain both the observed Global Navigation Satellite System crustal motions and Gravity Recovery and Climate Experiment gravity changes in West Antarctica. This study demonstrates that a mantle rheology including a weak asthenosphere and temperature-dependent viscosity is consistent with both mantle convection at million-year timescales and ongoing decadal GIA occurring in West Antarctica.</description>
-    </item>
-    <item>
       <title>Early epidemiological and spatial assessment of the Bundibugyo virus outbreak 2026</title>
       <link>https://doi.org/10.1126/science.aej4586</link>
       <guid isPermaLink="false">10.1126/science.aej4586</guid>
@@ -689,6 +673,22 @@ Abstract: The rapid ice loss in West Antarctica since the 1990s has led to subst
 Journal: Science; Article number: eaej4586
 
 Abstract: A Bundibugyo virus outbreak was first reported on May 15th, 2026 in Ituri province, Democratic Republic of the Congo, with multiple cases reported across health zones during the early phase of the outbreak and suggestions of circulation weeks prior to detection. We pair highly resolved case and testing records with human mobility data to investigate the early outbreak dynamics of Bundibugyo virus disease (BVD). We show that human movement was a principle driver of early spatial expansion between May 10th and June 1st when the number of health zones and health areas reporting positive cases increased by 12 and 49, respectively. The early doubling time was estimated at ~10 days. Our work shows the rapid spatial expansion and growth of BVD with implications for intervention strategies.</description>
+    </item>
+    <item>
+      <title>Geodetic observations in West Antarctica reveal geodynamically consistent 3D mantle viscosity</title>
+      <link>https://doi.org/10.1126/science.aeh5525</link>
+      <guid isPermaLink="false">10.1126/science.aeh5525</guid>
+
+      <dc:creator>Donna L. dePolo</dc:creator>
+      <dc:creator>Tao Yuan</dc:creator>
+      <dc:creator>Matt A. King</dc:creator>
+      <dc:creator>Shijie Zhong</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Donna L. dePolo, Tao Yuan, Matt A. King, Shijie Zhong
+
+Journal: Science; Volume: 394; Issue: 6825; Pages: 752-757
+
+Abstract: The rapid ice loss in West Antarctica since the 1990s has led to substantial ice surface lowering, regional bedrock uplift, and gravity reduction, as measured by geodetic observations. The bedrock (crustal) motions and gravity changes result from glacial isostatic adjustment (GIA), a process controlled by Earth’s viscoelastic properties and deglaciation history. In this study, we present GIA models with geodynamically consistent three-dimensional mantle viscoelastic structures and reconstructed ice history for Antarctica from 1900 to 2020, which explain both the observed Global Navigation Satellite System crustal motions and Gravity Recovery and Climate Experiment gravity changes in West Antarctica. This study demonstrates that a mantle rheology including a weak asthenosphere and temperature-dependent viscosity is consistent with both mantle convection at million-year timescales and ongoing decadal GIA occurring in West Antarctica.</description>
     </item>
     <item>
       <title>New tools for an old problem</title>
@@ -1057,20 +1057,6 @@ Journal: Science; Volume: 394; Issue: 6824; Pages: 643-644
 Abstract: Editors’ selections from the current scientific literature</description>
     </item>
     <item>
-      <title>Serbia elects the world’s brainiest parliament</title>
-      <link>https://doi.org/10.1126/science.aen8503</link>
-      <guid isPermaLink="false">10.1126/science.aen8503</guid>
-
-      <dc:creator>Mićo Tatalović</dc:creator>
-      <dc:creator>Nenad Jarić Dauenhauer</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mićo Tatalović, Nenad Jarić Dauenhauer
-
-Journal: Science; Volume: 394; Issue: 6824; Pages: 581-582
-
-Abstract: Dozens of academics become politicians after student group’s stunning victory, raising hopes for reforms</description>
-    </item>
-    <item>
       <title>Start cryosphere flood warnings at the source</title>
       <link>https://doi.org/10.1126/science.ael8929</link>
       <guid isPermaLink="false">10.1126/science.ael8929</guid>
@@ -1093,6 +1079,20 @@ Journal: Science; Volume: 394; Issue: 6824; Pages: 602-603</description>
 Journal: Science; Volume: 394; Issue: 6824; Pages: 607-607
 
 Abstract: Conservation agriculture reframes farming, risk, and resilience in Africa</description>
+    </item>
+    <item>
+      <title>Serbia elects the world’s brainiest parliament</title>
+      <link>https://doi.org/10.1126/science.aen8503</link>
+      <guid isPermaLink="false">10.1126/science.aen8503</guid>
+
+      <dc:creator>Mićo Tatalović</dc:creator>
+      <dc:creator>Nenad Jarić Dauenhauer</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mićo Tatalović, Nenad Jarić Dauenhauer
+
+Journal: Science; Volume: 394; Issue: 6824; Pages: 581-582
+
+Abstract: Dozens of academics become politicians after student group’s stunning victory, raising hopes for reforms</description>
     </item>
     <item>
       <title>In Science Journals</title>
