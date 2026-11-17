@@ -5,8 +5,62 @@
     <link>https://www.nature.com/nm/</link>
     <description>Latest journal articles for Nature Medicine</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 15:47:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:02:57 +0000</lastBuildDate>
 
+    <item>
+      <title>Generational gains in cognitive capacity and dementia incidence rates in Western countries</title>
+      <link>https://doi.org/10.1038/s41591-026-04759-y</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04759-y</guid>
+
+      <dc:creator>Anders M. Fjell</dc:creator>
+      <dc:creator>Edvard O. S. Grødem</dc:creator>
+      <dc:creator>Gabriela Lunansky</dc:creator>
+      <dc:creator>Didac Vidal-Piñeiro</dc:creator>
+      <dc:creator>Ole Rogeberg</dc:creator>
+      <dc:creator>Kristine B. Walhovd</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Anders M. Fjell, Edvard O. S. Grødem, Gabriela Lunansky, Didac Vidal-Piñeiro, Ole Rogeberg, Kristine B. Walhovd
+
+Journal: Nature Medicine</description>
+    </item>
+    <item>
+      <title>An open agentic AI co-scientist for clinical and biomedical discovery</title>
+      <link>https://doi.org/10.1038/s41591-026-04808-6</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04808-6</guid>
+
+      <dc:creator>Kaleigh F. Roberts</dc:creator>
+      <dc:creator>Zachary B. Abrams</dc:creator>
+      <dc:creator>Luca Cappelletti</dc:creator>
+      <dc:creator>Mahdi Moqri</dc:creator>
+      <dc:creator>Nicholas Heugel</dc:creator>
+      <dc:creator>J. Harry Caufield</dc:creator>
+      <dc:creator>Mathieu Bourdenx</dc:creator>
+      <dc:creator>Yan Li</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Kaleigh F. Roberts, Zachary B. Abrams, Luca Cappelletti, Mahdi Moqri, Nicholas Heugel, J. Harry Caufield, Mathieu Bourdenx, Yan Li, et al.
+
+Journal: Nature Medicine
+
+Abstract: Abstract Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-gapped environment using open-source models for inference. OpenScientist demonstrates that open, auditable, agentic AI can support real-world clinical research by researching the literature, generating hypotheses, executing analyses, and generating insights from complex datasets.</description>
+    </item>
+    <item>
+      <title>Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure</title>
+      <link>https://doi.org/10.1038/s41591-026-04798-5</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04798-5</guid>
+
+      <dc:creator>Lesley A. Inker</dc:creator>
+      <dc:creator>Willem Collier</dc:creator>
+      <dc:creator>Tom Greene</dc:creator>
+      <dc:creator>Shiyuan Miao</dc:creator>
+      <dc:creator>Juhi Chaudhari</dc:creator>
+      <dc:creator>Gerald B. Appel</dc:creator>
+      <dc:creator>Sunil V. Badve</dc:creator>
+      <dc:creator>Fernando Caravaca-Fontán</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Lesley A. Inker, Willem Collier, Tom Greene, Shiyuan Miao, Juhi Chaudhari, Gerald B. Appel, Sunil V. Badve, Fernando Caravaca-Fontán, et al.
+
+Journal: Nature Medicine</description>
+    </item>
     <item>
       <title>Vaccines could be a new frontier in KRAS targeting</title>
       <link>https://doi.org/10.1038/s41591-026-04772-1</link>
@@ -414,24 +468,6 @@ Journal: Nature Medicine; Volume: 32; Issue: 11; Pages: 4256-4267</description>
       <description>Journal: Nature Medicine; Volume: 32; Issue: 11; Pages: 3962-3963</description>
     </item>
     <item>
-      <title>A live biotherapeutic product for adult allogeneic hematopoietic cell transplantation recipients: a partially randomized, placebo-controlled phase 1b trial</title>
-      <link>https://doi.org/10.1038/s41591-026-04686-y</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04686-y</guid>
-
-      <dc:creator>Doris M. Ponce</dc:creator>
-      <dc:creator>Zachariah DeFilipp</dc:creator>
-      <dc:creator>Christopher B. Ford</dc:creator>
-      <dc:creator>Bina Tejura</dc:creator>
-      <dc:creator>Mary-Jane Lombardo</dc:creator>
-      <dc:creator>David I. Lichter</dc:creator>
-      <dc:creator>Meghan Chafee</dc:creator>
-      <dc:creator>Satyajit Kosuri</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Doris M. Ponce, Zachariah DeFilipp, Christopher B. Ford, Bina Tejura, Mary-Jane Lombardo, David I. Lichter, Meghan Chafee, Satyajit Kosuri, et al.
-
-Journal: Nature Medicine; Volume: 32; Issue: 11; Pages: 4221-4233</description>
-    </item>
-    <item>
       <title>Neoadjuvant botensilimab with or without balstilimab in pMMR and dMMR colon cancer: the phase 2 UNICORN trial</title>
       <link>https://doi.org/10.1038/s41591-026-04710-1</link>
       <guid isPermaLink="false">10.1038/s41591-026-04710-1</guid>
@@ -448,6 +484,24 @@ Journal: Nature Medicine; Volume: 32; Issue: 11; Pages: 4221-4233</description>
       <description>Authors: Filippo Ghelardi, Margherita Ambrosini, Alessandra Raimondi, Andrei Tyshevich, Federica Palermo, Francesca Bergamo, Vincenzo Nasca, Paolo Manca, et al.
 
 Journal: Nature Medicine; Volume: 32; Issue: 11; Pages: 4172-4184</description>
+    </item>
+    <item>
+      <title>A live biotherapeutic product for adult allogeneic hematopoietic cell transplantation recipients: a partially randomized, placebo-controlled phase 1b trial</title>
+      <link>https://doi.org/10.1038/s41591-026-04686-y</link>
+      <guid isPermaLink="false">10.1038/s41591-026-04686-y</guid>
+
+      <dc:creator>Doris M. Ponce</dc:creator>
+      <dc:creator>Zachariah DeFilipp</dc:creator>
+      <dc:creator>Christopher B. Ford</dc:creator>
+      <dc:creator>Bina Tejura</dc:creator>
+      <dc:creator>Mary-Jane Lombardo</dc:creator>
+      <dc:creator>David I. Lichter</dc:creator>
+      <dc:creator>Meghan Chafee</dc:creator>
+      <dc:creator>Satyajit Kosuri</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Doris M. Ponce, Zachariah DeFilipp, Christopher B. Ford, Bina Tejura, Mary-Jane Lombardo, David I. Lichter, Meghan Chafee, Satyajit Kosuri, et al.
+
+Journal: Nature Medicine; Volume: 32; Issue: 11; Pages: 4221-4233</description>
     </item>
     <item>
       <title>Effect of two common GVHD prophylaxis regimens on the gut microbiome in a randomized phase 3 trial</title>
@@ -1573,54 +1627,6 @@ Journal: Nature Medicine</description>
       <description>Authors: Karen O’Leary
 
 Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Does expansion of clinical trial capacity improve healthcare access?</title>
-      <link>https://doi.org/10.1038/s41591-026-04683-1</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04683-1</guid>
-
-      <dc:creator>Yang Liu</dc:creator>
-      <dc:creator>Yuzi You</dc:creator>
-      <dc:creator>Cheng Li</dc:creator>
-      <dc:creator>Chenghao Ge</dc:creator>
-      <dc:creator>Yale Jiang</dc:creator>
-      <dc:creator>Sen Liu</dc:creator>
-      <dc:creator>Yusu Jian</dc:creator>
-      <dc:creator>Xin Wang</dc:creator>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yang Liu, Yuzi You, Cheng Li, Chenghao Ge, Yale Jiang, Sen Liu, Yusu Jian, Xin Wang, et al.
-
-Journal: Nature Medicine</description>
-    </item>
-    <item>
-      <title>Redesigning cardiovascular medicine around sex differences</title>
-      <link>https://doi.org/10.1038/s41591-026-04659-1</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04659-1</guid>
-
-      <dc:creator>Elisa Dal Canto</dc:creator>
-      <dc:creator>Ernest Diez Benavente</dc:creator>
-      <dc:creator>Tim van de Hoef</dc:creator>
-      <dc:creator>Nabila Bouatia-Naji</dc:creator>
-      <dc:creator>Karen Reue</dc:creator>
-      <dc:creator>Mete Civelek</dc:creator>
-      <dc:creator>Hester den Ruijter</dc:creator>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Elisa Dal Canto, Ernest Diez Benavente, Tim van de Hoef, Nabila Bouatia-Naji, Karen Reue, Mete Civelek, Hester den Ruijter
-
-Journal: Nature Medicine; Volume: 32; Issue: 10; Pages: 3551-3563</description>
-    </item>
-    <item>
-      <title>Polygenic scores in the NHS: the debate is not primarily about the evidence</title>
-      <link>https://doi.org/10.1038/s41591-026-04684-0</link>
-      <guid isPermaLink="false">10.1038/s41591-026-04684-0</guid>
-
-      <dc:creator>Hayley Wilson</dc:creator>
-      <dc:creator>Chantal Babb de Villiers</dc:creator>
-      <dc:creator>Peter Mills</dc:creator>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Hayley Wilson, Chantal Babb de Villiers, Peter Mills
-
-Journal: Nature Medicine; Volume: 32; Issue: 11; Pages: 3928-3929</description>
     </item>
   </channel>
 </rss>
