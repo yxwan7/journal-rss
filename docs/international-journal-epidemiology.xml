@@ -5,7 +5,7 @@
     <link>https://academic.oup.com/ije</link>
     <description>Latest journal articles for International Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:40:21 +0000</lastBuildDate>
 
     <item>
       <title>Roger Detels, 14 October 1936 to 25 July 2026</title>
@@ -860,22 +860,6 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag178</description>
     </item>
     <item>
-      <title>Data Resource Profile: The Korean National Health Insurance Service Mother-Child Linked Database (NHIS-MCLD): a nationwide administrative database with a cohort design</title>
-      <link>https://doi.org/10.1093/ije/dyag206</link>
-      <guid isPermaLink="false">10.1093/ije/dyag206</guid>
-
-      <dc:creator>Jeong-Won Oh</dc:creator>
-      <dc:creator>Seung-Ah Choe</dc:creator>
-      <dc:creator>Eunseon Gwak</dc:creator>
-      <dc:creator>Seong Yong Park</dc:creator>
-      <dc:creator>Young June Choe</dc:creator>
-      <dc:creator>Sung-Il Cho</dc:creator>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jeong-Won Oh, Seung-Ah Choe, Eunseon Gwak, Seong Yong Park, Young June Choe, Sung-Il Cho
-
-Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag206</description>
-    </item>
-    <item>
       <title>Sicker at all ages? Two decades of changing disease histories and mortality in the United States</title>
       <link>https://doi.org/10.1093/ije/dyag217</link>
       <guid isPermaLink="false">10.1093/ije/dyag217</guid>
@@ -890,6 +874,22 @@ Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article nu
 Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag217
 
 Abstract: Abstract Background Stagnating cardiovascular disease mortality and rising drug- and suicide-related deaths are key drivers of stalled US mortality improvements. However, prior research has largely overlooked disease histories preceding death, despite increasing multimorbidity. We examined changes in disease-history profiles in the US population and assessed how shifts in profile composition and within-profile mortality shaped mortality trends. Methods We analysed adults aged ≥30 years (N = 510 372) from the IPUMS-NHIS (National Health Interview Survey) 1997–2018 linked mortality files (follow-up through 2019). Latent class analysis on the pooled sample across all ages and years identified disease-history profiles based on self-reported cancer, diabetes, cardiovascular disease, mental health, internal diseases, obesity, and physical limitations. Logistic regression was used to estimate profile-specific 5-year mortality over time, and counterfactual decomposition was used to quantify the contributions of compositional change and within-profile mortality improvement to overall mortality trends. Results Five disease-history profiles were identified. Prevalence and 5-year death probability ranged from disease-free (62.4%; men 3.7% [95% confidence interval (CI) 3.5–3.8], women 2.4% [95% CI 2.3–2.5]) to high-burden multimorbidity (5.9%; men 17.8% [95% CI 16.8–18.8], women 12.6% [95% CI 11.9–13.3]), with substantial gradients across intermediate profiles. Profile composition varied substantially by gender, education, and race/ethnicity. The disease-free population declined by nearly 1% annually, replaced primarily by cardiometabolic and high-burden multimorbidity profiles. Most profiles experienced stagnating or increasing mortality after the mid-2000s. The decomposition shows that within-profile mortality improvement was the dominant driver of declining mortality; compositional shifts, mostly driven by the declining disease-free share, partially offset these gains. Conclusion Stagnating US mortality reflects both the growing prevalence of high-morbidity profiles and worsening or stagnating survival within them, highlighting the limited reach of prevention and disease-management efforts.</description>
+    </item>
+    <item>
+      <title>Data Resource Profile: The Korean National Health Insurance Service Mother-Child Linked Database (NHIS-MCLD): a nationwide administrative database with a cohort design</title>
+      <link>https://doi.org/10.1093/ije/dyag206</link>
+      <guid isPermaLink="false">10.1093/ije/dyag206</guid>
+
+      <dc:creator>Jeong-Won Oh</dc:creator>
+      <dc:creator>Seung-Ah Choe</dc:creator>
+      <dc:creator>Eunseon Gwak</dc:creator>
+      <dc:creator>Seong Yong Park</dc:creator>
+      <dc:creator>Young June Choe</dc:creator>
+      <dc:creator>Sung-Il Cho</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jeong-Won Oh, Seung-Ah Choe, Eunseon Gwak, Seong Yong Park, Young June Choe, Sung-Il Cho
+
+Journal: International Journal of Epidemiology; Volume: 55; Issue: 5; Article number: dyag206</description>
     </item>
     <item>
       <title>Have Australians become more lonely and socially isolated? A longitudinal analysis of the Household, Income and Labour Dynamics in Australia study</title>

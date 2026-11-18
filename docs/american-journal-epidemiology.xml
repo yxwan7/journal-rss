@@ -5,8 +5,40 @@
     <link>https://academic.oup.com/aje</link>
     <description>Latest journal articles for American Journal of Epidemiology</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:40:23 +0000</lastBuildDate>
 
+    <item>
+      <title>Using probabilistic bias analysis to adjust for selection bias in retrospective case-control studies</title>
+      <link>https://doi.org/10.1093/aje/kwag295</link>
+      <guid isPermaLink="false">10.1093/aje/kwag295</guid>
+
+      <dc:creator>Huda Bashir</dc:creator>
+      <dc:creator>Anke Hüls</dc:creator>
+      <dc:creator>Richard MacLehose</dc:creator>
+      <dc:creator>Thomas Ahern</dc:creator>
+      <dc:creator>Lindsay J Collin</dc:creator>
+      <dc:creator>Joshua Wallach</dc:creator>
+      <dc:creator>Timothy L Lash</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Huda Bashir, Anke Hüls, Richard MacLehose, Thomas Ahern, Lindsay J Collin, Joshua Wallach, Timothy L Lash
+
+Journal: American Journal of Epidemiology; Article number: kwag295
+
+Abstract: Abstract Retrospective case-control studies are susceptible to selection bias from differential participation. Knowledge of non-participation proportions by outcome and exposure status is difficult to estimate. This knowledge gap can be treated as a missing data problem through the implementation of imputation strategies to reduce potential bias. We used information about participants’ exposure prevalence to inform non-participants’ exposure prevalence and applied these estimates in probabilistic bias analysis to address the missing data problem. We conducted a simulation study using four probability distributions (uniform, triangular, trapezoidal, and beta) assigned to the exposure prevalence in non-participants for use in bias-adjustment, identifying the trapezoidal distribution as the most principled approach. We applied the trapezoidal distribution to a meta-analysis on passive smoking and breast cancer, with a recomputed summary OR=1.23 (95% CI, 1.00, 1.51) in retrospective case-control studies and a recomputed summary RR=1.07 (95% CI, 0.92, 1.24) in prospective cohort studies. Applying our bias adjustment to the retrospective ORs, we obtained a summary OR=1.16 (95% CI, 0.99, 1.35) from a meta-analysis of the retrospective studies; closer to the prospective studies’ summary estimate. In the simulation and applied example, making defensible assumptions about the exposure prevalence of non-participants yielded more valid estimates compared with ignoring selection forces.</description>
+    </item>
+    <item>
+      <title>Response to: The French Paradox 2, a remake for Norway?</title>
+      <link>https://doi.org/10.1093/aje/kwag297</link>
+      <guid isPermaLink="false">10.1093/aje/kwag297</guid>
+
+      <dc:creator>Fjorida Llaha</dc:creator>
+      <dc:creator>Idlir Licaj</dc:creator>
+      <dc:creator>Kristin Benjaminsen Borch</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Fjorida Llaha, Idlir Licaj, Kristin Benjaminsen Borch
+
+Journal: American Journal of Epidemiology; Article number: kwag297</description>
+    </item>
     <item>
       <title>Causal Machine Learning for Treatment Effect Heterogeneity: Interpretation, Benchmarking, Validation</title>
       <link>https://doi.org/10.1093/aje/kwag294</link>
@@ -480,7 +512,7 @@ Journal: American Journal of Epidemiology; Article number: kwag266</description>
 
 Journal: American Journal of Epidemiology; Article number: kwag261
 
-Abstract: Abstract Understanding treatment effect heterogeneity (TEH) is essential to improve care for patients living with chronic diseases like type 2 diabetes. Individual responses to treatment can vary substantially, and identifying the factors that drive TEH may enable increased personalization of treatment and follow-up. In this study, we conduct an exploratory analysis of TEH for glucagon-like peptide-1 receptor agonists used to treat type 2 diabetes. Endpoints are defined using hemoglobin A1c measurements, body mass index, and blood pressure. We use causal forests to conduct global tests for TEH, estimate variable importances to rank candidate effect modifiers, and estimate the magnitude of heterogeneity. Data from three clinical trials are analyzed: SUSTAIN 6 (subcutaneous semaglutide versus placebo, n=3297), PIONEER 6 (oral semaglutide versus placebo, n=3183), and LEADER (subcutaneous liraglutide versus placebo, n=9340), pooled to 13,670 patients after exclusions. Baseline hemoglobin A1c ranks highest among candidate effect modifiers across methods, and kidney function ranks next in the relative risk causal forest; we discuss their clinical implications. The magnitude estimates, however, show that the variation these covariates jointly explain is small. As such, large covariate-driven heterogeneity can be ruled out in these trials, and the average treatment effect provides a reasonable summary for most patients.</description>
+Abstract: Abstract Understanding treatment effect heterogeneity (TEH) is essential to improve care for patients living with chronic diseases like type 2 diabetes. Individual responses to treatment can vary substantially, and identifying the factors that drive TEH may enable increased personalization of treatment and follow-up. In this study, we conduct an exploratory analysis of TEH for glucagon-like peptide-1 receptor agonists used to treat type 2 diabetes. Endpoints are defined using hemoglobin A1c measurements, body mass index, and blood pressure. We use causal forests to conduct global tests for TEH, estimate variable importances to rank candidate effect modifiers, and estimate the magnitude of heterogeneity. Data from three clinical trials are analyzed: SUSTAIN 6 (subcutaneous semaglutide versus placebo, $n=3297$), PIONEER 6 (oral semaglutide versus placebo, $n=3183$), and LEADER (subcutaneous liraglutide versus placebo, $n=9340$), pooled to 13,670 patients after exclusions. Baseline hemoglobin A1c ranks among the highest candidate effect modifiers across methods, and kidney function ranks next in the relative risk causal forest; we discuss their clinical implications. The magnitude estimates, however, show that the variation these covariates jointly explain is small. As such, large covariate-driven heterogeneity can be ruled out in these trials, and the average treatment effect provides a reasonable summary for most patients.</description>
     </item>
     <item>
       <title>Maternal Education in Context: Reassessing the Infant Health Paradox among Latin American Immigrants</title>
@@ -1586,44 +1618,6 @@ Abstract: Abstract Prior studies suggest fluoride exposure in drinking water abo
       <description>Authors: Angelin Tresa Mathew, Urvish Jain, Bhav Jain, Edward Christopher Dee, Myron Rolle, Megan Ranney
 
 Journal: American Journal of Epidemiology; Volume: 195; Issue: 11; Pages: 2981-2983</description>
-    </item>
-    <item>
-      <title>Meta-analyses of dietary exposures must consider energy adjustment: recommendations from a meta-scientific review</title>
-      <link>https://doi.org/10.1093/aje/kwag188</link>
-      <guid isPermaLink="false">10.1093/aje/kwag188</guid>
-
-      <dc:creator>Natalia Ortega</dc:creator>
-      <dc:creator>Peter W G Tennant</dc:creator>
-      <dc:creator>Darren C Greenwood</dc:creator>
-      <dc:creator>Octavio Pano</dc:creator>
-      <dc:creator>Christina C Dahm</dc:creator>
-      <dc:creator>Russell J de Souza</dc:creator>
-      <dc:creator>Daniel Borch Ibsen</dc:creator>
-      <dc:creator>Conor MacDonald</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Natalia Ortega, Peter W G Tennant, Darren C Greenwood, Octavio Pano, Christina C Dahm, Russell J de Souza, Daniel Borch Ibsen, Conor MacDonald, et al.
-
-Journal: American Journal of Epidemiology; Article number: kwag188
-
-Abstract: Abstract In observational studies of dietary exposures, the energy adjustment strategy directly alters the effect being estimated. Adjusting for total energy intake or expressing the exposure as a percentage of total energy changes the estimated effect to a substitution. This meta-scientific review aimed to investigate the extent to which meta-analyses of dietary exposures have considered this challenge and whether they might inadvertently pool incomparable effects. We identified all meta-analyses examining the relationship between 1) saturated fat and cardiovascular disease, 2) fish and cardiovascular disease. For each, we examined the two most recent and two most cited meta-analyses, and their constituent studies. We extracted information on research aims, estimated effects, and interpretations. The eight meta-analyses collectively included 82 studies and 144 unique models. 82% (n = 119/144) of models estimated substitution effects, but this was rarely recognised or discussed. Only one meta-analysis explicitly considered the energy adjustment strategy, only to determine eligibility for a sub-group analysis. No meta-analyses acknowledged that they may have pooled estimates for different effects. Such inappropriately pooled estimates result in quantities with obscure interpretations. Based on our findings, we offer recommendations designed to improve the conduct of future meta-analyses and, consequently, the quality of evidence that informs dietary recommendations.</description>
-    </item>
-    <item>
-      <title>What phases of the drug development framework can epidemiological studies emulate?</title>
-      <link>https://doi.org/10.1093/aje/kwag194</link>
-      <guid isPermaLink="false">10.1093/aje/kwag194</guid>
-
-      <dc:creator>Stephen Burgess</dc:creator>
-      <dc:creator>Benjamin Woolf</dc:creator>
-      <dc:creator>Emily Bassett</dc:creator>
-      <dc:creator>David S Robertson</dc:creator>
-      <dc:creator>Sofía Villar</dc:creator>
-      <dc:creator>Jeremy A Labrecque</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Stephen Burgess, Benjamin Woolf, Emily Bassett, David S Robertson, Sofía Villar, Jeremy A Labrecque
-
-Journal: American Journal of Epidemiology; Article number: kwag194
-
-Abstract: Abstract Target trial emulation prompts investigators to frame their analysis question in terms of a hypothetical clinical trial. Although this does not solve the problem of confounding, the framework can protect against other sources of bias. A natural question is this: What kinds of trials can be emulated? In a late-phase trial (phases 3 or 4), the goal is to obtain a well-defined causal estimate that closely approximates the impact of a proposed intervention. In an early-phase trial (phase 2 or earlier), the estimate is a means to an end rather than an end in itself. An early-phase trial provides proof-of-concept evidence on the impact of an intervention in the exposure in terms of efficacy and safety, but the estimand may not correspond to the intervention to be implemented in practice. In a natural experiment where causal inferences rely on a plausibly random (or quasi-random) comparison, the estimand may not be directly translatable to applied practice. In this case, the analysis may be conceptualized as an early-phase target trial. This provides less specific evidence than a late-stage target trial, but in many cases, a more valid but less applicable comparison is preferable to a more applicable comparison that is more susceptible to bias.</description>
     </item>
   </channel>
 </rss>
