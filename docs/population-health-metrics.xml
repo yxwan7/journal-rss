@@ -5,8 +5,23 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:27:42 +0000</lastBuildDate>
 
+    <item>
+      <title>Hidden alcohol- attributable mortality in Russia: evidence from regional panel data, 2000–2019</title>
+      <link>https://doi.org/10.1186/s12963-026-00524-y</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00524-y</guid>
+
+      <dc:creator>Aleksey Shchur</dc:creator>
+      <dc:creator>Vladimir M. Shkolnikov</dc:creator>
+      <dc:creator>Olga Rodina</dc:creator>
+      <dc:creator>Egor Sergeev</dc:creator>
+      <dc:creator>Elena Zamyatnina</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Aleksey Shchur, Vladimir M. Shkolnikov, Olga Rodina, Egor Sergeev, Elena Zamyatnina
+
+Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 64</description>
+    </item>
     <item>
       <title>A simulation analysis of hazard ratio estimation with competing risks</title>
       <link>https://doi.org/10.1186/s12963-026-00529-7</link>
@@ -183,6 +198,22 @@ Journal: Population Health Metrics
 Abstract: Abstract Mortality surveillance, including ascertainment of fact and cause of death, is crucial for understanding disease trends and informing public health interventions and policies. Verbal autopsy (VA) interviews conducted by trained lay interviewers with the next of kin of the deceased are increasingly being used to determine causes of death (CoD), where a substantial proportion of deaths occur outside of clinical care settings. When reviewed and coded into ICD-based causes of death by physicians [Physician-Coded Verbal Autopsy (PCVA)] or by algorithms based on physician coding [Computer Coded Verbal Autopsies (CCVA)], VA data can complement mortality statistics coming from medically certified causes of death (MCCD). CCVA algorithms use discrete multiple-choice questions in the VA instrument to ascertain the probable cause of death. These algorithms have yet to fully utilize information in the narrative section of the VA. Processing unstructured and context-specific narrative data and integrating it into CCVA is challenging. In this scoping review, we review and synthesise existing literature on automation techniques applied to compute CoD using VA narratives, including Machine Learning models such as Bidirectional Encoder Representations from Transformers (BERT), Random Forest, A feedforward neural network (FNN), Extreme Gradient Boosting (XGBoost), and Support Vector Machine (SVM), and common Natural Language Processing (NLP) approaches including Term Frequency-Inverse Document Frequency (TF-IDF) and topic modeling methods such as Latent Dirichlet Allocation (LDA) that transform unstructured text into structured formats before CoD computation. Based on published studies, this review highlights the challenges and implications of using these methods. It underscores the need for open, up-to-date datasets to facilitate model comparison and improvement. Our findings suggest that integrating narratives into CoD prediction shows promise, particularly when combined with structured questionnaire data in hybrid modeling approaches. However, performance varied substantially across studies due to differences in datasets, preprocessing strategies, feature representation methods, and evaluation procedures. Although narrative-based models alone often underperform those developed from structured questions, incorporating narrative enhances CoD prediction by capturing context, chronology, and semantics, with some studies reporting improved classification performance compared to models using a single data modality.</description>
     </item>
     <item>
+      <title>Compression or expansion of morbidity: evaluating life expectancy with and without cardiovascular diseases in Denmark</title>
+      <link>https://doi.org/10.1186/s12963-026-00511-3</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00511-3</guid>
+
+      <dc:creator>Chiara Micheletti</dc:creator>
+      <dc:creator>Cosmo Strozza</dc:creator>
+      <dc:creator>Alyson van Raalte</dc:creator>
+      <dc:creator>Iñaki Permanyer</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chiara Micheletti, Cosmo Strozza, Alyson van Raalte, Iñaki Permanyer
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Cardiovascular diseases (CVDs) are among the leading causes of death in high-income countries and represent a major source of morbidity across the life course. Understanding how the time spent with CVD has evolved over time and how it differs between men and women requires going beyond summary measures of health expectancy, which condense complex health trajectories into a single number. Methods Using Danish population registers from 2005 to 2018, we employ novel bivariate age-at-death distributions to examine how the experience of cardiovascular morbidity is distributed across the population, how it has changed over time and how it varies by sex. Results Our findings point towards an expansion of CVD morbidity, with individuals experiencing a CVD hospital contact spending more years with the condition before death. This coincides with declining CVD incidence, as a growing proportion reach advanced ages without a hospital-recorded CVD event. Women are more likely than men to do so and spend fewer years with CVD before death. Conclusions The coexistence of expanding morbidity and declining incidence reflects progress on both prevention and treatment fronts, and need not be interpreted as a sign of worsening population health. The bivariate framework and visualisations introduced offer a valuable complement to existing health indicators, capturing the full distribution of morbidity experiences that summary measures conceal.</description>
+    </item>
+    <item>
       <title>A standardised approach to systematically select risk-outcome pairs in environmental burden of disease research</title>
       <link>https://doi.org/10.1186/s12963-026-00514-0</link>
       <guid isPermaLink="false">10.1186/s12963-026-00514-0</guid>
@@ -201,22 +232,6 @@ Abstract: Abstract Mortality surveillance, including ascertainment of fact and c
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 54
 
 Abstract: Abstract Background Environmental Burden of Disease (EBoD) quantifies health impacts attributable to environmental risk factors. The methodological choice on which risk-outcome pairs to include in EBoD studies is technically and conceptually demanding, with diffuse exposures and complex causal chains. This makes transparent criteria for inclusion of risk–outcome pairs essential. In response, we developed a standardised approach for systematically and transparently selecting risk-outcome pairs within environmental burden of disease research. Methods and results The standardised approach was developed through expert elicitation and iterative discussions, ultimately resulting in five sequential steps designed to strengthen consistency and transparency: (1) define and characterise the exposure to the environmental risk factor; (2) identify potential health outcomes from the literature; (3) evaluate the strength of evidence criteria according to set criteria; (4) select risk-outcome pairs based on strength of evidence; and (5) select exposure-response functions. Conclusions By making underlying assumptions explicit, the proposed approach to the selection of risk-outcome pairs can reduce subjectivity in the selection process and support more consistent, evidence-based decisions.</description>
-    </item>
-    <item>
-      <title>Compression or expansion of morbidity: evaluating life expectancy with and without cardiovascular diseases in Denmark</title>
-      <link>https://doi.org/10.1186/s12963-026-00511-3</link>
-      <guid isPermaLink="false">10.1186/s12963-026-00511-3</guid>
-
-      <dc:creator>Chiara Micheletti</dc:creator>
-      <dc:creator>Cosmo Strozza</dc:creator>
-      <dc:creator>Alyson van Raalte</dc:creator>
-      <dc:creator>Iñaki Permanyer</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chiara Micheletti, Cosmo Strozza, Alyson van Raalte, Iñaki Permanyer
-
-Journal: Population Health Metrics
-
-Abstract: Abstract Background Cardiovascular diseases (CVDs) are among the leading causes of death in high-income countries and represent a major source of morbidity across the life course. Understanding how the time spent with CVD has evolved over time and how it differs between men and women requires going beyond summary measures of health expectancy, which condense complex health trajectories into a single number. Methods Using Danish population registers from 2005 to 2018, we employ novel bivariate age-at-death distributions to examine how the experience of cardiovascular morbidity is distributed across the population, how it has changed over time and how it varies by sex. Results Our findings point towards an expansion of CVD morbidity, with individuals experiencing a CVD hospital contact spending more years with the condition before death. This coincides with declining CVD incidence, as a growing proportion reach advanced ages without a hospital-recorded CVD event. Women are more likely than men to do so and spend fewer years with CVD before death. Conclusions The coexistence of expanding morbidity and declining incidence reflects progress on both prevention and treatment fronts, and need not be interpreted as a sign of worsening population health. The bivariate framework and visualisations introduced offer a valuable complement to existing health indicators, capturing the full distribution of morbidity experiences that summary measures conceal.</description>
     </item>
     <item>
       <title>Cause of death contributions to life expectancy disparity in Fiji between Indigenous iTaukei and Fijians of Indian descent: a retrospective observational analysis of national mortality data from 2018 to 2023</title>
@@ -1589,26 +1604,6 @@ Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 62</de
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 61
 
 Abstract: Abstract Background Globally, there are significant inequalities in risk for chronic respiratory disease patients with COVID-19 (CRD-COVID), and a comprehensive understanding of its determinants and their interactions is needed. This study quantified individual, environmental, and viral risks that impact hospital admission severity and survival outcomes in CRD-COVID patients utilizing multinational hospital records. Methods We analysed data on CRD-COVID from the International Severe Acute Respiratory and emerging Infection Consortium (ISARIC) dataset, covering January 2020 to July 2022 across 30 countries. The cohort included COVID-19 patients with asthma (Asthma, n = 36,365), chronic pulmonary disease (CPD, n = 36,332), and asthma-CPD overlap (ACO, n = 16,061). We matched these patients with their prehospital environmental and viral risk factors. The primary outcome was admission severity, which we assessed using generalised linear mixed models (GLMM), and GPBoost with Shapley Additive Explanations (SHAP) algorithm. The secondary outcome was 28-day mortality, evaluated using Cox regression and K-medoids clustering. Results The rates of severe admissions and 28-day mortality were 33.7% and 16.4% for the asthma cohort, 30.1% and 31.6% for the CPD cohort, and 15.9% and 25.8% for the ACO cohort, respectively. Common key risk factors impacting admission severity in CRD-COVID patients include age, sex, comorbidities, humidity, precipitation, and O 3 concentration, while vaccination status, temperature, and SO 2 concentration were only significant in asthma patients. The interactions analysis showed low Humidity had a greater impact on patients over 60 years of age and those with comorbid hypertension. Individual, environmental, and viral factors accurately predicted admission severity, and their contribution was different for asthma (58% individual, 28% environmental, and 14% viral variants), CPD (57%, 33%, and 10%) and ACO (63%, 31%, and 6%) patients. Four clusters stratified by these risk factors within each disease group showed significant differences in 28-day mortality rates, particularly in the asthma and CPD patients. The cluster with the highest 28-day mortality rates featured low humidity (mean 55.5% for asthma, 54.4% for CPD) and older age (60.1 and 74.2 years). Conclusion The impact of prehospital individual, environmental, and viral risk on the severity of CRD-COVID patients was heterogeneous. Older people exposed to low humidity were at greatest risk.</description>
-    </item>
-    <item>
-      <title>Household crowding and mortality before and during the COVID-19 pandemic among adults: Findings from longitudinal population surveillance data in rural and peri-urban settings in Limpopo, South Africa</title>
-      <link>https://doi.org/10.1186/s12963-025-00391-z</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00391-z</guid>
-
-      <dc:creator>Kagiso Peace Seakamela</dc:creator>
-      <dc:creator>Jean Juste Harrisson Bashingwa</dc:creator>
-      <dc:creator>Joseph Tlouyamma</dc:creator>
-      <dc:creator>Cairo Bruce Ntimana</dc:creator>
-      <dc:creator>Modupi Peter Mphekgwana</dc:creator>
-      <dc:creator>Reneilwe Given Mashaba</dc:creator>
-      <dc:creator>Katlego Mothapo</dc:creator>
-      <dc:creator>Chodziwadziwa Whiteson Kabudula</dc:creator>
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Kagiso Peace Seakamela, Jean Juste Harrisson Bashingwa, Joseph Tlouyamma, Cairo Bruce Ntimana, Modupi Peter Mphekgwana, Reneilwe Given Mashaba, Katlego Mothapo, Chodziwadziwa Whiteson Kabudula, et al.
-
-Journal: Population Health Metrics; Volume: 23; Issue: S2; Article number: 60
-
-Abstract: Abstract Background Household overcrowding is a public health concern linked to increased morbidity and mortality. There is limited data available on the effects of COVID-19 on age-specific mortality in the context of household crowding in rural and peri-urban settings in Africa. Here we assess age-specific excess mortality in densely inhabited households before and during COVID-19. Methods We used data collected three times annually between 2019 and 2021 in the health and demographic surveillance project in DIMAMO, South Africa. Data inaccuracies or inconsistencies were identified and corrected using data validation rules or algorithms implemented at both application and database levels. The number of persons-per-room was used to determine the degree of crowding or household crowding index (HCI). HCI tertiles were categorized as low, medium, and high density. Results Throughout the study, people aged 70 years and above had the highest mortality rates compared to other age groups (40–54 and 55–69), with the highest mortality rates observed in overcrowded households (highest crowding index). MGH was observed as a risk factor for mortality during COVID-19. Individuals aged 70 years and older had the highest hazard ratios before and during COVID-19, where the risk increased during COVID-19 for densely populated households. Conclusion Overcrowding at the household level was associated with increased mortality during COVID-19 for individuals aged 70 years and older. Public health interventions in the case of future pandemics should consider how to address this risk factor.</description>
     </item>
   </channel>
 </rss>
