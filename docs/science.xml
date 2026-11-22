@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 14:39:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:34:43 +0000</lastBuildDate>
 
     <item>
       <title>AI rivals take on one of physics’ hardest math problems</title>
@@ -330,6 +330,26 @@ Journal: Science; Volume: 394; Issue: 6826; Pages: 817-817
 Abstract: The scholarly scientific record has always been a work in progress. From the earliest days of scientific publishing, new findings would come along that changed the way earlier findings are understood. When research journals were published only in print, occasional errors would be reported by the authors or found by others, and papers would be retracted or corrected. When publishing became digital, many more people could quickly access and scrutinize data and images for accuracy. Now, in the age of artificial intelligence (AI), it is possible for machines to do these examinations more expeditiously and at a larger scale. All of this has added an important new layer to the publishing process and put more responsibility on authors, who must update their work if new issues arise. In response to this need, Science is improving the ways in which it will flag and notate papers that require adjustment or where changes are under consideration. Our Editorial Policies now reflect these updates.</description>
     </item>
     <item>
+      <title>Telemetric calorimetry for wireless continuous reaction profiling</title>
+      <link>https://doi.org/10.1126/science.aei7840</link>
+      <guid isPermaLink="false">10.1126/science.aei7840</guid>
+
+      <dc:creator>Sukwoo Lee</dc:creator>
+      <dc:creator>Evan A. Weingarten</dc:creator>
+      <dc:creator>Michael F. Reynolds</dc:creator>
+      <dc:creator>Kevin Sun</dc:creator>
+      <dc:creator>Alejandro J. Cortese</dc:creator>
+      <dc:creator>Huw M. L. Davies</dc:creator>
+      <dc:creator>Alyosha C. Molnar</dc:creator>
+      <dc:creator>Paul L. McEuen</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Sukwoo Lee, Evan A. Weingarten, Michael F. Reynolds, Kevin Sun, Alejandro J. Cortese, Huw M. L. Davies, Alyosha C. Molnar, Paul L. McEuen, et al.
+
+Journal: Science; Volume: 394; Issue: 6826; Pages: 875-883
+
+Abstract: Real-time monitoring of chemical reactions is often achieved with specialized instrumentation along with custom-designed reactors or intrusive sampling. In this study, we introduce reaction telemetry, a wireless analytical strategy that enables remote, nonintrusive monitoring directly within operating reaction vessels. This approach uses light-powered microelectronic devices that communicate optically and function as autonomous sensing elements. We demonstrate continuous calorimetric measurements across diverse chemical reactions relevant to pharmaceutical and fine chemical synthesis, including photochemical and electrochemical systems, providing access to reaction kinetics under native operating conditions with subsecond temporal resolution. The resulting measurements will support catalyst evaluation, safety assessment, and mechanistic investigation and will accelerate data-driven reaction discovery. By embedding analytical functionality directly within reaction vessels, reaction telemetry establishes a general framework for information-rich observation of chemical processes across research, development, and education.</description>
+    </item>
+    <item>
       <title>The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation</title>
       <link>https://doi.org/10.1126/science.aee8018</link>
       <guid isPermaLink="false">10.1126/science.aee8018</guid>
@@ -368,26 +388,6 @@ Abstract: Although RNA quality control tightly regulates gene expression, the sc
 Journal: Science; Volume: 394; Issue: 6826; Pages: 859-863
 
 Abstract: Redox-mediated chemistry is central to both the biosynthesis and cytotoxicity of many natural products, yet how microbes balance these processes remains poorly understood. Here, we uncover a conserved mechanism that coordinates three redox-mediated processes in secondary metabolite biosynthesis: self-protection, prevention of substrate degradation, and late-stage biosynthesis. Using the antitumor antibiotic doxorubicin as a model system, we show that the vicinal oxygen chelate (VOC) protein DnrV prevents reactive oxygen species formation and substrate degradation while promoting P450 catalysis. We expand this paradigm to a conserved family of VOC-fold proteins, redox-associated cytotoxin-binding proteins (REACT), found across bacteria, fungi, and plants. REACT represents a multifunctional protein class that balances antibiotic assembly, self-protection, and prevention of metabolite destruction, providing a foundational understanding of production of redox-active natural products.</description>
-    </item>
-    <item>
-      <title>Telemetric calorimetry for wireless continuous reaction profiling</title>
-      <link>https://doi.org/10.1126/science.aei7840</link>
-      <guid isPermaLink="false">10.1126/science.aei7840</guid>
-
-      <dc:creator>Sukwoo Lee</dc:creator>
-      <dc:creator>Evan A. Weingarten</dc:creator>
-      <dc:creator>Michael F. Reynolds</dc:creator>
-      <dc:creator>Kevin Sun</dc:creator>
-      <dc:creator>Alejandro J. Cortese</dc:creator>
-      <dc:creator>Huw M. L. Davies</dc:creator>
-      <dc:creator>Alyosha C. Molnar</dc:creator>
-      <dc:creator>Paul L. McEuen</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Sukwoo Lee, Evan A. Weingarten, Michael F. Reynolds, Kevin Sun, Alejandro J. Cortese, Huw M. L. Davies, Alyosha C. Molnar, Paul L. McEuen, et al.
-
-Journal: Science; Volume: 394; Issue: 6826; Pages: 875-883
-
-Abstract: Real-time monitoring of chemical reactions is often achieved with specialized instrumentation along with custom-designed reactors or intrusive sampling. In this study, we introduce reaction telemetry, a wireless analytical strategy that enables remote, nonintrusive monitoring directly within operating reaction vessels. This approach uses light-powered microelectronic devices that communicate optically and function as autonomous sensing elements. We demonstrate continuous calorimetric measurements across diverse chemical reactions relevant to pharmaceutical and fine chemical synthesis, including photochemical and electrochemical systems, providing access to reaction kinetics under native operating conditions with subsecond temporal resolution. The resulting measurements will support catalyst evaluation, safety assessment, and mechanistic investigation and will accelerate data-driven reaction discovery. By embedding analytical functionality directly within reaction vessels, reaction telemetry establishes a general framework for information-rich observation of chemical processes across research, development, and education.</description>
     </item>
     <item>
       <title>Save scientific terminology from executive orders</title>
@@ -729,19 +729,6 @@ Abstract: Condensates help drive the budding of vesicles from the tips of cilia<
 Journal: Science; Volume: 394; Issue: 6825; Pages: 729-729</description>
     </item>
     <item>
-      <title>Prolific infectious diseases group draws scrutiny</title>
-      <link>https://doi.org/10.1126/science.aeo0642</link>
-      <guid isPermaLink="false">10.1126/science.aeo0642</guid>
-
-      <dc:creator>Jon Cohen</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jon Cohen
-
-Journal: Science; Volume: 394; Issue: 6825; Pages: 709-711
-
-Abstract: Critics question Pathogen Hunters’s massive global sampling efforts and baffling genetic data</description>
-    </item>
-    <item>
       <title>Direct monitoring of breaching in deltaic submarine landslides</title>
       <link>https://doi.org/10.1126/science.aef8444</link>
       <guid isPermaLink="false">10.1126/science.aef8444</guid>
@@ -760,6 +747,19 @@ Abstract: Critics question Pathogen Hunters’s massive global sampling efforts 
 Journal: Science; Volume: 394; Issue: 6825; Pages: 758-762
 
 Abstract: Submarine landslides threaten seabed infrastructure and trigger the transport of globally important amounts of sediment, carbon, and pollutants to deep-sea environments. However, fully submarine landslides have never been directly monitored in nature. Past hypotheses for their failure mechanism and dynamics therefore remain unvalidated for natural settings, including that prolonged upslope-migrating failures (breaching) occur in sandy seafloor environments. In this work, we present direct underwater monitoring of fully submarine landslides at Homathko Delta in western Canada that retrogress slowly upslope, indicating breaching-type failure. Their prolonged rather than instantaneous nature has important implications for the stress that seabed structures must be designed to withstand. Prolonged landslides also initiate sustained sediment flows (turbidity currents) that efficiently transport sediment, carbon, and pollutants further offshore.</description>
+    </item>
+    <item>
+      <title>Prolific infectious diseases group draws scrutiny</title>
+      <link>https://doi.org/10.1126/science.aeo0642</link>
+      <guid isPermaLink="false">10.1126/science.aeo0642</guid>
+
+      <dc:creator>Jon Cohen</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jon Cohen
+
+Journal: Science; Volume: 394; Issue: 6825; Pages: 709-711
+
+Abstract: Critics question Pathogen Hunters’s massive global sampling efforts and baffling genetic data</description>
     </item>
     <item>
       <title>Giant elastoresistance in magic-angle twisted bilayer graphene</title>
@@ -782,6 +782,26 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 768-772
 Abstract: Strongly correlated and topological phases in moiré materials are exquisitely sensitive to lattice geometry at both atomic and superlattice length scales. Twist angle, pressure, and strain directly modify the lattice and thus act as highly effective tuning parameters. Here, we examined electrical transport in twisted bilayer graphene subjected to continuous uniaxial strain. Near the magic angle (≈1.1°), devices exhibited a pronounced elastoresistance that depended on band filling and temperature, with a gauge factor more than two orders of magnitude larger than that of conventional metals. In selected doping regimes, the elastoresistance exhibited a Curie-Weiss–like temperature divergence. We discuss possible microscopic origins, including nematic fluctuations and enhanced electronic entropy from fluctuating isospin moments. Our work establishes uniaxial strain as a versatile probe of correlated physics in a moiré material.</description>
     </item>
     <item>
+      <title>The cryosphere beyond a planetary safe operating space</title>
+      <link>https://doi.org/10.1126/science.aef5636</link>
+      <guid isPermaLink="false">10.1126/science.aef5636</guid>
+
+      <dc:creator>Bo Su</dc:creator>
+      <dc:creator>Johan Rockström</dc:creator>
+      <dc:creator>Deliang Chen</dc:creator>
+      <dc:creator>Ingo Fetzer</dc:creator>
+      <dc:creator>Haipeng Feng</dc:creator>
+      <dc:creator>Gustaf Hugelius</dc:creator>
+      <dc:creator>Ricarda Winkelmann</dc:creator>
+      <dc:creator>Albert V. Norström</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Bo Su, Johan Rockström, Deliang Chen, Ingo Fetzer, Haipeng Feng, Gustaf Hugelius, Ricarda Winkelmann, Albert V. Norström, et al.
+
+Journal: Science; Article number: eaef5636
+
+Abstract: The cryosphere plays a vital role in regulating planetary dynamics and habitability, yet it remains unclear whether its essential functions remain within a safe operating space (SOS) amid Anthropocene change. Here, we propose a cryosphere SOS and systematically evaluate its contributions to Earth system resilience using the planetary boundaries framework. Multiple lines of evidence indicate an accelerating and partly irreversible loss of cryospheric integrity, driven by amplifying feedbacks. Key cryospheric control variables either have left or are committed to departing from Holocene-like conditions. We conclude that the cryosphere has breached its SOS and is on a trajectory that locks in long-term risks for human societies and ecosystems. Safeguarding planetary resilience therefore requires explicit consideration of cryosphere change and its interactions across the Earth system.</description>
+    </item>
+    <item>
       <title>A cellular atlas of the preinvasive breast cancer microenvironment</title>
       <link>https://doi.org/10.1126/science.aef4622</link>
       <guid isPermaLink="false">10.1126/science.aef4622</guid>
@@ -802,24 +822,17 @@ Journal: Science; Article number: eaef4622
 Abstract: Ductal carcinoma in situ (DCIS) is the most common preinvasive breast cancer, however our knowledge of the DCIS tumor microenvironment (TME) remains limited. We constructed a comprehensive atlas of the TME in estrogen-receptor positive DCIS using fresh samples collected from normal breast tissues, DCIS and invasive breast cancers. We analyzed 854,911 cells from 159 patients by single cell RNA sequencing and 39 samples by spatial transcriptomics, which identified 9 cell types and 60 cell states. Our data shows remodeling of fibroblasts, vascular and basal cells that encircle the DCIS regions and immunosuppressive ducts that support the growth of the preinvasive cancer cells. This study delineates early alterations in the DCIS TME, including many changes that persist during invasive progression.</description>
     </item>
     <item>
-      <title>The cryosphere beyond a planetary safe operating space</title>
-      <link>https://doi.org/10.1126/science.aef5636</link>
-      <guid isPermaLink="false">10.1126/science.aef5636</guid>
+      <title>Thermal infrared pollination by beetles</title>
+      <link>https://doi.org/10.1126/science.aen0889</link>
+      <guid isPermaLink="false">10.1126/science.aen0889</guid>
 
-      <dc:creator>Bo Su</dc:creator>
-      <dc:creator>Johan Rockström</dc:creator>
-      <dc:creator>Deliang Chen</dc:creator>
-      <dc:creator>Ingo Fetzer</dc:creator>
-      <dc:creator>Haipeng Feng</dc:creator>
-      <dc:creator>Gustaf Hugelius</dc:creator>
-      <dc:creator>Ricarda Winkelmann</dc:creator>
-      <dc:creator>Albert V. Norström</dc:creator>
+      <dc:creator>Wendy A. Valencia-Montoya</dc:creator>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Bo Su, Johan Rockström, Deliang Chen, Ingo Fetzer, Haipeng Feng, Gustaf Hugelius, Ricarda Winkelmann, Albert V. Norström, et al.
+      <description>Authors: Wendy A. Valencia-Montoya
 
-Journal: Science; Article number: eaef5636
+Journal: Science; Volume: 394; Issue: 6825; Pages: 730-731
 
-Abstract: The cryosphere plays a vital role in regulating planetary dynamics and habitability, yet it remains unclear whether its essential functions remain within a safe operating space (SOS) amid Anthropocene change. Here, we propose a cryosphere SOS and systematically evaluate its contributions to Earth system resilience using the planetary boundaries framework. Multiple lines of evidence indicate an accelerating and partly irreversible loss of cryospheric integrity, driven by amplifying feedbacks. Key cryospheric control variables either have left or are committed to departing from Holocene-like conditions. We conclude that the cryosphere has breached its SOS and is on a trajectory that locks in long-term risks for human societies and ecosystems. Safeguarding planetary resilience therefore requires explicit consideration of cryosphere change and its interactions across the Earth system.</description>
+Abstract: Heat from thermogenic plants serves as a signal to pollinators</description>
     </item>
     <item>
       <title>Leading with humility</title>
@@ -868,17 +881,22 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 702-703
 Abstract: Despite a healthy majority, Democrats face limits on what they can achieve</description>
     </item>
     <item>
-      <title>Thermal infrared pollination by beetles</title>
-      <link>https://doi.org/10.1126/science.aen0889</link>
-      <guid isPermaLink="false">10.1126/science.aen0889</guid>
+      <title>Limited genomic predictability of complex trait evolution despite genotype-phenotype stability</title>
+      <link>https://doi.org/10.1126/science.aee0342</link>
+      <guid isPermaLink="false">10.1126/science.aee0342</guid>
 
-      <dc:creator>Wendy A. Valencia-Montoya</dc:creator>
+      <dc:creator>J. A. Smiley-Rhodes</dc:creator>
+      <dc:creator>M. C. Bitter</dc:creator>
+      <dc:creator>S. Berardi</dc:creator>
+      <dc:creator>J. Beltz</dc:creator>
+      <dc:creator>D. A. Petrov</dc:creator>
+      <dc:creator>P. Schmidt</dc:creator>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Wendy A. Valencia-Montoya
+      <description>Authors: J. A. Smiley-Rhodes, M. C. Bitter, S. Berardi, J. Beltz, D. A. Petrov, P. Schmidt
 
-Journal: Science; Volume: 394; Issue: 6825; Pages: 730-731
+Journal: Science; Volume: 394; Issue: 6825; Article number: eaee0342
 
-Abstract: Heat from thermogenic plants serves as a signal to pollinators</description>
+Abstract: Whether genomic data can be used to effectively predict adaptation in natural populations is unknown. Here, we tested the efficacy of genomic prediction of complex trait evolution by monitoring genome-wide allele frequencies and pigmentation variation in genetically diverse populations of Drosophila melanogaster during evolution in both field mesocosms and a controlled, lab-based setting. At two points during trait evolution, we produced a high-powered, well-resolved genotype-phenotype map that exhibited marked stability across independent populations. Although we were able to use this map to correctly infer the direction of pigmentation evolution in both the lab and field settings, the particular loci responding to selection were largely unpredictable based on the direction of trait evolution itself. Our results hold implications for the promise, and limitations, of genomic prediction.</description>
     </item>
     <item>
       <title>Long-term local circulation of an Andes virus lineage in northern Patagonia is linked to the
@@ -903,24 +921,6 @@ Journal: Science; Article number: eaej1679
 Abstract: In 2026, a hantavirus pulmonary syndrome (HPS) outbreak caused by Andes virus (ANDV) occurred on a cruise ship. Analyses revealed an unexpected relationship to an outbreak in Argentina in 2018. Retrospective investigation clarified the 2018 outbreak could involve person-to-person transmission and a common ANDV lineage spanned HPS cases from 2018 to 2025 in a geographically defined area in northern Patagonia, without widespread community transmission of ANDV. Route reconstruction for the index cases in the cruise ship outbreak identified geographically plausible exposures to viruses of this lineage in Argentina, but their timing was inconsistent with the expected ANDV incubation period. The infection source for the cruise ship outbreak cannot be resolved with current information, highlighting the need to expand viral surveillance in the ANDV endemic region.</description>
     </item>
     <item>
-      <title>Limited genomic predictability of complex trait evolution despite genotype-phenotype stability</title>
-      <link>https://doi.org/10.1126/science.aee0342</link>
-      <guid isPermaLink="false">10.1126/science.aee0342</guid>
-
-      <dc:creator>J. A. Smiley-Rhodes</dc:creator>
-      <dc:creator>M. C. Bitter</dc:creator>
-      <dc:creator>S. Berardi</dc:creator>
-      <dc:creator>J. Beltz</dc:creator>
-      <dc:creator>D. A. Petrov</dc:creator>
-      <dc:creator>P. Schmidt</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: J. A. Smiley-Rhodes, M. C. Bitter, S. Berardi, J. Beltz, D. A. Petrov, P. Schmidt
-
-Journal: Science; Volume: 394; Issue: 6825; Article number: eaee0342
-
-Abstract: Whether genomic data can be used to effectively predict adaptation in natural populations is unknown. Here, we tested the efficacy of genomic prediction of complex trait evolution by monitoring genome-wide allele frequencies and pigmentation variation in genetically diverse populations of Drosophila melanogaster during evolution in both field mesocosms and a controlled, lab-based setting. At two points during trait evolution, we produced a high-powered, well-resolved genotype-phenotype map that exhibited marked stability across independent populations. Although we were able to use this map to correctly infer the direction of pigmentation evolution in both the lab and field settings, the particular loci responding to selection were largely unpredictable based on the direction of trait evolution itself. Our results hold implications for the promise, and limitations, of genomic prediction.</description>
-    </item>
-    <item>
       <title>Increased demographic turnover and isolation precede social fragmentation in Asian elephants</title>
       <link>https://doi.org/10.1126/science.aef6714</link>
       <guid isPermaLink="false">10.1126/science.aef6714</guid>
@@ -938,19 +938,6 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 792-798
 Abstract: Humans and many other animals live in interconnected social communities that are essential for survival and well-being. In principle, communities can persist despite changes in constituent members. However, gradually accumulating changes to membership could push systems past critical thresholds into alternate states, restructuring patterns of connectivity. Such changes can further affect systemic resilience against disturbance. We investigated social network dynamics for 443 wild female Asian elephants over 12 years by tracking community membership and structure. Following accumulated demographic turnover, networks fractured into smaller and more isolated communities. Connections changed not only owing to loss of members but also modifications in relationships among remaining individuals. This provides empirical evidence of a persistent state change in the social network of a long-lived terrestrial mammal following gradually accumulating demographic turnover.</description>
     </item>
     <item>
-      <title>Nature’s cellular nuke</title>
-      <link>https://doi.org/10.1126/science.aen0894</link>
-      <guid isPermaLink="false">10.1126/science.aen0894</guid>
-
-      <dc:creator>Chew Chai</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chew Chai
-
-Journal: Science; Volume: 394; Issue: 6825; Pages: 731-731
-
-Abstract: Discovery of an unknown immune cell type and its cytotoxic killing mode</description>
-    </item>
-    <item>
       <title>Building a cell engineering toolbox</title>
       <link>https://doi.org/10.1126/science.aen0898</link>
       <guid isPermaLink="false">10.1126/science.aen0898</guid>
@@ -962,6 +949,19 @@ Abstract: Discovery of an unknown immune cell type and its cytotoxic killing mod
 Journal: Science; Volume: 394; Issue: 6825; Pages: 731-731
 
 Abstract: Biological diversity and deep learning are harnessed for discovery</description>
+    </item>
+    <item>
+      <title>Nature’s cellular nuke</title>
+      <link>https://doi.org/10.1126/science.aen0894</link>
+      <guid isPermaLink="false">10.1126/science.aen0894</guid>
+
+      <dc:creator>Chew Chai</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chew Chai
+
+Journal: Science; Volume: 394; Issue: 6825; Pages: 731-731
+
+Abstract: Discovery of an unknown immune cell type and its cytotoxic killing mode</description>
     </item>
     <item>
       <title>Californians approve controversial $8.4 billion immunology initiative</title>
@@ -1165,6 +1165,19 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 719-720
 Abstract: New observations suggest more carbon absorption by ocean but less by land</description>
     </item>
     <item>
+      <title>Tuning the immune ecosystem to treat cancer</title>
+      <link>https://doi.org/10.1126/science.aem4781</link>
+      <guid isPermaLink="false">10.1126/science.aem4781</guid>
+
+      <dc:creator>Matthew R. Olson</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Matthew R. Olson
+
+Journal: Science; Volume: 394; Issue: 6825; Pages: 718-719
+
+Abstract: Engineering the immune cell milieu around tumors could make them more sensitive to immunotherapy</description>
+    </item>
+    <item>
       <title>Mysticism meets empiricism
                     &lt;b&gt;The Age of Alchemy: The Secret History of Chemistry from Ancient Magic to Modern Science&lt;/b&gt;
                     &lt;i&gt;Kit Chapman&lt;/i&gt;
@@ -1179,19 +1192,6 @@ Abstract: New observations suggest more carbon absorption by ocean but less by l
 Journal: Science; Volume: 394; Issue: 6825; Pages: 727-727
 
 Abstract: Alchemy was not a barrier to modern chemistry but a necessary stage of its development, maintains a historian</description>
-    </item>
-    <item>
-      <title>Tuning the immune ecosystem to treat cancer</title>
-      <link>https://doi.org/10.1126/science.aem4781</link>
-      <guid isPermaLink="false">10.1126/science.aem4781</guid>
-
-      <dc:creator>Matthew R. Olson</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Matthew R. Olson
-
-Journal: Science; Volume: 394; Issue: 6825; Pages: 718-719
-
-Abstract: Engineering the immune cell milieu around tumors could make them more sensitive to immunotherapy</description>
     </item>
     <item>
       <title>Poisoned hunting weapons, megafauna, and plant use at a 125,000-year-old Arabian paleolakeshore</title>
@@ -1332,6 +1332,21 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 731-731
 Abstract: How does one map, measure, and model the aging brain?</description>
     </item>
     <item>
+      <title>Fixing the power transmission crisis</title>
+      <link>https://doi.org/10.1126/science.aeh4460</link>
+      <guid isPermaLink="false">10.1126/science.aeh4460</guid>
+
+      <dc:creator>Madeline Yozwiak</dc:creator>
+      <dc:creator>David G. Victor</dc:creator>
+      <dc:creator>M. Granger Morgan</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Madeline Yozwiak, David G. Victor, M. Granger Morgan
+
+Journal: Science; Volume: 394; Issue: 6825; Pages: 722-725
+
+Abstract: Experimentation, learning, and existing regulatory and technology options could help align stakeholders</description>
+    </item>
+    <item>
       <title>Tales from the Viking dead
                     &lt;b&gt;The Sea-King and the Sorceress: Life and Death in the Viking Age&lt;/b&gt;
                     &lt;i&gt;Neil Price&lt;/i&gt;
@@ -1346,21 +1361,6 @@ Abstract: How does one map, measure, and model the aging brain?</description>
 Journal: Science; Volume: 394; Issue: 6825; Pages: 726-726
 
 Abstract: Burials offer unexpected insights into medieval Scandinavian society</description>
-    </item>
-    <item>
-      <title>Fixing the power transmission crisis</title>
-      <link>https://doi.org/10.1126/science.aeh4460</link>
-      <guid isPermaLink="false">10.1126/science.aeh4460</guid>
-
-      <dc:creator>Madeline Yozwiak</dc:creator>
-      <dc:creator>David G. Victor</dc:creator>
-      <dc:creator>M. Granger Morgan</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Madeline Yozwiak, David G. Victor, M. Granger Morgan
-
-Journal: Science; Volume: 394; Issue: 6825; Pages: 722-725
-
-Abstract: Experimentation, learning, and existing regulatory and technology options could help align stakeholders</description>
     </item>
     <item>
       <title>The sideshow</title>
