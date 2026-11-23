@@ -5,8 +5,26 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 14:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:09:21 +0000</lastBuildDate>
 
+    <item>
+      <title>Network-adjusted empirical bayes estimation of age-specific adult mortality from DHS sibling survival histories: evidence from Nigeria</title>
+      <link>https://doi.org/10.1186/s12963-026-00526-w</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00526-w</guid>
+
+      <dc:creator>Shorful Alam</dc:creator>
+      <dc:creator>Nazmul Haque</dc:creator>
+      <dc:creator>Abdul Mazed</dc:creator>
+      <dc:creator>Md. Sabbir Ahmed Mayen</dc:creator>
+      <dc:creator>Md. Abu Kowser</dc:creator>
+      <dc:creator>Mahadie Hassan</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Shorful Alam, Nazmul Haque, Abdul Mazed, Md. Sabbir Ahmed Mayen, Md. Abu Kowser, Mahadie Hassan
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Weak civil registration coverage in Nigeria means adult mortality relies heavily on sibling survival histories (SSHs) from Demographic and Health Surveys (DHS). SSH-based estimates suffer from differential visibility and from high sampling variability arising from sparse age-sex-specific death counts. Successive Nigerian DHS rounds have documented an apparent decline in adult mortality, but whether this reflects genuine improvement or is partly an artefact of uncorrected biases has not been examined. Methods We developed a network-adjusted empirical Bayes framework integrating individual-level visibility adjustment with heteroscedastic SURE-based shrinkage, propagating uncertainty end-to-end via bootstrap re-estimation of the shrinkage hyperparameters. The framework was applied to sibling histories from the 2024 Nigeria DHS and, using an identical pipeline, retrospectively to the 2018 NDHS to enable a temporal comparison using the same estimator for both rounds. Estimates were further evaluated through internal consistency diagnostics, sensitivity analyses, and comparisons with the conventional DHS aggregate estimator, Global Burden of Disease and UN World Population Prospects reference series. Results The network-adjusted empirical Bayes estimate was lower in 2024 than in 2018 across all fourteen age-sex cells, with declines generally larger from the mid-30s onward and bootstrap 95% CIs did not overlap in three cells. The conventional and visibility-adjusted estimator agreed on the direction of decline in thirteen of fourteen cells (mean absolute difference, 3.9 percentage points). The exception, women aged 15–19, showed an aggregate-estimator increase against a visibility-adjusted decline, coinciding with the age band showing the highest invisible-population fraction and the largest reciprocal-reporting imbalance among the seven age bands. Adjusted 2024 estimates were lower than GBD in 13 of 14 cells and lower than WPP in all cells, with WPP values 2.4–3.7 times higher than the corresponding adjusted estimates. Conclusion Combining individual visibility adjustment with empirical Bayes smoothing yielded smoothed age-sex-specific adult mortality estimates from DHS sibling survival histories without an external calibration schedule. Estimated mortality was lower in 2024 than in 2018 in all age-sex cells and lower than GBD and WPP estimates. This approach may be useful for estimating adult mortality in other low-registration settings with sibling survival data. Clinical trial number Not applicable.</description>
+    </item>
     <item>
       <title>Hidden alcohol- attributable mortality in Russia: evidence from regional panel data, 2000–2019</title>
       <link>https://doi.org/10.1186/s12963-026-00524-y</link>
@@ -1584,26 +1602,6 @@ Abstract: Abstract Objectif The life-course approach is believed to enhance our 
       <description>Authors: Xiaoxue Liu, Yongbo Wang, Fang Wang, Haoyun Zhou, Qiuxia Zhang, Runtang Meng, Yong Yu, Yongchao Liu, et al.
 
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 62</description>
-    </item>
-    <item>
-      <title>Chronic respiratory diseases risk during the COVID-19 pandemic: an integrated modelling approach based on hospital records across 30 countries</title>
-      <link>https://doi.org/10.1186/s12963-025-00412-x</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00412-x</guid>
-
-      <dc:creator>Cui Zhou</dc:creator>
-      <dc:creator>Jing Gao</dc:creator>
-      <dc:creator>Pia Lindberg</dc:creator>
-      <dc:creator>Chutian Zhang</dc:creator>
-      <dc:creator>Yuchen Wang</dc:creator>
-      <dc:creator>Jian Ma</dc:creator>
-      <dc:creator>Åsa M. Wheelock</dc:creator>
-      <dc:creator>Lei Xu</dc:creator>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Cui Zhou, Jing Gao, Pia Lindberg, Chutian Zhang, Yuchen Wang, Jian Ma, Åsa M. Wheelock, Lei Xu
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 61
-
-Abstract: Abstract Background Globally, there are significant inequalities in risk for chronic respiratory disease patients with COVID-19 (CRD-COVID), and a comprehensive understanding of its determinants and their interactions is needed. This study quantified individual, environmental, and viral risks that impact hospital admission severity and survival outcomes in CRD-COVID patients utilizing multinational hospital records. Methods We analysed data on CRD-COVID from the International Severe Acute Respiratory and emerging Infection Consortium (ISARIC) dataset, covering January 2020 to July 2022 across 30 countries. The cohort included COVID-19 patients with asthma (Asthma, n = 36,365), chronic pulmonary disease (CPD, n = 36,332), and asthma-CPD overlap (ACO, n = 16,061). We matched these patients with their prehospital environmental and viral risk factors. The primary outcome was admission severity, which we assessed using generalised linear mixed models (GLMM), and GPBoost with Shapley Additive Explanations (SHAP) algorithm. The secondary outcome was 28-day mortality, evaluated using Cox regression and K-medoids clustering. Results The rates of severe admissions and 28-day mortality were 33.7% and 16.4% for the asthma cohort, 30.1% and 31.6% for the CPD cohort, and 15.9% and 25.8% for the ACO cohort, respectively. Common key risk factors impacting admission severity in CRD-COVID patients include age, sex, comorbidities, humidity, precipitation, and O 3 concentration, while vaccination status, temperature, and SO 2 concentration were only significant in asthma patients. The interactions analysis showed low Humidity had a greater impact on patients over 60 years of age and those with comorbid hypertension. Individual, environmental, and viral factors accurately predicted admission severity, and their contribution was different for asthma (58% individual, 28% environmental, and 14% viral variants), CPD (57%, 33%, and 10%) and ACO (63%, 31%, and 6%) patients. Four clusters stratified by these risk factors within each disease group showed significant differences in 28-day mortality rates, particularly in the asthma and CPD patients. The cluster with the highest 28-day mortality rates featured low humidity (mean 55.5% for asthma, 54.4% for CPD) and older age (60.1 and 74.2 years). Conclusion The impact of prehospital individual, environmental, and viral risk on the severity of CRD-COVID patients was heterogeneous. Older people exposed to low humidity were at greatest risk.</description>
     </item>
   </channel>
 </rss>
