@@ -5,8 +5,26 @@
     <link>https://www.nature.com/nathumbehav/</link>
     <description>Latest journal articles for Nature Human Behaviour</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 18:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:46:08 +0000</lastBuildDate>
 
+    <item>
+      <title>Empirical evidence for eight ways that AI is impacting people</title>
+      <link>https://doi.org/10.1038/s41562-026-02615-0</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02615-0</guid>
+
+      <dc:creator>Christopher Summerfield</dc:creator>
+      <dc:creator>Rebecca Anselmetti</dc:creator>
+      <dc:creator>Shahar Avin</dc:creator>
+      <dc:creator>Vanessa Cheung</dc:creator>
+      <dc:creator>Madga Dubois</dc:creator>
+      <dc:creator>Tom Eccles</dc:creator>
+      <dc:creator>Anna Gausen</dc:creator>
+      <dc:creator>Kobi Hackenburg</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Christopher Summerfield, Rebecca Anselmetti, Shahar Avin, Vanessa Cheung, Madga Dubois, Tom Eccles, Anna Gausen, Kobi Hackenburg, et al.
+
+Journal: Nature Human Behaviour</description>
+    </item>
     <item>
       <title>Reply to: Do apparent rhythms in behaviour arise from aperiodic processes?</title>
       <link>https://doi.org/10.1038/s41562-026-02612-3</link>
@@ -1249,20 +1267,20 @@ Journal: Nature Human Behaviour; Volume: 10; Issue: 10; Pages: 1925-1942</descri
 Journal: Nature Human Behaviour; Volume: 10; Issue: 10; Pages: 1994-2001</description>
     </item>
     <item>
-      <title>How speech plans become spoken sequences</title>
-      <link>https://doi.org/10.1038/s41562-026-02545-x</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02545-x</guid>
-
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 11; Pages: 2062-2063</description>
-    </item>
-    <item>
       <title>Genetic similarity between partners has intensified throughout the 20th century</title>
       <link>https://doi.org/10.1038/s41562-026-02555-9</link>
       <guid isPermaLink="false">10.1038/s41562-026-02555-9</guid>
 
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 11; Pages: 2064-2065</description>
+    </item>
+    <item>
+      <title>How speech plans become spoken sequences</title>
+      <link>https://doi.org/10.1038/s41562-026-02545-x</link>
+      <guid isPermaLink="false">10.1038/s41562-026-02545-x</guid>
+
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Journal: Nature Human Behaviour; Volume: 10; Issue: 11; Pages: 2062-2063</description>
     </item>
     <item>
       <title>Neural dynamics underlying minute-timescale persistent behaviour in the human brain</title>
@@ -1419,22 +1437,6 @@ Abstract: Abstract Funding agencies play a central role in science by awarding g
       <description>Authors: Suseendrakumar Duraivel, Shervin Rahimpour, Katrina Barth, Chia-Han Chiang, Charles Wang, Stephen C. Harward, Shivanand P. Lad, Daniel P. Sexton, et al.
 
 Journal: Nature Human Behaviour; Volume: 10; Issue: 11; Pages: 2246-2261</description>
-    </item>
-    <item>
-      <title>Hierarchical resource rationality explains human reading behaviour</title>
-      <link>https://doi.org/10.1038/s41562-026-02534-0</link>
-      <guid isPermaLink="false">10.1038/s41562-026-02534-0</guid>
-
-      <dc:creator>Yunpeng Bai</dc:creator>
-      <dc:creator>Xiaofu Jin</dc:creator>
-      <dc:creator>Shengdong Zhao</dc:creator>
-      <dc:creator>Antti Oulasvirta</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Yunpeng Bai, Xiaofu Jin, Shengdong Zhao, Antti Oulasvirta
-
-Journal: Nature Human Behaviour; Volume: 10; Issue: 10; Pages: 2029-2045
-
-Abstract: Abstract Reading is a pervasive and cognitively demanding activity that underpins modern human culture. It is a prime instance of a class of tasks where eye movements are coordinated for the purpose of comprehension. Existing theories explain either eye movements or comprehension during reading, but the critical link between the two remains unclear. Here we propose resource-rational optimization as a unifying control principle governing adaptive reading behaviour. Eye movements are selected to maximize expected comprehension while minimizing cognitive and temporal costs, organized hierarchically across nested time scales: fixation decisions support word recognition; sentence-level integration guides skipping and regression; and text-level comprehension goals shape memory construction and rereading. A computational implementation successfully replicates an unprecedented range of findings in human reading, from lexical effects to comprehension outcomes. Together, these results suggest that resource rationality provides a general mechanism for coordinating perception, memory and action in knowledge-intensive human behaviours, offering a principled account of how complex cognitive skills adapt to limited resources.</description>
     </item>
   </channel>
 </rss>
