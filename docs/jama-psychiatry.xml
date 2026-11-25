@@ -5,8 +5,78 @@
     <link>https://jamanetwork.com/journals/jamapsychiatry</link>
     <description>Latest journal articles for JAMA Psychiatry</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:45:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:14:08 +0000</lastBuildDate>
 
+    <item>
+      <title>Rethinking Covariate Adjustment in Psychiatric Biomarker Research</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3932</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3932</guid>
+
+      <dc:creator>Mirim Shin</dc:creator>
+      <dc:creator>Jacob J. Crouse</dc:creator>
+      <dc:creator>Ian B. Hickie</dc:creator>
+      <dc:creator>Naomi R. Wray</dc:creator>
+      <dc:creator>Clara Albiñana</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mirim Shin, Jacob J. Crouse, Ian B. Hickie, Naomi R. Wray, Clara Albiñana
+
+Journal: JAMA Psychiatry
+
+Abstract: Importance Blood-based biomarkers hold promise for psychiatric diagnosis and prognosis, yet clinical translation is limited by poor reproducibility and inconsistent handling of technical, demographic, behavioral, and temporal covariates. Objective To determine how technical, population-structure, demographic, behavioral, and temporal covariates influence blood biomarkers and biomarker-disorder associations in psychiatric biomarker research. Design, Setting, and Participants This was a cross-sectional analysis of UK Biobank data from a prospective cohort recruited between April 2007 and October 2010. The analysis examined 29 blood biomarkers across biochemistry, blood cell counts, metabolomics, and proteomics platforms. Approximately 500 000 UK Biobank participants aged 40 to 69 years were included. Psychiatric disorders were defined using hospital inpatient ICD-9/10 codes, death registers, and self-reported diagnoses for bipolar disorder, major depressive episode, recurrent depression, and schizophrenia. Data were analyzed from July 2025 to February 2026. Exposures Technical and population-structure factors, demographic factors, temporal factors, and behavioral factors, including age, sex, body mass index, smoking, chronotype, time of day, month of assessment, and platform-specific variables. Main Outcomes and Measures Variance explained by covariates across 29 blood biomarkers; associations between covariates and psychiatric disorders; and attenuation of biomarker-disorder associations after sequential covariate adjustment. Results This analysis included UK Biobank participants aged 40 to 69 years at recruitment with available blood biomarker data: approximately 500 000 for biochemistry and blood cell counts, approximately 280 000 for metabolomics, and approximately 55 000 for proteomics. Overall, 255 058 (54%) were female and 216 516 (46%) were male, although proportions varied across biomarker groups. Covariate effects varied substantially across 29 biomarkers. Technical and population-structure factors explained approximately 1% to 6% of biomarker variance, and demographic factors explained approximately 5% to 15%, with notable age-by-sex interactions for sex hormones and lipids. Behavioral covariates, especially body mass index and smoking, were associated with inflammatory markers, with BMI alone explaining 18% of the variance in C-reactive protein and 12% in interleukin-6. Temporal factors introduced systematic confounding. Covariate adjustment attenuated or eliminated many biomarker-disorder associations, with body mass index adjustment attenuating the largest number of associations. Conclusions and Relevance Blood biomarker associations in psychiatric research were shaped by covariate structure, and large cohorts can characterize these patterns; however, clinical validation remains essential. The results of this study indicate that a design-informed framework should be considered to remove technical factors, handle population structure according to ancestral heterogeneity, adjust or stratify demographic factors, control temporal factors at the design stage, and handle behavioral factors with cause-and-effect reasoning.</description>
+    </item>
+    <item>
+      <title>Predicting Treatment Resistance in First-Episode Psychosis Using Routinely Collected Clinical Data</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3943</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3943</guid>
+
+      <dc:creator>William Pettersson-Yeo</dc:creator>
+      <dc:creator>Dominic Oliver</dc:creator>
+      <dc:creator>Robert A. McCutcheon</dc:creator>
+      <dc:creator>Panagiota Kontari</dc:creator>
+      <dc:creator>Ana Todorovic</dc:creator>
+      <dc:creator>Sophie Turner</dc:creator>
+      <dc:creator>Benjamin Fell</dc:creator>
+      <dc:creator>Philip McGuire</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: William Pettersson-Yeo, Dominic Oliver, Robert A. McCutcheon, Panagiota Kontari, Ana Todorovic, Sophie Turner, Benjamin Fell, Philip McGuire, et al.
+
+Journal: JAMA Psychiatry
+
+Abstract: Importance There is usually a delay of several years before people with psychosis are identified as showing treatment resistance (TR), as this depends on careful evaluation of 2 or more courses of antipsychotic treatment; however, earlier identification could facilitate timely access to clozapine, the only approved treatment for TR psychosis. Objective To examine whether clinical data collected when individuals first present with psychosis can be used to predict the subsequent emergence of TR. Design, Setting, and Participants This prognostic model development and validation study used electronic health record (EHR) data from 10 mental health National Health Service trusts in the Akrivia Health database. All individuals with a first episode of psychosis (FEP) diagnosed between March 1998 and December 2014 were identified, with follow-up through December 2022. EHRs from this cohort were examined for up to 8 years following FEP diagnosis. A nested cross-validation strategy using a leave-one-trust-out approach was used for within-network external validation. Data were analyzed from February 2025 through August 2026. Exposures A total of 179 predictors from EHR data collected at first presentation, including symptoms, sociodemographic variables, psychiatric comorbidity, and psychotropic medications. Main Outcomes and Measures Clozapine initiation within 8 years of diagnosis was used as a proxy for TR. Penalized logistic regression was used to model associations between baseline variables and subsequent clozapine treatment. Secondary analyses examined more inclusive criteria for TR, defined as receipt of clozapine or 3 or more nonclozapine antipsychotics. Results A total of 25 665 patients were included (mean [SD] age at FEP onset, 25.51 [5.54] years; 12 007 female [46.8%]). In the 8 years following diagnosis, 2133 patients (8.3%) had received clozapine. The model showed acceptable discrimination for clozapine initiation across trusts (mean leave-one-trust-out C statistic, 0.71; 95% CI, 0.68-0.75; positive predictive value, 0.15; 95% CI, 0.12-0.17; negative predictive value, 0.96; 95% CI, 0.95-0.97). Using more inclusive criteria, TR in FEP could still be predicted but with reduced discrimination (mean leave-one-trust-out C statistic, 0.68; 95% CI, 0.64-0.72; positive predictive value, 0.27; 95% CI, 0.24-0.31; negative predictive value, 0.89; 95% CI, 0.88-0.91). Conclusions and Relevance Findings in this prognostic study indicate it may be possible to predict whether individuals who have just developed psychosis will subsequently show TR using clinical data collected at first presentation. This could facilitate earlier access to clozapine in the subgroup of people with psychosis in whom it is indicated.</description>
+    </item>
+    <item>
+      <title>Synaptic Vesicle Glycoprotein 2A and Excitatory-Inhibitory Balance in Psychiatric Disorders</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3971</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3971</guid>
+
+      <dc:creator>M. Belen Blasco</dc:creator>
+      <dc:creator>Carlos A. Pretell Annan</dc:creator>
+      <dc:creator>Juan David Cortes-Navarrete</dc:creator>
+      <dc:creator>Alexandra Fonarev</dc:creator>
+      <dc:creator>Pablo M. Rusjan</dc:creator>
+      <dc:creator>Romina Mizrahi</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: M. Belen Blasco, Carlos A. Pretell Annan, Juan David Cortes-Navarrete, Alexandra Fonarev, Pablo M. Rusjan, Romina Mizrahi
+
+Journal: JAMA Psychiatry
+
+Abstract: Importance Synaptic vesicle glycoprotein 2A (SV2A) is widely used as a positron emission tomography (PET) proxy of synaptic density. PET studies have consistently reported SV2A deficits across schizophrenia-related disorders. Beyond its structural role, SV2A is involved in calcium-dependent neurotransmission and may contribute to the regulation of network excitatory-inhibitory balance. Objective To systematically synthesize preclinical evidence on the role of SV2A in kindling (ie, hyperexcitation) development, an experimental intervention that induces long-lasting increases in brain excitability, and to examine the associations of SV2A modulation with kindling development as a model of hyperexcitation, with implications for interpretation of SV2A PET findings in neuropsychiatric disorders. Data Sources EMBASE, MEDLINE, and PsycINFO were searched from inception to December 30, 2025. Study Selection Experimental animal studies assessing SV2A expression or pharmacological or genetic modulation in kindling models. Two independent reviewers performed study selection, data extraction, and risk of bias assessment (Systematic Review Centre for Laboratory Animal Experimentation tool). Data Extraction and Synthesis This systematic review was registered in PROSPERO and conducted according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Random-effects meta-analyses using restricted maximum likelihood estimation were conducted for seizure severity and odds of reaching kindling criteria. Heterogeneity was assessed using Q , τ 2 , and I 2 statistics, and meta-regression analyses examined potential moderators. Main Outcomes and Measures Changes in SV2A expression, seizure severity, and odds of reaching kindling criteria. Results Thirty studies were included across 3 categories: SV2A measurement (7 studies), genetic (2 studies) and pharmacological modulation (22 studies), with 1 study contributing to 2 of these categories. Kindling experiments in wild-type animals consistently reported higher hippocampal SV2A expression, primarily in GABAergic neurons. Genetic models of reduced SV2A function showed higher susceptibility to kindling. SV2A-targeting interventions were associated with significantly lower seizure severity (Hedge g = −2.16; 95% CI, −2.95 to −1.37; P &amp;amp;amp;lt; .001; I 2 = 82.3%) and lower odds of reaching kindling (odds ratio, 0.04; 95% CI, 0.02 to 0.08; P &amp;amp;amp;lt; .001; I 2 = 0.4%). Conclusions and Relevance This meta-analysis found that SV2A expression is dynamically regulated by neuronal activity and may represent a compensatory mechanism aimed at restoring synaptic homeostasis in response to repeated excitatory stimulation. These findings suggest that SV2A may index not only synaptic density but also circuit resilience, with potential relevance for neuropsychiatric disorders characterized by excitatory-inhibitory dysregulation.</description>
+    </item>
+    <item>
+      <title>Rethinking Priorities in Psychosis Interventions</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3849</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3849</guid>
+
+      <dc:creator>Ruth S. Shim</dc:creator>
+      <dc:creator>Karina Muro</dc:creator>
+      <dc:creator>Regina R. Graham</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ruth S. Shim, Karina Muro, Regina R. Graham
+
+Journal: JAMA Psychiatry
+
+Abstract: This Viewpoint advocates for prioritizing care for people with chronic psychosis to better support the diverse needs of all people with psychotic conditions.</description>
+    </item>
     <item>
       <title>Intolerance of Uncertainty Among US and Canadian Young Adults Attending College 1992-2023</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.3843</link>
@@ -60,6 +130,20 @@ Journal: JAMA Psychiatry
 Abstract: This Viewpoint outlines the gap between discovery and clinical integration in biomarker research and recommends collaborative steps to translate biomarker research into routine care in psychiatry.</description>
     </item>
     <item>
+      <title>Rethinking University Mental Health for the AI Era</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.3764</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3764</guid>
+
+      <dc:creator>Ronald C. Kessler</dc:creator>
+      <dc:creator>Santa J. Ono</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Ronald C. Kessler, Santa J. Ono
+
+Journal: JAMA Psychiatry
+
+Abstract: Importance Universities have become frontline mental health care settings for adolescents and young adults, a group with rapidly rising rates of common psychiatric disorders. Conventional campus counseling services cannot meet this demand. Students are increasingly turning to unregulated generative artificial intelligence (AI) tools. There is an urgent need for an evidence-informed architecture that integrates digital tools and AI into university mental health systems safely, equitably, and at scale. Objective To synthesize epidemiologic and clinical trial data on student mental health and digital interventions and integrate these findings with experience in institutional governance to propose an integrated, data-driven, stepped-care model for student mental health, implemented and governed at the university level, that begins with universal prevention, tracks need, and uses precision treatment selection to monitor and match students in need with the least-intensive effective level of care. Evidence Review We draw on findings from the World Mental Health International College Student (WMH-ICS) initiative, national surveys of student mental health and service use, randomized clinical trials of student internet-delivered digital interventions, implementation studies of digital navigators and task sharing, and emerging evaluations of AI-supported mental health systems. Findings WMH-ICS studies find that 37% to 58% of first-year students worldwide meet 12-month criteria for a DSM-5 disorder, with low treatment rates and substantial impairment in academic performance. This unmet need exceeds the capacity of traditional short-term, face-to-face counseling services, even with expanded staffing and telehealth contracts. Hybrid stepped-care models combining universal prevention with light-touch human support (eg, digital navigators) and low-intensity digital interventions offer a more scalable approach that can expand reach, optimize use of clinicians’ limited time, and improve outcomes. Building on these strands, we outline a 2-step system anchored in prematriculation life skills training and a guided first-year cohort model, embedded within a broader digital ecosystem that includes measurement, precision treatment algorithms, and explicit AI governance. Conclusions and Relevance Reframing student mental health as core to the mission of universities justifies investment in digitally enabled care. With appropriate guardrails, AI can be integrated as a regulated component of this ecosystem, extending the reach of effective interventions while maintaining safety, equity, and institutional accountability.</description>
+    </item>
+    <item>
       <title>AI and the Irreplaceable in Clinical Psychiatry—In Defense of Essential Standards of Practice</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.3454</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3454</guid>
@@ -73,20 +157,6 @@ Abstract: This Viewpoint outlines the gap between discovery and clinical integra
 Journal: JAMA Psychiatry
 
 Abstract: This Viewpoint describes the importance of continuing clinician care, especially for patients with severe mental illness, as AI is integrated into psychiatry.</description>
-    </item>
-    <item>
-      <title>Rethinking University Mental Health for the AI Era</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.3764</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.3764</guid>
-
-      <dc:creator>Ronald C. Kessler</dc:creator>
-      <dc:creator>Santa J. Ono</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Ronald C. Kessler, Santa J. Ono
-
-Journal: JAMA Psychiatry
-
-Abstract: Importance Universities have become frontline mental health care settings for adolescents and young adults, a group with rapidly rising rates of common psychiatric disorders. Conventional campus counseling services cannot meet this demand. Students are increasingly turning to unregulated generative artificial intelligence (AI) tools. There is an urgent need for an evidence-informed architecture that integrates digital tools and AI into university mental health systems safely, equitably, and at scale. Objective To synthesize epidemiologic and clinical trial data on student mental health and digital interventions and integrate these findings with experience in institutional governance to propose an integrated, data-driven, stepped-care model for student mental health, implemented and governed at the university level, that begins with universal prevention, tracks need, and uses precision treatment selection to monitor and match students in need with the least-intensive effective level of care. Evidence Review We draw on findings from the World Mental Health International College Student (WMH-ICS) initiative, national surveys of student mental health and service use, randomized clinical trials of student internet-delivered digital interventions, implementation studies of digital navigators and task sharing, and emerging evaluations of AI-supported mental health systems. Findings WMH-ICS studies find that 37% to 58% of first-year students worldwide meet 12-month criteria for a DSM-5 disorder, with low treatment rates and substantial impairment in academic performance. This unmet need exceeds the capacity of traditional short-term, face-to-face counseling services, even with expanded staffing and telehealth contracts. Hybrid stepped-care models combining universal prevention with light-touch human support (eg, digital navigators) and low-intensity digital interventions offer a more scalable approach that can expand reach, optimize use of clinicians’ limited time, and improve outcomes. Building on these strands, we outline a 2-step system anchored in prematriculation life skills training and a guided first-year cohort model, embedded within a broader digital ecosystem that includes measurement, precision treatment algorithms, and explicit AI governance. Conclusions and Relevance Reframing student mental health as core to the mission of universities justifies investment in digitally enabled care. With appropriate guardrails, AI can be integrated as a regulated component of this ecosystem, extending the reach of effective interventions while maintaining safety, equity, and institutional accountability.</description>
     </item>
     <item>
       <title>Youth-Caregiver Discordance in Psychiatric Diagnosis and Clinical Problems in the ABCD Study</title>
@@ -470,6 +540,22 @@ Journal: JAMA Psychiatry; Volume: 83; Issue: 11; Pages: 1168
 Abstract: Importance Psychiatric disorders are a major source of disability and premature mortality worldwide. Advances in genomics have clarified parts of their genetic architecture, prompting questions about whether genomic information can inform preventive strategies for psychiatric disorders in clinical practice. This Special Communication describes potential benefits and harms of using genomic information, particularly polygenic scores (PGSs) and rare variants, to guide prevention in psychiatry. Observations Broad application of genomic testing in universal or selective primary prevention is not currently supported by evidence of net clinical benefit, given modest absolute risk differences, limited individual-level predictive performance, and the potential for psychological harm. The possible value of genomic testing increases for indicated primary prevention, as prior probability rises and diagnostic uncertainty becomes clinically relevant. The most compelling opportunity lies in early care after individuals enter the psychiatric treatment system but before diagnostic trajectories fully crystallize. In this zone of diagnostic uncertainty, testing for rare, high-impact variants can shorten diagnostic delays, inform prognosis, and guide monitoring and treatment, provided that results are communicated appropriately. PGSs may contribute to risk stratification when applied in high-risk clinical populations and integrated with nongenetic factors. In secondary and tertiary prevention, pharmacogenomics provides actionable benefits for medication choice and safety, and rare variant testing has clear value in selected instances. Beyond psychiatric outcomes, genomic testing could potentially help address the profound mortality gap in severe mental illness by identifying elevated risk for somatic comorbidities, thus supporting more proactive, integrated care. Conclusions and Relevance Currently, genomic testing in psychiatry should not be used for population-wide screening but may have value as a targeted clinical resource whose utility depends on timing, context, and purpose. When applied judiciously and embedded within comprehensive, ethically grounded care pathways, genomic testing holds promise as one component of a more precise, preventive, and patient-centered psychiatry.</description>
     </item>
     <item>
+      <title>Optimizing Study Design for Clinically Useful Peripheral Molecular Biomarker Discovery in Psychiatry</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.2299</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2299</guid>
+
+      <dc:creator>Chloe X. Yap</dc:creator>
+      <dc:creator>Anjali K. Henders</dc:creator>
+      <dc:creator>Naomi R. Wray</dc:creator>
+      <dc:creator>Rachel Upthegrove</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chloe X. Yap, Anjali K. Henders, Naomi R. Wray, Rachel Upthegrove
+
+Journal: JAMA Psychiatry; Volume: 83; Issue: 11; Pages: 1176
+
+Abstract: Importance Psychiatric diagnosis, prognosis, and management currently rely on subjective assessments. There is hope that peripheral (eg, blood) biomarkers or combinations thereof could transform clinical care by bringing objectivity and patient stratification while being accessible and scalable. The time is ripe to find molecular biomarkers: omics technologies can now profile hundreds to millions of molecules across thousands of individuals, while funders recognize the clinical need and have responded with ambition. However, this enthusiasm will likely be finite, and there is no guarantee that a biomarker will be found. Observations It is essential to design and perform studies that are most likely to deliver robust peripheral biomarkers with a clear path to translation. This narrative review provides recommendations to optimize peripheral psychiatric biomarker study design. The review first introduces conceptual grounding illustrating how biomarker study design must triangulate clinical utility, technological fit, and biological plausibility. Biomarker studies should optimize for signal-to-noise ratio via careful phenotype selection and minimization of biological and technical noise. However, feasibility issues—in collecting sufficient data on enough representative participants for an adequately powered and clinically translatable analysis—constrain study design. Conclusions and Relevance Study design is the single most influential and controllable factor for future psychiatric biomarker discovery. This is because many years elapse between study design and data analysis (particularly for biobanked samples held for future use) and because no technological or analytical advances can answer questions that the dataset was not designed for, or overcome unmeasured confounding. Moreover, the direction of biomarker research is constrained by what is possible to design. Many clinical questions and contexts need biomarkers, but realistically, some are better primed for biomarker discovery than others. In this generation of peripheral psychiatric biomarker studies, designs most likely to demonstrate proof-of-principle should be prioritized to ensure the long-term sustainability of the field.</description>
+    </item>
+    <item>
       <title>Changes in Characteristics Associated With ADHD and ASD Diagnoses Over Time</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.2722</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2722</guid>
@@ -505,22 +591,6 @@ Abstract: Importance Diagnoses of attention-deficit/hyperactivity disorder (ADHD
 Journal: JAMA Psychiatry; Volume: 83; Issue: 11; Pages: 1193
 
 Abstract: This cross-sectional study evaluates a multilayer perceptron model for estimating delay discounting among college-aged adults.</description>
-    </item>
-    <item>
-      <title>Optimizing Study Design for Clinically Useful Peripheral Molecular Biomarker Discovery in Psychiatry</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.2299</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2299</guid>
-
-      <dc:creator>Chloe X. Yap</dc:creator>
-      <dc:creator>Anjali K. Henders</dc:creator>
-      <dc:creator>Naomi R. Wray</dc:creator>
-      <dc:creator>Rachel Upthegrove</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chloe X. Yap, Anjali K. Henders, Naomi R. Wray, Rachel Upthegrove
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 11; Pages: 1176
-
-Abstract: Importance Psychiatric diagnosis, prognosis, and management currently rely on subjective assessments. There is hope that peripheral (eg, blood) biomarkers or combinations thereof could transform clinical care by bringing objectivity and patient stratification while being accessible and scalable. The time is ripe to find molecular biomarkers: omics technologies can now profile hundreds to millions of molecules across thousands of individuals, while funders recognize the clinical need and have responded with ambition. However, this enthusiasm will likely be finite, and there is no guarantee that a biomarker will be found. Observations It is essential to design and perform studies that are most likely to deliver robust peripheral biomarkers with a clear path to translation. This narrative review provides recommendations to optimize peripheral psychiatric biomarker study design. The review first introduces conceptual grounding illustrating how biomarker study design must triangulate clinical utility, technological fit, and biological plausibility. Biomarker studies should optimize for signal-to-noise ratio via careful phenotype selection and minimization of biological and technical noise. However, feasibility issues—in collecting sufficient data on enough representative participants for an adequately powered and clinically translatable analysis—constrain study design. Conclusions and Relevance Study design is the single most influential and controllable factor for future psychiatric biomarker discovery. This is because many years elapse between study design and data analysis (particularly for biobanked samples held for future use) and because no technological or analytical advances can answer questions that the dataset was not designed for, or overcome unmeasured confounding. Moreover, the direction of biomarker research is constrained by what is possible to design. Many clinical questions and contexts need biomarkers, but realistically, some are better primed for biomarker discovery than others. In this generation of peripheral psychiatric biomarker studies, designs most likely to demonstrate proof-of-principle should be prioritized to ensure the long-term sustainability of the field.</description>
     </item>
     <item>
       <title>Error in Figure 2</title>
@@ -883,22 +953,6 @@ Journal: JAMA Psychiatry
 Abstract: Importance Attention-deficit/hyperactivity disorder (ADHD) affects tens to hundreds of millions of adults worldwide, and preliminary evidence suggests it may be associated with increased risk of mild cognitive impairment (MCI) and dementia. However, concerns regarding diagnostic ascertainment and residual confounding remain. Objective To investigate the association of ADHD with incident cognitive impairment, defined as MCI or dementia, using electronic health record (EHR) diagnoses and genetic liability measured using genome-wide ADHD polygenic risk score (ADHD PRS) in the same individuals. Design, Setting, and Participants This cohort study used data from the US All of Us Research Program (enrollment May 6, 2018, to October 1, 2023; EHR data from January 4, 1985, to October 1, 2023; mean [SD] follow-up 10.26 [6.75] years). A total of 187 341 participants aged 50 years and older with available EHR and genomic data were included. Data were analyzed from October 2025 to July 2026. Exposures ADHD diagnosis and ADHD PRS. Main Outcomes and Measures Incident MCI or dementia. Results Among 187 341 participants (mean [SD] age, 56.41 [7.88] years; 107 266 [57%] female), 3026 (1.6%) had ADHD. Among participants with ADHD, 203 (6.7%) developed cognitive impairment, compared with 6259 (3.4%) among those without ADHD. In adjusted Cox models, ADHD was associated with a more than 4-fold higher hazard of cognitive impairment (hazard ratio [HR], 4.60; 95% CI, 3.99-5.29; P &amp;amp;amp;lt; .001). Adjustments for comorbidities, educational attainment, and health care utilization attenuated but did not eliminate the association. Similarly, ADHD PRS was associated with incident cognitive impairment (highest vs lowest quintile: HR, 1.35; 95% CI, 1.25-1.46; P &amp;amp;amp;lt; .001). Among participants who developed cognitive impairment, comorbid ADHD diagnosis was associated with a nearly 2-fold higher odds of suboptimal mental health (odds ratio [OR], 1.69; 95% CI, 1.18–2.39; P = .01), quality of life (OR, 1.66; 95% CI, 1.14-2.39; P = .02), social satisfaction (OR, 2.39; 95% CI, 1.69–3.37; P &amp;amp;amp;lt; .001), and 20% higher health care utilization (incidence rate ratio, 1.20; 95% CI, 1.09–1.34; P = .003), suggesting greater care burden beyond the elevated incidence risk. Conclusions and Relevance In this cohort study, convergent clinical and genetic evidence revealed ADHD was associated with a markedly increased risk of late-life cognitive impairment. Among those who develop cognitive impairment, an ADHD diagnosis was associated with worse health outcomes and greater health care utilization, supporting the need for targeted monitoring and integrated care in this population.</description>
     </item>
     <item>
-      <title>Depression and SSRI Treatment During Pregnancy—Prioritizing Maternal Mental Health</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.2405</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2405</guid>
-
-      <dc:creator>Katherine L. Wisner</dc:creator>
-      <dc:creator>Tim F. Oberlander</dc:creator>
-      <dc:creator>Lauren M. Osborne</dc:creator>
-      <dc:creator>Krista F. Huybrechts</dc:creator>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Katherine L. Wisner, Tim F. Oberlander, Lauren M. Osborne, Krista F. Huybrechts
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 10; Pages: 1062
-
-Abstract: Importance In the US, 5% to 6% of pregnant patients are treated with selective serotonin reuptake inhibitors (SSRI), primarily for major depressive disorder (MDD), which has a prevalence of about 12%. Psychiatric conditions are a leading cause of maternal morbidity and mortality. MDD is a common disorder that must be treated during pregnancy to improve outcomes for the mother, infant, family, and community. Observations MDD is a complex, multifactorial brain disease arising from genetic, environmental, and epigenetic factors. Factors unique to the perinatal period are associated with additional pathophysiologic changes specific to MDD. Maternal stress and psychiatric illnesses adversely affect fetal and infant outcomes. SSRI are an essential component of perinatal mental health care. Studies that define the benefits of SSRI treatment in pregnancy are fewer than those defining risks; however, several describe adverse effects with drug discontinuation in women with moderate to severe MDD. Evaluating the safety of SSRI treatment during pregnancy has been challenging due to the potential for confounding in observational studies by the underlying indication and associated factors. Once the impact of the drug is disentangled from that of MDD and its sequelae, accumulated evidence suggests that SSRI carry little or no risk for serious adverse outcomes. The thrust of the field has shifted to prioritize treatment of MDD to optimize maternal health. Conclusions and Relevance Meaningful advances in the treatment of perinatal MDD require coordinated attention to multiple aspects of clinical care delivery and research, informed by a perspective accounting for the health needs of 2 generations. Expanding access to care—particularly in maternity, child health, and psychiatric care deserts—is a public health imperative. A structured decision-making process facilitates the provision of balanced information on the potential maternal and fetal risks of untreated or undertreated illness, the benefits of treatment, and the risks associated with SSRI exposure.</description>
-    </item>
-    <item>
       <title>Trends in Urine Cotinine Concentrations Among Adolescents Who Vape Nicotine</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.2215</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2215</guid>
@@ -917,6 +971,22 @@ Abstract: Importance In the US, 5% to 6% of pregnant patients are treated with s
 Journal: JAMA Psychiatry; Volume: 83; Issue: 10; Pages: 1083
 
 Abstract: This cohort study explores trends in urine cotinine concentrations between 2023 and 2025 among adolescents who vaped nicotine and were receiving substance use disorder treatment.</description>
+    </item>
+    <item>
+      <title>Depression and SSRI Treatment During Pregnancy—Prioritizing Maternal Mental Health</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.2405</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.2405</guid>
+
+      <dc:creator>Katherine L. Wisner</dc:creator>
+      <dc:creator>Tim F. Oberlander</dc:creator>
+      <dc:creator>Lauren M. Osborne</dc:creator>
+      <dc:creator>Krista F. Huybrechts</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Katherine L. Wisner, Tim F. Oberlander, Lauren M. Osborne, Krista F. Huybrechts
+
+Journal: JAMA Psychiatry; Volume: 83; Issue: 10; Pages: 1062
+
+Abstract: Importance In the US, 5% to 6% of pregnant patients are treated with selective serotonin reuptake inhibitors (SSRI), primarily for major depressive disorder (MDD), which has a prevalence of about 12%. Psychiatric conditions are a leading cause of maternal morbidity and mortality. MDD is a common disorder that must be treated during pregnancy to improve outcomes for the mother, infant, family, and community. Observations MDD is a complex, multifactorial brain disease arising from genetic, environmental, and epigenetic factors. Factors unique to the perinatal period are associated with additional pathophysiologic changes specific to MDD. Maternal stress and psychiatric illnesses adversely affect fetal and infant outcomes. SSRI are an essential component of perinatal mental health care. Studies that define the benefits of SSRI treatment in pregnancy are fewer than those defining risks; however, several describe adverse effects with drug discontinuation in women with moderate to severe MDD. Evaluating the safety of SSRI treatment during pregnancy has been challenging due to the potential for confounding in observational studies by the underlying indication and associated factors. Once the impact of the drug is disentangled from that of MDD and its sequelae, accumulated evidence suggests that SSRI carry little or no risk for serious adverse outcomes. The thrust of the field has shifted to prioritize treatment of MDD to optimize maternal health. Conclusions and Relevance Meaningful advances in the treatment of perinatal MDD require coordinated attention to multiple aspects of clinical care delivery and research, informed by a perspective accounting for the health needs of 2 generations. Expanding access to care—particularly in maternity, child health, and psychiatric care deserts—is a public health imperative. A structured decision-making process facilitates the provision of balanced information on the potential maternal and fetal risks of untreated or undertreated illness, the benefits of treatment, and the risks associated with SSRI exposure.</description>
     </item>
     <item>
       <title>JAMA Psychiatry</title>
@@ -1442,20 +1512,6 @@ Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 902
 Abstract: Importance Anorexia nervosa (AN) is a deadly psychiatric disorder with relapse rates approaching 50% after weight restoration. Disrupted gastrointestinal interoception may underlie persistent symptoms and relapse vulnerability. Objective To examine behavioral, computational, neural, and physiological markers of gastrointestinal interoception in weight-restored individuals with AN and test their association with relapse. Design, Setting, and Participants This crossover trial was a single-blind, within-participant, randomized (block-order) trial conducted at the Laureate Institute for Brain Research between August 2021 and February 2025. Participants were females with weight-restored restrictive AN and age- and sex-matched healthy comparators (HCs). All participants ingested a vibrating capsule that delivered counterbalanced blocks of normal- and enhanced-intensity gut stimulation. Behavioral detection performance, electroencephalography, peripheral physiology, and computational modeling were used to assess interoception. Main Outcomes and Measures Experimental-session measures included interoceptive accuracy, prior beliefs, interoceptive precision, learning rates, gastric-evoked potentials (GEPs), and hunger. Main clinical outcomes at 6 months included relapse status and symptom severity. Results The cohort included 62 female participants with weight-restored restrictive AN (mean [SD] age, 18.9 [4.5] years) and 57 age- and sex-matched healthy comparators (HCs; mean [SD] age, 20.7 [5.3] years). Six-month follow-up data were collected for 54 participants with AN. Compared with HCs, participants with AN showed lower perceptual accuracy (Cohen d = −0.98; 95% CI, −1.51 to –0.44; P = .001) and higher miss rates (Cohen d = 1.02; 95% CI, 0.55 to 1.48; P &amp;amp;amp;lt; .001). Computational modeling revealed in the AN group stronger prior expectations that capsule vibrations would not be present (Cohen d = −0.31; 95% CI, −0.67 to 0.05; P = .05), greater shifts in interoceptive precision between blocks (Cohen d = 0.38; 95% CI, 0.02 to 0.75; P = .01), and learning asymmetries (vibration: Cohen d = −0.40; 95% CI, −0.77 to −0.04; P = .007; no-vibration: Cohen d = 0.35; 95% CI, −0.02 to 0.71; P = .01). GEP amplitudes did not differ by group but were correlated with accuracy and learning in AN. Capsule stimulation induced greater hunger increases in AN (interaction: η 2 p = 0.04, P = .04; AN: Cohen d = 0.94; 95% CI, 0.57 to 1.30; HCs: Cohen d = 0.40; 95% CI, 0.03 to 0.77). At follow-up, relapse was predicted by initial priors (odds ratio [OR], 3.82; 95% CI, 1.02 to 15.91; P = .05), response bias (OR, 5.37; 95% CI, 1.15 to 32.04; P = .04), and stomach unpleasantness (OR, 5.73; 95% CI, 1.38 to 33.5; P = .03), while eating disorder symptom severity was predicted by miss rate (β = 1.05; R 2 = 0.08; P = .05), difference in interoceptive precision (β = 5.84; R 2 = 0.16; P = .004), and initial priors (β = −2.99; R 2 = 0.09; P = .05). Conclusions and Relevance In this study of weight-restored females with AN, gastrointestinal interoception was disrupted across multiple domains, including reduced accuracy detecting gut signals, maladaptive priors, rigid learning, and abnormal hunger rating. Several interoceptive markers predicted relapse and symptom severity at follow-up. These findings support the use of ingestible mechanosensory probes and computational modeling as scalable tools to monitor treatment response and guide relapse prevention in eating disorders. Trial Registration ClinicalTrials.gov Identifier: NCT05111977</description>
     </item>
     <item>
-      <title>War and Suicide in the US Military</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1762</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1762</guid>
-
-      <dc:creator>Mark A. Reger</dc:creator>
-      <dc:creator>Tim Hoyt</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Mark A. Reger, Tim Hoyt
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 892
-
-Abstract: This Viewpoint argues that, as the US considers military and veteran suicide risk during a new conflict with Iran, policymakers and clinicians should avoid oversimplified assumptions about war, combat exposure, and suicide and instead apply nuanced lessons from prior war eras and new research.</description>
-    </item>
-    <item>
       <title>The 25-Year Evolution of Lithium as a Disease-Modifying Agent in Dementia</title>
       <link>https://doi.org/10.1001/jamapsychiatry.2026.1296</link>
       <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1296</guid>
@@ -1470,6 +1526,20 @@ Abstract: This Viewpoint argues that, as the US considers military and veteran s
 Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 976
 
 Abstract: Importance Lithium, a long-established cornerstone therapy for bipolar disorder, is a biologically plausible disease-modifying agent for neurodegenerative disorders, including mild cognitive impairment (MCI) and Alzheimer disease (AD). Observations Rather than targeting a single pathology like amyloid or tau, lithium acts across multiple cellular resilience pathways. Chronic lithium exposure induces the anti-apoptotic protein B-cell lymphoma 2 (Bcl-2), enhances brain-derived neurotrophic factor (BDNF) signaling, inhibits glycogen synthase kinase-3β (GSK-3β), stabilizes mitochondrial function, and reduces oxidative stress. These convergent mechanisms promote neuronal survival and synaptic integrity. In humans, proton magnetic resonance spectroscopy studies found that lithium increased N -acetylaspartate levels, consistent with improved neuronal viability, and structural magnetic resonance imaging (MRI) studies found that lithium preserved gray matter and/or reversed illness-related atrophy in hippocampal and corticolimbic regions. In addition, extensive evidence demonstrates that low-dose lithium (approximately 0.3mM)—significantly lower than traditional psychiatric doses (0.6-1.0mM)—exerts robust neurotrophic and neuroprotective effects. Preclinical models have found that these concentrations stimulate hippocampal neurogenesis, promote structural plasticity, and protect against proteotoxic injury. Furthermore, epidemiological studies have associated cumulative lithium exposure with reduced dementia risk, and early randomized clinical trials in MCI suggest cognitive stabilization and favorable tau biomarker changes at low, well-tolerated doses. The recent repletion hypothesis suggests that lithium may also function as a physiological trace element, but these findings await independent replication. Conclusions and Relevance These convergent data support a prospective clinical trial of low-dose lithium orotate to slow disease progression in MCI. Such an approach would prioritize established neuroprotective mechanisms while potentially mitigating the kidney and thyroid risks associated with higher-dose carbonate formulations. If low-dose lithium can indeed meaningfully alter disease trajectory, it would represent a much-needed, accessible, and inexpensive treatment that may be especially relevant in low- and middle-income countries.</description>
+    </item>
+    <item>
+      <title>War and Suicide in the US Military</title>
+      <link>https://doi.org/10.1001/jamapsychiatry.2026.1762</link>
+      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1762</guid>
+
+      <dc:creator>Mark A. Reger</dc:creator>
+      <dc:creator>Tim Hoyt</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Mark A. Reger, Tim Hoyt
+
+Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 892
+
+Abstract: This Viewpoint argues that, as the US considers military and veteran suicide risk during a new conflict with Iran, policymakers and clinicians should avoid oversimplified assumptions about war, combat exposure, and suicide and instead apply nuanced lessons from prior war eras and new research.</description>
     </item>
     <item>
       <title>Changes in Genetic Contributions to ASD and ADHD by Year of Diagnosis</title>
@@ -1523,66 +1593,6 @@ Abstract: Importance Infections are associated with postacute psychiatric and ne
       <description>Authors: Sandeep M. Nayak, Brandon Weiss, David B. Yaden
 
 Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 989</description>
-    </item>
-    <item>
-      <title>Pharmacological Interventions for Weight Reduction in Patients With Schizophrenia Treated With Antipsychotics</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1814</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1814</guid>
-
-      <dc:creator>Nicolette Stogios</dc:creator>
-      <dc:creator>Sri Mahavir Agarwal</dc:creator>
-      <dc:creator>Kateryna Maksyutynska</dc:creator>
-      <dc:creator>Halima Faisal</dc:creator>
-      <dc:creator>Lora Lee Pless</dc:creator>
-      <dc:creator>Toby Pillinger</dc:creator>
-      <dc:creator>Bailey Humber</dc:creator>
-      <dc:creator>Valerie H. Taylor</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Nicolette Stogios, Sri Mahavir Agarwal, Kateryna Maksyutynska, Halima Faisal, Lora Lee Pless, Toby Pillinger, Bailey Humber, Valerie H. Taylor, et al.
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 912
-
-Abstract: Importance Significant weight gain is a concerning adverse effect of antipsychotic medications experienced by patients with schizophrenia spectrum disorders (SSDs). Its high prevalence and significant contribution to cardiometabolic morbidity in this population warrant better consensus on the management of antipsychotic-induced weight gain and related comorbidity. Objectives To evaluate the association between pharmacological interventions and changes in body weight among antipsychotic-treated patients with SSDs. Data Sources Ovid MEDLINE, Embase, PsycINFO, the Cochrane Central Register of Controlled Trials (CENTRAL), CINAHL, ClinicalTrials.gov, and the International Clinical Trials Registry Platform (ICTRP) Search Portal were searched up to December 5, 2025. Study Selection Randomized clinical trials examining any pharmacological intervention for weight reduction in antipsychotic-treated patients with SSDs were included. No restrictions to study duration were applied. Data Extraction and Synthesis A systematic review and frequentist random-effects network meta-analysis was conducted. Certainty in the evidence was assessed using the Confidence in Network Meta-Analysis (CINeMA) tool. The first round of data analysis took place between May 2025 to November 2025 and was updated in December 2025. Main Outcomes and Measures The primary outcome was change in body weight following treatment with pharmacological agent vs placebo or standard care. Secondary outcomes included other anthropometric and metabolic parameters. Results A total of 95 studies examining 39 individual pharmacological interventions were included in this review (pooled N = 5898). The network meta-analysis found that semaglutide (mean difference [MD], −10.98 kg; 95% CI, −13.33 to −8.62; k = 3; moderate certainty), liraglutide (MD, −5.43 kg; 95% CI, −8.54 to −2.33; k = 2; moderate certainty), topiramate (MD, −3.95 kg; 95% CI, −5.89 to −2.02; k = 5; moderate certainty), metformin (MD, −3.86 kg; 95% CI, −5.02 to −2.70; k = 16; moderate certainty), and exenatide (MD, −2.97 kg; 95% CI, −5.83 to −0.11; k = 3; moderate certainty) were associated with the most significant reductions in body weight compared to placebo. Other interventions including ramelteon, nizatidine, and aripiprazole were also found to be associated with weight-reducing effects but with very low certainty of evidence. Clinically meaningful weight change of 5% or greater was observed with semaglutide and metformin. Beneficial effects on other metabolic outcomes were also noted with several of the medications, and there were no major concerns with gastrointestinal adverse effects or leaving the study early (ie, dropouts) between interventions. Conclusions and Relevance This systematic review and network meta-analysis found substantial variability in weight-related outcomes across pharmacological interventions for antipsychotic-treated individuals with SSDs. Semaglutide, liraglutide, topiramate, metformin, and exenatide were associated with the greatest reductions in body weight and were supported by the highest-certainty evidence, providing guidance for clinicians managing antipsychotic-associated weight gain.</description>
-    </item>
-    <item>
-      <title>Do Likes Reinforce Depression?</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1373</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1373</guid>
-
-      <dc:creator>Quentin J. M. Huys</dc:creator>
-      <dc:creator>Amy Orben</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Quentin J. M. Huys, Amy Orben
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 898</description>
-    </item>
-    <item>
-      <title>From Schedule I to the Clinic—Insights Into Psychedelic Drug Development From GHB</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1901</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1901</guid>
-
-      <dc:creator>Brian S. Barnett</dc:creator>
-      <dc:creator>Franklin King</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Brian S. Barnett, Franklin King
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 894
-
-Abstract: This Viewpoint reviews the case of sodium oxybate, a product of gamma-hydroxybutyrate (GHB), to illustrate how psychedelics and other Schedule I substances can proceed through a similar regulatory pathway.</description>
-    </item>
-    <item>
-      <title>The Clinical Threshold for Treatment in Psychiatry</title>
-      <link>https://doi.org/10.1001/jamapsychiatry.2026.1759</link>
-      <guid isPermaLink="false">10.1001/jamapsychiatry.2026.1759</guid>
-
-      <dc:creator>Giovanni A. Fava</dc:creator>
-      <dc:creator>Jenny Guidi</dc:creator>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Giovanni A. Fava, Jenny Guidi
-
-Journal: JAMA Psychiatry; Volume: 83; Issue: 9; Pages: 891
-
-Abstract: This Viewpoint highlights the determinants of treatment thresholds that should be considered for psychiatric care and explores the implications of recent developments in clinimetrics in this field.</description>
     </item>
   </channel>
 </rss>

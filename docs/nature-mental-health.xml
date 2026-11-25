@@ -5,8 +5,28 @@
     <link>https://www.nature.com/natmentalhealth/</link>
     <description>Latest journal articles for Nature Mental Health</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:46:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:14:21 +0000</lastBuildDate>
 
+    <item>
+      <title>CSF biomarker profiling reveals blood–cerebrospinal fluid barrier dysfunction in treatment-resistant schizophrenia in a naturalistic cohort</title>
+      <link>https://doi.org/10.1038/s44220-026-00760-z</link>
+      <guid isPermaLink="false">10.1038/s44220-026-00760-z</guid>
+
+      <dc:creator>Michael G. Gottschalk</dc:creator>
+      <dc:creator>Lars U. G. Reitz</dc:creator>
+      <dc:creator>David Popovic</dc:creator>
+      <dc:creator>Laura E. Fischer</dc:creator>
+      <dc:creator>Bertram Müller-Myhsok</dc:creator>
+      <dc:creator>Sarah D. Hagerer</dc:creator>
+      <dc:creator>Emanuel Boudriot</dc:creator>
+      <dc:creator>Vladislav Yakimov</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Michael G. Gottschalk, Lars U. G. Reitz, David Popovic, Laura E. Fischer, Bertram Müller-Myhsok, Sarah D. Hagerer, Emanuel Boudriot, Vladislav Yakimov, et al.
+
+Journal: Nature Mental Health
+
+Abstract: Abstract Treatment-resistant schizophrenia (TRS) affects ~25% of patients with schizophrenia, yet biomarkers for early identification are lacking. Here we retrospectively analyzed consecutively collected cerebrospinal fluid (CSF) from 260 inpatients who underwent lumbar puncture. TRS was defined by Treatment Response and Resistance in Psychosis (TRRIP) criteria (nonresponse to ≥2 antipsychotics at ≥600 mg chlorpromazine equivalents for ≥6 weeks). CSF measures included CSF/serum albumin and immunoglobulin (IgG/IgA/IgM) quotients, oligoclonal bands, pleocytosis and blood–CSF barrier (BCSFB) indices; we compared TRS ( n = 32) and non-TRS ( n = 151). TRS had longer illness duration, more hospitalizations, higher antipsychotic doses and lower functioning at discharge. TRS showed elevated CSF/serum albumin and immunoglobulin quotients, indicating BCSFB dysfunction without intrathecal immunoglobulin synthesis. BCSFB dysfunction was not explained by antipsychotic dosage or clozapine treatment. Machine learning identified BCSFB dysfunction as the leading biological TRS predictor. These findings implicate BCSFB dysfunction as a candidate biomarker of TRS that warrants validation in independent cohorts before potential clinical application.</description>
+    </item>
     <item>
       <title>Genetic liability to depression has distinctive associations with cardiometabolic diseases</title>
       <link>https://doi.org/10.1038/s44220-026-00749-8</link>
@@ -1584,26 +1604,6 @@ Abstract: Abstract Minor hallucinations (MHs) affect up to 40% of patients with 
 Journal: Nature Mental Health; Volume: 4; Issue: 6; Pages: 1035-1044
 
 Abstract: Abstract Gender is a known social determinant of mental health, yet research often reduces it to binary sex/gender. Here we explored how conformity to gender norms relates to depressive symptoms across varying societal contexts. Using 2023 European Social Survey data from 194 regions across 24 countries, we combined interviewer-coded sex/gender (female or male), self-identified gender (woman, man or other) and gradational femininity and masculinity scales to create a continuous and categorical gender conformity measure, covering lower to higher self-perceived gender conformity and non-conforming individuals. Multilevel models showed that depressive symptoms were highest among non-conforming individuals. Within the same sex/gender category, less conforming individuals generally reported higher depressive symptoms compared with more conforming individuals. Crucially, these disparities were more pronounced in regions with more traditional gender regimes that had lower levels of gender equality. These findings underscore the mental health burden of gender non-conformity, especially in restrictive cultural contexts.</description>
-    </item>
-    <item>
-      <title>Adolescent multi-omics and Mendelian randomization reveal transdiagnostic molecular mechanisms in psychiatric disorders</title>
-      <link>https://doi.org/10.1038/s44220-026-00660-2</link>
-      <guid isPermaLink="false">10.1038/s44220-026-00660-2</guid>
-
-      <dc:creator>Luheng Qian</dc:creator>
-      <dc:creator>Runye Shi</dc:creator>
-      <dc:creator>Xinyang Yu</dc:creator>
-      <dc:creator>Di Chen</dc:creator>
-      <dc:creator>Tobias Banaschewski</dc:creator>
-      <dc:creator>Arun L. W. Bokde</dc:creator>
-      <dc:creator>Herta Flor</dc:creator>
-      <dc:creator>Antoine Grigis</dc:creator>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Luheng Qian, Runye Shi, Xinyang Yu, Di Chen, Tobias Banaschewski, Arun L. W. Bokde, Herta Flor, Antoine Grigis, et al.
-
-Journal: Nature Mental Health; Volume: 4; Issue: 8; Pages: 1248-1261
-
-Abstract: Abstract The biological mechanisms underlying major neuropsychiatric disorders remain largely elusive. Given the frequent association of immune dysregulation with these conditions, we used blood-derived multi-omics data from 1,274 healthy adolescents in the IMAGEN cohort to identify transdiagnostic biomarkers and mechanisms that could inform diagnosis and treatment. We first conducted genome-wide analyses to identify single nucleotide polymorphisms associated with DNA methylation and gene expression, with findings replicated in external datasets. These quantitative trait loci were further explored through Mendelian randomization analyses across 6 neuropsychiatric disorders (attention deficit hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depressive disorder, schizophrenia and insomnia), leading to the identification of 73 putatively causal CpG sites and 62 genes that were either unique to individual disorders or, as in the case of MRPL2 , shared among the disorders. Notably, the identified genes were significantly enriched in pathways linked to both psychiatric and autoimmune diseases, suggesting a shared genomic architecture between autoimmune and neuropsychiatric disorders. Two-step Mendelian randomization and colocalization analyses revealed potential transdiagnostic regulatory pathways, in which the expression of three genes ( MAD1L1 , MRPL2 and HLA-DRB1 ) mediated the effects of CpG methylation on schizophrenia and insomnia. Specifically, DNA methylation at cg06770790 repressed MRPL2 , which was putatively causal for insomnia ( β = −0.38, P = 1.29 × 10 −4 ) and schizophrenia ( β = −0.38, P = 1 × 10 −4 ). Conversely, increased expression of MAD1L1 and HLA-DRB1 , driven by methylation at several CpG sites, was potentially causal for schizophrenia. Our findings highlight key molecular mechanisms and genes implicated in neuropsychiatric disorders, offering promising new targets for therapeutic intervention.</description>
     </item>
   </channel>
 </rss>

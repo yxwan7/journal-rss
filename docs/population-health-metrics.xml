@@ -5,8 +5,25 @@
     <link>https://pophealthmetrics.biomedcentral.com/</link>
     <description>Latest journal articles for Population Health Metrics</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:13:51 +0000</lastBuildDate>
 
+    <item>
+      <title>A multidimensional, strengths-based measure of social connection: development and initial validation of the Social Connection Evaluation Measure (SCM)</title>
+      <link>https://doi.org/10.1186/s12963-026-00527-9</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00527-9</guid>
+
+      <dc:creator>Jayme Verhagen</dc:creator>
+      <dc:creator>Adam Karg</dc:creator>
+      <dc:creator>Diane Sivasubramaniam</dc:creator>
+      <dc:creator>Carleigh Yeomans</dc:creator>
+      <dc:creator>Jane Farmer</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jayme Verhagen, Adam Karg, Diane Sivasubramaniam, Carleigh Yeomans, Jane Farmer
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background The existing literature on social connection and its measurement is fragmented. Aspects of social connection are related but distinct, which means capturing social connection requires a multidimensional approach. Yet despite recent advances in multidimensional research, existing measures still often focus narrowly on single aspects, are context-specific, or are negatively worded. Methods An iterative mixed-methods approach was employed to refine and preliminarily validate a strengths-based, multidimensional measure of individuals’ subjective evaluation of their social connection for population-level assessment. Items related to social support, social connection, and a sense of belonging were categorised into structural, social support, quality, and affective dimensions to form an initial item pool. Items were removed if they were duplicated, negatively worded or context-specific. The refinement process included establishing content validity. Two national Australian panels ( n = 545 and n = 438) were used to examine the factor structure of the measure through exploratory and confirmatory factor analysis and structural equation modelling. Construct, convergent, and criterion validity were assessed, and reliability was demonstrated by internal consistency. Measurement invariance was also evaluated. Results The optimal model structure consisted of a higher-order social connection model with four distinct dimensions (“structural”, “social support”, “quality”, and “affective”) and 40 items. The affective dimension correlated most strongly with the Social Connectedness Scale, and the social support dimension correlated most strongly with the Medical Outcomes Study Social Support Survey. The Social Connection Evaluation Measure explained significantly more variance in subjective wellbeing ( R 2 = 0.59) than the Social Connectedness Scale ( R 2 = 0.27) or the Medical Outcomes Study Social Support Survey ( R 2 = 0.34). Configural, metric, scalar, and structural measurement invariance were supported across two nationally representative samples. Conclusions This study provides initial evidence for the validity of the Social Connection Evaluation Measure. It is a 40-item measure that assesses social connection through an individual’s subjective evaluation of the structure and quality of their relationships , access to support and resources , and perceived feelings of connection . By providing a common language for understanding and assessing social connection, this population-level measure can help build a stronger evidence base to inform policy and practice.</description>
+    </item>
     <item>
       <title>Scoping review of interventions and their effectiveness to improve quality of cause of death information on death certificates</title>
       <link>https://doi.org/10.1186/s12963-026-00528-8</link>
@@ -232,22 +249,6 @@ Journal: Population Health Metrics
 Abstract: Abstract Mortality surveillance, including ascertainment of fact and cause of death, is crucial for understanding disease trends and informing public health interventions and policies. Verbal autopsy (VA) interviews conducted by trained lay interviewers with the next of kin of the deceased are increasingly being used to determine causes of death (CoD), where a substantial proportion of deaths occur outside of clinical care settings. When reviewed and coded into ICD-based causes of death by physicians [Physician-Coded Verbal Autopsy (PCVA)] or by algorithms based on physician coding [Computer Coded Verbal Autopsies (CCVA)], VA data can complement mortality statistics coming from medically certified causes of death (MCCD). CCVA algorithms use discrete multiple-choice questions in the VA instrument to ascertain the probable cause of death. These algorithms have yet to fully utilize information in the narrative section of the VA. Processing unstructured and context-specific narrative data and integrating it into CCVA is challenging. In this scoping review, we review and synthesise existing literature on automation techniques applied to compute CoD using VA narratives, including Machine Learning models such as Bidirectional Encoder Representations from Transformers (BERT), Random Forest, A feedforward neural network (FNN), Extreme Gradient Boosting (XGBoost), and Support Vector Machine (SVM), and common Natural Language Processing (NLP) approaches including Term Frequency-Inverse Document Frequency (TF-IDF) and topic modeling methods such as Latent Dirichlet Allocation (LDA) that transform unstructured text into structured formats before CoD computation. Based on published studies, this review highlights the challenges and implications of using these methods. It underscores the need for open, up-to-date datasets to facilitate model comparison and improvement. Our findings suggest that integrating narratives into CoD prediction shows promise, particularly when combined with structured questionnaire data in hybrid modeling approaches. However, performance varied substantially across studies due to differences in datasets, preprocessing strategies, feature representation methods, and evaluation procedures. Although narrative-based models alone often underperform those developed from structured questions, incorporating narrative enhances CoD prediction by capturing context, chronology, and semantics, with some studies reporting improved classification performance compared to models using a single data modality.</description>
     </item>
     <item>
-      <title>Compression or expansion of morbidity: evaluating life expectancy with and without cardiovascular diseases in Denmark</title>
-      <link>https://doi.org/10.1186/s12963-026-00511-3</link>
-      <guid isPermaLink="false">10.1186/s12963-026-00511-3</guid>
-
-      <dc:creator>Chiara Micheletti</dc:creator>
-      <dc:creator>Cosmo Strozza</dc:creator>
-      <dc:creator>Alyson van Raalte</dc:creator>
-      <dc:creator>Iñaki Permanyer</dc:creator>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chiara Micheletti, Cosmo Strozza, Alyson van Raalte, Iñaki Permanyer
-
-Journal: Population Health Metrics
-
-Abstract: Abstract Background Cardiovascular diseases (CVDs) are among the leading causes of death in high-income countries and represent a major source of morbidity across the life course. Understanding how the time spent with CVD has evolved over time and how it differs between men and women requires going beyond summary measures of health expectancy, which condense complex health trajectories into a single number. Methods Using Danish population registers from 2005 to 2018, we employ novel bivariate age-at-death distributions to examine how the experience of cardiovascular morbidity is distributed across the population, how it has changed over time and how it varies by sex. Results Our findings point towards an expansion of CVD morbidity, with individuals experiencing a CVD hospital contact spending more years with the condition before death. This coincides with declining CVD incidence, as a growing proportion reach advanced ages without a hospital-recorded CVD event. Women are more likely than men to do so and spend fewer years with CVD before death. Conclusions The coexistence of expanding morbidity and declining incidence reflects progress on both prevention and treatment fronts, and need not be interpreted as a sign of worsening population health. The bivariate framework and visualisations introduced offer a valuable complement to existing health indicators, capturing the full distribution of morbidity experiences that summary measures conceal.</description>
-    </item>
-    <item>
       <title>A standardised approach to systematically select risk-outcome pairs in environmental burden of disease research</title>
       <link>https://doi.org/10.1186/s12963-026-00514-0</link>
       <guid isPermaLink="false">10.1186/s12963-026-00514-0</guid>
@@ -266,6 +267,22 @@ Abstract: Abstract Background Cardiovascular diseases (CVDs) are among the leadi
 Journal: Population Health Metrics; Volume: 24; Issue: 1; Article number: 54
 
 Abstract: Abstract Background Environmental Burden of Disease (EBoD) quantifies health impacts attributable to environmental risk factors. The methodological choice on which risk-outcome pairs to include in EBoD studies is technically and conceptually demanding, with diffuse exposures and complex causal chains. This makes transparent criteria for inclusion of risk–outcome pairs essential. In response, we developed a standardised approach for systematically and transparently selecting risk-outcome pairs within environmental burden of disease research. Methods and results The standardised approach was developed through expert elicitation and iterative discussions, ultimately resulting in five sequential steps designed to strengthen consistency and transparency: (1) define and characterise the exposure to the environmental risk factor; (2) identify potential health outcomes from the literature; (3) evaluate the strength of evidence criteria according to set criteria; (4) select risk-outcome pairs based on strength of evidence; and (5) select exposure-response functions. Conclusions By making underlying assumptions explicit, the proposed approach to the selection of risk-outcome pairs can reduce subjectivity in the selection process and support more consistent, evidence-based decisions.</description>
+    </item>
+    <item>
+      <title>Compression or expansion of morbidity: evaluating life expectancy with and without cardiovascular diseases in Denmark</title>
+      <link>https://doi.org/10.1186/s12963-026-00511-3</link>
+      <guid isPermaLink="false">10.1186/s12963-026-00511-3</guid>
+
+      <dc:creator>Chiara Micheletti</dc:creator>
+      <dc:creator>Cosmo Strozza</dc:creator>
+      <dc:creator>Alyson van Raalte</dc:creator>
+      <dc:creator>Iñaki Permanyer</dc:creator>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chiara Micheletti, Cosmo Strozza, Alyson van Raalte, Iñaki Permanyer
+
+Journal: Population Health Metrics
+
+Abstract: Abstract Background Cardiovascular diseases (CVDs) are among the leading causes of death in high-income countries and represent a major source of morbidity across the life course. Understanding how the time spent with CVD has evolved over time and how it differs between men and women requires going beyond summary measures of health expectancy, which condense complex health trajectories into a single number. Methods Using Danish population registers from 2005 to 2018, we employ novel bivariate age-at-death distributions to examine how the experience of cardiovascular morbidity is distributed across the population, how it has changed over time and how it varies by sex. Results Our findings point towards an expansion of CVD morbidity, with individuals experiencing a CVD hospital contact spending more years with the condition before death. This coincides with declining CVD incidence, as a growing proportion reach advanced ages without a hospital-recorded CVD event. Women are more likely than men to do so and spend fewer years with CVD before death. Conclusions The coexistence of expanding morbidity and declining incidence reflects progress on both prevention and treatment fronts, and need not be interpreted as a sign of worsening population health. The bivariate framework and visualisations introduced offer a valuable complement to existing health indicators, capturing the full distribution of morbidity experiences that summary measures conceal.</description>
     </item>
     <item>
       <title>Cause of death contributions to life expectancy disparity in Fiji between Indigenous iTaukei and Fijians of Indian descent: a retrospective observational analysis of national mortality data from 2018 to 2023</title>
@@ -1582,24 +1599,6 @@ Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 64</de
       <description>Authors: Qiaohui Wu, Linjian Wu, Xueqing Liang, Yihan Zhang, Yingmeng Chen, Zhen Ma
 
 Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 65</description>
-    </item>
-    <item>
-      <title>Life-course socioeconomic status and obesity: scoping review</title>
-      <link>https://doi.org/10.1186/s12963-025-00424-7</link>
-      <guid isPermaLink="false">10.1186/s12963-025-00424-7</guid>
-
-      <dc:creator>Habila Adamou</dc:creator>
-      <dc:creator>Marie-Claude Paquette</dc:creator>
-      <dc:creator>Dener François</dc:creator>
-      <dc:creator>Éric Robitaille</dc:creator>
-      <dc:creator>Sékou Samadoulougou Ouindpanga</dc:creator>
-      <dc:creator>Alexandre Lebel</dc:creator>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Authors: Habila Adamou, Marie-Claude Paquette, Dener François, Éric Robitaille, Sékou Samadoulougou Ouindpanga, Alexandre Lebel
-
-Journal: Population Health Metrics; Volume: 23; Issue: 1; Article number: 63
-
-Abstract: Abstract Objectif The life-course approach is believed to enhance our understanding of the intricate links between life-course socioeconomic status and obesity. In this scoping review, we delve into the literature that examines the links between life-course socioeconomic status and obesity and aim to characterize the life-course approach that was used. Methods Our search strategy was based on the PRISMA checklist and was performed using three databases: Medline (PubMed), GeoBase (Embase), and Web of Science. We focused on studies that identify life-course socioeconomic and built environment indicators and associate them with body weight status indicators. Results Using stringent inclusion criteria, we identified 52 relevant studies. Our analysis identified three main methodological strategies for studying the influence of life-course socioeconomic status on obesity. The main methodological approaches identified that characterize life-course approach are: 1) sensitive periods, 2) social mobility, or 3) risk accumulation. We found that low socioeconomic status in childhood, adulthood, or late adulthood; a disadvantaged socioeconomic trajectory; and cumulative exposure to socioeconomic disadvantages throughout the life-course increased the risk of obesity. Notably, the association between life-course socioeconomic status and obesity was significantly stronger for women in 56% of the studies. Conclusion The social inequalities in obesity observed today are the outcome of socioeconomic inequalities accumulated over the life course. 56% of studies show that the influence of life-course socioeconomic status on socioeconomic inequalities in obesity is even stronger in women. Policymakers should prioritize specific interventions aimed at reducing socioeconomic disparities in obesity, particularly among women.</description>
     </item>
   </channel>
 </rss>
