@@ -5,7 +5,7 @@
     <link>https://www.science.org/journal/science</link>
     <description>Latest journal articles for Science</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 16:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:31:00 +0000</lastBuildDate>
 
     <item>
       <title>AI-based digital pathology defines spatial border ecosystems in triple-negative breast cancer</title>
@@ -96,6 +96,17 @@ Abstract: Interdisciplinary communication and education research can help the ne
 Journal: Science; Volume: 394; Issue: 6827; Pages: 1034-1034</description>
     </item>
     <item>
+      <title>Moving beyond hyperscale ambitions for AI infrastructure in Africa</title>
+      <link>https://doi.org/10.1126/science.aen1227</link>
+      <guid isPermaLink="false">10.1126/science.aen1227</guid>
+
+      <dc:creator>Chinasa T. Okolo</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Chinasa T. Okolo
+
+Journal: Science; Volume: 394; Issue: 6827; Article number: eaen1227</description>
+    </item>
+    <item>
       <title>An engineered cohesion system reduces errors in aged mammalian eggs</title>
       <link>https://doi.org/10.1126/science.aei5852</link>
       <guid isPermaLink="false">10.1126/science.aei5852</guid>
@@ -114,17 +125,6 @@ Journal: Science; Volume: 394; Issue: 6827; Pages: 1034-1034</description>
 Journal: Science; Volume: 394; Issue: 6827; Pages: 982-989
 
 Abstract: In humans, female fertility declines rapidly from approximately 35 years onward owing to a steep increase in eggs in which chromosomes have split prematurely or that harbor an incorrect number of chromosomes (aneuploid eggs). A leading cause of age-related aneuploidy in eggs is the premature separation of sister chromatids (PSSC), which is caused by a loss of cohesin from chromosomes. In this study, we created an artificial cohesion system that reduces PSSC in aged mouse eggs. We further engineered a separase-cleavable sequence into the system, allowing for its scheduled deactivation during anaphase. We demonstrated that the artificial cohesion system could be adapted to tether human chromosomes, providing a proof of principle for the future development of approaches to reduce PSSC in eggs from women of advanced reproductive age.</description>
-    </item>
-    <item>
-      <title>Moving beyond hyperscale ambitions for AI infrastructure in Africa</title>
-      <link>https://doi.org/10.1126/science.aen1227</link>
-      <guid isPermaLink="false">10.1126/science.aen1227</guid>
-
-      <dc:creator>Chinasa T. Okolo</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Chinasa T. Okolo
-
-Journal: Science; Volume: 394; Issue: 6827; Article number: eaen1227</description>
     </item>
     <item>
       <title>Nutritional interventions’ impacts on human milk: Three trials in low-resource settings</title>
@@ -332,6 +332,26 @@ Journal: Science; Volume: 394; Issue: 6827; Pages: 967-971
 Abstract: Ribonucleotide reductase (RNR) is the sole enzyme responsible for de novo deoxynucleotide synthesis for DNA replication and repair. In the Escherichia coli class Ia RNR, a radical must traverse 32 angstroms along a pathway composed of amino acids spanning β and α subunits to complete each turnover. By incorporating unnatural amino acids to alter reduction potentials of pathway tyrosine residues, we (i) perturb the rates of radical transfer and show that they match the rates of deoxynucleotide production and (ii) directly observe a tryptophan cation radical (W 48 + •) as a kinetically competent pathway intermediate. Together, these results establish that radical transfer through W 48 in α 2 β 2 is the rate-limiting process, which controls the enzymatic activity of E. coli RNR.</description>
     </item>
     <item>
+      <title>Atomic functional site scaffolding in biopolymers with RFdiffusion3</title>
+      <link>https://doi.org/10.1126/science.aeh2982</link>
+      <guid isPermaLink="false">10.1126/science.aeh2982</guid>
+
+      <dc:creator>Jasper Butcher</dc:creator>
+      <dc:creator>Rohith Krishna</dc:creator>
+      <dc:creator>Raktim Mitra</dc:creator>
+      <dc:creator>Seth M. Woodbury</dc:creator>
+      <dc:creator>Donghyo Kim</dc:creator>
+      <dc:creator>Rafael I. Brent</dc:creator>
+      <dc:creator>Yanjing Li</dc:creator>
+      <dc:creator>Nathaniel Corley</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jasper Butcher, Rohith Krishna, Raktim Mitra, Seth M. Woodbury, Donghyo Kim, Rafael I. Brent, Yanjing Li, Nathaniel Corley, et al.
+
+Journal: Science; Volume: 394; Issue: 6827; Article number: eaeh2982
+
+Abstract: The catalytic and other sophisticated functions of biomolecules arise from the placement of many atoms in three-dimensional space. We describe a generative artificial intelligence method for biopolymers, RFdiffusion3 (RFD3), which uses free-atom diffusion to satisfy complex sets of atomic constraints more rapidly and accurately than previous methods across several challenges, from enzyme design to RNA structure design. We demonstrate experimentally the power of the RFD3 pipeline for enzyme design by designing de novo phosphotriesterases with a complex active-site architecture that incorporates a carbamylated lysine coordinating two metal ions and zinc proteases specific for the transthyretin protein involved in amyloid diseases; in both cases, we obtained active catalysts in zero-shot 96 construct design campaigns.</description>
+    </item>
+    <item>
       <title>Binding kinetics enable tumor-selective MAPK and growth suppression by a Type 1 RAF inhibitor</title>
       <link>https://doi.org/10.1126/science.aed6493</link>
       <guid isPermaLink="false">10.1126/science.aed6493</guid>
@@ -363,26 +383,6 @@ Abstract: Targeting the RAS/MAPK pathway has long been constrained by dose-limit
 Journal: Science; Volume: 394; Issue: 6827; Pages: 925-926
 
 Abstract: Engineered antibodies may produce remissions, offer safety benefits</description>
-    </item>
-    <item>
-      <title>Atomic functional site scaffolding in biopolymers with RFdiffusion3</title>
-      <link>https://doi.org/10.1126/science.aeh2982</link>
-      <guid isPermaLink="false">10.1126/science.aeh2982</guid>
-
-      <dc:creator>Jasper Butcher</dc:creator>
-      <dc:creator>Rohith Krishna</dc:creator>
-      <dc:creator>Raktim Mitra</dc:creator>
-      <dc:creator>Seth M. Woodbury</dc:creator>
-      <dc:creator>Donghyo Kim</dc:creator>
-      <dc:creator>Rafael I. Brent</dc:creator>
-      <dc:creator>Yanjing Li</dc:creator>
-      <dc:creator>Nathaniel Corley</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jasper Butcher, Rohith Krishna, Raktim Mitra, Seth M. Woodbury, Donghyo Kim, Rafael I. Brent, Yanjing Li, Nathaniel Corley, et al.
-
-Journal: Science; Volume: 394; Issue: 6827; Article number: eaeh2982
-
-Abstract: The catalytic and other sophisticated functions of biomolecules arise from the placement of many atoms in three-dimensional space. We describe a generative artificial intelligence method for biopolymers, RFdiffusion3 (RFD3), which uses free-atom diffusion to satisfy complex sets of atomic constraints more rapidly and accurately than previous methods across several challenges, from enzyme design to RNA structure design. We demonstrate experimentally the power of the RFD3 pipeline for enzyme design by designing de novo phosphotriesterases with a complex active-site architecture that incorporates a carbamylated lysine coordinating two metal ions and zinc proteases specific for the transthyretin protein involved in amyloid diseases; in both cases, we obtained active catalysts in zero-shot 96 construct design campaigns.</description>
     </item>
     <item>
       <title>Genomic data need a stronger equity framework</title>
@@ -1365,6 +1365,19 @@ Abstract: Condensates help drive the budding of vesicles from the tips of cilia<
 Journal: Science; Volume: 394; Issue: 6825; Pages: 729-729</description>
     </item>
     <item>
+      <title>Prolific infectious diseases group draws scrutiny</title>
+      <link>https://doi.org/10.1126/science.aeo0642</link>
+      <guid isPermaLink="false">10.1126/science.aeo0642</guid>
+
+      <dc:creator>Jon Cohen</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Authors: Jon Cohen
+
+Journal: Science; Volume: 394; Issue: 6825; Pages: 709-711
+
+Abstract: Critics question Pathogen Hunters’s massive global sampling efforts and baffling genetic data</description>
+    </item>
+    <item>
       <title>Direct monitoring of breaching in deltaic submarine landslides</title>
       <link>https://doi.org/10.1126/science.aef8444</link>
       <guid isPermaLink="false">10.1126/science.aef8444</guid>
@@ -1383,19 +1396,6 @@ Journal: Science; Volume: 394; Issue: 6825; Pages: 729-729</description>
 Journal: Science; Volume: 394; Issue: 6825; Pages: 758-762
 
 Abstract: Submarine landslides threaten seabed infrastructure and trigger the transport of globally important amounts of sediment, carbon, and pollutants to deep-sea environments. However, fully submarine landslides have never been directly monitored in nature. Past hypotheses for their failure mechanism and dynamics therefore remain unvalidated for natural settings, including that prolonged upslope-migrating failures (breaching) occur in sandy seafloor environments. In this work, we present direct underwater monitoring of fully submarine landslides at Homathko Delta in western Canada that retrogress slowly upslope, indicating breaching-type failure. Their prolonged rather than instantaneous nature has important implications for the stress that seabed structures must be designed to withstand. Prolonged landslides also initiate sustained sediment flows (turbidity currents) that efficiently transport sediment, carbon, and pollutants further offshore.</description>
-    </item>
-    <item>
-      <title>Prolific infectious diseases group draws scrutiny</title>
-      <link>https://doi.org/10.1126/science.aeo0642</link>
-      <guid isPermaLink="false">10.1126/science.aeo0642</guid>
-
-      <dc:creator>Jon Cohen</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Authors: Jon Cohen
-
-Journal: Science; Volume: 394; Issue: 6825; Pages: 709-711
-
-Abstract: Critics question Pathogen Hunters’s massive global sampling efforts and baffling genetic data</description>
     </item>
     <item>
       <title>Giant elastoresistance in magic-angle twisted bilayer graphene</title>
